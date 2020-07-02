@@ -1,0 +1,27 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+4 2010 @
+4 3000 None 0 #
+0 3010 #
+0 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 D _param p ST_LEVEL } 60 R _param p PE_KILLER + 1 R _script perks@killer 0  &
+
+[engl]
+{100}{}{Guy with blood on his body.}
+{210}{}{Bloodymess that's his trait for sure.}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{[looks busy and his eyes looks crazy, all in blood]}
+{2010}{}{What happen here?}
+{3000}{}{Well, you don't want be next right? Or should I show you how to massacre someone to be all in blood too?}
+{3010}{}{Yes, i don't want be next.}
+{3020}{}{Could you show me how?}
+

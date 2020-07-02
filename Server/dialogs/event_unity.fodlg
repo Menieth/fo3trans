@@ -1,0 +1,32 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+4 2010 D _param p ST_NPC_ROLE = 212 #
+0 2020 @
+4 3000 None 0 #
+0 3010 R _script map_events@r_tp 1 212 #
+0 3020 @
+3 4000 None 0 #
+0 4010 &
+
+[engl]
+{100}{}{Unity Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Good! You will help us to fight for the indepedence! Here is your gear, fight with honor! Are you ready?}
+{3010}{}{I am. Lets get to it.}
+{3020}{}{give me a minute}
+{4000}{}{You are not in the list... Damn spies...}
+{4010}{}{Aha... Yeah...Right.}
+

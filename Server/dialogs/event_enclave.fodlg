@@ -1,0 +1,32 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+4 2010 D _param p ST_NPC_ROLE = 204 #
+0 2020 @
+4 3000 None 0 #
+0 3010 R _script map_events@r_tp 1 204 #
+0 3020 @
+3 4000 None 0 #
+0 4010 &
+
+[engl]
+{100}{}{Enclave Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want join to join the battle}
+{2020}{}{Uh, nothing.}
+{3000}{}{Fine. Our men need a backup, so you better fight with whole your power for your nation. Here is your ammunition, you better not loose it. Do you understand that, private? Are you ready for the battle?}
+{3010}{}{Yes, sir!}
+{3020}{}{Ehm... Later.}
+{4000}{}{WHAT?! YOU ARE NOT IN THE LIST! DID YOU THINK YOU COULD FOOL ME?}
+{4010}{}{I better go...}
+

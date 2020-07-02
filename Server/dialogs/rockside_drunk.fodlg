@@ -1,0 +1,18 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 &
+
+[engl]
+{100}{}{Drunk}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eeh?@@Heard some news from Virginia? Is it any better nowadays?@@I always wondered why won't they let me serve Enclave...@@Whatever Jet is doing in Boston...@@Khouse? Never heard about this guy... @@Hah... Another Vault Dweller. A less epic verson however...}
+

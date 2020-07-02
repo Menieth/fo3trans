@@ -1,0 +1,57 @@
+[comment]
+Common dialog for each faction's mainframe used to manage players' database.
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 0 #
+2 1010 @
+2 2000 None 0 #
+3 2010 #
+3 2020 #
+3 2030 #
+0 2040 R _script daily_quest@init_quest 0  #
+0 2050 @
+3 3000 None 0 #
+0 3010 &
+
+[engl]
+{100}{}{Diab... Weird guy}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{2000}{}{[Weird person in robe sitting near table with many maps on]}
+{2010}{}{Hello?}
+{2020}{}{Hi, do you have any job to do?}
+{2030}{}{Are you there?}
+{2040}{}{[look at maps]}
+{2050}{}{[leave]}
+{3000}{}{[He not anwer]}
+{3010}{}{[move back]}
+{100000000}{}{Unknown}
+{100000001}{}{None}
+{100000002}{}{Brotherhood of Steel}
+{100000003}{}{Enclave}
+{100000004}{}{The Unity}
+{100000005}{}{New California Republic}
+{100000006}{}{Vault City}
+{100000010}{}{Unknown}
+{100000011}{}{Friend}
+{100000012}{}{Neutral}
+{100000013}{}{Enemy}
+{100000014}{}{Invited}
+{100000015}{}{Claimed leadership.}
+{100000020}{}{Unknown}
+{100000021}{}{New member}
+{100000022}{}{Accepted member}
+{100000023}{}{Trusted member}
+{100000024}{}{Important member}
+{100000025}{}{Leader}
+{100000030}{}{You've entered wrong faction name.}
+{100000031}{}{Channel changed.}
+{100000032}{}{Wrong channel.}
+{100000040}{}{ has claimed leadership.}
+{100000041}{}{You have claimed leadership - time left: }
+{100000042}{}{Choose the action you want to perform:}
+

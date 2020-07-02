@@ -1,0 +1,32 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+4 2010 D _param p ST_NPC_ROLE = 209 #
+0 2020 @
+4 3000 None 0 #
+0 3010 R _script map_events@r_tp 1 209 #
+0 3020 @
+3 4000 None 0 #
+0 4010 &
+
+[engl]
+{100}{}{Brotherhood Paladin}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, outsider?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Alright, outsider. Your will is appreciated. You will fight together with our brothers. Here is your gear, DO NOT loose it. Are you ready for the battle?}
+{3010}{}{I am. Let's roll.}
+{3020}{}{Just a minute, please...}
+{4000}{}{It seems like you are not with us... outsider.}
+{4010}{}{Ah... yeah... true.}
+

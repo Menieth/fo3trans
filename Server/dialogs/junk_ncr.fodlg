@@ -1,0 +1,18 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 &
+
+[engl]
+{100}{}{NCR soldier}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Behave.@@I am watching you.@@People don't seem to be happy about us.@@Damn raiders everywhere...@@What is it?@@Hello.@@Sorry, I am on duty.@@Hey.}
+

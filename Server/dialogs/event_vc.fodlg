@@ -1,0 +1,32 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+4 2010 D _param p ST_NPC_ROLE = 206 #
+0 2020 @
+4 3000 None 0 #
+0 3010 R _script map_events@r_tp 1 206 #
+0 3020 @
+3 4000 None 0 #
+0 4010 &
+
+[engl]
+{100}{}{Vault City Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Sure thing, guardsman. Here is your battle gear. Are you ready for the operation?}
+{3010}{}{Guess I am ready.}
+{3020}{}{I think I will be back later.}
+{4000}{}{I don't see you in the order list. Who the hell are you?}
+{4010}{}{Ah... I better go.}
+

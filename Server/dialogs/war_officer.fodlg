@@ -1,0 +1,34 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+0 2010 D _param n SK_SPEECH = 300 R _script cheats@dlg_Teleport 1 1 #
+0 2020 D _param n SK_SPEECH = 150 R _script cheats@dlg_Teleport 1 2 #
+0 2030 D _param n SK_SPEECH = 200 R _script cheats@dlg_Teleport 1 0 #
+65506 2040 #
+65506 2050 @
+3 3000 None 0 #
+0 3010 R _script cheats@dlg_Teleport 1 3 #
+65505 3020 &
+
+[engl]
+{100}{}{Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want to join the battle}
+{2020}{}{I want to join the battle}
+{2030}{}{I want to join the battle}
+{2040}{}{I want to buy something}
+{2050}{}{I want to leave this event}
+{3000}{}{Are you sure? You wont get reward and you wont get reward}
+{3010}{}{Yes, I'm Sure}
+{3020}{}{No... wait}
+

@@ -1,0 +1,28 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+4 2010 @
+4 3000 None 0 #
+0 3010 #
+5 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p ST_LEVEL } 80 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 R _param p PE_HUNTER = 1 R _param p ST_LUCK + 3 @
+5 4000 None 0 &
+
+[engl]
+{100}{}{Doherty Adams}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Hmh?}
+{2010}{}{You look tough. I heard you are the legendary hunter, aren't you?}
+{3000}{}{[ He stares at you silently ]}
+{3010}{}{I better go.}
+{3020}{}{Teach me how to be like that.}
+{4000}{}{Fine... Here you go. Now leave.}
+

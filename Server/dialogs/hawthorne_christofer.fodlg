@@ -1,0 +1,18 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 1 &
+
+[engl]
+{100}{}{Christofer}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
+

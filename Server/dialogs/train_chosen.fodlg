@@ -1,0 +1,52 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+5 2010 @
+4 3000 None 0 #
+0 3010 #
+0 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p ST_LEVEL } 30 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 R _param p PE_CHOSEN = 1 R _script perks@czosnek 0  @
+5 4000 None 0 #
+6 4010 #
+0 4020 #
+9 4030 @
+6 5000 None 0 #
+7 5010 D _param p ST_LEVEL { 20 #
+8 5020 D _param p ST_LEVEL < 100 D _param p ST_LEVEL > 20 #
+8 5030 D _param p ST_LEVEL < 100 D _param p ST_LEVEL > 50 #
+4 5040 #
+0 5050 @
+7 6000 None 0 @
+8 7000 None 0 @
+9 8000 None 0 &
+
+[engl]
+{100}{}{Vic}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Hello, can I help you with something?}
+{2010}{}{Vic, huh? You are very well known all over the wastes.}
+{3000}{}{Fine... Are you sure you want to hear this? It may change your life and there might be no way back.}
+{3010}{}{Not now.}
+{3020}{}{I'm all in ears.}
+{4000}{}{Not me, but the Chosen One I guess. I am just the guy who used to be a good things carrier, ahah... Anyway, what are you here for?}
+{4010}{}{I want to hear the story about the Chosen One. The WHOLE story. So I want you to tell me everything about him.}
+{4020}{}{Nothing, see ya.}
+{4030}{}{For nothing, fatass.}
+{5000}{}{Why should I?}
+{5010}{}{And why not?}
+{5020}{}{Your knowledge may help me in my everyday struggle in this God - forsaken Wasteland. Isn't it obvious?}
+{5030}{}{Look, I crawled around this State not for your stupid questions! I want to hear your story!}
+{5040}{}{Because in another way I will just blow your brain out of your head and will use it for luring Deathclaws.}
+{5050}{}{Actually. You shouldn't. I better go.}
+{6000}{}{Listen, these things are not for your ears. You look like a person who has just left some very cozy and comfortable vault. In another words - you are not experienced at all for such stories.}
+{7000}{}{Look here, these things are not for your ears... yet. I understand that you have already tasted many wonders of the wasnteland but still... You don't have enough experience.}
+{8000}{}{Scum...}
+

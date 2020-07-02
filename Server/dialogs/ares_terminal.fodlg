@@ -1,0 +1,47 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+0 2010 &
+
+[engl]
+{100}{}{Terminal}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{SYSTEM LOG [NEED UPDATE: RECORDING ERROR]
+
+\\\
+...Starting system sequence: AR3S-4...
+...Missle #1 ready...
+...Missle #2 ready...
+...Missle #3 ready...
+...Initiate starting sequence...
+...5...
+...4...
+...3...
+...2...
+...1....
+...Missle #1 start: SUCCESS...
+...Missle #2 start: SUCCESS...
+...Missle #3 start: SUCCESS...
+...Initiate21p4jj;'1'9240104011-1=
+...SYSTE<M ERR---00RR: UNABLE TO AUTOMATICLLY CLOSE SHAFT #1. STRAIGHT ACTIVATION IS NEEDED...
+...SYSTE,\alghj
+[RECORDING ERROR: REBOOT OF THE SYSTEM IS NEEDED]
+SEND HELP
+
+DOC.ROBBINS
+RADIATION LEVELS RISING
+SEND EVAC TEAM HURRY PLEASE
+DOC.STURDYS EYES JUST MELTED DOWN
+OH GOD MY SKIN IS FALLING OFF
+PLEASE SEND HELP}
+{2010}{}{[ Exit ]}
+
