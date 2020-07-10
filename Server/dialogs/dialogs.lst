@@ -758,6 +758,7 @@ $   6668	train_random
 $ 6669 train_killer
 $ 6670 train_asa
 $ 6680 cyborg
+$ 6681 leader
 
 $ 7000 skintest
 	8100	trib_sulik
@@ -1276,5 +1277,11 @@ $   22372   cit1
 $   22373   cit2
 $   22374   cit3
 $   22375   cit_term
-   22376   vegas_secretary
+$   22377   vegas_magazine1
+$   22378   vegas_magazine2
+
+
+
+$   40004   all_exploding_barrel
+$   40005   all_sandbag
 ************************************************************

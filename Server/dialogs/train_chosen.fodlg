@@ -9,10 +9,11 @@ lang=engl
 1 1000 None 1 #
 2 1010 @
 2 2000 None 0 #
-5 2010 @
+5 2010 #
+10 2020 D _param p ST_NPC_ROLE = 5 @
 4 3000 None 0 #
 0 3010 #
-0 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p ST_LEVEL } 30 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 R _param p PE_CHOSEN = 1 R _script perks@czosnek 0  @
+10 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p ST_LEVEL } 30 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 D _param p PE_LEADER = 0 D _param p PE_PARAMEDIC = 0 R _param p PE_CHOSEN = 1 R _script perks@czosnek 0  R _param p ST_NPC_ROLE = 5 @
 5 4000 None 0 #
 6 4010 #
 0 4020 #
@@ -25,7 +26,24 @@ lang=engl
 0 5050 @
 7 6000 None 0 @
 8 7000 None 0 @
-9 8000 None 0 &
+9 8000 None 0 @
+10 9000 None 0 #
+0 9010 D _param p TRAIT_BLOODY_MESS = 0 R _param p TRAIT_BLOODY_MESS = 1 R _param p ST_NPC_ROLE = 0 #
+0 9020 D _param p TRAIT_BONEHEAD = 0 R _param p TRAIT_BONEHEAD = 1 R _param p ST_NPC_ROLE = 0 #
+0 9030 D _param p TRAIT_BRUISER = 0 R _param p TRAIT_BRUISER = 1 R _param p ST_NPC_ROLE = 0 #
+0 9040 D _param p TRAIT_CHEM_RELIANT = 0 R _param p TRAIT_CHEM_RELIANT = 1 R _param p ST_NPC_ROLE = 0 #
+0 9050 D _param p TRAIT_FAST_METABOLISM = 0 R _param p TRAIT_FAST_METABOLISM = 1 R _param p ST_NPC_ROLE = 0 #
+0 9060 D _param p TRAIT_FAST_SHOT = 0 R _param p TRAIT_FAST_SHOT = 1 R _param p ST_NPC_ROLE = 0 #
+0 9070 D _param p TRAIT_FINESSE = 0 R _param p TRAIT_FINESSE = 1 R _param p ST_NPC_ROLE = 0 #
+0 9080 D _param p TRAIT_GOOD_NATURED = 0 R _param p TRAIT_GOOD_NATURED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9090 D _param p TRAIT_HEAVY_HANDED = 0 R _param p TRAIT_HEAVY_HANDED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9100 D _param p TRAIT_JINXED = 0 R _param p TRAIT_JINXED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9110 D _param p TRAIT_KAMIKAZE = 0 R _param p TRAIT_KAMIKAZE = 1 R _param p ST_NPC_ROLE = 0 #
+0 9120 D _param p TRAIT_LONER = 0 R _param p TRAIT_LONER = 1 R _param p ST_NPC_ROLE = 0 #
+0 9130 D _param p TRAIT_ONE_HANDER = 0 R _param p TRAIT_ONE_HANDER = 1 R _param p ST_NPC_ROLE = 0 #
+0 9140 D _param p TRAIT_SMALL_FRAME = 0 R _param p TRAIT_SMALL_FRAME = 1 R _param p ST_NPC_ROLE = 0 #
+0 9150 D _param p TRAIT_SKILLED = 0 R _param p TRAIT_SKILLED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9160 D _param p TRAIT_CHEM_RESISTANT = 0 R _param p TRAIT_CHEM_RESISTANT = 1 R _param p ST_NPC_ROLE = 0 &
 
 [engl]
 {100}{}{Vic}
@@ -33,6 +51,7 @@ lang=engl
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
 {2010}{}{Vic, huh? You are very well known all over the wastes.}
+{2020}{}{I forgot to choose trait}
 {3000}{}{Fine... Are you sure you want to hear this? It may change your life and there might be no way back.}
 {3010}{}{Not now.}
 {3020}{}{I'm all in ears.}
@@ -49,4 +68,21 @@ lang=engl
 {6000}{}{Listen, these things are not for your ears. You look like a person who has just left some very cozy and comfortable vault. In another words - you are not experienced at all for such stories.}
 {7000}{}{Look here, these things are not for your ears... yet. I understand that you have already tasted many wonders of the wasnteland but still... You don't have enough experience.}
 {8000}{}{Scum...}
+{9000}{}{Choose Trait!}
+{9010}{}{BloodyMess}
+{9020}{}{Bonehead}
+{9030}{}{Bruiser}
+{9040}{}{Chem Reliant}
+{9050}{}{Fast Metabolism}
+{9060}{}{Fast Shot}
+{9070}{}{Finesse}
+{9080}{}{Good Natured}
+{9090}{}{Heavy Handed}
+{9100}{}{Jinxed}
+{9110}{}{Kamikaze}
+{9120}{}{Loner}
+{9130}{}{One Hander}
+{9140}{}{Small Frame}
+{9150}{}{Gifted}
+{9160}{}{Cannibal}
 

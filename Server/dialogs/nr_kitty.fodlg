@@ -129,10 +129,9 @@ lang=engl
 36 36000 None 0 #
 0 36010 @
 500 37000 None 0 #
-501 37010 D _script perks@d_PerkCheck 1 450 R _param p PE_SEX_APPEAL = 1 #
-501 37020 D _script perks@d_PerkCheck 1 399 R _param p PE_MAGNETIC_PERSONALITY = 1 #
-501 37030 D _script perks@d_PerkCheck 1 392 R _param p PE_HARMLESS = 1 #
-12 37040 @
+501 37010 D _script perks@d_PerkCheck 1 399 R _param p PE_MAGNETIC_PERSONALITY = 1 #
+501 37020 D _script perks@d_PerkCheck 1 392 R _param p PE_HARMLESS = 1 #
+12 37030 @
 501 38000 None 0 #
 12 38010 #
 0 38020 &
@@ -265,10 +264,9 @@ lang=engl
 {36000}{}{Okay but still, keep this quiet?}
 {36010}{}{Of course, Miss Kitty.}
 {37000}{}{[She stares at you for a moment, somewhat surprised, then put herself together again] I'm flattered, indeed! Well, what would you like to hear then, sweetie?}
-{37010}{}{How do you manage to look so... sexy? [Sex Appeal]}
-{37020}{}{I bet every man in New Reno would follow you straight to hell and back. You must reveal me the secret of your magnetic personality! [Magnetic personality]}
-{37030}{}{You look so harmless, yet very dangerous! How do you do that? [Harmless]}
-{37040}{}{Well... erhm... I have no idea. I think I was going to ask you something else, after all.}
+{37010}{}{I bet every man in New Reno would follow you straight to hell and back. You must reveal me the secret of your magnetic personality! [Magnetic personality]}
+{37020}{}{You look so harmless, yet very dangerous! How do you do that? [Harmless]}
+{37030}{}{Well... erhm... I have no idea. I think I was going to ask you something else, after all.}
 {38000}{}{Oh, that's quite a story! [You listen for a while]}
 {38010}{}{That was indeed quite a story, Miss Kitty! Let me ask you about something else then.}
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}

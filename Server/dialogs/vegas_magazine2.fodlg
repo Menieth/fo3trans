@@ -1,0 +1,22 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+2 2010 D _item p PID_BOTTLE_CAPS } 150 R _item p PID_BOTTLE_CAPS - 150 R _item p PID_FIRST_AID_BOOK + 1 #
+2 2020 &
+
+[engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This device sells "First Aid" magazines for 150 caps each. ]}
+{2010}{}{[ Buy a magazine ]}
+{2020}{}{[ Leave ]}
+

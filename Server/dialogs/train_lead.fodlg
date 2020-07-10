@@ -1,0 +1,33 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 @
+2 2000 None 0 #
+5 2010 @
+4 3000 None 0 #
+0 3010 #
+0 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 D _param p PE_LEADER = 0 D _param p PE_PARAMEDIC = 0 D _param p ST_LEVEL } 65 R _param p PE_LEADER + 1 @
+5 4000 None 0 #
+4 4010 #
+0 4020 &
+
+[engl]
+{100}{}{Le Mark}
+{210}{}{Here you are... Meet the soldier.}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{If fighting is sure to result in victory, then you must fight! San Tzu said that, and I'd say he knows a little more about fighting...}
+{2010}{}{Eeh...? }
+{3000}{}{Are you sure? This require some proper experience and expierience!}
+{3010}{}{Then my answer is no.}
+{3020}{}{YES sir}
+{4000}{}{What... What is it?}
+{4010}{}{I want to be a Great Leader like you. Our nation needs us!}
+{4020}{}{Nothing. Bye.}
+
