@@ -2563,6 +2563,15 @@
 {8185}{}{07desert}
 {8186}{}{gntlwin1:20, gntlwind:20, dogbark:20, dogbark:20, gustwin1:10, gustwind:10}
 
+# Map 901, base 9020
+{9020}{}{Paradise Valley}
+{9025}{}{04brthrh}
+{9026}{}{brdchir1:20, brdchirp:20, gntlwind:20, gntlwin1:20, gustwind:10, blank:10}
+
+# Map 902, base 9030
+{9030}{}{Valley under}
+{9035}{}{15shady}
+{9036}{}{gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal:10}
 
 #
 # Global map
@@ -4173,7 +4182,7 @@
 
 # Talchem California HQ, pid 371, base 471000
 {471000}{}{Talchem California HQ}
-{471005}{}{An abandoned compound.}
+{471005}{}{An abandoned compound. It is believed that TalChem used to be a company made by West Tek. The multiple signs near it say: "BIOHAZARD! THE NEW PLAGUE DANAGER!"}
 {471010}{}{12}
 {471020}{}{art\intrface\Twnmap02.frm}
 {471030}{}{art\intrface\Wm_02.frm}
@@ -4293,7 +4302,7 @@
 {491030}{}{art\intrface\wm_chey.frm}
 
 # Wind of War, pid 392, base 492000
-{492000}{}{Wind of War}
+{492000}{}{An old settlement made by survived soldiers from Hawthorne Military Base.}
 {492005}{}{}
 {492010}{}{12}
 {492030}{}{art\intrface\wm_wowar.frm}
@@ -4573,6 +4582,9 @@
 {578172}{}{100}
 {578173}{}{300}
 
+{602000}{}{Paradise Valley}
+{602005}{}{Old ruins of Las Vegas suburbs. It is still believed that this place hides many unique blueprints, stored by the local band of techno cultists.}
+{602010}{}{6}
 
 #
 # Worldmap Encounter messages

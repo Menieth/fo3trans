@@ -4,7 +4,7 @@
 
 
 # Version info
-{1}{}{FOnline 3 v2.9
+{1}{}{FOnline 3 v3.0
 
 ####################################################################################################################################
 #
@@ -1482,8 +1482,8 @@
 {102031}{}{Close Combat}
 {102032}{}{A combination of martial arts, non-ranged weapons in hand-to-hand, or melee combat - knives, sledgehammers, spears, clubs and so on.}
 # SK_MELEE_WEAPONS
-{102041}{}{Reserved}
-{102042}{}{This skill is no longer useful, but it might be changed some day.}
+{102041}{}{Engineering}
+{102042}{}{The knowledge of constructing advanced objects.}
 # SK_THROWING
 {102051}{}{Throwing}
 {102052}{}{The skill of muscle-propelled ranged weapons, such as throwing knives, spears and grenades.}
@@ -1987,17 +1987,17 @@
 {104381}{}{Even Tougher}
 {104382}{}{When you are even tougher, you take even less damage. You gain +10% to your Damage Resistance and +3 to your Damage Threshold.}
 # PE_HEALER_II                (439)
-{104391}{}{Healer+}
-{104392}{}{The healing of bodies comes easier to you with this Perk. This Perk heals 20-40 additional hit points when using the First Aid}
+{104391}{}{Firegeckon's Slayer}
+{104392}{}{deal extra damage against Firegeckons NPCs}
 # PE_BLESSED_ARE_THE_WEAK     (440)
-{104401}{}{Blessed are the Weak}
-{104402}{}{You are able to bring people back from the brink of death. You can heal people even when they are Weakened.}
+{104401}{}{Floater's Slayer}
+{104402}{}{deal extra damage against floaters NPCs}
 # PE_NIGHT_PERSON             (441)
-{104411}{}{Night Person}
-{104412}{}{}
+{104411}{}{Class Perk: Leader}
+{104412}{}{Allow yoou to create a flag, gives bonuses to whole faction, but this bonus its taken from you}
 # PE_MELT_INTO_SHADOW         (442)
-{104421}{}{Melt Into Shadow}
-{104422}{}{}
+{104421}{}{Robot's Slayer}
+{104422}{}{deal extra damage against Robots NPCs}
 # PE_BONUS_HTH_DAMAGE_II      (443)
 {104431}{}{More HtH Criticals}
 {104432}{}{Mastery in unarmed combat has given you the edge when it comes to damage.  You cause +15% critical chance with hand-to-hand and melee attacks.}
@@ -2011,26 +2011,26 @@
 {104461}{}{Better HtH Criticals}
 {104462}{}{The critical hits you cause in hand to hand combat are more devastating. You gain a +25 bonus on the critical hit table. This does not affect the chance to cause a critical hit.}
 # PE_HEAVE_HO_II              (447)
-{104471}{}{Heave Ho!!}
-{104472}{}{This perk gives you an additional +1 to Strength (up to 10), for purposes of determining range with thrown weapons only. This Perk will exceed a weapon's maximum range.}
+{104471}{}{Centaur's Slayer}
+{104472}{}{deal extra damage against Centaurs NPCs}
 # PE_JUNK_MERCHANT            (448)
-{104481}{}{Junk Merchant}
-{104482}{}{}
+{104481}{}{Deathclaw's Slayer}
+{104482}{}{deal extra damage against Deathclaws NPCs}
 # PE_BULK_TRADER              (449)
-{104491}{}{Bulk Trader}
-{104492}{}{}
-# PE_SEX_APPEAL               (450)
-{104501}{}{Sex Appeal}
-{104502}{}{Your raw sexual magnetism affects your relationship with the opposite sex in your favor.  All reputations in such relationships are better for 250 points.}
+{104491}{}{Murder}
+{104492}{}{deal extra damage against Human NPCs}
+# PE_PARAMEDIC              (450)
+{104501}{}{Class Perk: Paramedic}
+{104502}{}{This Perk disable timeouts for first aid and doctor and allow you revive dead poeple, but your deal half damage.}
 # PE_BORN_LEADER              (451)
-{104511}{}{Born Leader}
-{104512}{}{}
+{104511}{}{Mutant's Slayer}
+{104512}{}{deal extra damage against Mutants NPCs}
 # PE_TRAPPER                  (452)
-{104521}{}{Trapper}
-{104522}{}{}
+{104521}{}{Earth Defender}
+{104522}{}{deal extra damage against Aliens NPCs}
 # PE_HAND_LOADER              (453)
-{104531}{}{Hand Loader}
-{104532}{}{}
+{104531}{}{Semi Pathfinder}
+{104532}{}{The Pathfinder is able to find the shortest route available.  With this Perk, your travel speed on the World Map is increased by 5%}
 # PE_STEALTH_GIRL             (454)
 {104541}{}{Stealth Girl}
 {104542}{}{Your intuitive understanding of the inner mechanism of Stealth Boys allows you to use them for twice as long.}
@@ -2041,17 +2041,17 @@
 {104561}{}{Dismantler}
 {104562}{}{You're the kind of a person who always finds spare screws after dismantling a clock and putting it back together.  You recycle twice the usual number of base resources whenever dismantling an item.}
 # PE_VIGILANT_RECYCLER        (457)
-{104571}{}{Nemean2}
-{104572}{}{}
+{104571}{}{Mini Toughness}
+{104572}{}{increase your damage resistance against NPCs}
 # PE_RETENTION                (458)
-{104581}{}{Retention}
-{104582}{}{}
+{104581}{}{Strong Back Lite}
+{104582}{}{You can carry an additional 5 kg of equipment.}
 # PE_TREASURE_HUNTER          (459)
 {104591}{}{Treasure Hunter}
 {104592}{}{You are exceptionally skilled when it comes to search for valuables long forgotten.  You find more wealth in lockers scattered in the encounters.}
 # PE_LOCKPICK_PERK_2          (460)
-{104601}{}{reserved}
-{104602}{}{}
+{104601}{}{Small Ranged Damage}
+{104602}{}{Deal 1 extra damage to NPCs}
 # PE_DEAD_MAN_WALKING         (461)
 {104611}{}{Dead Man Walking}
 {104612}{}{Like Rasputin, it takes a lot to finally finish you off.  Your health points can drop to twice the negative value before you finally die.}
@@ -2502,6 +2502,8 @@
 {1001000}{}{Çŕđ˙ä}
 {1001001}{}{}
 {1001002}{}{}
+
+
 
 ####################################################################################################################################
 #
@@ -3220,3 +3222,41 @@ Why hate something that is unending source of amusement.
 |0xff907824 Uncrustify destroyed drugs_data.fos, it looks like space invaders now.
 |0xff706050	-- Atom
 }
+
+{3000000001}{}{Events}
+{3000000002}{}{FACTION}
+{3000000003}{}{QUEST
+LOG}
+{3000000004}{}{BANK}
+{3000000005}{}{New quest}
+{3000000006}{}{Quest update}
+{3000000007}{}{Quest done}
+{3000000008}{}{Please try again in a second.}
+{3000000009}{}{Shoot to hex}
+{3000000010}{}{You must be a leader in your team.}
+{3000000011}{}{Couldn't set up a base.}
+{3000000012}{}{Base successfuly set up.}
+{3000000013}{}{You can't set up a base here.}
+{3000000014}{}{You've been hit in a head so strong that you forgot way to that location.}
+{3000000015}{}{RADIO}
+{3000000016}{}{CLOSE}
+{3000000017}{}{OTHER}
+# Chat
+{3000000200}{}{GLOBAL}
+{3000000201}{}{Global chat}
+{3000000202}{}{SUPPORT}
+{3000000203}{}{Support chat}
+{3000000204}{}{FACTION}
+{3000000205}{}{Faction chat}
+{3000000206}{}{PRIVATE}
+{3000000207}{}{Private chat}
+{3000000208}{}{Private chat with}
+{3000000209}{}{                                    Enter player name in Say box}
+{3000000210}{}{                                    to start a new private chat}
+{3000000211}{}{Say}
+{3000000212}{}{Player is not online.}
+{3000000213}{}{You can't send private message to this critter.}
+{3000000214}{}{You can't talk with yourself.}
+{3000000215}{}{You are not in a faction.}
+{3000000216}{}{Incorrect player name.}
+{3000000217}{}{This player is offline or does not exist.}

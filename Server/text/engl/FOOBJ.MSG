@@ -1426,6 +1426,16 @@
 {85001}{}{Shotgun fire ammunition. It consists primarily of magnesium pellets/shards. When the round is fired, sparks and flames can shoot out to about 30 meters.}
 {90000}{}{Bookshelf}
 {90001}{}{A wooden bookshelf}
+{121100}{}{Memory Chips}
+{121101}{}{Brotherhood of Steel's Currency}
+{121200}{}{Dollars}
+{121201}{}{Enclave's Currency}
+{121300}{}{Vault-Tec Pounds}
+{121301}{}{Vault City's Currency}
+{121400}{}{NCR Scrips}
+{121401}{}{NCR's Currency}
+{121500}{}{Ring pulls}
+{121501}{}{Master Army's Currency}
 {180000}{}{Questionnaire}
 {180001}{}{One of the questionnaires that Lilly gave you. A lot of multiple choice questions. You're glad you don't have to fill it in.}
 {180100}{}{Electronic Parts}
@@ -7383,124 +7393,124 @@ a58ew64v}
 #====================
 # Weapon Blueprints
 #====================
-{975000}{}{Weapon Blueprints}
+{975000}{}{14mm Pistol Blueprints}
 {975001}{}{Manufacturing plans for a Sig-Sauer 14mm Auto Pistol.}
-{975100}{}{Weapon Blueprints}
+{975100}{}{HN Needler Pistol Blueprints}
 {975101}{}{Manufacturing plans for a HN Needler Pistol.}
-{975200}{}{Weapon Blueprints}
+{975200}{}{.223 Pistol Blueprints}
 {975201}{}{Manufacturing plans for a .223 Pistol.}
-{975300}{}{Weapon Blueprints}
+{975300}{}{AK-112 Blueprints}
 {975301}{}{Manufacturing plans for a AK-112 assault rifle.}
-{975400}{}{Weapon Blueprints}
+{975400}{}{FN FAL Blueprints}
 {975401}{}{Manufacturing plans for a FN FAL battle rifle.}
-{975500}{}{Weapon Blueprints}
+{975500}{}{Sniper Rifle Blueprints}
 {975501}{}{Manufacturing plans for a DKS-501 Sniper Rifle.}
-{975600}{}{Weapon Blueprints}
+{975600}{}{H&K P90c Blueprints}
 {975601}{}{Manufacturing plans for a H&K P90c.}
-{975700}{}{Weapon Blueprints}
+{975700}{}{H&K CAWS Blueprints}
 {975701}{}{Manufacturing plans for a H&K CAWS automatic shotgun.}
-{975800}{}{Weapon Blueprints}
+{975800}{}{Pancor Jackhammer Blueprints}
 {975801}{}{Manufacturing plans for a Pancor Jackhammer shotgun.}
-{975900}{}{Weapon Blueprints}
+{975900}{}{Plasma Pistol Blueprints}
 {975901}{}{Manufacturing plans for a Glock 86 Defender Plasma Pistol.}
-{976000}{}{Weapon Blueprints}
+{976000}{}{Laser Rifle Blueprints}
 {976001}{}{Manufacturing plans for a Wattz 2000 Laser Rifle.}
-{976100}{}{Weapon Blueprints}
+{976100}{}{Plasma Rifle Blueprints}
 {976101}{}{Manufacturing plans for a Winchester P94 Plasma Rifle.}
-{976200}{}{Weapon Blueprints}
+{976200}{}{Mega Power Fist Blueprints}
 {976201}{}{Manufacturing plans for a Big Frigger Mega Power Fist.}
-{976300}{}{Weapon Blueprints}
+{976300}{}{Super Cattle Prod Blueprints}
 {976301}{}{Manufacturing plans for a Wattz Electronics Super Cattle Prod.}
-{976400}{}{Weapon Blueprints}
+{976400}{}{Ripper Blueprints}
 {976401}{}{Manufacturing plans for a Ripper vibroblade.}
-{976500}{}{Weapon Blueprints}
+{976500}{}{Rocket Launcher Blueprints}
 {976501}{}{Manufacturing plans for a Rockwell BigBazooka.}
-{976600}{}{Weapon Blueprints}
+{976600}{}{LSW Blueprints}
 {976601}{}{Manufacturing plans for a squad-level Light Support Weapon.}
-{976700}{}{Weapon Blueprints}
+{976700}{}{Minigun Blueprints}
 {976701}{}{Manufacturing plans for a CZ53 Personal Minigun.}
-{976800}{}{Weapon Blueprints}
+{976800}{}{Plasma Grenades Blueprints}
 {976801}{}{Manufacturing plans for Plasma Grenades.}
-{976900}{}{Weapon Blueprints}
+{976900}{}{Dynamite Blueprints}
 {976901}{}{Manufacturing plans for a Dynamite.}
-{977000}{}{Weapon Blueprints}
+{977000}{}{Plastic Explosives Blueprints}
 {977001}{}{Manufacturing plans for Plastic Explosives.}
-{977100}{}{Weapon Blueprints}
+{977100}{}{Super Sledge Blueprints}
 {977101}{}{Manufacturing plans for a Super Sledge.}
-{977200}{}{Weapon Blueprints}
+{977200}{}{Incinerator Blueprints}
 {977201}{}{Manufacturing plans for Incinerator.}
 #====================
 # FOnline: Aftertimes
 # Weapon Blueprints
 #====================
-{977300}{}{Weapon Blueprints}
+{977300}{}{XL70E3 Blueprints}
 {977301}{}{Manufacturing plans for XL70E3 Rifle.}
-{977400}{}{Weapon Blueprints}
+{977400}{}{Avenger Minigun Blueprints}
 {977401}{}{Manufacturing plans for Avenger Minigun.}
-{977500}{}{Weapon Blueprints}
+{977500}{}{Bozar Blueprints}
 {977501}{}{Manufacturing plans for Bozar.}
-{977600}{}{Weapon Blueprints}
+{977600}{}{M202A1 FLASH Blueprints}
 {977601}{}{Manufacturing plans for M202A1 FLASH Rocket Launcher.}
-{977700}{}{Weapon Blueprints}
+{977700}{}{Vindicator Minigun Blueprints}
 {977701}{}{Manufacturing plans for Vindicator Minigun.}
-{977800}{}{Weapon Blueprints}
+{977800}{}{Turbo Plasma Blueprints}
 {977801}{}{Manufacturing plans for Turbo Plasma Rifle.}
-{977900}{}{Weapon Blueprints}
+{977900}{}{YK42B Rifle Blueprints}
 {977901}{}{Manufacturing plans for YK42B Pulse Rifle.}
 #====================
 # Armor Blueprints
 #====================
-{978000}{}{Armor Blueprints}
+{978000}{}{Metal Armor MkII Blueprints}
 {978001}{}{Manufacturing plans for a Metal Armor Mark II.}
-{978100}{}{Armor Blueprints}
+{978100}{}{Tesla Armor Blueprints}
 {978101}{}{Manufacturing plans for a Tesla Armor.}
-{978200}{}{Armor Blueprints}
+{978200}{}{Combat Armor Blueprints}
 {978201}{}{Manufacturing plans for a Combat Armor.}
 #====================
 # FOnline: Aftertimes
 # Armor Blueprints
 #====================
-{978300}{}{Armor Blueprints}
+{978300}{}{Combat Armor MkII Blueprints}
 {978301}{}{Manufacturing plans for a Combat Armor Mark II.}
-{978400}{}{Armor Blueprints}
+{978400}{}{Brotherhood Combat Armor Blueprints}
 {978401}{}{Manufacturing plans for a Brotherhood Combat Armor.}
-{978500}{}{Armor Blueprints}
+{978500}{}{Enclave Combat Armor Blueprints}
 {978501}{}{Manufacturing plans for an Enclave Combat Armor.}
-{978600}{}{Armor Blueprints}
+{978600}{}{Desert Combat Armor Blueprints}
 {978601}{}{Manufacturing plans for a Desert Combat Armor.}
-{978700}{}{Armor Blueprints}
+{978700}{}{NCR Combat Armor Blueprints}
 {978701}{}{Manufacturing plans for a NCR Ranger Combat Armor.}
-{978800}{}{Armor Blueprints}
+{978800}{}{Power Armor Blueprints}
 {978801}{}{Manufacturing plans for a Power Armor.}
-{978900}{}{Armor Blueprints}
+{978900}{}{Hardened Power Armor Blueprints}
 {978901}{}{Manufacturing plans for a Hardened Power Armor.}
 #====================
 # Misc Blueprints
 #====================
-{979000}{}{Drug Recipe}
+{979000}{}{Super Stimpak Recipe}
 {979001}{}{Recipe for a Super Stimpak.}
-{979100}{}{Drug Recipe}
+{979100}{}{Stimpak Recipe}
 {979101}{}{Recipe for a Stimpak.}
-{979200}{}{Drug Recipe}
+{979200}{}{Jet Recipe}
 {979201}{}{Recipe for the Jet.}
-{979300}{}{Drug Recipe}
+{979300}{}{Buffout Recipe}
 {979301}{}{Recipe for the Buffout.}
-{979400}{}{Drug Recipe}
+{979400}{}{Mentats Recipe}
 {979401}{}{Recipe for the Mentats.}
-{979500}{}{Drug Recipe}
+{979500}{}{Psycho Recipe}
 {979501}{}{Recipe for the Psycho.}
-{979600}{}{Drug Recipe}
+{979600}{}{Rad Away Recipe}
 {979601}{}{Recipe for the Rad Away.}
-{979700}{}{Drug Recipe}
+{979700}{}{Rad-X Recipe}
 {979701}{}{Recipe for the Rad-X.}
 #====================
 # FOnline: Aftertimes
 # Drug Blueprints
 #====================
-{979800}{}{Drug Recipe}
+{979800}{}{Hypo Recipe}
 {979801}{}{Recipe for the Hypo.}
-{979900}{}{Drug Recipe}
-{979901}{}{Recipe for the Jet Antidote.}
+{979900}{}{Drug Antidote Recipe}
+{979901}{}{Recipe for the Drug Antidote.}
 #====================
 # Random Blueprints
 #====================
@@ -7513,138 +7523,138 @@ a58ew64v}
 #====================
 # Helmet Blueprints
 #====================
-{981000}{}{Helmet Blueprints}
+{981000}{}{Metal Mask MkII Blueprints}
 {981001}{}{Manufacturing plans for a Metal Mask MkII.}
-{981100}{}{Helmet Blueprints}
+{981100}{}{Tesla Helmet Blueprints}
 {981101}{}{Manufacturing plans for a Tesla Helmet.}
-{981200}{}{Helmet Blueprints}
+{981200}{}{Combat Helmet Blueprints}
 {981201}{}{Manufacturing plans for a Combat Helmet.}
 #====================
 # FOnline: Aftertimes
 # Helmet Blueprints
 #====================
-{981300}{}{Helmet Blueprints}
+{981300}{}{Combat Helmet MkII Blueprints}
 {981301}{}{Manufacturing plans for a Combat Helmet Mark II.}
-{981400}{}{Helmet Blueprints}
+{981400}{}{Brotherhood Combat Helmet Blueprints}
 {981401}{}{Manufacturing plans for a Brotherhood Combat Helmet.}
-{981500}{}{Helmet Blueprints}
+{981500}{}{Enclave Combat Helmet Blueprints}
 {981501}{}{Manufacturing plans for an Enclave Combat Helmet.}
-{981600}{}{Helmet Blueprints}
+{981600}{}{Enclave Combat Helmet MkII Blueprints}
 {981601}{}{Manufacturing plans for an Enclave Combat Helmet Mark II.}
-{981700}{}{Helmet Blueprints}
+{981700}{}{Desert Combat Helmet Blueprints}
 {981701}{}{Manufacturing plans for a Desert Combat Helmet.}
-{981800}{}{Helmet Blueprints}
+{981800}{}{NCR Combat Helmet Blueprints}
 {981801}{}{Manufacturing plans for a NCR Combat Helmet.}
-{981900}{}{Helmet Blueprints}
+{981900}{}{Power Helmet Blueprints}
 {981901}{}{Manufacturing plans for a Power Helmet.}
-{982000}{}{Helmet Blueprints}
+{982000}{}{Hardened Power Helmet Blueprints}
 {982001}{}{Manufacturing plans for a Hardened Power Helmet.}
-{982100}{}{Helmet Blueprints}
+{982100}{}{Advanced Power Helmet Blueprints}
 {982101}{}{Manufacturing plans for a Advanced Power Helmet.}
-{982200}{}{Helmet Blueprints}
+{982200}{}{Advanced Power Helmet Mark II Blueprints}
 {982201}{}{Manufacturing plans for a Advanced Power Helmet Mark II.}
 #====================
 # FOnline: Aftertimes
 # Armor Blueprints
 #====================
-{982300}{}{Armor Blueprints}
+{982300}{}{Advanced Power Armor Blueprints}
 {982301}{}{Manufacturing plans for a Advanced Power Armor.}
-{982400}{}{Armor Blueprints}
+{982400}{}{Advanced Power Armor MkII Blueprints}
 {982401}{}{Manufacturing plans for a Advanced Power Armor Mark II.}
 #====================
 # FOnline: Aftertimes
 # Weapon Blueprints
 #====================
-{982500}{}{Weapon Blueprints}
+{982500}{}{H&K G11 Blueprints}
 {982501}{}{Manufacturing plans for H&K G11 submachine gun.}
-{982600}{}{Weapon Blueprints}
+{982600}{}{G11E Blueprints}
 {982601}{}{Manufacturing plans for H&K G11E submachine gun.}
-{982700}{}{Weapon Blueprints}
+{982700}{}{YK32 Pistol Blueprints}
 {982701}{}{Manufacturing plans for YK32 Pulse Pistol.}
-{982800}{}{Weapon Blueprints}
+{982800}{}{FN FAL Night Scope Blueprints}
 {982801}{}{Manufacturing plans for FN FAL Night Scope.}
-{982900}{}{Weapon Blueprints}
+{982900}{}{PK12 Gauss Pistol Blueprints}
 {982901}{}{Manufacturing plans for PK12 Gauss Pistol.}
-{983000}{}{Weapon Blueprints}
+{983000}{}{M72 Gauss Rifle Blueprints}
 {983001}{}{Manufacturing plans for M72 Gauss Rifle.}
-{983100}{}{Weapon Blueprints}
+{983100}{}{Solar Scorcher Blueprints}
 {983101}{}{Manufacturing plans for Solar Scorcher.}
 #====================
 # FOnline: Aftertimes
 # Ammo Blueprints
 #====================
-{983200}{}{Ammunition Blueprints}
+{983200}{}{Gecko's Breath 12ga Blueprints}
 {983201}{}{Manufacturing plans for Gecko's Breath Shotgun Shells.}
-{983300}{}{Ammunition Blueprints}
+{983300}{}{Electric Rocket Blueprints}
 {983301}{}{Manufacturing plans for Electric Rocket.}
-{983400}{}{Ammunition Blueprints}
+{983400}{}{4.7mm caseless Blueprints}
 {983401}{}{Manufacturing plans for 4.7mm caseless ammunition.}
-{983500}{}{Ammunition Blueprints}
+{983500}{}{2mm EC Blueprints}
 {983501}{}{Manufacturing plans for 2mm EC ammunition.}
 #====================
 # FOnline: Aftertimes
 # Misc'n'forgotten Blueprints
 #====================
-{983600}{}{Armor Blueprints}
-{983601}{}{Manufacturing plans for Metal Armor Mark 3.}
-{983700}{}{Weapon Blueprints}
+{983600}{}{Hardened Metal Armor Blueprints}
+{983601}{}{Manufacturing plans for a Hardened Metal Armor.}
+{983700}{}{Pulse Grenade Blueprints}
 {983701}{}{Manufacturing plans for Pulse Grenade.}
-{983800}{}{Weapon Blueprints}
+{983800}{}{Gatling Laser Blueprints}
 {983801}{}{Manufacturing plans for Gatling Laser.}
-{983900}{}{Weapon Blueprints}
+{983900}{}{Saiga-12 Blueprints}
 {983901}{}{Manufacturing plans for Saiga-12 semi-automatic shotgun.}
-{984000}{}{Weapon Blueprints}
+{984000}{}{M16 Blueprints}
 {984001}{}{Manufacturing plans for M16.}
-{984100}{}{Weapon Blueprints}
+{984100}{}{Electric Rocket launcher Blueprints}
 {984101}{}{Manufacturing plans for Electric Rocket launcher.}
-{984200}{}{Weapon Blueprints}
-{984201}{}{Manufacturing plans for Napalm blaster.}
-{984300}{}{Weapon Blueprints}
+{984200}{}{Napalm Blaster Blueprints}
+{984201}{}{Manufacturing plans for Napalm Blaster.}
+{984300}{}{Shock nades Blueprints}
 {984301}{}{Manufacturing plans for Shock nades.}
-{984400}{}{Drug Recipe}
+{984400}{}{Afterburner Gum Recipe}
 {984401}{}{Recipe for Afterburner Gum.}
-{984500}{}{Drug Recipe}
+{984500}{}{Mutie Recipe}
 {984501}{}{Recipe for Mutie.}
-{984600}{}{Drug Recipe}
+{984600}{}{Voodoo Recipe}
 {984601}{}{Recipe for Voodoo.}
-{984700}{}{Special Blueprints}
+{984700}{}{Motion Sensor Blueprints}
 {984701}{}{Manufacturing plans Motion Sensor.}
-{984800}{}{Armor Blueprints}
+{984800}{}{Firegecko jacket Blueprints}
 {984801}{}{Manufacturing plans for Firegecko jacket.}
-{984900}{}{Armor Blueprints}
+{984900}{}{Inferno Armor Blueprints}
 {984901}{}{Manufacturing plans for Inferno Armor.}
-{985000}{}{Armor Blueprints}
+{985000}{}{Hubologist's Robes Blueprints}
 {985001}{}{Manufacturing plans for Hubologist's Robes.}
-{985100}{}{Armor Blueprints}
+{985100}{}{Follower's Robes Blueprints}
 {985101}{}{Manufacturing plans for Follower's Robes.}
 {985200}{}{Armor Blueprints}
 {985201}{}{You can't read whats for plans are.}
 {985300}{}{Armor Blueprints}
 {985301}{}{Manufacturing plans for Combat Jacket.}
-{985400}{}{Armor Blueprints}
-{985401}{}{Manufacturing plans for Mutant Armor.}
-{985500}{}{Armor Blueprints}
+{985400}{}{Heavy Armor Blueprints}
+{985401}{}{Manufacturing plans for Heavy Armor.}
+{985500}{}{Vault City Armor Blueprints}
 {985501}{}{Manufacturing plans for Vault City Armor.}
 #====================
 # New traps
 #====================
-{985600}{}{Weapon Blueprints}
+{985600}{}{Laser Spear Blueprints}
 {985601}{}{Manufacturing plans for Laser Spear.}
-{985700}{}{Armor Blueprints}
+{985700}{}{Leather Armor MKII Blueprints}
 {985701}{}{Manufacturing plans for Leather Armor MKII.}
-{985800}{}{Weapon Blueprints}
+{985800}{}{Plasma SMG Blueprints}
 {985801}{}{Manufacturing plans for Plasma SMG.}
-{985900}{}{Ammo Blueprints}
+{985900}{}{Healing Cartridge Blueprints}
 {985901}{}{Manufacturing plans for Needler Healing Cartridge.}
-{986000}{}{Ammo Blueprints}
+{986000}{}{EFC Ammo Blueprints}
 {986001}{}{Manufacturing plans for EFC.}
-{986100}{}{Armor Blueprints}
+{986100}{}{Stealth Armor Blueprints}
 {986101}{}{Manufacturing plans for Stealth Armor.}
-{986200}{}{Weapon Blueprints}
+{986200}{}{Mega Sledge Blueprints}
 {986201}{}{Manufacturing plans for Mega Sledge.}
-{986300}{}{Weapon Blueprints}
+{986300}{}{AK-47 Blueprints}
 {986301}{}{Manufacturing plans for AK-47.}
-{986400}{}{Weapon Blueprints}
+{986400}{}{Plasma Gatling Blueprints}
 {986401}{}{Manufacturing plans for Plasma Gatling.}
 #====================
 {990000}{}{Old Highway Patrol Car}
