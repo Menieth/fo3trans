@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,14 @@ lang=engl
 2 2020 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This device sells "First Aid" magazines for 150 caps each. ]}
+{2010}{}{[ Buy a magazine ]}
+{2020}{}{[ Leave ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

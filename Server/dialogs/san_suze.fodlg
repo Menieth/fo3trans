@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -43,6 +43,43 @@ lang=engl
 {100}{}{Susie}
 {200}{}{You see a woman with a beautiful figure.}
 {210}{}{You see Susie.}
+{1000}{}{Predialogue installations}
+{1010}{}{First meeting}
+{1020}{}{Already met}
+{2000}{}{Before you stands a young, strikingly beautiful woman. She turns her eyes on you as you approach without saying a word.}
+{2010}{}{(DISABLED, SEE DEMAND) Hey there.}
+{2020}{}{Herro.}
+{2030}{}{Uh, sorry. Wrong person.}
+{3000}{}{Suze turns her eyes on you as you approach, saying nothing.}
+{3010}{}{Hey Suze.}
+{3020}{}{Hay preety lay-dee!}
+{3030}{}{So I got you guys your beer, let's get this party started! All hail king @pname@!}
+{3040}{}{So I got you guys your beer, let's get this party started! All hail king @pname@!}
+{3050}{}{Leave}
+{4000}{}{Mmm, well hello there. Do you want something?}
+{4010}{}{Well hey, I'm @pname@. What's going on around here?}
+{5000}{}{Nice to see you again, @pname@.}
+{5010}{}{What's going on around here?}
+{5020}{}{Leave}
+{6000}{}{Nothing, as usual. We're all bored and sober as hell out here. Those Committee guys don't have a lot of booze, and what they do have they sure as hell don't feel like sharing.}
+{6010}{}{Really? Anything I can help with? I do a lot of travelling, and getting hold of alcohol really isn't a hassle.}
+{7000}{}{You'd do that for us? Well, I'm not gonna refuse the generosity of strangers. You get us enough alcohol, throw a big enough party, and these drunks'll probably crown you their king. 
+
+We've got ourselves enough of the hard stuff, how about you pick us up twenty bottles of beer? None of that irradiated crap that comes out of Gecko, either.}
+{7010}{}{You had me at 'King'. Yeah, sure, I'm on it.}
+{8000}{}{Very impressive. I knew you had it in you, sweetie.}
+{8010}{}{Heh, I think I knew I did too. Now let's get wasted.}
+{9000}{}{Well that's really nice of you sweetie, but someone beat you to it. We already got ourselves a leader. Thanks for the beer, though. [She winks] Hard luck.}
+{9010}{}{You sneaky little b... fine! Screw you!}
+{10000}{}{Well hello to you too. [She notices your vacant stare and sighs] Well, you've not got a lot going on upstairs, have you? Poor thing. You better get out of here, this place isn't for you.}
+{10010}{}{[Spend a few seconds staring at her with your mouth hanging open, then shuffle off]}
+{11000}{}{Oh, it's you again. Are you lost, you poor little thing? [She ruffles your hair]}
+{11010}{}{[Giggle happily, and wander off]}
+{12000}{}{[You end up drinking so much you black out. You wake up feeling terrible, but you seem to have a dim recollection that the Tanker vagrants have made you some kind of leader.]}
+{12010}{}{[Get up, and spend the rest of the day avoiding bright lights and loud noises]}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting}
 {1020}{}{Already met}

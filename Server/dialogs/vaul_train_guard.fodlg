@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,14 @@ lang=engl
 [engl]
 {100}{}{Guard}
 {200}{}{You see a Vault City train station guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{citizen}
+{1020}{}{normal}
+{2000}{}{Keep your weapons under control while you're here.@@Welcome to the train station, stranger.@@We're watching you.@@I can't talk while I'm on duty.@@Sorry, can't talk right now.@@If you want to use the train, don't talk to me.@@If you want to buy a train ticket, ask the ticket seller.}
+{3000}{}{Keep your weapons under control while you're here.@@Welcome to the train station, citizen.@@I can't talk while I'm on duty.@@Sorry, can't talk right now.@@If you want to use the train, don't talk to me.@@If you want to buy a train ticket, ask the ticket seller.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{normal}

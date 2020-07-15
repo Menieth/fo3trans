@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +17,17 @@ lang=engl
 
 [engl]
 {100}{}{Doherty Adams}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Hmh?}
+{2010}{}{You look tough. I heard you are the legendary hunter, aren't you?}
+{3000}{}{[ He stares at you silently ]}
+{3010}{}{I better go.}
+{3020}{}{Teach me how to be like that.}
+{4000}{}{Fine... Here you go. Now leave.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hmh?}

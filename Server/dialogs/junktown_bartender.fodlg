@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -69,6 +69,68 @@ lang=engl
 [engl]
 {100}{}{Jimmy}
 {200}{}{You see the Bar Tender.}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Yeah, whadda ya want?}
+{2010}{}{Water.}
+{2020}{}{Beer.}
+{2030}{}{Liquor.}
+{2040}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{Can I get a room?}
+{3020}{}{Can I get a room?}
+{3030}{}{I'd like to pay my rent for the room.}
+{3040}{}{Water.}
+{3050}{}{Beer.}
+{3060}{}{Liquor.}
+{3070}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{Typical of you scumbags to try and get somethin' for nothin'. Get the hell out.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{Hey, dumbass, get out of here!}
+{6000}{}{You should leave this place.}
+{7000}{}{Good, wouldn't wanna get your stuff repossessed now, am I right?}
+{7010}{}{Right...}
+{7020}{}{[Leave]Right...}
+{8000}{}{That'll be two caps.}
+{8010}{}{Sure.@@Okay.}
+{8020}{}{Sure.@@Okay.}
+{8030}{}{I changed my mind... I feel a bit sick.}
+{8040}{}{No, thanks.}
+{9000}{}{That'll be ten caps.}
+{9010}{}{Sure.@@Okay.}
+{9020}{}{No, thanks.}
+{10000}{}{That'll be ten caps.}
+{10010}{}{Sure.@@Okay.}
+{10020}{}{No, thanks.}
+{11000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
+{11010}{}{Water}
+{11020}{}{Beer.}
+{11030}{}{Liquor.}
+{11040}{}{About renting a room...}
+{11050}{}{Nothing.}
+{12000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{12010}{}{Water.}
+{12020}{}{Beer.}
+{12030}{}{Liquor.}
+{12040}{}{About renting a room...}
+{12050}{}{Nothing.}
+{13000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{13010}{}{Water.}
+{13020}{}{Beer.}
+{13030}{}{Liquor.}
+{13040}{}{About renting a room...}
+{13050}{}{Nothing.}
+{14000}{}{Here. [The bartender slides you another cup full of the same murky water, and after you drink it, you're reminded as to how strange it tasted the last time . . .]}
+{14010}{}{Water}
+{14020}{}{Beer.}
+{14030}{}{Liquor.}
+{14040}{}{About renting a room...}
+{14050}{}{Nothing.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}

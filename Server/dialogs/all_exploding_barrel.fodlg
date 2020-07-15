@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,11 +12,7 @@ lang=engl
 {100}{}{Gas cylinder}
 {1000}{}{Predialogue installations}
 
-[pols]
-{100}{}{Butla z gazem}
-{1000}{}{Predialogue installations}
-
-[russ]
-{100}{}{Gas cylinder}
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 

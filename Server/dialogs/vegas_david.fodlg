@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -35,6 +35,35 @@ lang=engl
 
 [engl]
 {100}{}{David}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.}
+{2010}{}{Who are you?}
+{2020}{}{Do you need some help around?}
+{2030}{}{I got those 50 bottles for you. Where is my reward?}
+{2040}{}{Bye.}
+{3000}{}{Name's David, I am a local cooker, or whatever they call me... [ he spits ]. What do you need?}
+{3010}{}{What do you think about Vegas?}
+{3020}{}{What do you think about NCR?}
+{3030}{}{Anything I can help you with?}
+{3040}{}{I have those 50 bottles for you.}
+{3050}{}{Great. I need to go now.}
+{4000}{}{Help, huh? Well you can help me a little. Do you know about existance of Special Edition Nuka Cola? These are that damn yellow bottles. So the thing is - I need around 50 bottles of these things. Lets say... Our local Captain doesn't like to drink the same shit as his soldiers do. So, just bring me 50 bottles of special Nuka and I will give you something special in return. How does it sound?}
+{4010}{}{I will keep it in mind,}
+{5000}{}{Nothing to say. I feel fine here, lots of fun, booze and girls. Deffinately a better city to be sent in, in compare with Junktown or Hub.}
+{5010}{}{One more question.}
+{6000}{}{What should I think about them? I am just a cooker. They pay me - I cook for them. As simple as that.}
+{6010}{}{Wanted to ask you about something else.}
+{7000}{}{Hey! Fine job you made! [ He gives you a strange sheet of papers with writter 10$ on them. ] Here you go. Keep in mind that I will pay you for every 50 bottles you bring me.}
+{7010}{}{What are these?}
+{7020}{}{Nice to have a business with you.}
+{8000}{}{Don't you know? These are Redding dollars of course! You can exchange them on different things in "Happy Stockman's" in Adytum. Just... Don;t try to exchange them in Redding, there are some problems with local mayor.}
+{8010}{}{Great...}
+{8020}{}{Alright, thank you.}
+{8030}{}{YOU LIE, SCUM! NOW YOU GONNA PAY WITH YOUR BLOOD!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.}

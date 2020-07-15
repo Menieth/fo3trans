@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,12 @@ lang=engl
 {210}{}{You see a Paladin of the Brotherhood of Steel.}
 {240}{}{You see a dead Brotherhood Guard.}
 {260}{}{You see a slain Brotherhood Guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}

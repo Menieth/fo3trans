@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Sentry Bot}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Scanning...@@Good day, wastelander!@@Evil American is the greatest mayor!@@Fear no danger, General Atmoics battle robots are best guards for any purposes!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Scanning...@@Good day, wastelander!@@Evil American is the greatest mayor!@@Fear no danger, General Atmoics battle robots are best guards for any purposes!}

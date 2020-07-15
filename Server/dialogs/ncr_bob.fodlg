@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -57,6 +58,55 @@ lang=engl
 {200}{}{You see an old grubby man with stringy hair.}
 {210}{}{It's the guy they call Saltbeef Bob.}
 {210}{}{He's got about three teeth and a face criss-crossed with the little veins of a drunkard. He smells bad too.}
+{1000}{}{Predialogue installations}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{1030}{}{Hated}
+{2000}{}{Howdy, stranger!}
+{2010}{}{Who are you?}
+{3000}{}{Name's Bob. Saltbeef Bob, yep. How about you?}
+{3010}{}{@pname@.}
+{3020}{}{Saltbeef? What the hell kind of name is that?}
+{3030}{}{What are you doing here?}
+{3040}{}{Forget it. Bye.}
+{4000}{}{Say, you wouldn't have any beer on ya, pardner?}
+{4010}{}{Sure.}
+{4020}{}{Not a chance, you drunk.}
+{4030}{}{Get away from me, you stinking bum!}
+{5000}{}{Well, there warn't no need to be rude about it. Just wanted a little sip, see. Steady my nerves...}
+{6000}{}{Easy, pardner! Can't blame a man fer asking, can ya? I'll just leave you be then.}
+{7000}{}{(Gulp, gulp, gulp) Aaaahhhh! That's right fine of you, stranger! Fine person, indeed. Kind a man should have as his pardner. (Gulp) Did I ever tell you about the time I made my big strike?}
+{7010}{}{No?}
+{7020}{}{Hey, quit drinking all my booze!}
+{8000}{}{Saltbeef Bob, at your service.}
+{8010}{}{Saltbeef? What the hell kind of name is that?}
+{8020}{}{What are you doing here?}
+{8030}{}{Forget it. Bye.}
+{9000}{}{Boss let's me stay here. I run this stable! Do a little cleaning, keep a square camp.}
+{9010}{}{I see. Let me ask you something else.}
+{10000}{}{Tarnation, it's a good and honest name, is what it is! The boys let me do some cooking around here and if you weren't such a tinhorn you'd know that and know to respect yer elders.}
+{10010}{}{Sorry, old-timer didn't mean to rile you.}
+{10020}{}{Well bite me, old timer!}
+{11000}{}{Rile me? Rile me! You ain't seen me riled yet! Now jes' git outta my sight before you gets me really upset! Gwan! Git!}
+{12000}{}{Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner!}
+{13000}{}{Hell and thunder, you again? Git yer scrawny ass outta my sight!}
+{14000}{}{It was back in '78 and me and Bessie - best 'bot a man ever had - we was u-ra-ni-um prospecting west o' here. We hadn't turned up a rad's worth o' beans when all of a sudden five - no, I'm sure it was ten - deathclaws jumped us.}
+{14010}{}{Then what?}
+{14020}{}{I've heard enough. Goodbye.}
+{15000}{}{Well, things looked bad when I stumbled into this cave. Thought I was a goner fer sure. Figured it was their lair - but I had me my torch so I went inside. Hoo-wee, it was a deep cave. And that's when I saw it.}
+{15010}{}{Saw what?}
+{15020}{}{You didn't see anything. Goodbye, old timer.}
+{16000}{}{It was a great big door, like them kinds you see in the old video flics. Big and made o' steel. An on it was carved a great, big 13!}
+{16010}{}{Vault 13, huh?}
+{16020}{}{Sure you did. I'm out of here.}
+{17000}{}{I knew I'd found it, the mother lode, the Vault 13. I sat right down and made me a map. Damn near died getting out o' there, past them deathclaws and then the sun o' the desert and no water.}
+{17010}{}{So what did you do then?}
+{17020}{}{I've heard enough. Goodbye.}
+{18000}{}{By the time I staggered into Shady Sands, I was mostly dead. Took me to the doc and fixed me up, but that doc stole my map. I knows it and that's all I gots to say.}
+{18010}{}{Well, thanks for the story. Goodbye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

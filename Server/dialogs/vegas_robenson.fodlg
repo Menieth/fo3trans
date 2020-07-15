@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Captain Robenson}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}

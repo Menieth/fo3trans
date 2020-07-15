@@ -2,7 +2,7 @@
 Common dialog for each faction's mainframe used to manage players' database.
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -135,4 +135,58 @@ lang=engl
 {100000040}{}{ has claimed leadership.}
 {100000041}{}{You have claimed leadership - time left: }
 {100000042}{}{Choose the action you want to perform:}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{non-member}
+{2000}{}{Hello @lex faction@ Member, How can I help you?}
+{2010}{}{Check Status}
+{2020}{}{I want add caps to settlement budget}
+{2030}{}{i want pay out caps}
+{2040}{}{Let's talk about recruiting}
+{3000}{}{I don't know you
+}
+{4000}{}{Ok then, do we need more workers? If yes we need build houses for them so need 500 wood for that. Also bring here educated farmer will cost us 200 000 caps. Worker will rise our income for 1000 caps. About guards depends what armor we wanna get for him and his level of experience. If we wanna get more stuff in our store, We should think about hire a caravan crew, they cost 150 000 caps, and they will take from our income 5000 caps.}
+{4010}{}{Get me a worker.}
+{4020}{}{Hire Caravan Crew}
+{5000}{}{First lets talk about his armor, we have 5 armors: leather no extra costs, metal armor 25 000 caps, combat armor 50 000 caps, power armor 500 000 caps and adv armor it's 1 000 000 caps, remember We will have to pay him 500 caps from our income also.}
+{5010}{}{Leather}
+{5020}{}{Metal}
+{5030}{}{Combat}
+{5040}{}{Power}
+{5050}{}{APA}
+{6000}{}{Now about his experience, I will say it in simple words, level 1 its 100 000 caps, level 2 it's 150 000, level 3 its 250 000, and level 4 it's 500 000}
+{6010}{}{level 1}
+{6020}{}{level 2}
+{6030}{}{level 3}
+{6040}{}{level 4}
+{6050}{}{i change mind about armor}
+{7000}{}{Now about his experience, I will say it in simple words, level 1 its 100 000 caps, level 2 it's 150 000, level 3 its 250 000, and level 4 it's 500 000}
+{7010}{}{level 1}
+{7020}{}{level 2}
+{7030}{}{level 3}
+{7040}{}{level 4}
+{7050}{}{i change mind about armor}
+{8000}{}{Now about his experience, I will say it in simple words, level 1 its 100 000 caps, level 2 it's 150 000, level 3 its 250 000, and level 4 it's 500 000}
+{8010}{}{level 1}
+{8020}{}{level 2}
+{8030}{}{level 3}
+{8040}{}{level 4}
+{8050}{}{i change mind about armor}
+{9000}{}{Now about his experience, I will say it in simple words, level 1 its 100 000 caps, level 2 it's 150 000, level 3 its 250 000, and level 4 it's 500 000}
+{9010}{}{level 1}
+{9020}{}{level 2}
+{9030}{}{level 3}
+{9040}{}{level 4}
+{9050}{}{i change mind about armor}
+{10000}{}{Now about his experience, I will say it in simple words, level 1 its 100 000 caps, level 2 it's 150 000, level 3 its 250 000, and level 4 it's 500 000}
+{10010}{}{level 1}
+{10020}{}{level 2}
+{10030}{}{level 3}
+{10040}{}{level 4}
+{10050}{}{i change mind about armor}
+{11000}{}{Remember to give him gun and ammo}
+{12000}{}{I'm keep working partner}
 

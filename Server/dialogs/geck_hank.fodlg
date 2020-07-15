@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -41,6 +41,38 @@ lang=engl
 {200}{}{You see a glowing ghoul with a concerned look on his face.}
 {210}{}{You see Hank the glowing ghoul, a worker here in the powerplant.}
 {210}{}{You see a glowing ghoul monitoring some power plant gauges.}
+{1000}{}{Predialogue installations}
+{1010}{}{Idiot}
+{1020}{}{Unknown}
+{1030}{}{Known}
+{2000}{}{Hello, I’m Hank. I take care of the inside of the reactor core. Not that much ever needs to be done there.}
+{2010}{}{Hi, Hank. I need to get inside the Core.}
+{2020}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{2030}{}{Hi there, Hank. I’m just taking the tour. Goodbye.}
+{3000}{}{Hello, nice of you to visit me again. Feels nice and toasty this close to the core. Most smoothies don't care for that.}
+{3010}{}{Hi, Hank. I need to get inside the Core.}
+{3020}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{3030}{}{Hi there, Hank. I’m just taking the tour. Goodbye.}
+{4000}{}{Heh, heh. I wouldn’t advise that, smoothy. You’d fry into a crisp. Me, I like the warmth, but I wouldn’t recommend it for you. Quite a bit of heat and radiation in there. That’s why the smoothies that built this place included a maintenance bot.}
+{4010}{}{Maintenance bot?}
+{5000}{}{Yeah, the smoothies that built this place didn’t want to fry either, so they included a robot. It was designed to perform maintenance tasks by remote control from a terminal in a room to the west.}
+{5010}{}{I’ll have to check that out. Goodbye.}
+{6000}{}{Just stay out of the way and don’t touch anything.@@How’d you get in here?@@Why don’t you take a little walk through those doors. Glowing pit, pretty-pretty. Heh, heh, heh.}
+{7000}{}{Energy production and storage? You hit the right place, smoothie. Anyway, what did you want to know exactly?}
+{7010}{}{I'm currently interested in energy cells and... [You explain everything to Hank]}
+{7020}{}{Is there any way to store electrical energy more efficiently? I was thinking... [You explain everything to him]}
+{7030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
+{8000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
+{8010}{}{Alright. I've got that here. [Give him the $1500]}
+{8020}{}{Okay, let me fetch it for you... Be right back.}
+{9000}{}{Well, there is a way to do something like that... I could show you a few more pointers, let's say, for three grand. }
+{9010}{}{Okay, I've got that. Here you go.. [Give him $3000]}
+{9020}{}{Okay, let me fetch it for you... Be right back.}
+{10000}{}{Well, glad to see you got everything we need to start with, hehe... [Puts the money into one of his small pockets] Okay, let's start with it then. [Hank explains you everything you wanted to know. It takes a while.]}
+{10010}{}{Thank you for sharing that knowledge with me, Hank. See you around!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}

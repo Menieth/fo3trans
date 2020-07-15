@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -23,6 +23,12 @@ lang=engl
 {210}{}{He looks momentarily confused, as if having forgotten who he was, then
  smiles and scratches his head.}
 {210}{}{He smiles at you with a toothless smile.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Come back later.@@There's no match right now.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Come back later.@@There's no match right now.}

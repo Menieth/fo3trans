@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +14,15 @@ lang=engl
 3 3000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ MACHINE STATUS TERMINAL OPERATING... WELCOME! ]}
+{2010}{}{[ Download data ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ INFORMATION COPIED ON YOUR PIP BOY ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

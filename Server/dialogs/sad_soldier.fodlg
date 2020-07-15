@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +14,12 @@ lang=engl
 {100}{}{Soldier from Sierra}
 {200}{}{You see an Soldier from Sierra.}
 {210}{}{Looks for someone who was born before The Great War.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}

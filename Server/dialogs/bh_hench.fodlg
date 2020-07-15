@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Mercenary}
 {200}{}{You see a bored person dressed in armor.}
 {210}{}{You see a dusty, bored person wearing armor. From the brahmin stench and the confident walk, this person is clearly a caravan guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Sorry, pal, but you’ll have to find someone else to play with.@@Get out of here.@@If you're looking for work, look elsewhere.@@Move!@@You're just trying to irritate me, aren't you?@@Quit bothering me.@@Don't you have anything better to do?@@Down in the NCR, it was the same thing over and over.@@Nothing is forever except for the road.@@Feel sorry for that kid we lost during our last run.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Sorry, pal, but you’ll have to find someone else to play with.@@Get out of here.@@If you're looking for work, look elsewhere.@@Move!@@You're just trying to irritate me, aren't you?@@Quit bothering me.@@Don't you have anything better to do?@@Down in the NCR, it was the same thing over and over.@@Nothing is forever except for the road.@@Feel sorry for that kid we lost during our last run.}

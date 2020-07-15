@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +13,12 @@ lang=engl
 [engl]
 {100}{}{Guardsman}
 {200}{}{Guardsman.}
+{1000}{}{Predialogue options}
+{1010}{}{Speak.}
+{2000}{}{Do not interfere.@@I'm watching you.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Do not interfere.@@I'm watching you.}

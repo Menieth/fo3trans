@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +16,14 @@ lang=engl
 {100}{}{Farmer}
 {200}{}{A simple farmer.}
 {210}{}{A farmer in some dirty clothes.}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Answer text}
+{2000}{}{Hello.@@How are you?@@It's always so quiet around here.@@Nothing to do... Nothing to do...@@Hmm...}
+{3000}{}{This is supposed to be a quiet place.@@Don't bring your filth here.@@Please leave,@@I hope you're not staying long.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Answer text}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -19,6 +20,18 @@ lang=engl
 {100}{}{Arena Manager}
 {200}{}{You see arena manager.}
 {210}{}{You see the Hub arena manager.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Do you want to fight in the arena? Yes or no, fast, time is money and the longer we talk, the more time we need, the less money I get. }
+{2010}{}{Yes, I want to fight in the arena.}
+{2020}{}{What is the arena?}
+{2030}{}{No, I don't have time as well.}
+{3000}{}{The arena is under the Hub. Folks can fight there under specific conditions. What now, you want to go there or not? }
+{3010}{}{Yes, I want to fight in the arena.}
+{3020}{}{Nah, sounds boring. Bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you want to fight in the arena? Yes or no, fast, time is money and the longer we talk, the more time we need, the less money I get. }

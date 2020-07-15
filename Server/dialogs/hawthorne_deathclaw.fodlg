@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Deathclaw}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -40,6 +41,37 @@ lang=engl
 {200}{}{You see Angela Bishop.}
 {210}{}{You see a young woman in tight leather. She looks too high-brow to be a whore.}
 {210}{}{You see Angela Bishop. She looks at you and starts licking her lips.}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{ugly}
+{1030}{}{-}
+{2000}{}{What do you want?}
+{2010}{}{Looking for a good time, honey?}
+{2020}{}{Nothing, I was just leaving.}
+{2030}{}{Want to buy some pure-grade jet?}
+{3000}{}{With you? Not on your life. Get out of here before I get the guards to beat the shit out of you. (She spits)}
+{3010}{}{Fine, fine!}
+{4000}{}{Get outta here, idiot.@@This ain't your place, dummy.@@Scoot, moron.@@The hell are you looking at, retard?}
+{5000}{}{God you're ugly.@@Scoot, freak.@@You stink of shit.}
+{6000}{}{Who are you and why would I want to do that?}
+{6010}{}{I represent the Mordinos, and I've got massive quantities of the purest jet you'll ever snort.}
+{6020}{}{The name's @pname@. And I just so happen to have an inordinate amount of jet in this briefcase that I am looking to sell.}
+{7000}{}{The Mordino's are scum. Get the hell out of here. You have 5 before I shout for the goons.}
+{7010}{}{I'm not a Mordino, I just represent them! Really!}
+{7020}{}{[Run off]Cheese it!}
+{8000}{}{Your five are up. Nice knowing you.}
+{8010}{}{Ohh shittt.}
+{9000}{}{How much are you selling it for?}
+{9010}{}{Nice and cheap. Distributor prices, and low ones at that.}
+{10000}{}{Really?}
+{10010}{}{You bet your ass!}
+{11000}{}{Can I...have a hundred?}
+{11010}{}{But of course! [Make the deal.]}
+{12000}{}{Thank you.}
+{12010}{}{No no no, thank you.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ugly}

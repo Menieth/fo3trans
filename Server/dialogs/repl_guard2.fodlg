@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Guard}
 {200}{}{You see a guard.}
 {210}{}{You see a guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{Get out of my bed, boy.@@Man, I needed to give my bed to you.@@Get the fuck out, boy.@@If we find you again, I will kill you.@@I am so pissed off.@@Stupid idiots all around.@@Yeah, move out.@@Get out of my bed, you idiot.}
+{3000}{}{Honey, if you like, you can stay as long as you want.@@You want to come back in my bed, honey?@@You should be way more careful, lady.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Answer text}

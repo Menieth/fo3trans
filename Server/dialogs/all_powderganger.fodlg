@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +18,16 @@ lang=engl
 {100}{}{Powder Ganger}
 {200}{}{You see a rough-looking person.}
 {210}{}{You see a powder ganger.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You tresspass into our lands. Now you die!@@How dare you come here uninvited!@@Die, city walker!@@Your death should bring me some money.@@Flee before me, puny one!@@You know the drill, gentlemen.@@No witnesses.@@Cover me.@@No mercy!}
+{2010}{}{Aw, crap.}
+{2020}{}{Shoot.}
+{2030}{}{Dang.}
+{2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You tresspass into our lands. Now you die!@@How dare you come here uninvited!@@Die, city walker!@@Your death should bring me some money.@@Flee before me, puny one!@@You know the drill, gentlemen.@@No witnesses.@@Cover me.@@No mercy!}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -21,6 +21,19 @@ lang=engl
 {100}{}{Strange person}
 {200}{}{Strange person}
 {210}{}{His robe has sever big stains of something red... Is it blood?}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings to you, traveller. What made you come here, to the land of Holy Plague?}
+{2010}{}{Holy Plague?}
+{2020}{}{Get your wallet here! Now!}
+{3000}{}{This town was touched by the Holy Plague and its citizens saw a true glory of the Plague God!}
+{3010}{}{Are you alone here? Where are other people?}
+{4000}{}{Only true followers of the Plague live here. My brothers and sisters are inside the old Brotherhood Outpost, you can find fresh supplies and whatever you wish there.}
+{4010}{}{I will take a look..}
+{4020}{}{You weirdo...}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings to you, traveller. What made you come here, to the land of Holy Plague?}

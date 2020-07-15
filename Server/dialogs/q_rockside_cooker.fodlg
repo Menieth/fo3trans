@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -78,6 +78,77 @@ lang=engl
 [engl]
 {100}{}{Cooker}
 {210}{}{Very fat guy with big scar all over his face.He seems to be annoied.}
+{1000}{}{Predialogue installations}
+{1010}{}{Known}
+{1020}{}{Unknown}
+{2000}{}{And who the damn hell are you?}
+{2010}{}{I am @pname@.}
+{2020}{}{My name is @pname@.}
+{2030}{}{Not your's business.}
+{3000}{}{Oh great... Another wanker from fridge. I am Cooker, the one who holds this magnificent bar and supports such wankers as you with food and drink.}
+{3010}{}{Well, nice to meet you.}
+{3020}{}{Very good for you.}
+{3030}{}{Great...}
+{3040}{}{Hah! It seems more like you ate somebody instead.}
+{4000}{}{Is there something else you want?}
+{4010}{}{Tell me about yourself.}
+{4020}{}{Really, man, whom did you eat?}
+{4030}{}{I am from Francis. He asks for a bottle of beer.}
+{4040}{}{I'd like to buy some beer.}
+{4050}{}{I'd like to buy some nuka,}
+{4060}{}{I'd like to buy some iguana,}
+{4070}{}{Wanna trade?}
+{4080}{}{Need to go.}
+{4090}{}{I am from Judith, she asks for a bottle of rum.}
+{4100}{}{About that bottle of rum for Judith...}
+{4110}{}{Can you give me a bottle of spoiled beer?}
+{5000}{}{Well, I was born in small village on South of California. I don't remember my parents but I remember the fact that I trully hated everyone in that trash pit, so I ran away from there. Served a small raider party, but then decided to retire and ended up here.}
+{5010}{}{What happened to your village?}
+{5020}{}{Sad story... Were they all eating people?}
+{5030}{}{I'd like to talk about other things...}
+{5040}{}{Cool, bye.}
+{6000}{}{I have no damn idea what happened with my village, and I don't even care about it.}
+{6010}{}{Great, I want to know something else...}
+{6020}{}{Alright, it's time for me to go.}
+{7000}{}{Do I look like a trader? I don't accept any fucking barter here.}
+{8000}{}{Francis? Ah yeah, yeah... sure... [he takes something from the fridge] Here it is, give it to him.}
+{8010}{}{I want to ask you about one thing...}
+{8020}{}{Thanks,see ya.}
+{9000}{}{It is 5 bottle caps per bottle.}
+{9010}{}{I will take 1.}
+{9020}{}{I will take 2.}
+{9030}{}{I will take 5.}
+{9040}{}{Nevermind...}
+{10000}{}{It is 10 bottle caps per bottle.}
+{10010}{}{I will take 1.}
+{10020}{}{I will take 2.}
+{10030}{}{I will take 5.}
+{10040}{}{Nevermind...}
+{11000}{}{It will cost you 7 bottle caps.}
+{11010}{}{I will take 1.}
+{11020}{}{I will take 2.}
+{11030}{}{I will take 5.}
+{11040}{}{Nevermind...}
+{12000}{}{Don't waste my time then.}
+{13000}{}{SHUT UP!}
+{14000}{}{Judith, huh? I will not give a single bottle to that bitch because she didn't pay me for the last time.}
+{15000}{}{It costs 25 caps as it is the only bottle left so far.}
+{15010}{}{Nevermind...}
+{15020}{}{I take it.}
+{16000}{}{Here you are. Now get lost, I have tonns of things to do.}
+{17000}{}{Great job. Here is your payment.}
+{18000}{}{Alright, here... bring this to Farton, than come back for another order.}
+{19000}{}{Great, now take this and bring it to Robert. Than come back for the last order. }
+{20000}{}{Alright, now bring this to Julia.}
+{21000}{}{Great... Thanks for help. Here, take this.}
+{21010}{}{As for surroundings... What do you think about making everything in post modern style?}
+{22000}{}{What is "post modern"?}
+{23000}{}{It will cost you 3 caps.}
+{23010}{}{Here you are.}
+{23020}{}{I will be back later.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}

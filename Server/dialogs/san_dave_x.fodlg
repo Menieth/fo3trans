@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,12 @@ lang=engl
 {200}{}{You see a man with sand-colored hair.}
 {210}{}{You see Dave-X.}
 {210}{}{You see a man with sand-colored hair and the glitter of hope in the eyes.}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Greetings, enlightened one.@@I'm going to move on Vikki... umm... soon.@@"Does my terminal have 3D-card support?"@@"Why can't I get multi-user hookup?"@@"I think we ought to change the interface, even though this one works perfectly well!" Idiots!@@"The interface on my terminal is slow and clunky. I think it's your fault."}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, enlightened one.@@I'm going to move on Vikki... umm... soon.@@"Does my terminal have 3D-card support?"@@"Why can't I get multi-user hookup?"@@"I think we ought to change the interface, even though this one works perfectly well!" Idiots!@@"The interface on my terminal is slow and clunky. I think it's your fault."}

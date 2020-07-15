@@ -14,7 +14,7 @@ q_iguana_pete_ban (player is banned from iguana pete)
 7 = told pete his son is dead
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -153,4 +153,69 @@ lang=engl
 {100000003}{}{I see trees of green, red roses too, I see them bloom, for me and you... And I think to myself what a wonderful world}
 {100000004}{}{I see skies of blue and clouds of white bright blessed days, dark sacred nights... And I think to myself what a wonderful world }
 {100000005}{}{The colors of a rainbow so pretty in the sky are also on the faces of people going by, I see friends shaking hands, saying how do you do, they're really saying, I love you}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{2000}{}{You want some iguana-on-a stick? Some iguana-on-a-stick, we have only iguana-on-a-stick, you want some? Yeah?}
+{2010}{}{Iguana Bob?}
+{2020}{}{Yeah, I'd love an iguana-on-a-stick!}
+{2030}{}{I'm actually here with a delivery of meat jerky from Modoc. Grisham sent me.}
+{2040}{}{I'm sorry Pete. Your son was squished by a by a Super Mutant and strung up at Golgotha. The wasteland can be harsh sometimes.}
+{2050}{}{Uhm no, thanks. I have other stuff to do.}
+{3000}{}{Bob? No, my name is not Bob. My name is Pete. Iguana Pete! I come from a small settlement called Rattleville in the east of here.}
+{3010}{}{So... uhm... Pete. Why is Bob's Iguana Bits written on the board?}
+{3020}{}{Oh, ok. Then give me an iguana-on-a-stick, Pete.}
+{3030}{}{Whatever. I have other stuff to do. Bye.}
+{4000}{}{That'll be 100 bottle caps.}
+{4010}{}{100 bottle caps, what the fuck?}
+{4020}{}{I don't have that much money!}
+{4030}{}{Ok, here you go. Now gimme my iguana-on-a-stick!}
+{4040}{}{Eh no. Not today. See ya.}
+{5000}{}{Pete say's thank you very much, here is your iguana-on-a-stick. }
+{5010}{}{Yeah, whatever. Bye.}
+{5020}{}{Thanks. Do you have some more?}
+{6000}{}{No, there is not Bob on the board, there is Pete. You can not read? Wait... uh... oh... Bob? Who the fuck is Bob? Ah... eh... nevermind. Hi, my name is Bob. You want some iguana-on-a-stick? Yeh? Iguana-on-a-stick? We have iguana-on-a-stick right here.}
+{6010}{}{Yeah, whatever. Bye.}
+{6020}{}{Give me an iguana-on-a-stick please, Bob or Pete or whoever you are.}
+{7000}{}{Yeh, 100 bottle caps. My iguana-on-a-stick is the bestest best iguana-on-a-stick of all available iguana-on-a-stick here in the Hub!}
+{7010}{}{Ok, if you say so, then give me an iguana-on-a-stick!}
+{7020}{}{You are just crazy. I am going. Bye.}
+{8000}{}{Then you don't have the right to get the bestest best iguana-on-a-stick in the Hub!}
+{8010}{}{I think, that I should go then and leave you alone...}
+{8020}{}{Oh! See! I found some bottle caps in my pocket! I changed my mind, give me some of your iguana-on-a-stick!}
+{9000}{}{Oh boy, tell Grishem that he has the BEST damn meat jerky in the wastes. Thanks a lot, here's 250 caps. I hope you'll be back with more meat soon!}
+{9010}{}{Sure thing, I could use some more caps. I'll be back soon.}
+{9020}{}{Dude, you're annoying.}
+{9030}{}{Not likely.}
+{10000}{}{...welcome to igua... [sniff] ..na on a stick...}
+{10010}{}{I'd like an Iguana-on-a-stick please.}
+{10020}{}{Why so glum?}
+{11000}{}{It's nothing, what do you want?}
+{11010}{}{One iguana on a stick, and don't cry on it, bitch.}
+{11020}{}{Don't be like that. It's a vicious wasteland out there and we gotta stick together. What's got you in such a state?}
+{11030}{}{Nothing, nevermind.}
+{12000}{}{Here! Take it and get the fuck out of here!}
+{13000}{}{It's just that... today would be my son's 21st birthday, and I haven't seen him in years.}
+{13010}{}{Let it out man, let it all out...}
+{14000}{}{He ran away when he was 16,  told me he was going to be an adventurer, like in his goddamn comic books. ::sniff:: I just hope the slavers picked him up before the raiders did..  y'know? At least they would have looked after him a bit.}
+{14010}{}{Hey... I think I might have met him.}
+{14020}{}{Real interesting story, [look at watch] see you around...}
+{15000}{}{What?}
+{15010}{}{Well, he actually doesn't look like you that much... But he has a stand that says 'Son of Bob' and he sells dead iguanas.}
+{15020}{}{Yeah, but he didn't look so good. He was dangling from a cross in Golgotha with his guts all hangin' out... real shame... I got his shoes, do you wanna see?}
+{16000}{}{That's horrible, you're horrible! Get out of here!}
+{17000}{}{That can't be my son, I'm Pete, Iguana Pete, just look at my sign. P...E...T... uhhh Bob? Oh, it must be him! Amazing! You've made my day!... I have to get a message to him, do you think you could visit him for me? I can pay you.}
+{17010}{}{Sure, caps are always good.}
+{17020}{}{No. I'm not your goddamn postman.}
+{18000}{}{Thank you, just let him know that I'm still here, I forgive him, and if he comes back things will be different.}
+{18010}{}{Got it. I'll let him know.}
+{19000}{}{Go away!@@Leave me alone!@@I won't serve you, asshole@@You're banned!}
+{20000}{}{Oh no. Please... give me a moment}
+{20010}{}{Hey! What about my caps?}
+{21000}{}{Okay fine.. here, take it.. but please, just go.}
+{21010}{}{Goodbye Pete...}
 

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +16,12 @@ lang=engl
 {210}{}{You see a Scribe of the Brotherhood of Steel.}
 {240}{}{You see a dead Scribe.}
 {260}{}{You see a slain Scribe.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello.@@I don't have time for you now.@@Checking for news, eh?@@Here is nothing new to see.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello.@@I don't have time for you now.@@Checking for news, eh?@@Here is nothing new to see.}

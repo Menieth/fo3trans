@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Sentury Bot 3700}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, fellow wastelander! Welcome in Hawthorne!@@Please be reasonable and do not try to violate the peace.@@Nice to meet you! Welcome in Hawthorne!@@I am here to protect you, fear not!@@Welcome to Hawthorne. The lovely city ruled by Yamantaka.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, fellow wastelander! Welcome in Hawthorne!@@Please be reasonable and do not try to violate the peace.@@Nice to meet you! Welcome in Hawthorne!@@I am here to protect you, fear not!@@Welcome to Hawthorne. The lovely city ruled by Yamantaka.}

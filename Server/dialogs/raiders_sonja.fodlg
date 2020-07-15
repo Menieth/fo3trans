@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Sonja}
 {200}{}{You see Sonja.}
 {210}{}{You see a red haired, handsome young woman.}
+{1000}{}{Predialogue installations}
+{1010}{}{standard khan chatter}
+{2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{standard khan chatter}
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}

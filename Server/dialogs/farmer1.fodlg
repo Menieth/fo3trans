@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,12 @@ lang=engl
 {200}{}{You see a farmer.}
 {240}{}{You see a dead farmer.}
 {260}{}{You see a slain farmer.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I need better soil.@@I'm not hiring.@@I don't need more water, please leave.@@This soil is too hard.@@These stupid plants aren't going to survive.@@Why did I become a farmer?@@Those mutts better not be pissing on my crops.@@I hate dogs!@@What? Do you go around bothering everyone?@@What a day. I'm exhausted.@@I'll call the police.@@I'm tired. Please leave.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I need better soil.@@I'm not hiring.@@I don't need more water, please leave.@@This soil is too hard.@@These stupid plants aren't going to survive.@@Why did I become a farmer?@@Those mutts better not be pissing on my crops.@@I hate dogs!@@What? Do you go around bothering everyone?@@What a day. I'm exhausted.@@I'll call the police.@@I'm tired. Please leave.}

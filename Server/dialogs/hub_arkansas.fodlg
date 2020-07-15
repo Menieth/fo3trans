@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -27,6 +27,27 @@ lang=engl
 
 [engl]
 {100}{}{Doctor Arkansas}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello. I am doctor Arkansas. How can I help you today?}
+{2010}{}{Do you sell some meds, doc?}
+{2020}{}{What is it like to be a doctor in such place?}
+{2030}{}{I am hurt. Help me, doc!}
+{2040}{}{Nothing. Goodbye.}
+{3000}{}{No, we are short in medical supplies nowadays, so I can't sell you anything.}
+{3010}{}{Fine then. I need to go.}
+{3020}{}{One more thing...}
+{4000}{}{It is usually quite peaceful here. Mostly have to fix wounds and broken limbs of the drunks from local bar.}
+{4010}{}{Alright... One more thing to ask.}
+{4020}{}{That's all what I wanted. See ya.}
+{5000}{}{Just 350 caps and you will be as good as a new one again.}
+{5010}{}{Here... Please hurry, it hurts.}
+{5020}{}{How many?! Eh... You know, I feel fine already.}
+{5030}{}{Oh no, that's too many. Bye.}
+{6000}{}{Here you go...}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. I am doctor Arkansas. How can I help you today?}

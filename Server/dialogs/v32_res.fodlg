@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +14,14 @@ lang=engl
 
 [engl]
 {100}{}{Vault 32 Resident}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{Good day.@@What is it?@@Are you an outsider?@@Yes?@@Sorry, I can't help you.@@Outsiders are not allowed to get inside the Vault.}
+{3000}{}{Hello, Overseer!@@Nice to see you again, Overseer.@@You are the best, Overseer.@@All praise our Overseer!@@Good day to you, Overseer @pname@.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

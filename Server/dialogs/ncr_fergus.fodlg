@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -44,6 +45,42 @@ lang=engl
 {200}{}{You see a plain-looking young man in respectable clothing.}
 {210}{}{It's the building receptionist.}
 {210}{}{There's nothing partiuclarly exceptional about the guy. He looks like the epitome of a budding bureaucrat.}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{dumb}
+{1030}{}{2}
+{2000}{}{Welcome to Congress House. How can I help you?}
+{2010}{}{Me want work!}
+{2020}{}{I'm here to see President Tandi.}
+{2030}{}{Gunther said, you will give me my reward for that train job.}
+{2040}{}{You can't. bye.}
+{2050}{}{Nothing. Me going.}
+{3000}{}{And why do you want see Madam President?}
+{3010}{}{I'm looking for work.}
+{3020}{}{Forget it. Bye.}
+{4000}{}{That's nice, but this isn't a hiring hall. Why don't you try downtown?}
+{4010}{}{No, I am asking YOU for a job.}
+{4020}{}{Alright, screw you then.}
+{5000}{}{You're a sticky one, are you? Well, then... Maybe there is something you could do. Talk to Mr. Gunther, in the backroom.}
+{5010}{}{Thanks.}
+{6000}{}{Oh hell, from what zoo are you coming? Get out here!}
+{7000}{}{Ah yes, the job. Here, 300 caps for you. }
+{7010}{}{What, just 300 caps? Isn't this a bit less for such a job?}
+{7020}{}{What, just 300 caps? Isn't this a bit less for such a job?}
+{7030}{}{That's all I want to have. Bye.}
+{8000}{}{Well, you took all of the equipment the gang has stolen from us, didn't you? So this should weight enough.}
+{8010}{}{Yes, you are right. Thanks and bye.}
+{8020}{}{Fuck you. [Leave]}
+{9000}{}{That's nice. This isn't a hiring hall. Try downtown, maybe you find someone there for your... simple mind.?}
+{9010}{}{Okay.}
+{9020}{}{No, me WANT WORK!}
+{10000}{}{You are a sticky one, are you? Well, then... Maybe there is something you could do. Go to Mr. Gunther, in the backroom. Talk to him... or try at least.}
+{10010}{}{Good.}
+{11000}{}{You have done a good job... Maybe you are right. Here, I'll give you additional 150 caps. }
+{11010}{}{Thanks. Have to go now.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb}

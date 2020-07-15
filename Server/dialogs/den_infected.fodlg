@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +16,16 @@ lang=engl
 
 [engl]
 {100}{}{Strange person}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Grrr...}
+{2010}{}{Hey? Are you alright?}
+{3000}{}{Aaaarghh... Shhrr... [ you see the blood coming out of his mouth ]}
+{3010}{}{What a hell is wrong with you?!}
+{3020}{}{Oh dear! You are infected.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}

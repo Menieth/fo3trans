@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +17,15 @@ lang=engl
 {100}{}{Bruce}
 {200}{}{Strangly looking rad scorpion.}
 {210}{}{Does he... wear glasses?}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see a rad scorpio wearing glasses. ]}
+{2010}{}{Whatever...}
+{2020}{}{Hey... Bruce? Doc Redwolf is loking for you. I guess you should return back home.}
+{3000}{}{*hisses*}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a rad scorpio wearing glasses. ]}

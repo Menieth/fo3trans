@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,14 @@ lang=engl
 
 [engl]
 {100}{}{error}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What's your poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{Nothing today, thanks.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What's your poison, pal?}

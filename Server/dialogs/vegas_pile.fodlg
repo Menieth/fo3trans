@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +15,15 @@ lang=engl
 
 [engl]
 {100}{}{Junk}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see a junk pile ]}
+{2010}{}{[ Search for a briefcase ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ You got something out of the pile ]}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a junk pile ]}

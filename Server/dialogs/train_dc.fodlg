@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -28,6 +28,27 @@ lang=engl
 [engl]
 {100}{}{Deathclaw}
 {210}{}{Deathclaw... Though wait... Does he wear eyeglasses?}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Well, hello... Whoever you are....}
+{2010}{}{A talking deathclaw... What is your name, actually?}
+{3000}{}{Fine, fine... It will be nice to have some practise... Okay, stand still, it will hurt a little...}
+{3010}{}{Actually wait! Not now! I better go.}
+{3020}{}{Alright! Do it!}
+{4000}{}{Why? I am Christopher! You must know me! Everyone must know me! My work changed the world!!!}
+{4010}{}{Your work?}
+{5000}{}{Dear my.... From what ass, I am sorry, you came out to?! I am a very well known scientist! I used to work together with lead scientists of United States of God-bless-us-all-fucking-hell  America! I managed to find proper FEV formula! You must know it! Didn't your teacher tell you about FEV? New Plague and evolution?! Finally I... I've been working with my dearest...}
+{5010}{}{[ Keep listening ]}
+{5020}{}{[ Leave ]}
+{6000}{}{... collegues from National Guard... Or how they call themselves - Enclave. My works are known! I managed to make FEV work as I wish! We can make anything out of human beeing! FEV can make you stronger! Faster! Better! [ he turns around and speaks with somebody behind him, though there is noone there ] YES! I know that these idiots from Novarro decided to kick me away because of the last experiment... I AM NOT CRAZY! NOT CRAZY!}
+{6010}{}{[ Leave ]}
+{6020}{}{Hey, wait a second. The experiment made you like this? Can you turn me into the deathclaw as well?}
+{6030}{}{Hey, wait a second. The experiment made you like this? Can you turn me into the deathclaw as well?}
+{6040}{}{Awesome. I better go.}
+{7000}{}{You?! Oh no way, you look so weak! No proper experience! The experiment like this will kill you!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Well, hello... Whoever you are....}

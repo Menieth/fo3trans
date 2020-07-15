@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,11 @@ lang=engl
 [engl]
 {100}{}{Brotherhood Knight}
 {210}{}{He seems to be insane.}
+{1000}{}{Predialogue installations}
+{2000}{}{...}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{...}
 

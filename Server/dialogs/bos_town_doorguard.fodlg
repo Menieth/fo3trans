@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -50,6 +50,50 @@ lang=engl
 {100}{}{BoS Guard}
 {200}{}{You see a Brotherhood guard.}
 {210}{}{You see a man fully dressed in Brotherhood of Steel gear who appears to be guarding a bunker.}
+{1000}{}{Predialogue installations}
+{1010}{}{BoS member}
+{1020}{}{disguised}
+{1030}{}{Not BoS.}
+{1040}{}{No faction}
+{2000}{}{You have no business here. Leave now.}
+{2010}{}{Are you folks interested in a few high quality weapon manufacturing plans from the Gun Runners?}
+{2020}{}{Goodbye.}
+{3000}{}{The Brotherhood of Steel maintains the highest security at its facilities. State your business immediately or leave.}
+{3010}{}{I've brought back the 5mm ammuntion you requested.}
+{3020}{}{I'd like to apply for membership in the Brotherhood of Steel.}
+{3030}{}{Could you tell me more about the Brotherhood of Steel?}
+{3040}{}{Are you folks interested in a few high quality weapon manufacturing plans from the Gun Runners?}
+{3050}{}{I'll be going now.}
+{4000}{}{We are not recruiting, buddy.}
+{5000}{}{I am quite impressed. Individuals with medical expertise of your caliber are few and far between. Consider yourself a Recruit. Holding the lowest rank in the Brotherhood, you have no say in any operations we conduct, and are here simply to follow orders. Is this clear?}
+{5010}{}{Absolutely, sir.}
+{6000}{}{Despite already having enough men on the front lines, you seem to know what you're talking about. And if you're lying to me, you won't make it a day out in the field. Consider yourself a Recruit. Holding the lowest rank in the Brotherhood, you have no say in any operations we conduct, and are here simply to follow orders. Is this clear?
+}
+{6010}{}{Absolutely, sir.}
+{7000}{}{You can stop there. I believe you. The Brotherhood needs more individuals who can handle aspects of our business peacefully. It makes some interactions just flow a little more smoothly. Consider yourself a Recruit. Holding the lowest rank in the Brotherhood, you have no say in any operations we conduct, and are here simply to follow orders. Is this clear?
+}
+{7010}{}{Absolutely, sir.}
+{8000}{}{Due to our extensive operations, we are always in need of ammunition. Specifically, we need 5mm armor piercing rounds. Bring back 200 of them, and we'll consider your admission. }
+{8010}{}{I have them right here.}
+{8020}{}{Expect me back soon.}
+{9000}{}{Well done. Consider yourself a Recruit. Holding the lowest rank in the Brotherhood, you have no say in any operations we conduct, and are here simply to follow orders. Is this clear?}
+{9010}{}{Absolutely, sir.}
+{10000}{}{Excellent. This facility, like others in major towns, is comprised of only a few members and very basic equipment. Think of this place as a location to reach new members while at the same time keep an eye on the wasteland. Enter through those doors and speak with our Recruit trainer inside.}
+{10010}{}{Thank you, sir.}
+{11000}{}{Welcome back, brother.}
+{11010}{}{Are you folks interested in a few high quality weapon manufacturing plans from the Gun Runners?}
+{11020}{}{Goodbye.}
+{12000}{}{The Brotherhood of Steel collects and maintains pre-war technology. That is all I am able to tell you at this time.}
+{12010}{}{[Exit]Thank you.}
+{13000}{}{You have... what? From where did you got these? Hand them over and I'll guarantee you fair paiment.}
+{13010}{}{Here it is. [You give him the metal box.]}
+{13020}{}{No! I changed my mind. Goodbye.}
+{14000}{}{As far as I know, the Gun Runners are rigging their packages with explosives... Our scribes should be able to take care of that. About your reward... This should be enough to compensate your costs. [He gives you a batch of weapon blueprints in exchange for the Gun Runners box.]}
+{14010}{}{Thanks and goodbye.}
+{15000}{}{Welcome back, brother.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS member}
 {1020}{}{disguised}

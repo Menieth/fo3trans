@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -25,6 +25,31 @@ lang=engl
 8 8000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Done}
+{1020}{}{Default}
+{2000}{}{[You connect your pipboy to the terminal.] \Input Command\}
+{2010}{}{/down research_data}
+{2020}{}{/down data -all}
+{3000}{}{\Research Data Downloaded.\ 
+\Input Command\}
+{3010}{}{/down maintenance_data}
+{4000}{}{\Maintenance Data Downloaded\
+\Input Command\}
+{4010}{}{/down logs -all}
+{5000}{}{\Team Logs Downloaded\
+\Input Command\}
+{5010}{}{/down robobrain.*}
+{6000}{}{\Robobrain Data Downloaded\
+\System.exit (0)\}
+{6010}{}{[Log off.]}
+{7000}{}{\Hard Drive Downloaded\
+\System.exit (0)\}
+{7010}{}{[Log off.]}
+{8000}{}{There's no response from the terminal.}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Done}

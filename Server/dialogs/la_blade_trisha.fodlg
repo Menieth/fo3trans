@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -51,6 +51,49 @@ lang=engl
 {100}{}{Trisha}
 {200}{}{You see Trisha.}
 {210}{}{A really busy looking elderly woman in front of a desktop that is fully covered with more and less valuable junk.}
+{1000}{}{Predialogue installations}
+{1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
+{1020}{}{Answer text}
+{1030}{}{Talked once}
+{2000}{}{[In front of you behind the desk you see an elderly looking woman with lots of junk all around the tables. She seems to be busy sending people in and out, now she turns your head towards you and looks like expecting something fancy.] ... NEXT!}
+{2010}{}{What is this place?}
+{2020}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2030}{}{Goodbye.}
+{3000}{}{[Trisha seems to be busy sending people in and out, now she turns your head towards you and looks like expecting something fancy.] ... NEXT!@@ [Trisha seems to be busy sending people in and out, now she turns your head towards you and looks like expecting something fancy.] ... What do you have?}
+{3010}{}{This is what I have with me right now...}
+{3020}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{3030}{}{Goodbye.}
+{4000}{}{[The woman looks at you in a way that it seems like she will explode your head in a second.] Does this looks like a chit-chat place? Does it? Show me what you've got salvaged or piss off.}
+{4010}{}{No, seriously. What is this place?}
+{4020}{}{Uh, oh... nothing. Bye.}
+{5000}{}{My god, how could you find your way to me? This here is the main stopoff point of all salvager squads in the Boneyard. We are collecting every piece of worthfull looking junk, cleaning, processing and sending it to New Adytum afterwards, where it will get used as production materials in whatever form.}
+{5010}{}{Interesting. This is what I have with me right now...}
+{5020}{}{That's all I wanted to know. Bye.}
+{6000}{}{[She takes a look.]}
+{6010}{}{I've got some junk. 40 caps.@@Here is some junk. 40 caps.@@Some junk for you. 40 caps.}
+{6020}{}{I've got some electronic parts. 50 caps.@@Here are some electronic parts. 50 caps.@@I've found some electronic parts. 50 caps.@@Take the electronic parts. 50 caps.}
+{6030}{}{I've found this gold locket. 100 caps.}
+{6040}{}{Do you have any use for a waterchip? 200 caps.@@I found this waterchip. 200 caps.}
+{6050}{}{You can have this tape recorder. 30 caps.@@Take this tape recorder. 30 caps.@@This tape recorder here. 30 caps.}
+{6060}{}{I've found a small piece of machinery. 50 caps.}
+{6070}{}{You can have the holodisk. 100 caps.@@Take the holodisk. 100 caps.@@Here is a holodisk. 100 caps.}
+{6080}{}{I've got some car fuel cell controller for you. 500 caps.}
+{6090}{}{You can take the car fuel cell regulator. 100 caps.}
+{6100}{}{I have this robot parts. 50 caps.@@The robot parts, that's what you can have. 50 caps.@@I am selling this robot parts. 50 caps.}
+{6110}{}{I am selling this robot motivator. 250 caps.}
+{6120}{}{This excavator chip has any use for you? 250 caps.}
+{6130}{}{I changed my mind. Don't have anything valuable right now. Bye.}
+{7000}{}{Good, here are your caps. Anything else?}
+{7010}{}{Yes, take a look...}
+{7020}{}{Nothing. Bye.}
+{8000}{}{We've got a real junk merchant here, eh boys? Don't tell me, you want to trade, do you? Ah, wait! Cut the talking and show me what you've got with you...}
+{8010}{}{This is what I have with me right now...}
+{8020}{}{Goodbye.}
+{9000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{9010}{}{Hey thanks! See you later!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,13 @@ lang=engl
 
 [engl]
 {100}{}{Police Barrier}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Metal barrier, found in the Police Station storage room. Used to hold down... someone? Something? Anyway, it's no use against horde of hungry ghouls. Or dogs. Or deathclaws.}
+{2010}{}{[ Exit ]}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Metal barrier, found in the Police Station storage room. Used to hold down... someone? Something? Anyway, it's no use against horde of hungry ghouls. Or dogs. Or deathclaws.}

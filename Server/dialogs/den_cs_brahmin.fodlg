@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Brahmin}
 {200}{}{You see a brahmin.}
 {210}{}{A normal, domesticated brahmin.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Moo.@@Mooooo.@@Moo?@@Mooo.@@Moooo!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Moo.@@Mooooo.@@Moo?@@Mooo.@@Moooo!}

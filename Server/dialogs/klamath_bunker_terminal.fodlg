@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -11,6 +11,12 @@ lang=engl
 2 2000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Stay on the brick... And they won't... ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

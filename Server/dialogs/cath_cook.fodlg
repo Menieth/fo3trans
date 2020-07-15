@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Cook}
 {200}{}{You see the cook.}
 {210}{}{She seems to be busy with cooking the food.}
+{1000}{}{Initial preferences}
+{1010}{}{weapons}
+{1020}{}{---}
+{2000}{}{Please, lay down your weapons. This is a peaceful place!}
+{3000}{}{Did you ever ate Wasteland Fajitas?@@I still have to get some mushrooms done.@@Sorry, but I can't give you anything of it.@@Hello!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}

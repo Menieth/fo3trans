@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,12 @@ lang=engl
 {200}{}{You see a prisoner.}
 {240}{}{You see a dead prisoner.}
 {260}{}{You see a slain prisoner.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}

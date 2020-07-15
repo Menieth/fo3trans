@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -29,6 +30,28 @@ lang=engl
 {100}{}{Joshua}
 {200}{}{You see Joshua.}
 {210}{}{You see a scruffy-haired young man with a sheepish smile.}
+{1000}{}{Predialogue installations}
+{1010}{}{Collect rent quest.}
+{1020}{}{default}
+{2000}{}{It's hard to live in the Courtyard, I tell ya.@@My wife and I thought about moving on, but never scraped together enough cash.@@The crops don't bring us enough to survive here.@@I haven't got a clue what I'm gonna do to feed my family.@@You know, they once imprisoned me in the Servant Allocation Centre. Good thing it's behind me now.}
+{3000}{}{Yes? What can a poor man do to help you?}
+{3010}{}{I'm here to collect your rent.}
+{3020}{}{I'm sorry, I gotta go.}
+{4000}{}{You're taking the bread from a man's mouth. I.. I haven't got a clue what I'm gonna do to feed my family. Please have mercy.}
+{4010}{}{Alright. I'll pay for you.}
+{4020}{}{I'm not going to help you. Give up the money.}
+{4030}{}{Nevermind. I gotta go.}
+{5000}{}{Thank you stranger. You are a good man. Here take this stimpak. It isn't much, but it's the most I can give.}
+{5010}{}{No. You keep it. You'll need it more than I.}
+{5020}{}{It's good enough. Goodbye.}
+{6000}{}{Thank you again. I won't forget your kindness.}
+{6010}{}{Goodbye.}
+{7000}{}{Take it. Take away the last crumbs.}
+{7010}{}{Thank you. Now you die. [Attack]}
+{7020}{}{Good boy. Now I'll get going.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}

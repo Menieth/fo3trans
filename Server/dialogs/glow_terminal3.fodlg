@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +16,20 @@ lang=engl
 0 3020 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{[ Error. Low power. ]}
+{2010}{}{[ Weapon Test #99 ]}
+{2020}{}{[ Exit ]}
+{3000}{}{Test-Subject: Impulse Rifle Model 4 
+Test-Target: Power Armor Model 466
+
+After several changes (including more comfortable grip and trigger system), test-weapon is almost ready to it's final version. Any PA can be destroyed in seconds, making this rifle good counter-measure to "unpleasant accidents". Required real combat info, to check durability and soldiers opinion.}
+{3010}{}{[ Back ]}
+{3020}{}{[ Exit ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }

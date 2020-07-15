@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -97,6 +97,94 @@ lang=engl
 {200}{}{You see Jacob, the arms dealer.}
 {210}{}{He looks very self-confident.}
 {210}{}{You see a burly old mutant with a weary cast to his face. He still looks vigorous and tough.}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{Dumb}
+{1030}{}{Normal}
+{2000}{}{Hi! Welcome to Jake's. I've got some great merchandise in stock. Feel free to look around.}
+{2010}{}{Me wants to buy.}
+{2020}{}{Me going. Bye.}
+{3000}{}{Hi! Welcome to Jake's. I've got some great merchandise in stock. Feel free to look around.}
+{3010}{}{Enough of window shopping, let's deal!}
+{3020}{}{What are you selling here?}
+{3030}{}{From where do you get your weapons?}
+{3040}{}{About the Gun Runners.}
+{3050}{}{Do you provide any other services?}
+{3060}{}{Let's talk about big guns.}
+{3070}{}{I've got your Gun Runners shipment with me.}
+{3080}{}{Maybe I'll check out your stuff later. Bye.}
+{4000}{}{I deal with high end arms. The best stuff you can find this side of the Brotherhood, and since the Brotherhood doesn't deal with outsiders, I've gotta say I'm the best. I have a contact who can get me sniper rifles, and you would be hard pressed to find Flame Thrower fuel anywhere else in the wastes. On yeah... I sometimes get Geiger counters, too. Very rare.}
+{4010}{}{Let's deal then!}
+{4020}{}{Do you provide any other services?}
+{4030}{}{Let's talk about big guns.}
+{4040}{}{Very informative. Gotta go, bye!}
+{5000}{}{Well, I'll tinker with big guns from time to time. If you got any questions about them, I should be the first one in the Hub you should ask.}
+{5010}{}{Great, I was just looking for a person like you! I had some questions, you see...}
+{5020}{}{I think I'll take a look at your merchandise first.}
+{5030}{}{Right, I'll keep that in mind. Bye!}
+{6000}{}{What's on your mind?}
+{6010}{}{I would like to know how they work, what they're made of... technical stuff.}
+{6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
+{6030}{}{Erhm... Actually, nothing right now. I better be going.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
+{7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
+{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{9000}{}{Very well, it's a deal then. [Jacob starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
+{9010}{}{Thanks for everything Jacob, that's exectly what I wanted to know. See you!}
+{10000}{}{Very well, it's a deal then. [Jacob starts explaining]}
+{10010}{}{Thanks Jacob, that was really something new for me. I have to go now, bye.}
+{11000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
+{12000}{}{Why do you want to know? I mean, like everyone else, I got several sources from all around the area... A good piece of stock comes from exchanging wares with other customers and the main stock comes from the Gun Runners.}
+{12010}{}{Interesting, but I would like it more to do some shopping instead of talking!}
+{12020}{}{Tell me about the Gun Runners.}
+{13000}{}{You can call them the major players in southern californias gun trade. Hell, see that combat shotgun over here? [He shows you a brand new looking Winchester City-Killer model behind a fenced locker.] That's pre-war tech, but it's not 200 years old! It was manufactured in one of their facilities...}
+{13010}{}{How does it come, the Gun Runners can produce such hardware?}
+{14000}{}{They have the blueprints and manufacturing tools and all that stuff and they sit on it like hungry coyotes. If they would at least send me my ordered wares faster...}
+{14010}{}{Got a supply shortage?}
+{15000}{}{Not only the shortage. I need more ammo and weapons in the next deliveries. Tell me, do you have anything fancy to do? I could need someone to check out why it's taking so long.}
+{15010}{}{I could do it.}
+{15020}{}{Sure, wanted to visit the Gun Runners anyway.}
+{16000}{}{Good! My contact is Marshal. Talk to him and tell him, that I am sending you.}
+{16010}{}{Where can I find the Gun Runners?}
+{16020}{}{I am on my way.}
+{17000}{}{Their headquarter is in the Angel's Boneyard, south of the Hub. You can't really miss it. Lot's of caravans and even rail lines are heading to that place.}
+{17010}{}{I am on my way.}
+{18000}{}{I am listening.}
+{18010}{}{Where can I find the Gun Runners again?}
+{18020}{}{You've got a new deal with the Gun Runners, but Marshal can't send the next delivery faster than usual.}
+{18030}{}{You've got a new deal with the Gun Runners and Marshal will send the next delivery a bit faster than usual.}
+{18040}{}{You've got a new deal with the Gun Runners.}
+{18050}{}{The Gun Runners want to have more money.}
+{18060}{}{Goodbye.}
+{19000}{}{Damnit. Good, fine. They want more money, they get more money. But tell them to send the next delivery faster or I simply cannot supply all my customers!}
+{19010}{}{The Gun Runners are manufacturing high quality weaponry, which takes it's time. If they need more time, you should respect that.}
+{19020}{}{I will talk to Marshal about it.}
+{20000}{}{High quality is good 'n stuff, but my customers want their weapons and I have to deliver them!}
+{20010}{}{I will talk to Marshal about it.}
+{21000}{}{Guess you are right. I should give them the time needed... but hell, it gets expensive a lot...}
+{21010}{}{You've got yourself a new deal, now let's talk about my payment.}
+{22000}{}{Thanks for your help. It's not the best and what I've hoped for, but oh well... The next delivery should run good on the marked, so I'll give you 400 hubbucks, some spare 10mm AP ammunition and this blueprint that I don't have any real use for.}
+{22010}{}{Goodbye.}
+{23000}{}{Thanks for your help. Would be good, if I could get the next delivery faster, but in any case the wares should run well on the marked. So, here... I'll give you 400 hubbucks and some spare 10mm ammunition that I don't have any real use for.}
+{23010}{}{Goodbye.}
+{24000}{}{Really thanks for your help! It's a better deal than I've hoped for and as the next delivery should run really good on the marked, I'll give you 600 hubbucks, some spare 10mm AP ammunition and this blueprint that I don't have any real use for.}
+{24010}{}{Goodbye.}
+{25000}{}{The next delivery should run good on the marked, so I'll give you 300 hubbucks, some spare 10mm AP ammunition and this blueprint that I don't have any real use for.}
+{25010}{}{Thanks and goodbye.}
+{25020}{}{That's all? I've been running around a lot, it for sure could give me some more money.}
+{25030}{}{That's all? I've been running around a lot, it for sure could give me some more money.}
+{26000}{}{The new deal you've got me is good, but not *that* good. Especially because I still have to wait for my delivery. So be happy with what you got... }
+{26010}{}{Goodbye.}
+{27000}{}{You are a stubborn one, eh? Fine, you'll get another 100 hubbucks.}
+{27010}{}{Goodbye.}
+{28000}{}{Man, it's about time! Give it to me, had been waiting for the delivery since weeks!@@About time! Give me the package and thanks.@@Thanks for the delivery, @sex@|boy||girl|, it's about time!@@Ah, finally! Hand it over, I'll take care from now on.}
+{28010}{}{Goodbye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +17,17 @@ lang=engl
 
 [engl]
 {100}{}{Drunk Joe}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{Heey bud... Won't ya give ol' pal Joe a couple o' caps? 5 maybe? Ol' Joe needs some caps to buy a pill. Ay?}
+{2010}{}{Back off, bum!}
+{2020}{}{Sure, here are some caps for you.}
+{3000}{}{Ay, thank ya for dose caps, bud!@@Ain't kidding, taxes are too high.@@Oi, I heard that that guy in de tent is...a... a clone? Yeah, something like dat.@@Doc is a nice pal, ya.@@These daimn scorpios in junkyard...@@Oh hi!@@Ain't dat my bud? Hiyo!}
+{4000}{}{Ooh, thank you!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

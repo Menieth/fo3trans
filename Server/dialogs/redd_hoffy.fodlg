@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -55,6 +56,54 @@ lang=engl
 {100}{}{James}
 {200}{}{You see a burly, thick-set man with short, bushy hair.}
 {210}{}{You see James Hoffy, the caravan master.}
+{1000}{}{Predialogue options}
+{1010}{}{fool}
+{1020}{}{ciaeii}
+{1030}{}{not familiar}
+{2000}{}{Hello there, I'm James Hoffy. But usually people call me Jimmy. I organize the caravans around here.}
+{2010}{}{Are there any caravans ready to go out now?}
+{2020}{}{Where do the caravans from Redding usually go?}
+{2030}{}{Hear any news around town lately?}
+{2040}{}{I was just looking around, Jimmy. Thanks. Goodbye.}
+{3000}{}{That I don't know. You'd have to ask the caravan drivers. You can usually find a caravan here on the 1st, 11th, and 21st of each month. Real neat and tidy that way. You see here, this is the way it works: When a caravan's in town and looking for help, the caravan master has his tent set up here just south of my castle. Real neat and tidy that way.}
+{3010}{}{Your castle? What do you mean?}
+{3020}{}{I see. I guess I'll talk to them, then. Thanks. Goodbye.}
+{4000}{}{What else is a man's home? Sheesh, were you brought up in a tent or something?}
+{4010}{}{Actually…I was.}
+{4020}{}{I've heard enough from you, damn bigot. Goodbye.}
+{5000}{}{Oh, yeah. Well, I guess that explains things, then. A lot of things. Heh, heh.}
+{5010}{}{Now that we've straightened that out, let me ask you something else.}
+{5020}{}{Yeah, I bet it has. Goodbye.}
+{6000}{}{We run caravans all over the fricking place. Let me tell you: We've got gold ore going out to Vault City, we've got some going out to New Reno (ooo-la-la, if ya know what I mean), and we've even got some going to those prissy bastards in the NCR.}
+{6010}{}{Let me ask you something else.}
+{6020}{}{What can you tell me about Vault City?}
+{6030}{}{What can you tell me about New Reno?}
+{6040}{}{What can you tell me about the NCR?}
+{6050}{}{Ok. Bye.}
+{7000}{}{There's not a lot of news these days. Ordinary things - the mine, caravans and all that kind.}
+{7010}{}{Can I ask you something else?}
+{7020}{}{Yeah. Okay, I'll go.}
+{8000}{}{Come on, get out of here.@@This ain't no charity ward. Now get out.@@Who let you out of the house, anyway?@@Anyone home in there?@@You're not quite smart enough to grunt, are you?@@Come on, already. Just move it out of here.@@I ain't got time for no stupids.}
+{9000}{}{Vault City (Jimmy spits disdainfully). Yeah, I'll tell you about those sons-of-bitches. Fucking bastards are too good for the rest of us. They only trade medicine to us because they need our gold. Otherwise they'd just let us all rot. I wouldn't spend too much time there, kid. But if you want to see it, Ben Wade heads out from here on the 1st of every month.}
+{9010}{}{What can you tell me about the NCR?}
+{9020}{}{What can you tell me about New Reno?}
+{9030}{}{Thanks. Let me ask you about something else.}
+{10000}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of fighting going on there. If those families ever worked together on something, then New Reno'd really be a power to be reckoned with. The way it is though…Pffft. You want to get there, join up with Savinelli - he leaves here on the 21st of each month.}
+{10010}{}{What can you tell me about Vault City?}
+{10020}{}{What can you tell me about the NCR?}
+{10030}{}{Thanks. Let me ask you about something else.}
+{11000}{}{The New California Republic is just full of self-righteous sons-of-bitches. They've got everything down their way all straightened out all right. A little too straight. They're as self righteous a bunch as you could ever meet. Stanwell runs a caravan from here to the NCR on the 11th of each month.}
+{11010}{}{What can you tell me about Vault City?}
+{11020}{}{What can you tell me about New Reno?}
+{11030}{}{Thanks. Let me ask you about something else.}
+{12000}{}{What do ya want, Pally?}
+{12010}{}{Are there any caravans ready to go out now?}
+{12020}{}{Where do the caravans from Redding usually go?}
+{12030}{}{Hear any news around town lately?}
+{12040}{}{Nothing, bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{fool}
 {1020}{}{ciaeii}

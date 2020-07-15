@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -66,6 +66,61 @@ lang=engl
 {210}{}{You see Slim, the bartender.}
 {210}{}{You see a bartender. He's wearing an apron and is holding a glass that he constantly cleans by spitting into it and wiping it with a dirty towel. He looks like he doesn't take crap from anyone.}
 {210}{}{You see Slim, the bartender. The second-best-looking Slim in the wastes.}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{not known}
+{1030}{}{known}
+{2000}{}{I'm Slim. What'll you have?}
+{2010}{}{I want some information.}
+{2020}{}{Sure, show me what you've got.}
+{2030}{}{Let's chew the fat a while.}
+{2040}{}{Nothing, I'm leaving.}
+{3000}{}{Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?}
+{3010}{}{Sure.}
+{3020}{}{No, I'm good.}
+{4000}{}{What can I do you for?}
+{4010}{}{I want some information.}
+{4020}{}{Let's take a look at what you got.}
+{4030}{}{I was curious as to what your face would look like on the floor after I stamped all over it and shot you a few times. Would you cry? I want to investigate.}
+{4040}{}{Nothing today.}
+{5000}{}{You know what I think?}
+{5010}{}{No I do not.}
+{5020}{}{I guess you're gonna tell me?}
+{6000}{}{Now you know I ain't a racist or nothing. But you know, standing back here, you think about things.}
+{6010}{}{What kind of things?}
+{6020}{}{This is moving in to politically incorrect territory and I am having none of it. Good day sir.}
+{7000}{}{Well like...which race has the hottest women?}
+{7010}{}{Uh.....right.}
+{7020}{}{White people!}
+{7030}{}{Black people!}
+{7040}{}{Asian people!}
+{7050}{}{Pacific Islanders!}
+{7060}{}{Ghouls!}
+{7070}{}{Super mutants!}
+{8000}{}{I mean every race has some bona fide babes, right? No one can argue with that. But I realised something when I was watching people come and go from back here.}
+{8010}{}{Right. So where are you going with this?}
+{9000}{}{Well like I said, hot girls can be any race, right. When a hot white girl, or a hot black girl comes in, I ain't surprised. But man, when an ugly asian girl comes in, I'm damn disappointed. Like deep down.}
+{9010}{}{I feel you bro!}
+{9020}{}{So you're saying that all asian girls are hot by default, and those that are ugly are somehow letting you down?}
+{10000}{}{Hell yeah man! It's like, they're supposed to be hot. That's why I know they're the hottest race, cause it's so wrong when they're not. It's a fuckin' travesty.}
+{10010}{}{That's deep, Slim.}
+{10020}{}{This is pretty awkward...}
+{11000}{}{Work a bar sometime, pal. You'll be surprised at what you figure out.}
+{11010}{}{Right...}
+{11020}{}{I'll think about it.}
+{12000}{}{What the fuck, man? That's messed up.}
+{12010}{}{I'm kidding. What were you going to say?}
+{12020}{}{No way, that shit is hot like molten lava. I would be all up in it if I had the chance. You just don't get me! Leave me alone!}
+{13000}{}{Yeah? Interesting. I mean your call, sure, but you're wrong.}
+{13010}{}{Yeah? And why's that?}
+{13020}{}{I doubt that. But continue, if you must.}
+{14000}{}{You're damn right! You know why?}
+{14010}{}{I already know why. But feel free to repeat it to me so we can bask in our mutual rectitude.}
+{14020}{}{What's your reasoning?}
+{15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}

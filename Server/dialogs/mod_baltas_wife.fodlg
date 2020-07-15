@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Balthas' Wife}
 {200}{}{It's Balthas' wife.}
 {210}{}{You see Balthas' wife. She appears to be in a pleasant mood.}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}

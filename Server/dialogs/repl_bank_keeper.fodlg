@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +13,12 @@ lang=engl
 [engl]
 {100}{}{Stockman}
 {200}{}{Stockman.}
+{1000}{}{Predialogue options}
+{1010}{}{Speak.}
+{2000}{}{Hello.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}

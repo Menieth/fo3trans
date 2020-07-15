@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,13 @@ lang=engl
 
 [engl]
 {100}{}{Trash Bin}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Reliable way to take care of trash you have in pockets (or at least more civilized). "Definitely the right place for cans of soda."-Local guard approves.}
+{2010}{}{[ Exit ]}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Reliable way to take care of trash you have in pockets (or at least more civilized). "Definitely the right place for cans of soda."-Local guard approves.}

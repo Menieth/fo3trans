@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Doctor Velix}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Treatment is only for NCR army memebers!@@Get out of here, we don't heal just everyone.@@I don't have time for this, get out of here!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treatment is only for NCR army memebers!@@Get out of here, we don't heal just everyone.@@I don't have time for this, get out of here!}

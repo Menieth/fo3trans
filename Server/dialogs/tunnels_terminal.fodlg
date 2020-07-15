@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -24,6 +24,25 @@ lang=engl
 2 5020 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Guard Terminal #77. Welcome back, Mr. Goresam. ]}
+{2010}{}{[ Dr. Ingram log #1 ]}
+{2020}{}{[ Dr. Ingram log #2 ]}
+{2030}{}{[ Dr. Ingram log #3 ]}
+{2040}{}{[ Exit ]}
+{3000}{}{Well, this place is even worse, that I could expected: dozens of corpses (mostly, skeletons), no useful tech or anything ("Ha-Ha", how could I expect to find a G.E.C.K  or Water Chip in this god's forsaken hole?). In old archives it's called "Civil-Defense Vault of San-Francisco" (CDVoSF? CDVSF?), but anyway, it's barely an ugly sewers re-made into the shelter. Ghouls, ghouls, more mad ghouls. I do believe these are former residets of this vault. I wonder... What actually happened here?}
+{3010}{}{[ Exit ]}
+{3020}{}{[ Back ]}
+{4000}{}{This trashsite makes me nervouse. Remember the thing I said about "monstrosity" of this place? Well it turned out to be even WORSE. The Vault is so poorly made that I can hardly even call this place a Vault. Dozens of leaks, cheap materials, doors leading to nothing. I am not sure either it was made by Vault Tek. }
+{4010}{}{[ Exit ]}
+{4020}{}{[ Back ]}
+{5000}{}{I managed to hack the mainframe of this Vault. So the ugly truth finally reveals. It seems like everyone inside are dead or turned into ghouls. Basing on logs I can say that soon after the bombs fall people faced starvation because there were no food supplies in there. And dozens of mistakes in structure... Radiation leaks... Oh well... Poor souls were slowly turning mad in this trap.}
+{5010}{}{[ Exit ]}
+{5020}{}{[ Back ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

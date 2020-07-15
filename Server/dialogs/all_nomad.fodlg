@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +13,12 @@ lang=engl
 [engl]
 {100}{}{Nomad}
 {200}{}{A nomad.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -29,6 +30,27 @@ lang=engl
 {200}{}{You see Art.}
 {200}{}{You see a trader}
 {210}{}{He's looking over his wares.}
+{1000}{}{Predialogue installations}
+{1010}{}{Attack if you bother him}
+{1020}{}{Hostile to good people}
+{1030}{}{Raiders, bad people}
+{2000}{}{What do you need?}
+{2010}{}{I'd like to see what you have on offer.}
+{2020}{}{Are you a Khan? }
+{2030}{}{Nothing.}
+{3000}{}{Do I look like a damn raider?}
+{3010}{}{I suppose not.}
+{3020}{}{Well what are you?}
+{4000}{}{I'm just a merchant. These guys burn through a lot of gear. It's good money.}
+{4010}{}{Right.}
+{5000}{}{Are you here to trade, or what?}
+{5010}{}{Yes.}
+{5020}{}{No.}
+{6000}{}{What the fuck are ya doin' here, man? Get lost before someone shoots ya!@@We don't like your kind here. You better get the fuck outta here, before getting bullet in the back.@@Man, I would dissapear from this place if I were you.}
+{7000}{}{That's it man, you're history!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}

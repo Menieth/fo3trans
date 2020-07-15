@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -28,6 +28,25 @@ lang=engl
 {200}{}{You see a short ghoul.}
 {210}{}{You see Percy Crump, the successful ghoul merchant.}
 {210}{}{You see a shorter and rather stout ghoul. He's nattily attired-uh, for a ghoul, that is.}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Known}
+{1030}{}{Idiot}
+{2000}{}{Hello there, Percy Crump here, Master Merchant in this locality. But you kin call me just plain ole Percy. Yes, you can. Heck, everybody does. Now, what can I do ya' for?}
+{2010}{}{I was just wondering what's going on here in town.}
+{2020}{}{I was wondering if you had anything I could buy or trade for?}
+{2030}{}{Uh, nothing really, I was just looking around. Goodbye.}
+{3000}{}{What can ole Percy do fer ya?}
+{3010}{}{I was just wondering what's going on here in town.}
+{3020}{}{I was wondering if you had anything I could buy or trade for?}
+{3030}{}{Uh, nothing really, I was just looking around. Goodbye.}
+{4000}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day.  Heh, heh, hee.}
+{4010}{}{Uh, fascinating. I was wondering about something else.}
+{4020}{}{Oh, that's too bad. Gotta go.}
+{5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}

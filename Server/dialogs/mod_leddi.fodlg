@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +18,12 @@ lang=engl
 {210}{}{You think that this dog is probably smarter than you. Oh well.}
 {220}{}{Grrr.}
 {230}{}{Grrrrrrr.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}

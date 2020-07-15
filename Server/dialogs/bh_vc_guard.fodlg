@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Vault City Guard}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}

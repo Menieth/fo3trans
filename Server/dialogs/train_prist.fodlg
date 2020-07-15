@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +17,17 @@ lang=engl
 
 [engl]
 {100}{}{Pope}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{May the God bless you... What are you doing here?}
+{2010}{}{I have many sins, father. I want be a God's slave}
+{2020}{}{[ Run away ]}
+{3000}{}{Are you sure you have enough experience and will for such mighty action?}
+{3010}{}{Eheh... No, I just better go. Ok?}
+{3020}{}{God Bless America!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{May the God bless you... What are you doing here?}

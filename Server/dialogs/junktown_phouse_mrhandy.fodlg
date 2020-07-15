@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -100,4 +100,49 @@ lang=engl
 {100000001}{}{Welcome to Junktown, traveller!}
 {100000002}{}{I'm sorry, the gates are closed for the night. Come back in the morning.}
 {100000003}{}{Guys, get him!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{fixed}
+{1020}{}{quest active, inspected}
+{1030}{}{quest active, not inspected}
+{1040}{}{default}
+{2000}{}{[You see a RobCo Mr. Handy Type 1 robot. It looks rundown, but still capable of doing simple tasks such as maintaining machines. It doesn't seem to work, though.]}
+{2010}{}{[Inspect the robot.]}
+{2020}{}{[Inspect the robot.]}
+{2030}{}{[End]}
+{3000}{}{[You see a RobCo Mr. Handy Type 1 robot. Beside it's rundown look, it seems to be working pretty well.]}
+{3010}{}{[End]}
+{4000}{}{[You inspect the robot but can't find anything unusual. It just doesn't work.]}
+{4010}{}{[End]}
+{5000}{}{[You inspect the robot and find out that it's motivator unit is burnt through. No chance to do anything here without a new robot motivator.]}
+{5010}{}{[Something small is jammed in the backpart of the propulsion.]}
+{5020}{}{[Something small is jammed in the backpart of the propulsion.]}
+{5030}{}{[Something small is jammed in the backpart of the propulsion.]}
+{5040}{}{[Try to fix the robot without a new motivator unit.]}
+{5050}{}{[Try to fix the robot without a new motivator unit.]}
+{5060}{}{[Use the new motivator unit to fix the robot.]}
+{5070}{}{[End]}
+{6000}{}{[Impossible. You can't fix it without a new motivator unit.]}
+{6010}{}{[End]}
+{7000}{}{[You hammer on the machines and try to re-wire other parts of the robot in order to bypass the burned out elementy of the motivator unit. It takes you some hours, but then you can hear the machines starting up again.]}
+{7010}{}{[Start the Mr. Handy robot.]}
+{8000}{}{*bzzzzt*}
+{9000}{}{[The motivator is okay but you don't seem to be able to wire it correctly. The machine won't start.]}
+{9010}{}{[Try again.]}
+{9020}{}{[End]}
+{10000}{}{[You see a rundown RobCo Mr. Handy Type 1 robot. On the front is a paper with the text "PROPERTY OF THOMAS - GET YOUR FILTHY HANDS OFF OF MY ROBOT!" attached.]}
+{10010}{}{[End]}
+{11000}{}{[The motivator is okay and you are able to wire it correctly. Now you can hear the machines starting up again.]}
+{11010}{}{[Start the Mr. Handy robot.]}
+{12000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some junk.]}
+{12010}{}{[Continue]}
+{12020}{}{[End]}
+{13000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some dices... How the fuck did they jammed in there?!]}
+{13010}{}{[Continue]}
+{13020}{}{[End]}
+{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer bottle... What.]}
+{14010}{}{[Continue]}
+{14020}{}{[End]}
 

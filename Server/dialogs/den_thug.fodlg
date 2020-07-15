@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Thug}
 {200}{}{You see a thug.}
 {210}{}{This guy looks pretty ruthless.}
+{1000}{}{Predialogue installations}
+{1010}{}{Male}
+{1020}{}{Female}
+{2000}{}{Get out of my face.@@You lookin' for trouble?@@Keep right on walking.@@Not interested.@@Go away.}
+{3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}

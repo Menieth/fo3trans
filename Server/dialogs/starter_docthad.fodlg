@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -59,6 +59,57 @@ lang=engl
 {100}{}{Dr. Thaddeus}
 {200}{}{You see a thin man with thick, black framed glasses.}
 {210}{}{You see Dr. Thaddeus. He looks tense.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Ugly}
+{1030}{}{Blackmailed}
+{1040}{}{Betrayed Seb}
+{1050}{}{Turned into the guards}
+{2000}{}{Yes? What, what is it?}
+{2010}{}{Sebastian sent me. I've got a delivery for you.}
+{2020}{}{What do you do around here?}
+{2030}{}{Could I buy some medical supplies?}
+{2040}{}{Got any work for me?}
+{2050}{}{I've got the ingredients, mind making me some healing powder?}
+{2060}{}{Nothing, thanks. bye.}
+{3000}{}{You do? Perfect. Let me see that. (He snatches the briefcase)}
+{3010}{}{Well, it looks like my work here is done.}
+{3020}{}{Am I gonna get paid for this?}
+{4000}{}{(He ignores you) Let's take a look here...propoxin, hydrozapam, alprazaline, dilaftin... not great, but it'll do. Alright, you did good. Go see Sebastian, he probably has something for you.}
+{4010}{}{Wait, dilaftin and propoxin? Those have no medicinal purpose. What the hell are you working on here, Doctor?}
+{4020}{}{With drugs like that, it sounds like you're manufacturing chems, not just medicine.}
+{4030}{}{Thanks Doctor, I'll go see him.}
+{5000}{}{(He looks at you with begrudging respect) Nice catch. You're smarter than you look.}
+{5010}{}{Nice try, Doc. This is gonna cost you.}
+{5020}{}{Forget it, I don't want to get involved.}
+{6000}{}{(His face hardens) I assumed as much. Unfortunately for you, I don't have any money. The only thing I've got are healing supplies. But they're meant for people who actually need them, you grasping little shit.}
+{6010}{}{I'll take 'em. Thanks, Doc. You have my silence. Well, probably.}
+{6020}{}{Forget it. Keep them. Goodbye.}
+{7000}{}{I'm the town doctor. People get injured, sick, I patch 'em up best I can. There's not much I can do these days. The Captain's stranglehold on trade's stopping most caravans from bothering with us. No trade means no medicine.}
+{7010}{}{That sounds bad. Anything I can do to help?}
+{7020}{}{I had something else I wanted to ask you.}
+{8000}{}{Hmm, well I'm always on the lookout for broc flower and xander root. Get me enough, I'll whip you up a batch of healing powder. As well as keep the leftovers for the hospital, of course.}
+{8010}{}{Deal. I'll bring some by later. I had some other questions.}
+{8020}{}{I'll go look for some now, thanks.}
+{9000}{}{Get out of my sight.@@Get lost, you little shit.@@::spits::@@Get out of my hospital!}
+{10000}{}{Sweet Jesus, you're hideous.@@Please, leave me to my work.@@I'm sorry, please, you're upsetting the other patients.}
+{11000}{}{Wish I could help you. Sorry, supplies are limited and we've got to prioritise the people who need it the most.}
+{11010}{}{You're low on supplies? Anything I could help with?}
+{11020}{}{That's too bad, could I ask you something else?}
+{11030}{}{What a shame. Goodbye.}
+{12000}{}{Sure, sure, no problem. Shouldn't take too long, how many batches do you want?}
+{12010}{}{Four.}
+{12020}{}{Three.}
+{12030}{}{Two.}
+{12040}{}{One.}
+{12050}{}{Forget it, I had some questions.}
+{12060}{}{Nevermind, bye.}
+{13000}{}{Alright, there you go. Take it easy, now. That stuff knocks you for six.}
+{13010}{}{Alright, thanks. I had some other questions.}
+{13020}{}{Much appreciated, Doctor. Bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}

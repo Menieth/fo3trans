@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -25,6 +25,26 @@ lang=engl
 2 6020 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ LOADING MAINFRAME... DONE. WELCOME TO SMB 3000. ]}
+{2010}{}{[ INFO ]}
+{2020}{}{[ LOAD EXPERIENCE EXCHANGE OPTION ]}
+{2030}{}{[ LOAD 3D PRINTER OPTION ]}
+{2040}{}{[ EXIT ]}
+{3000}{}{[ SMB 3000 -  Special Memory Bank 3000. Contains experience and data of different sort. ]}
+{3010}{}{[ BACK ]}
+{4000}{}{[ LOADING EXPERIENCE EXCHANGE OPTION... PLEASE SELECT YOUR VARIANT ( 5000 EXP. FOR 7200 CAPS OR 7000 EXP. FOR 9200 CAPS ) ]}
+{4010}{}{[ 5000 EXP. FOR 7200 CAPS ]}
+{4020}{}{[ 7000 EXP. FOR 9200 CAPS ]}
+{4030}{}{[ BACK ]}
+{5000}{}{[ OPERATING... ]}
+{6000}{}{[ 3D PRINTER OPTION IS LOADING... CURRENT PRINTING OPTIONS: G11. ( 1 G11 BLUEPRINT + 15000 CAPS )}
+{6010}{}{[ PRINT G11 ]}
+{6020}{}{[ BACK ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +15,15 @@ lang=engl
 
 [engl]
 {100}{}{Palace Guard}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! This area is restricted. Show your pass.}
+{2010}{}{[ Show him the pass ]}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}

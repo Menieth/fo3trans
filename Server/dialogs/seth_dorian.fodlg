@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -51,6 +51,51 @@ lang=engl
 
 [engl]
 {100}{}{Dorian}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it? I am very busy.}
+{2010}{}{Hey, who are you?}
+{2020}{}{What can you tell me about the town?}
+{2030}{}{What is this place?}
+{2040}{}{Can I buy pelts from you?}
+{2050}{}{Nothing. See you.}
+{3000}{}{Are you freaking kidding me? Nobody told me about the arrive of press. Oh hold on... Where are fucking cameras though? Name's Dorian and you better stop wasting my time.}
+{3010}{}{Oh come on, why are you such a dick?}
+{3020}{}{Great... What is this place exactly?}
+{3030}{}{I think you should go fuck yourself. Farewell.}
+{3040}{}{Oh I won't waste your time any longer, you silly shit. Prepare to die.}
+{4000}{}{Oh I am sorry, it seems like we have a fucking high class freak here. Oh I am SO damn sorry, your dear majesty, for my fucking language. My filthy tongue is nothing in compare with your wonderful manners, you dear go-fuck-yourself-majesty. But let me actually point you that you are in the fucking Wasteland!}
+{4010}{}{Anyway... What is this place?}
+{4020}{}{Fucker, I have no will to continue this talk.}
+{4030}{}{How dare you insulting me? Well, maybe a bullet in your head wil teach you some good manners.}
+{5000}{}{And what do you think it is? A gecko farm of course, you blind freak.}
+{5010}{}{Gecko farm? Can I buy gecko pelts from you?}
+{5020}{}{Oh great! Do you buy gecko pelts?}
+{5030}{}{Blind? Oh I see you are fucking stupid. Go fuck yourself, dude.}
+{5040}{}{Blind you say? Well at least I won't be dead like you. Time to die, sucker!}
+{6000}{}{Look, you better go wander around trappers in Klamath with such shit. I am not buying anything from you.}
+{6010}{}{I see... Maybe I can buy some from you?}
+{6020}{}{No, I want to talk about other things.}
+{6030}{}{Then I am not interested in listening to your shit.}
+{6040}{}{Oh I will wander... But first I will take your head with me.}
+{7000}{}{Oh dear, we have another one. Let me explain you once again... I-AM-FUCKING-BUSY! Go chat in a local bar, I am not the one who will enjoy shitting myself out with you.}
+{7010}{}{Alright, alright. I wanted to ask you about one thing...}
+{7020}{}{What is your problem? Why are you so toxic?}
+{7030}{}{Oh dear, we have another one toxic ass idiot! Run, people! Run!}
+{7040}{}{So then you will enjoy my bullets. Time to die, you shithead!}
+{8000}{}{Here you go. Anything else?}
+{8010}{}{Yeah, on the second though... Can I buy more?}
+{8020}{}{No, I better go.}
+{9000}{}{Yes, you can. 80 caps for silver pelt and 130 caps for golden one. No barter, no discounts.}
+{9010}{}{I'd like to buy 1 silver gecko pelt.}
+{9020}{}{I'd like to buy 5 silver gecko pelts.}
+{9030}{}{I'd like to buy 1 golden gecko pelt.}
+{9040}{}{I'd like to buy 5 golden gecko pelts.}
+{9050}{}{Acutally, lets talk about something else.}
+{9060}{}{Not interested. Bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it? I am very busy.}

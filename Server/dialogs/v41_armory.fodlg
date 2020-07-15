@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -21,6 +21,22 @@ lang=engl
 6 6000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... Welcome back. please select the option. ]}
+{2010}{}{[ To: Brother Morrison ]}
+{2020}{}{[ Open armory ]}
+{2030}{}{[ Open armory ]}
+{2040}{}{[ Leave ]}
+{2050}{}{[ Emergency elevator opening ]}
+{3000}{}{[ Dear Brother Morrison. What a pity, that you couldn't join our Sunday meeting: we had such a delightful discussions about our dear God and  his endless love! Are you sure about your condition? We all are worried about your mental health---remember, that you can always talk about your feelings and thoughts with us, and most importantly, with our God. Also, please notice that by our Overseer's order, the access to the armory goes only with confirmation from our brothers from levels 4. ]}
+{3010}{}{[ Back ]}
+{4000}{}{[ No confirmation from management team. Access denied. ]}
+{5000}{}{[ Access confirmed ]}
+{6000}{}{[ Operating... ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

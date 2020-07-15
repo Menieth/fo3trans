@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -26,6 +26,23 @@ lang=engl
 {200}{}{You see a shadowy character. If it was any darker, you probably wouldn't notice him at all.}
 {210}{}{It's Shadow.}
 {210}{}{He doesn't appear to be armed, with weapons or wit.}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{dumb}
+{2000}{}{What may be the reason for such a disturbance?}
+{2010}{}{If you're as half skilled as you talk, then I may be on the right place.}
+{2020}{}{I don't want any trouble, forget it. [Leave]}
+{3000}{}{I can't help you... You better leave.@@There's the door, don't miss it.@@I have no idea what you're talking about.}
+{4000}{}{The place is right if you know what to do once you're there...}
+{4010}{}{To acquire something illegally or not; that is the question! [Thief]}
+{4020}{}{Whatever there is to do, I wanna do it the best way possible. [Master Thief]}
+{4030}{}{Empty pockets don't talk. But you can always talk about empty pockets. [Pickpocket]}
+{4040}{}{Well, not sure where I should begin... I'll drop by later!}
+{5000}{}{Okay, you made your point. Pay attention then, I can't be bothered to do this twice. [The lesson takes a while, but you feel like it was well worth it]}
+{5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}

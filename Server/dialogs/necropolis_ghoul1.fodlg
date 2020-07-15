@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -18,6 +19,14 @@ lang=engl
 {240}{}{You see a dead Ghoul.}
 {250}{}{You examine the pitiful thing, but can not figure out what might have made it the way it is.}
 {260}{}{You see a slain Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Answer text}
+{2000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that Set was offed?@@Set's dead. Set's dead. Set's dead . . .@@Ever since the mutants left, it's been better.@@Hello.}
+{3000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that Set was offed?@@Set's dead. Set's dead. Set's dead . . .@@Ever since the mutants left, it's been better.@@Hello.@@Good night, yaaa. . ?@@Uungh... too dark here.@@We need to fix the light.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Answer text}

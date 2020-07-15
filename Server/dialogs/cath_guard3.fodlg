@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +13,12 @@ lang=engl
 [engl]
 {100}{}{Guard}
 {200}{}{You see cathedral Guard.}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Yeah, the Holy Flame and so on. Whatever... Keep moving.@@We're here to Prevent and Survey.@@Praise the Holy Flame and holy shit.@@You'd better not be thinking of starting a fight!@@I'd recommend putting your weapon away.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Yeah, the Holy Flame and so on. Whatever... Keep moving.@@We're here to Prevent and Survey.@@Praise the Holy Flame and holy shit.@@You'd better not be thinking of starting a fight!@@I'd recommend putting your weapon away.}

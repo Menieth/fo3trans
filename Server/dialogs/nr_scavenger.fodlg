@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +15,12 @@ lang=engl
 {200}{}{You see New Reno Scavenger.}
 {210}{}{You see a resident of the canals.}
 {210}{}{You see a singer. He is huddled next to the trashcan fire, singing.}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{You tresspass into our lands. Now you die!@@How dare you come here uninvited!@@Die, city walker!@@Your death should bring me some money.@@Flee before me, puny one!@@You know the drill, gentlemen.@@No witnesses.@@Cover me.@@No mercy!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You tresspass into our lands. Now you die!@@How dare you come here uninvited!@@Die, city walker!@@Your death should bring me some money.@@Flee before me, puny one!@@You know the drill, gentlemen.@@No witnesses.@@Cover me.@@No mercy!}

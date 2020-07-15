@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Servant}
 {200}{}{You see a strong man in working clothes. He is keeping his eyes firmly fixed on the ground.}
 {210}{}{You see a Vault City slave.}
+{1000}{}{Predialogue installations}
+{1010}{}{citizen}
+{1020}{}{non-citizen}
+{2000}{}{I cannot speak to you.@@Speaking to Citizens is against the rules.@@I am not permitted to speak with Citizens.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
+{3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}

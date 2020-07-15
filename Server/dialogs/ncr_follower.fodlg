@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Follower of the Apocalypse}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings.@@Yes?@@We can make this world a better place.@@Local thieves are troubling me.@@Haven't seen you areound.@@Be nice to Aria. She is really good at math.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings.@@Yes?@@We can make this world a better place.@@Local thieves are troubling me.@@Haven't seen you areound.@@Be nice to Aria. She is really good at math.}

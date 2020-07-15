@@ -2,7 +2,7 @@
 Aaoe eiiiaioa?ee / Your comments.
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +14,13 @@ lang=engl
 {100}{}{Bodyguard}
 {200}{}{You see a bodyguard.}
 {210}{}{You see a tough-looking woman with a green mohawk. She is cradling her sub-machine gun like a baby.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@
+}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@

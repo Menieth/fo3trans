@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,14 @@ lang=engl
 [engl]
 {100}{}{Hubber}
 {200}{}{You see a Hubber.}
+{1000}{}{Predialogue installations}
+{1010}{}{it is night}
+{1020}{}{normal}
+{2000}{}{Looks like rain... as always.@@Sorry, have to go. Got work to do.@@We don't get many outsiders here.@@Gotta get back to work.@@Good day... if that is what you can call it.@@Yeah... whatever.@@Hope the rain ain't glowin' like yesterday.@@Looks like we're going to be short food again.}
+{3000}{}{Dark outside, as always in the night.@@Sorry, have to go. Got work to do, you know?@@We don't get many outsiders here. Especially in the night.@@Gotta get back to work tomorrow.@@Good night... if that is what you can call it.@@Yeah... whatever.@@Hope the rain tomorrow ain't glowin' like yesterday.@@Looks like we're going to be short food again.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{it is night}
 {1020}{}{normal}

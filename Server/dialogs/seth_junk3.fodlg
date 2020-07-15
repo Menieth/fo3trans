@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,14 @@ lang=engl
 0 2020 D _var p seth_julian = 1 R _var p seth_julian = 2 R _item p PID_FUZZY_PAINTING + 1 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You examine the junk pile, and it seems like there is a strange picture among the garbage. ]}
+{2010}{}{[ Exit ]}
+{2020}{}{[ Take the picture ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

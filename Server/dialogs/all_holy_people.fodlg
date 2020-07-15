@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Holy People}
 {200}{}{You see a holy person.}
 {210}{}{You see a holy person.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{How dare you interrupt my meditation!@@Spirits, begone!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{How dare you interrupt my meditation!@@Spirits, begone!}

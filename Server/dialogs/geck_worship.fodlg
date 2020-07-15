@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,12 @@ lang=engl
 {200}{}{You see a ghoul with some kind of talisman around its neck.}
 {210}{}{You see a member of the Renewal Cult.}
 {210}{}{You see a contented-looking ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}

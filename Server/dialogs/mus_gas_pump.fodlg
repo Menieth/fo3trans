@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,13 @@ lang=engl
 
 [engl]
 {100}{}{Gas Pump}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Gas Pump from Poseidon Gas Station. "Pump yo' ride!"-is written on the rusty side of it. It's the first thing you need after a long and windy ride through the wasteland on your metal beast.}
+{2010}{}{[ Exit ]}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Gas Pump from Poseidon Gas Station. "Pump yo' ride!"-is written on the rusty side of it. It's the first thing you need after a long and windy ride through the wasteland on your metal beast.}

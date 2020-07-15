@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Boy}
 {200}{}{You see a little dirty boy tending to brahmin.}
 {210}{}{You see a little shepherd.}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Sigh...@@So tired...@@*Yawn*}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Sigh...@@So tired...@@*Yawn*}

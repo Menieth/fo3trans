@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -20,6 +20,21 @@ lang=engl
 5 5000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
+{2010}{}{[ Hit the power unit ]}
+{2020}{}{[ Insert energy cells ]}
+{2030}{}{[ Close ]}
+{3000}{}{[ That did nothing ]}
+{4000}{}{[ Bzzt... Power 3%. Commands? ]}
+{4010}{}{[ Close ]}
+{4020}{}{[ Transfer energy to the main elevator ]}
+{4030}{}{[ Try to restart all generators ]}
+{5000}{}{[ Proceeding... ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

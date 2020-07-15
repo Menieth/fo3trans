@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -34,6 +35,30 @@ lang=engl
 {240}{}{You see a dead Ghoul.}
 {250}{}{You examine the pitiful thing, but can not figure out what might have made it the way it is.}
 {260}{}{You see a slain Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{You know about fucking base quest!}
+{1020}{}{night}
+{1030}{}{Answer text}
+{2000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Ever since the mutants left, it's been better.@@Hello.}
+{3000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Ever since the mutants left, it's been better.@@Hello.@@Good night, yaaa. . ?@@Uungh... too dark here.@@We need to fix the light.}
+{4000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Ever since the mutants left, it's been better.@@Hello.}
+{4010}{}{Hello, I've heard about some trapper who might live here. He has a scar over the face and should be a bit older by now. Do you know someone who could fit this?@@Hey, I am serching an old man. He has a scar over his head and was known as a trapper. Do you know someone who could fit this?@@Uh... I am serching an old trapper. He has a scar over his head and people told me that he might be here in Necropolis.}
+{4020}{}{Hello, I've heard about some trapper who might live here. He has a scar over the face and should be a bit older by now. Do you know someone who could fit this?@@Hey, I am serching an old man. He has a scar over his head and was known as a trapper. Do you know someone who could fit this?@@Uh... I am serching an old trapper. He has a scar over his head and people told me that he might be here in Necropolis.}
+{4030}{}{I feel this question is kind awkward, but i must ask it - Do you happen to know, by any chance, where is Wally?}
+{4040}{}{I feel this question is kind awkward, but i must ask it - Do you happen to know, by any chance, where is Wally?}
+{4050}{}{Nothing, bye.}
+{5000}{}{GRAAAAA!@@UAARRRRR!@@Uhh.... [He looks at you and nothing happens.]}
+{5010}{}{Uh, ok, I need to go. Bye.@@Eh... it... seems like, I need to go. Bye.@@Oh, sorry, I thought you have been someone else. Bye.}
+{6000}{}{Uah... mmmhm... Smoothskin, I think I know such a person. Don't know where he is, but his name might be Wally. Wally the old. More I don't know.}
+{6010}{}{Wally you say? Thanks.}
+{7000}{}{Wha-wha?}
+{7010}{}{I've said Wally!}
+{8000}{}{Hurr hurr...}
+{9000}{}{Smoothskin. I know. But I am not the fastest anymore. My flesh smells and my bones are clunky. So keep ya down. I know a Wally. He lives somewhere alone at the Watershed. You should check it out and leave me alone.}
+{9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -19,6 +19,19 @@ lang=engl
 
 [engl]
 {100}{}{Vending Machine}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ In front of you you see a vending machine made by "Stay hungry" company. It asks for 10 caps for any sort of food it has inside. ]}
+{2010}{}{[ Fruit ]}
+{2020}{}{[ Iguana on a stick ]}
+{2030}{}{[ Gamma Gulp ]}
+{2040}{}{[ Box of Noodles ]}
+{2050}{}{[ Television Dinner ]}
+{2060}{}{[ Leave ]}
+{3000}{}{Thank you for purchase.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you you see a vending machine made by "Stay hungry" company. It asks for 10 caps for any sort of food it has inside. ]}

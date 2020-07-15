@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Dog}
 {200}{}{You see a dusty, yellowish-buff colored, dog}
 {210}{}{You see a large, mangy, buff colored dog with a feral look to it.}
+{1000}{}{Predialogue installations}
+{1010}{}{Liked}
+{2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Liked}
 {2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}

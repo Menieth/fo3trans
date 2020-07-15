@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +17,17 @@ lang=engl
 
 [engl]
 {100}{}{Doctor}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah? What is it, soldier?}
+{2010}{}{Doc! I am hurt! Help me.}
+{2020}{}{Nothing.}
+{3000}{}{Ah, great. Hold on, it will sting a little.}
+{3010}{}{Alright, alright...}
+{3020}{}{On the second thought... It is not so bad.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah? What is it, soldier?}

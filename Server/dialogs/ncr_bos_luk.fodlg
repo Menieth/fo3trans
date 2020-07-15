@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +18,16 @@ lang=engl
 {100}{}{Luke}
 {200}{}{You see a man in metal armor.}
 {210}{}{You see Luke.}
+{1000}{}{Predialogue installations}
+{1010}{}{not BoS member}
+{1020}{}{BoS low rank}
+{1030}{}{BoS high rank}
+{2000}{}{Sorry, no time to talk.@@Be about your business.@@Please, desist.@@Back off.}
+{3000}{}{Welcome to NCR.@@I don't see Brotherhood's reinforcements around very often.@@Good to see more people joining us.@@This is just a small outpost here.@@You should visit San Francisco sometimes.}
+{4000}{}{Nothing to report, Sir.@@Back to my duty, Sir.@@I have sent my reports to the Lost Hills two weeks ago, Sir.@@We are missing some better equipment, Sir.@@All my observations are in my reports, Sir.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{BoS low rank}

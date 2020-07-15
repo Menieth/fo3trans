@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -43,6 +43,43 @@ lang=engl
 
 [engl]
 {100}{}{Scribe Ostin}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day. What is it, wastelander?}
+{2010}{}{Who are you?}
+{2020}{}{You seem nervouse. What happened?}
+{2030}{}{I brang 100 bottles of Nuka for you. Now... Where is my reward?}
+{2040}{}{Just passing by. See you.}
+{3000}{}{I am Scribe Ostin.}
+{3010}{}{Scribe? Who do Scribes do here?}
+{3020}{}{Scribe, huh... I have a question.}
+{3030}{}{Alright, I need to go now.}
+{4000}{}{Scribes? Well... We are in charge of coping ancient technologies, maintaining the existing ones... Anyway, I shouldn't speak with outsiders about such things.}
+{4010}{}{I see. I have something else to ask.}
+{4020}{}{Fine, I have other things to do.}
+{5000}{}{[ He looks at the cart behind him ] Well, yeah... There is a problem. See this cart with Nuka Cola behind me? The thing is - this was a special shipment from Salt Lake City Nuka Cola factory. When this thing arrived I found out that nearly the half of the stock is missing! And guess what happened with it... The damn caravan guards drank it!}
+{5010}{}{Sounds like a bad luck.}
+{5020}{}{Not my problem. See you around.}
+{6000}{}{Yes... And now I am in trouble, because I was in charge for this. My Senior Scribe will kill me.}
+{6010}{}{Is there any way I can help you with it?}
+{6020}{}{I don't give a shit about your troubles.}
+{7000}{}{Hmh... Look, I should't ask wastelanders to help me, but the case is urgent. You can help me if you bring 100 bottles of Nuka Cola Special Edition to me.}
+{7010}{}{100 bottles?! Isn't it too many?}
+{7020}{}{How many? Are you insane? No way I will waste my entire life on this.}
+{8000}{}{Yes... I need exactly this amount of Nuka. And exactly Special Edition Nuka. Look, if you do it for me - I will give you something special and worthy in return. Don't miss the opportunity,}
+{8010}{}{Alright, I will do it.}
+{8020}{}{Nah, you better deal with it yourself.}
+{9000}{}{Great! But please hurry...}
+{9010}{}{Actually... Why do you even need Nuka Cola?}
+{9020}{}{Sure...}
+{10000}{}{You see... Nuka Cola works as a wonderful tonic. It quenches thirst, freshes and gives you many other additional good effects. And most importantly - it doesn't cause the addiction. Brotherhood of Steel... my team especially... decided to experiment with it. Maybe in future we will be able to produce Nuka Cola as well.}
+{10010}{}{But what for? What is the point of all of this?}
+{10020}{}{That's all what I needed to know. See you later.}
+{11000}{}{The point is... Wait, I shouldn't tell you about this. Sorry.}
+{12000}{}{You did it! Great! You really saved my live, wastelander. Here is your reward, as I promised.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. What is it, wastelander?}

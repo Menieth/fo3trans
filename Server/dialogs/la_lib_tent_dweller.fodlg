@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +13,12 @@ lang=engl
 [engl]
 {100}{}{Camp Resident}
 {200}{}{You see resident of this camp.}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}

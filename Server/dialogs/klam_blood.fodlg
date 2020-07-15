@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +13,12 @@ lang=engl
 [engl]
 {100}{}{Blood}
 {200}{}{You see a dusty dog.}
+{1000}{}{Predialogue installations}
+{1010}{}{Liked}
+{2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?@@Eh... Wuff?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Liked}
 {2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?@@Eh... Wuff?}

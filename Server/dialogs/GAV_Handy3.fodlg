@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -30,6 +30,30 @@ lang=engl
 
 [engl]
 {100}{}{Mr. Brave}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
+{2010}{}{Excuse me...}
+{2020}{}{How dare...}
+{3000}{}{Red commie spies are everywhere! And they can't wait for the moment when they will CUT YOUR THROAT OFF AND MAKE SUSHI OUT OF YOUR GUTS! So every American patriot should be able to fight!}
+{3010}{}{Actually...}
+{3020}{}{[ Leave ]}
+{4000}{}{Shut your stinky mouth, maggot! I am the one who you MUST listen to here, you shitass! So first of all - your Pip Interface has battle options included. To get into the battle mode - just press A. Your cursor will change and you will be able to attack anybody. But don't do it here... maggot...}
+{4010}{}{Yes, sir.}
+{4020}{}{What the...}
+{4030}{}{[ Leave ]}
+{5000}{}{Your interface also shows you your Health Points. Watch them to be always high if you don't want your ass to be placed in the coffin beforetime. Also your Interface is SO great, that even shows either you managed to break your pants somewhere or get poisoned or caught a huge dose of radiation!}
+{5010}{}{Alright...}
+{5020}{}{Sure.}
+{5030}{}{[ Leave ]}
+{6000}{}{Finally you can easily maintain your weapons via your Interface. You can switch weapon modes - Single, Burst or whatever else, and you can even easily reload them via pressing R. DO YOU UNDERSTAND THAT, MAGGOT?}
+{6010}{}{Yes, sir!}
+{6020}{}{Call the manager for me!}
+{6030}{}{Fucking...}
+{7000}{}{Great! The lesson is over... NEXT ONE!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}

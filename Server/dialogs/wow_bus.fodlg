@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +14,15 @@ lang=engl
 0 2030 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This express city liner seems totally out of shape. The repair will require a fine set of tools. ]}
+{2010}{}{[ Fix it using Repair Skill ]}
+{2020}{}{[ Fix it using Super Tool Kit ]}
+{2030}{}{[ Leave ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

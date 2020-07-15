@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Caravan Trader}
 {200}{}{You see a trader.}
 {210}{}{You see a caravan trader. He doesn't look very pleased.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{We are moving out soon.@@Man, this will be a hot day again.@@They didn't got much to trade today.@@We come back next week or so.@@Where the fuck is that damn brahmin again?@@Hello you.@@I've heard about you. They say you have been found half-dead in the desert.@@One of the farmer's guards found you.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{We are moving out soon.@@Man, this will be a hot day again.@@They didn't got much to trade today.@@We come back next week or so.@@Where the fuck is that damn brahmin again?@@Hello you.@@I've heard about you. They say you have been found half-dead in the desert.@@One of the farmer's guards found you.}

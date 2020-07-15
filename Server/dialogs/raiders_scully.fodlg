@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -32,6 +33,23 @@ lang=engl
 {250}{}{Scully is dead and right now you are looking at his dead body, the body of Scully, who is dead.}
 {260}{}{You see Scully's corpse.}
 {270}{}{Scully is dead and right now you are looking at his dead body, the body of Scully, who is dead.}
+{1000}{}{Predialogue installations}
+{1010}{}{default khan chat}
+{2000}{}{Yeah?}
+{2010}{}{Ask you something?}
+{2020}{}{No.}
+{3000}{}{Go for it.}
+{3010}{}{What's your take on the Khans?}
+{3020}{}{What's your position here? You've got better gear than most.}
+{4000}{}{Those who can't kill will always be subject to those who can. We've carved ourselves a niche in this world, and it suits me just fine. It's not the easiest life, but what is? We're just the best at what we do, so we do it. That's all there is to it.}
+{4010}{}{Makes sense. Can I ask something else?}
+{4020}{}{I see. Goodbye.}
+{5000}{}{I'm a Lieutenant. Carter's in charge, and then there's me and Garcia and Raynes as his lieutenants. Garcia and me help run stuff here, and Raynes runs that little outpost down south.}
+{5010}{}{Makes sense. Can I ask something else?}
+{5020}{}{I see. Goodbye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default khan chat}
 {2000}{}{Yeah?}

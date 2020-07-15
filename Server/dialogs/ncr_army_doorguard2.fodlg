@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +16,15 @@ lang=engl
 [engl]
 {100}{}{Guard}
 {200}{}{You see a NCR guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ She salutes you. ]}
+{2010}{}{May you open the door?}
+{2020}{}{Nothing.}
+{3000}{}{[ She checks your ID card ] The door is open now. Do not forget to close it, soldier.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ She salutes you. ]}

@@ -2,7 +2,7 @@
 Common dialog for each faction's mainframe used to manage players' database.
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -53,4 +53,17 @@ lang=engl
 {100000040}{}{ has claimed leadership.}
 {100000041}{}{You have claimed leadership - time left: }
 {100000042}{}{Choose the action you want to perform:}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{non-member}
+{1030}{}{invited}
+{2000}{}{*BEEP* Welcome to @lex faction@ Door Control}
+{2010}{}{Open Door}
+{2020}{}{Close Door Now}
+{2030}{}{Log off the terminal.}
+{3000}{}{Access Denied
+}
 

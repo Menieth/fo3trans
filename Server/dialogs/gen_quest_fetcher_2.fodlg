@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -40,6 +41,38 @@ lang=engl
 {200}{}{You see a woman.}
 {200}{}{You see April.}
 {210}{}{This woman looks right past you, lost in thought.}
+{1000}{}{Predialogue installations}
+{1010}{}{First meeting.}
+{1020}{}{Return with booze.}
+{1030}{}{Return without booze.}
+{1040}{}{Quest finished.}
+{2000}{}{[She snaps out of her daydreaming as you approach.] Yes?}
+{2010}{}{Hello.}
+{2020}{}{Nothing.}
+{3000}{}{Hello.}
+{3010}{}{Seems like you've got something on your mind, are you doing okay?}
+{3020}{}{Seems like you've got something on your mind, are you doing okay?}
+{4000}{}{Not sure that's any of your business.}
+{4010}{}{Fine, just trying to help.}
+{5000}{}{I'm okay, you know.}
+{5010}{}{You sure? You don't look it.}
+{6000}{}{Just got something on my plate right now I suppose.}
+{6010}{}{Anything I can help with?}
+{7000}{}{I doubt you...well, you could get me a bottle of booze. That would help me some.}
+{7010}{}{Not sure that's the right way to go about it, but sure, I can get you a bottle.}
+{7020}{}{Yeah no sweat, I'll go get you one.}
+{7030}{}{Alcohol is a sin! I will not assist your immoral actions!}
+{8000}{}{Hey, thanks. [She smiles a little.] Here's something for your trouble.}
+{8010}{}{[Take sledgehammer]}
+{8020}{}{[Take knife]}
+{8030}{}{[Take hatchet]}
+{8040}{}{My pleasure! And thank you.}
+{9000}{}{What, the store was closed?}
+{9010}{}{Oh, yeah, sorry. No luck with the booze yet. I'll be back when I get some.}
+{10000}{}{Hey you.@@Hi again.@@::Waves::@@Thanks for before.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Return with booze.}

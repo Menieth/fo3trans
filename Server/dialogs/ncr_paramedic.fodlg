@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -21,6 +21,21 @@ lang=engl
 
 [engl]
 {100}{}{Paramedic}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello?}
+{2010}{}{Hey, are you a doctor? I need someone to heal my wounds.}
+{2020}{}{Eh... nothing. See ya.}
+{3000}{}{I am a Rangers' Paramedic. I can heal you, but it won't be cheap.}
+{3010}{}{How many?}
+{3020}{}{Not interested. Bye.}
+{4000}{}{500 caps.}
+{4010}{}{Here is the cash. Now heal me.}
+{4020}{}{Later maybe.}
+{5000}{}{Here you go.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello?}

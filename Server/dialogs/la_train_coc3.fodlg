@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -93,6 +94,92 @@ lang=engl
 {100}{}{Train Station Peasant}
 {200}{}{You see a wandering monk from the Children of the Cathedral.}
 {210}{}{He is from the Children of the Cathedral.}
+{1000}{}{Predialogue installations}
+{1010}{}{talked already - bad mood}
+{1020}{}{talked already - good mood // night}
+{1030}{}{talked already - good mood // day}
+{1040}{}{Flowers!}
+{2000}{}{Praise the Holy Flame, fellow traveler!@@We are safe here, this is a good place.@@The Holy Flame! Do you know about it?@@Hello.@@You should visit the Children of the Cathedral in the Necropolis.@@Hello, traveler.}
+{3000}{}{Isn't this a very good night, my friend?@@Praise the Holy Flame, fellow traveler!@@We are safe here, this is a good place.@@The Holy Flame! Do you know about it?@@Hello.@@You should visit the Children of the Cathedral in the center of Necropolis.@@Hello, traveler.}
+{4000}{}{Hello, friend! Would you like a flower?}
+{4010}{}{What's so special about the flower?}
+{4020}{}{Yes, why not.@@Sure, why not.}
+{4030}{}{I'll take the flower if you tell me a little about this place.}
+{4040}{}{Take that fucking flower out of my face, you gimp.}
+{4050}{}{No thanks. Not today.}
+{5000}{}{It's a Unity Rose. It's the color of the Holy Flame, and represents the peace and harmony we'll have when the Children of the Cathedral helps everyone and the whole world become friendly and strong! So, do you want one now or not?}
+{5010}{}{Now how's a rose going to do all that?}
+{5020}{}{Tell me about the Holy Flame' and the Cathedral and so.}
+{5030}{}{Yes, why not.@@Sure, why not.}
+{5040}{}{This sounds hilarious. You for sure are a dumbass.}
+{5050}{}{Eh... no, that's really not my thing. Bye.}
+{6000}{}{Thank you and praise the holy flame! Here is your flower. [He hands you a flower.]}
+{6010}{}{Thanks. Who are you?}
+{6020}{}{Bye.}
+{7000}{}{We're the Children of the Cathedral. We've been commanded by the Holy Flame itself to feed the hungry and heal the sick. We're going to spread peace and unity everywhere'and everything will be good! The Holy Flame is the fire that cleansed the world, and if we obey it, it'll never do it again.}
+{7010}{}{So, where are you guys hanging around?}
+{7020}{}{So, where are you guys hanging around?}
+{7030}{}{Uhm, ok. I have to go now... then... bye.}
+{8000}{}{You can find us in Necropolis, a friendly town east of here. Do you want a flower now?}
+{8010}{}{Yes, why not.@@Sure, why not.}
+{8020}{}{Never, you crazy whatever. }
+{8030}{}{Meh... not today. Bye.}
+{9000}{}{The flower itself will not do that, of course. Only the people can change the world. And with the Holy Flame as our master, we'll be sure to make everything wonderfull again! So would you like a flower?}
+{9010}{}{Yes, why not.@@Sure, why not.}
+{9020}{}{Didn't I said it already? NO, you storybook cultist.}
+{9030}{}{Eh... no, that's really not my thing. Bye.}
+{10000}{}{Thank you and praise the holy flame! Here is your flower. [He hands you a flower.]}
+{10010}{}{Thanks. Need to go now.}
+{11000}{}{You can find us in our church in Necropolis. The Children are rebuilding this place, to bring it to a new glory!}
+{11010}{}{Thanks. Need to go now.}
+{12000}{}{Thank you and praise the holy flame! Here is your flower. [He hands you a flower.]}
+{12010}{}{Thanks, can I now ask you something?}
+{12020}{}{Thanks and bye.}
+{13000}{}{You again.@@Yes? Ah... You...@@I don't have time now, actually.@@[He tries to not look at you.]}
+{13010}{}{Whatever.@@You are just annoyed, because of my smart-ass-ness.@@Nothing...}
+{14000}{}{Hello, friend! What can I do for you?@@Hello!@@Hello, you again!@@Hello! Tell me, what can I do for you?}
+{14010}{}{I have some questions to you.@@I have some questions.@@Can I ask you something?}
+{14020}{}{I have to go. Bye.}
+{15000}{}{Hello, friend! Isn't it a wonderful night? What can I do for you?@@Hello, friend! Isn't it a wonderful night? Tell me, what can I do for you?@@Hello, isn't this night wonderful?@@Hello, friend!@@Hello!}
+{15010}{}{I have some questions to you.@@I have some questions.@@Can I ask you something?}
+{15020}{}{I have to go. Bye.}
+{16000}{}{Go away. You have to find peace with yourself first.}
+{16010}{}{Whatever.@@Fuck you.@@Talk to someone else.@@Talk to the hand. [you show him your hand.]@@You are just annoyed, because of my smart-ass-ness.}
+{17000}{}{Sure. What do you want to know?@@What do you want to know?@@It is always good to talk a bit.}
+{17010}{}{Can you tell me something about this place?}
+{17020}{}{Do you have anything to do for me?}
+{17030}{}{What do you think about the train?}
+{17040}{}{That's all I want to know for now. Bye.}
+{18000}{}{I am sorry, not in the moment. }
+{18010}{}{How sad. Really. [You try to look as sad as possible.]}
+{18020}{}{Well, then I want to know something else...}
+{18030}{}{Okay, that's all. Have to go now.}
+{19000}{}{Maybe you should try and ask in the administrative office, if they might have any work.}
+{19010}{}{This is a good idea. Will check it out.}
+{19020}{}{There is still something that's bugging me...}
+{20000}{}{It is a good way to transport some people very fast from one place to the other. }
+{20010}{}{Okay. I have another question.}
+{20020}{}{Okay, this is interesting. But I have to go now...}
+{21000}{}{This here is the Boneyard train station. The NCR helped with building up that place. Or let's say, they made the ball start to roll. }
+{21010}{}{Start to roll?}
+{21020}{}{Are there any other train stations?}
+{21030}{}{Enough of all this talking. I have to go.}
+{22000}{}{Yes, there are some other. But I know just this one and the train station in San Francisco. It's a very rundown place.}
+{22010}{}{Maybe I will check it out some day.}
+{22020}{}{Another question.}
+{23000}{}{There is just one working train and it belongs to the NCR. They guard it very well and this is understandable, don't you think?}
+{23010}{}{And there have been no issues yet?}
+{23020}{}{Another question.}
+{24000}{}{I know about some bandits who wanted to rob the train. But it was a silly idea... The train is guarded too good.}
+{24010}{}{Must have been rookies then. Anyway... some other question.}
+{25000}{}{Yes. What do you want to know?}
+{25010}{}{Are there any other train stations?}
+{25020}{}{There have been no issues yet with the train?}
+{25030}{}{What do you think about the train?}
+{25040}{}{Enough of all this talking. I have to go.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{talked already - bad mood}
 {1020}{}{talked already - good mood // night}

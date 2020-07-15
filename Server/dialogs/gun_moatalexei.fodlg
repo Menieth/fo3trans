@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -32,6 +32,30 @@ lang=engl
 {100}{}{Alexei}
 {200}{}{You see Alexei.}
 {210}{}{You see Alexei, he's guarding the "bridge" across the moat.}
+{1000}{}{Predialogue installations}
+{1010}{}{Got reward for town riders.}
+{1020}{}{No charisma}
+{1030}{}{No gun skills}
+{1040}{}{No intelligence}
+{1050}{}{Not talked to}
+{1060}{}{Talked to}
+{2000}{}{What is your business here?}
+{2010}{}{Urr?}
+{2020}{}{I'm just looking around.}
+{2030}{}{I want to buy some equipment.}
+{2040}{}{I'm running a campaign to increase the number of hugs in the wasteland, would you like a free hug..?}
+{3000}{}{A comedian, huh? Fuck off, I have no time for your inane faggotry.}
+{4000}{}{You may smell like a brahmam, but they're obviously more intelligent than you are. Get the hell out of here!}
+{5000}{}{I see, very good. Talk to Ralph, he'll set you up with anything you need.}
+{6000}{}{I don't like nosy people. Go away blow your head off.}
+{7000}{}{Yeah, I remember you.  Go on in.}
+{8000}{}{What the hell is wrong with your face? You look worse than a mutant! Get the fuck out of here you freak!}
+{9000}{}{I can tell just by looking at you that you've no skill whatsoever, come back when you've trained some.}
+{10000}{}{Thank you for helping us. I can't pay caps for it, but I will give you some stuff dropped by them.}
+{10010}{}{Hey thanks! See you later!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}

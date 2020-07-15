@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +17,12 @@ lang=engl
 {210}{}{This is a butcher from the butchery. His clothes are covered with the brahmin's blood.}
 {210}{}{You can feel his smell even from that distance.}
 {210}{}{To imagine him screaming "Ahhh...fresh meat!" doesn't require much of an imagination.}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}

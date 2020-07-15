@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -32,6 +32,32 @@ lang=engl
 
 [engl]
 {100}{}{Quartermaster}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it soldier?}
+{2010}{}{Who are you?}
+{2020}{}{I wish to get some equipment.}
+{2030}{}{Nothing. Just passing by.}
+{3000}{}{Quartermaster. The one who can supply with some government property for your tokens, which you get for completing tasks.}
+{3010}{}{Fine. I wish to get some equipment.}
+{4000}{}{Fill the form first...}
+{4010}{}{On the second thought, I will show up later.}
+{4020}{}{[ Enclave Combat Armor Set - 1 token ]}
+{4030}{}{[ Enclave Combat Helmet MK2 - 1 token ]}
+{4040}{}{[ 500 MFC + 300 SBC - 1 token ]}
+{4050}{}{[ 30 Super Stimpaks + 20 Stimpaks - 1 token ]}
+{4060}{}{[ 3 mines + 1 plastic explosives - 2 tokens ]}
+{4070}{}{[ 2 Motion sensors - 1 token ]}
+{4080}{}{[ Plasma SMG + 50 MFC + Plasma Rifle - 1 token ]}
+{4090}{}{[ Tesla Armor + Tesla Helmet + YK32 Pistol + 50 SBC + 3 Super Stimpaks - 2 tokens ]}
+{4100}{}{[ Vault Tec Key - 5 tokens ]}
+{4110}{}{[ Vault 13 key - 1 token ]}
+{4120}{}{[ Howitzer Shell -1 token ]}
+{4130}{}{[ 100 4.7 ammo -1 token ]}
+{5000}{}{Here you go.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it soldier?}

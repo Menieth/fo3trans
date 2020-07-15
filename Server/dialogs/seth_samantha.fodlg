@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -34,6 +34,34 @@ lang=engl
 
 [engl]
 {100}{}{Samantha}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello. What is it?}
+{2010}{}{Who are you?}
+{2020}{}{What can you tell me about this town?}
+{2030}{}{Hey! I have some meat for you.}
+{2040}{}{Nothing. Just wanted to say hi.}
+{3000}{}{I am Samantha. Standing on guard here. You must be an outsider, aren't you?}
+{3010}{}{No, I am local.}
+{3020}{}{Yes, I am not from here.}
+{3030}{}{It is not your business. Bye.}
+{4000}{}{Do you think I am stupid? What is the point of your lie?}
+{5000}{}{I see. It is always great to see new faces here. Let me tell you about something. There are a bunch of scorpios in junkyard... Please, don't touch them. They are pets of my husband - Isaac. He really adores them.}
+{5010}{}{What can you tell me about the town?}
+{5020}{}{Scorpios? Why do you keep scorpios here?}
+{5030}{}{You people are crazy. I will be going.}
+{6000}{}{Well... Welcome in Tombstone. The town of boredom and outsiders problem. Locals are fine people, but I really advice you to avoid talking around bums.}
+{6010}{}{Bums? What are they?}
+{7000}{}{They are refugees coming from the whole wasteland, we need to understand them. Even though they are disgusting as hell and I would personally like to shoot them all up.}
+{7010}{}{I see. I wanted to ask about something else.}
+{7020}{}{Nice to hear. But first I guess it will be you to die from bullets.}
+{8000}{}{It is kinda a hobby me and my husband have here. These scorpios are really cute. Hey... You know what... If you ever get some brahmin meat, you can bring it to me. I will pay you for every piece. It is hard to find a normal food for scorpios here.}
+{8010}{}{Alright. I will keep that in mind.}
+{8020}{}{Pff... I am not a courier. Do it yourself.}
+{9000}{}{Thank you. Scorpios will love it!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it?}

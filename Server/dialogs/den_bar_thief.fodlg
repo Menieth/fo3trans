@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,13 @@ lang=engl
 {100}{}{Patron}
 {200}{}{You see a patron.}
 {210}{}{You see a patron. Looks like he feels here like in his own home.}
+{1000}{}{Predialog settings}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{-}
 {1020}{}{-}

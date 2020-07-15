@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Homesteader}
 {200}{}{You see a lean, tan person.}
 {210}{}{You see a homesteader}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I think you just might be one of them. What do you want?}
+{2010}{}{I just wanted to trade for supplies.}
+{2020}{}{I'm just passing through. I'll be on my way.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I think you just might be one of them. What do you want?}

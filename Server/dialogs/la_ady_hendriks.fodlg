@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -103,6 +103,101 @@ lang=engl
 {100}{}{Governor Hendriks}
 {200}{}{You see Governor Hendriks.}
 {210}{}{You see Morgan Hendriks, the Governor of New Adytum.}
+{1000}{}{Predialogue installations}
+{1010}{}{We are talking the first time.}
+{1020}{}{We talked already.}
+{2000}{}{What, what the hell do you want from me now?}
+{2010}{}{Eh, nothing. Bye.}
+{2020}{}{Slow down, what's your problem?}
+{2030}{}{The dogs are dead. }
+{2040}{}{I want to kill another pair of dogs.}
+{2050}{}{I want to kill another pair of dogs.}
+{2060}{}{I want to kill another pair of dogs.}
+{2070}{}{What do you know about the dogs?}
+{2080}{}{Can you tell me something about the salvagers?}
+{3000}{}{What the hell do you want from me?}
+{3010}{}{Just looking around, thanks and bye.}
+{3020}{}{Slow down, what's your problem?}
+{4000}{}{The dogs! The god damn dogs. }
+{4010}{}{What's up with the dogs?}
+{4020}{}{Sounds like you've got a hella fun with dogs.}
+{4030}{}{That's cool. Really. See you later.}
+{5000}{}{They are just everywhere! And they fucking eat the fucking salvagers...}
+{5010}{}{[Listen]}
+{6000}{}{... and they overrun our boneyard camps....}
+{6010}{}{[Listen]}
+{7000}{}{...yesterday, they have been close to the main gates...}
+{7010}{}{[Listen]}
+{8000}{}{...you want to salvage some metal parts? Fuck it! Some dog of a bastard is going to ruin your day and will attack you....}
+{8010}{}{[Listen]}
+{8020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{9000}{}{...and I tell you, they are not the normal dogs...}
+{9010}{}{[Listen]}
+{9020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{10000}{}{...they are like... I don't know. But you see it in their eyes...}
+{10010}{}{[Listen]}
+{10020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{11000}{}{...they are yellow. And god damn, these fuckers look angry...}
+{11010}{}{[Listen]}
+{11020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{12000}{}{...and hungry, but they eat all the time...}
+{12010}{}{[Listen]}
+{12020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{13000}{}{...few days ago, a salvagers camp in the east of the Boneyard got overrun... }
+{13010}{}{[Listen]}
+{13020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{14000}{}{...only a few managed it to survive the attack...}
+{14010}{}{[Listen]}
+{14020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{15000}{}{...we don't even know why the god damn dogs are like that...}
+{15010}{}{[Listen]}
+{15020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{16000}{}{...you can just kill them. And again. And again... }
+{16010}{}{[Listen]}
+{16020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{17000}{}{...but there will be always more. They are like rabbits. God damn dogs...}
+{17010}{}{[Listen]}
+{17020}{}{Enough! [You interrupt him.] Tell me where the damn dogs are and I'll hang 'em up.}
+{18000}{}{@sex@|Don't make fun of me, man!||Don't make fun of me, girl!|}
+{18010}{}{What's the problem with the dogs?}
+{18020}{}{I'll make fun about what I want! Bye.}
+{19000}{}{That would you do? But... but they can make easy meat out of you!}
+{19010}{}{I am tough enough, I can do it. Just tell me where they are and what I will get, when I get rid of them.}
+{19020}{}{Killing dogs sounds like fun and that's what I am searching for. Now tell me where the fuck the dogs are.}
+{19030}{}{That was just a lie. Bye.}
+{20000}{}{We can pay you in various ammo types for every dead group of dogs. }
+{20010}{}{Okay. Show me where the dogs are right now.}
+{20020}{}{What, for this I am not even going out of the bed.}
+{21000}{}{I am sorry, but we can't pay you more. Take it or leave it.}
+{21010}{}{Okay. Show me where the dogs are right now.}
+{22000}{}{Here, [He points you to a map on the table.] that's where we got the last salvagers reports. }
+{22010}{}{I am on my way.}
+{23000}{}{I know that they are god damn bastards. We are not sure why there are so many of them, but it's a hell of a job to get rid of them.}
+{23010}{}{And there is no chance to get them away for a longer time?}
+{23020}{}{Something else...}
+{23030}{}{That's all I wanted. See you.}
+{24000}{}{Great! Here is the position of another dog group... [He points you to a map on the table.] ... that's where we got the last salvagers reports. }
+{24010}{}{Fine. I will check it out.}
+{25000}{}{What, really? Great! Here is your reward. [He gives you some ammo.]}
+{25010}{}{Thanks. See you later.}
+{26000}{}{We tried already a lot shit. Even some chemicals from Miles, but nothing worked. They are just everywhere. }
+{26010}{}{Something else, if you don't mind...}
+{26020}{}{That's all I wanted. See you.}
+{27000}{}{They are free workers who go through the ruins and search for junk, metal, usable stuff... Everything that can be reused.}
+{27010}{}{Where can I find the salvagers?}
+{27020}{}{That's all I wanted to know. Bye.}
+{28000}{}{They are in the north west of here. It's an bigger building with many people running around... You can't really miss it.}
+{28010}{}{That's all I wanted to know. Bye.}
+{29000}{}{Great! But... How unbelievable it even sounds, but... It looks like the amount of dog packs has been decreased drastically over the last time. The ruin crawlers didn't met any since a while. }
+{29010}{}{Okay. Maybe I will check you out later again. Bye.}
+{29020}{}{The dogs are gone?}
+{30000}{}{Well, I wouldn't count on that. There have been always periods of time, where we could beat them off a bit. And they always came back. So... if you come back later, I can guarantee you, that we got new reports about attacks.}
+{30010}{}{Okay. Maybe I will check you out later again. Bye.}
+{31000}{}{Great! But... How unbelievable it even sounds, but... The ruin crawlers didn't met any pack of dogs since a while. You should check back, when I got a new report.}
+{31010}{}{Okay. Maybe I will check you out later again. Bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,4 +12,7 @@ lang=engl
 {100}{}{Sandbag}
 {1000}{}{Predialogue installations}
 
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
 

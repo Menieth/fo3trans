@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -138,6 +138,134 @@ lang=engl
 {210}{}{You see a good looking woman in middle age.}
 {240}{}{You see a dead police officer.}
 {260}{}{You see a slain Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{I'm with stupid}
+{1020}{}{i dont know you}
+{1030}{}{I know you.}
+{2000}{}{Hello! Welcome to the Brotherhood of Steel. I've never seen you in our library yet. Are you new?}
+{2010}{}{Yes, I am new and I wonder, what kind of books you have.}
+{2020}{}{Hello. Tell me, do you have some old Holodisks to sell?}
+{2030}{}{Hello. Tell me, do you have some old Holodisks to sell?}
+{2040}{}{Nothing, but thanks.}
+{2050}{}{Nothing, but thanks.}
+{3000}{}{Hello and welcome back!}
+{3010}{}{I would like to purchase one or two books from you.}
+{3020}{}{Do you have some old Holodisks to sell?@@I would like to buy a Holodisk. To you have some?}
+{3030}{}{Hello. Tell me, do you have some old Holodisks to sell?}
+{3040}{}{Nothing, but thanks.}
+{3050}{}{Nothing, but thanks.}
+{4000}{}{We have many books in our library. You might just tell me what you are searching for. Then I can tell you more details.}
+{4010}{}{I am searching some science books.@@Do you have books about science?@@Books about science is what I am searching for.}
+{4020}{}{I am searching some electronic books.@@Do you have books about electronics?@@Books about electronic is what I am searching for.}
+{4030}{}{I am searching some first aid books.@@Do you have books about first aid?@@Books about first aid is what I am searching for.}
+{4040}{}{I am searching some guns and bullets books.@@Do you have books about guns and bullets?@@Books about guns and bullets is what I am searching for.}
+{4050}{}{I am searching some scout books.@@Do you have books about scouting?@@Books about scouting is what I am searching for.}
+{4060}{}{I am searching some trading books.@@Do you have books about trading?@@Books about trading is what I am searching for.}
+{4070}{}{I am searching some Big Guns books.}
+{4080}{}{I am searching some Doctor books.}
+{4090}{}{I am searching some Energy Weapons books.}
+{4100}{}{I am searching some Sneak books.}
+{4110}{}{I am searching some Stealk books.}
+{4120}{}{I am searching some Lockpick books.}
+{4130}{}{I am searching some Throwing books.}
+{4140}{}{I am searching some traps books.}
+{4150}{}{I am searching some Close Combat books.}
+{5000}{}{I'm sorry, but I don't understand you. Somewhere I have a Holodisk on learning the English language, if you're interested.}
+{5010}{}{Wha?@@Wah!}
+{6000}{}{@sex@|Maybe later, young boy.||Maybe later, young lady.|}
+{6010}{}{I'll have some other question.}
+{7000}{}{Yes?}
+{7010}{}{What do you have in the way of books?}
+{7020}{}{Nothing, but thanks.}
+{8000}{}{Yes, I think I have what you are searching for. What about this exemplar of the big book of science? It costs 2500 caps.}
+{8010}{}{I'll take it. [You give her 2500 caps.]}
+{8020}{}{It seems like I don't have enough money...}
+{8030}{}{This is not what I am searching for. Do you have something else?}
+{9000}{}{Yes, I think I have what you are searching for. What about this exemplar of Deans Electronics? It costs 2500 caps.}
+{9010}{}{I'll take it. [You give her 2500 caps.]}
+{9020}{}{It seems like I don't have enough money...}
+{9030}{}{This is not what I am searching for. Do you have something else?}
+{10000}{}{Yes, I think I have what you are searching for. What about this first aid book here? It costs 3000 caps.}
+{10010}{}{I'll take it. [You give her 3000 caps.]}
+{10020}{}{It seems like I don't have enough money...}
+{10030}{}{This is not what I am searching for. Do you have something else?}
+{11000}{}{Yes, I think I have what you are searching for. Here, Guns and Bullets, the book isn't in that good state anymore. It costs 3000 caps.}
+{11010}{}{I'll take it. [You give her 3000 caps.]}
+{11020}{}{It seems like I don't have enough money...}
+{11030}{}{This is not what I am searching for. Do you have something else?}
+{12000}{}{Yes, I think I have what you are searching for. What about this scouting handbook? It costs 2500 caps.}
+{12010}{}{I'll take it. [You give her 2500 caps.]}
+{12020}{}{It seems like I don't have enough money...}
+{12030}{}{This is not what I am searching for. Do you have something else?}
+{13000}{}{Okay, here you have it. Do you need something else?}
+{13010}{}{Yes, I am searching for some other books...}
+{13020}{}{It seems like I don't have enough money...}
+{13030}{}{Not yet, thanks.}
+{14000}{}{I am really sorry, but then I can't give you the books. Maybe you want to come back, if you got some money.}
+{14010}{}{Maybe, but thanks anyway. See you.}
+{15000}{}{Yes, we got some dusted Holodisks from the salvagers in our last trade with them. Maybe you want to buy one? I can give you one for 500 caps.}
+{15010}{}{Sounds good. Give me the Holodisk. [You give her 500 caps.]}
+{15020}{}{A shame, it looks like I don't have enough money.}
+{16000}{}{What a shame. However, if you come back later, I might still have some.}
+{16010}{}{I would like to buy some books then instead.}
+{16020}{}{Maybe. See you later.}
+{17000}{}{Thanks. Here is your Holodisk. [She takes the caps and hands you the dusted piece of technic.] }
+{17010}{}{Now I also would like to buy some books...}
+{17020}{}{That's all I wanted. See you later.}
+{18000}{}{Sorry, but we don't have any Holodisks in the moment.}
+{18010}{}{Oh well. Then maybe later. See you.}
+{18020}{}{What about books?}
+{19000}{}{Wait a second!}
+{19010}{}{What is it?}
+{19020}{}{No, bye.}
+{20000}{}{Can you bring this book to Therese? You can find here in the library basement. [She shows you an old worn out book.]}
+{20010}{}{Sure, I'll do it.}
+{20020}{}{Don't have time for this, bye.}
+{21000}{}{Nice! Thank's in advance. Tell her, Veronica sends you.}
+{21010}{}{[You take the book and go.]}
+{22000}{}{Yes, I think I have what you are searching for. What about these fascinating Tales of Junktown Jerky Trader here? It costs 2500 caps.}
+{22010}{}{I'll take it. [You give her 2500 caps.]}
+{22020}{}{It seems like I don't have enough money...}
+{22030}{}{This is not what I am searching for. Do you have something else?}
+{23000}{}{Yes, I think I have what you are searching for. What about this exemplar of "Bigger Than Your Wife"? It costs 5000 caps.}
+{23010}{}{I'll take it. [You give her 5000 caps.]}
+{23020}{}{It seems like I don't have enough money...}
+{23030}{}{This is not what I am searching for. Do you have something else?}
+{24000}{}{Yes, I think I have what you are searching for. What about this exemplar of Advanced Medicine? It costs 5000 caps.}
+{24010}{}{I'll take it. [You give her 5000 caps.]}
+{24020}{}{It seems like I don't have enough money...}
+{24030}{}{This is not what I am searching for. Do you have something else?}
+{25000}{}{Yes, I think I have what you are searching for. What about this exemplar of Guns and Cells? It costs 5000 caps.}
+{25010}{}{I'll take it. [You give her 5000 caps.]}
+{25020}{}{It seems like I don't have enough money...}
+{25030}{}{This is not what I am searching for. Do you have something else?}
+{26000}{}{Yes, I think I have what you are searching for. What about this exemplar of The steps? It costs 5000 caps.}
+{26010}{}{I'll take it. [You give her 5000 caps.]}
+{26020}{}{It seems like I don't have enough money...}
+{26030}{}{This is not what I am searching for. Do you have something else?}
+{27000}{}{Yes, I think I have what you are searching for. What about this exemplar of Thief Diary? It costs 5000 caps.}
+{27010}{}{I'll take it. [You give her 5000 caps.]}
+{27020}{}{It seems like I don't have enough money...}
+{27030}{}{This is not what I am searching for. Do you have something else?}
+{28000}{}{Yes, I think I have what you are searching for. What about this exemplar of Secrets of lockpicker? It costs 5000 caps.}
+{28010}{}{I'll take it. [You give her 5000 caps.]}
+{28020}{}{It seems like I don't have enough money...}
+{28030}{}{This is not what I am searching for. Do you have something else?}
+{29000}{}{Yes, I think I have what you are searching for. What about this exemplar of Boom Boom Shock? It costs 5000 caps.}
+{29010}{}{I'll take it. [You give her 5000 caps.]}
+{29020}{}{It seems like I don't have enough money...}
+{29030}{}{This is not what I am searching for. Do you have something else?}
+{30000}{}{Yes, I think I have what you are searching for. What about this exemplar of Military magazine? It costs 5000 caps.}
+{30010}{}{I'll take it. [You give her 5000 caps.]}
+{30020}{}{It seems like I don't have enough money...}
+{30030}{}{This is not what I am searching for. Do you have something else?}
+{31000}{}{Yes, I think I have what you are searching for. What about this exemplar of Magazine for close comba? It costs 5000 caps.}
+{31010}{}{I'll take it. [You give her 5000 caps.]}
+{31020}{}{It seems like I don't have enough money...}
+{31030}{}{This is not what I am searching for. Do you have something else?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I'm with stupid}
 {1020}{}{i dont know you}

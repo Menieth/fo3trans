@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Slaver}
 {200}{}{You see a slaver.}
 {210}{}{They've got a large tattoo on their forehead.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{These will fetch a good price at market.@@Try not to damage the merchandise.@@You'll make a spirited slave.}
+{2010}{}{Aw, c'mon fellas. There's no need to-}
+{2020}{}{YOU WANT SOME OF THIS? YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{These will fetch a good price at market.@@Try not to damage the merchandise.@@You'll make a spirited slave.}

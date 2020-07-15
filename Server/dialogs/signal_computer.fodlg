@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -17,6 +17,18 @@ lang=engl
 4 4000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ LOADING MAINFRAME... COMPLETE. ]}
+{2010}{}{[ Play the video from cameras. ]}
+{2020}{}{[ Open the door to sector 4A. ]}
+{2030}{}{[ Exit ]}
+{3000}{}{[ On the video you can see the following scene: A group of people are trying to barricade the hallway. Suddenly one of them points somewhere to the entrance and screams: "Mutants!". Gunfire breaks down. After a minute of unstoppable sounds of shots and screams you see howa group of people run behind the door, closing it behind themselves. Suddenly the camera got hit down by one of the mutants and you can only hear someone saying: "Argh... Stupid humans locked themselves inside! Bork, Glork! Find the way to get inside. ]}
+{3010}{}{[ Back ]}
+{4000}{}{[ OPERATING... ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

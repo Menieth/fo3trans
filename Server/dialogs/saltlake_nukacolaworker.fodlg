@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +14,12 @@ lang=engl
 {100}{}{Nuca Cola Worker}
 {200}{}{You see a worker of Nuca Cola Bottle Plant.}
 {210}{}{This is just another ordinary laborer in the factory.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I'm busy, talk to you after work}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm busy, talk to you after work}

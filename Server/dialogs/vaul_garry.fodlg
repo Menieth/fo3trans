@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -37,6 +37,35 @@ lang=engl
 {100}{}{Harry}
 {200}{}{You see a short, jovial man.}
 {210}{}{You see Happy Harry, the store owner.}
+{1000}{}{Predialogue installations}
+{1010}{}{rent quest}
+{1020}{}{ugly}
+{1030}{}{default}
+{2000}{}{Well, hello there... what can I do for you?}
+{2010}{}{I'm here to collect your rent.}
+{2020}{}{I’m looking to trade. Can I see what you have in stock?}
+{2030}{}{Me Buy}
+{2040}{}{Since you trade in all kind of junk, and there's that vault just under your nose, I thought you might know something about those fancy Stealth Boy devices.}
+{2050}{}{Since you trade in all kind of junk, and there's that vault just under your nose, I thought you might know something about those fancy Stealth Boy devices.}
+{2060}{}{Nothing today, thanks.}
+{3000}{}{I'm gonna have to ask you to leave.@@I can't be seen talking to you, I don't want the guards in here.@@You ain't gonna get in the city, so don't try.@@Get out of here!}
+{4000}{}{I'm glad someone came. Here... The money and a small tip for your trouble.}
+{4010}{}{Thank you. Now you die. [Attack]}
+{4020}{}{Wow. Thanks! Have a nice day.}
+{5000}{}{Have you taken the rent to the guard? No? Well then get to it.@@Hurry with the rent collection.@@You better go speak with the guard.}
+{6000}{}{Stealth Boys, eh? Back in my youth I used to disassemble tons of those. The Council didn't want anyone sneaking around and these things come into wrong hands damn easily, you know what I mean?}
+{6010}{}{Excellent! Say, could you give me any pointers, what to do if I ever find one of them? [Stealth Girl]}
+{6020}{}{I think I changed my mind. Farewell, Harry!}
+{7000}{}{Well, let me fetch some of my old drawings before I tell you all I know about them. [You spend some time with Harry, learning about Stealth Boy technology]}
+{7010}{}{Thanks Harry, @sex@|you're the man||you're a sweetheart|! I think I'll prefer you over other traders from now on. Bye!}
+{8000}{}{Stealth Boys, eh? Back in my youth I used to disassemble tons of those. The Council didn't want anyone sneaking around and these things come into wrong hands damn easily, you know what I mean?}
+{8010}{}{Excellent! Say, could you give me any pointers, what to do if I ever find one of them? [Stealth Girl]}
+{8020}{}{I think I changed my mind. Farewell, Harry!}
+{9000}{}{[You spend some time with Harry, trying to learn about Stealth Boy technology] NO, NO, NO! You got it all wrong! Sorry, but you don't look like someone capable of learning how to use these devices more efficiently.}
+{9010}{}{Oh well... Perhaps I will come back later. Goodbye, Harry!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{rent quest}
 {1020}{}{ugly}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Ferndown}
 {200}{}{You see a nervous-looking fellow in a jumpsuit.}
 {210}{}{You see Ferndown, the Vault City merchant agent.}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}

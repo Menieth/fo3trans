@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Slave}
 {200}{}{You see a slave.}
 {210}{}{This slave is dirty and doesn't look in particularly good shape.}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{I have no time to talk.@@Stop bothering me.@@I have to play on their ball, otherwise I'm dead.@@Leave me alone.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}
 {2000}{}{I have no time to talk.@@Stop bothering me.@@I have to play on their ball, otherwise I'm dead.@@Leave me alone.}

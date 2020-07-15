@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,11 @@ lang=engl
 {100}{}{Talek}
 {200}{}{An odd looking adventurer.}
 {210}{}{You see a retired adventurer.}
+{1000}{}{Predialogue installations}
+{2000}{}{What is this, I don't even.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{What is this, I don't even.}
 

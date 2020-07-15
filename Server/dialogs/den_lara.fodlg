@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -26,6 +27,25 @@ lang=engl
 {100}{}{Lara}
 {200}{}{You see Lara.}
 {210}{}{She's the leader of this gang.}
+{1000}{}{Predialogue installations}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{2000}{}{The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.}
+{2010}{}{Got any work?}
+{2020}{}{Just looking around.}
+{2030}{}{No problem. Bye.}
+{3000}{}{If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.}
+{3010}{}{Got any work?}
+{3020}{}{I can handle myself.}
+{3030}{}{Okay, thanks.}
+{4000}{}{No doubt. Otherwise you probably wouldn't have made it here alive.}
+{4010}{}{Got any work?}
+{4020}{}{Okay, thanks.}
+{5000}{}{Not at the moment. Sorry pal.}
+{5010}{}{Thanks anyway. Bye.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

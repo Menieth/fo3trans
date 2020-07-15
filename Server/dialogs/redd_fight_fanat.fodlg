@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -18,6 +19,12 @@ lang=engl
 {210}{}{This person's very nervous.}
 {210}{}{This man looks very nervous.}
 {210}{}{This person looks excited.}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Get 'im!@@There goes a week's wages…again.@@Yeah!@@Kill, kill, kill!@@Go for the throat!@@Maim the bastard!@@Get up on 'im!@@Go around! No, the other way!@@Watch out!@@That's the ticket!@@Make me rich!@@Gimme those new shoes, baby!@@Give me some of that sugar!@@Footwork stupid! Footwork!@@Finish him!@@Fight!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{Get 'im!@@There goes a week's wages…again.@@Yeah!@@Kill, kill, kill!@@Go for the throat!@@Maim the bastard!@@Get up on 'im!@@Go around! No, the other way!@@Watch out!@@That's the ticket!@@Make me rich!@@Gimme those new shoes, baby!@@Give me some of that sugar!@@Footwork stupid! Footwork!@@Finish him!@@Fight!}

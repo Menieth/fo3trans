@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -26,6 +26,27 @@ lang=engl
 0 7020 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This is a nuka cola mashine. On the left corner you can see hole, a sign near this hole says that mashine takes only five dollars coins. ]}
+{2010}{}{[Hit the mashine with your leg.]}
+{2020}{}{[Hit the mashine with your leg.]}
+{2030}{}{[Try to outwit the mashine.]}
+{2040}{}{[Leave]}
+{2050}{}{[ Check behind the mashine. ]}
+{3000}{}{[ You hit the mashine with your leg, but seems it did nothing. ]}
+{3010}{}{Damn it!}
+{4000}{}{[ You hit the mashine with your leg and after few seconds a bottle falls out of it. ]}
+{4010}{}{[Take the bottle.]}
+{5000}{}{[ After long examination you have managed to find a way how to outwit the mashine.After few more minutes a bottle falls out of it. ]}
+{5010}{}{[Take the bottle.]}
+{6000}{}{Thank you for your purchase!}
+{7000}{}{[ You see a hidden pack with different scrap behind the mashine. ]}
+{7010}{}{[ Pull the pack out. ]}
+{7020}{}{[ Leave ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

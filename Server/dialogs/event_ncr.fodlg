@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -19,6 +19,19 @@ lang=engl
 
 [engl]
 {100}{}{NCR Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{Yup?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Here we go! Another brave man on the democracy side! Here is your gear. Are you ready?}
+{3010}{}{Lock'n Load. Let's do it!}
+{3020}{}{Uh... Just a minute...}
+{4000}{}{Wait a second... You are not in the list! Who are you?}
+{4010}{}{Uhm... I better go.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{Yup?}

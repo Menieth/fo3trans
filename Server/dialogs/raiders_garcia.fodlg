@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -18,6 +19,16 @@ lang=engl
 {200}{}{You see Garcia, the Khan lieutenant.}
 {210}{}{You see a mean-looking individual. He sees you too, and he doesn't look very happy about it.}
 {210}{}{You see Garcia. He's flicking through a Cat's Paw magazine and scratching his stubble.}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{[He looks at you.]}
+{2010}{}{Can I ask you something?}
+{2020}{}{[Walk off.]}
+{3000}{}{Go bug someone else, man.}
+{3010}{}{Alright.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}
 {2000}{}{[He looks at you.]}

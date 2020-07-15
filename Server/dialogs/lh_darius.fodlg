@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -189,6 +189,189 @@ lang=engl
 
 [engl]
 {100}{}{Senior Paladin Darius}
+{1000}{}{Predialogue installations}
+{1010}{}{sss}
+{1020}{}{sss}
+{2000}{}{Hmh... @pname@ I believe?}
+{2010}{}{What? How did you know?}
+{3000}{}{Your actions have been noticed, as well as actions of other individuals like you.}
+{3010}{}{Who are you?}
+{4000}{}{Senior Paladin Darius - Brotherhood of Steel scouts.}
+{4010}{}{Brotherhood Scouts? What do you, people, do?}
+{5000}{}{Fulfilling our holy mission of course - protecting the humanity from the new Dark Age by containing dangerouse technologies. [ he looks at you thoughtfully for a second ] You are a scavanger, arn't you? Walking around Old World's ruins and collecting stuff...}
+{5010}{}{Well, yeah... I guess.}
+{6000}{}{We might have a job for people like you, people who are brave enough to explore dangerouse places that once beloged to United States... It can be always good for both of us if you bring some of the technologies you find to us.}
+{6010}{}{I will think about it.}
+{7000}{}{What is it, @pname@?}
+{7010}{}{Tell me about Brotherhood of Steel.}
+{7020}{}{I am interested in collecting technologies. What exactly do you need?}
+{7030}{}{Hey, what do you think about this laser pistol?}
+{7040}{}{I found this magneto laser pistol a while ago...}
+{7050}{}{I have a plasma pistol for you.}
+{7060}{}{What do you think about this laser rifle?}
+{7070}{}{What about this plasma rifle?}
+{7080}{}{I have something special - this pusle pistol!}
+{7090}{}{I have a Gatling laser here.}
+{7100}{}{What do you think about this solar scorcher?}
+{7110}{}{Hey I got a real alien blaster for you! No jokes, just look at this!}
+{7120}{}{I have an advanced plasma pistol here.}
+{7130}{}{I have an advancedlaser riflel here.}
+{7140}{}{I have a motion sensor for you.}
+{7150}{}{I have a geiger counter for you.}
+{7160}{}{This looks like a Brotherhood helmet...}
+{7170}{}{This certainly belongs to the Enclave,}
+{7180}{}{This is certainly a Brotherhood armor...}
+{7190}{}{I have an Enclave armor here.}
+{7200}{}{I found this Tesla armor a while ago.}
+{7210}{}{I found this Tesla helmet. Are you interested?}
+{7220}{}{I have an empty holotape here.}
+{7230}{}{I am searching for a job.}
+{7240}{}{Hey there. I copied all logs in my Pip Boy. Here they are.}
+{7250}{}{I need to go.}
+{8000}{}{Brotherhood of Steel is organisation that saves this world from another collapse. That's all what you need to know about us. We secure old world technologies to save humanity from amature and unprepared use of these techs.}
+{8010}{}{Why don't you help people around, then? Saving slaves from slavers... bringing peace... you know.}
+{9000}{}{We are not interested in helping some barbarians fixing their wells or... even minds. Our mission is global and more important than simple charity.}
+{9010}{}{I see...}
+{10000}{}{Anything that looks technologically advanced. Energy weapons, and armors, usefull techs, such as motion sensors or geiger counters and others. These will come in use.}
+{10010}{}{What do you do with all this stuff?}
+{10020}{}{Cool, I will keep it in mind,}
+{11000}{}{Well some of these will go to the storage, others will be decrafted for materials or used by us.}
+{11010}{}{Fine. There is something else I want to aks you about.}
+{12000}{}{This is a garbage. I can only give you some caps for it.}
+{13000}{}{Hmh... Not bad. What would you like to take for this one?}
+{13010}{}{[ 24 10mm AP ]}
+{13020}{}{[ 30 5mm AP ]}
+{13030}{}{[ 30 .223 ]}
+{13040}{}{[ Stimpak ]}
+{14000}{}{It is always a pleasure to see plasma techs. What would you like to take for this one?}
+{14010}{}{[ 2 Stimpaks ]}
+{14020}{}{[ 40 .223 ]}
+{14030}{}{[ 30 7.62 ]}
+{14040}{}{[ 130 caps ]}
+{14050}{}{[ 5 frag grenades ]}
+{15000}{}{Good. What would you like to take for this one?}
+{15010}{}{[ 170 caps ]}
+{15020}{}{[ 70 .223 ]}
+{15030}{}{[ 90 7.62 ]}
+{15040}{}{[ 1 Super Stimpak ]}
+{15050}{}{[ 5 Stimpaks ]}
+{15060}{}{[ 150 5mm AP ]}
+{15070}{}{[ 10 frag grenades ]}
+{16000}{}{Very nice. Plasma will do fine. What would you like to take?}
+{16010}{}{[ 2 Rad X ]}
+{16020}{}{[ 2 Rad-Away ]}
+{16030}{}{[ 300 5mm AP ]}
+{16040}{}{[ 120 .223 ]}
+{16050}{}{[ 2 Super Stimpaks ]}
+{16060}{}{[ 250 10mm AP ]}
+{16070}{}{[ 20 frag grenades ]}
+{16080}{}{[ 3 plasma grenades ]}
+{17000}{}{Looks good. What would you like to take?}
+{17010}{}{[ 5 Super Stimpaks ]}
+{17020}{}{[ 450 5mm AP ]}
+{17030}{}{[ 300 .223 ]}
+{17040}{}{[ 450 10mm AP ]}
+{17050}{}{[ 15 frag grenades ]}
+{17060}{}{[ 2 Rad-Away ]}
+{18000}{}{Gatling laser? Can only wonder from where you got it. What would you like to take for it?}
+{18010}{}{[ 10 Super Stimpaks ]}
+{18020}{}{[ 5 Rad X ]}
+{18030}{}{[ 7 Rad-Away ]}
+{18040}{}{[ 850 5mm AP ]}
+{18050}{}{[ 900 10mm AP ]}
+{18060}{}{[ 400 7.62 and 350 .223 ]}
+{18070}{}{[ Super Tool Kit ]}
+{18080}{}{[ 3 Psycho ]}
+{19000}{}{Oh... This one looks interesting. What would you like to take for this?}
+{19010}{}{[ 1 Psycho ]}
+{19020}{}{[ 5 Super Stimpaks ]}
+{19030}{}{[ 15 Stimpaks ]}
+{19040}{}{[ 450 caps ]}
+{19050}{}{[ 300 .223 ]}
+{19060}{}{[ 500 5mm AP ]}
+{20000}{}{Well I will be damned... [ he carefully examines the pistol, then he takes the radio and says something in it ]. I think our scribes would really like to take a look on this. What would you like for this one?}
+{20010}{}{[ 10 Dynamites ]}
+{20020}{}{[ 70 frag grenades ]}
+{20030}{}{[ 40 plasma grenades ]}
+{20040}{}{[ 30 Super Stimpaks ]}
+{20050}{}{[ 2000 5mm AP ]}
+{20060}{}{[ 3000 10mm AP ]}
+{20070}{}{[ 10 Psycho ]}
+{20080}{}{[ 20 Buffout ]}
+{20090}{}{[ 1700 caps ]}
+{21000}{}{Very good. What would you like to take?}
+{21010}{}{[ 200 5mm AP ]}
+{21020}{}{[ 250 10mm AP ]}
+{21030}{}{[ 100 .223 ]}
+{21040}{}{[ 3 Super Stimpaks ]}
+{21050}{}{[ 5 Stimpaks ]}
+{21060}{}{[ 1 Rad X ]}
+{21070}{}{[ 1 Rad-Away ]}
+{21080}{}{[ 15 frag grenades ]}
+{22000}{}{This is even better than classic one. What would you like to take?}
+{22010}{}{[ 400 5mm AP ]}
+{22020}{}{[ 450 10mm AP ]}
+{22030}{}{[ 300 7.62 and 200 .223 ]}
+{22040}{}{[ 3 Super Stimpaks ]}
+{22050}{}{[ 7 Stimpaks ]}
+{22060}{}{[ 2 Buffout ]}
+{22070}{}{[ 15 frag grenades ]}
+{23000}{}{Come back when you make your mind.}
+{24000}{}{Very nice... This will come handy. What would you like to take?}
+{24010}{}{[ 20 frag grenades ]}
+{24020}{}{[ 5 plasma grenades ]}
+{24030}{}{[ 4 Super Stimpaks ]}
+{24040}{}{[ 500 5mm AP ]}
+{24050}{}{[ 550 10mm AP ]}
+{24060}{}{[ Desert Eagle ]}
+{25000}{}{A Geiger, huh? Fine, What would you like to take?}
+{25010}{}{[ 70 .223 ]}
+{25020}{}{[ 5 frag grenades ]}
+{25030}{}{[ 1 plasma grenade ]}
+{25040}{}{[ 1 Super Stimpak ]}
+{25050}{}{[ 4 Stimpaks ]}
+{25060}{}{[ 150 5mm AP ]}
+{25070}{}{[ 100 10mm AP ]}
+{26000}{}{Hmmh... Sure. What would you like to take?}
+{26010}{}{[ Metal Helmet mk2 and 100 5mm AP ]}
+{26020}{}{[ 5 Super Stimpaks ]}
+{26030}{}{[ 400 5mm AP ]}
+{26040}{}{[ 500 10mm AP ]}
+{26050}{}{[ 2 Rad X ]}
+{27000}{}{This is a good piece. What would you like to take?}
+{27010}{}{[ 2 Rad X ]}
+{27020}{}{[ 3 Rad-Away ]}
+{27030}{}{[ 12 explosive rockets ]}
+{27040}{}{[ 20 frag grenades ]}
+{27050}{}{[ 5 plasma grenades ]}
+{27060}{}{[ 3 Super Stimpaks ]}
+{28000}{}{It is nice that you brang it back to us. What would you like to take?}
+{28010}{}{[ 5 Super Stimpaks ]}
+{28020}{}{[ 25 frag grenades ]}
+{28030}{}{[ 700 5mm AP and 100 .223 ]}
+{29000}{}{This is a jackpot for sure. What would you like to take for this one?}
+{29010}{}{[ 800 10mm AP and 100 7.62 ]}
+{29020}{}{[ 7 Super Stimpaks ]}
+{29030}{}{[ 25 frag grenades ]}
+{30000}{}{Tesla you say? It has been a long while since I saw these armors. What would you like to take for this?}
+{30010}{}{[ 25 frag grenades ]}
+{30020}{}{[ 5 plasma grenades ]}
+{30030}{}{[ 3 Super Stimpaks ]}
+{30040}{}{[ 500 caps ]}
+{31000}{}{Tesla helmet? Well this is a good piece. What would you like to get for this?}
+{31010}{}{[ 300 caps ]}
+{31020}{}{[ 200 5mm AP ]}
+{31030}{}{[ 150 10mm AP ]}
+{32000}{}{Kinda garbage... Here are some caps for you.}
+{33000}{}{Here you go.}
+{34000}{}{Well, you might be useful. There is a place north from Junktown that is known as Abbey. Some time ago our expedition squad was sent there. Since then we recieved no news from them. I need you to check their outpost in Abbey and collect all information from their filed terminal and bring it back here. To let you know, they used Mr. Handy as a terminal for their expedition logs.}
+{34010}{}{Alright. I am up for it.}
+{34020}{}{No. I will not sign up for this.}
+{35000}{}{Good. Also, the outpost might be locked on a lock. You are... allowed to pick it.}
+{36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}

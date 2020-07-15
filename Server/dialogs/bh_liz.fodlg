@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -64,6 +65,62 @@ lang=engl
 {200}{}{You see a woman wearing a perpetual scowl.}
 {210}{}{You see Liz, the manager of the General Store.}
 {210}{}{You see a middle-aged woman whose scowl has eroded her face. She looks like one of those people who takes a perverse pleasure in a hard life.}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{Ioaao}
+{1030}{}{Ioaao}
+{1040}{}{Known}
+{2000}{}{Hi. I’m Liz. What do you want?}
+{2010}{}{Nggg! Nnnnnng!}
+{2020}{}{Me nget ssssstUFF!}
+{3000}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?}
+{3010}{}{Gurgle.}
+{4000}{}{Speak slowly and clearly and I’ll see if I can help you.}
+{4010}{}{Nn! Stuff! Me!}
+{4020}{}{Dood bye!}
+{5000}{}{You want to buy something?}
+{5010}{}{Yes!}
+{5020}{}{No no no.}
+{6000}{}{Hi. I’m Liz. What do you want?}
+{6010}{}{I’d like to buy something.}
+{6020}{}{What can you tell me about this town?}
+{6030}{}{I want to kill something. What’s around?}
+{6040}{}{Nothing.}
+{7000}{}{It’s a boring little mining town filled with all sorts of undesirables. You want a guided tour, talk to Steve or someone.}
+{7010}{}{Wow, a crabby one. I have more questions.}
+{7020}{}{Okay. Bye.}
+{8000}{}{What is it this time?}
+{8010}{}{I want to kill something. What’s around?}
+{8020}{}{I’d like to buy something.}
+{8030}{}{What can you tell me about this town?}
+{8040}{}{Nothing.}
+{9000}{}{What’d you have in mind for killing?}
+{9010}{}{Radscorpions, rats, that sort of thing.}
+{9020}{}{Oh, the occasional humanoid.}
+{9030}{}{You. Die, bitch.}
+{9040}{}{Bad guys.}
+{9050}{}{No one. Forget it.}
+{10000}{}{You might try the caves or the area near the homes. I understand there are plenty of monsters there.}
+{10010}{}{Thanks. Bye.}
+{11000}{}{Humanoids, eh? Any humanoids in particular?}
+{11010}{}{Humans.}
+{11020}{}{Ghouls.}
+{11030}{}{Mutants.}
+{11040}{}{Just kidding.}
+{12000}{}{What’s your definition of a bad guy?}
+{12010}{}{Anyone I don’t like. Humanoids, mostly.}
+{12020}{}{Anyone who gets in my way.}
+{12030}{}{It’s a pretty fluid definition.}
+{13000}{}{I don’t support killin’ in this store. Get out.}
+{13010}{}{Yeah, whatever. Bitch.}
+{14000}{}{Ghouls are useful slaves. They ain’t got enough minds of their own to be people, but they ain’t worth killin’, either. I don’t support the killin’ of ghouls.}
+{14010}{}{Fine. I want something else.}
+{15000}{}{If you’re really interested in killing mutants, maybe you ought to go out there and put a bullet in the Sheriff's head, instead of standing here talkin'.}
+{15010}{}{Fine, maybe I will.}
+{16000}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?@@Got-damn mutants. Get the heck outta my store!@@Get the hell outta here!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ioaao}

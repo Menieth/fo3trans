@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,12 @@ lang=engl
 {200}{}{You see Rico.}
 {210}{}{You see a huge, stone-faced man. He looks like he eats bricks.}
 {210}{}{You see Rico, Monte's bodyguard. He looks like he eats bricks.}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Me Monte friend. YOU Monte friend?@@Me hit people Monte tell me to@@Me hit people@@Me hit people with fists like playing drum@@Me like to hit@@::Smiles toothlessly::@@::Scratches self::@@::Flexes::@@Grunt@@Grunt - Grunt.@@Me no like talk}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Me Monte friend. YOU Monte friend?@@Me hit people Monte tell me to@@Me hit people@@Me hit people with fists like playing drum@@Me like to hit@@::Smiles toothlessly::@@::Scratches self::@@::Flexes::@@Grunt@@Grunt - Grunt.@@Me no like talk}

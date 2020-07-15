@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -15,6 +16,14 @@ lang=engl
 {100}{}{Kyle}
 {200}{}{You see a child of Rusty Springs.}
 {210}{}{He seems to be Gus' son. He looks bored.}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{ugly}
+{2000}{}{Goddamn, that Captain's a hardass.@@Food's running low...@@How you doing, pal?@@We're aching for another caravan.}
+{3000}{}{Sheee-it.@@Get out of here, y'ugly bastard.@@Go on, git!@@Shucks, who busted up your face?@@Ever thought of wearin' a hat? Might pull focus, y'know?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{ugly}

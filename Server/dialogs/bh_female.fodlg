@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +17,14 @@ lang=engl
 {200}{}{You see a female human.}
 {210}{}{You see a female townsperson.}
 {210}{}{You see a female townsperson. Though her clothing is not fine, she seems proud of herself.}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{1020}{}{Hated}
+{2000}{}{Some of my best friends are mutants and ghouls…@@I wish we had some more lightbulbs.@@What’s that smell?@@I'm worried that NCR might try to suck us in.@@Do you think New Reno would be a good place to live?@@I don’t have anything against mutants, but they’re so funny looking.}
+{3000}{}{Get away from me, scumbag.@@I don’t associate with your kind.@@Who let you in?@@I don’t know why they don’t run you out of town.@@Please leave me alone.@@Don't bother me.@@I can't help you. Go away.@@Die in the desert, jerk.@@Go away.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -20,4 +21,10 @@ lang=engl
 {100000002}{}{You! Hey, you! You are not working! For what am I paying you?}
 {100000003}{}{Julian! Julian! Wake up, you lazy idiot!}
 {100000004}{}{Yes, I am talking to you!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default answer}
+{2000}{}{I don't have time to talk to you.}
 

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +13,13 @@ lang=engl
 
 [engl]
 {100}{}{TV}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Very rare model of the real TV. Not working, but still charming, especially when you staring into it's bottomless screen. Let's hope, it won't start staring into us.}
+{2010}{}{[ Exit ]}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Very rare model of the real TV. Not working, but still charming, especially when you staring into it's bottomless screen. Let's hope, it won't start staring into us.}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -21,6 +21,22 @@ lang=engl
 0 5040 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ We set a camp near the entrance. The surface was infested with infected, but it it wasn't much of the problem. Basing on our status reports, Hubologists managed to find a clear sample of the virus somewhere here. We will try to orginise the active outpost here. For now we connected all electronics to our hummer's battery. ]}
+{2010}{}{[ Back ]}
+{3000}{}{First group tried to storm the facility today. Nobody returned. Orders from HQ are clear - stand by and wait for reinforcements. And we do...}
+{3010}{}{[ Back ]}
+{4000}{}{The attacks of infected intensify. Today we lost connection with HQ... We are running out of filters and ammo. And the worst one - Anna started coughing today. We are planning to retreat today, we can no longer stay here. The mission is failed.}
+{4010}{}{[ Back ]}
+{5000}{}{[ Loading... ]}
+{5010}{}{[ Log 1 ]}
+{5020}{}{[ Log 2 ]}
+{5030}{}{[ Log 3 ]}
+{5040}{}{[ Exit ]}
+
+[czec]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

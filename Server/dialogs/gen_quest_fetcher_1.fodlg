@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -42,6 +43,40 @@ lang=engl
 {200}{}{You see a man.}
 {200}{}{You see Mark.}
 {210}{}{You see a young man with a distracted expression on his face. His right hand taps his thigh aimlessly.}
+{1000}{}{Predialogue installations}
+{1010}{}{First meeting.}
+{1020}{}{Got 2 tails}
+{1030}{}{Got <2 tails}
+{1040}{}{Got no tails}
+{1050}{}{Finished, floater}
+{2000}{}{[He looks at you a little irritably.] What do you want?}
+{2010}{}{Hey, you're the one who's looking all tense. What do YOU want?}
+{2020}{}{Nothing, no need to snap!}
+{3000}{}{What's it to you?}
+{3010}{}{Just asking if you wanted any help, that's not a crime, is it?}
+{3020}{}{None of my business I guess. Goodbye.}
+{4000}{}{Yeah? Alright then. If you want to help, go get me a pair of radscorpion tails.}
+{4010}{}{Radscorpion tails? Alright, I'll go round some up for you. See you in a little while.}
+{4020}{}{What do you want two radscorpion tails for?}
+{4030}{}{No thanks, I'm not your errand boy.}
+{5000}{}{None of your business dude. You gonna get it or not?}
+{5010}{}{Yeah I guess so. I'll be back when I've got 'em.}
+{5020}{}{No thanks.}
+{6000}{}{I'll be here.}
+{6010}{}{Okay, see you soon.}
+{7000}{}{Ah, you got'em, finally! Alright, sweet, thanks. I guess I owe you one, don't I? Well, you can take some of these old tools as thanks.}
+{7010}{}{[Take sledgehammer]}
+{7020}{}{[Take knife]}
+{7030}{}{[Take hatchet]}
+{7040}{}{Thanks, glad to help.}
+{8000}{}{I said two. I can't do it with less.}
+{8010}{}{Alright, I'll go get some more tails for you.}
+{9000}{}{Where are my damn radscorp tails?}
+{9010}{}{Sorry, I didn't get a chance to get any yet. I'll be back when I have them.}
+{10000}{}{Hmm...@@Hi.@@::Shuffle::@@What?@@Breeze, man.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Got 2 tails}

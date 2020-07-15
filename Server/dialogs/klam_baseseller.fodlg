@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -60,6 +60,57 @@ lang=engl
 {200}{}{You see a skillful middle-aged hunter, wearing leather clothes.}
 {210}{}{This is Smiley, a man with a reputation for hunting gecko.}
 {210}{}{You see a gecko hunter. He has a limp in his left leg.}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{2000}{}{Hey there, I'm Smiley, resident gecko trapper. What can I help you with ?}
+{2010}{}{A trapper. huh? You must have run across some pretty interesting places in your time. Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you?}
+{2020}{}{A trapper. huh? You must have run across some pretty interesting places in your time. Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you?}
+{2030}{}{So... yeah, we are now looking for a new hideout, do you think you'd have something for us?}
+{2040}{}{Nothing. I'm outta here.}
+{3000}{}{And what is it you guys call yourselves, anyway? [Make sure that everyone in your group is following you right now, otherwise they won't count as members]}
+{3010}{}{Nevermind.}
+{4000}{}{Best decision you ever made. Your people'll be thrilled. Let me just mark it on your map...how will you call this place?}
+{4010}{}{Nevermind}
+{5000}{}{Never heard of you guys. Sorry. Don't think I can help you. Nothing personal.}
+{5010}{}{Ooops, I think I mispoke, let me repeat myself...}
+{5020}{}{I'm wasting my time here.}
+{6000}{}{Sure I can help you, but it ain't gonna be cheap. I happen to know a couple suitable locations, but some are a little more, how should I put it... impressive, than others.}
+{6010}{}{Do you know of any useful cave in the surrounding area?}
+{6020}{}{We're looking for a cave, but we're not comfortable with what you usually stumble upon in the wastes...}
+{6030}{}{Screw you, I changed my mind.}
+{7000}{}{Heh, your loss.}
+{7010}{}{I guess...}
+{7020}{}{I'll be back}
+{8000}{}{OK, done!}
+{8010}{}{Thanks!}
+{9000}{}{There's already a group of people going around calling themselves that. You better pick something different, buddy.}
+{9010}{}{Alright, how about...}
+{9020}{}{Nevermind.}
+{10000}{}{Hmm, there is something wrong with my brain. Do you want try again?}
+{10010}{}{Ok, I will tell you again, maybe you understand this time.}
+{10020}{}{Nevermind}
+{11000}{}{Sorry, so many damn groups have came to me, I don't know of any more places. Sorry. Try finding one that's already out there.}
+{11010}{}{Okay...}
+{12000}{}{And where are the caps? Get out!}
+{12010}{}{Oh shi...}
+{13000}{}{A cave, eh? Maybe yes. It could be possible that I saw something a while ago... but it costs you 30.000 caps to fresh up my mind...}
+{13010}{}{Okay. Here, take the 30.000 caps and show me the way. I hope it's worth it.}
+{13020}{}{That's too much for me. Screw it.}
+{14000}{}{A depot, eh? Maybe yes. It could be possible that I saw something a while ago... but it costs you 30.000 caps to fresh up my mind...}
+{14010}{}{Okay. Here, take the 30.000 caps and show me the way. I hope it's worth it.}
+{14020}{}{That's too much for me. Screw it.}
+{15000}{}{That's your lucky day, maybe. Few days ago, I stumbled across a abandoned trapper camp. For 50.000 caps, I can tell you the position.}
+{15010}{}{That's alot, but okay. Here are the 50.000 caps.}
+{15020}{}{That's too much for me. Maybe I come back later...}
+{16000}{}{A cave, yes, I will show you one. It will cost you 33.000 caps...}
+{16010}{}{Okay, let it be. Here are the 33.000 caps you've mentioned.}
+{16020}{}{That's too much for me. Maybe I come back later...}
+{17000}{}{A group of travellers? But you are alone, I don't see anyone else. }
+{17010}{}{No, they are right there! [You point with your finger at some random people in the bar. They look at you distracted and you slowly leave the building.]}
+{17020}{}{Huh, they are away now. I'll see where they are and come back.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hey there, I'm Smiley, resident gecko trapper. What can I help you with ?}

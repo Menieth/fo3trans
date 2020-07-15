@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -71,4 +71,37 @@ lang=engl
 {9000}{}{i have good work for you but you seem too weak.}
 {9010}{}{i will come back!(above 30 lvl)}
 {100000001}{}{Get him, boys!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{2nd time}
+{1030}{}{rreward}
+{1040}{}{weak}
+{2000}{}{Hello, you looks like you can handle with problems}
+{2010}{}{yes probably i can}
+{2020}{}{sorry, what you talking about}
+{2030}{}{i have no time right now}
+{3000}{}{our town need always extra energy power. On north west there is energy factory, sadly is not working right now. It need someone who would defend it from renegades. }
+{3010}{}{what should i do?}
+{3020}{}{what can i get for that?}
+{3030}{}{im not interesed}
+{3040}{}{show me that factory, I will do that.}
+{4000}{}{Everything what you need its just click buttom on factory terminal, also you can use some energy to build some turrets. remember everytime you start product energy it will call renegades to attack factory.}
+{4010}{}{what can i get for that}
+{4020}{}{im not interesed}
+{4030}{}{show me that factory, I will do that.}
+{5000}{}{depends how long you can product energy that i will pay and give you more gear.}
+{5010}{}{what should i do?}
+{5020}{}{im not interesed}
+{5030}{}{show me that factory, I will do that.}
+{6000}{}{north west from New Vegas, you will see it easily. Thank you so much.}
+{6010}{}{[Mark location on your map]}
+{7000}{}{Are still here? i didnt see any new energy.}
+{7010}{}{Im going there soon}
+{8000}{}{Good job! Our town get energy for few days, thank you very much, here is your payment.}
+{8010}{}{You welcome!}
+{9000}{}{i have good work for you but you seem too weak.}
+{9010}{}{i will come back!(above 30 lvl)}
 

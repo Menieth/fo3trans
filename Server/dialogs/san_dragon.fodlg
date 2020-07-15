@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Martial Artist}
 {200}{}{You see a man naked to the waist.}
 {210}{}{He appears to be a trainer for unarmed combat.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Please excuse my rudeness. I cannot speak with you right now.@@Please, I do not have the time.@@::he bows:: Good day.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Please excuse my rudeness. I cannot speak with you right now.@@Please, I do not have the time.@@::he bows:: Good day.}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -14,6 +15,12 @@ lang=engl
 {200}{}{You see a bar visitor.}
 {210}{}{He looks already a bit drunk.}
 {240}{}{You see a dead bar visitor.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}

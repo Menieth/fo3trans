@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -35,6 +35,33 @@ lang=engl
 {100}{}{Dog Trainer}
 {200}{}{You see a grizzled old man.}
 {210}{}{It looks like he's in the business with dogs. He has a lot dogs.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What do you want?}
+{2010}{}{What's with all these dogs here?}
+{2020}{}{Nothing. Bye.@@Nevermind, bye.}
+{2030}{}{Uhma ug.}
+{3000}{}{These are my dogs. Do you want to buy one?}
+{3010}{}{Maybe, let me see...}
+{3020}{}{Do you have dogs that are more skilled in scouting?}
+{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ caps!}
+{4010}{}{This little friend is exactly what I am searching for! Thanks. [You give him @lex price@ caps.]}
+{4020}{}{I changed my mind, I can't afford anything right now.}
+{5000}{}{[He talks to the dog] Hey my friend, come over here, yes, come here to me. This here is your new owner, say hi. [The dog barks two times after he saw you.] Very good, you two play nice.}
+{5010}{}{Thanks, I'll put 'em to good use.}
+{6000}{}{Some error occured. Report this to admins.}
+{6010}{}{Yes, of course. I'll do it right away.}
+{7000}{}{Error, merc not found. Report this to admins.}
+{7010}{}{Yes, of course. I'll do it right away.}
+{8000}{}{That's too expensive for you.}
+{8010}{}{You're right...}
+{9000}{}{Oh please... leave me alone, douche.}
+{10000}{}{I've got a few breeds of dog and prairie wolf, if you are interested. @lex price@ caps each.}
+{10010}{}{Exactly what I am searching for! [You give him @lex price@ caps.]}
+{10020}{}{I can't afford that yet.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}

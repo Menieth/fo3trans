@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -29,6 +29,29 @@ lang=engl
 
 [engl]
 {100}{}{Gortel}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Oh hello. Anyway I can help you?}
+{2010}{}{Who are you?}
+{2020}{}{I saw a "Gun" sign outdoors. Do you guys sell weapons?}
+{3000}{}{My name is Gortel, and there is my brother Brax. We are local "blacksmiths" if you may, in fact, just making and fixing guns.}
+{3010}{}{I saw a "Gun" sign outdoors. Do you guys sell weapons?}
+{3020}{}{I wanted to ask something else.}
+{4000}{}{Indeed. Are you interested in something?}
+{4010}{}{Can you guys make a better weapon for me?}
+{4020}{}{Do you guys sell shotgun shells?}
+{5000}{}{Hmh... Well if you bring me 10mm and 9mm pistols I can give you a shotgun. How does it sound?}
+{5010}{}{Here are these pistols. Now... I am waiting for my shotgun.}
+{5020}{}{Hmh... Maybe later.}
+{6000}{}{Sure, I can sell you shotgun shells. 3 caps per one.}
+{6010}{}{I will take 1.}
+{6020}{}{I will take 5.}
+{6030}{}{I will take 10.}
+{6040}{}{I will take 20.}
+{7000}{}{Here you go.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh hello. Anyway I can help you?}

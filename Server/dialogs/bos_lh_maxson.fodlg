@@ -2,7 +2,7 @@
 Needs to be reworked, see http://www.falloutwiki.com/MAXSON.MSG
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -16,6 +16,12 @@ lang=engl
 {210}{}{You see General John Maxson.}
 {240}{}{You see a dead elder.}
 {260}{}{You see a brutally slain elder.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{You look a little lost@@Are you sure you didn't go to the wrong floor?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{You look a little lost@@Are you sure you didn't go to the wrong floor?}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -20,6 +21,19 @@ lang=engl
 {100}{}{Bartender}
 {200}{}{You see a bartender.}
 {210}{}{You see classy looking bartender. He is looking at you.}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{Welcome to Hard Rock Cafe.What can I get you?}
+{2010}{}{What's on tap?}
+{2020}{}{What kind of drugs do you have?}
+{2030}{}{Nothing today, thanks.}
+{3000}{}{What would you like, sir?}
+{3010}{}{Show me what you've got.}
+{3020}{}{Me no want anytingz.}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}

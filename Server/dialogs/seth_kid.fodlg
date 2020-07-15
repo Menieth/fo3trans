@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -12,6 +12,12 @@ lang=engl
 
 [engl]
 {100}{}{Kid}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}

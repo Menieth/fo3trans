@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -13,6 +14,12 @@ lang=engl
 {100}{}{Prayer}
 {200}{}{You see a prayer.}
 {210}{}{You see a prayer.}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Praise!@@We are safe here, this is a good place.@@Hello.@@Can you hear it? It is so nice...@@PRAISE!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Praise!@@We are safe here, this is a good place.@@Hello.@@Can you hear it? It is so nice...@@PRAISE!}

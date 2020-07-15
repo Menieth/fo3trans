@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec
 
 [dialog]
 &
@@ -44,6 +44,42 @@ lang=engl
 {100}{}{Ron}
 {200}{}{You see a Brotherhood's scribe.}
 {210}{}{You see Ron. It looks like he takes care of the technical stuff around here.}
+{1000}{}{Predialogue installations}
+{1010}{}{not BoS member}
+{1020}{}{member}
+{2000}{}{You gotta have a hell of a reason to interrupt me like that!}
+{2010}{}{Sorry, just wanted to ask you some questions.}
+{2020}{}{I wanted to ask you a few questions about energy production and storage.}
+{2030}{}{Ah, nothing. Sorry.}
+{3000}{}{Be quick, gotta lot of stuff to take care of today.}
+{3010}{}{What is this place?}
+{3020}{}{What are you doing here?}
+{3030}{}{Yeah, right.}
+{4000}{}{It sure as hell ain't an information center! Talk to the guy on the entrance.}
+{4010}{}{I see. Let me ask you something else then.}
+{4020}{}{Right. I'm gonna pay him a visit then.}
+{5000}{}{I'm looking after this damn machinery here. Most of the time I'm trying to keep the power supply system online. Tough job, you don't wanna know about it, trust me.}
+{5010}{}{Power supply, you say... Then you must know something about energy production and storage, maybe you could help me with it?}
+{5020}{}{Nope, I think I'll leave you to your work then.}
+{6000}{}{What are you doing down here?@@Intruders, intruders!@@Alarm, we've got breach!@@You'll regret entering here without permission!}
+{7000}{}{Energy production and storage? That's just a part of my work, but I guess you'll hardly find someone else with so much experience in this area. Anyway, what did you want to know exactly?}
+{7010}{}{I'm currently interested in energy cells and... [You explain everything to Ron]}
+{7020}{}{Is there any way to store electrical energy more efficiently? I was thinking... [You explain everything to Ron]}
+{7030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
+{8000}{}{I see... Well, if you want me to teach you something about it, you better bring me some caps. I'm always short of these, and right now a grand and a half should help me pay off some debts. Hell, for that amount money I'll even give you one of these Deans Electronics manuals for free!}
+{8010}{}{Well, if there's no other way... Here. [Give him $1500]}
+{8020}{}{Okay, let me fetch it for you... Be right back.}
+{9000}{}{Well, there is a way to do something like that... I could show you a few more pointers, let's say, for three grand.}
+{9010}{}{Of course, here you go. [Give him $3000]}
+{9020}{}{Okay, let me fetch it for you... Be right back.}
+{10000}{}{[OBSOLETE] That's a pretty complex issue you're talking about, @sex@|boy||girl|. Okay, I guess I could teach you the theory, but you'll have to find a place to produce them yourself. You know, a place with a strong energy source. Anyway, two grand and we're set.}
+{10010}{}{Here you go, two grand. [Give him $2000]}
+{10020}{}{Okay, just let me get the money, be right back.}
+{11000}{}{Always glad to see some caps... Okay, let's start then. [Ron explains to you everything you wanted to know. It takes a while.]}
+{11010}{}{Thank you for sharing that knowledge with me, Ron. See you around!}
+
+[czec]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{member}
