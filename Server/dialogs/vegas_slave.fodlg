@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Please let me out.@@My family was slaughtered.@@ I don't want to fight.@@ Let me go.@@ HELP ME!@@I want to be free.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Please let me out.@@My family was slaughtered.@@ I don't want to fight.@@ Let me go.@@ HELP ME!@@I want to be free.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Please let me out.@@My family was slaughtered.@@ I don't want to fight.@@ Let me go.@@ HELP ME!@@I want to be free.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}

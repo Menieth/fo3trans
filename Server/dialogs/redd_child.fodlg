@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {3000}{}{Pa says I ain't supposed to talk to ya.@@Eeee!@@Ma'll give me a whoopin' if you keep talkin' to me.@@Do you always look so sad?@@Monster! Monster!@@I thought you were supposed to have horns on your head.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{1020}{}{Hated}
+{2000}{}{Hey there.@@Whatcha doing?@@Run away, run away!@@I touched a dead gecko once.@@Do you eat people?@@Where are you from?@@Are you from far away?@@Can't catch me!@@Nyah, nyah, nyah, nyah, nyah!@@You're funny looking.@@You smell bad.}
+{3000}{}{Pa says I ain't supposed to talk to ya.@@Eeee!@@Ma'll give me a whoopin' if you keep talkin' to me.@@Do you always look so sad?@@Monster! Monster!@@I thought you were supposed to have horns on your head.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{1020}{}{Hated}
+{2000}{}{Hey there.@@Whatcha doing?@@Run away, run away!@@I touched a dead gecko once.@@Do you eat people?@@Where are you from?@@Are you from far away?@@Can't catch me!@@Nyah, nyah, nyah, nyah, nyah!@@You're funny looking.@@You smell bad.}
+{3000}{}{Pa says I ain't supposed to talk to ya.@@Eeee!@@Ma'll give me a whoopin' if you keep talkin' to me.@@Do you always look so sad?@@Monster! Monster!@@I thought you were supposed to have horns on your head.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{1020}{}{Hated}
+{2000}{}{Hey there.@@Whatcha doing?@@Run away, run away!@@I touched a dead gecko once.@@Do you eat people?@@Where are you from?@@Are you from far away?@@Can't catch me!@@Nyah, nyah, nyah, nyah, nyah!@@You're funny looking.@@You smell bad.}
+{3000}{}{Pa says I ain't supposed to talk to ya.@@Eeee!@@Ma'll give me a whoopin' if you keep talkin' to me.@@Do you always look so sad?@@Monster! Monster!@@I thought you were supposed to have horns on your head.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}

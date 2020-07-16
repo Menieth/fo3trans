@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Really, I am pretty busy right now. Leave me alone.@@Leave me alone.@@I am busy right now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Really, I am pretty busy right now. Leave me alone.@@Leave me alone.@@I am busy right now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Really, I am pretty busy right now. Leave me alone.@@Leave me alone.@@I am busy right now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Really, I am pretty busy right now. Leave me alone.@@Leave me alone.@@I am busy right now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

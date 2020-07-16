@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -54,6 +54,75 @@ lang=engl czec
 {100000001}{}{You will not do anything to my plants!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
+{2010}{}{Hello, someone there?}
+{2020}{}{[Search the body.]}
+{2030}{}{[Leave him alone.]}
+{3000}{}{[The ghoul doesn't react on your talking.]}
+{3010}{}{[Push him a little bit.]}
+{3020}{}{[Search the body.]}
+{3030}{}{[Leave him alone.]}
+{4000}{}{[After he reels a step backwards, he seems to wake up. Now his eyes are are fixed on you.]}
+{4010}{}{[Continue]}
+{5000}{}{[While slowly searching his body for whatever you might want to find, you see a small bag on his belt with something in it.]}
+{5010}{}{[Try to open the bag.]}
+{5020}{}{[Try to open the bag.]}
+{5030}{}{[Leave him alone.]}
+{6000}{}{[While you open the bag slowly, you find a key in it. In the moment you want to pick it, the body shakes and is falling down to the ground. The creature seems to be dead.]}
+{6010}{}{[Continue]}
+{7000}{}{[While you open the bag slowly, the creature seems to wake up. Now his eyes are fixed on you.]}
+{7010}{}{[Continue]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
+{2010}{}{Hello, someone there?}
+{2020}{}{[Search the body.]}
+{2030}{}{[Leave him alone.]}
+{3000}{}{[The ghoul doesn't react on your talking.]}
+{3010}{}{[Push him a little bit.]}
+{3020}{}{[Search the body.]}
+{3030}{}{[Leave him alone.]}
+{4000}{}{[After he reels a step backwards, he seems to wake up. Now his eyes are are fixed on you.]}
+{4010}{}{[Continue]}
+{5000}{}{[While slowly searching his body for whatever you might want to find, you see a small bag on his belt with something in it.]}
+{5010}{}{[Try to open the bag.]}
+{5020}{}{[Try to open the bag.]}
+{5030}{}{[Leave him alone.]}
+{6000}{}{[While you open the bag slowly, you find a key in it. In the moment you want to pick it, the body shakes and is falling down to the ground. The creature seems to be dead.]}
+{6010}{}{[Continue]}
+{7000}{}{[While you open the bag slowly, the creature seems to wake up. Now his eyes are fixed on you.]}
+{7010}{}{[Continue]}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
+{2010}{}{Hello, someone there?}
+{2020}{}{[Search the body.]}
+{2030}{}{[Leave him alone.]}
+{3000}{}{[The ghoul doesn't react on your talking.]}
+{3010}{}{[Push him a little bit.]}
+{3020}{}{[Search the body.]}
+{3030}{}{[Leave him alone.]}
+{4000}{}{[After he reels a step backwards, he seems to wake up. Now his eyes are are fixed on you.]}
+{4010}{}{[Continue]}
+{5000}{}{[While slowly searching his body for whatever you might want to find, you see a small bag on his belt with something in it.]}
+{5010}{}{[Try to open the bag.]}
+{5020}{}{[Try to open the bag.]}
+{5030}{}{[Leave him alone.]}
+{6000}{}{[While you open the bag slowly, you find a key in it. In the moment you want to pick it, the body shakes and is falling down to the ground. The creature seems to be dead.]}
+{6010}{}{[Continue]}
+{7000}{}{[While you open the bag slowly, the creature seems to wake up. Now his eyes are fixed on you.]}
+{7010}{}{[Continue]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

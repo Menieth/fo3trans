@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -18,6 +18,24 @@ lang=engl czec
 {2000}{}{Visit the Cathedral.@@We're here to Prevent and Survey. Move along.@@We'll be keeping an eye on you.@@Praise, follower.@@You'd better keep your weapons holstered, stranger.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Visit the Cathedral.@@We're here to Prevent and Survey. Move along.@@We'll be keeping an eye on you.@@Praise, follower.@@You'd better keep your weapons holstered, stranger.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Visit the Cathedral.@@We're here to Prevent and Survey. Move along.@@We'll be keeping an eye on you.@@Praise, follower.@@You'd better keep your weapons holstered, stranger.}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Visit the Cathedral.@@We're here to Prevent and Survey. Move along.@@We'll be keeping an eye on you.@@Praise, follower.@@You'd better keep your weapons holstered, stranger.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -75,6 +75,108 @@ lang=engl czec
 {9020}{}{Goodbye.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{weapons}
+{1020}{}{---}
+{2000}{}{Please lay down your weapons. This is a peaceful place.}
+{3000}{}{How may I help you, wastelander?}
+{3010}{}{Can I go in?}
+{3020}{}{Why are the doors locked?}
+{3030}{}{What is this place?}
+{3040}{}{What are you doing here?}
+{3050}{}{Goodbye.}
+{4000}{}{You may enter, wastelander!}
+{4010}{}{[Continue]}
+{4020}{}{Later, not now. Bye.}
+{5000}{}{Not everyone is allowed the enter our cathedral.}
+{5010}{}{Am I allowed to enter the place?}
+{5020}{}{Am I allowed to enter the place?}
+{5030}{}{Goodbye.}
+{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
+{6010}{}{Here are 10 caps.}
+{6020}{}{I don't have the money.}
+{7000}{}{Then I cannot allow you to pass, wastelander.}
+{7010}{}{I have a question.}
+{7020}{}{Bye.}
+{8000}{}{My position here is to take care about who is allowed to enter the halls and who is not.}
+{8010}{}{Am I allowed to enter the place?}
+{8020}{}{Am I allowed to enter the place?}
+{8030}{}{I have another question.}
+{8040}{}{Goodbye.}
+{9000}{}{This cathedral is the home of many. We are poor, but this doesn't prevents us from helping the ones that have even less. Everyone is welcome, as long as the weapons stay down.}
+{9010}{}{I have a question.}
+{9020}{}{Goodbye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{weapons}
+{1020}{}{---}
+{2000}{}{Please lay down your weapons. This is a peaceful place.}
+{3000}{}{How may I help you, wastelander?}
+{3010}{}{Can I go in?}
+{3020}{}{Why are the doors locked?}
+{3030}{}{What is this place?}
+{3040}{}{What are you doing here?}
+{3050}{}{Goodbye.}
+{4000}{}{You may enter, wastelander!}
+{4010}{}{[Continue]}
+{4020}{}{Later, not now. Bye.}
+{5000}{}{Not everyone is allowed the enter our cathedral.}
+{5010}{}{Am I allowed to enter the place?}
+{5020}{}{Am I allowed to enter the place?}
+{5030}{}{Goodbye.}
+{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
+{6010}{}{Here are 10 caps.}
+{6020}{}{I don't have the money.}
+{7000}{}{Then I cannot allow you to pass, wastelander.}
+{7010}{}{I have a question.}
+{7020}{}{Bye.}
+{8000}{}{My position here is to take care about who is allowed to enter the halls and who is not.}
+{8010}{}{Am I allowed to enter the place?}
+{8020}{}{Am I allowed to enter the place?}
+{8030}{}{I have another question.}
+{8040}{}{Goodbye.}
+{9000}{}{This cathedral is the home of many. We are poor, but this doesn't prevents us from helping the ones that have even less. Everyone is welcome, as long as the weapons stay down.}
+{9010}{}{I have a question.}
+{9020}{}{Goodbye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{weapons}
+{1020}{}{---}
+{2000}{}{Please lay down your weapons. This is a peaceful place.}
+{3000}{}{How may I help you, wastelander?}
+{3010}{}{Can I go in?}
+{3020}{}{Why are the doors locked?}
+{3030}{}{What is this place?}
+{3040}{}{What are you doing here?}
+{3050}{}{Goodbye.}
+{4000}{}{You may enter, wastelander!}
+{4010}{}{[Continue]}
+{4020}{}{Later, not now. Bye.}
+{5000}{}{Not everyone is allowed the enter our cathedral.}
+{5010}{}{Am I allowed to enter the place?}
+{5020}{}{Am I allowed to enter the place?}
+{5030}{}{Goodbye.}
+{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
+{6010}{}{Here are 10 caps.}
+{6020}{}{I don't have the money.}
+{7000}{}{Then I cannot allow you to pass, wastelander.}
+{7010}{}{I have a question.}
+{7020}{}{Bye.}
+{8000}{}{My position here is to take care about who is allowed to enter the halls and who is not.}
+{8010}{}{Am I allowed to enter the place?}
+{8020}{}{Am I allowed to enter the place?}
+{8030}{}{I have another question.}
+{8040}{}{Goodbye.}
+{9000}{}{This cathedral is the home of many. We are poor, but this doesn't prevents us from helping the ones that have even less. Everyone is welcome, as long as the weapons stay down.}
+{9010}{}{I have a question.}
+{9020}{}{Goodbye.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}

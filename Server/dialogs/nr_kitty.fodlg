@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -272,6 +272,405 @@ lang=engl czec
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Idiot}
+{1020}{}{Ugly/Agile}
+{1030}{}{Ugly/Endurance}
+{1040}{}{Known}
+{1050}{}{Unknown}
+{2000}{}{[The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.] Ah, a new face! I'm Miss Kitty…welcome to the Cat's Paw. What's your pleasure today, if I may be so bold?}
+{2010}{}{I'm looking for some…action.}
+{2020}{}{Actually, I'd like to ask you some questions.}
+{2030}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{2040}{}{Mister Wright's sent me to check on your booze supplies. How much do you need to order?}
+{2050}{}{Look, Miss Kitty, I'm going to be frank. I have in this briefcase a large amount of jet. Would you be interested?}
+{2060}{}{Nothing today, thanks.}
+{3000}{}{Why, if it isn't @pname@. What's your pleasure?}
+{3010}{}{I'm looking for some…action.}
+{3020}{}{Actually, I'd like to ask you some questions.}
+{3030}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{3040}{}{Mister Wright's sent me to check on your booze supplies. How much do you need to order?}
+{3050}{}{Look, Miss Kitty, I'm going to be frank. I have in this briefcase a large amount of jet. Would you be interested?}
+{3060}{}{Nothing today, thanks.}
+{4000}{}{[The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.] Ah, a new face! I'm Miss Kitty…welcome to the Cat's Paw. What's your pleasure today, if I may be so bold?}
+{4010}{}{preshshure?}
+{4020}{}{Yuu haf prettee hair}
+{4030}{}{Yuu said 'pleashure' Huh-Huh-Huh-Huh-Huh}
+{4040}{}{George sayz we gonna haf a few achers of owr own an' I shud keep away from yuu or he won't lemme play wit the rabbitz so me go now}
+{5000}{}{[The pretty lady puts the palm of her hand on your forehead.] Oh, you poor thing…you can stay in here for a little while to get in from the heat, but you can't be here too long, okay? Promise me now.}
+{5010}{}{Okayy, pretty ladee fank you}
+{6000}{}{[Smiles and winks.] Is that so? Well, then, you've come to the right place. Whatever your pleasure or fantasy, we can provide it…and don't be shy, we've heard it all. So, what would you like?}
+{6010}{}{Well, pardon me for coming on strong, but I'd like to get to know YOU better. What time do you get off? Uh, work, I mean.}
+{6020}{}{Depends…what's on the menu?}
+{6030}{}{I'd like to ask you some questions…}
+{6040}{}{Actually, I've changed my mind. Performance anxiety and all. Goodbye.}
+{7000}{}{I'm flattered, but…no. I can't.}
+{7010}{}{Aw, c'mon. Just a drink. No pressure. We'll have a great time.}
+{7020}{}{Look, if you don't like women, that's fine. Hell, I don't like most women I meet. We have something in common already.}
+{7030}{}{All right then. I'd like to ask you some questions…}
+{7040}{}{Sorry, didn't mean to pressure you. Goodbye.}
+{8000}{}{Not interested. Nothing personal, you're not my type.}
+{8010}{}{All right then. I had some other questions…}
+{8020}{}{Fine, I'm going.}
+{9000}{}{Well… [Ticks off the menu on her fingers.] …we have honey loving, the dipstick swirl, humjobs, and various other exotica. [She smiles.] Question is, what are YOU in the mood for?}
+{9010}{}{I'd like some…oral attention.}
+{9020}{}{Just some basic, raunchy, low-down, dirty sex oughta do me just fine.}
+{9030}{}{I'd like a full upper and lower body workout.}
+{9040}{}{Is it okay if I just, you know, talk with them?}
+{9050}{}{I have a special…dramatic…request.}
+{10000}{}{All right then. That'll be $50.}
+{10010}{}{Done. Here's the money.}
+{10020}{}{Nevermind. I'd like to ask you some questions…}
+{10030}{}{I don't have enough money…maybe another time.}
+{11000}{}{Why, of course you can. Only costs $20.}
+{11010}{}{Sounds like a deal. I'll take that then.}
+{11020}{}{Maybe some other time. I'd like to ask you some questions…}
+{12000}{}{Yes?@@Well, there's no harm in asking…@@All right. [She smiles.] Answers might cost you, though…@@Sure. What questions did you have?}
+{12010}{}{I'm looking for some…action.}
+{12020}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{12030}{}{Miss Kitty, you seem to be a woman of many talents. Could you indulge my curiosity and share a story or two with me?}
+{12040}{}{Actually, nevermind. Bye.}
+{13000}{}{All right then. That'll be $150.}
+{13010}{}{Done. Here's the money.}
+{13020}{}{Nevermind. I'd like to ask you some questions…}
+{13030}{}{I don't have enough money…maybe another time.}
+{14000}{}{All right then. That'll be $300.}
+{14010}{}{Done. Here's the money.}
+{14020}{}{Nevermind. I'd like to ask you some questions…}
+{14030}{}{I don't have enough money…maybe another time.}
+{15000}{}{Chances are that we can accommodate you. Your request would be…?}
+{15010}{}{I'd like my partner to dress up in a Vault jumpsuit, call me the "Vault Dweller," and I've got to find their "Vault Sex-Teen."}
+{15020}{}{I'd like to be "captured" by some ravishing she-mutant, then be forced to take a dip in her mutating "vat".}
+{15030}{}{I'd like to play the role of "Herk," a nubile young slave stolen from his village by a band of lusty female slavers. Here's the catch… he can only communicate using his BODY.}
+{15040}{}{I'd like to play the role of "Zena," a nubile young slave stolen from her village by a band of slavers. Here's the catch… she can only communicate using her BODY.}
+{15050}{}{I'd like to be "captured" by a sarcastic mutant lieutenant, interrogated roughly, then dunked in his mutating vats.}
+{15060}{}{Forget it, I had some questions.}
+{15070}{}{Actually, Nevermind. I've got to go.}
+{16000}{}{I think we can arrange that. That'll be be $1000.}
+{16010}{}{Done. Here's the money.}
+{16020}{}{Nevermind. I'd like to ask you some questions…}
+{16030}{}{I don't have enough money…maybe another time.}
+{17000}{}{Pleasure doing business [She winks]. I think one of our employees might be free, if you'll just follow me...}
+{17010}{}{(Follow her)}
+{18000}{}{(You're brought into a strange smelling back room. A tired looking prostitute looks up at you.) Well?}
+{18010}{}{I'm, uh, here for the sex. Do I just whip it out, or...?}
+{18020}{}{I'm, uh, here for the sex.}
+{19000}{}{Alright, sweetie. Let me just dim the lights a little.}
+{19010}{}{[One sweaty hour later]}
+{19020}{}{[A few awkward minutes and a good cry later...]}
+{20000}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd…ooooooh Gaaaawd.@@Yes! Yes! Yeeeeeeeees YesYesYesYes YES YES YESSSSS! Now go pay the
+ cashier.@@Hurry up. Meter's running.@@Need a moist towelette?@@Give it to me, Fr…Ni…Sco…uh, sorry what was your name again?@@Oh Gawd, oh Gawd, oh Gawd! NOW are we finished?@@Whoa. THAT'S gonna cost extra.@@Yes! You are Columbus, I am America!@@Oh, God, that was the beeest. Now get the hell offa me and pay the cashier.@@Is it in yet?}
+{20010}{}{[You leave feeling... unclean.]}
+{21000}{}{Don't worry sweetie, that happens to everyone sometimes. Well, a couple people anyway.}
+{21010}{}{[Leave with what shreds of dignity you have left.]}
+{22000}{}{[Looks surprised.] Let me see. [Glances at magazine.] Well, well…you know, I had heard a rumor that - in the pre-war years -- the Cat's Paw was a publishing house…for pornographic materials.}
+{22010}{}{For pornogru - porn-o-gra - pornu - uh, a publishing house, you said?}
+{22020}{}{This place was a publishing house?}
+{23000}{}{Yes…the rooms here were used for film shoots with models from across the world. (Seems entranced by the magazine.) Quite a little piece of history you have there.}
+{23010}{}{Well, you know, I just read this for the articles. I had something else I wanted to ask you.}
+{24000}{}{Pleasure doing business [She winks]. I think one of our employees might be free, if you'll just follow me...}
+{24010}{}{(Follow her)}
+{25000}{}{[You're brought into a strange smelling back room. A tired looking prostitute looks up at you.] Well?}
+{25010}{}{I just, uh... wanted to talk to you.}
+{26000}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
+{26010}{}{Leave.}
+{27000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Agility was really worth it.]}
+{27010}{}{[Shamble off, blubbering.]}
+{28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
+{28010}{}{[Shamble off, blubbering.]}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
+{30000}{}{I might be, why?}
+{30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
+{31000}{}{I can't lie. [She pauses.] How much can you offer me?}
+{31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
+{32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
+{33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
+{33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
+{34000}{}{That couldn't really sound anymore shady. Sorry, it's risky enough runing this business without bringing problems on to myself. No deal.}
+{34010}{}{Okay. I'm sorry.}
+{35000}{}{It's good that you're one step removed...I suppose we can deal.}
+{35010}{}{[Make the deal.]}
+{36000}{}{Okay but still, keep this quiet?}
+{36010}{}{Of course, Miss Kitty.}
+{37000}{}{[She stares at you for a moment, somewhat surprised, then put herself together again] I'm flattered, indeed! Well, what would you like to hear then, sweetie?}
+{37010}{}{I bet every man in New Reno would follow you straight to hell and back. You must reveal me the secret of your magnetic personality! [Magnetic personality]}
+{37020}{}{You look so harmless, yet very dangerous! How do you do that? [Harmless]}
+{37030}{}{Well... erhm... I have no idea. I think I was going to ask you something else, after all.}
+{38000}{}{Oh, that's quite a story! [You listen for a while]}
+{38010}{}{That was indeed quite a story, Miss Kitty! Let me ask you about something else then.}
+{38020}{}{Incredible! Sorry that I must leave you be now, bye!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Idiot}
+{1020}{}{Ugly/Agile}
+{1030}{}{Ugly/Endurance}
+{1040}{}{Known}
+{1050}{}{Unknown}
+{2000}{}{[The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.] Ah, a new face! I'm Miss Kitty…welcome to the Cat's Paw. What's your pleasure today, if I may be so bold?}
+{2010}{}{I'm looking for some…action.}
+{2020}{}{Actually, I'd like to ask you some questions.}
+{2030}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{2040}{}{Mister Wright's sent me to check on your booze supplies. How much do you need to order?}
+{2050}{}{Look, Miss Kitty, I'm going to be frank. I have in this briefcase a large amount of jet. Would you be interested?}
+{2060}{}{Nothing today, thanks.}
+{3000}{}{Why, if it isn't @pname@. What's your pleasure?}
+{3010}{}{I'm looking for some…action.}
+{3020}{}{Actually, I'd like to ask you some questions.}
+{3030}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{3040}{}{Mister Wright's sent me to check on your booze supplies. How much do you need to order?}
+{3050}{}{Look, Miss Kitty, I'm going to be frank. I have in this briefcase a large amount of jet. Would you be interested?}
+{3060}{}{Nothing today, thanks.}
+{4000}{}{[The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.] Ah, a new face! I'm Miss Kitty…welcome to the Cat's Paw. What's your pleasure today, if I may be so bold?}
+{4010}{}{preshshure?}
+{4020}{}{Yuu haf prettee hair}
+{4030}{}{Yuu said 'pleashure' Huh-Huh-Huh-Huh-Huh}
+{4040}{}{George sayz we gonna haf a few achers of owr own an' I shud keep away from yuu or he won't lemme play wit the rabbitz so me go now}
+{5000}{}{[The pretty lady puts the palm of her hand on your forehead.] Oh, you poor thing…you can stay in here for a little while to get in from the heat, but you can't be here too long, okay? Promise me now.}
+{5010}{}{Okayy, pretty ladee fank you}
+{6000}{}{[Smiles and winks.] Is that so? Well, then, you've come to the right place. Whatever your pleasure or fantasy, we can provide it…and don't be shy, we've heard it all. So, what would you like?}
+{6010}{}{Well, pardon me for coming on strong, but I'd like to get to know YOU better. What time do you get off? Uh, work, I mean.}
+{6020}{}{Depends…what's on the menu?}
+{6030}{}{I'd like to ask you some questions…}
+{6040}{}{Actually, I've changed my mind. Performance anxiety and all. Goodbye.}
+{7000}{}{I'm flattered, but…no. I can't.}
+{7010}{}{Aw, c'mon. Just a drink. No pressure. We'll have a great time.}
+{7020}{}{Look, if you don't like women, that's fine. Hell, I don't like most women I meet. We have something in common already.}
+{7030}{}{All right then. I'd like to ask you some questions…}
+{7040}{}{Sorry, didn't mean to pressure you. Goodbye.}
+{8000}{}{Not interested. Nothing personal, you're not my type.}
+{8010}{}{All right then. I had some other questions…}
+{8020}{}{Fine, I'm going.}
+{9000}{}{Well… [Ticks off the menu on her fingers.] …we have honey loving, the dipstick swirl, humjobs, and various other exotica. [She smiles.] Question is, what are YOU in the mood for?}
+{9010}{}{I'd like some…oral attention.}
+{9020}{}{Just some basic, raunchy, low-down, dirty sex oughta do me just fine.}
+{9030}{}{I'd like a full upper and lower body workout.}
+{9040}{}{Is it okay if I just, you know, talk with them?}
+{9050}{}{I have a special…dramatic…request.}
+{10000}{}{All right then. That'll be $50.}
+{10010}{}{Done. Here's the money.}
+{10020}{}{Nevermind. I'd like to ask you some questions…}
+{10030}{}{I don't have enough money…maybe another time.}
+{11000}{}{Why, of course you can. Only costs $20.}
+{11010}{}{Sounds like a deal. I'll take that then.}
+{11020}{}{Maybe some other time. I'd like to ask you some questions…}
+{12000}{}{Yes?@@Well, there's no harm in asking…@@All right. [She smiles.] Answers might cost you, though…@@Sure. What questions did you have?}
+{12010}{}{I'm looking for some…action.}
+{12020}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{12030}{}{Miss Kitty, you seem to be a woman of many talents. Could you indulge my curiosity and share a story or two with me?}
+{12040}{}{Actually, nevermind. Bye.}
+{13000}{}{All right then. That'll be $150.}
+{13010}{}{Done. Here's the money.}
+{13020}{}{Nevermind. I'd like to ask you some questions…}
+{13030}{}{I don't have enough money…maybe another time.}
+{14000}{}{All right then. That'll be $300.}
+{14010}{}{Done. Here's the money.}
+{14020}{}{Nevermind. I'd like to ask you some questions…}
+{14030}{}{I don't have enough money…maybe another time.}
+{15000}{}{Chances are that we can accommodate you. Your request would be…?}
+{15010}{}{I'd like my partner to dress up in a Vault jumpsuit, call me the "Vault Dweller," and I've got to find their "Vault Sex-Teen."}
+{15020}{}{I'd like to be "captured" by some ravishing she-mutant, then be forced to take a dip in her mutating "vat".}
+{15030}{}{I'd like to play the role of "Herk," a nubile young slave stolen from his village by a band of lusty female slavers. Here's the catch… he can only communicate using his BODY.}
+{15040}{}{I'd like to play the role of "Zena," a nubile young slave stolen from her village by a band of slavers. Here's the catch… she can only communicate using her BODY.}
+{15050}{}{I'd like to be "captured" by a sarcastic mutant lieutenant, interrogated roughly, then dunked in his mutating vats.}
+{15060}{}{Forget it, I had some questions.}
+{15070}{}{Actually, Nevermind. I've got to go.}
+{16000}{}{I think we can arrange that. That'll be be $1000.}
+{16010}{}{Done. Here's the money.}
+{16020}{}{Nevermind. I'd like to ask you some questions…}
+{16030}{}{I don't have enough money…maybe another time.}
+{17000}{}{Pleasure doing business [She winks]. I think one of our employees might be free, if you'll just follow me...}
+{17010}{}{(Follow her)}
+{18000}{}{(You're brought into a strange smelling back room. A tired looking prostitute looks up at you.) Well?}
+{18010}{}{I'm, uh, here for the sex. Do I just whip it out, or...?}
+{18020}{}{I'm, uh, here for the sex.}
+{19000}{}{Alright, sweetie. Let me just dim the lights a little.}
+{19010}{}{[One sweaty hour later]}
+{19020}{}{[A few awkward minutes and a good cry later...]}
+{20000}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd…ooooooh Gaaaawd.@@Yes! Yes! Yeeeeeeeees YesYesYesYes YES YES YESSSSS! Now go pay the
+ cashier.@@Hurry up. Meter's running.@@Need a moist towelette?@@Give it to me, Fr…Ni…Sco…uh, sorry what was your name again?@@Oh Gawd, oh Gawd, oh Gawd! NOW are we finished?@@Whoa. THAT'S gonna cost extra.@@Yes! You are Columbus, I am America!@@Oh, God, that was the beeest. Now get the hell offa me and pay the cashier.@@Is it in yet?}
+{20010}{}{[You leave feeling... unclean.]}
+{21000}{}{Don't worry sweetie, that happens to everyone sometimes. Well, a couple people anyway.}
+{21010}{}{[Leave with what shreds of dignity you have left.]}
+{22000}{}{[Looks surprised.] Let me see. [Glances at magazine.] Well, well…you know, I had heard a rumor that - in the pre-war years -- the Cat's Paw was a publishing house…for pornographic materials.}
+{22010}{}{For pornogru - porn-o-gra - pornu - uh, a publishing house, you said?}
+{22020}{}{This place was a publishing house?}
+{23000}{}{Yes…the rooms here were used for film shoots with models from across the world. (Seems entranced by the magazine.) Quite a little piece of history you have there.}
+{23010}{}{Well, you know, I just read this for the articles. I had something else I wanted to ask you.}
+{24000}{}{Pleasure doing business [She winks]. I think one of our employees might be free, if you'll just follow me...}
+{24010}{}{(Follow her)}
+{25000}{}{[You're brought into a strange smelling back room. A tired looking prostitute looks up at you.] Well?}
+{25010}{}{I just, uh... wanted to talk to you.}
+{26000}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
+{26010}{}{Leave.}
+{27000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Agility was really worth it.]}
+{27010}{}{[Shamble off, blubbering.]}
+{28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
+{28010}{}{[Shamble off, blubbering.]}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
+{30000}{}{I might be, why?}
+{30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
+{31000}{}{I can't lie. [She pauses.] How much can you offer me?}
+{31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
+{32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
+{33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
+{33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
+{34000}{}{That couldn't really sound anymore shady. Sorry, it's risky enough runing this business without bringing problems on to myself. No deal.}
+{34010}{}{Okay. I'm sorry.}
+{35000}{}{It's good that you're one step removed...I suppose we can deal.}
+{35010}{}{[Make the deal.]}
+{36000}{}{Okay but still, keep this quiet?}
+{36010}{}{Of course, Miss Kitty.}
+{37000}{}{[She stares at you for a moment, somewhat surprised, then put herself together again] I'm flattered, indeed! Well, what would you like to hear then, sweetie?}
+{37010}{}{I bet every man in New Reno would follow you straight to hell and back. You must reveal me the secret of your magnetic personality! [Magnetic personality]}
+{37020}{}{You look so harmless, yet very dangerous! How do you do that? [Harmless]}
+{37030}{}{Well... erhm... I have no idea. I think I was going to ask you something else, after all.}
+{38000}{}{Oh, that's quite a story! [You listen for a while]}
+{38010}{}{That was indeed quite a story, Miss Kitty! Let me ask you about something else then.}
+{38020}{}{Incredible! Sorry that I must leave you be now, bye!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Idiot}
+{1020}{}{Ugly/Agile}
+{1030}{}{Ugly/Endurance}
+{1040}{}{Known}
+{1050}{}{Unknown}
+{2000}{}{[The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.] Ah, a new face! I'm Miss Kitty…welcome to the Cat's Paw. What's your pleasure today, if I may be so bold?}
+{2010}{}{I'm looking for some…action.}
+{2020}{}{Actually, I'd like to ask you some questions.}
+{2030}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{2040}{}{Mister Wright's sent me to check on your booze supplies. How much do you need to order?}
+{2050}{}{Look, Miss Kitty, I'm going to be frank. I have in this briefcase a large amount of jet. Would you be interested?}
+{2060}{}{Nothing today, thanks.}
+{3000}{}{Why, if it isn't @pname@. What's your pleasure?}
+{3010}{}{I'm looking for some…action.}
+{3020}{}{Actually, I'd like to ask you some questions.}
+{3030}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{3040}{}{Mister Wright's sent me to check on your booze supplies. How much do you need to order?}
+{3050}{}{Look, Miss Kitty, I'm going to be frank. I have in this briefcase a large amount of jet. Would you be interested?}
+{3060}{}{Nothing today, thanks.}
+{4000}{}{[The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.] Ah, a new face! I'm Miss Kitty…welcome to the Cat's Paw. What's your pleasure today, if I may be so bold?}
+{4010}{}{preshshure?}
+{4020}{}{Yuu haf prettee hair}
+{4030}{}{Yuu said 'pleashure' Huh-Huh-Huh-Huh-Huh}
+{4040}{}{George sayz we gonna haf a few achers of owr own an' I shud keep away from yuu or he won't lemme play wit the rabbitz so me go now}
+{5000}{}{[The pretty lady puts the palm of her hand on your forehead.] Oh, you poor thing…you can stay in here for a little while to get in from the heat, but you can't be here too long, okay? Promise me now.}
+{5010}{}{Okayy, pretty ladee fank you}
+{6000}{}{[Smiles and winks.] Is that so? Well, then, you've come to the right place. Whatever your pleasure or fantasy, we can provide it…and don't be shy, we've heard it all. So, what would you like?}
+{6010}{}{Well, pardon me for coming on strong, but I'd like to get to know YOU better. What time do you get off? Uh, work, I mean.}
+{6020}{}{Depends…what's on the menu?}
+{6030}{}{I'd like to ask you some questions…}
+{6040}{}{Actually, I've changed my mind. Performance anxiety and all. Goodbye.}
+{7000}{}{I'm flattered, but…no. I can't.}
+{7010}{}{Aw, c'mon. Just a drink. No pressure. We'll have a great time.}
+{7020}{}{Look, if you don't like women, that's fine. Hell, I don't like most women I meet. We have something in common already.}
+{7030}{}{All right then. I'd like to ask you some questions…}
+{7040}{}{Sorry, didn't mean to pressure you. Goodbye.}
+{8000}{}{Not interested. Nothing personal, you're not my type.}
+{8010}{}{All right then. I had some other questions…}
+{8020}{}{Fine, I'm going.}
+{9000}{}{Well… [Ticks off the menu on her fingers.] …we have honey loving, the dipstick swirl, humjobs, and various other exotica. [She smiles.] Question is, what are YOU in the mood for?}
+{9010}{}{I'd like some…oral attention.}
+{9020}{}{Just some basic, raunchy, low-down, dirty sex oughta do me just fine.}
+{9030}{}{I'd like a full upper and lower body workout.}
+{9040}{}{Is it okay if I just, you know, talk with them?}
+{9050}{}{I have a special…dramatic…request.}
+{10000}{}{All right then. That'll be $50.}
+{10010}{}{Done. Here's the money.}
+{10020}{}{Nevermind. I'd like to ask you some questions…}
+{10030}{}{I don't have enough money…maybe another time.}
+{11000}{}{Why, of course you can. Only costs $20.}
+{11010}{}{Sounds like a deal. I'll take that then.}
+{11020}{}{Maybe some other time. I'd like to ask you some questions…}
+{12000}{}{Yes?@@Well, there's no harm in asking…@@All right. [She smiles.] Answers might cost you, though…@@Sure. What questions did you have?}
+{12010}{}{I'm looking for some…action.}
+{12020}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no idea what they are. I have one right here.}
+{12030}{}{Miss Kitty, you seem to be a woman of many talents. Could you indulge my curiosity and share a story or two with me?}
+{12040}{}{Actually, nevermind. Bye.}
+{13000}{}{All right then. That'll be $150.}
+{13010}{}{Done. Here's the money.}
+{13020}{}{Nevermind. I'd like to ask you some questions…}
+{13030}{}{I don't have enough money…maybe another time.}
+{14000}{}{All right then. That'll be $300.}
+{14010}{}{Done. Here's the money.}
+{14020}{}{Nevermind. I'd like to ask you some questions…}
+{14030}{}{I don't have enough money…maybe another time.}
+{15000}{}{Chances are that we can accommodate you. Your request would be…?}
+{15010}{}{I'd like my partner to dress up in a Vault jumpsuit, call me the "Vault Dweller," and I've got to find their "Vault Sex-Teen."}
+{15020}{}{I'd like to be "captured" by some ravishing she-mutant, then be forced to take a dip in her mutating "vat".}
+{15030}{}{I'd like to play the role of "Herk," a nubile young slave stolen from his village by a band of lusty female slavers. Here's the catch… he can only communicate using his BODY.}
+{15040}{}{I'd like to play the role of "Zena," a nubile young slave stolen from her village by a band of slavers. Here's the catch… she can only communicate using her BODY.}
+{15050}{}{I'd like to be "captured" by a sarcastic mutant lieutenant, interrogated roughly, then dunked in his mutating vats.}
+{15060}{}{Forget it, I had some questions.}
+{15070}{}{Actually, Nevermind. I've got to go.}
+{16000}{}{I think we can arrange that. That'll be be $1000.}
+{16010}{}{Done. Here's the money.}
+{16020}{}{Nevermind. I'd like to ask you some questions…}
+{16030}{}{I don't have enough money…maybe another time.}
+{17000}{}{Pleasure doing business [She winks]. I think one of our employees might be free, if you'll just follow me...}
+{17010}{}{(Follow her)}
+{18000}{}{(You're brought into a strange smelling back room. A tired looking prostitute looks up at you.) Well?}
+{18010}{}{I'm, uh, here for the sex. Do I just whip it out, or...?}
+{18020}{}{I'm, uh, here for the sex.}
+{19000}{}{Alright, sweetie. Let me just dim the lights a little.}
+{19010}{}{[One sweaty hour later]}
+{19020}{}{[A few awkward minutes and a good cry later...]}
+{20000}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd…ooooooh Gaaaawd.@@Yes! Yes! Yeeeeeeeees YesYesYesYes YES YES YESSSSS! Now go pay the
+ cashier.@@Hurry up. Meter's running.@@Need a moist towelette?@@Give it to me, Fr…Ni…Sco…uh, sorry what was your name again?@@Oh Gawd, oh Gawd, oh Gawd! NOW are we finished?@@Whoa. THAT'S gonna cost extra.@@Yes! You are Columbus, I am America!@@Oh, God, that was the beeest. Now get the hell offa me and pay the cashier.@@Is it in yet?}
+{20010}{}{[You leave feeling... unclean.]}
+{21000}{}{Don't worry sweetie, that happens to everyone sometimes. Well, a couple people anyway.}
+{21010}{}{[Leave with what shreds of dignity you have left.]}
+{22000}{}{[Looks surprised.] Let me see. [Glances at magazine.] Well, well…you know, I had heard a rumor that - in the pre-war years -- the Cat's Paw was a publishing house…for pornographic materials.}
+{22010}{}{For pornogru - porn-o-gra - pornu - uh, a publishing house, you said?}
+{22020}{}{This place was a publishing house?}
+{23000}{}{Yes…the rooms here were used for film shoots with models from across the world. (Seems entranced by the magazine.) Quite a little piece of history you have there.}
+{23010}{}{Well, you know, I just read this for the articles. I had something else I wanted to ask you.}
+{24000}{}{Pleasure doing business [She winks]. I think one of our employees might be free, if you'll just follow me...}
+{24010}{}{(Follow her)}
+{25000}{}{[You're brought into a strange smelling back room. A tired looking prostitute looks up at you.] Well?}
+{25010}{}{I just, uh... wanted to talk to you.}
+{26000}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
+{26010}{}{Leave.}
+{27000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Agility was really worth it.]}
+{27010}{}{[Shamble off, blubbering.]}
+{28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
+{28010}{}{[Shamble off, blubbering.]}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
+{30000}{}{I might be, why?}
+{30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
+{31000}{}{I can't lie. [She pauses.] How much can you offer me?}
+{31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
+{32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
+{33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
+{33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
+{34000}{}{That couldn't really sound anymore shady. Sorry, it's risky enough runing this business without bringing problems on to myself. No deal.}
+{34010}{}{Okay. I'm sorry.}
+{35000}{}{It's good that you're one step removed...I suppose we can deal.}
+{35010}{}{[Make the deal.]}
+{36000}{}{Okay but still, keep this quiet?}
+{36010}{}{Of course, Miss Kitty.}
+{37000}{}{[She stares at you for a moment, somewhat surprised, then put herself together again] I'm flattered, indeed! Well, what would you like to hear then, sweetie?}
+{37010}{}{I bet every man in New Reno would follow you straight to hell and back. You must reveal me the secret of your magnetic personality! [Magnetic personality]}
+{37020}{}{You look so harmless, yet very dangerous! How do you do that? [Harmless]}
+{37030}{}{Well... erhm... I have no idea. I think I was going to ask you something else, after all.}
+{38000}{}{Oh, that's quite a story! [You listen for a while]}
+{38010}{}{That was indeed quite a story, Miss Kitty! Let me ask you about something else then.}
+{38020}{}{Incredible! Sorry that I must leave you be now, bye!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}

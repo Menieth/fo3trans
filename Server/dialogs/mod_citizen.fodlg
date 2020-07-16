@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{known}
+{2000}{}{I sure hope it rains soon.@@Our crops are dying from lack of water.@@Even the wells have gone dry.@@Not a cloud in the sky.@@I'm thinking of moving away from here.@@Modoc used to be a prosperous farming community.@@Life in Modoc is slow. Just the way I like it.}
+{3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{known}
+{2000}{}{I sure hope it rains soon.@@Our crops are dying from lack of water.@@Even the wells have gone dry.@@Not a cloud in the sky.@@I'm thinking of moving away from here.@@Modoc used to be a prosperous farming community.@@Life in Modoc is slow. Just the way I like it.}
+{3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{known}
+{2000}{}{I sure hope it rains soon.@@Our crops are dying from lack of water.@@Even the wells have gone dry.@@Not a cloud in the sky.@@I'm thinking of moving away from here.@@Modoc used to be a prosperous farming community.@@Life in Modoc is slow. Just the way I like it.}
+{3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}

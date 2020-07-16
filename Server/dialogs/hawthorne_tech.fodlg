@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{What is it?@@Generator seems stable...@@I am very busy.@@I have no time for chatting.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@Generator seems stable...@@I am very busy.@@I have no time for chatting.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@Generator seems stable...@@I am very busy.@@I have no time for chatting.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@Generator seems stable...@@I am very busy.@@I have no time for chatting.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

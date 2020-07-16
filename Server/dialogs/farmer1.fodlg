@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{I need better soil.@@I'm not hiring.@@I don't need more water, please leave.@@This soil is too hard.@@These stupid plants aren't going to survive.@@Why did I become a farmer?@@Those mutts better not be pissing on my crops.@@I hate dogs!@@What? Do you go around bothering everyone?@@What a day. I'm exhausted.@@I'll call the police.@@I'm tired. Please leave.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I need better soil.@@I'm not hiring.@@I don't need more water, please leave.@@This soil is too hard.@@These stupid plants aren't going to survive.@@Why did I become a farmer?@@Those mutts better not be pissing on my crops.@@I hate dogs!@@What? Do you go around bothering everyone?@@What a day. I'm exhausted.@@I'll call the police.@@I'm tired. Please leave.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I need better soil.@@I'm not hiring.@@I don't need more water, please leave.@@This soil is too hard.@@These stupid plants aren't going to survive.@@Why did I become a farmer?@@Those mutts better not be pissing on my crops.@@I hate dogs!@@What? Do you go around bothering everyone?@@What a day. I'm exhausted.@@I'll call the police.@@I'm tired. Please leave.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I need better soil.@@I'm not hiring.@@I don't need more water, please leave.@@This soil is too hard.@@These stupid plants aren't going to survive.@@Why did I become a farmer?@@Those mutts better not be pissing on my crops.@@I hate dogs!@@What? Do you go around bothering everyone?@@What a day. I'm exhausted.@@I'll call the police.@@I'm tired. Please leave.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

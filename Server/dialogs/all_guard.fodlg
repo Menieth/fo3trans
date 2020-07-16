@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{I take my job seriously. Cause any problems, and you're dead.@@Beat it, punk.@@Beat it, loser.@@Beat it, idiot.@@Beat it, moron.@@Beat it.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I take my job seriously. Cause any problems, and you're dead.@@Beat it, punk.@@Beat it, loser.@@Beat it, idiot.@@Beat it, moron.@@Beat it.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I take my job seriously. Cause any problems, and you're dead.@@Beat it, punk.@@Beat it, loser.@@Beat it, idiot.@@Beat it, moron.@@Beat it.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{I take my job seriously. Cause any problems, and you're dead.@@Beat it, punk.@@Beat it, loser.@@Beat it, idiot.@@Beat it, moron.@@Beat it.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

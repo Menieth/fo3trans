@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Oooau!}
+{1020}{}{2}
+{2000}{}{Man... Wong sure is a slave driver.@@Work, work, work. That's all we're good for.@@We'll change the wasteland with this experiment!@@Look out, wasteland! We have something for you!@@I want to see the sun again.@@Mix this. Mix that. I get so bored sometimes.@@Did you see the newest results of the big experiment! Most pleasing!@@Excuse me.}
+{3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Oooau!}
+{1020}{}{2}
+{2000}{}{Man... Wong sure is a slave driver.@@Work, work, work. That's all we're good for.@@We'll change the wasteland with this experiment!@@Look out, wasteland! We have something for you!@@I want to see the sun again.@@Mix this. Mix that. I get so bored sometimes.@@Did you see the newest results of the big experiment! Most pleasing!@@Excuse me.}
+{3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Oooau!}
+{1020}{}{2}
+{2000}{}{Man... Wong sure is a slave driver.@@Work, work, work. That's all we're good for.@@We'll change the wasteland with this experiment!@@Look out, wasteland! We have something for you!@@I want to see the sun again.@@Mix this. Mix that. I get so bored sometimes.@@Did you see the newest results of the big experiment! Most pleasing!@@Excuse me.}
+{3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Oooau!}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,42 @@ lang=engl czec
 {4000}{}{ALARM! INTRUDERS IN THE VAULT!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{Who the heck are you?! I don't remember you around.}
+{2010}{}{I am just walking around.}
+{2020}{}{I am... eeh... Well...}
+{2030}{}{Shut up! You are already dead, fucker.}
+{3000}{}{Greetings, Overseer.@@My pleasure, Overseer.@@Good day, Overseer @pname@.}
+{4000}{}{ALARM! INTRUDERS IN THE VAULT!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{Who the heck are you?! I don't remember you around.}
+{2010}{}{I am just walking around.}
+{2020}{}{I am... eeh... Well...}
+{2030}{}{Shut up! You are already dead, fucker.}
+{3000}{}{Greetings, Overseer.@@My pleasure, Overseer.@@Good day, Overseer @pname@.}
+{4000}{}{ALARM! INTRUDERS IN THE VAULT!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{Who the heck are you?! I don't remember you around.}
+{2010}{}{I am just walking around.}
+{2020}{}{I am... eeh... Well...}
+{2030}{}{Shut up! You are already dead, fucker.}
+{3000}{}{Greetings, Overseer.@@My pleasure, Overseer.@@Good day, Overseer @pname@.}
+{4000}{}{ALARM! INTRUDERS IN THE VAULT!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

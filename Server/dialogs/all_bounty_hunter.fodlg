@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{You are going to die.@@So, you're the one marked for death.@@You should learn better manners.@@I am going to bring you back in a body bag.@@Die, you scum!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You are going to die.@@So, you're the one marked for death.@@You should learn better manners.@@I am going to bring you back in a body bag.@@Die, you scum!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You are going to die.@@So, you're the one marked for death.@@You should learn better manners.@@I am going to bring you back in a body bag.@@Die, you scum!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You are going to die.@@So, you're the one marked for death.@@You should learn better manners.@@I am going to bring you back in a body bag.@@Die, you scum!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

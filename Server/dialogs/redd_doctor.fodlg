@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -171,6 +171,249 @@ lang=engl czec
 {26010}{}{You're a weird man, Johnson. Thanks for the info.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{ia ciaeii}
+{1030}{}{Dumb}
+{1040}{}{up to 1/4 HP}
+{1050}{}{up to 2/4 HP}
+{1060}{}{up to 3/4 HP}
+{1070}{}{up to 4/4 HP}
+{1080}{}{Full HP dumb}
+{1090}{}{Full HP normal}
+{2000}{}{What have you been getting yourself into? Let old Doc Johnson take a look at ya.}
+{2010}{}{Thanks, Doc. How much will this cost?}
+{2020}{}{I just wanted to try to buy some supplies.}
+{2030}{}{I don't need healing right now so much as some answers to some questions.}
+{2040}{}{Nice to meet you, but I don't think any healing's needed right now. Thanks anyway, Doc. Goodbye.}
+{3000}{}{Looks like you got caught on the short end of the stick. I'm Doc Johnson, and I can patch you up if you want.}
+{3010}{}{Well, I...}
+{4000}{}{Got yourself all scraped up, huh? Well, let Doc Johnson take a look at that. Easy now, I'm a professional.}
+{4010}{}{It ain't as bad as it looks. Okay, maybe it is. Be gentle.}
+{5000}{}{What have you been getting yourselves into? Gosh, that looks painful. Let old Doc Johnson take a look at ya.}
+{5010}{}{I regret everything I've ever done.}
+{6000}{}{What would you like to know?}
+{6010}{}{You are the town's jet dealer, right?}
+{6020}{}{Got any medical supplies you want to trade?}
+{6030}{}{I am quite interested into medicine myself, and this is the reason I am visiting you today. My hopes are that you could share some of your knowledge and experience with me...}
+{6040}{}{I was just looking around. Goodbye, Doc.}
+{7000}{}{I might be able to provide you with some supplies; let's see what you've got in trade.}
+{7010}{}{Okay, Doc.}
+{7020}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions, though.}
+{7030}{}{Oh, I don't need anything right now. See you later, Doc.}
+{8000}{}{Gosh darn it! You're bleeding all over my floor!}
+{8010}{}{Wow, I sure do have a lot of blood in me, don't I Doc? Well. Used to.}
+{9000}{}{Well, I can try to fix you up and cure what ails you, but it's going to cost you $@lex price@. Want me to have at it?}
+{9010}{}{Yes, please. Here's your money, Doc.}
+{9020}{}{We can't afford that right now. Sorry, Doc, maybe another time.}
+{9030}{}{Maybe I'll have that done later. Goodbye, Doc.}
+{10000}{}{I'd sure like to help you, but you don't have enough to cover your bill. Medical supplies cost money.}
+{10010}{}{I don't have cash, but I have stuff to barter. Can I trade you something for your services?}
+{10020}{}{I'll come back when I have more money. Goodbye.}
+{11000}{}{What does this look like to you? A general store? No, I don't barter for medical services. I just want payment in honest gold dollars, thank you very much. Come back when you have some.}
+{11010}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions, though.}
+{11020}{}{All right. I get the picture. Goodbye.}
+{12000}{}{Wouldn't let that go too long. Some wounds fester and start oozing puss. Then there's always gangrene. Course, lately, I haven't used my knives as much as I'd like. Getting a bit rusty. Tell you what: Go ahead and let it go as long as you want. Maybe I can get some practice later on.}
+{12010}{}{I see. While I'm festering, let me ask you about something.}
+{12020}{}{Uh, yeah, well I'll think about that. Goodbye, Doc.}
+{13000}{}{There you go. You're all set.}
+{13010}{}{Thanks doctor.}
+{14000}{}{Your head is larger than I would think.@@Your beetling brow confirms my suspicions.@@You have a very well developed sagittal crest.@@I wonder if it was long exposure to radiation that so reduced your cranial capacity.@@No food here. Go away!@@Shoo, shoo!@@Go back to the wilderness, you savage.}
+{15000}{}{Oh, a colleague! It's not that I meet colleagues every day, you know... The reason more to say that I am very pleased to have you here. So, what did you want us to talk about then?}
+{15010}{}{I was hoping you can show me how to perform simple surgeries and... [You explain what you need]}
+{15020}{}{Well, I was interested in more complex methods of saving human lives, which would consider... [You explain him what you need]}
+{15030}{}{I, erhm... Not quite sure where to start from. Maybe I should drop a little bit later. [Leave]}
+{16000}{}{Sure, sure... We can already arrange something, I guess. But I would like to have something in return, a kind of compensation for my time and work. It's not that I'm trying to earn something out of this, but a help from a colleague like you would be quite appreciated. I'll keep it short then -- I would need $1500 for a short lesson or $3000 for one with more details.}
+{16010}{}{You don't have to worry, my appreciated colleague, I have $1500 right here! [You give him $1500]}
+{16020}{}{You don't have to worry, my appreciated colleague, I have $3000 right here! [You give him $3000]}
+{16030}{}{Well, I should start gathering some healing herbs then. See you later, doctor Johnson!}
+{17000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Johnson starts to show you his healing and surgery methods. After the session, you get a book from him.]}
+{17010}{}{Thank you very much, doctor Johnson! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{18000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Johnson starts to show you his healing and surgery methods]}
+{18010}{}{Thank you very much, doctor Johnson! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{19000}{}{Ratt, I didn't know you had a brother.@@Ratt, get this 'thing' out of here.@@Get out of my clinic!@@Get out, right now!@@You're fucking hideous.}
+{20000}{}{That is correct.}
+{20010}{}{Don't you think that's a bit fucked up? You're the town doctor, man.}
+{20020}{}{Alright, so you probably have a good idea of the town's demand for jet?}
+{21000}{}{"Fucked up"?  You would rather they bought it for twice the price from a criminal, after it's been cut with who knows what?}
+{21010}{}{But, you're like, the go-to guy when people have problems. But here you are tacitly condoning drug addiction.}
+{21020}{}{But, you're like, the go-to guy when people have problems. But here you are tacitly condoning drug addiction.}
+{22000}{}{I don't want to meddle with their affairs. I'm not their father, I'm their doctor. They choose to take drugs, and I help them do it in the safest way they can.}
+{22010}{}{Fair enough. Let me ask you something else.}
+{22020}{}{Fair enough.}
+{23000}{}{Hmm. I suppose you are right. Perhaps it is my duty. Anyway, this is all hypothetical; I don't have the resources to run that sort of programme.}
+{23010}{}{Doctor Johnson, I'll look in to this for you. If I can ever send some resources your way, I'll do it. [You feel warm inside for persuading Doc Johnson to become a humanitarian.]}
+{24000}{}{Everyone who buys jet in this town buys it from me. And I keep meticulous records.}
+{24010}{}{Perrrfect. Any chance I could grab those and take them to Renesco in Reno in order to increase Redding's order? And maybe I could say some more words that start with 'R'.}
+{25000}{}{I knew they would come in handy one day.}
+{25010}{}{Thanks. [Taking the receipts and order notes and stuffing them in your pocket.] You know, you seem pretty blase about this.}
+{26000}{}{Just pragmatic. I do make a little bit of money selling jet you know. No harm in more.}
+{26010}{}{You're a weird man, Johnson. Thanks for the info.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{ia ciaeii}
+{1030}{}{Dumb}
+{1040}{}{up to 1/4 HP}
+{1050}{}{up to 2/4 HP}
+{1060}{}{up to 3/4 HP}
+{1070}{}{up to 4/4 HP}
+{1080}{}{Full HP dumb}
+{1090}{}{Full HP normal}
+{2000}{}{What have you been getting yourself into? Let old Doc Johnson take a look at ya.}
+{2010}{}{Thanks, Doc. How much will this cost?}
+{2020}{}{I just wanted to try to buy some supplies.}
+{2030}{}{I don't need healing right now so much as some answers to some questions.}
+{2040}{}{Nice to meet you, but I don't think any healing's needed right now. Thanks anyway, Doc. Goodbye.}
+{3000}{}{Looks like you got caught on the short end of the stick. I'm Doc Johnson, and I can patch you up if you want.}
+{3010}{}{Well, I...}
+{4000}{}{Got yourself all scraped up, huh? Well, let Doc Johnson take a look at that. Easy now, I'm a professional.}
+{4010}{}{It ain't as bad as it looks. Okay, maybe it is. Be gentle.}
+{5000}{}{What have you been getting yourselves into? Gosh, that looks painful. Let old Doc Johnson take a look at ya.}
+{5010}{}{I regret everything I've ever done.}
+{6000}{}{What would you like to know?}
+{6010}{}{You are the town's jet dealer, right?}
+{6020}{}{Got any medical supplies you want to trade?}
+{6030}{}{I am quite interested into medicine myself, and this is the reason I am visiting you today. My hopes are that you could share some of your knowledge and experience with me...}
+{6040}{}{I was just looking around. Goodbye, Doc.}
+{7000}{}{I might be able to provide you with some supplies; let's see what you've got in trade.}
+{7010}{}{Okay, Doc.}
+{7020}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions, though.}
+{7030}{}{Oh, I don't need anything right now. See you later, Doc.}
+{8000}{}{Gosh darn it! You're bleeding all over my floor!}
+{8010}{}{Wow, I sure do have a lot of blood in me, don't I Doc? Well. Used to.}
+{9000}{}{Well, I can try to fix you up and cure what ails you, but it's going to cost you $@lex price@. Want me to have at it?}
+{9010}{}{Yes, please. Here's your money, Doc.}
+{9020}{}{We can't afford that right now. Sorry, Doc, maybe another time.}
+{9030}{}{Maybe I'll have that done later. Goodbye, Doc.}
+{10000}{}{I'd sure like to help you, but you don't have enough to cover your bill. Medical supplies cost money.}
+{10010}{}{I don't have cash, but I have stuff to barter. Can I trade you something for your services?}
+{10020}{}{I'll come back when I have more money. Goodbye.}
+{11000}{}{What does this look like to you? A general store? No, I don't barter for medical services. I just want payment in honest gold dollars, thank you very much. Come back when you have some.}
+{11010}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions, though.}
+{11020}{}{All right. I get the picture. Goodbye.}
+{12000}{}{Wouldn't let that go too long. Some wounds fester and start oozing puss. Then there's always gangrene. Course, lately, I haven't used my knives as much as I'd like. Getting a bit rusty. Tell you what: Go ahead and let it go as long as you want. Maybe I can get some practice later on.}
+{12010}{}{I see. While I'm festering, let me ask you about something.}
+{12020}{}{Uh, yeah, well I'll think about that. Goodbye, Doc.}
+{13000}{}{There you go. You're all set.}
+{13010}{}{Thanks doctor.}
+{14000}{}{Your head is larger than I would think.@@Your beetling brow confirms my suspicions.@@You have a very well developed sagittal crest.@@I wonder if it was long exposure to radiation that so reduced your cranial capacity.@@No food here. Go away!@@Shoo, shoo!@@Go back to the wilderness, you savage.}
+{15000}{}{Oh, a colleague! It's not that I meet colleagues every day, you know... The reason more to say that I am very pleased to have you here. So, what did you want us to talk about then?}
+{15010}{}{I was hoping you can show me how to perform simple surgeries and... [You explain what you need]}
+{15020}{}{Well, I was interested in more complex methods of saving human lives, which would consider... [You explain him what you need]}
+{15030}{}{I, erhm... Not quite sure where to start from. Maybe I should drop a little bit later. [Leave]}
+{16000}{}{Sure, sure... We can already arrange something, I guess. But I would like to have something in return, a kind of compensation for my time and work. It's not that I'm trying to earn something out of this, but a help from a colleague like you would be quite appreciated. I'll keep it short then -- I would need $1500 for a short lesson or $3000 for one with more details.}
+{16010}{}{You don't have to worry, my appreciated colleague, I have $1500 right here! [You give him $1500]}
+{16020}{}{You don't have to worry, my appreciated colleague, I have $3000 right here! [You give him $3000]}
+{16030}{}{Well, I should start gathering some healing herbs then. See you later, doctor Johnson!}
+{17000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Johnson starts to show you his healing and surgery methods. After the session, you get a book from him.]}
+{17010}{}{Thank you very much, doctor Johnson! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{18000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Johnson starts to show you his healing and surgery methods]}
+{18010}{}{Thank you very much, doctor Johnson! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{19000}{}{Ratt, I didn't know you had a brother.@@Ratt, get this 'thing' out of here.@@Get out of my clinic!@@Get out, right now!@@You're fucking hideous.}
+{20000}{}{That is correct.}
+{20010}{}{Don't you think that's a bit fucked up? You're the town doctor, man.}
+{20020}{}{Alright, so you probably have a good idea of the town's demand for jet?}
+{21000}{}{"Fucked up"?  You would rather they bought it for twice the price from a criminal, after it's been cut with who knows what?}
+{21010}{}{But, you're like, the go-to guy when people have problems. But here you are tacitly condoning drug addiction.}
+{21020}{}{But, you're like, the go-to guy when people have problems. But here you are tacitly condoning drug addiction.}
+{22000}{}{I don't want to meddle with their affairs. I'm not their father, I'm their doctor. They choose to take drugs, and I help them do it in the safest way they can.}
+{22010}{}{Fair enough. Let me ask you something else.}
+{22020}{}{Fair enough.}
+{23000}{}{Hmm. I suppose you are right. Perhaps it is my duty. Anyway, this is all hypothetical; I don't have the resources to run that sort of programme.}
+{23010}{}{Doctor Johnson, I'll look in to this for you. If I can ever send some resources your way, I'll do it. [You feel warm inside for persuading Doc Johnson to become a humanitarian.]}
+{24000}{}{Everyone who buys jet in this town buys it from me. And I keep meticulous records.}
+{24010}{}{Perrrfect. Any chance I could grab those and take them to Renesco in Reno in order to increase Redding's order? And maybe I could say some more words that start with 'R'.}
+{25000}{}{I knew they would come in handy one day.}
+{25010}{}{Thanks. [Taking the receipts and order notes and stuffing them in your pocket.] You know, you seem pretty blase about this.}
+{26000}{}{Just pragmatic. I do make a little bit of money selling jet you know. No harm in more.}
+{26010}{}{You're a weird man, Johnson. Thanks for the info.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{ia ciaeii}
+{1030}{}{Dumb}
+{1040}{}{up to 1/4 HP}
+{1050}{}{up to 2/4 HP}
+{1060}{}{up to 3/4 HP}
+{1070}{}{up to 4/4 HP}
+{1080}{}{Full HP dumb}
+{1090}{}{Full HP normal}
+{2000}{}{What have you been getting yourself into? Let old Doc Johnson take a look at ya.}
+{2010}{}{Thanks, Doc. How much will this cost?}
+{2020}{}{I just wanted to try to buy some supplies.}
+{2030}{}{I don't need healing right now so much as some answers to some questions.}
+{2040}{}{Nice to meet you, but I don't think any healing's needed right now. Thanks anyway, Doc. Goodbye.}
+{3000}{}{Looks like you got caught on the short end of the stick. I'm Doc Johnson, and I can patch you up if you want.}
+{3010}{}{Well, I...}
+{4000}{}{Got yourself all scraped up, huh? Well, let Doc Johnson take a look at that. Easy now, I'm a professional.}
+{4010}{}{It ain't as bad as it looks. Okay, maybe it is. Be gentle.}
+{5000}{}{What have you been getting yourselves into? Gosh, that looks painful. Let old Doc Johnson take a look at ya.}
+{5010}{}{I regret everything I've ever done.}
+{6000}{}{What would you like to know?}
+{6010}{}{You are the town's jet dealer, right?}
+{6020}{}{Got any medical supplies you want to trade?}
+{6030}{}{I am quite interested into medicine myself, and this is the reason I am visiting you today. My hopes are that you could share some of your knowledge and experience with me...}
+{6040}{}{I was just looking around. Goodbye, Doc.}
+{7000}{}{I might be able to provide you with some supplies; let's see what you've got in trade.}
+{7010}{}{Okay, Doc.}
+{7020}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions, though.}
+{7030}{}{Oh, I don't need anything right now. See you later, Doc.}
+{8000}{}{Gosh darn it! You're bleeding all over my floor!}
+{8010}{}{Wow, I sure do have a lot of blood in me, don't I Doc? Well. Used to.}
+{9000}{}{Well, I can try to fix you up and cure what ails you, but it's going to cost you $@lex price@. Want me to have at it?}
+{9010}{}{Yes, please. Here's your money, Doc.}
+{9020}{}{We can't afford that right now. Sorry, Doc, maybe another time.}
+{9030}{}{Maybe I'll have that done later. Goodbye, Doc.}
+{10000}{}{I'd sure like to help you, but you don't have enough to cover your bill. Medical supplies cost money.}
+{10010}{}{I don't have cash, but I have stuff to barter. Can I trade you something for your services?}
+{10020}{}{I'll come back when I have more money. Goodbye.}
+{11000}{}{What does this look like to you? A general store? No, I don't barter for medical services. I just want payment in honest gold dollars, thank you very much. Come back when you have some.}
+{11010}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions, though.}
+{11020}{}{All right. I get the picture. Goodbye.}
+{12000}{}{Wouldn't let that go too long. Some wounds fester and start oozing puss. Then there's always gangrene. Course, lately, I haven't used my knives as much as I'd like. Getting a bit rusty. Tell you what: Go ahead and let it go as long as you want. Maybe I can get some practice later on.}
+{12010}{}{I see. While I'm festering, let me ask you about something.}
+{12020}{}{Uh, yeah, well I'll think about that. Goodbye, Doc.}
+{13000}{}{There you go. You're all set.}
+{13010}{}{Thanks doctor.}
+{14000}{}{Your head is larger than I would think.@@Your beetling brow confirms my suspicions.@@You have a very well developed sagittal crest.@@I wonder if it was long exposure to radiation that so reduced your cranial capacity.@@No food here. Go away!@@Shoo, shoo!@@Go back to the wilderness, you savage.}
+{15000}{}{Oh, a colleague! It's not that I meet colleagues every day, you know... The reason more to say that I am very pleased to have you here. So, what did you want us to talk about then?}
+{15010}{}{I was hoping you can show me how to perform simple surgeries and... [You explain what you need]}
+{15020}{}{Well, I was interested in more complex methods of saving human lives, which would consider... [You explain him what you need]}
+{15030}{}{I, erhm... Not quite sure where to start from. Maybe I should drop a little bit later. [Leave]}
+{16000}{}{Sure, sure... We can already arrange something, I guess. But I would like to have something in return, a kind of compensation for my time and work. It's not that I'm trying to earn something out of this, but a help from a colleague like you would be quite appreciated. I'll keep it short then -- I would need $1500 for a short lesson or $3000 for one with more details.}
+{16010}{}{You don't have to worry, my appreciated colleague, I have $1500 right here! [You give him $1500]}
+{16020}{}{You don't have to worry, my appreciated colleague, I have $3000 right here! [You give him $3000]}
+{16030}{}{Well, I should start gathering some healing herbs then. See you later, doctor Johnson!}
+{17000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Johnson starts to show you his healing and surgery methods. After the session, you get a book from him.]}
+{17010}{}{Thank you very much, doctor Johnson! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{18000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Johnson starts to show you his healing and surgery methods]}
+{18010}{}{Thank you very much, doctor Johnson! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{19000}{}{Ratt, I didn't know you had a brother.@@Ratt, get this 'thing' out of here.@@Get out of my clinic!@@Get out, right now!@@You're fucking hideous.}
+{20000}{}{That is correct.}
+{20010}{}{Don't you think that's a bit fucked up? You're the town doctor, man.}
+{20020}{}{Alright, so you probably have a good idea of the town's demand for jet?}
+{21000}{}{"Fucked up"?  You would rather they bought it for twice the price from a criminal, after it's been cut with who knows what?}
+{21010}{}{But, you're like, the go-to guy when people have problems. But here you are tacitly condoning drug addiction.}
+{21020}{}{But, you're like, the go-to guy when people have problems. But here you are tacitly condoning drug addiction.}
+{22000}{}{I don't want to meddle with their affairs. I'm not their father, I'm their doctor. They choose to take drugs, and I help them do it in the safest way they can.}
+{22010}{}{Fair enough. Let me ask you something else.}
+{22020}{}{Fair enough.}
+{23000}{}{Hmm. I suppose you are right. Perhaps it is my duty. Anyway, this is all hypothetical; I don't have the resources to run that sort of programme.}
+{23010}{}{Doctor Johnson, I'll look in to this for you. If I can ever send some resources your way, I'll do it. [You feel warm inside for persuading Doc Johnson to become a humanitarian.]}
+{24000}{}{Everyone who buys jet in this town buys it from me. And I keep meticulous records.}
+{24010}{}{Perrrfect. Any chance I could grab those and take them to Renesco in Reno in order to increase Redding's order? And maybe I could say some more words that start with 'R'.}
+{25000}{}{I knew they would come in handy one day.}
+{25010}{}{Thanks. [Taking the receipts and order notes and stuffing them in your pocket.] You know, you seem pretty blase about this.}
+{26000}{}{Just pragmatic. I do make a little bit of money selling jet you know. No harm in more.}
+{26010}{}{You're a weird man, Johnson. Thanks for the info.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}

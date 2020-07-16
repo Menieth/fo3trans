@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Ah! Another recruit.@@Be all you can be.@@The few, the proud, the mercenaries.@@Join us!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ah! Another recruit.@@Be all you can be.@@The few, the proud, the mercenaries.@@Join us!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ah! Another recruit.@@Be all you can be.@@The few, the proud, the mercenaries.@@Join us!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ah! Another recruit.@@Be all you can be.@@The few, the proud, the mercenaries.@@Join us!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

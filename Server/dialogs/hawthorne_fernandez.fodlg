@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {2020}{}{Goodbye.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Attention private! What orders you brought for Captain Fernandez?}
+{2010}{}{What you have?}
+{2020}{}{Goodbye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Attention private! What orders you brought for Captain Fernandez?}
+{2010}{}{What you have?}
+{2020}{}{Goodbye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Attention private! What orders you brought for Captain Fernandez?}
+{2010}{}{What you have?}
+{2020}{}{Goodbye.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

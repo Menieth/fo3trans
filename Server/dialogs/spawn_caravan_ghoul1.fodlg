@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

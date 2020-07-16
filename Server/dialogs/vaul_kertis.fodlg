@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {3000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a doll to play with...@@Why did Mommy and Daddy bring me here?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{boy}
+{1020}{}{girl}
+{2000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a car to play with...@@Why did Mommy and Daddy bring me here?}
+{3000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a doll to play with...@@Why did Mommy and Daddy bring me here?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{boy}
+{1020}{}{girl}
+{2000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a car to play with...@@Why did Mommy and Daddy bring me here?}
+{3000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a doll to play with...@@Why did Mommy and Daddy bring me here?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{boy}
+{1020}{}{girl}
+{2000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a car to play with...@@Why did Mommy and Daddy bring me here?}
+{3000}{}{I wanna go play, but I haven't got any toys.@@Why aren't there any toys here?@@I wish I had a doll to play with...@@Why did Mommy and Daddy bring me here?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{boy}

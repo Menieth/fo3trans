@@ -2,7 +2,7 @@
 Oa?aia i?iaa?ea ia oi, ?oi ia acyo eaano ia ii?e a aa?eaio 6-39. Oaia?u eaano auaa?ony i?e ionoonoaee a?aoa e caaa?oaiee caaaiey n caeiii.
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -64,6 +64,90 @@ lang=engl czec
 {8010}{}{Bye.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
+{2010}{}{Maybe I’m looking for you.}
+{2020}{}{Looking for some information.}
+{2030}{}{Just leaving. Bye.}
+{3000}{}{Hey, I got some jet. It’s great stuff and brand new from Reno. Want some?}
+{3010}{}{How much?}
+{3020}{}{No, I want information.}
+{3030}{}{I have to go. Bye.}
+{4000}{}{You’ll be coming back.}
+{4010}{}{Maybe.}
+{4020}{}{Don’t count on it.}
+{4030}{}{Wait! Can I ask you something?}
+{5000}{}{What do you want?}
+{5010}{}{What’s the deal with the old church?}
+{5020}{}{Um, never mind. See you around.}
+{6000}{}{The church? Metzger currently uses it as a warehouse. Don't ask me what he stores in there.}
+{6010}{}{OK, thanks. Bye.}
+{7000}{}{For you, I will sell jet for $500. [You can use SAY to enter number of items you want to buy]}
+{7010}{}{OK, I’ll buy it.}
+{7020}{}{No, thanks, but I would like to ask you something.}
+{7030}{}{No, thanks. Bye.}
+{8000}{}{Pleasure doing business.}
+{8010}{}{Bye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
+{2010}{}{Maybe I’m looking for you.}
+{2020}{}{Looking for some information.}
+{2030}{}{Just leaving. Bye.}
+{3000}{}{Hey, I got some jet. It’s great stuff and brand new from Reno. Want some?}
+{3010}{}{How much?}
+{3020}{}{No, I want information.}
+{3030}{}{I have to go. Bye.}
+{4000}{}{You’ll be coming back.}
+{4010}{}{Maybe.}
+{4020}{}{Don’t count on it.}
+{4030}{}{Wait! Can I ask you something?}
+{5000}{}{What do you want?}
+{5010}{}{What’s the deal with the old church?}
+{5020}{}{Um, never mind. See you around.}
+{6000}{}{The church? Metzger currently uses it as a warehouse. Don't ask me what he stores in there.}
+{6010}{}{OK, thanks. Bye.}
+{7000}{}{For you, I will sell jet for $500. [You can use SAY to enter number of items you want to buy]}
+{7010}{}{OK, I’ll buy it.}
+{7020}{}{No, thanks, but I would like to ask you something.}
+{7030}{}{No, thanks. Bye.}
+{8000}{}{Pleasure doing business.}
+{8010}{}{Bye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
+{2010}{}{Maybe I’m looking for you.}
+{2020}{}{Looking for some information.}
+{2030}{}{Just leaving. Bye.}
+{3000}{}{Hey, I got some jet. It’s great stuff and brand new from Reno. Want some?}
+{3010}{}{How much?}
+{3020}{}{No, I want information.}
+{3030}{}{I have to go. Bye.}
+{4000}{}{You’ll be coming back.}
+{4010}{}{Maybe.}
+{4020}{}{Don’t count on it.}
+{4030}{}{Wait! Can I ask you something?}
+{5000}{}{What do you want?}
+{5010}{}{What’s the deal with the old church?}
+{5020}{}{Um, never mind. See you around.}
+{6000}{}{The church? Metzger currently uses it as a warehouse. Don't ask me what he stores in there.}
+{6010}{}{OK, thanks. Bye.}
+{7000}{}{For you, I will sell jet for $500. [You can use SAY to enter number of items you want to buy]}
+{7010}{}{OK, I’ll buy it.}
+{7020}{}{No, thanks, but I would like to ask you something.}
+{7030}{}{No, thanks. Bye.}
+{8000}{}{Pleasure doing business.}
+{8010}{}{Bye.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

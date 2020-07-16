@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -95,6 +95,138 @@ lang=engl czec
 {15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Howdy, partner!}
+{2010}{}{Tell me about yourself.}
+{2020}{}{What are you doing here?}
+{2030}{}{Next time.}
+{2040}{}{I managed to craft Spiked Knuckles. Take a look.}
+{2050}{}{Hey, I am from watcher. He askes you to repair these radios.}
+{2060}{}{What is this robot behind you?}
+{2070}{}{Hey there. I am from Francis, he asks you to repair this lighter.}
+{2080}{}{I got some oil.}
+{3000}{}{Well, I'm Miguel the Mechanic. Making things work here. }
+{3010}{}{Nice.}
+{3020}{}{You have a strange name. Are you from Mexico?}
+{3030}{}{Maybe you can teach me how to craft things?}
+{4000}{}{I'm repairing almost everything here. Lets say, I am a local Mr. Fixit, hehe.}
+{4010}{}{Okay, I'll keep in mind.}
+{5000}{}{Kinda. I was born near Mexican border. Was working there for a long time with my family in our workshop. Eh... My fancy blue suit...}
+{5010}{}{What happened to your suit?}
+{6000}{}{I don't remember exactly, that was a long long time ago... But one day I left it outside our workshop after cleaning... And at the evening it's gone. That was a special suit: it had my name on it. I was so proud to wear that beauty...}
+{6010}{}{Hm... Alright}
+{6020}{}{And what is California like nowadays?}
+{7000}{}{Crafting? Oh thats not a big deal. Look, you have a fix boy comming together with your pip boy. To open it you just need to press F. Now... See that list of things you can craft? It is a list of thing you can craft with your current knowledge, if you want to craft more, you will need to become more skillfull in repair. Lets, for example, make a Spiked Knuckles, here are the materials. Just craft a Spiked Knuckles and give it back to me.}
+{7010}{}{Nah... you know, I'd better go.}
+{7020}{}{Sure, let me try it.}
+{8000}{}{Well done, this looks nice, if you can call such crap as Spiked Knuckles a good weapon, ha-ha. Good work, you can keep it. I hope you understood the basics of crafting.}
+{8010}{}{Thank you.}
+{8020}{}{Thank you... I guess.}
+{8030}{}{Great, see ya than.}
+{9000}{}{Like hell, mate... Like a true hell.}
+{10000}{}{Great. Maybe one day... I will face a weekend.}
+{11000}{}{Ah don't mind it. It is a Cig mashine made out of some Mr. Handy. Just a hell of a crap, partner.}
+{11010}{}{I see...}
+{12000}{}{This lighter has no fuel inside, no wonder it doesn't work. And I have no fuel for it either.}
+{12010}{}{Are there any other options?}
+{12020}{}{Cool, gonna tell Francis about it.}
+{13000}{}{Well, I can make some kind of hand made fuel for the lighter. But I need some oil. And the only guy who keeps our supplies is Watcher.}
+{13010}{}{Where can I find him?}
+{13020}{}{Whatever...}
+{14000}{}{You can find him in the next building.}
+{15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Howdy, partner!}
+{2010}{}{Tell me about yourself.}
+{2020}{}{What are you doing here?}
+{2030}{}{Next time.}
+{2040}{}{I managed to craft Spiked Knuckles. Take a look.}
+{2050}{}{Hey, I am from watcher. He askes you to repair these radios.}
+{2060}{}{What is this robot behind you?}
+{2070}{}{Hey there. I am from Francis, he asks you to repair this lighter.}
+{2080}{}{I got some oil.}
+{3000}{}{Well, I'm Miguel the Mechanic. Making things work here. }
+{3010}{}{Nice.}
+{3020}{}{You have a strange name. Are you from Mexico?}
+{3030}{}{Maybe you can teach me how to craft things?}
+{4000}{}{I'm repairing almost everything here. Lets say, I am a local Mr. Fixit, hehe.}
+{4010}{}{Okay, I'll keep in mind.}
+{5000}{}{Kinda. I was born near Mexican border. Was working there for a long time with my family in our workshop. Eh... My fancy blue suit...}
+{5010}{}{What happened to your suit?}
+{6000}{}{I don't remember exactly, that was a long long time ago... But one day I left it outside our workshop after cleaning... And at the evening it's gone. That was a special suit: it had my name on it. I was so proud to wear that beauty...}
+{6010}{}{Hm... Alright}
+{6020}{}{And what is California like nowadays?}
+{7000}{}{Crafting? Oh thats not a big deal. Look, you have a fix boy comming together with your pip boy. To open it you just need to press F. Now... See that list of things you can craft? It is a list of thing you can craft with your current knowledge, if you want to craft more, you will need to become more skillfull in repair. Lets, for example, make a Spiked Knuckles, here are the materials. Just craft a Spiked Knuckles and give it back to me.}
+{7010}{}{Nah... you know, I'd better go.}
+{7020}{}{Sure, let me try it.}
+{8000}{}{Well done, this looks nice, if you can call such crap as Spiked Knuckles a good weapon, ha-ha. Good work, you can keep it. I hope you understood the basics of crafting.}
+{8010}{}{Thank you.}
+{8020}{}{Thank you... I guess.}
+{8030}{}{Great, see ya than.}
+{9000}{}{Like hell, mate... Like a true hell.}
+{10000}{}{Great. Maybe one day... I will face a weekend.}
+{11000}{}{Ah don't mind it. It is a Cig mashine made out of some Mr. Handy. Just a hell of a crap, partner.}
+{11010}{}{I see...}
+{12000}{}{This lighter has no fuel inside, no wonder it doesn't work. And I have no fuel for it either.}
+{12010}{}{Are there any other options?}
+{12020}{}{Cool, gonna tell Francis about it.}
+{13000}{}{Well, I can make some kind of hand made fuel for the lighter. But I need some oil. And the only guy who keeps our supplies is Watcher.}
+{13010}{}{Where can I find him?}
+{13020}{}{Whatever...}
+{14000}{}{You can find him in the next building.}
+{15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Howdy, partner!}
+{2010}{}{Tell me about yourself.}
+{2020}{}{What are you doing here?}
+{2030}{}{Next time.}
+{2040}{}{I managed to craft Spiked Knuckles. Take a look.}
+{2050}{}{Hey, I am from watcher. He askes you to repair these radios.}
+{2060}{}{What is this robot behind you?}
+{2070}{}{Hey there. I am from Francis, he asks you to repair this lighter.}
+{2080}{}{I got some oil.}
+{3000}{}{Well, I'm Miguel the Mechanic. Making things work here. }
+{3010}{}{Nice.}
+{3020}{}{You have a strange name. Are you from Mexico?}
+{3030}{}{Maybe you can teach me how to craft things?}
+{4000}{}{I'm repairing almost everything here. Lets say, I am a local Mr. Fixit, hehe.}
+{4010}{}{Okay, I'll keep in mind.}
+{5000}{}{Kinda. I was born near Mexican border. Was working there for a long time with my family in our workshop. Eh... My fancy blue suit...}
+{5010}{}{What happened to your suit?}
+{6000}{}{I don't remember exactly, that was a long long time ago... But one day I left it outside our workshop after cleaning... And at the evening it's gone. That was a special suit: it had my name on it. I was so proud to wear that beauty...}
+{6010}{}{Hm... Alright}
+{6020}{}{And what is California like nowadays?}
+{7000}{}{Crafting? Oh thats not a big deal. Look, you have a fix boy comming together with your pip boy. To open it you just need to press F. Now... See that list of things you can craft? It is a list of thing you can craft with your current knowledge, if you want to craft more, you will need to become more skillfull in repair. Lets, for example, make a Spiked Knuckles, here are the materials. Just craft a Spiked Knuckles and give it back to me.}
+{7010}{}{Nah... you know, I'd better go.}
+{7020}{}{Sure, let me try it.}
+{8000}{}{Well done, this looks nice, if you can call such crap as Spiked Knuckles a good weapon, ha-ha. Good work, you can keep it. I hope you understood the basics of crafting.}
+{8010}{}{Thank you.}
+{8020}{}{Thank you... I guess.}
+{8030}{}{Great, see ya than.}
+{9000}{}{Like hell, mate... Like a true hell.}
+{10000}{}{Great. Maybe one day... I will face a weekend.}
+{11000}{}{Ah don't mind it. It is a Cig mashine made out of some Mr. Handy. Just a hell of a crap, partner.}
+{11010}{}{I see...}
+{12000}{}{This lighter has no fuel inside, no wonder it doesn't work. And I have no fuel for it either.}
+{12010}{}{Are there any other options?}
+{12020}{}{Cool, gonna tell Francis about it.}
+{13000}{}{Well, I can make some kind of hand made fuel for the lighter. But I need some oil. And the only guy who keeps our supplies is Watcher.}
+{13010}{}{Where can I find him?}
+{13020}{}{Whatever...}
+{14000}{}{You can find him in the next building.}
+{15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Rose makes the best omelets.@@Psst… Stay away from the brahmin fries.@@I stop by Rose's every chance I get.@@Have you tried Rose's omelets?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{Rose makes the best omelets.@@Psst… Stay away from the brahmin fries.@@I stop by Rose's every chance I get.@@Have you tried Rose's omelets?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{Rose makes the best omelets.@@Psst… Stay away from the brahmin fries.@@I stop by Rose's every chance I get.@@Have you tried Rose's omelets?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{Rose makes the best omelets.@@Psst… Stay away from the brahmin fries.@@I stop by Rose's every chance I get.@@Have you tried Rose's omelets?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}

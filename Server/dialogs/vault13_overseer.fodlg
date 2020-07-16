@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You shouldn't be here!@@Leave this vault, now!@@Call for vault guards!@@Red alert! We have intruders here!@@We are raided! Send help signal to other vaults!@@I don't want to die!@@Good bye!@@Cover me!}
+{2010}{}{Aw, crap.}
+{2020}{}{Shoot.}
+{2030}{}{Dang.}
+{2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You shouldn't be here!@@Leave this vault, now!@@Call for vault guards!@@Red alert! We have intruders here!@@We are raided! Send help signal to other vaults!@@I don't want to die!@@Good bye!@@Cover me!}
+{2010}{}{Aw, crap.}
+{2020}{}{Shoot.}
+{2030}{}{Dang.}
+{2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You shouldn't be here!@@Leave this vault, now!@@Call for vault guards!@@Red alert! We have intruders here!@@We are raided! Send help signal to other vaults!@@I don't want to die!@@Good bye!@@Cover me!}
+{2010}{}{Aw, crap.}
+{2020}{}{Shoot.}
+{2030}{}{Dang.}
+{2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

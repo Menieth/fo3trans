@@ -2,7 +2,7 @@
 For now this dilaog is only for bounty purposes.
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -135,6 +135,198 @@ lang=engl czec
 {18010}{}{A stuff... Me go now...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{info}
+{1020}{}{default}
+{1030}{}{Reward for idiot}
+{1040}{}{Idiot}
+{1050}{}{New}
+{2000}{}{@sex@|Hello again, sir. What can I do for you today?||Hello again, ma'am. What can I do for you today?|}
+{2010}{}{I just had a couple questions, Sheriff.}
+{2020}{}{I want to place a bounty on someone's head. Think you can set me up? *DEV NOTE: Deactivated for now*}
+{2030}{}{What bounties are currently on offer? *DEV NOTE: Deactivated for now*}
+{2040}{}{I'm here to claim a bounty, Sheriff. *DEV NOTE: Deactivated for now*}
+{2050}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2060}{}{I won't make any trouble. I was just leaving. Goodbye.@@Nothing, sorry.}
+{3000}{}{Hi there, I've got some good news for you. The bounty you set on @lex bountee@ was claimed by @lex hunter@. Poor bastard is six feet under by now. Or less; bounty hunters don't dig deep graves.}
+{3010}{}{Glad they got what was coming to them. I've got a few other questions.}
+{3020}{}{Great, I gotta go}
+{4000}{}{Go on but don't waste my time!}
+{4010}{}{Do you have any work to offer?}
+{4020}{}{Is there anything I should watch out for around here?}
+{4030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{4040}{}{Ah.. nevermind. I'll come back later. Bye.}
+{5000}{}{You're about a taco short of a combination plate.@@No hand-outs here. Now git!@@Move along, little doggy.@@Move along.}
+{6000}{}{@sex@|Hello sir! The name's Andrew Hayden. I'm the sheriff of this fine city. Is there something I can do for you this fine day?||Hello ma'am! The name's Andrew Hayden. I'm the sheriff of this fine city. Is there something I can do for you this fine day?|}
+{6010}{}{I just had a couple questions, Sheriff.}
+{6020}{}{I want to place a bounty on someone's head. Think you can set me up? *DEV NOTE: Deactivated for now*}
+{6030}{}{What bounties are currently on offer? *DEV NOTE: Deactivated for now*}
+{6040}{}{I'm here to claim a bounty, Sheriff. *DEV NOTE: Deactivated for now*}
+{6050}{}{I won't make any trouble. I was just leaving. Goodbye.@@Nothing, sorry.}
+{7000}{}{You bet we can. Who's the poor corpse-to-be?}
+{7010}{}{[continue]}
+{7020}{}{[Leave] I've changed my mind}
+{8000}{}{And how much are you willing to pay to put this person in the ground?}
+{8010}{}{$1,000.}
+{8020}{}{$5,000.}
+{8030}{}{$10,000.}
+{8040}{}{Nevermind.}
+{9000}{}{Okay, just hand me the cash, and... (he fills out some forms). Yep, that's all set up. Check back later, I'll tell you if someone's claimed it by then.}
+{9010}{}{Farewell.}
+{10000}{}{There's $@lex bounty@ for @lex player@.}
+{10010}{}{[More]}
+{10020}{}{Thanks for the info.}
+{11000}{}{Sorry pal, there aren't any bounties set now.}
+{11010}{}{Dang.}
+{12000}{}{Good work, you're a natural. Here's the cash.}
+{12010}{}{It was a pleasure.}
+{13000}{}{Sorry, there's no bounty for 'em. I can't pay you. Maybe someone already claimed it.}
+{13010}{}{Argh!}
+{14000}{}{Just bounties. We're not in the business of giving uniforms and guns to hoodlums from the wastes.}
+{14010}{}{How rude. Can I ask you something else?}
+{14020}{}{Fair enough I suppose. Thanks for your help anyway. Good bye.}
+{15000}{}{We get quite a few raiders out here, Khans mostly. They don't come too near the town because of us, but if you take a walk in to the wastes you could end up dead or worse.}
+{15010}{}{Worse?}
+{15020}{}{I'll keep a look out for them. Can I ask you something else?}
+{15030}{}{I'll keep a look out for them. }
+{16000}{}{You hear stories, bad ones, and you find some poor soul with their mind half gone out in the wastes sometimes.}
+{16010}{}{I'll make sure that doesn't happen to me, thanks.}
+{17000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{17010}{}{Hey thanks! Let me ask for something else.}
+{17020}{}{Hey thanks! See you later!}
+{18000}{}{Hey! Are not so smart, huh? Okay... Here's the deal. You helped us to protect Hub. Here you have some reward.}
+{18010}{}{A stuff... Me go now...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{info}
+{1020}{}{default}
+{1030}{}{Reward for idiot}
+{1040}{}{Idiot}
+{1050}{}{New}
+{2000}{}{@sex@|Hello again, sir. What can I do for you today?||Hello again, ma'am. What can I do for you today?|}
+{2010}{}{I just had a couple questions, Sheriff.}
+{2020}{}{I want to place a bounty on someone's head. Think you can set me up? *DEV NOTE: Deactivated for now*}
+{2030}{}{What bounties are currently on offer? *DEV NOTE: Deactivated for now*}
+{2040}{}{I'm here to claim a bounty, Sheriff. *DEV NOTE: Deactivated for now*}
+{2050}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2060}{}{I won't make any trouble. I was just leaving. Goodbye.@@Nothing, sorry.}
+{3000}{}{Hi there, I've got some good news for you. The bounty you set on @lex bountee@ was claimed by @lex hunter@. Poor bastard is six feet under by now. Or less; bounty hunters don't dig deep graves.}
+{3010}{}{Glad they got what was coming to them. I've got a few other questions.}
+{3020}{}{Great, I gotta go}
+{4000}{}{Go on but don't waste my time!}
+{4010}{}{Do you have any work to offer?}
+{4020}{}{Is there anything I should watch out for around here?}
+{4030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{4040}{}{Ah.. nevermind. I'll come back later. Bye.}
+{5000}{}{You're about a taco short of a combination plate.@@No hand-outs here. Now git!@@Move along, little doggy.@@Move along.}
+{6000}{}{@sex@|Hello sir! The name's Andrew Hayden. I'm the sheriff of this fine city. Is there something I can do for you this fine day?||Hello ma'am! The name's Andrew Hayden. I'm the sheriff of this fine city. Is there something I can do for you this fine day?|}
+{6010}{}{I just had a couple questions, Sheriff.}
+{6020}{}{I want to place a bounty on someone's head. Think you can set me up? *DEV NOTE: Deactivated for now*}
+{6030}{}{What bounties are currently on offer? *DEV NOTE: Deactivated for now*}
+{6040}{}{I'm here to claim a bounty, Sheriff. *DEV NOTE: Deactivated for now*}
+{6050}{}{I won't make any trouble. I was just leaving. Goodbye.@@Nothing, sorry.}
+{7000}{}{You bet we can. Who's the poor corpse-to-be?}
+{7010}{}{[continue]}
+{7020}{}{[Leave] I've changed my mind}
+{8000}{}{And how much are you willing to pay to put this person in the ground?}
+{8010}{}{$1,000.}
+{8020}{}{$5,000.}
+{8030}{}{$10,000.}
+{8040}{}{Nevermind.}
+{9000}{}{Okay, just hand me the cash, and... (he fills out some forms). Yep, that's all set up. Check back later, I'll tell you if someone's claimed it by then.}
+{9010}{}{Farewell.}
+{10000}{}{There's $@lex bounty@ for @lex player@.}
+{10010}{}{[More]}
+{10020}{}{Thanks for the info.}
+{11000}{}{Sorry pal, there aren't any bounties set now.}
+{11010}{}{Dang.}
+{12000}{}{Good work, you're a natural. Here's the cash.}
+{12010}{}{It was a pleasure.}
+{13000}{}{Sorry, there's no bounty for 'em. I can't pay you. Maybe someone already claimed it.}
+{13010}{}{Argh!}
+{14000}{}{Just bounties. We're not in the business of giving uniforms and guns to hoodlums from the wastes.}
+{14010}{}{How rude. Can I ask you something else?}
+{14020}{}{Fair enough I suppose. Thanks for your help anyway. Good bye.}
+{15000}{}{We get quite a few raiders out here, Khans mostly. They don't come too near the town because of us, but if you take a walk in to the wastes you could end up dead or worse.}
+{15010}{}{Worse?}
+{15020}{}{I'll keep a look out for them. Can I ask you something else?}
+{15030}{}{I'll keep a look out for them. }
+{16000}{}{You hear stories, bad ones, and you find some poor soul with their mind half gone out in the wastes sometimes.}
+{16010}{}{I'll make sure that doesn't happen to me, thanks.}
+{17000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{17010}{}{Hey thanks! Let me ask for something else.}
+{17020}{}{Hey thanks! See you later!}
+{18000}{}{Hey! Are not so smart, huh? Okay... Here's the deal. You helped us to protect Hub. Here you have some reward.}
+{18010}{}{A stuff... Me go now...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{info}
+{1020}{}{default}
+{1030}{}{Reward for idiot}
+{1040}{}{Idiot}
+{1050}{}{New}
+{2000}{}{@sex@|Hello again, sir. What can I do for you today?||Hello again, ma'am. What can I do for you today?|}
+{2010}{}{I just had a couple questions, Sheriff.}
+{2020}{}{I want to place a bounty on someone's head. Think you can set me up? *DEV NOTE: Deactivated for now*}
+{2030}{}{What bounties are currently on offer? *DEV NOTE: Deactivated for now*}
+{2040}{}{I'm here to claim a bounty, Sheriff. *DEV NOTE: Deactivated for now*}
+{2050}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2060}{}{I won't make any trouble. I was just leaving. Goodbye.@@Nothing, sorry.}
+{3000}{}{Hi there, I've got some good news for you. The bounty you set on @lex bountee@ was claimed by @lex hunter@. Poor bastard is six feet under by now. Or less; bounty hunters don't dig deep graves.}
+{3010}{}{Glad they got what was coming to them. I've got a few other questions.}
+{3020}{}{Great, I gotta go}
+{4000}{}{Go on but don't waste my time!}
+{4010}{}{Do you have any work to offer?}
+{4020}{}{Is there anything I should watch out for around here?}
+{4030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{4040}{}{Ah.. nevermind. I'll come back later. Bye.}
+{5000}{}{You're about a taco short of a combination plate.@@No hand-outs here. Now git!@@Move along, little doggy.@@Move along.}
+{6000}{}{@sex@|Hello sir! The name's Andrew Hayden. I'm the sheriff of this fine city. Is there something I can do for you this fine day?||Hello ma'am! The name's Andrew Hayden. I'm the sheriff of this fine city. Is there something I can do for you this fine day?|}
+{6010}{}{I just had a couple questions, Sheriff.}
+{6020}{}{I want to place a bounty on someone's head. Think you can set me up? *DEV NOTE: Deactivated for now*}
+{6030}{}{What bounties are currently on offer? *DEV NOTE: Deactivated for now*}
+{6040}{}{I'm here to claim a bounty, Sheriff. *DEV NOTE: Deactivated for now*}
+{6050}{}{I won't make any trouble. I was just leaving. Goodbye.@@Nothing, sorry.}
+{7000}{}{You bet we can. Who's the poor corpse-to-be?}
+{7010}{}{[continue]}
+{7020}{}{[Leave] I've changed my mind}
+{8000}{}{And how much are you willing to pay to put this person in the ground?}
+{8010}{}{$1,000.}
+{8020}{}{$5,000.}
+{8030}{}{$10,000.}
+{8040}{}{Nevermind.}
+{9000}{}{Okay, just hand me the cash, and... (he fills out some forms). Yep, that's all set up. Check back later, I'll tell you if someone's claimed it by then.}
+{9010}{}{Farewell.}
+{10000}{}{There's $@lex bounty@ for @lex player@.}
+{10010}{}{[More]}
+{10020}{}{Thanks for the info.}
+{11000}{}{Sorry pal, there aren't any bounties set now.}
+{11010}{}{Dang.}
+{12000}{}{Good work, you're a natural. Here's the cash.}
+{12010}{}{It was a pleasure.}
+{13000}{}{Sorry, there's no bounty for 'em. I can't pay you. Maybe someone already claimed it.}
+{13010}{}{Argh!}
+{14000}{}{Just bounties. We're not in the business of giving uniforms and guns to hoodlums from the wastes.}
+{14010}{}{How rude. Can I ask you something else?}
+{14020}{}{Fair enough I suppose. Thanks for your help anyway. Good bye.}
+{15000}{}{We get quite a few raiders out here, Khans mostly. They don't come too near the town because of us, but if you take a walk in to the wastes you could end up dead or worse.}
+{15010}{}{Worse?}
+{15020}{}{I'll keep a look out for them. Can I ask you something else?}
+{15030}{}{I'll keep a look out for them. }
+{16000}{}{You hear stories, bad ones, and you find some poor soul with their mind half gone out in the wastes sometimes.}
+{16010}{}{I'll make sure that doesn't happen to me, thanks.}
+{17000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{17010}{}{Hey thanks! Let me ask for something else.}
+{17020}{}{Hey thanks! See you later!}
+{18000}{}{Hey! Are not so smart, huh? Okay... Here's the deal. You helped us to protect Hub. Here you have some reward.}
+{18010}{}{A stuff... Me go now...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{info}

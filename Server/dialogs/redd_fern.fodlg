@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}

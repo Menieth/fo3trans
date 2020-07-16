@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,18 @@ lang=engl czec
 {1000}{}{error}
 
 [czec]
+{100}{}{none}
+{1000}{}{error}
+
+[pols]
+{100}{}{none}
+{1000}{}{error}
+
+[span]
+{100}{}{none}
+{1000}{}{error}
+
+[russ]
 {100}{}{none}
 {1000}{}{error}
 

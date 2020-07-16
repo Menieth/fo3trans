@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,30 @@ lang=engl czec
 {2020}{}{Just wanted to check if all is fine. See you later...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
+{2010}{}{Let me out of here.}
+{2020}{}{Just wanted to check if all is fine. See you later...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
+{2010}{}{Let me out of here.}
+{2020}{}{Just wanted to check if all is fine. See you later...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
+{2010}{}{Let me out of here.}
+{2020}{}{Just wanted to check if all is fine. See you later...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}

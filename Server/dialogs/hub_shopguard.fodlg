@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Good day.@@I know, I know . . . [whisper] she talks an awful lot doesn't she.@@Welcome to Beth's Weapon Shop & Rumor Mill.@@Welcome to Beth's Palace of Pleasure.@@Do you come bearing gifts?@@Free weapons! Come and get them!@@Blue light special on aisle three.@@Breakfast Break.@@Do you read palms?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day.@@I know, I know . . . [whisper] she talks an awful lot doesn't she.@@Welcome to Beth's Weapon Shop & Rumor Mill.@@Welcome to Beth's Palace of Pleasure.@@Do you come bearing gifts?@@Free weapons! Come and get them!@@Blue light special on aisle three.@@Breakfast Break.@@Do you read palms?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day.@@I know, I know . . . [whisper] she talks an awful lot doesn't she.@@Welcome to Beth's Weapon Shop & Rumor Mill.@@Welcome to Beth's Palace of Pleasure.@@Do you come bearing gifts?@@Free weapons! Come and get them!@@Blue light special on aisle three.@@Breakfast Break.@@Do you read palms?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day.@@I know, I know . . . [whisper] she talks an awful lot doesn't she.@@Welcome to Beth's Weapon Shop & Rumor Mill.@@Welcome to Beth's Palace of Pleasure.@@Do you come bearing gifts?@@Free weapons! Come and get them!@@Blue light special on aisle three.@@Breakfast Break.@@Do you read palms?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

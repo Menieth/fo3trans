@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {3000}{}{No more! Please, not the House of Pain!@@Stay away from me!@@Monster! You and your kind did this to me!@@The judgement of the Almighty shall fall upon you!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Hated}
+{2000}{}{Help me! Please, don't turn your back on me.@@My master says I shouldn't talk to anybody.@@Let me tell you something - my master's a real asshole.@@Really, I don't mind being a slave. It's a good life - I get meals and my mistress is pretty good to me.@@Go away! Leave me alone!@@{You! You've got to help us! Overthrow the oppressors!@@Don't talk to me! I don't want another beating.@@Slavery is just a mental construct. After all, are you really free?}
+{3000}{}{No more! Please, not the House of Pain!@@Stay away from me!@@Monster! You and your kind did this to me!@@The judgement of the Almighty shall fall upon you!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Hated}
+{2000}{}{Help me! Please, don't turn your back on me.@@My master says I shouldn't talk to anybody.@@Let me tell you something - my master's a real asshole.@@Really, I don't mind being a slave. It's a good life - I get meals and my mistress is pretty good to me.@@Go away! Leave me alone!@@{You! You've got to help us! Overthrow the oppressors!@@Don't talk to me! I don't want another beating.@@Slavery is just a mental construct. After all, are you really free?}
+{3000}{}{No more! Please, not the House of Pain!@@Stay away from me!@@Monster! You and your kind did this to me!@@The judgement of the Almighty shall fall upon you!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Hated}
+{2000}{}{Help me! Please, don't turn your back on me.@@My master says I shouldn't talk to anybody.@@Let me tell you something - my master's a real asshole.@@Really, I don't mind being a slave. It's a good life - I get meals and my mistress is pretty good to me.@@Go away! Leave me alone!@@{You! You've got to help us! Overthrow the oppressors!@@Don't talk to me! I don't want another beating.@@Slavery is just a mental construct. After all, are you really free?}
+{3000}{}{No more! Please, not the House of Pain!@@Stay away from me!@@Monster! You and your kind did this to me!@@The judgement of the Almighty shall fall upon you!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

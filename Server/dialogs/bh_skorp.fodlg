@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{::click:: ::click clack::@@::scuttle:: ::click click click::@@Hiss!@@[it regards you warily]@@[it makes gestures with its claws]@@[it almost looks friendly]@@::scuttle::@@::click::@@::click-clack::@@::sharpen::}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{::click:: ::click clack::@@::scuttle:: ::click click click::@@Hiss!@@[it regards you warily]@@[it makes gestures with its claws]@@[it almost looks friendly]@@::scuttle::@@::click::@@::click-clack::@@::sharpen::}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{::click:: ::click clack::@@::scuttle:: ::click click click::@@Hiss!@@[it regards you warily]@@[it makes gestures with its claws]@@[it almost looks friendly]@@::scuttle::@@::click::@@::click-clack::@@::sharpen::}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{::click:: ::click clack::@@::scuttle:: ::click click click::@@Hiss!@@[it regards you warily]@@[it makes gestures with its claws]@@[it almost looks friendly]@@::scuttle::@@::click::@@::click-clack::@@::sharpen::}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}

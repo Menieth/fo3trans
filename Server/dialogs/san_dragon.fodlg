@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Please excuse my rudeness. I cannot speak with you right now.@@Please, I do not have the time.@@::he bows:: Good day.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Please excuse my rudeness. I cannot speak with you right now.@@Please, I do not have the time.@@::he bows:: Good day.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Please excuse my rudeness. I cannot speak with you right now.@@Please, I do not have the time.@@::he bows:: Good day.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Please excuse my rudeness. I cannot speak with you right now.@@Please, I do not have the time.@@::he bows:: Good day.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

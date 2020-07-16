@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -98,6 +98,147 @@ lang=engl czec
 }
 
 [czec]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Deprecated, do not use.}
+{1020}{}{Has taken gear}
+{1030}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The pistolero outfit (.223 Pistol).}
+{2020}{}{The infantry outfit (P90).}
+{2030}{}{The Close Quarter Battle outfit (Pancor Jackhammer).}
+{2040}{}{The sniper outfit (Sniper Rifle).}
+{2050}{}{The support soldier outfit (Light Support Weapon).}
+{2060}{}{The heavy gunner outfit (Minigun).}
+{2070}{}{The demolition man outfit (Rocket Launcher).}
+{2080}{}{The energy sniper outfit (Laser Rifle).}
+{2090}{}{The energy soldier outfit (Plasma Rifle).}
+{2100}{}{The unarmed outfit (Power Fist).}
+{2110}{}{The melee outfit (Super Sledge).}
+{2120}{}{The thrower outfit (Grenades).}
+{2130}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{I need healing supplies.}
+{3020}{}{[Exit]}
+{4000}{}{What do you need?}
+{4010}{}{Two cigarettes.}
+{4020}{}{Two bottles of Nuka Cola.}
+{4030}{}{Two super stimpaks.}
+{4040}{}{[Exit]}
+{5000}{}{Here, two cigarettes. What else?}
+{5010}{}{Two cigarettes.}
+{5020}{}{Two bottles of Nuka Cola.}
+{5030}{}{Two super stimpaks.}
+{5040}{}{[Exit]}
+{6000}{}{Here, two bottles of Nuka Cola.}
+{6010}{}{Two cigarettes.}
+{6020}{}{Two bottles of Nuka Cola.}
+{6030}{}{Two super stimpaks.}
+{6040}{}{[Exit]}
+{7000}{}{Here, two super stimpaks.}
+{7010}{}{Two cigarettes.}
+{7020}{}{Two bottles of Nuka Cola.}
+{7030}{}{Two super stimpaks.}
+{7040}{}{[Exit]}
+{8000}{}{You've already received your gear. Next!}
+{9000}{}{I am deprecated. Sorry.
+}
+
+[pols]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Deprecated, do not use.}
+{1020}{}{Has taken gear}
+{1030}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The pistolero outfit (.223 Pistol).}
+{2020}{}{The infantry outfit (P90).}
+{2030}{}{The Close Quarter Battle outfit (Pancor Jackhammer).}
+{2040}{}{The sniper outfit (Sniper Rifle).}
+{2050}{}{The support soldier outfit (Light Support Weapon).}
+{2060}{}{The heavy gunner outfit (Minigun).}
+{2070}{}{The demolition man outfit (Rocket Launcher).}
+{2080}{}{The energy sniper outfit (Laser Rifle).}
+{2090}{}{The energy soldier outfit (Plasma Rifle).}
+{2100}{}{The unarmed outfit (Power Fist).}
+{2110}{}{The melee outfit (Super Sledge).}
+{2120}{}{The thrower outfit (Grenades).}
+{2130}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{I need healing supplies.}
+{3020}{}{[Exit]}
+{4000}{}{What do you need?}
+{4010}{}{Two cigarettes.}
+{4020}{}{Two bottles of Nuka Cola.}
+{4030}{}{Two super stimpaks.}
+{4040}{}{[Exit]}
+{5000}{}{Here, two cigarettes. What else?}
+{5010}{}{Two cigarettes.}
+{5020}{}{Two bottles of Nuka Cola.}
+{5030}{}{Two super stimpaks.}
+{5040}{}{[Exit]}
+{6000}{}{Here, two bottles of Nuka Cola.}
+{6010}{}{Two cigarettes.}
+{6020}{}{Two bottles of Nuka Cola.}
+{6030}{}{Two super stimpaks.}
+{6040}{}{[Exit]}
+{7000}{}{Here, two super stimpaks.}
+{7010}{}{Two cigarettes.}
+{7020}{}{Two bottles of Nuka Cola.}
+{7030}{}{Two super stimpaks.}
+{7040}{}{[Exit]}
+{8000}{}{You've already received your gear. Next!}
+{9000}{}{I am deprecated. Sorry.
+}
+
+[span]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Deprecated, do not use.}
+{1020}{}{Has taken gear}
+{1030}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The pistolero outfit (.223 Pistol).}
+{2020}{}{The infantry outfit (P90).}
+{2030}{}{The Close Quarter Battle outfit (Pancor Jackhammer).}
+{2040}{}{The sniper outfit (Sniper Rifle).}
+{2050}{}{The support soldier outfit (Light Support Weapon).}
+{2060}{}{The heavy gunner outfit (Minigun).}
+{2070}{}{The demolition man outfit (Rocket Launcher).}
+{2080}{}{The energy sniper outfit (Laser Rifle).}
+{2090}{}{The energy soldier outfit (Plasma Rifle).}
+{2100}{}{The unarmed outfit (Power Fist).}
+{2110}{}{The melee outfit (Super Sledge).}
+{2120}{}{The thrower outfit (Grenades).}
+{2130}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{I need healing supplies.}
+{3020}{}{[Exit]}
+{4000}{}{What do you need?}
+{4010}{}{Two cigarettes.}
+{4020}{}{Two bottles of Nuka Cola.}
+{4030}{}{Two super stimpaks.}
+{4040}{}{[Exit]}
+{5000}{}{Here, two cigarettes. What else?}
+{5010}{}{Two cigarettes.}
+{5020}{}{Two bottles of Nuka Cola.}
+{5030}{}{Two super stimpaks.}
+{5040}{}{[Exit]}
+{6000}{}{Here, two bottles of Nuka Cola.}
+{6010}{}{Two cigarettes.}
+{6020}{}{Two bottles of Nuka Cola.}
+{6030}{}{Two super stimpaks.}
+{6040}{}{[Exit]}
+{7000}{}{Here, two super stimpaks.}
+{7010}{}{Two cigarettes.}
+{7020}{}{Two bottles of Nuka Cola.}
+{7030}{}{Two super stimpaks.}
+{7040}{}{[Exit]}
+{8000}{}{You've already received your gear. Next!}
+{9000}{}{I am deprecated. Sorry.
+}
+
+[russ]
 {100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Deprecated, do not use.}

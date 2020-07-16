@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,30 @@ lang=engl czec
 {2020}{}{[Close Terminal]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Nothing.}
+{2000}{}{[Choose your action]}
+{2010}{}{[Exit Location] [You will be teleported to @lex destination@]}
+{2020}{}{[Close Terminal]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Nothing.}
+{2000}{}{[Choose your action]}
+{2010}{}{[Exit Location] [You will be teleported to @lex destination@]}
+{2020}{}{[Close Terminal]}
+
+[span]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Nothing.}
+{2000}{}{[Choose your action]}
+{2010}{}{[Exit Location] [You will be teleported to @lex destination@]}
+{2020}{}{[Close Terminal]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Nothing.}

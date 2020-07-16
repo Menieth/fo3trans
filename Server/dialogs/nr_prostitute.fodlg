@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -89,6 +89,117 @@ lang=engl czec
 {14000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Corsican Brothers Quest #3}
+{1020}{}{2}
+{2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@You ain't never had love 'til you had Reno love.@@Looking for a date?@@Heard there was some trouble on Commercial Row...@@Looking for some company?@@Only sports going on in Reno nowdays in tonsil hockey...@@Wanna dance?@@Forget the slot machines. My payoff's MUCH better.@@New stranger in town, looks like…@@Wanna fly?@@Haven't seen any caravans from Redding in a while...@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?}
+{3000}{}{You here to enjoy your time with me or ask boring questions?@@How dull... I thought you like me.}
+{4000}{}{@sex@|Hey, sweetie! Looking for a good time? What would you like me to do to you?||Hi, honey. What brings *you* here?|}
+{4010}{}{I'm looking for Old Man McGee.You've got to know someone who goes around by that name.}
+{4020}{}{I'm looking for Old Man McGee.You've got to know someone who goes around by that name.}
+{4030}{}{Nothing at all.}
+{5000}{}{- - - - - - - - - - - - - - - - - - - - CORSICAN BROTHERS QUEST #3 - - - - - - - - - - - - - - - - - - - -}
+{6000}{}{I have no idea who that may be. Do you know how many costumers I meet daily?}
+{6010}{}{C'mon sis! I'm looking for a guy who never pays for stuff. Was there anyone who left without paying for your... erhm, services?}
+{6020}{}{No -- and honestly, I don't wanna hear it either.}
+{7000}{}{Now that you mentioned it -- there was that old scruffy loner passing by a few weeks ago, he never payed to me. Picked me up one night and brought me to a small, dark alley, just around the corner.}
+{7010}{}{I see... [you lick your lips] and what happened then?}
+{7020}{}{That must be him! Look, just tell me is he around here somewhere?}
+{8000}{}{He was drunk, what? I had to go down on him, to make him stiff. The bastard didn't took a bath for a long time, so I had to spit it out all the time.}
+{8010}{}{Oh, yeah... [you feel a little bit horny] And then?}
+{8020}{}{Yuck! That's disgusting! Just tell me where I can find him, dammit!}
+{9000}{}{Then he fell down like a dead man. But don't get me wrong, he was alive! He snatched me and I sat down on him. Kept riding him for some time... Everything was so sticky down there. He really was a filthy old man, but up for the job.}
+{9010}{}{Oh my... [you feel quite horny] Continue!}
+{9020}{}{Yuck! That's disgusting! Just tell me where I can find him, dammit!}
+{10000}{}{Well, it was even stickier when he finished with me and then he asked me to clean up the mess with my mouth. I thought I was going to get an extra chip or two for that, so I settled down for work.}
+{10010}{}{Great work there, sis'! Now, do you know where I could find that guy?}
+{10020}{}{I think I'm going to pu-- [you throw up a bit in your mouth, then pull together] Just tell me where I can find him, dammit!}
+{11000}{}{Sure, I think he hangs around in the Shark Club. Black guy wearing a red shirt, you can't miss him. If you talk to him, tell him he still needs to pay for that night!}
+{11010}{}{Why don't *you* tell him that?}
+{11020}{}{Right... His ass is mine, sis'.}
+{12000}{}{You've gotta be kidding me. With all those lunatics running around New Reno, I'm happy I'm still alive. I don't really need another nail in my coffin, got it?}
+{12010}{}{What about your pimp? Ain't he pissed off when a customer doesn't pay?}
+{12020}{}{Yeah, right. See ya, sis'.}
+{13000}{}{That bastard would've rather seen me dead than help me get *his* chips. He doesn't give a shit about me, since I'm out on the street for a few years already. Became not very attractive piece for the customers, you know what I mean? }
+{13010}{}{Yeah, I get it. So long, sis'.}
+{14000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Corsican Brothers Quest #3}
+{1020}{}{2}
+{2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@You ain't never had love 'til you had Reno love.@@Looking for a date?@@Heard there was some trouble on Commercial Row...@@Looking for some company?@@Only sports going on in Reno nowdays in tonsil hockey...@@Wanna dance?@@Forget the slot machines. My payoff's MUCH better.@@New stranger in town, looks like…@@Wanna fly?@@Haven't seen any caravans from Redding in a while...@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?}
+{3000}{}{You here to enjoy your time with me or ask boring questions?@@How dull... I thought you like me.}
+{4000}{}{@sex@|Hey, sweetie! Looking for a good time? What would you like me to do to you?||Hi, honey. What brings *you* here?|}
+{4010}{}{I'm looking for Old Man McGee.You've got to know someone who goes around by that name.}
+{4020}{}{I'm looking for Old Man McGee.You've got to know someone who goes around by that name.}
+{4030}{}{Nothing at all.}
+{5000}{}{- - - - - - - - - - - - - - - - - - - - CORSICAN BROTHERS QUEST #3 - - - - - - - - - - - - - - - - - - - -}
+{6000}{}{I have no idea who that may be. Do you know how many costumers I meet daily?}
+{6010}{}{C'mon sis! I'm looking for a guy who never pays for stuff. Was there anyone who left without paying for your... erhm, services?}
+{6020}{}{No -- and honestly, I don't wanna hear it either.}
+{7000}{}{Now that you mentioned it -- there was that old scruffy loner passing by a few weeks ago, he never payed to me. Picked me up one night and brought me to a small, dark alley, just around the corner.}
+{7010}{}{I see... [you lick your lips] and what happened then?}
+{7020}{}{That must be him! Look, just tell me is he around here somewhere?}
+{8000}{}{He was drunk, what? I had to go down on him, to make him stiff. The bastard didn't took a bath for a long time, so I had to spit it out all the time.}
+{8010}{}{Oh, yeah... [you feel a little bit horny] And then?}
+{8020}{}{Yuck! That's disgusting! Just tell me where I can find him, dammit!}
+{9000}{}{Then he fell down like a dead man. But don't get me wrong, he was alive! He snatched me and I sat down on him. Kept riding him for some time... Everything was so sticky down there. He really was a filthy old man, but up for the job.}
+{9010}{}{Oh my... [you feel quite horny] Continue!}
+{9020}{}{Yuck! That's disgusting! Just tell me where I can find him, dammit!}
+{10000}{}{Well, it was even stickier when he finished with me and then he asked me to clean up the mess with my mouth. I thought I was going to get an extra chip or two for that, so I settled down for work.}
+{10010}{}{Great work there, sis'! Now, do you know where I could find that guy?}
+{10020}{}{I think I'm going to pu-- [you throw up a bit in your mouth, then pull together] Just tell me where I can find him, dammit!}
+{11000}{}{Sure, I think he hangs around in the Shark Club. Black guy wearing a red shirt, you can't miss him. If you talk to him, tell him he still needs to pay for that night!}
+{11010}{}{Why don't *you* tell him that?}
+{11020}{}{Right... His ass is mine, sis'.}
+{12000}{}{You've gotta be kidding me. With all those lunatics running around New Reno, I'm happy I'm still alive. I don't really need another nail in my coffin, got it?}
+{12010}{}{What about your pimp? Ain't he pissed off when a customer doesn't pay?}
+{12020}{}{Yeah, right. See ya, sis'.}
+{13000}{}{That bastard would've rather seen me dead than help me get *his* chips. He doesn't give a shit about me, since I'm out on the street for a few years already. Became not very attractive piece for the customers, you know what I mean? }
+{13010}{}{Yeah, I get it. So long, sis'.}
+{14000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Corsican Brothers Quest #3}
+{1020}{}{2}
+{2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@You ain't never had love 'til you had Reno love.@@Looking for a date?@@Heard there was some trouble on Commercial Row...@@Looking for some company?@@Only sports going on in Reno nowdays in tonsil hockey...@@Wanna dance?@@Forget the slot machines. My payoff's MUCH better.@@New stranger in town, looks like…@@Wanna fly?@@Haven't seen any caravans from Redding in a while...@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?}
+{3000}{}{You here to enjoy your time with me or ask boring questions?@@How dull... I thought you like me.}
+{4000}{}{@sex@|Hey, sweetie! Looking for a good time? What would you like me to do to you?||Hi, honey. What brings *you* here?|}
+{4010}{}{I'm looking for Old Man McGee.You've got to know someone who goes around by that name.}
+{4020}{}{I'm looking for Old Man McGee.You've got to know someone who goes around by that name.}
+{4030}{}{Nothing at all.}
+{5000}{}{- - - - - - - - - - - - - - - - - - - - CORSICAN BROTHERS QUEST #3 - - - - - - - - - - - - - - - - - - - -}
+{6000}{}{I have no idea who that may be. Do you know how many costumers I meet daily?}
+{6010}{}{C'mon sis! I'm looking for a guy who never pays for stuff. Was there anyone who left without paying for your... erhm, services?}
+{6020}{}{No -- and honestly, I don't wanna hear it either.}
+{7000}{}{Now that you mentioned it -- there was that old scruffy loner passing by a few weeks ago, he never payed to me. Picked me up one night and brought me to a small, dark alley, just around the corner.}
+{7010}{}{I see... [you lick your lips] and what happened then?}
+{7020}{}{That must be him! Look, just tell me is he around here somewhere?}
+{8000}{}{He was drunk, what? I had to go down on him, to make him stiff. The bastard didn't took a bath for a long time, so I had to spit it out all the time.}
+{8010}{}{Oh, yeah... [you feel a little bit horny] And then?}
+{8020}{}{Yuck! That's disgusting! Just tell me where I can find him, dammit!}
+{9000}{}{Then he fell down like a dead man. But don't get me wrong, he was alive! He snatched me and I sat down on him. Kept riding him for some time... Everything was so sticky down there. He really was a filthy old man, but up for the job.}
+{9010}{}{Oh my... [you feel quite horny] Continue!}
+{9020}{}{Yuck! That's disgusting! Just tell me where I can find him, dammit!}
+{10000}{}{Well, it was even stickier when he finished with me and then he asked me to clean up the mess with my mouth. I thought I was going to get an extra chip or two for that, so I settled down for work.}
+{10010}{}{Great work there, sis'! Now, do you know where I could find that guy?}
+{10020}{}{I think I'm going to pu-- [you throw up a bit in your mouth, then pull together] Just tell me where I can find him, dammit!}
+{11000}{}{Sure, I think he hangs around in the Shark Club. Black guy wearing a red shirt, you can't miss him. If you talk to him, tell him he still needs to pay for that night!}
+{11010}{}{Why don't *you* tell him that?}
+{11020}{}{Right... His ass is mine, sis'.}
+{12000}{}{You've gotta be kidding me. With all those lunatics running around New Reno, I'm happy I'm still alive. I don't really need another nail in my coffin, got it?}
+{12010}{}{What about your pimp? Ain't he pissed off when a customer doesn't pay?}
+{12020}{}{Yeah, right. See ya, sis'.}
+{13000}{}{That bastard would've rather seen me dead than help me get *his* chips. He doesn't give a shit about me, since I'm out on the street for a few years already. Became not very attractive piece for the customers, you know what I mean? }
+{13010}{}{Yeah, I get it. So long, sis'.}
+{14000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -30,6 +30,39 @@ lang=engl czec
 {3010}{}{Whatever.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
+{2010}{}{I have many questions for you, AHS-9.}
+{2020}{}{Your death. Good bye, old man.}
+{2030}{}{Nothing, sorry.}
+{3000}{}{Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.}
+{3010}{}{Whatever.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
+{2010}{}{I have many questions for you, AHS-9.}
+{2020}{}{Your death. Good bye, old man.}
+{2030}{}{Nothing, sorry.}
+{3000}{}{Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.}
+{3010}{}{Whatever.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
+{2010}{}{I have many questions for you, AHS-9.}
+{2020}{}{Your death. Good bye, old man.}
+{2030}{}{Nothing, sorry.}
+{3000}{}{Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.}
+{3010}{}{Whatever.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -31,6 +31,36 @@ lang=engl czec
 {4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{flower job}
+{1020}{}{---}
+{2000}{}{Are you lost?@@We are lost.@@Everyone is lost!}
+{3000}{}{Are you lost?@@We are lost.@@Everyone is lost!}
+{3010}{}{Hello. Here, take this flower!@@Hello, take the flower!@@Do you want a flower? Here, take it!@@I have a flower for you. [You give him the flower.]@@A flower for you. [You give him the flower.]@@This flower is for you!@@Please take the flower. [You hand over the flower.]}
+{4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{flower job}
+{1020}{}{---}
+{2000}{}{Are you lost?@@We are lost.@@Everyone is lost!}
+{3000}{}{Are you lost?@@We are lost.@@Everyone is lost!}
+{3010}{}{Hello. Here, take this flower!@@Hello, take the flower!@@Do you want a flower? Here, take it!@@I have a flower for you. [You give him the flower.]@@A flower for you. [You give him the flower.]@@This flower is for you!@@Please take the flower. [You hand over the flower.]}
+{4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{flower job}
+{1020}{}{---}
+{2000}{}{Are you lost?@@We are lost.@@Everyone is lost!}
+{3000}{}{Are you lost?@@We are lost.@@Everyone is lost!}
+{3010}{}{Hello. Here, take this flower!@@Hello, take the flower!@@Do you want a flower? Here, take it!@@I have a flower for you. [You give him the flower.]@@A flower for you. [You give him the flower.]@@This flower is for you!@@Please take the flower. [You hand over the flower.]}
+{4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{flower job}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,42 @@ lang=engl czec
 {4000}{}{Good... He can come now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello? Do you need something?}
+{2010}{}{I am from Nick. His car needs to be repaired.}
+{2020}{}{Nothing.}
+{3000}{}{Nick? He did't pay me for my last service. I don't even want to hear anything about this till the momnet when I see 1700 caps in my pocket.}
+{3010}{}{Here are caps. Is it ok now?}
+{3020}{}{I will come later.}
+{4000}{}{Good... He can come now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello? Do you need something?}
+{2010}{}{I am from Nick. His car needs to be repaired.}
+{2020}{}{Nothing.}
+{3000}{}{Nick? He did't pay me for my last service. I don't even want to hear anything about this till the momnet when I see 1700 caps in my pocket.}
+{3010}{}{Here are caps. Is it ok now?}
+{3020}{}{I will come later.}
+{4000}{}{Good... He can come now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello? Do you need something?}
+{2010}{}{I am from Nick. His car needs to be repaired.}
+{2020}{}{Nothing.}
+{3000}{}{Nick? He did't pay me for my last service. I don't even want to hear anything about this till the momnet when I see 1700 caps in my pocket.}
+{3010}{}{Here are caps. Is it ok now?}
+{3020}{}{I will come later.}
+{4000}{}{Good... He can come now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

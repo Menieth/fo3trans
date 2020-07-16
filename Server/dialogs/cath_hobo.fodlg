@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -122,6 +122,177 @@ lang=engl czec
 {20010}{}{[End]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{quest failed}
+{1020}{}{quest done}
+{1030}{}{quest running}
+{1040}{}{---}
+{2000}{}{I am busy, get out of my room!@@Didn't I told you to get out of here?}
+{2010}{}{What are you doing here?}
+{2020}{}{Tell me about the rats again.}
+{2030}{}{[You remove yourself out of his room.]}
+{3000}{}{I am on guard duty.}
+{3010}{}{What are you guarding?}
+{4000}{}{Nothing of your interest.}
+{4010}{}{Maybe I can help you.@@I can help you if you want.}
+{4020}{}{Maybe I can help you.@@I can help you if you want.}
+{5000}{}{Nah, you aren't strong enough to deal with what I have to deal.}
+{5010}{}{You are sure?}
+{6000}{}{Pretty much, yes.}
+{6010}{}{I will get stronger and come back!}
+{7000}{}{You could? Mhm... You know, we have a really ugly problem with rats down in our basement cellar. }
+{7010}{}{Rats? Doesn't sound like it's *that* hard to deal with...}
+{7020}{}{Hah, making fun of me, right? See you later, pal...}
+{8000}{}{Yeah, yeah.... It's not only *normal* rats... [He moves nervous to the left and back to the right.] ... These rats are somewhat stronger. I mean, some of them... their head is kind of shining, like a lamp. Like a... pulsating lamp. [He quivers while talking about the it.]}
+{8010}{}{Never heard of something like that.}
+{8020}{}{You know where they come from?}
+{9000}{}{You aren't alone with that... Never seen them before either. Never, anywhere. }
+{9010}{}{You know where they come from?}
+{9020}{}{Where is the basement? I am going to check it out and take care of that.}
+{10000}{}{They showed up some time around two months ago. First it was just one, then two, then three... and they seem to get stronger over time.}
+{10010}{}{Never heard of something like that.}
+{10020}{}{Where is the basement? I am going to check it out and take care of that.}
+{11000}{}{The rats... the rats... What do you want to know about them?}
+{11010}{}{Never heard of something like that.}
+{11020}{}{You know where they come from?}
+{11030}{}{Nevermind, see you around.}
+{12000}{}{If you think you can do that! Here is a hidden trap door... Follow me. [He opens an old wodden trap-door on the floor...]}
+{12010}{}{[Continue]}
+{13000}{}{And? What's the status?}
+{13010}{}{There have been some big mutated plants which poisoned the ground water. I killed them, now we have to wait and see. }
+{13020}{}{I forgot something... Let me back into the basement.}
+{13030}{}{Don't have much time right now. Will come back to you later.}
+{14000}{}{Thanks for your help!@@Glad you helped us.@@'Rats population should go back soon.}
+{15000}{}{The rats have taken over the whole cathedral basement!@@We can't go down to the basement anymore now.@@I had to bolt and lock the entrance to the cathedral basement.}
+{16000}{}{[He opens the old wodden trap-door again.]}
+{16010}{}{[Continue]}
+{17000}{}{Yeah, it's not like we have time forever.}
+{18000}{}{Wow! Didn't thought you can pull that off! ... About your reward. We don't have a lot and most of us are poor, but I've managed it to horde some stuff a while back. [He digs around in a big wooden box for a while.] I'll let you chose: A reinforced leather armor, some medical supplies - stimpaks and doctors bag - or this scoped hunting rifle.}
+{18010}{}{I'll take the better leather armor.}
+{18020}{}{Give me the medical supplies.}
+{18030}{}{Guess the scoped hunting rifle suits me well.}
+{18040}{}{It's enough for me to know you guys are fine.}
+{19000}{}{Hope this stuff will keep you going! [He hands you over your reward.] }
+{19010}{}{[End]}
+{20000}{}{Then... thanks, wanderer. But ... I can't let you go with nothing but our respect. Here, take this. We have no use for it and maybe you can find a use for it. [He gives you a small pre-war weapon.] Thank you again, you've done something good to us!}
+{20010}{}{[End]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{quest failed}
+{1020}{}{quest done}
+{1030}{}{quest running}
+{1040}{}{---}
+{2000}{}{I am busy, get out of my room!@@Didn't I told you to get out of here?}
+{2010}{}{What are you doing here?}
+{2020}{}{Tell me about the rats again.}
+{2030}{}{[You remove yourself out of his room.]}
+{3000}{}{I am on guard duty.}
+{3010}{}{What are you guarding?}
+{4000}{}{Nothing of your interest.}
+{4010}{}{Maybe I can help you.@@I can help you if you want.}
+{4020}{}{Maybe I can help you.@@I can help you if you want.}
+{5000}{}{Nah, you aren't strong enough to deal with what I have to deal.}
+{5010}{}{You are sure?}
+{6000}{}{Pretty much, yes.}
+{6010}{}{I will get stronger and come back!}
+{7000}{}{You could? Mhm... You know, we have a really ugly problem with rats down in our basement cellar. }
+{7010}{}{Rats? Doesn't sound like it's *that* hard to deal with...}
+{7020}{}{Hah, making fun of me, right? See you later, pal...}
+{8000}{}{Yeah, yeah.... It's not only *normal* rats... [He moves nervous to the left and back to the right.] ... These rats are somewhat stronger. I mean, some of them... their head is kind of shining, like a lamp. Like a... pulsating lamp. [He quivers while talking about the it.]}
+{8010}{}{Never heard of something like that.}
+{8020}{}{You know where they come from?}
+{9000}{}{You aren't alone with that... Never seen them before either. Never, anywhere. }
+{9010}{}{You know where they come from?}
+{9020}{}{Where is the basement? I am going to check it out and take care of that.}
+{10000}{}{They showed up some time around two months ago. First it was just one, then two, then three... and they seem to get stronger over time.}
+{10010}{}{Never heard of something like that.}
+{10020}{}{Where is the basement? I am going to check it out and take care of that.}
+{11000}{}{The rats... the rats... What do you want to know about them?}
+{11010}{}{Never heard of something like that.}
+{11020}{}{You know where they come from?}
+{11030}{}{Nevermind, see you around.}
+{12000}{}{If you think you can do that! Here is a hidden trap door... Follow me. [He opens an old wodden trap-door on the floor...]}
+{12010}{}{[Continue]}
+{13000}{}{And? What's the status?}
+{13010}{}{There have been some big mutated plants which poisoned the ground water. I killed them, now we have to wait and see. }
+{13020}{}{I forgot something... Let me back into the basement.}
+{13030}{}{Don't have much time right now. Will come back to you later.}
+{14000}{}{Thanks for your help!@@Glad you helped us.@@'Rats population should go back soon.}
+{15000}{}{The rats have taken over the whole cathedral basement!@@We can't go down to the basement anymore now.@@I had to bolt and lock the entrance to the cathedral basement.}
+{16000}{}{[He opens the old wodden trap-door again.]}
+{16010}{}{[Continue]}
+{17000}{}{Yeah, it's not like we have time forever.}
+{18000}{}{Wow! Didn't thought you can pull that off! ... About your reward. We don't have a lot and most of us are poor, but I've managed it to horde some stuff a while back. [He digs around in a big wooden box for a while.] I'll let you chose: A reinforced leather armor, some medical supplies - stimpaks and doctors bag - or this scoped hunting rifle.}
+{18010}{}{I'll take the better leather armor.}
+{18020}{}{Give me the medical supplies.}
+{18030}{}{Guess the scoped hunting rifle suits me well.}
+{18040}{}{It's enough for me to know you guys are fine.}
+{19000}{}{Hope this stuff will keep you going! [He hands you over your reward.] }
+{19010}{}{[End]}
+{20000}{}{Then... thanks, wanderer. But ... I can't let you go with nothing but our respect. Here, take this. We have no use for it and maybe you can find a use for it. [He gives you a small pre-war weapon.] Thank you again, you've done something good to us!}
+{20010}{}{[End]}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{quest failed}
+{1020}{}{quest done}
+{1030}{}{quest running}
+{1040}{}{---}
+{2000}{}{I am busy, get out of my room!@@Didn't I told you to get out of here?}
+{2010}{}{What are you doing here?}
+{2020}{}{Tell me about the rats again.}
+{2030}{}{[You remove yourself out of his room.]}
+{3000}{}{I am on guard duty.}
+{3010}{}{What are you guarding?}
+{4000}{}{Nothing of your interest.}
+{4010}{}{Maybe I can help you.@@I can help you if you want.}
+{4020}{}{Maybe I can help you.@@I can help you if you want.}
+{5000}{}{Nah, you aren't strong enough to deal with what I have to deal.}
+{5010}{}{You are sure?}
+{6000}{}{Pretty much, yes.}
+{6010}{}{I will get stronger and come back!}
+{7000}{}{You could? Mhm... You know, we have a really ugly problem with rats down in our basement cellar. }
+{7010}{}{Rats? Doesn't sound like it's *that* hard to deal with...}
+{7020}{}{Hah, making fun of me, right? See you later, pal...}
+{8000}{}{Yeah, yeah.... It's not only *normal* rats... [He moves nervous to the left and back to the right.] ... These rats are somewhat stronger. I mean, some of them... their head is kind of shining, like a lamp. Like a... pulsating lamp. [He quivers while talking about the it.]}
+{8010}{}{Never heard of something like that.}
+{8020}{}{You know where they come from?}
+{9000}{}{You aren't alone with that... Never seen them before either. Never, anywhere. }
+{9010}{}{You know where they come from?}
+{9020}{}{Where is the basement? I am going to check it out and take care of that.}
+{10000}{}{They showed up some time around two months ago. First it was just one, then two, then three... and they seem to get stronger over time.}
+{10010}{}{Never heard of something like that.}
+{10020}{}{Where is the basement? I am going to check it out and take care of that.}
+{11000}{}{The rats... the rats... What do you want to know about them?}
+{11010}{}{Never heard of something like that.}
+{11020}{}{You know where they come from?}
+{11030}{}{Nevermind, see you around.}
+{12000}{}{If you think you can do that! Here is a hidden trap door... Follow me. [He opens an old wodden trap-door on the floor...]}
+{12010}{}{[Continue]}
+{13000}{}{And? What's the status?}
+{13010}{}{There have been some big mutated plants which poisoned the ground water. I killed them, now we have to wait and see. }
+{13020}{}{I forgot something... Let me back into the basement.}
+{13030}{}{Don't have much time right now. Will come back to you later.}
+{14000}{}{Thanks for your help!@@Glad you helped us.@@'Rats population should go back soon.}
+{15000}{}{The rats have taken over the whole cathedral basement!@@We can't go down to the basement anymore now.@@I had to bolt and lock the entrance to the cathedral basement.}
+{16000}{}{[He opens the old wodden trap-door again.]}
+{16010}{}{[Continue]}
+{17000}{}{Yeah, it's not like we have time forever.}
+{18000}{}{Wow! Didn't thought you can pull that off! ... About your reward. We don't have a lot and most of us are poor, but I've managed it to horde some stuff a while back. [He digs around in a big wooden box for a while.] I'll let you chose: A reinforced leather armor, some medical supplies - stimpaks and doctors bag - or this scoped hunting rifle.}
+{18010}{}{I'll take the better leather armor.}
+{18020}{}{Give me the medical supplies.}
+{18030}{}{Guess the scoped hunting rifle suits me well.}
+{18040}{}{It's enough for me to know you guys are fine.}
+{19000}{}{Hope this stuff will keep you going! [He hands you over your reward.] }
+{19010}{}{[End]}
+{20000}{}{Then... thanks, wanderer. But ... I can't let you go with nothing but our respect. Here, take this. We have no use for it and maybe you can find a use for it. [He gives you a small pre-war weapon.] Thank you again, you've done something good to us!}
+{20010}{}{[End]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Time to die!@@Kill them all!@@Hah, killing others is so funny.@@Die you son of a b...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Time to die!@@Kill them all!@@Hah, killing others is so funny.@@Die you son of a b...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Time to die!@@Kill them all!@@Hah, killing others is so funny.@@Die you son of a b...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Time to die!@@Kill them all!@@Hah, killing others is so funny.@@Die you son of a b...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

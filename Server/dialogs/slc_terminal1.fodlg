@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {3000}{}{[ Access confirmed... ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
+{2010}{}{[ Insert the keycard ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Access confirmed... ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
+{2010}{}{[ Insert the keycard ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Access confirmed... ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
+{2010}{}{[ Insert the keycard ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Access confirmed... ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,24 @@ lang=engl czec
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}

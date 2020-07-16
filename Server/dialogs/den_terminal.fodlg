@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {3010}{}{[ Back ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Error... Unable to load the operation system.}
+{2010}{}{[ Note 1 ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Let us see our true God - the God of Plague! Let us kill all heretics and use their blood to please our God! More blood for the Plague! More blood for the Plague!}
+{3010}{}{[ Back ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Error... Unable to load the operation system.}
+{2010}{}{[ Note 1 ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Let us see our true God - the God of Plague! Let us kill all heretics and use their blood to please our God! More blood for the Plague! More blood for the Plague!}
+{3010}{}{[ Back ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Error... Unable to load the operation system.}
+{2010}{}{[ Note 1 ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Let us see our true God - the God of Plague! Let us kill all heretics and use their blood to please our God! More blood for the Plague! More blood for the Plague!}
+{3010}{}{[ Back ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

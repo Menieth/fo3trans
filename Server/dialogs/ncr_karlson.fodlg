@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{What are you doing here? Guards!@@You're not one of my men. Guards!@@Get out of here!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{What are you doing here? Guards!@@You're not one of my men. Guards!@@Get out of here!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{What are you doing here? Guards!@@You're not one of my men. Guards!@@Get out of here!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{What are you doing here? Guards!@@You're not one of my men. Guards!@@Get out of here!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

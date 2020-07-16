@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -38,6 +38,51 @@ lang=engl czec
 {5010}{}{Uh, okay.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ia ciaao eiaie}
+{1020}{}{ }
+{1030}{}{Idiot}
+{2000}{}{Hello there. My name’s Gordon. Gordon of Gecko.}
+{2010}{}{Hello, Gordon. I’m @pname@.}
+{2020}{}{Gotta go, bye.}
+{3000}{}{A pleasure meeting you. Now I bid you good day.}
+{3010}{}{Okay. Bye.}
+{4000}{}{I have no time for stupid people.@@I have important work to do. Get out of here.@@You’re just as stupid as the rest of them.@@This isn’t the room for remedial reading lessons.@@Too much inbreeding among smoothskins, I guess.}
+{5000}{}{Hello again. Sorry, I haven't the time to talk to you.}
+{5010}{}{Uh, okay.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ia ciaao eiaie}
+{1020}{}{ }
+{1030}{}{Idiot}
+{2000}{}{Hello there. My name’s Gordon. Gordon of Gecko.}
+{2010}{}{Hello, Gordon. I’m @pname@.}
+{2020}{}{Gotta go, bye.}
+{3000}{}{A pleasure meeting you. Now I bid you good day.}
+{3010}{}{Okay. Bye.}
+{4000}{}{I have no time for stupid people.@@I have important work to do. Get out of here.@@You’re just as stupid as the rest of them.@@This isn’t the room for remedial reading lessons.@@Too much inbreeding among smoothskins, I guess.}
+{5000}{}{Hello again. Sorry, I haven't the time to talk to you.}
+{5010}{}{Uh, okay.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ia ciaao eiaie}
+{1020}{}{ }
+{1030}{}{Idiot}
+{2000}{}{Hello there. My name’s Gordon. Gordon of Gecko.}
+{2010}{}{Hello, Gordon. I’m @pname@.}
+{2020}{}{Gotta go, bye.}
+{3000}{}{A pleasure meeting you. Now I bid you good day.}
+{3010}{}{Okay. Bye.}
+{4000}{}{I have no time for stupid people.@@I have important work to do. Get out of here.@@You’re just as stupid as the rest of them.@@This isn’t the room for remedial reading lessons.@@Too much inbreeding among smoothskins, I guess.}
+{5000}{}{Hello again. Sorry, I haven't the time to talk to you.}
+{5010}{}{Uh, okay.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}

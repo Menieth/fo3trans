@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,33 @@ lang=engl czec
 {2030}{}{I hate tribals.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You see a cannibal.@@Food!@@It's eating time!@@Hmmm...white meat.@@Yum!@@Tasty!@@It looks tender.@@::Slurp::}
+{2010}{}{You're not gonna eat me, are you?}
+{2020}{}{YOU WANT SOME OF THIS, PRIMATE? WELL COME AND GE-}
+{2030}{}{I hate tribals.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You see a cannibal.@@Food!@@It's eating time!@@Hmmm...white meat.@@Yum!@@Tasty!@@It looks tender.@@::Slurp::}
+{2010}{}{You're not gonna eat me, are you?}
+{2020}{}{YOU WANT SOME OF THIS, PRIMATE? WELL COME AND GE-}
+{2030}{}{I hate tribals.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{You see a cannibal.@@Food!@@It's eating time!@@Hmmm...white meat.@@Yum!@@Tasty!@@It looks tender.@@::Slurp::}
+{2010}{}{You're not gonna eat me, are you?}
+{2020}{}{YOU WANT SOME OF THIS, PRIMATE? WELL COME AND GE-}
+{2030}{}{I hate tribals.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

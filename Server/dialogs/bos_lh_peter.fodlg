@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -82,6 +82,117 @@ lang=engl czec
 {12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member unknown}
+{1020}{}{member known}
+{2000}{}{Hello, are you one of the new initiates? Welcome to the Brotherhood.}
+{2010}{}{Hi. may I ask you something?}
+{2020}{}{You must be the man to talk to about Big Guns?}
+{2030}{}{Never mind.}
+{3000}{}{All right, but make it quick. I have inventory to do.}
+{3010}{}{What is this place?}
+{3020}{}{Well, got to go.}
+{4000}{}{These are the Brotherhoods workshops. Here we maintain and build all the Armor, Weapons and Ammo that all Paladins use in our war against the Mutant scum.}
+{4010}{}{Excellent, I was just looking for someone who could help me with the big guns!}
+{4020}{}{Bye.}
+{5000}{}{You again? I hope you are enjoying your time with the Brotherhood.}
+{5010}{}{I wanted to talk to you about big guns...}
+{5020}{}{Never mind.}
+{6000}{}{[Peter smiles] What do you require?}
+{6010}{}{I would like to know how they work, what they're made of... technical stuff.}
+{6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
+{6030}{}{Erhm... Actually, nothing right now. I better be going.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
+{7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
+{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{9000}{}{[OBSOLETE] For $4500 I can tell you everything I know.}
+{9010}{}{Well, its a big investment, but I'm sure it will be worth it!}
+{10000}{}{Very well, it's a deal then. [Peter starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
+{10010}{}{Thanks for everything Peter, that's exectly what I wanted to know. See you!}
+{11000}{}{Very well, it's a deal then. [Peter starts explaining]}
+{11010}{}{Thanks Peter, that was really something new for me. I have to go now, bye.}
+{12000}{}{[OBSOLETE] Very well, pay attention, these are complicated weapons. [Peter starts explaining the finer points in the field of small arms]}
+{12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member unknown}
+{1020}{}{member known}
+{2000}{}{Hello, are you one of the new initiates? Welcome to the Brotherhood.}
+{2010}{}{Hi. may I ask you something?}
+{2020}{}{You must be the man to talk to about Big Guns?}
+{2030}{}{Never mind.}
+{3000}{}{All right, but make it quick. I have inventory to do.}
+{3010}{}{What is this place?}
+{3020}{}{Well, got to go.}
+{4000}{}{These are the Brotherhoods workshops. Here we maintain and build all the Armor, Weapons and Ammo that all Paladins use in our war against the Mutant scum.}
+{4010}{}{Excellent, I was just looking for someone who could help me with the big guns!}
+{4020}{}{Bye.}
+{5000}{}{You again? I hope you are enjoying your time with the Brotherhood.}
+{5010}{}{I wanted to talk to you about big guns...}
+{5020}{}{Never mind.}
+{6000}{}{[Peter smiles] What do you require?}
+{6010}{}{I would like to know how they work, what they're made of... technical stuff.}
+{6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
+{6030}{}{Erhm... Actually, nothing right now. I better be going.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
+{7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
+{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{9000}{}{[OBSOLETE] For $4500 I can tell you everything I know.}
+{9010}{}{Well, its a big investment, but I'm sure it will be worth it!}
+{10000}{}{Very well, it's a deal then. [Peter starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
+{10010}{}{Thanks for everything Peter, that's exectly what I wanted to know. See you!}
+{11000}{}{Very well, it's a deal then. [Peter starts explaining]}
+{11010}{}{Thanks Peter, that was really something new for me. I have to go now, bye.}
+{12000}{}{[OBSOLETE] Very well, pay attention, these are complicated weapons. [Peter starts explaining the finer points in the field of small arms]}
+{12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member unknown}
+{1020}{}{member known}
+{2000}{}{Hello, are you one of the new initiates? Welcome to the Brotherhood.}
+{2010}{}{Hi. may I ask you something?}
+{2020}{}{You must be the man to talk to about Big Guns?}
+{2030}{}{Never mind.}
+{3000}{}{All right, but make it quick. I have inventory to do.}
+{3010}{}{What is this place?}
+{3020}{}{Well, got to go.}
+{4000}{}{These are the Brotherhoods workshops. Here we maintain and build all the Armor, Weapons and Ammo that all Paladins use in our war against the Mutant scum.}
+{4010}{}{Excellent, I was just looking for someone who could help me with the big guns!}
+{4020}{}{Bye.}
+{5000}{}{You again? I hope you are enjoying your time with the Brotherhood.}
+{5010}{}{I wanted to talk to you about big guns...}
+{5020}{}{Never mind.}
+{6000}{}{[Peter smiles] What do you require?}
+{6010}{}{I would like to know how they work, what they're made of... technical stuff.}
+{6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
+{6030}{}{Erhm... Actually, nothing right now. I better be going.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
+{7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
+{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
+{9000}{}{[OBSOLETE] For $4500 I can tell you everything I know.}
+{9010}{}{Well, its a big investment, but I'm sure it will be worth it!}
+{10000}{}{Very well, it's a deal then. [Peter starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
+{10010}{}{Thanks for everything Peter, that's exectly what I wanted to know. See you!}
+{11000}{}{Very well, it's a deal then. [Peter starts explaining]}
+{11010}{}{Thanks Peter, that was really something new for me. I have to go now, bye.}
+{12000}{}{[OBSOLETE] Very well, pay attention, these are complicated weapons. [Peter starts explaining the finer points in the field of small arms]}
+{12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Place your bets.@@Finish betting please.@@ No more bets, thank you!@@Winning number:33@@Winning number:0@@Winning number:25@@Winning number:14@@Winning number:2@@Winning number:5@@Winning number:7@@Winning number:36@@Winning number:28@@Winning number:29@@Winning number:19@@Winning number:13@@Winning number:6@@Winning number:23}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Place your bets.@@Finish betting please.@@ No more bets, thank you!@@Winning number:33@@Winning number:0@@Winning number:25@@Winning number:14@@Winning number:2@@Winning number:5@@Winning number:7@@Winning number:36@@Winning number:28@@Winning number:29@@Winning number:19@@Winning number:13@@Winning number:6@@Winning number:23}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Place your bets.@@Finish betting please.@@ No more bets, thank you!@@Winning number:33@@Winning number:0@@Winning number:25@@Winning number:14@@Winning number:2@@Winning number:5@@Winning number:7@@Winning number:36@@Winning number:28@@Winning number:29@@Winning number:19@@Winning number:13@@Winning number:6@@Winning number:23}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}

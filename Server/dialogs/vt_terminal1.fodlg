@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -35,6 +35,51 @@ lang=engl czec
 {5010}{}{[ Back ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Exit ]}
+{2030}{}{[ From: Dr. Brown. ]}
+{3000}{}{[ NSA Security card required ]}
+{3010}{}{[ Confirm the operation. ]}
+{3020}{}{[ Exit. ]}
+{4000}{}{[ Operating... ]}
+{5000}{}{[ I killed him... I had no other choice. I know for sure that this company is the reason. They sent the Armagedon on us, and Alastor was stupid enough to think I wouldn't see it. I ran the emergency lockdown protocol sealing up the facility. I locked everyone inside... They deserve this fate and nobody can judge me for that. For Lord's Sake do not open this door. Let the evil remain locked and forgotten. ]}
+{5010}{}{[ Back ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Exit ]}
+{2030}{}{[ From: Dr. Brown. ]}
+{3000}{}{[ NSA Security card required ]}
+{3010}{}{[ Confirm the operation. ]}
+{3020}{}{[ Exit. ]}
+{4000}{}{[ Operating... ]}
+{5000}{}{[ I killed him... I had no other choice. I know for sure that this company is the reason. They sent the Armagedon on us, and Alastor was stupid enough to think I wouldn't see it. I ran the emergency lockdown protocol sealing up the facility. I locked everyone inside... They deserve this fate and nobody can judge me for that. For Lord's Sake do not open this door. Let the evil remain locked and forgotten. ]}
+{5010}{}{[ Back ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Exit ]}
+{2030}{}{[ From: Dr. Brown. ]}
+{3000}{}{[ NSA Security card required ]}
+{3010}{}{[ Confirm the operation. ]}
+{3020}{}{[ Exit. ]}
+{4000}{}{[ Operating... ]}
+{5000}{}{[ I killed him... I had no other choice. I know for sure that this company is the reason. They sent the Armagedon on us, and Alastor was stupid enough to think I wouldn't see it. I ran the emergency lockdown protocol sealing up the facility. I locked everyone inside... They deserve this fate and nobody can judge me for that. For Lord's Sake do not open this door. Let the evil remain locked and forgotten. ]}
+{5010}{}{[ Back ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

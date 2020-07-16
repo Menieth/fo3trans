@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Talk to Mr. Vortis, not me.@@Uhh...@@You got questions? Talk to Vortis.@@You give us trouble, that's what I'm here for. Understand?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Talk to Mr. Vortis, not me.@@Uhh...@@You got questions? Talk to Vortis.@@You give us trouble, that's what I'm here for. Understand?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Talk to Mr. Vortis, not me.@@Uhh...@@You got questions? Talk to Vortis.@@You give us trouble, that's what I'm here for. Understand?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Talk to Mr. Vortis, not me.@@Uhh...@@You got questions? Talk to Vortis.@@You give us trouble, that's what I'm here for. Understand?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -117,6 +117,168 @@ lang=engl czec
 {16010}{}{Alright, sure thing Frankie.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Ugly}
+{1030}{}{normal}
+{2000}{}{I’m Frankie and yer standing in 'The Hole.' Best damn bar for a hundred miles! Everyone crawls into The Hole when it's time to let loose. Now don't you be causing too much trouble, y’hear?}
+{2010}{}{I hear ya.}
+{2020}{}{Yeah, okay. Whatever.}
+{2030}{}{I see why you call this place "The Hole."}
+{2040}{}{Nothing today, bye.}
+{2050}{}{Whiskey Bob sent me. I've got a message for you.}
+{3000}{}{What’s yer pleasure?}
+{3010}{}{Whiskey.}
+{3020}{}{Sex.}
+{3030}{}{Info.}
+{3040}{}{Nothing today, bye.}
+{4000}{}{Hey! You better shut your hole!}
+{4010}{}{Just do your job and get me a drink.}
+{4020}{}{I’ll just leave instead.}
+{5000}{}{Whiskey is $10 a shot.}
+{5010}{}{Here’s your money.}
+{5020}{}{Can't afford it. Can I get something else?}
+{5030}{}{Why does your whiskey cost so much more than Becky’s?}
+{5040}{}{No thanks. Bye.}
+{6000}{}{Anything else?}
+{6010}{}{Yes.}
+{6020}{}{Nope, thanks.}
+{7000}{}{Those New Reno families charge an arm and a leg for their booze. I don’t know how she does it!}
+{7010}{}{Too bad. I'll take a drink anyway.}
+{7020}{}{I wanted something else.}
+{7030}{}{I guess I'll just go buy whiskey from her. bye.}
+{8000}{}{Information I do not have.}
+{8010}{}{Really? How about why Becky’s drinks are so much cheaper than yours?}
+{8020}{}{I thought bartenders knew everything. I want something else.}
+{8030}{}{Then I’m in the wrong place. Bye.}
+{9000}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
+{9010}{}{Wait, that’s not what I wa.. nevermind.}
+{9020}{}{Thanks. Bye.}
+{10000}{}{Good day, slaver.}
+{10010}{}{Right.}
+{10020}{}{Sure is. I'm going to go enjoy it. Bye.}
+{11000}{}{Get lost, you ugly sonovbitch.@@You're scaring off all my business.@@I don't care if you got the money, get the hell out.}
+{12000}{}{Oh yeah? What's that old bastard want?}
+{12010}{}{Uh, he wanted me to tell you the next batch of hooch is ready.}
+{13000}{}{It is? Shit, that's great news. I'll send a runner over to pick it up. Thanks, pal.}
+{13010}{}{Wait, there was one other thing.}
+{14000}{}{There was? What?}
+{14010}{}{He's, uh, charging double this time.}
+{15000}{}{(Frankie's face reddens) That stingy piece of shit! He tries this every goddamn time. I give that old fucker the most business he's ever had and he... shit. I need a drink.}
+{15010}{}{Can I go now? Is that it? }
+{16000}{}{No! Not it ain't! Not by a long shot. You get back to Bob, tell him I'll be picking up, but at the goddamn rate we agreed on! (He sighs) Here's a couple bucks for your trouble. Don't keep me waiting.}
+{16010}{}{Alright, sure thing Frankie.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Ugly}
+{1030}{}{normal}
+{2000}{}{I’m Frankie and yer standing in 'The Hole.' Best damn bar for a hundred miles! Everyone crawls into The Hole when it's time to let loose. Now don't you be causing too much trouble, y’hear?}
+{2010}{}{I hear ya.}
+{2020}{}{Yeah, okay. Whatever.}
+{2030}{}{I see why you call this place "The Hole."}
+{2040}{}{Nothing today, bye.}
+{2050}{}{Whiskey Bob sent me. I've got a message for you.}
+{3000}{}{What’s yer pleasure?}
+{3010}{}{Whiskey.}
+{3020}{}{Sex.}
+{3030}{}{Info.}
+{3040}{}{Nothing today, bye.}
+{4000}{}{Hey! You better shut your hole!}
+{4010}{}{Just do your job and get me a drink.}
+{4020}{}{I’ll just leave instead.}
+{5000}{}{Whiskey is $10 a shot.}
+{5010}{}{Here’s your money.}
+{5020}{}{Can't afford it. Can I get something else?}
+{5030}{}{Why does your whiskey cost so much more than Becky’s?}
+{5040}{}{No thanks. Bye.}
+{6000}{}{Anything else?}
+{6010}{}{Yes.}
+{6020}{}{Nope, thanks.}
+{7000}{}{Those New Reno families charge an arm and a leg for their booze. I don’t know how she does it!}
+{7010}{}{Too bad. I'll take a drink anyway.}
+{7020}{}{I wanted something else.}
+{7030}{}{I guess I'll just go buy whiskey from her. bye.}
+{8000}{}{Information I do not have.}
+{8010}{}{Really? How about why Becky’s drinks are so much cheaper than yours?}
+{8020}{}{I thought bartenders knew everything. I want something else.}
+{8030}{}{Then I’m in the wrong place. Bye.}
+{9000}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
+{9010}{}{Wait, that’s not what I wa.. nevermind.}
+{9020}{}{Thanks. Bye.}
+{10000}{}{Good day, slaver.}
+{10010}{}{Right.}
+{10020}{}{Sure is. I'm going to go enjoy it. Bye.}
+{11000}{}{Get lost, you ugly sonovbitch.@@You're scaring off all my business.@@I don't care if you got the money, get the hell out.}
+{12000}{}{Oh yeah? What's that old bastard want?}
+{12010}{}{Uh, he wanted me to tell you the next batch of hooch is ready.}
+{13000}{}{It is? Shit, that's great news. I'll send a runner over to pick it up. Thanks, pal.}
+{13010}{}{Wait, there was one other thing.}
+{14000}{}{There was? What?}
+{14010}{}{He's, uh, charging double this time.}
+{15000}{}{(Frankie's face reddens) That stingy piece of shit! He tries this every goddamn time. I give that old fucker the most business he's ever had and he... shit. I need a drink.}
+{15010}{}{Can I go now? Is that it? }
+{16000}{}{No! Not it ain't! Not by a long shot. You get back to Bob, tell him I'll be picking up, but at the goddamn rate we agreed on! (He sighs) Here's a couple bucks for your trouble. Don't keep me waiting.}
+{16010}{}{Alright, sure thing Frankie.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Ugly}
+{1030}{}{normal}
+{2000}{}{I’m Frankie and yer standing in 'The Hole.' Best damn bar for a hundred miles! Everyone crawls into The Hole when it's time to let loose. Now don't you be causing too much trouble, y’hear?}
+{2010}{}{I hear ya.}
+{2020}{}{Yeah, okay. Whatever.}
+{2030}{}{I see why you call this place "The Hole."}
+{2040}{}{Nothing today, bye.}
+{2050}{}{Whiskey Bob sent me. I've got a message for you.}
+{3000}{}{What’s yer pleasure?}
+{3010}{}{Whiskey.}
+{3020}{}{Sex.}
+{3030}{}{Info.}
+{3040}{}{Nothing today, bye.}
+{4000}{}{Hey! You better shut your hole!}
+{4010}{}{Just do your job and get me a drink.}
+{4020}{}{I’ll just leave instead.}
+{5000}{}{Whiskey is $10 a shot.}
+{5010}{}{Here’s your money.}
+{5020}{}{Can't afford it. Can I get something else?}
+{5030}{}{Why does your whiskey cost so much more than Becky’s?}
+{5040}{}{No thanks. Bye.}
+{6000}{}{Anything else?}
+{6010}{}{Yes.}
+{6020}{}{Nope, thanks.}
+{7000}{}{Those New Reno families charge an arm and a leg for their booze. I don’t know how she does it!}
+{7010}{}{Too bad. I'll take a drink anyway.}
+{7020}{}{I wanted something else.}
+{7030}{}{I guess I'll just go buy whiskey from her. bye.}
+{8000}{}{Information I do not have.}
+{8010}{}{Really? How about why Becky’s drinks are so much cheaper than yours?}
+{8020}{}{I thought bartenders knew everything. I want something else.}
+{8030}{}{Then I’m in the wrong place. Bye.}
+{9000}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
+{9010}{}{Wait, that’s not what I wa.. nevermind.}
+{9020}{}{Thanks. Bye.}
+{10000}{}{Good day, slaver.}
+{10010}{}{Right.}
+{10020}{}{Sure is. I'm going to go enjoy it. Bye.}
+{11000}{}{Get lost, you ugly sonovbitch.@@You're scaring off all my business.@@I don't care if you got the money, get the hell out.}
+{12000}{}{Oh yeah? What's that old bastard want?}
+{12010}{}{Uh, he wanted me to tell you the next batch of hooch is ready.}
+{13000}{}{It is? Shit, that's great news. I'll send a runner over to pick it up. Thanks, pal.}
+{13010}{}{Wait, there was one other thing.}
+{14000}{}{There was? What?}
+{14010}{}{He's, uh, charging double this time.}
+{15000}{}{(Frankie's face reddens) That stingy piece of shit! He tries this every goddamn time. I give that old fucker the most business he's ever had and he... shit. I need a drink.}
+{15010}{}{Can I go now? Is that it? }
+{16000}{}{No! Not it ain't! Not by a long shot. You get back to Bob, tell him I'll be picking up, but at the goddamn rate we agreed on! (He sighs) Here's a couple bucks for your trouble. Don't keep me waiting.}
+{16010}{}{Alright, sure thing Frankie.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}

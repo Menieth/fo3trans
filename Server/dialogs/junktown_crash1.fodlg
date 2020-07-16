@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -83,6 +83,120 @@ lang=engl czec
 {11020}{}{Thanks for the info.@@Thanks, I'll check it later.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Welcome to the Crash House. How can I help you, stranger?}
+{2010}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{2020}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{2030}{}{I'd like to pay the rent for my room.}
+{2040}{}{I'm looking for some water.}
+{2050}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{3020}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{3030}{}{I'd like to pay the rent for my room.}
+{3040}{}{I'm looking for some water.}
+{3050}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{You need some money before I can rent you a room. Nothing else works.@@You need some money before I can rent you a room. It only works this way.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{5010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
+{5020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
+{5030}{}{I don’t think I’ll take you up on that offer just now. What about something else?}
+{6000}{}{No problem. This room, follow me.@@No problem. This room, follow me. Don't be shooting any guns in here, okay?}
+{6010}{}{[Follow]}
+{7000}{}{Oh no . . . Stay away from me!}
+{8000}{}{Holy shit . . . Stay away from me!}
+{9000}{}{Sorry, but we don't have any rooms free. Maybe you should try later again.}
+{9010}{}{Oh well...}
+{9020}{}{[Leave] Damn!}
+{10000}{}{Good, it's better to be sure about your posessions, am I right?}
+{10010}{}{Right...}
+{10020}{}{[Leave]Right...}
+{11000}{}{Then you should try the Skum Pitt. I heard you can get a lot of water in your booze there.}
+{11010}{}{I changed my mind... I feel a bit sick.}
+{11020}{}{Thanks for the info.@@Thanks, I'll check it later.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Welcome to the Crash House. How can I help you, stranger?}
+{2010}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{2020}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{2030}{}{I'd like to pay the rent for my room.}
+{2040}{}{I'm looking for some water.}
+{2050}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{3020}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{3030}{}{I'd like to pay the rent for my room.}
+{3040}{}{I'm looking for some water.}
+{3050}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{You need some money before I can rent you a room. Nothing else works.@@You need some money before I can rent you a room. It only works this way.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{5010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
+{5020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
+{5030}{}{I don’t think I’ll take you up on that offer just now. What about something else?}
+{6000}{}{No problem. This room, follow me.@@No problem. This room, follow me. Don't be shooting any guns in here, okay?}
+{6010}{}{[Follow]}
+{7000}{}{Oh no . . . Stay away from me!}
+{8000}{}{Holy shit . . . Stay away from me!}
+{9000}{}{Sorry, but we don't have any rooms free. Maybe you should try later again.}
+{9010}{}{Oh well...}
+{9020}{}{[Leave] Damn!}
+{10000}{}{Good, it's better to be sure about your posessions, am I right?}
+{10010}{}{Right...}
+{10020}{}{[Leave]Right...}
+{11000}{}{Then you should try the Skum Pitt. I heard you can get a lot of water in your booze there.}
+{11010}{}{I changed my mind... I feel a bit sick.}
+{11020}{}{Thanks for the info.@@Thanks, I'll check it later.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Welcome to the Crash House. How can I help you, stranger?}
+{2010}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{2020}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{2030}{}{I'd like to pay the rent for my room.}
+{2040}{}{I'm looking for some water.}
+{2050}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{3020}{}{I need a good night's sleep.@@Can I get a room?@@I want to rent a room.}
+{3030}{}{I'd like to pay the rent for my room.}
+{3040}{}{I'm looking for some water.}
+{3050}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{You need some money before I can rent you a room. Nothing else works.@@You need some money before I can rent you a room. It only works this way.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{5010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
+{5020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
+{5030}{}{I don’t think I’ll take you up on that offer just now. What about something else?}
+{6000}{}{No problem. This room, follow me.@@No problem. This room, follow me. Don't be shooting any guns in here, okay?}
+{6010}{}{[Follow]}
+{7000}{}{Oh no . . . Stay away from me!}
+{8000}{}{Holy shit . . . Stay away from me!}
+{9000}{}{Sorry, but we don't have any rooms free. Maybe you should try later again.}
+{9010}{}{Oh well...}
+{9020}{}{[Leave] Damn!}
+{10000}{}{Good, it's better to be sure about your posessions, am I right?}
+{10010}{}{Right...}
+{10020}{}{[Leave]Right...}
+{11000}{}{Then you should try the Skum Pitt. I heard you can get a lot of water in your booze there.}
+{11010}{}{I changed my mind... I feel a bit sick.}
+{11020}{}{Thanks for the info.@@Thanks, I'll check it later.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}

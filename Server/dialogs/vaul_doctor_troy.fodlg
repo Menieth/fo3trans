@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -79,6 +79,114 @@ lang=engl czec
 {11010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{dumb}
+{1020}{}{not VC member}
+{1030}{}{VC member unknown}
+{1040}{}{VC member known}
+{2000}{}{Excuse me, but what are you doing here?@@Please, leave now!@@I have been busy! No time to talk!@@Stop bothering me, I've got important work to do!}
+{3000}{}{Hello Citizen, my name is Dr. Troy! I can't remember our previous meeting, you have to be one of the new citizens, is that correct?}
+{3010}{}{Yes, I am. My name is @pname@. I had a few questions for you, doctor.}
+{3020}{}{I think I'm in wrong place. [Leave]}
+{4000}{}{What can I do for you?}
+{4010}{}{I think I could use some medical attention.}
+{4020}{}{You see, I am quite interested in medicine myself and I was hoping that you could share some of your knowledge and experience with me...}
+{4030}{}{Nothing right now. Goodbye, Dr. Troy!}
+{5000}{}{All right... Let's see what is it all about. [Dr. Troy heals you]}
+{5010}{}{Thank you, doctor! I had a few questions for you now.}
+{5020}{}{Thanks, doctor. I have to go now, farewell!}
+{6000}{}{Oh, a colleague! It's not that I meet colleagues every day, you know... The reason more to say that I'm very pleased to have you here. So, what did you want us to talk about then?}
+{6010}{}{I was hoping you can show me how to perform simple surgeries and... [You explain what you need]}
+{6020}{}{Well, I was interested in more complex methods of saving human lives, which would consider... [You explain him what you need]}
+{6030}{}{I, erhm... Not quite sure where to start from. Maybe I should drop a little bit later. [Leave]}
+{7000}{}{Sure, sure... We can already arrange something, I guess. But I would like to have something in return, a kind of compensation for my time and work. It's not that I'm trying to earn something out of this, but a help from a colleague like you would be quite appreciated. I'll keep it short then -- I would need $1500 for a short lesson or $3000 for one with more details.}
+{7010}{}{You don't have to worry, my appreciated colleague, I have $1500 right here! [You give him $1500]}
+{7020}{}{You don't have to worry, my appreciated colleague, I have $3000 right here! [You give him $3000]}
+{7030}{}{Well, I better start gathering some healing herbs then. See you again, doctor Troy!}
+{8000}{}{[OBSOLETE] It is true, I admit. Not only that we are the most advanced medical center in the wasteland, but we also keep searching for the new methods, while preserving the knowledge of the past. I guess I could introduce you to these advanced methods, but I need your help first. You see, we are running low on caps lately, if you could provide me with $4500 I would have more free time to show you the secrets of our medical methods.}
+{8010}{}{It is my honor, Dr. Troy, to help you with this specific issue. Here you go, $4500 for you.}
+{8020}{}{I will do my best to help you, Dr. Troy, just give me some time. Goodbye!}
+{9000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Troy starts to show you his healing and surgery methods. After the session, you get a book from him.]}
+{9010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{10000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Troy starts to show you some advanced healing and surgery methods.]}
+{10010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{11000}{}{[OBSOLETE] Excellent! Then we should waste no more time, let's begin... [Doctor Troy teaches you the most advanced healing and surgery methods. He also shows you the way some chemical compunds affect human body and its nervous systems]}
+{11010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{dumb}
+{1020}{}{not VC member}
+{1030}{}{VC member unknown}
+{1040}{}{VC member known}
+{2000}{}{Excuse me, but what are you doing here?@@Please, leave now!@@I have been busy! No time to talk!@@Stop bothering me, I've got important work to do!}
+{3000}{}{Hello Citizen, my name is Dr. Troy! I can't remember our previous meeting, you have to be one of the new citizens, is that correct?}
+{3010}{}{Yes, I am. My name is @pname@. I had a few questions for you, doctor.}
+{3020}{}{I think I'm in wrong place. [Leave]}
+{4000}{}{What can I do for you?}
+{4010}{}{I think I could use some medical attention.}
+{4020}{}{You see, I am quite interested in medicine myself and I was hoping that you could share some of your knowledge and experience with me...}
+{4030}{}{Nothing right now. Goodbye, Dr. Troy!}
+{5000}{}{All right... Let's see what is it all about. [Dr. Troy heals you]}
+{5010}{}{Thank you, doctor! I had a few questions for you now.}
+{5020}{}{Thanks, doctor. I have to go now, farewell!}
+{6000}{}{Oh, a colleague! It's not that I meet colleagues every day, you know... The reason more to say that I'm very pleased to have you here. So, what did you want us to talk about then?}
+{6010}{}{I was hoping you can show me how to perform simple surgeries and... [You explain what you need]}
+{6020}{}{Well, I was interested in more complex methods of saving human lives, which would consider... [You explain him what you need]}
+{6030}{}{I, erhm... Not quite sure where to start from. Maybe I should drop a little bit later. [Leave]}
+{7000}{}{Sure, sure... We can already arrange something, I guess. But I would like to have something in return, a kind of compensation for my time and work. It's not that I'm trying to earn something out of this, but a help from a colleague like you would be quite appreciated. I'll keep it short then -- I would need $1500 for a short lesson or $3000 for one with more details.}
+{7010}{}{You don't have to worry, my appreciated colleague, I have $1500 right here! [You give him $1500]}
+{7020}{}{You don't have to worry, my appreciated colleague, I have $3000 right here! [You give him $3000]}
+{7030}{}{Well, I better start gathering some healing herbs then. See you again, doctor Troy!}
+{8000}{}{[OBSOLETE] It is true, I admit. Not only that we are the most advanced medical center in the wasteland, but we also keep searching for the new methods, while preserving the knowledge of the past. I guess I could introduce you to these advanced methods, but I need your help first. You see, we are running low on caps lately, if you could provide me with $4500 I would have more free time to show you the secrets of our medical methods.}
+{8010}{}{It is my honor, Dr. Troy, to help you with this specific issue. Here you go, $4500 for you.}
+{8020}{}{I will do my best to help you, Dr. Troy, just give me some time. Goodbye!}
+{9000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Troy starts to show you his healing and surgery methods. After the session, you get a book from him.]}
+{9010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{10000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Troy starts to show you some advanced healing and surgery methods.]}
+{10010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{11000}{}{[OBSOLETE] Excellent! Then we should waste no more time, let's begin... [Doctor Troy teaches you the most advanced healing and surgery methods. He also shows you the way some chemical compunds affect human body and its nervous systems]}
+{11010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{dumb}
+{1020}{}{not VC member}
+{1030}{}{VC member unknown}
+{1040}{}{VC member known}
+{2000}{}{Excuse me, but what are you doing here?@@Please, leave now!@@I have been busy! No time to talk!@@Stop bothering me, I've got important work to do!}
+{3000}{}{Hello Citizen, my name is Dr. Troy! I can't remember our previous meeting, you have to be one of the new citizens, is that correct?}
+{3010}{}{Yes, I am. My name is @pname@. I had a few questions for you, doctor.}
+{3020}{}{I think I'm in wrong place. [Leave]}
+{4000}{}{What can I do for you?}
+{4010}{}{I think I could use some medical attention.}
+{4020}{}{You see, I am quite interested in medicine myself and I was hoping that you could share some of your knowledge and experience with me...}
+{4030}{}{Nothing right now. Goodbye, Dr. Troy!}
+{5000}{}{All right... Let's see what is it all about. [Dr. Troy heals you]}
+{5010}{}{Thank you, doctor! I had a few questions for you now.}
+{5020}{}{Thanks, doctor. I have to go now, farewell!}
+{6000}{}{Oh, a colleague! It's not that I meet colleagues every day, you know... The reason more to say that I'm very pleased to have you here. So, what did you want us to talk about then?}
+{6010}{}{I was hoping you can show me how to perform simple surgeries and... [You explain what you need]}
+{6020}{}{Well, I was interested in more complex methods of saving human lives, which would consider... [You explain him what you need]}
+{6030}{}{I, erhm... Not quite sure where to start from. Maybe I should drop a little bit later. [Leave]}
+{7000}{}{Sure, sure... We can already arrange something, I guess. But I would like to have something in return, a kind of compensation for my time and work. It's not that I'm trying to earn something out of this, but a help from a colleague like you would be quite appreciated. I'll keep it short then -- I would need $1500 for a short lesson or $3000 for one with more details.}
+{7010}{}{You don't have to worry, my appreciated colleague, I have $1500 right here! [You give him $1500]}
+{7020}{}{You don't have to worry, my appreciated colleague, I have $3000 right here! [You give him $3000]}
+{7030}{}{Well, I better start gathering some healing herbs then. See you again, doctor Troy!}
+{8000}{}{[OBSOLETE] It is true, I admit. Not only that we are the most advanced medical center in the wasteland, but we also keep searching for the new methods, while preserving the knowledge of the past. I guess I could introduce you to these advanced methods, but I need your help first. You see, we are running low on caps lately, if you could provide me with $4500 I would have more free time to show you the secrets of our medical methods.}
+{8010}{}{It is my honor, Dr. Troy, to help you with this specific issue. Here you go, $4500 for you.}
+{8020}{}{I will do my best to help you, Dr. Troy, just give me some time. Goodbye!}
+{9000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Troy starts to show you his healing and surgery methods. After the session, you get a book from him.]}
+{9010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{10000}{}{Excellent! Then we should waste no more time, let's begin... [Doctor Troy starts to show you some advanced healing and surgery methods.]}
+{10010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+{11000}{}{[OBSOLETE] Excellent! Then we should waste no more time, let's begin... [Doctor Troy teaches you the most advanced healing and surgery methods. He also shows you the way some chemical compunds affect human body and its nervous systems]}
+{11010}{}{Thank you very much, doctor Troy! I will do my best to put this knowledge to a good use, I assure you. Have a nice day!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}

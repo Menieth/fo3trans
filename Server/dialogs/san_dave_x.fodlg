@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Greetings, enlightened one.@@I'm going to move on Vikki... umm... soon.@@"Does my terminal have 3D-card support?"@@"Why can't I get multi-user hookup?"@@"I think we ought to change the interface, even though this one works perfectly well!" Idiots!@@"The interface on my terminal is slow and clunky. I think it's your fault."}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Greetings, enlightened one.@@I'm going to move on Vikki... umm... soon.@@"Does my terminal have 3D-card support?"@@"Why can't I get multi-user hookup?"@@"I think we ought to change the interface, even though this one works perfectly well!" Idiots!@@"The interface on my terminal is slow and clunky. I think it's your fault."}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Greetings, enlightened one.@@I'm going to move on Vikki... umm... soon.@@"Does my terminal have 3D-card support?"@@"Why can't I get multi-user hookup?"@@"I think we ought to change the interface, even though this one works perfectly well!" Idiots!@@"The interface on my terminal is slow and clunky. I think it's your fault."}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Greetings, enlightened one.@@I'm going to move on Vikki... umm... soon.@@"Does my terminal have 3D-card support?"@@"Why can't I get multi-user hookup?"@@"I think we ought to change the interface, even though this one works perfectly well!" Idiots!@@"The interface on my terminal is slow and clunky. I think it's your fault."}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

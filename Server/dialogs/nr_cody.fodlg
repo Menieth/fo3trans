@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -94,6 +94,135 @@ lang=engl czec
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Low Karma}
+{1030}{}{Idiot}
+{2000}{}{(The child glares at you sullenly as you approach...you can barely see his face beneath all the dirt. On the remains of
+ his shirt is scribbled "Cody.")}
+{2010}{}{Hey, Cody. You all right? You want something to eat maybe?}
+{2020}{}{Hey, Cody. You thirsty? Want something to drink?}
+{2030}{}{Where are your parents?}
+{2040}{}{Goodbye.}
+{3000}{}{(The child glares at you sullenly as you approach...you can barely see his face beneath all the dirt. On the remains of
+ his shirt is scribbled "Cody.")}
+{3010}{}{Kootchie kootchie}
+{3020}{}{(Glare back at 'im)}
+{3030}{}{Wander off}
+{4000}{}{(Cody's eyes get wide, and he runs away.)}
+{4010}{}{ME KILL YOU ME KILL YOU ME KILL YOU ME KILL --}
+{5000}{}{(Cody's eyes get wide, and he runs away.)}
+{5010}{}{Maybe next time, then.}
+{5020}{}{Little shit…}
+{6000}{}{(Cody continues to stare at you.)}
+{6010}{}{Uh, you all right, Cody?}
+{6020}{}{Well, see you later, Cody. Take care.}
+{7000}{}{(Cody continues to stare at you.)}
+{7010}{}{Hey, Cody. Want some nuka cola?}
+{7020}{}{Want a brewski, kid? Never too young to start, Mom used to say. Uh, when she was sober, that is.}
+{7030}{}{@sex@|I got some Jet here, Cody. You want to fly high with Uncle @pname@?||I got some Jet here, Cody. You want to fly high with Auntie @pname@?|}
+{7040}{}{Hey, Cody…want some powerful metamphetamines? You could catch and eat your own game. Other children, even.}
+{7050}{}{Uh, well, take care of yourself, Cody.}
+{7060}{}{Sorry kid, looks like I don't have anything to give you.}
+{8000}{}{(Cody continues to stare at you.)}
+{8010}{}{Want a cookie, Cody?}
+{8020}{}{Want some iguana, Cody? Mmmmmm good.}
+{8030}{}{Hey, Cody. Want some delici...er, edible...fruit? Mmmmmm…uh…good.}
+{8040}{}{Sorry kid, looks like I don't have anything to give you.}
+{9000}{}{(Cody grabs the item and runs away.)}
+{9010}{}{::Mutter under your breath about the state of youth today.::}
+{9020}{}{You're welcome, kid…! Don't mention it…!}
+{9030}{}{Sheesh. Little fucker.}
+{10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Low Karma}
+{1030}{}{Idiot}
+{2000}{}{(The child glares at you sullenly as you approach...you can barely see his face beneath all the dirt. On the remains of
+ his shirt is scribbled "Cody.")}
+{2010}{}{Hey, Cody. You all right? You want something to eat maybe?}
+{2020}{}{Hey, Cody. You thirsty? Want something to drink?}
+{2030}{}{Where are your parents?}
+{2040}{}{Goodbye.}
+{3000}{}{(The child glares at you sullenly as you approach...you can barely see his face beneath all the dirt. On the remains of
+ his shirt is scribbled "Cody.")}
+{3010}{}{Kootchie kootchie}
+{3020}{}{(Glare back at 'im)}
+{3030}{}{Wander off}
+{4000}{}{(Cody's eyes get wide, and he runs away.)}
+{4010}{}{ME KILL YOU ME KILL YOU ME KILL YOU ME KILL --}
+{5000}{}{(Cody's eyes get wide, and he runs away.)}
+{5010}{}{Maybe next time, then.}
+{5020}{}{Little shit…}
+{6000}{}{(Cody continues to stare at you.)}
+{6010}{}{Uh, you all right, Cody?}
+{6020}{}{Well, see you later, Cody. Take care.}
+{7000}{}{(Cody continues to stare at you.)}
+{7010}{}{Hey, Cody. Want some nuka cola?}
+{7020}{}{Want a brewski, kid? Never too young to start, Mom used to say. Uh, when she was sober, that is.}
+{7030}{}{@sex@|I got some Jet here, Cody. You want to fly high with Uncle @pname@?||I got some Jet here, Cody. You want to fly high with Auntie @pname@?|}
+{7040}{}{Hey, Cody…want some powerful metamphetamines? You could catch and eat your own game. Other children, even.}
+{7050}{}{Uh, well, take care of yourself, Cody.}
+{7060}{}{Sorry kid, looks like I don't have anything to give you.}
+{8000}{}{(Cody continues to stare at you.)}
+{8010}{}{Want a cookie, Cody?}
+{8020}{}{Want some iguana, Cody? Mmmmmm good.}
+{8030}{}{Hey, Cody. Want some delici...er, edible...fruit? Mmmmmm…uh…good.}
+{8040}{}{Sorry kid, looks like I don't have anything to give you.}
+{9000}{}{(Cody grabs the item and runs away.)}
+{9010}{}{::Mutter under your breath about the state of youth today.::}
+{9020}{}{You're welcome, kid…! Don't mention it…!}
+{9030}{}{Sheesh. Little fucker.}
+{10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Low Karma}
+{1030}{}{Idiot}
+{2000}{}{(The child glares at you sullenly as you approach...you can barely see his face beneath all the dirt. On the remains of
+ his shirt is scribbled "Cody.")}
+{2010}{}{Hey, Cody. You all right? You want something to eat maybe?}
+{2020}{}{Hey, Cody. You thirsty? Want something to drink?}
+{2030}{}{Where are your parents?}
+{2040}{}{Goodbye.}
+{3000}{}{(The child glares at you sullenly as you approach...you can barely see his face beneath all the dirt. On the remains of
+ his shirt is scribbled "Cody.")}
+{3010}{}{Kootchie kootchie}
+{3020}{}{(Glare back at 'im)}
+{3030}{}{Wander off}
+{4000}{}{(Cody's eyes get wide, and he runs away.)}
+{4010}{}{ME KILL YOU ME KILL YOU ME KILL YOU ME KILL --}
+{5000}{}{(Cody's eyes get wide, and he runs away.)}
+{5010}{}{Maybe next time, then.}
+{5020}{}{Little shit…}
+{6000}{}{(Cody continues to stare at you.)}
+{6010}{}{Uh, you all right, Cody?}
+{6020}{}{Well, see you later, Cody. Take care.}
+{7000}{}{(Cody continues to stare at you.)}
+{7010}{}{Hey, Cody. Want some nuka cola?}
+{7020}{}{Want a brewski, kid? Never too young to start, Mom used to say. Uh, when she was sober, that is.}
+{7030}{}{@sex@|I got some Jet here, Cody. You want to fly high with Uncle @pname@?||I got some Jet here, Cody. You want to fly high with Auntie @pname@?|}
+{7040}{}{Hey, Cody…want some powerful metamphetamines? You could catch and eat your own game. Other children, even.}
+{7050}{}{Uh, well, take care of yourself, Cody.}
+{7060}{}{Sorry kid, looks like I don't have anything to give you.}
+{8000}{}{(Cody continues to stare at you.)}
+{8010}{}{Want a cookie, Cody?}
+{8020}{}{Want some iguana, Cody? Mmmmmm good.}
+{8030}{}{Hey, Cody. Want some delici...er, edible...fruit? Mmmmmm…uh…good.}
+{8040}{}{Sorry kid, looks like I don't have anything to give you.}
+{9000}{}{(Cody grabs the item and runs away.)}
+{9010}{}{::Mutter under your breath about the state of youth today.::}
+{9020}{}{You're welcome, kid…! Don't mention it…!}
+{9030}{}{Sheesh. Little fucker.}
+{10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

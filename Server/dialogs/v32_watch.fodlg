@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {3000}{}{Welcome back, Overseer.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! Please show me your keycard.}
+{2010}{}{I.. eh... I came to the wrong place I guess.}
+{2020}{}{Here you are. [ Show her a Keycard ]}
+{3000}{}{Welcome back, Overseer.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! Please show me your keycard.}
+{2010}{}{I.. eh... I came to the wrong place I guess.}
+{2020}{}{Here you are. [ Show her a Keycard ]}
+{3000}{}{Welcome back, Overseer.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! Please show me your keycard.}
+{2010}{}{I.. eh... I came to the wrong place I guess.}
+{2020}{}{Here you are. [ Show her a Keycard ]}
+{3000}{}{Welcome back, Overseer.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

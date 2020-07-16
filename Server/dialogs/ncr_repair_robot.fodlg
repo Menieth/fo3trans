@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Bzzz...Arf, arf!...Bzzt. Click... Arf!@@Woof. Woof.@@(Pant, pant) Bzzt...Woof. Grrrrrr.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Bzzz...Arf, arf!...Bzzt. Click... Arf!@@Woof. Woof.@@(Pant, pant) Bzzt...Woof. Grrrrrr.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Bzzz...Arf, arf!...Bzzt. Click... Arf!@@Woof. Woof.@@(Pant, pant) Bzzt...Woof. Grrrrrr.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Bzzz...Arf, arf!...Bzzt. Click... Arf!@@Woof. Woof.@@(Pant, pant) Bzzt...Woof. Grrrrrr.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

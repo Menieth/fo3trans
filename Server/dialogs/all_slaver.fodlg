@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {2020}{}{YOU WANT SOME OF THIS? YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{These will fetch a good price at market.@@Try not to damage the merchandise.@@You'll make a spirited slave.}
+{2010}{}{Aw, c'mon fellas. There's no need to-}
+{2020}{}{YOU WANT SOME OF THIS? YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{These will fetch a good price at market.@@Try not to damage the merchandise.@@You'll make a spirited slave.}
+{2010}{}{Aw, c'mon fellas. There's no need to-}
+{2020}{}{YOU WANT SOME OF THIS? YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{These will fetch a good price at market.@@Try not to damage the merchandise.@@You'll make a spirited slave.}
+{2010}{}{Aw, c'mon fellas. There's no need to-}
+{2020}{}{YOU WANT SOME OF THIS? YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

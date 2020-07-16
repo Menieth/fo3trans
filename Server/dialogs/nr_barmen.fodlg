@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -33,6 +33,45 @@ lang=engl czec
 {3020}{}{Poison?! Me no want poison!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{What's yer poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{What kind of drugs do you have?}
+{2030}{}{Nothing today, thanks.}
+{3000}{}{What's yer poison, pal?}
+{3010}{}{Poy-sun sounds good}
+{3020}{}{Poison?! Me no want poison!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{What's yer poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{What kind of drugs do you have?}
+{2030}{}{Nothing today, thanks.}
+{3000}{}{What's yer poison, pal?}
+{3010}{}{Poy-sun sounds good}
+{3020}{}{Poison?! Me no want poison!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{What's yer poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{What kind of drugs do you have?}
+{2030}{}{Nothing today, thanks.}
+{3000}{}{What's yer poison, pal?}
+{3010}{}{Poy-sun sounds good}
+{3020}{}{Poison?! Me no want poison!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}

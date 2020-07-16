@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -95,6 +95,141 @@ lang=engl czec
 {16000}{}{Here you go.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
+{2010}{}{From where do you get all these items?}
+{2020}{}{Do you have any job for me?}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3010}{}{Do you have any job for me?}
+{3020}{}{Wanted to ask you about something else.}
+{3030}{}{Why don't you operate in Redding then?}
+{4000}{}{Well, look here, budy. I am sure that some people around the wastes who can give you some for sure. For example - that damn NCR cooker in Vegas. But you can help me as well. I am looking for electronic parts. Will pay you 10 bucks for every 70 parts you bring here. Does it sound fine?}
+{4010}{}{Alright. I will remember that.}
+{5000}{}{Here are your 5 bucks. Nice to have a business with you.}
+{6000}{}{Hello. How can I assist you?}
+{6010}{}{What is this place?}
+{6020}{}{So... Do you sell something?}
+{6030}{}{Do you have a job for me?}
+{6040}{}{Guess I need to go.}
+{6050}{}{I have electronic parts for you.}
+{7000}{}{Look, this is not for your ears, alright? Get lost.}
+{8000}{}{Explosives, weapons, armors... Pick anything.}
+{8010}{}{Tell me more about explosions you offer.}
+{8020}{}{I wish to discuss something else.}
+{8030}{}{Not interested. Bye.}
+{8040}{}{What about armors?}
+{8050}{}{What about weapons?}
+{9000}{}{For now we can suggest you: Enclave helmet MK2 [ 30 bucks ].}
+{9010}{}{I will go with Enclave helmet MK2.}
+{9020}{}{Not interested. Bye.}
+{10000}{}{For now we can suggest you: Red Ryder BB Gun [ 10 bucks ], Red Ryder BB Gun Special edition [ 20 bucks ], 100 BB ammo [ 10 bucks ].}
+{10010}{}{Red Ryder BB Gun is fine for me.}
+{10020}{}{Red Ryder BB Gun Special edition is my choice.}
+{10030}{}{I will go with 100 BB ammo.}
+{10040}{}{Nevermind.}
+{11000}{}{For now we can suggest you: Alien Blaster.}
+{12000}{}{For now we can suggest you: A tent, Mr. Nixon Doll, Rubber Doll, Dice, Magic 8 ball, Green flare, Yellow falre.}
+{13000}{}{Hehe, we got you... We can suggest you: Fake NCR citizenship, better reputation with Enclave, better reputation with Brotherhood of Steel.}
+{14000}{}{*manipulates with your Pip Boy* Here you go!}
+{15000}{}{We can offer you: A pack of 2 plastic explosives [ 40 bucks ], a set of 4 pieces of dynamite [ 30 bucks ].}
+{15010}{}{I will take 3 plastic explosives.}
+{15020}{}{Dynamite is just for me.}
+{15030}{}{Nah, later maybe.}
+{16000}{}{Here you go.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
+{2010}{}{From where do you get all these items?}
+{2020}{}{Do you have any job for me?}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3010}{}{Do you have any job for me?}
+{3020}{}{Wanted to ask you about something else.}
+{3030}{}{Why don't you operate in Redding then?}
+{4000}{}{Well, look here, budy. I am sure that some people around the wastes who can give you some for sure. For example - that damn NCR cooker in Vegas. But you can help me as well. I am looking for electronic parts. Will pay you 10 bucks for every 70 parts you bring here. Does it sound fine?}
+{4010}{}{Alright. I will remember that.}
+{5000}{}{Here are your 5 bucks. Nice to have a business with you.}
+{6000}{}{Hello. How can I assist you?}
+{6010}{}{What is this place?}
+{6020}{}{So... Do you sell something?}
+{6030}{}{Do you have a job for me?}
+{6040}{}{Guess I need to go.}
+{6050}{}{I have electronic parts for you.}
+{7000}{}{Look, this is not for your ears, alright? Get lost.}
+{8000}{}{Explosives, weapons, armors... Pick anything.}
+{8010}{}{Tell me more about explosions you offer.}
+{8020}{}{I wish to discuss something else.}
+{8030}{}{Not interested. Bye.}
+{8040}{}{What about armors?}
+{8050}{}{What about weapons?}
+{9000}{}{For now we can suggest you: Enclave helmet MK2 [ 30 bucks ].}
+{9010}{}{I will go with Enclave helmet MK2.}
+{9020}{}{Not interested. Bye.}
+{10000}{}{For now we can suggest you: Red Ryder BB Gun [ 10 bucks ], Red Ryder BB Gun Special edition [ 20 bucks ], 100 BB ammo [ 10 bucks ].}
+{10010}{}{Red Ryder BB Gun is fine for me.}
+{10020}{}{Red Ryder BB Gun Special edition is my choice.}
+{10030}{}{I will go with 100 BB ammo.}
+{10040}{}{Nevermind.}
+{11000}{}{For now we can suggest you: Alien Blaster.}
+{12000}{}{For now we can suggest you: A tent, Mr. Nixon Doll, Rubber Doll, Dice, Magic 8 ball, Green flare, Yellow falre.}
+{13000}{}{Hehe, we got you... We can suggest you: Fake NCR citizenship, better reputation with Enclave, better reputation with Brotherhood of Steel.}
+{14000}{}{*manipulates with your Pip Boy* Here you go!}
+{15000}{}{We can offer you: A pack of 2 plastic explosives [ 40 bucks ], a set of 4 pieces of dynamite [ 30 bucks ].}
+{15010}{}{I will take 3 plastic explosives.}
+{15020}{}{Dynamite is just for me.}
+{15030}{}{Nah, later maybe.}
+{16000}{}{Here you go.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
+{2010}{}{From where do you get all these items?}
+{2020}{}{Do you have any job for me?}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3010}{}{Do you have any job for me?}
+{3020}{}{Wanted to ask you about something else.}
+{3030}{}{Why don't you operate in Redding then?}
+{4000}{}{Well, look here, budy. I am sure that some people around the wastes who can give you some for sure. For example - that damn NCR cooker in Vegas. But you can help me as well. I am looking for electronic parts. Will pay you 10 bucks for every 70 parts you bring here. Does it sound fine?}
+{4010}{}{Alright. I will remember that.}
+{5000}{}{Here are your 5 bucks. Nice to have a business with you.}
+{6000}{}{Hello. How can I assist you?}
+{6010}{}{What is this place?}
+{6020}{}{So... Do you sell something?}
+{6030}{}{Do you have a job for me?}
+{6040}{}{Guess I need to go.}
+{6050}{}{I have electronic parts for you.}
+{7000}{}{Look, this is not for your ears, alright? Get lost.}
+{8000}{}{Explosives, weapons, armors... Pick anything.}
+{8010}{}{Tell me more about explosions you offer.}
+{8020}{}{I wish to discuss something else.}
+{8030}{}{Not interested. Bye.}
+{8040}{}{What about armors?}
+{8050}{}{What about weapons?}
+{9000}{}{For now we can suggest you: Enclave helmet MK2 [ 30 bucks ].}
+{9010}{}{I will go with Enclave helmet MK2.}
+{9020}{}{Not interested. Bye.}
+{10000}{}{For now we can suggest you: Red Ryder BB Gun [ 10 bucks ], Red Ryder BB Gun Special edition [ 20 bucks ], 100 BB ammo [ 10 bucks ].}
+{10010}{}{Red Ryder BB Gun is fine for me.}
+{10020}{}{Red Ryder BB Gun Special edition is my choice.}
+{10030}{}{I will go with 100 BB ammo.}
+{10040}{}{Nevermind.}
+{11000}{}{For now we can suggest you: Alien Blaster.}
+{12000}{}{For now we can suggest you: A tent, Mr. Nixon Doll, Rubber Doll, Dice, Magic 8 ball, Green flare, Yellow falre.}
+{13000}{}{Hehe, we got you... We can suggest you: Fake NCR citizenship, better reputation with Enclave, better reputation with Brotherhood of Steel.}
+{14000}{}{*manipulates with your Pip Boy* Here you go!}
+{15000}{}{We can offer you: A pack of 2 plastic explosives [ 40 bucks ], a set of 4 pieces of dynamite [ 30 bucks ].}
+{15010}{}{I will take 3 plastic explosives.}
+{15020}{}{Dynamite is just for me.}
+{15030}{}{Nah, later maybe.}
+{16000}{}{Here you go.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

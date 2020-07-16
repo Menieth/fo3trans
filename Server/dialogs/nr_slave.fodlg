@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

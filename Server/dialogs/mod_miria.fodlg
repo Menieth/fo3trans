@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -95,6 +95,138 @@ lang=engl czec
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{tard}
+{1020}{}{postfucking}
+{1030}{}{normal}
+{2000}{}{What are you looking for?}
+{2010}{}{What do you do around here?}
+{2020}{}{What can you tell me about the slaughterhouse?}
+{2030}{}{Heard any good rumors?}
+{2040}{}{I have to go now.}
+{3000}{}{Leave me alone please.}
+{3010}{}{... [Leave]}
+{3020}{}{Darlin' you know I dun got what you want.}
+{4000}{}{Nothing to tell. My family runs the slaughterhouse. People from all around bring their brahmin here for slaughter. After they are slaughtered and the meat treated, it is sold to traders who in turn sell it to merchants in various towns. All very boring, if you ask me.}
+{4010}{}{Let's talk about something else.}
+{5000}{}{Have you come to the right place! This town is so boring, there’s nothing else to do but gossip and… [She keeps talking for awhile and sometime later you’re able to get a word in.]}
+{5010}{}{...Let's talk about something else.}
+{6000}{}{Who, me? I do odd jobs here and there. Surely nothing worth talking about. [She flutters her eyes at you.]}
+{6010}{}{You're right, enough talk. Let's get it on! You know you want it.}
+{6020}{}{I really would like to know more about you.}
+{6030}{}{Let's change the subject.}
+{7000}{}{I’m really touched. Nobody ever tries to get to know me better. All they want is sex, sex, sex! I get so tired of having wild sex all the time. I’m so glad you’re not like the others.}
+{7010}{}{You slut! I thought you were special for a moment.}
+{7020}{}{You know, I’m just a normal guy like everyone else. Why, my friends say, @pname@ you’re just so cool because you’re normal just like everyone else." Yep, normal that’s me.}
+{7030}{}{Can we talk about something else?}
+{7040}{}{Well, I’ve never known anyone as interesting as you are.}
+{8000}{}{Want what? Just what are you implying?}
+{8010}{}{I'm implying that you should tongue work my dongle gong.}
+{9000}{}{I... What?}
+{9010}{}{Why dunt ya get down dere and be done puttin' yer little lips on my @pname@ junior. He dun be needan a tune up girly!}
+{10000}{}{That better not mean what I think that means.}
+{10010}{}{Aoooga!}
+{11000}{}{That better not mean what I think that means.}
+{11010}{}{DONGLE GONG! DONGLE GONG!}
+{12000}{}{Help, Daddy! Get him away!}
+{13000}{}{How disappointing. You are just like everyone else, aren’t you?}
+{14000}{}{[She blushes] Stop, you’re embarrassing me. You are just the sweetest thing. Why don’t come over here and sit by me.}
+{14010}{}{I think this going too far. Can’t we just talk?}
+{14020}{}{I should go...}
+{15000}{}{I can’t take this anymore! You’re perfect. [She rips off her clothes, your clothes, and then…]}
+{15010}{}{[Your world will never be the same again.]}
+{16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{tard}
+{1020}{}{postfucking}
+{1030}{}{normal}
+{2000}{}{What are you looking for?}
+{2010}{}{What do you do around here?}
+{2020}{}{What can you tell me about the slaughterhouse?}
+{2030}{}{Heard any good rumors?}
+{2040}{}{I have to go now.}
+{3000}{}{Leave me alone please.}
+{3010}{}{... [Leave]}
+{3020}{}{Darlin' you know I dun got what you want.}
+{4000}{}{Nothing to tell. My family runs the slaughterhouse. People from all around bring their brahmin here for slaughter. After they are slaughtered and the meat treated, it is sold to traders who in turn sell it to merchants in various towns. All very boring, if you ask me.}
+{4010}{}{Let's talk about something else.}
+{5000}{}{Have you come to the right place! This town is so boring, there’s nothing else to do but gossip and… [She keeps talking for awhile and sometime later you’re able to get a word in.]}
+{5010}{}{...Let's talk about something else.}
+{6000}{}{Who, me? I do odd jobs here and there. Surely nothing worth talking about. [She flutters her eyes at you.]}
+{6010}{}{You're right, enough talk. Let's get it on! You know you want it.}
+{6020}{}{I really would like to know more about you.}
+{6030}{}{Let's change the subject.}
+{7000}{}{I’m really touched. Nobody ever tries to get to know me better. All they want is sex, sex, sex! I get so tired of having wild sex all the time. I’m so glad you’re not like the others.}
+{7010}{}{You slut! I thought you were special for a moment.}
+{7020}{}{You know, I’m just a normal guy like everyone else. Why, my friends say, @pname@ you’re just so cool because you’re normal just like everyone else." Yep, normal that’s me.}
+{7030}{}{Can we talk about something else?}
+{7040}{}{Well, I’ve never known anyone as interesting as you are.}
+{8000}{}{Want what? Just what are you implying?}
+{8010}{}{I'm implying that you should tongue work my dongle gong.}
+{9000}{}{I... What?}
+{9010}{}{Why dunt ya get down dere and be done puttin' yer little lips on my @pname@ junior. He dun be needan a tune up girly!}
+{10000}{}{That better not mean what I think that means.}
+{10010}{}{Aoooga!}
+{11000}{}{That better not mean what I think that means.}
+{11010}{}{DONGLE GONG! DONGLE GONG!}
+{12000}{}{Help, Daddy! Get him away!}
+{13000}{}{How disappointing. You are just like everyone else, aren’t you?}
+{14000}{}{[She blushes] Stop, you’re embarrassing me. You are just the sweetest thing. Why don’t come over here and sit by me.}
+{14010}{}{I think this going too far. Can’t we just talk?}
+{14020}{}{I should go...}
+{15000}{}{I can’t take this anymore! You’re perfect. [She rips off her clothes, your clothes, and then…]}
+{15010}{}{[Your world will never be the same again.]}
+{16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{tard}
+{1020}{}{postfucking}
+{1030}{}{normal}
+{2000}{}{What are you looking for?}
+{2010}{}{What do you do around here?}
+{2020}{}{What can you tell me about the slaughterhouse?}
+{2030}{}{Heard any good rumors?}
+{2040}{}{I have to go now.}
+{3000}{}{Leave me alone please.}
+{3010}{}{... [Leave]}
+{3020}{}{Darlin' you know I dun got what you want.}
+{4000}{}{Nothing to tell. My family runs the slaughterhouse. People from all around bring their brahmin here for slaughter. After they are slaughtered and the meat treated, it is sold to traders who in turn sell it to merchants in various towns. All very boring, if you ask me.}
+{4010}{}{Let's talk about something else.}
+{5000}{}{Have you come to the right place! This town is so boring, there’s nothing else to do but gossip and… [She keeps talking for awhile and sometime later you’re able to get a word in.]}
+{5010}{}{...Let's talk about something else.}
+{6000}{}{Who, me? I do odd jobs here and there. Surely nothing worth talking about. [She flutters her eyes at you.]}
+{6010}{}{You're right, enough talk. Let's get it on! You know you want it.}
+{6020}{}{I really would like to know more about you.}
+{6030}{}{Let's change the subject.}
+{7000}{}{I’m really touched. Nobody ever tries to get to know me better. All they want is sex, sex, sex! I get so tired of having wild sex all the time. I’m so glad you’re not like the others.}
+{7010}{}{You slut! I thought you were special for a moment.}
+{7020}{}{You know, I’m just a normal guy like everyone else. Why, my friends say, @pname@ you’re just so cool because you’re normal just like everyone else." Yep, normal that’s me.}
+{7030}{}{Can we talk about something else?}
+{7040}{}{Well, I’ve never known anyone as interesting as you are.}
+{8000}{}{Want what? Just what are you implying?}
+{8010}{}{I'm implying that you should tongue work my dongle gong.}
+{9000}{}{I... What?}
+{9010}{}{Why dunt ya get down dere and be done puttin' yer little lips on my @pname@ junior. He dun be needan a tune up girly!}
+{10000}{}{That better not mean what I think that means.}
+{10010}{}{Aoooga!}
+{11000}{}{That better not mean what I think that means.}
+{11010}{}{DONGLE GONG! DONGLE GONG!}
+{12000}{}{Help, Daddy! Get him away!}
+{13000}{}{How disappointing. You are just like everyone else, aren’t you?}
+{14000}{}{[She blushes] Stop, you’re embarrassing me. You are just the sweetest thing. Why don’t come over here and sit by me.}
+{14010}{}{I think this going too far. Can’t we just talk?}
+{14020}{}{I should go...}
+{15000}{}{I can’t take this anymore! You’re perfect. [She rips off her clothes, your clothes, and then…]}
+{15010}{}{[Your world will never be the same again.]}
+{16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}

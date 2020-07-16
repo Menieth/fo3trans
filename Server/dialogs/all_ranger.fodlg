@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{We're looking for slaver patrols. Seen any, stranger?@@Greetings stranger.  Sure hope you're not a slaver - for your own sake.@@Nice meeting you, stranger.  Don't mind us and there won't be any trouble.@@We're the NCR Rangers - we make the world a better place. Just thought you'd like to know.@@We're Rangers. Killing slavers is our business.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{We're looking for slaver patrols. Seen any, stranger?@@Greetings stranger.  Sure hope you're not a slaver - for your own sake.@@Nice meeting you, stranger.  Don't mind us and there won't be any trouble.@@We're the NCR Rangers - we make the world a better place. Just thought you'd like to know.@@We're Rangers. Killing slavers is our business.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{We're looking for slaver patrols. Seen any, stranger?@@Greetings stranger.  Sure hope you're not a slaver - for your own sake.@@Nice meeting you, stranger.  Don't mind us and there won't be any trouble.@@We're the NCR Rangers - we make the world a better place. Just thought you'd like to know.@@We're Rangers. Killing slavers is our business.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{We're looking for slaver patrols. Seen any, stranger?@@Greetings stranger.  Sure hope you're not a slaver - for your own sake.@@Nice meeting you, stranger.  Don't mind us and there won't be any trouble.@@We're the NCR Rangers - we make the world a better place. Just thought you'd like to know.@@We're Rangers. Killing slavers is our business.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

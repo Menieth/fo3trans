@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,39 @@ lang=engl czec
 {3020}{}{[ Exit ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{[ Warning! No power! ]}
+{2010}{}{[ Exit ]}
+{3000}{}{[ Elevator terminal access granted ]}
+{3010}{}{[ Open the elevator ]}
+{3020}{}{[ Exit ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{[ Warning! No power! ]}
+{2010}{}{[ Exit ]}
+{3000}{}{[ Elevator terminal access granted ]}
+{3010}{}{[ Open the elevator ]}
+{3020}{}{[ Exit ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{[ Warning! No power! ]}
+{2010}{}{[ Exit ]}
+{3000}{}{[ Elevator terminal access granted ]}
+{3010}{}{[ Open the elevator ]}
+{3020}{}{[ Exit ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

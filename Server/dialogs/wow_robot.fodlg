@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,39 @@ lang=engl czec
 {3020}{}{Somebody is gonna get dissapointed...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
+{2010}{}{[ Carefully inspect the robot ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ It seems to be totally wrecked off. Its microships seems to be chewed... Probably by rats ]}
+{3010}{}{[ Leave ]}
+{3020}{}{Somebody is gonna get dissapointed...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
+{2010}{}{[ Carefully inspect the robot ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ It seems to be totally wrecked off. Its microships seems to be chewed... Probably by rats ]}
+{3010}{}{[ Leave ]}
+{3020}{}{Somebody is gonna get dissapointed...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
+{2010}{}{[ Carefully inspect the robot ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ It seems to be totally wrecked off. Its microships seems to be chewed... Probably by rats ]}
+{3010}{}{[ Leave ]}
+{3020}{}{Somebody is gonna get dissapointed...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

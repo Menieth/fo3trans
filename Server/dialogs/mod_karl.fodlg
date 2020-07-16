@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -50,6 +50,72 @@ lang=engl czec
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{idiot}
+{1020}{}{normal}
+{2000}{}{Spare some change for (hic) an out-of-work farmer?}
+{2010}{}{Sure thing, fella; how much do you need?}
+{2020}{}{How about I buy you a hot meal?}
+{2030}{}{Sorry, I don’t have anything for you. Bye.}
+{3000}{}{Karl’s mouth drops open in surprise] Thanks! You’re a (hic) very generous person… (hic) }
+{3010}{}{Here. Here's $1000.}
+{3020}{}{Here. Here's $25.}
+{3030}{}{Here. Here's $1.}
+{3040}{}{Sorry, I don’t have any money.}
+{4000}{}{Hey cheapskate! (hic) Come on, I know you gots money… (hic) Just some spare change then… (hic)
+ something, anything! Show some compassion.}
+{5000}{}{Spare some change for (hic) an out-of-work farmer?}
+{5010}{}{Cha-ange?}
+{5020}{}{Jooky.}
+{5030}{}{Me go.}
+{6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{idiot}
+{1020}{}{normal}
+{2000}{}{Spare some change for (hic) an out-of-work farmer?}
+{2010}{}{Sure thing, fella; how much do you need?}
+{2020}{}{How about I buy you a hot meal?}
+{2030}{}{Sorry, I don’t have anything for you. Bye.}
+{3000}{}{Karl’s mouth drops open in surprise] Thanks! You’re a (hic) very generous person… (hic) }
+{3010}{}{Here. Here's $1000.}
+{3020}{}{Here. Here's $25.}
+{3030}{}{Here. Here's $1.}
+{3040}{}{Sorry, I don’t have any money.}
+{4000}{}{Hey cheapskate! (hic) Come on, I know you gots money… (hic) Just some spare change then… (hic)
+ something, anything! Show some compassion.}
+{5000}{}{Spare some change for (hic) an out-of-work farmer?}
+{5010}{}{Cha-ange?}
+{5020}{}{Jooky.}
+{5030}{}{Me go.}
+{6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{idiot}
+{1020}{}{normal}
+{2000}{}{Spare some change for (hic) an out-of-work farmer?}
+{2010}{}{Sure thing, fella; how much do you need?}
+{2020}{}{How about I buy you a hot meal?}
+{2030}{}{Sorry, I don’t have anything for you. Bye.}
+{3000}{}{Karl’s mouth drops open in surprise] Thanks! You’re a (hic) very generous person… (hic) }
+{3010}{}{Here. Here's $1000.}
+{3020}{}{Here. Here's $25.}
+{3030}{}{Here. Here's $1.}
+{3040}{}{Sorry, I don’t have any money.}
+{4000}{}{Hey cheapskate! (hic) Come on, I know you gots money… (hic) Just some spare change then… (hic)
+ something, anything! Show some compassion.}
+{5000}{}{Spare some change for (hic) an out-of-work farmer?}
+{5010}{}{Cha-ange?}
+{5020}{}{Jooky.}
+{5030}{}{Me go.}
+{6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}

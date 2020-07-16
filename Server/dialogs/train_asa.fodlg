@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -26,6 +26,36 @@ lang=engl czec
 {3020}{}{Could you show me how?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Talk with my father if you need something.}
+{2010}{}{So you don't do anything in family business?}
+{3000}{}{Don't do anything? Are you kinding me? I'm teaching how to sneak and shot in one time.}
+{3010}{}{ok then, gonna talk with your dad.}
+{3020}{}{Could you show me how?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Talk with my father if you need something.}
+{2010}{}{So you don't do anything in family business?}
+{3000}{}{Don't do anything? Are you kinding me? I'm teaching how to sneak and shot in one time.}
+{3010}{}{ok then, gonna talk with your dad.}
+{3020}{}{Could you show me how?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Talk with my father if you need something.}
+{2010}{}{So you don't do anything in family business?}
+{3000}{}{Don't do anything? Are you kinding me? I'm teaching how to sneak and shot in one time.}
+{3010}{}{ok then, gonna talk with your dad.}
+{3020}{}{Could you show me how?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}

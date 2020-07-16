@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -55,6 +55,54 @@ lang=engl czec
 {5010}{}{I guess it was a bit gay.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{Sup?}
+{2010}{}{Can I ask you something?}
+{2020}{}{Nothin. Bye.}
+{3000}{}{What?}
+{3010}{}{What's your take on the Khans?}
+{3020}{}{How does it feel to be the leader of the Khans?}
+{3030}{}{Nothin. Bye.}
+{4000}{}{We're the roughest, toughest motherfuckers in the wastes, and we always get what we want.  It's survival of the fittest, and that's us. I'm not gonna lie, what we do aint pretty, but it works.  No one fucks with us, and we fuck with everyone.  Someone got something we want?  We fuckin take it.  We do what we want and we don't take shit from anybody.  Go talk to Miller if you want our fucking life story.}
+{4010}{}{I see, thanks.}
+{5000}{}{What the fuck kind of question is that?!}
+{5010}{}{I guess it was a bit gay.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{Sup?}
+{2010}{}{Can I ask you something?}
+{2020}{}{Nothin. Bye.}
+{3000}{}{What?}
+{3010}{}{What's your take on the Khans?}
+{3020}{}{How does it feel to be the leader of the Khans?}
+{3030}{}{Nothin. Bye.}
+{4000}{}{We're the roughest, toughest motherfuckers in the wastes, and we always get what we want.  It's survival of the fittest, and that's us. I'm not gonna lie, what we do aint pretty, but it works.  No one fucks with us, and we fuck with everyone.  Someone got something we want?  We fuckin take it.  We do what we want and we don't take shit from anybody.  Go talk to Miller if you want our fucking life story.}
+{4010}{}{I see, thanks.}
+{5000}{}{What the fuck kind of question is that?!}
+{5010}{}{I guess it was a bit gay.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{Sup?}
+{2010}{}{Can I ask you something?}
+{2020}{}{Nothin. Bye.}
+{3000}{}{What?}
+{3010}{}{What's your take on the Khans?}
+{3020}{}{How does it feel to be the leader of the Khans?}
+{3030}{}{Nothin. Bye.}
+{4000}{}{We're the roughest, toughest motherfuckers in the wastes, and we always get what we want.  It's survival of the fittest, and that's us. I'm not gonna lie, what we do aint pretty, but it works.  No one fucks with us, and we fuck with everyone.  Someone got something we want?  We fuckin take it.  We do what we want and we don't take shit from anybody.  Go talk to Miller if you want our fucking life story.}
+{4010}{}{I see, thanks.}
+{5000}{}{What the fuck kind of question is that?!}
+{5010}{}{I guess it was a bit gay.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {2020}{}{Me too!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}

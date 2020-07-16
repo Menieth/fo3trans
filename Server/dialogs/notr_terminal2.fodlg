@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {3000}{}{[ Operating... ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... ERROR ]}
+{2010}{}{[ Open doors ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Operating... ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... ERROR ]}
+{2010}{}{[ Open doors ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Operating... ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... ERROR ]}
+{2010}{}{[ Open doors ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Operating... ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

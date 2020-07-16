@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -65,6 +65,93 @@ lang=engl czec
 {7000}{}{Get out of here, you moron.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{1030}{}{Dumb}
+{2000}{}{Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault City. I can usually use an extra guard or two. We leave town on the 1st of every month. If you want to sign on, make sure you're here then.}
+{2010}{}{You need a guard, huh?}
+{2020}{}{What does this caravan transport?}
+{2030}{}{Why are you waiting until the 1st?}
+{2040}{}{I don't think that's for me. Goodbye.}
+{3000}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
+{3010}{}{When on the 1st?}
+{3020}{}{What does this caravan transport?}
+{3030}{}{Okay, thanks. Goodbye.}
+{4000}{}{It takes a couple weeks to get all the ore together. Then we can go. Just keep checking back with me.}
+{4010}{}{What does this caravan transport?}
+{4020}{}{Alright, bye.}
+{5000}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for gold ore.}
+{5010}{}{That's interesting. You said you're looking for guards?}
+{5020}{}{Let me ask you something else.}
+{5030}{}{Oh, okay. Goodbye.}
+{6000}{}{What do you want now?}
+{6010}{}{You need a guard, huh?}
+{6020}{}{What does this caravan transport?}
+{6030}{}{When on the 1st?}
+{6040}{}{Oh, okay. Goodbye.}
+{7000}{}{Get out of here, you moron.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{1030}{}{Dumb}
+{2000}{}{Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault City. I can usually use an extra guard or two. We leave town on the 1st of every month. If you want to sign on, make sure you're here then.}
+{2010}{}{You need a guard, huh?}
+{2020}{}{What does this caravan transport?}
+{2030}{}{Why are you waiting until the 1st?}
+{2040}{}{I don't think that's for me. Goodbye.}
+{3000}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
+{3010}{}{When on the 1st?}
+{3020}{}{What does this caravan transport?}
+{3030}{}{Okay, thanks. Goodbye.}
+{4000}{}{It takes a couple weeks to get all the ore together. Then we can go. Just keep checking back with me.}
+{4010}{}{What does this caravan transport?}
+{4020}{}{Alright, bye.}
+{5000}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for gold ore.}
+{5010}{}{That's interesting. You said you're looking for guards?}
+{5020}{}{Let me ask you something else.}
+{5030}{}{Oh, okay. Goodbye.}
+{6000}{}{What do you want now?}
+{6010}{}{You need a guard, huh?}
+{6020}{}{What does this caravan transport?}
+{6030}{}{When on the 1st?}
+{6040}{}{Oh, okay. Goodbye.}
+{7000}{}{Get out of here, you moron.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{1030}{}{Dumb}
+{2000}{}{Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault City. I can usually use an extra guard or two. We leave town on the 1st of every month. If you want to sign on, make sure you're here then.}
+{2010}{}{You need a guard, huh?}
+{2020}{}{What does this caravan transport?}
+{2030}{}{Why are you waiting until the 1st?}
+{2040}{}{I don't think that's for me. Goodbye.}
+{3000}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
+{3010}{}{When on the 1st?}
+{3020}{}{What does this caravan transport?}
+{3030}{}{Okay, thanks. Goodbye.}
+{4000}{}{It takes a couple weeks to get all the ore together. Then we can go. Just keep checking back with me.}
+{4010}{}{What does this caravan transport?}
+{4020}{}{Alright, bye.}
+{5000}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for gold ore.}
+{5010}{}{That's interesting. You said you're looking for guards?}
+{5020}{}{Let me ask you something else.}
+{5030}{}{Oh, okay. Goodbye.}
+{6000}{}{What do you want now?}
+{6010}{}{You need a guard, huh?}
+{6020}{}{What does this caravan transport?}
+{6030}{}{When on the 1st?}
+{6040}{}{Oh, okay. Goodbye.}
+{7000}{}{Get out of here, you moron.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}

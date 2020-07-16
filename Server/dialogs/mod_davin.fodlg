@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -73,6 +73,105 @@ lang=engl czec
 {10060}{}{I have to go now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{fucked}
+{2000}{}{Hi! My name’s Davin; I help my father run the slaughterhouse in Modoc.}
+{2010}{}{What do you do at the slaughterhouse?}
+{2020}{}{I hear rumors about you and the brahmin.}
+{2030}{}{Tell me about your dad.}
+{2040}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{2050}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{2060}{}{I have to go now.}
+{3000}{}{I knew you’d come back to me.@@Hey, sweetie.@@Nice seeing you again.@@::Blows a kiss::}
+{4000}{}{Well, I uh… I mean, I… I supervise and take care of stuff. I’m the owner’s son after all. I’m going to inherit this place when my dad kicks off.}
+{4010}{}{Let's talk about something else.}
+{5000}{}{It’s a lie. I only go out to the barn at night to a… make sure everything is locked up. You know, with all the wild animals around and all.}
+{5010}{}{Sure thing...}
+{6000}{}{Dad runs the slaughterhouse. He’s OK as far as fathers go. A word of advice if you do any business with him. There’s usually more to his business deals than he lets on.}
+{6010}{}{I'll keep that in mind.}
+{7000}{}{Wow, I never thought such a beautiful woman would try to seduce me. What! You’re not a woman! Don’t worry, you’re so pretty, I won’t say anything if you won’t.}
+{7010}{}{Stop talking; you’re gonna ruin it for the both of us. Just sit back and enjoy.}
+{8000}{}{I have to be dreaming. I don’t believe such a beautiful woman is trying to seduce me. You are trying to seduce me, right?}
+{8010}{}{Stop talking; you’re gonna ruin it for the both of us. Just sit back and enjoy.}
+{9000}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes… then… Use your imagination]}
+{9010}{}{[Two hours later: The earth moved, and this bed will never be the same.]}
+{10000}{}{How can I help you?}
+{10010}{}{What do you do at the slaughterhouse?}
+{10020}{}{I hear rumors about you and the brahmin.}
+{10030}{}{Tell me about your dad.}
+{10040}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{10050}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{10060}{}{I have to go now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{fucked}
+{2000}{}{Hi! My name’s Davin; I help my father run the slaughterhouse in Modoc.}
+{2010}{}{What do you do at the slaughterhouse?}
+{2020}{}{I hear rumors about you and the brahmin.}
+{2030}{}{Tell me about your dad.}
+{2040}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{2050}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{2060}{}{I have to go now.}
+{3000}{}{I knew you’d come back to me.@@Hey, sweetie.@@Nice seeing you again.@@::Blows a kiss::}
+{4000}{}{Well, I uh… I mean, I… I supervise and take care of stuff. I’m the owner’s son after all. I’m going to inherit this place when my dad kicks off.}
+{4010}{}{Let's talk about something else.}
+{5000}{}{It’s a lie. I only go out to the barn at night to a… make sure everything is locked up. You know, with all the wild animals around and all.}
+{5010}{}{Sure thing...}
+{6000}{}{Dad runs the slaughterhouse. He’s OK as far as fathers go. A word of advice if you do any business with him. There’s usually more to his business deals than he lets on.}
+{6010}{}{I'll keep that in mind.}
+{7000}{}{Wow, I never thought such a beautiful woman would try to seduce me. What! You’re not a woman! Don’t worry, you’re so pretty, I won’t say anything if you won’t.}
+{7010}{}{Stop talking; you’re gonna ruin it for the both of us. Just sit back and enjoy.}
+{8000}{}{I have to be dreaming. I don’t believe such a beautiful woman is trying to seduce me. You are trying to seduce me, right?}
+{8010}{}{Stop talking; you’re gonna ruin it for the both of us. Just sit back and enjoy.}
+{9000}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes… then… Use your imagination]}
+{9010}{}{[Two hours later: The earth moved, and this bed will never be the same.]}
+{10000}{}{How can I help you?}
+{10010}{}{What do you do at the slaughterhouse?}
+{10020}{}{I hear rumors about you and the brahmin.}
+{10030}{}{Tell me about your dad.}
+{10040}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{10050}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{10060}{}{I have to go now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{fucked}
+{2000}{}{Hi! My name’s Davin; I help my father run the slaughterhouse in Modoc.}
+{2010}{}{What do you do at the slaughterhouse?}
+{2020}{}{I hear rumors about you and the brahmin.}
+{2030}{}{Tell me about your dad.}
+{2040}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{2050}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{2060}{}{I have to go now.}
+{3000}{}{I knew you’d come back to me.@@Hey, sweetie.@@Nice seeing you again.@@::Blows a kiss::}
+{4000}{}{Well, I uh… I mean, I… I supervise and take care of stuff. I’m the owner’s son after all. I’m going to inherit this place when my dad kicks off.}
+{4010}{}{Let's talk about something else.}
+{5000}{}{It’s a lie. I only go out to the barn at night to a… make sure everything is locked up. You know, with all the wild animals around and all.}
+{5010}{}{Sure thing...}
+{6000}{}{Dad runs the slaughterhouse. He’s OK as far as fathers go. A word of advice if you do any business with him. There’s usually more to his business deals than he lets on.}
+{6010}{}{I'll keep that in mind.}
+{7000}{}{Wow, I never thought such a beautiful woman would try to seduce me. What! You’re not a woman! Don’t worry, you’re so pretty, I won’t say anything if you won’t.}
+{7010}{}{Stop talking; you’re gonna ruin it for the both of us. Just sit back and enjoy.}
+{8000}{}{I have to be dreaming. I don’t believe such a beautiful woman is trying to seduce me. You are trying to seduce me, right?}
+{8010}{}{Stop talking; you’re gonna ruin it for the both of us. Just sit back and enjoy.}
+{9000}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes… then… Use your imagination]}
+{9010}{}{[Two hours later: The earth moved, and this bed will never be the same.]}
+{10000}{}{How can I help you?}
+{10010}{}{What do you do at the slaughterhouse?}
+{10020}{}{I hear rumors about you and the brahmin.}
+{10030}{}{Tell me about your dad.}
+{10040}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{10050}{}{To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with words. Let our actions speak for themselves.}
+{10060}{}{I have to go now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}

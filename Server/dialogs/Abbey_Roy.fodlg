@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,36 @@ lang=engl czec
 {3010}{}{[ Leave ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Brotherhood outpost Delta terminal. ]}
+{2010}{}{[ Note ??? ]}
+{2020}{}{[ Leave ]}
+{3000}{}{It is coming for me... It will do the same with me as it did with others. Oh no... Oh no, no, no. I need to hide. I can already hear it... I know, I know... I will take this damn robot and lock myself in one of the cells in that strange building near the central one. Somebody... Please help me...}
+{3010}{}{[ Leave ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Brotherhood outpost Delta terminal. ]}
+{2010}{}{[ Note ??? ]}
+{2020}{}{[ Leave ]}
+{3000}{}{It is coming for me... It will do the same with me as it did with others. Oh no... Oh no, no, no. I need to hide. I can already hear it... I know, I know... I will take this damn robot and lock myself in one of the cells in that strange building near the central one. Somebody... Please help me...}
+{3010}{}{[ Leave ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Brotherhood outpost Delta terminal. ]}
+{2010}{}{[ Note ??? ]}
+{2020}{}{[ Leave ]}
+{3000}{}{It is coming for me... It will do the same with me as it did with others. Oh no... Oh no, no, no. I need to hide. I can already hear it... I know, I know... I will take this damn robot and lock myself in one of the cells in that strange building near the central one. Somebody... Please help me...}
+{3010}{}{[ Leave ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

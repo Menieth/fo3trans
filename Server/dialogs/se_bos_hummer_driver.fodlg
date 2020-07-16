@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -63,6 +63,90 @@ lang=engl czec
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Not involved}
+{1020}{}{Finished}
+{1030}{}{Back with parts}
+{1040}{}{Default}
+{2000}{}{Halt. Who sent you?}
+{2010}{}{The Brotherhood. I'm here to help you fix the hummer.}
+{2020}{}{The Brotherhood. But please tell me 'Paladin Driver' is your title, and not your name.}
+{3000}{}{Excellent. The hummer is in dire need of repairs, but we cannot make it to Gordon's without temporary parts. Go see him, and return with the parts. }
+{3010}{}{Your oxygen pack hoses would actually fit that broken hose. They are both designed to carry about the same amount of pressure, and seem to be constructed similarly.}
+{3020}{}{What if you used the hoses from one of your oxygen packs? They're about the same size and seem to be of similar quality.}
+{3030}{}{I will.}
+{4000}{}{I did not think of that. [He detaches a hose, and connects it from the radiator to the engine.] }
+{4010}{}{...}
+{5000}{}{[After a few minutes of moving things around in the engine, he turns back to you with a satisfied look on his face.] Thank you. We can now finish our trip. You've done well.}
+{5010}{}{Godspeed, brothers.}
+{6000}{}{Have you brought back the parts?}
+{6010}{}{Yes, they're right here.}
+{6020}{}{No, I'm on my way to Gordon's now.}
+{7000}{}{Well done. We will do the necessary replacements, and should be on the move soon. You can return now.}
+{7010}{}{Godspeed, brothers.}
+{8000}{}{Here we go again. That was some 'hilarious' joke up at the base. 'Oh we'll send Paladin Driver to drive the hummer. It'll be the funniest thing in the entire fucking world.' What a bunch of assholes. [His face returns to a more serious look.] You, however, are under direct order not to repeat any of this.}
+{8010}{}{Absolutely, sir. I am here to help you repair the hummer.}
+{9000}{}{Thanks again, you've really helped us out.}
+{10000}{}{I don't mind you being here, just stay out of our way.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Not involved}
+{1020}{}{Finished}
+{1030}{}{Back with parts}
+{1040}{}{Default}
+{2000}{}{Halt. Who sent you?}
+{2010}{}{The Brotherhood. I'm here to help you fix the hummer.}
+{2020}{}{The Brotherhood. But please tell me 'Paladin Driver' is your title, and not your name.}
+{3000}{}{Excellent. The hummer is in dire need of repairs, but we cannot make it to Gordon's without temporary parts. Go see him, and return with the parts. }
+{3010}{}{Your oxygen pack hoses would actually fit that broken hose. They are both designed to carry about the same amount of pressure, and seem to be constructed similarly.}
+{3020}{}{What if you used the hoses from one of your oxygen packs? They're about the same size and seem to be of similar quality.}
+{3030}{}{I will.}
+{4000}{}{I did not think of that. [He detaches a hose, and connects it from the radiator to the engine.] }
+{4010}{}{...}
+{5000}{}{[After a few minutes of moving things around in the engine, he turns back to you with a satisfied look on his face.] Thank you. We can now finish our trip. You've done well.}
+{5010}{}{Godspeed, brothers.}
+{6000}{}{Have you brought back the parts?}
+{6010}{}{Yes, they're right here.}
+{6020}{}{No, I'm on my way to Gordon's now.}
+{7000}{}{Well done. We will do the necessary replacements, and should be on the move soon. You can return now.}
+{7010}{}{Godspeed, brothers.}
+{8000}{}{Here we go again. That was some 'hilarious' joke up at the base. 'Oh we'll send Paladin Driver to drive the hummer. It'll be the funniest thing in the entire fucking world.' What a bunch of assholes. [His face returns to a more serious look.] You, however, are under direct order not to repeat any of this.}
+{8010}{}{Absolutely, sir. I am here to help you repair the hummer.}
+{9000}{}{Thanks again, you've really helped us out.}
+{10000}{}{I don't mind you being here, just stay out of our way.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Not involved}
+{1020}{}{Finished}
+{1030}{}{Back with parts}
+{1040}{}{Default}
+{2000}{}{Halt. Who sent you?}
+{2010}{}{The Brotherhood. I'm here to help you fix the hummer.}
+{2020}{}{The Brotherhood. But please tell me 'Paladin Driver' is your title, and not your name.}
+{3000}{}{Excellent. The hummer is in dire need of repairs, but we cannot make it to Gordon's without temporary parts. Go see him, and return with the parts. }
+{3010}{}{Your oxygen pack hoses would actually fit that broken hose. They are both designed to carry about the same amount of pressure, and seem to be constructed similarly.}
+{3020}{}{What if you used the hoses from one of your oxygen packs? They're about the same size and seem to be of similar quality.}
+{3030}{}{I will.}
+{4000}{}{I did not think of that. [He detaches a hose, and connects it from the radiator to the engine.] }
+{4010}{}{...}
+{5000}{}{[After a few minutes of moving things around in the engine, he turns back to you with a satisfied look on his face.] Thank you. We can now finish our trip. You've done well.}
+{5010}{}{Godspeed, brothers.}
+{6000}{}{Have you brought back the parts?}
+{6010}{}{Yes, they're right here.}
+{6020}{}{No, I'm on my way to Gordon's now.}
+{7000}{}{Well done. We will do the necessary replacements, and should be on the move soon. You can return now.}
+{7010}{}{Godspeed, brothers.}
+{8000}{}{Here we go again. That was some 'hilarious' joke up at the base. 'Oh we'll send Paladin Driver to drive the hummer. It'll be the funniest thing in the entire fucking world.' What a bunch of assholes. [His face returns to a more serious look.] You, however, are under direct order not to repeat any of this.}
+{8010}{}{Absolutely, sir. I am here to help you repair the hummer.}
+{9000}{}{Thanks again, you've really helped us out.}
+{10000}{}{I don't mind you being here, just stay out of our way.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -45,6 +45,63 @@ lang=engl czec
 {7020}{}{@lex molerat2@ caps for a lovely molerat.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}
+{2010}{}{I want a molerat.}
+{2020}{}{What a shame, jesus. Goodbye.}
+{3000}{}{There you go. Remember to feed him at least twice a day and do not keep it in your cave.}
+{3010}{}{Thanks, I'll ride it with style!}
+{4000}{}{Error. Report this to admins.}
+{4010}{}{Hey, I love the smell of napalm in the morning.}
+{5000}{}{This isn't a charity, these rats aren't free. No money, no rats.}
+{5010}{}{Okay, I'll better find a free rat in the desert.}
+{6000}{}{I don't think these rats would listen to someone like you.}
+{6010}{}{Your loss.}
+{7000}{}{How much are you willing to pay?}
+{7010}{}{@lex molerat1@ caps for a small rat.}
+{7020}{}{@lex molerat2@ caps for a lovely molerat.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}
+{2010}{}{I want a molerat.}
+{2020}{}{What a shame, jesus. Goodbye.}
+{3000}{}{There you go. Remember to feed him at least twice a day and do not keep it in your cave.}
+{3010}{}{Thanks, I'll ride it with style!}
+{4000}{}{Error. Report this to admins.}
+{4010}{}{Hey, I love the smell of napalm in the morning.}
+{5000}{}{This isn't a charity, these rats aren't free. No money, no rats.}
+{5010}{}{Okay, I'll better find a free rat in the desert.}
+{6000}{}{I don't think these rats would listen to someone like you.}
+{6010}{}{Your loss.}
+{7000}{}{How much are you willing to pay?}
+{7010}{}{@lex molerat1@ caps for a small rat.}
+{7020}{}{@lex molerat2@ caps for a lovely molerat.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}
+{2010}{}{I want a molerat.}
+{2020}{}{What a shame, jesus. Goodbye.}
+{3000}{}{There you go. Remember to feed him at least twice a day and do not keep it in your cave.}
+{3010}{}{Thanks, I'll ride it with style!}
+{4000}{}{Error. Report this to admins.}
+{4010}{}{Hey, I love the smell of napalm in the morning.}
+{5000}{}{This isn't a charity, these rats aren't free. No money, no rats.}
+{5010}{}{Okay, I'll better find a free rat in the desert.}
+{6000}{}{I don't think these rats would listen to someone like you.}
+{6010}{}{Your loss.}
+{7000}{}{How much are you willing to pay?}
+{7010}{}{@lex molerat1@ caps for a small rat.}
+{7020}{}{@lex molerat2@ caps for a lovely molerat.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}

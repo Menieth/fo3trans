@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -60,6 +60,105 @@ status: Laboratory 5 under local quarantine lockdown.}
 {7000}{}{Unauthorized access.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Talchem laboratories 5,6 control - emergency control
+!!!warning radiation alert!!!
+!!!warning biological alert!!!
+!!!warning entire level  quarantine lockdown!!!
+}
+{2010}{}{access laboratory 5 door control}
+{2020}{}{access laboratory 5 door control}
+{2030}{}{exit}
+{3000}{}{Laboratory 5
+status: !!!warning radiation alert!!!
+           !!!warning biological alert!!!}
+{3010}{}{open Laboratory 5 access door}
+{3020}{}{exit}
+{4000}{}{Laboratory 5
+status: !!!warning radiation alert!!!
+           !!!warning biological alert!!!
+           !!!warning local quarantine lockdown!!!}
+{4010}{}{open Laboratory 5 access door}
+{4020}{}{Attempt to hack into Laboratory 5 security control}
+{4030}{}{Attempt to hack into Laboratory 5 security control}
+{4040}{}{exit}
+{5000}{}{Laboratory 5 under local quarantine lockdown.
+Access Denied}
+{5010}{}{back}
+{6000}{}{Laboratory 5 security control
+status: Laboratory 5 under local quarantine lockdown.}
+{6010}{}{Deactivate Laboratory 5 quarantine}
+{7000}{}{Unauthorized access.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Talchem laboratories 5,6 control - emergency control
+!!!warning radiation alert!!!
+!!!warning biological alert!!!
+!!!warning entire level  quarantine lockdown!!!
+}
+{2010}{}{access laboratory 5 door control}
+{2020}{}{access laboratory 5 door control}
+{2030}{}{exit}
+{3000}{}{Laboratory 5
+status: !!!warning radiation alert!!!
+           !!!warning biological alert!!!}
+{3010}{}{open Laboratory 5 access door}
+{3020}{}{exit}
+{4000}{}{Laboratory 5
+status: !!!warning radiation alert!!!
+           !!!warning biological alert!!!
+           !!!warning local quarantine lockdown!!!}
+{4010}{}{open Laboratory 5 access door}
+{4020}{}{Attempt to hack into Laboratory 5 security control}
+{4030}{}{Attempt to hack into Laboratory 5 security control}
+{4040}{}{exit}
+{5000}{}{Laboratory 5 under local quarantine lockdown.
+Access Denied}
+{5010}{}{back}
+{6000}{}{Laboratory 5 security control
+status: Laboratory 5 under local quarantine lockdown.}
+{6010}{}{Deactivate Laboratory 5 quarantine}
+{7000}{}{Unauthorized access.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Talchem laboratories 5,6 control - emergency control
+!!!warning radiation alert!!!
+!!!warning biological alert!!!
+!!!warning entire level  quarantine lockdown!!!
+}
+{2010}{}{access laboratory 5 door control}
+{2020}{}{access laboratory 5 door control}
+{2030}{}{exit}
+{3000}{}{Laboratory 5
+status: !!!warning radiation alert!!!
+           !!!warning biological alert!!!}
+{3010}{}{open Laboratory 5 access door}
+{3020}{}{exit}
+{4000}{}{Laboratory 5
+status: !!!warning radiation alert!!!
+           !!!warning biological alert!!!
+           !!!warning local quarantine lockdown!!!}
+{4010}{}{open Laboratory 5 access door}
+{4020}{}{Attempt to hack into Laboratory 5 security control}
+{4030}{}{Attempt to hack into Laboratory 5 security control}
+{4040}{}{exit}
+{5000}{}{Laboratory 5 under local quarantine lockdown.
+Access Denied}
+{5010}{}{back}
+{6000}{}{Laboratory 5 security control
+status: Laboratory 5 under local quarantine lockdown.}
+{6010}{}{Deactivate Laboratory 5 quarantine}
+{7000}{}{Unauthorized access.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Time to die, mutie!@@Kill all mutants!@@The order was clean - sterilization of the earth surface from mutants.@@It's nothing personal - you just don't have right to life.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Time to die, mutie!@@Kill all mutants!@@The order was clean - sterilization of the earth surface from mutants.@@It's nothing personal - you just don't have right to life.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Time to die, mutie!@@Kill all mutants!@@The order was clean - sterilization of the earth surface from mutants.@@It's nothing personal - you just don't have right to life.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Time to die, mutie!@@Kill all mutants!@@The order was clean - sterilization of the earth surface from mutants.@@It's nothing personal - you just don't have right to life.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

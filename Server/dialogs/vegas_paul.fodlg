@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {3020}{}{No, I got everything I was looking for.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{(Upon entering the shop, you see the owner who is distracted as he tinkers with some spare parts. He wears a baseball cap, T-shirt, and faded jeans. From his face, he seems to be of Hispanic descent. Odd, considering how stereo-typically American he dresses...)}
+{2010}{}{Khm...}
+{3000}{}{Hey, amigo! After searching around, I found a solid set of armor. You should really check it out.}
+{3010}{}{Let me look at your stuff.}
+{3020}{}{No, I got everything I was looking for.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{(Upon entering the shop, you see the owner who is distracted as he tinkers with some spare parts. He wears a baseball cap, T-shirt, and faded jeans. From his face, he seems to be of Hispanic descent. Odd, considering how stereo-typically American he dresses...)}
+{2010}{}{Khm...}
+{3000}{}{Hey, amigo! After searching around, I found a solid set of armor. You should really check it out.}
+{3010}{}{Let me look at your stuff.}
+{3020}{}{No, I got everything I was looking for.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{(Upon entering the shop, you see the owner who is distracted as he tinkers with some spare parts. He wears a baseball cap, T-shirt, and faded jeans. From his face, he seems to be of Hispanic descent. Odd, considering how stereo-typically American he dresses...)}
+{2010}{}{Khm...}
+{3000}{}{Hey, amigo! After searching around, I found a solid set of armor. You should really check it out.}
+{3010}{}{Let me look at your stuff.}
+{3020}{}{No, I got everything I was looking for.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

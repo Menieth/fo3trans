@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -41,6 +41,60 @@ lang=engl czec
 {5030}{}{You are so paranoid...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey... wha... What are you doing here?}
+{2010}{}{Who are you?}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{God damn it... freaking wastelanders... Always getting their noses in every fucking dark corner. Listen, keep your valume down, ok? I am from NCR... just, just leave this place...}
+{3010}{}{[ speak louder ] Oh yeah? Why?}
+{3020}{}{Ok, I am leaving.}
+{4000}{}{What a hell?! Just... just shut up! Leave, now! There are Enclave snipers lurking among the trees.}
+{4010}{}{[ speak even louder ] Sorry, darling. I don't hear you.}
+{4020}{}{Fine, I am leaving.}
+{5000}{}{You better... Wait... Did you hear that?}
+{5010}{}{Hear what?}
+{5020}{}{Wha...?}
+{5030}{}{You are so paranoid...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey... wha... What are you doing here?}
+{2010}{}{Who are you?}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{God damn it... freaking wastelanders... Always getting their noses in every fucking dark corner. Listen, keep your valume down, ok? I am from NCR... just, just leave this place...}
+{3010}{}{[ speak louder ] Oh yeah? Why?}
+{3020}{}{Ok, I am leaving.}
+{4000}{}{What a hell?! Just... just shut up! Leave, now! There are Enclave snipers lurking among the trees.}
+{4010}{}{[ speak even louder ] Sorry, darling. I don't hear you.}
+{4020}{}{Fine, I am leaving.}
+{5000}{}{You better... Wait... Did you hear that?}
+{5010}{}{Hear what?}
+{5020}{}{Wha...?}
+{5030}{}{You are so paranoid...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey... wha... What are you doing here?}
+{2010}{}{Who are you?}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{God damn it... freaking wastelanders... Always getting their noses in every fucking dark corner. Listen, keep your valume down, ok? I am from NCR... just, just leave this place...}
+{3010}{}{[ speak louder ] Oh yeah? Why?}
+{3020}{}{Ok, I am leaving.}
+{4000}{}{What a hell?! Just... just shut up! Leave, now! There are Enclave snipers lurking among the trees.}
+{4010}{}{[ speak even louder ] Sorry, darling. I don't hear you.}
+{4020}{}{Fine, I am leaving.}
+{5000}{}{You better... Wait... Did you hear that?}
+{5010}{}{Hear what?}
+{5020}{}{Wha...?}
+{5030}{}{You are so paranoid...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

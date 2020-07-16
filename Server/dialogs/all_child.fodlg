@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {4000}{}{An eyeless monster wants to eat my eyes!@@Help! Help! It's Michael! Run!@@:: cry ::@@:: scream ::}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{night}
+{1030}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Spare change?@@What?@@I'm not doin' anythin'!@@Look, you can see the stars on the sky!@@I like the night!@@Mom' says, I need to sleep, but I don't want to!}
+{4000}{}{An eyeless monster wants to eat my eyes!@@Help! Help! It's Michael! Run!@@:: cry ::@@:: scream ::}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{night}
+{1030}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Spare change?@@What?@@I'm not doin' anythin'!@@Look, you can see the stars on the sky!@@I like the night!@@Mom' says, I need to sleep, but I don't want to!}
+{4000}{}{An eyeless monster wants to eat my eyes!@@Help! Help! It's Michael! Run!@@:: cry ::@@:: scream ::}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{night}
+{1030}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Spare change?@@What?@@I'm not doin' anythin'!@@Look, you can see the stars on the sky!@@I like the night!@@Mom' says, I need to sleep, but I don't want to!}
+{4000}{}{An eyeless monster wants to eat my eyes!@@Help! Help! It's Michael! Run!@@:: cry ::@@:: scream ::}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{scary helmet}

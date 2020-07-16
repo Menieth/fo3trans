@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Eh?@@I am busy, now.@@Don't disturb me.@@Where is this can?...@@Who are you?@@Stop messing around me.@@What a hot day.@@Damn tools are missing again.@@Cars are constantly breaking.@@Hey there.@@Anything you want to tell me?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eh?@@I am busy, now.@@Don't disturb me.@@Where is this can?...@@Who are you?@@Stop messing around me.@@What a hot day.@@Damn tools are missing again.@@Cars are constantly breaking.@@Hey there.@@Anything you want to tell me?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eh?@@I am busy, now.@@Don't disturb me.@@Where is this can?...@@Who are you?@@Stop messing around me.@@What a hot day.@@Damn tools are missing again.@@Cars are constantly breaking.@@Hey there.@@Anything you want to tell me?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eh?@@I am busy, now.@@Don't disturb me.@@Where is this can?...@@Who are you?@@Stop messing around me.@@What a hot day.@@Damn tools are missing again.@@Cars are constantly breaking.@@Hey there.@@Anything you want to tell me?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

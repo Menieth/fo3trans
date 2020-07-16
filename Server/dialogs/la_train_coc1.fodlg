@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -22,6 +22,30 @@ lang=engl czec
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{dark outside}
+{1020}{}{normal}
+{2000}{}{Hello, fellow traveler!@@We are safe here, this is a good place.@@Good day to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
+{3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{dark outside}
+{1020}{}{normal}
+{2000}{}{Hello, fellow traveler!@@We are safe here, this is a good place.@@Good day to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
+{3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{dark outside}
+{1020}{}{normal}
+{2000}{}{Hello, fellow traveler!@@We are safe here, this is a good place.@@Good day to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
+{3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}

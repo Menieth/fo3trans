@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {100000001}{}{You will not do anything to my plants!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{You will NOT move a finger on my plants!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{You will NOT move a finger on my plants!}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{You will NOT move a finger on my plants!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

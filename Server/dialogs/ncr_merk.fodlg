@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -28,6 +28,36 @@ lang=engl czec
 {3000}{}{Shit, what's that smell? Something just walked into the room.@@Go fetch me another whiskey - quick now.@@Got no time right now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Idiot}
+{2000}{}{Keep it polite, punk, or this could get ugly.}
+{2010}{}{I'm looking to do business with you, uh, sir.}
+{2020}{}{Nothing, gotta go.}
+{3000}{}{Shit, what's that smell? Something just walked into the room.@@Go fetch me another whiskey - quick now.@@Got no time right now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Idiot}
+{2000}{}{Keep it polite, punk, or this could get ugly.}
+{2010}{}{I'm looking to do business with you, uh, sir.}
+{2020}{}{Nothing, gotta go.}
+{3000}{}{Shit, what's that smell? Something just walked into the room.@@Go fetch me another whiskey - quick now.@@Got no time right now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Idiot}
+{2000}{}{Keep it polite, punk, or this could get ugly.}
+{2010}{}{I'm looking to do business with you, uh, sir.}
+{2020}{}{Nothing, gotta go.}
+{3000}{}{Shit, what's that smell? Something just walked into the room.@@Go fetch me another whiskey - quick now.@@Got no time right now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -58,6 +58,81 @@ lang=engl czec
 {9000}{}{You're a poop brain! Poop brain!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{1030}{}{Idiot}
+{2000}{}{My dad's Vice-President Carlson, so you better treat me nice! Who are you?}
+{2010}{}{@pname@.}
+{2020}{}{I'm one of your dad's guards.}
+{2030}{}{Where's your dad?}
+{2040}{}{See this knife? I've gutted little kids nicer than you.}
+{2050}{}{Sorry kid, I'm busy.}
+{3000}{}{@pname@? That's a crappy name. You got a stupid name! Stupid name!}
+{4000}{}{Then you got to be extra nice to me or I'll tell my dad.}
+{4010}{}{Where's your dad?}
+{4020}{}{Okay, bye kid.}
+{5000}{}{He's inside. In his office. He's always in there.}
+{5010}{}{Where's his office?}
+{5020}{}{Okay. Thanks.}
+{6000}{}{By the water tank. I play over there sometimes.  I peek on him while he's working.}
+{6010}{}{Thanks kid, you've been a big help.}
+{7000}{}{You're not nice, you're mean! I'm going to go tell my daddy!}
+{8000}{}{I'm not supposed to talk to you anymore.}
+{9000}{}{You're a poop brain! Poop brain!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{1030}{}{Idiot}
+{2000}{}{My dad's Vice-President Carlson, so you better treat me nice! Who are you?}
+{2010}{}{@pname@.}
+{2020}{}{I'm one of your dad's guards.}
+{2030}{}{Where's your dad?}
+{2040}{}{See this knife? I've gutted little kids nicer than you.}
+{2050}{}{Sorry kid, I'm busy.}
+{3000}{}{@pname@? That's a crappy name. You got a stupid name! Stupid name!}
+{4000}{}{Then you got to be extra nice to me or I'll tell my dad.}
+{4010}{}{Where's your dad?}
+{4020}{}{Okay, bye kid.}
+{5000}{}{He's inside. In his office. He's always in there.}
+{5010}{}{Where's his office?}
+{5020}{}{Okay. Thanks.}
+{6000}{}{By the water tank. I play over there sometimes.  I peek on him while he's working.}
+{6010}{}{Thanks kid, you've been a big help.}
+{7000}{}{You're not nice, you're mean! I'm going to go tell my daddy!}
+{8000}{}{I'm not supposed to talk to you anymore.}
+{9000}{}{You're a poop brain! Poop brain!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{1030}{}{Idiot}
+{2000}{}{My dad's Vice-President Carlson, so you better treat me nice! Who are you?}
+{2010}{}{@pname@.}
+{2020}{}{I'm one of your dad's guards.}
+{2030}{}{Where's your dad?}
+{2040}{}{See this knife? I've gutted little kids nicer than you.}
+{2050}{}{Sorry kid, I'm busy.}
+{3000}{}{@pname@? That's a crappy name. You got a stupid name! Stupid name!}
+{4000}{}{Then you got to be extra nice to me or I'll tell my dad.}
+{4010}{}{Where's your dad?}
+{4020}{}{Okay, bye kid.}
+{5000}{}{He's inside. In his office. He's always in there.}
+{5010}{}{Where's his office?}
+{5020}{}{Okay. Thanks.}
+{6000}{}{By the water tank. I play over there sometimes.  I peek on him while he's working.}
+{6010}{}{Thanks kid, you've been a big help.}
+{7000}{}{You're not nice, you're mean! I'm going to go tell my daddy!}
+{8000}{}{I'm not supposed to talk to you anymore.}
+{9000}{}{You're a poop brain! Poop brain!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

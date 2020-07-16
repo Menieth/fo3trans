@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,30 @@ lang=engl czec
 {2020}{}{Nothing today, thanks.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What's your poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{Nothing today, thanks.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What's your poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{Nothing today, thanks.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What's your poison, pal?}
+{2010}{}{What's on tap?}
+{2020}{}{Nothing today, thanks.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -93,6 +93,138 @@ lang=engl czec
 {14010}{}{Right... One more thing...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah? What is it?}
+{2010}{}{Hey there. Who are you?}
+{2020}{}{What are these robots behind you?}
+{2030}{}{You look nervouse. Do you need some help?}
+{2040}{}{Just checking you up. See you around.}
+{2050}{}{I found your bot. Seems like it became a dinner for rats in the basement.}
+{3000}{}{Foxlove. Just call me Foxlove. Look, I am very busy here. Is there something you wanted?}
+{3010}{}{Write, I have a question for you.}
+{3020}{}{Nothing, see ya, toxic bastard.}
+{3030}{}{Nothing, goodbye.}
+{4000}{}{These are my creations. I am a robot engineer. Working on these tincans to work, as our guard won't stand a chance in settlement's defense.}
+{4010}{}{Won't stand a chance? Was Wind of War attacked before?}
+{4020}{}{Yeah, yeah... Whatever. See ya.}
+{4030}{}{Where did you get them from?}
+{5000}{}{Of course. We were attack of Vipers several times and we hardly even made it. Lets just say thanks to that the only Howards' Power Armor suit remaining.}
+{5010}{}{Who is Howard?}
+{5020}{}{Why is it so bad for guards here?}
+{6000}{}{He is our captain. You can find him in the HQ on North. Won't say anything about him, you better have a chat with him personally.}
+{6010}{}{Right. I need to ask you about something else.}
+{7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
+{7010}{}{What about buying some good weaponary?}
+{7020}{}{FIne. One more question...}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8010}{}{I see... One more thing.}
+{9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
+{9010}{}{Alright. I will do it.}
+{9020}{}{My services are not for free.}
+{9030}{}{Not interested.}
+{10000}{}{Fine... Ask some people around. Maybe somebody has seen it.}
+{11000}{}{You will be paid, now go find it. Ask some people around, maybe someone has seen it.}
+{12000}{}{What?! Ah damn this thing! And damn those fucking rats! Seems like I will have to keep them all in the garage now to avoid such crap to happen. Thank you for your help anway... Here is your payment. Now... if you don't mind... I am very busy.}
+{12010}{}{Fine...}
+{12020}{}{Oh shut up and give me the money already.}
+{12030}{}{Well, you can always build a new one. Bye.}
+{13000}{}{Got them from Hawthorne base of course... back when it used to stand untouched by those freaks calling 'emselves "Army of Hawthorne".}
+{13010}{}{Army of hawthorne?}
+{13020}{}{Alright... Now I have to go. See ya.}
+{14000}{}{Yeah, they are something like a group of outcasts from differet factions. I don't know much.}
+{14010}{}{Right... One more thing...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah? What is it?}
+{2010}{}{Hey there. Who are you?}
+{2020}{}{What are these robots behind you?}
+{2030}{}{You look nervouse. Do you need some help?}
+{2040}{}{Just checking you up. See you around.}
+{2050}{}{I found your bot. Seems like it became a dinner for rats in the basement.}
+{3000}{}{Foxlove. Just call me Foxlove. Look, I am very busy here. Is there something you wanted?}
+{3010}{}{Write, I have a question for you.}
+{3020}{}{Nothing, see ya, toxic bastard.}
+{3030}{}{Nothing, goodbye.}
+{4000}{}{These are my creations. I am a robot engineer. Working on these tincans to work, as our guard won't stand a chance in settlement's defense.}
+{4010}{}{Won't stand a chance? Was Wind of War attacked before?}
+{4020}{}{Yeah, yeah... Whatever. See ya.}
+{4030}{}{Where did you get them from?}
+{5000}{}{Of course. We were attack of Vipers several times and we hardly even made it. Lets just say thanks to that the only Howards' Power Armor suit remaining.}
+{5010}{}{Who is Howard?}
+{5020}{}{Why is it so bad for guards here?}
+{6000}{}{He is our captain. You can find him in the HQ on North. Won't say anything about him, you better have a chat with him personally.}
+{6010}{}{Right. I need to ask you about something else.}
+{7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
+{7010}{}{What about buying some good weaponary?}
+{7020}{}{FIne. One more question...}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8010}{}{I see... One more thing.}
+{9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
+{9010}{}{Alright. I will do it.}
+{9020}{}{My services are not for free.}
+{9030}{}{Not interested.}
+{10000}{}{Fine... Ask some people around. Maybe somebody has seen it.}
+{11000}{}{You will be paid, now go find it. Ask some people around, maybe someone has seen it.}
+{12000}{}{What?! Ah damn this thing! And damn those fucking rats! Seems like I will have to keep them all in the garage now to avoid such crap to happen. Thank you for your help anway... Here is your payment. Now... if you don't mind... I am very busy.}
+{12010}{}{Fine...}
+{12020}{}{Oh shut up and give me the money already.}
+{12030}{}{Well, you can always build a new one. Bye.}
+{13000}{}{Got them from Hawthorne base of course... back when it used to stand untouched by those freaks calling 'emselves "Army of Hawthorne".}
+{13010}{}{Army of hawthorne?}
+{13020}{}{Alright... Now I have to go. See ya.}
+{14000}{}{Yeah, they are something like a group of outcasts from differet factions. I don't know much.}
+{14010}{}{Right... One more thing...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah? What is it?}
+{2010}{}{Hey there. Who are you?}
+{2020}{}{What are these robots behind you?}
+{2030}{}{You look nervouse. Do you need some help?}
+{2040}{}{Just checking you up. See you around.}
+{2050}{}{I found your bot. Seems like it became a dinner for rats in the basement.}
+{3000}{}{Foxlove. Just call me Foxlove. Look, I am very busy here. Is there something you wanted?}
+{3010}{}{Write, I have a question for you.}
+{3020}{}{Nothing, see ya, toxic bastard.}
+{3030}{}{Nothing, goodbye.}
+{4000}{}{These are my creations. I am a robot engineer. Working on these tincans to work, as our guard won't stand a chance in settlement's defense.}
+{4010}{}{Won't stand a chance? Was Wind of War attacked before?}
+{4020}{}{Yeah, yeah... Whatever. See ya.}
+{4030}{}{Where did you get them from?}
+{5000}{}{Of course. We were attack of Vipers several times and we hardly even made it. Lets just say thanks to that the only Howards' Power Armor suit remaining.}
+{5010}{}{Who is Howard?}
+{5020}{}{Why is it so bad for guards here?}
+{6000}{}{He is our captain. You can find him in the HQ on North. Won't say anything about him, you better have a chat with him personally.}
+{6010}{}{Right. I need to ask you about something else.}
+{7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
+{7010}{}{What about buying some good weaponary?}
+{7020}{}{FIne. One more question...}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8010}{}{I see... One more thing.}
+{9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
+{9010}{}{Alright. I will do it.}
+{9020}{}{My services are not for free.}
+{9030}{}{Not interested.}
+{10000}{}{Fine... Ask some people around. Maybe somebody has seen it.}
+{11000}{}{You will be paid, now go find it. Ask some people around, maybe someone has seen it.}
+{12000}{}{What?! Ah damn this thing! And damn those fucking rats! Seems like I will have to keep them all in the garage now to avoid such crap to happen. Thank you for your help anway... Here is your payment. Now... if you don't mind... I am very busy.}
+{12010}{}{Fine...}
+{12020}{}{Oh shut up and give me the money already.}
+{12030}{}{Well, you can always build a new one. Bye.}
+{13000}{}{Got them from Hawthorne base of course... back when it used to stand untouched by those freaks calling 'emselves "Army of Hawthorne".}
+{13010}{}{Army of hawthorne?}
+{13020}{}{Alright... Now I have to go. See ya.}
+{14000}{}{Yeah, they are something like a group of outcasts from differet factions. I don't know much.}
+{14010}{}{Right... One more thing...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

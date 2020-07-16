@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{standard khan chatter}
+{2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{standard khan chatter}
+{2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{standard khan chatter}
+{2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{standard khan chatter}

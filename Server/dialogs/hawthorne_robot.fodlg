@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Hello, fellow wastelander! Welcome in Hawthorne!@@Please be reasonable and do not try to violate the peace.@@Nice to meet you! Welcome in Hawthorne!@@I am here to protect you, fear not!@@Welcome to Hawthorne. The lovely city ruled by Yamantaka.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, fellow wastelander! Welcome in Hawthorne!@@Please be reasonable and do not try to violate the peace.@@Nice to meet you! Welcome in Hawthorne!@@I am here to protect you, fear not!@@Welcome to Hawthorne. The lovely city ruled by Yamantaka.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, fellow wastelander! Welcome in Hawthorne!@@Please be reasonable and do not try to violate the peace.@@Nice to meet you! Welcome in Hawthorne!@@I am here to protect you, fear not!@@Welcome to Hawthorne. The lovely city ruled by Yamantaka.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, fellow wastelander! Welcome in Hawthorne!@@Please be reasonable and do not try to violate the peace.@@Nice to meet you! Welcome in Hawthorne!@@I am here to protect you, fear not!@@Welcome to Hawthorne. The lovely city ruled by Yamantaka.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

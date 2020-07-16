@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -61,6 +61,90 @@ lang=engl czec
 {9000}{}{You did it! Great... Good job, wastelander. It seems like you can be very helpful... Here is your reward, now leae please. I have a lot of things to do.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well... Hello?}
+{2010}{}{Who are you?}
+{2020}{}{What are you working on?}
+{2030}{}{Hey. I did the task. Here is the information from that terminal.}
+{2040}{}{Whatever...}
+{3000}{}{I am Fernandes Felix. American scientist if you may.}
+{3010}{}{What are you doing here?}
+{3020}{}{Nice to know. Bye.}
+{4000}{}{Well, not much... Unfortunately they say that we don't have enough places in... Hey, aren't you a wastelander?}
+{4010}{}{Eh...}
+{4020}{}{Yes.}
+{4030}{}{Not yours business.}
+{5000}{}{Oh then I mustn't tell anything to you. Otherwise our soldiers will just smash my head over the nearby wall, you know.}
+{5010}{}{There is something else I wanted to ask.}
+{5020}{}{Hope they will do it sooner...}
+{6000}{}{On some studies... I am trying to revial some old archives about bioengineering in 2077. Hmh...}
+{6010}{}{What is it?}
+{6020}{}{Noone cares. See ya.}
+{7000}{}{You are from Wasteland, aren't you? Look, I need you to do something very important for me. There must be a place called TalChem California HQ not far from here. I want you to download some data from one of the Terminals on surface and bring it back to me. Will you do it?}
+{7010}{}{Alright, I will do it.}
+{7020}{}{No way. Helping you Enclave bastards is the last thing I want.}
+{8000}{}{Good. Here is a special keycard for you. Just insert it into the terminal.}
+{9000}{}{You did it! Great... Good job, wastelander. It seems like you can be very helpful... Here is your reward, now leae please. I have a lot of things to do.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well... Hello?}
+{2010}{}{Who are you?}
+{2020}{}{What are you working on?}
+{2030}{}{Hey. I did the task. Here is the information from that terminal.}
+{2040}{}{Whatever...}
+{3000}{}{I am Fernandes Felix. American scientist if you may.}
+{3010}{}{What are you doing here?}
+{3020}{}{Nice to know. Bye.}
+{4000}{}{Well, not much... Unfortunately they say that we don't have enough places in... Hey, aren't you a wastelander?}
+{4010}{}{Eh...}
+{4020}{}{Yes.}
+{4030}{}{Not yours business.}
+{5000}{}{Oh then I mustn't tell anything to you. Otherwise our soldiers will just smash my head over the nearby wall, you know.}
+{5010}{}{There is something else I wanted to ask.}
+{5020}{}{Hope they will do it sooner...}
+{6000}{}{On some studies... I am trying to revial some old archives about bioengineering in 2077. Hmh...}
+{6010}{}{What is it?}
+{6020}{}{Noone cares. See ya.}
+{7000}{}{You are from Wasteland, aren't you? Look, I need you to do something very important for me. There must be a place called TalChem California HQ not far from here. I want you to download some data from one of the Terminals on surface and bring it back to me. Will you do it?}
+{7010}{}{Alright, I will do it.}
+{7020}{}{No way. Helping you Enclave bastards is the last thing I want.}
+{8000}{}{Good. Here is a special keycard for you. Just insert it into the terminal.}
+{9000}{}{You did it! Great... Good job, wastelander. It seems like you can be very helpful... Here is your reward, now leae please. I have a lot of things to do.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well... Hello?}
+{2010}{}{Who are you?}
+{2020}{}{What are you working on?}
+{2030}{}{Hey. I did the task. Here is the information from that terminal.}
+{2040}{}{Whatever...}
+{3000}{}{I am Fernandes Felix. American scientist if you may.}
+{3010}{}{What are you doing here?}
+{3020}{}{Nice to know. Bye.}
+{4000}{}{Well, not much... Unfortunately they say that we don't have enough places in... Hey, aren't you a wastelander?}
+{4010}{}{Eh...}
+{4020}{}{Yes.}
+{4030}{}{Not yours business.}
+{5000}{}{Oh then I mustn't tell anything to you. Otherwise our soldiers will just smash my head over the nearby wall, you know.}
+{5010}{}{There is something else I wanted to ask.}
+{5020}{}{Hope they will do it sooner...}
+{6000}{}{On some studies... I am trying to revial some old archives about bioengineering in 2077. Hmh...}
+{6010}{}{What is it?}
+{6020}{}{Noone cares. See ya.}
+{7000}{}{You are from Wasteland, aren't you? Look, I need you to do something very important for me. There must be a place called TalChem California HQ not far from here. I want you to download some data from one of the Terminals on surface and bring it back to me. Will you do it?}
+{7010}{}{Alright, I will do it.}
+{7020}{}{No way. Helping you Enclave bastards is the last thing I want.}
+{8000}{}{Good. Here is a special keycard for you. Just insert it into the terminal.}
+{9000}{}{You did it! Great... Good job, wastelander. It seems like you can be very helpful... Here is your reward, now leae please. I have a lot of things to do.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

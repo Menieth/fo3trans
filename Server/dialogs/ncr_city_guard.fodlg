@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {3000}{}{I'd turn and walk away real fast if I were you.@@You and your kind ain't welcome in NCR.@@Come any closer and you'll regret it.@@We've been warned about you, so just leave peacefully. Understand?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Hated}
+{2000}{}{Welcome to NCR, capital of the New California Republic, President Tandi ruling.@@Greetings, stranger. Come to do business with NCR, have you?@@NCR welcomes you - provided you don't make trouble.@@Make sure you put your weapons away. NCR don't welcome that kind of trouble.}
+{3000}{}{I'd turn and walk away real fast if I were you.@@You and your kind ain't welcome in NCR.@@Come any closer and you'll regret it.@@We've been warned about you, so just leave peacefully. Understand?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Hated}
+{2000}{}{Welcome to NCR, capital of the New California Republic, President Tandi ruling.@@Greetings, stranger. Come to do business with NCR, have you?@@NCR welcomes you - provided you don't make trouble.@@Make sure you put your weapons away. NCR don't welcome that kind of trouble.}
+{3000}{}{I'd turn and walk away real fast if I were you.@@You and your kind ain't welcome in NCR.@@Come any closer and you'll regret it.@@We've been warned about you, so just leave peacefully. Understand?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Hated}
+{2000}{}{Welcome to NCR, capital of the New California Republic, President Tandi ruling.@@Greetings, stranger. Come to do business with NCR, have you?@@NCR welcomes you - provided you don't make trouble.@@Make sure you put your weapons away. NCR don't welcome that kind of trouble.}
+{3000}{}{I'd turn and walk away real fast if I were you.@@You and your kind ain't welcome in NCR.@@Come any closer and you'll regret it.@@We've been warned about you, so just leave peacefully. Understand?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }

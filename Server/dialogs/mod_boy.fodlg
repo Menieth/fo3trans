@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {4000}{}{I don't talk to strangers.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Good}
+{1030}{}{Neutral}
+{2000}{}{You're nice.@@Whatcha wearing?@@Are you from far away?@@Weeee! Ha, ha, ha!@@Am I bothering you?@@Can I come with you?@@Where you going?@@Do you like kids?@@Whatcha doing?@@Where did you get that?@@I want to be just like you when I grow up.}
+{3000}{}{Hello.@@How come you're so funny looking?@@I'll bet you're nicer than you look!@@I've got a shiny pebble!@@Have you seen my invisible friend?@@I bet you do bathe.}
+{4000}{}{I don't talk to strangers.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Good}
+{1030}{}{Neutral}
+{2000}{}{You're nice.@@Whatcha wearing?@@Are you from far away?@@Weeee! Ha, ha, ha!@@Am I bothering you?@@Can I come with you?@@Where you going?@@Do you like kids?@@Whatcha doing?@@Where did you get that?@@I want to be just like you when I grow up.}
+{3000}{}{Hello.@@How come you're so funny looking?@@I'll bet you're nicer than you look!@@I've got a shiny pebble!@@Have you seen my invisible friend?@@I bet you do bathe.}
+{4000}{}{I don't talk to strangers.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Good}
+{1030}{}{Neutral}
+{2000}{}{You're nice.@@Whatcha wearing?@@Are you from far away?@@Weeee! Ha, ha, ha!@@Am I bothering you?@@Can I come with you?@@Where you going?@@Do you like kids?@@Whatcha doing?@@Where did you get that?@@I want to be just like you when I grow up.}
+{3000}{}{Hello.@@How come you're so funny looking?@@I'll bet you're nicer than you look!@@I've got a shiny pebble!@@Have you seen my invisible friend?@@I bet you do bathe.}
+{4000}{}{I don't talk to strangers.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}

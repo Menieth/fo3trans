@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -83,6 +83,123 @@ lang=engl czec
 {12020}{}{No deal.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day to you, stranger. Did you need something?}
+{2010}{}{Who are you?}
+{2020}{}{What can you tell me about Wind Of War?}
+{2030}{}{What is behind that strange door on north?}
+{2040}{}{I need to get inside of the Vault 41.}
+{2050}{}{Nah, nothing. See ya.}
+{3000}{}{My name is Howard. I am a leader of Wind of War.}
+{3010}{}{Wind of War?}
+{3020}{}{Alright... One more thing...}
+{4000}{}{Wind of War is a village built by our ancestors from Hawthrone military base. Since then we respect our great past and we keep the settlement up for a long time already,}
+{4010}{}{If your ancestors used to be dwellers of some Military base... Why do your people have so low grade weapons?}
+{5000}{}{These are not weapons, but bravery of our people that allows our people to survive.}
+{5010}{}{Right...}
+{5020}{}{Sounds like some ultimate brahmin shit. I am out of here.}
+{6000}{}{Old notes in terminals say that it is something called Vault 41. Nothing much else about it.}
+{6010}{}{Can you open it for me somehow?}
+{6020}{}{I see. Let me ask you about something else first.}
+{7000}{}{I can grant you 1 time access to the Vault terminal, but it will cost you 5000 caps.}
+{7010}{}{Alright. Here are caps.}
+{7020}{}{Nah, I pass.}
+{8000}{}{Fine then. Access is granted.}
+{9000}{}{Fine, I can grant you 1 time access there. But it will cost you 5000 caps.}
+{9010}{}{5000 caps? What are these for?}
+{9020}{}{Here are the caps.}
+{10000}{}{Look, we live in harsh times. Caps solve everything. If you want to get inside - pay first.}
+{10010}{}{Doesn't sound wise from the "leader" of the settlment and from the one who treats his ancestors a respect.}
+{10020}{}{Well go fuck yourself with such prices then.}
+{11000}{}{Oh right? Do you expect to hear some pathetic speeches here?}
+{11010}{}{[ Perception ] No, but I expect to hear why does your Power Armor look so fresh and clean. Maybe our dear leader gets caps out of the settlement budget for keeping his gear up-to-hand instead of arming his men?}
+{11020}{}{Alright. Here are caps.}
+{11030}{}{Fuck you. I am out of your shitty pit.}
+{12000}{}{You... Ah you, scum. Fine, 3000 caps for getting inside. Keep your mouth shut about it.}
+{12010}{}{Deal.}
+{12020}{}{No deal.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day to you, stranger. Did you need something?}
+{2010}{}{Who are you?}
+{2020}{}{What can you tell me about Wind Of War?}
+{2030}{}{What is behind that strange door on north?}
+{2040}{}{I need to get inside of the Vault 41.}
+{2050}{}{Nah, nothing. See ya.}
+{3000}{}{My name is Howard. I am a leader of Wind of War.}
+{3010}{}{Wind of War?}
+{3020}{}{Alright... One more thing...}
+{4000}{}{Wind of War is a village built by our ancestors from Hawthrone military base. Since then we respect our great past and we keep the settlement up for a long time already,}
+{4010}{}{If your ancestors used to be dwellers of some Military base... Why do your people have so low grade weapons?}
+{5000}{}{These are not weapons, but bravery of our people that allows our people to survive.}
+{5010}{}{Right...}
+{5020}{}{Sounds like some ultimate brahmin shit. I am out of here.}
+{6000}{}{Old notes in terminals say that it is something called Vault 41. Nothing much else about it.}
+{6010}{}{Can you open it for me somehow?}
+{6020}{}{I see. Let me ask you about something else first.}
+{7000}{}{I can grant you 1 time access to the Vault terminal, but it will cost you 5000 caps.}
+{7010}{}{Alright. Here are caps.}
+{7020}{}{Nah, I pass.}
+{8000}{}{Fine then. Access is granted.}
+{9000}{}{Fine, I can grant you 1 time access there. But it will cost you 5000 caps.}
+{9010}{}{5000 caps? What are these for?}
+{9020}{}{Here are the caps.}
+{10000}{}{Look, we live in harsh times. Caps solve everything. If you want to get inside - pay first.}
+{10010}{}{Doesn't sound wise from the "leader" of the settlment and from the one who treats his ancestors a respect.}
+{10020}{}{Well go fuck yourself with such prices then.}
+{11000}{}{Oh right? Do you expect to hear some pathetic speeches here?}
+{11010}{}{[ Perception ] No, but I expect to hear why does your Power Armor look so fresh and clean. Maybe our dear leader gets caps out of the settlement budget for keeping his gear up-to-hand instead of arming his men?}
+{11020}{}{Alright. Here are caps.}
+{11030}{}{Fuck you. I am out of your shitty pit.}
+{12000}{}{You... Ah you, scum. Fine, 3000 caps for getting inside. Keep your mouth shut about it.}
+{12010}{}{Deal.}
+{12020}{}{No deal.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day to you, stranger. Did you need something?}
+{2010}{}{Who are you?}
+{2020}{}{What can you tell me about Wind Of War?}
+{2030}{}{What is behind that strange door on north?}
+{2040}{}{I need to get inside of the Vault 41.}
+{2050}{}{Nah, nothing. See ya.}
+{3000}{}{My name is Howard. I am a leader of Wind of War.}
+{3010}{}{Wind of War?}
+{3020}{}{Alright... One more thing...}
+{4000}{}{Wind of War is a village built by our ancestors from Hawthrone military base. Since then we respect our great past and we keep the settlement up for a long time already,}
+{4010}{}{If your ancestors used to be dwellers of some Military base... Why do your people have so low grade weapons?}
+{5000}{}{These are not weapons, but bravery of our people that allows our people to survive.}
+{5010}{}{Right...}
+{5020}{}{Sounds like some ultimate brahmin shit. I am out of here.}
+{6000}{}{Old notes in terminals say that it is something called Vault 41. Nothing much else about it.}
+{6010}{}{Can you open it for me somehow?}
+{6020}{}{I see. Let me ask you about something else first.}
+{7000}{}{I can grant you 1 time access to the Vault terminal, but it will cost you 5000 caps.}
+{7010}{}{Alright. Here are caps.}
+{7020}{}{Nah, I pass.}
+{8000}{}{Fine then. Access is granted.}
+{9000}{}{Fine, I can grant you 1 time access there. But it will cost you 5000 caps.}
+{9010}{}{5000 caps? What are these for?}
+{9020}{}{Here are the caps.}
+{10000}{}{Look, we live in harsh times. Caps solve everything. If you want to get inside - pay first.}
+{10010}{}{Doesn't sound wise from the "leader" of the settlment and from the one who treats his ancestors a respect.}
+{10020}{}{Well go fuck yourself with such prices then.}
+{11000}{}{Oh right? Do you expect to hear some pathetic speeches here?}
+{11010}{}{[ Perception ] No, but I expect to hear why does your Power Armor look so fresh and clean. Maybe our dear leader gets caps out of the settlement budget for keeping his gear up-to-hand instead of arming his men?}
+{11020}{}{Alright. Here are caps.}
+{11030}{}{Fuck you. I am out of your shitty pit.}
+{12000}{}{You... Ah you, scum. Fine, 3000 caps for getting inside. Keep your mouth shut about it.}
+{12010}{}{Deal.}
+{12020}{}{No deal.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

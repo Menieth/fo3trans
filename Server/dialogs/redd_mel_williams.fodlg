@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,27 @@ lang=engl czec
 {2010}{}{Uh, nothing.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}

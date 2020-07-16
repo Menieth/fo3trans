@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {2020}{}{No.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{We sell only the highest quality liquor. You interested?}
+{2010}{}{Let's see what you've got.}
+{2020}{}{No.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{We sell only the highest quality liquor. You interested?}
+{2010}{}{Let's see what you've got.}
+{2020}{}{No.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{We sell only the highest quality liquor. You interested?}
+{2010}{}{Let's see what you've got.}
+{2020}{}{No.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

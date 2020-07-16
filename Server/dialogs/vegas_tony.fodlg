@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {3000}{}{Sorry mate, we trade only for dollars here. And no caps. Once I see you have dollars without caps, we can trade.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{What do you want, buddy?}
+{2010}{}{Booze. Show me what do you have.}
+{2020}{}{Nothing... Thanks.}
+{3000}{}{Sorry mate, we trade only for dollars here. And no caps. Once I see you have dollars without caps, we can trade.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{What do you want, buddy?}
+{2010}{}{Booze. Show me what do you have.}
+{2020}{}{Nothing... Thanks.}
+{3000}{}{Sorry mate, we trade only for dollars here. And no caps. Once I see you have dollars without caps, we can trade.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{What do you want, buddy?}
+{2010}{}{Booze. Show me what do you have.}
+{2020}{}{Nothing... Thanks.}
+{3000}{}{Sorry mate, we trade only for dollars here. And no caps. Once I see you have dollars without caps, we can trade.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

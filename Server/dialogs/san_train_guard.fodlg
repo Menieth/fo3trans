@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@Treat our people with respect.@@Don't make yourself unwelcome.@@If you want to use the train, talk to the conductor.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@Treat our people with respect.@@Don't make yourself unwelcome.@@If you want to use the train, talk to the conductor.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@Treat our people with respect.@@Don't make yourself unwelcome.@@If you want to use the train, talk to the conductor.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@Treat our people with respect.@@Don't make yourself unwelcome.@@If you want to use the train, talk to the conductor.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

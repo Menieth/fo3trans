@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -32,6 +32,45 @@ lang=engl czec
 {3020}{}{[Don't go yet.]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit *DEV NOTE: Deactivated for now.*}
+{2000}{}{Yes, what can I do for you?@@What can I do for you?@@What do you want?@@Yeah?}
+{2010}{}{I want to exit the town to the north.}
+{2020}{}{I want to exit the town to the south.}
+{2030}{}{Nothing right now. Bye.}
+{3000}{}{What can I do for you?}
+{3010}{}{Am I allowed to enter Junktown?}
+{3020}{}{[Don't go yet.]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit *DEV NOTE: Deactivated for now.*}
+{2000}{}{Yes, what can I do for you?@@What can I do for you?@@What do you want?@@Yeah?}
+{2010}{}{I want to exit the town to the north.}
+{2020}{}{I want to exit the town to the south.}
+{2030}{}{Nothing right now. Bye.}
+{3000}{}{What can I do for you?}
+{3010}{}{Am I allowed to enter Junktown?}
+{3020}{}{[Don't go yet.]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit *DEV NOTE: Deactivated for now.*}
+{2000}{}{Yes, what can I do for you?@@What can I do for you?@@What do you want?@@Yeah?}
+{2010}{}{I want to exit the town to the north.}
+{2020}{}{I want to exit the town to the south.}
+{2030}{}{Nothing right now. Bye.}
+{3000}{}{What can I do for you?}
+{3010}{}{Am I allowed to enter Junktown?}
+{3020}{}{[Don't go yet.]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}

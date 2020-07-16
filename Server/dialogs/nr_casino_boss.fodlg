@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Feelin' lucky, pally?@@I've got business to attend to, go gamble.@@Look! See them tables! Go get 'em, champ.@@You're a lucky fella, aren'tcha?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Feelin' lucky, pally?@@I've got business to attend to, go gamble.@@Look! See them tables! Go get 'em, champ.@@You're a lucky fella, aren'tcha?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Feelin' lucky, pally?@@I've got business to attend to, go gamble.@@Look! See them tables! Go get 'em, champ.@@You're a lucky fella, aren'tcha?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Feelin' lucky, pally?@@I've got business to attend to, go gamble.@@Look! See them tables! Go get 'em, champ.@@You're a lucky fella, aren'tcha?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

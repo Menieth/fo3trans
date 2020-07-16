@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{I don't like this place.@@There's a big dead smelly fish on the beach.@@Eww! What's that?@@The air smells funny here.@@Wanna go swimming?@@I'm gonna go play.@@Where's my mommy?@@We live on the beach!@@I'm boooored.@@I want a haircut.@@Yeahhhh!!@@Woooo@@Wee-ooo, weee-oooo@@Wakka wakka wakka!@@My toys all suck.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{I don't like this place.@@There's a big dead smelly fish on the beach.@@Eww! What's that?@@The air smells funny here.@@Wanna go swimming?@@I'm gonna go play.@@Where's my mommy?@@We live on the beach!@@I'm boooored.@@I want a haircut.@@Yeahhhh!!@@Woooo@@Wee-ooo, weee-oooo@@Wakka wakka wakka!@@My toys all suck.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{I don't like this place.@@There's a big dead smelly fish on the beach.@@Eww! What's that?@@The air smells funny here.@@Wanna go swimming?@@I'm gonna go play.@@Where's my mommy?@@We live on the beach!@@I'm boooored.@@I want a haircut.@@Yeahhhh!!@@Woooo@@Wee-ooo, weee-oooo@@Wakka wakka wakka!@@My toys all suck.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{I don't like this place.@@There's a big dead smelly fish on the beach.@@Eww! What's that?@@The air smells funny here.@@Wanna go swimming?@@I'm gonna go play.@@Where's my mommy?@@We live on the beach!@@I'm boooored.@@I want a haircut.@@Yeahhhh!!@@Woooo@@Wee-ooo, weee-oooo@@Wakka wakka wakka!@@My toys all suck.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

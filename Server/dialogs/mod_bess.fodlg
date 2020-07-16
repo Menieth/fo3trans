@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -28,6 +28,36 @@ lang=engl czec
 {4000}{}{Moo, I'm a cow.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Moo, I'm a cow.}
+{1020}{}{Ioaao}
+{1030}{}{ioaao}
+{2000}{}{Moo}
+{3000}{}{Moo-oo!}
+{4000}{}{Moo, I'm a cow.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Moo, I'm a cow.}
+{1020}{}{Ioaao}
+{1030}{}{ioaao}
+{2000}{}{Moo}
+{3000}{}{Moo-oo!}
+{4000}{}{Moo, I'm a cow.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Moo, I'm a cow.}
+{1020}{}{Ioaao}
+{1030}{}{ioaao}
+{2000}{}{Moo}
+{3000}{}{Moo-oo!}
+{4000}{}{Moo, I'm a cow.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Moo, I'm a cow.}

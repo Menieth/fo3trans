@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -32,6 +32,42 @@ lang=engl czec
 {4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{What th --? Who are you and what the HELL do you want?}
+{2010}{}{I thought you might have some more work for me.}
+{2020}{}{Sorry -- wrong room.}
+{3000}{}{Work? You've got to be fucking kidding me. Get out of my sight, you moron.}
+{3010}{}{Fine, I'm leaving.}
+{4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{What th --? Who are you and what the HELL do you want?}
+{2010}{}{I thought you might have some more work for me.}
+{2020}{}{Sorry -- wrong room.}
+{3000}{}{Work? You've got to be fucking kidding me. Get out of my sight, you moron.}
+{3010}{}{Fine, I'm leaving.}
+{4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ao?ae}
+{1020}{}{-}
+{2000}{}{What th --? Who are you and what the HELL do you want?}
+{2010}{}{I thought you might have some more work for me.}
+{2020}{}{Sorry -- wrong room.}
+{3000}{}{Work? You've got to be fucking kidding me. Get out of my sight, you moron.}
+{3010}{}{Fine, I'm leaving.}
+{4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}

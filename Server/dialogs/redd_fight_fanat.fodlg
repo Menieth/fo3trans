@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,24 @@ lang=engl czec
 {2000}{}{Get 'im!@@There goes a week's wages…again.@@Yeah!@@Kill, kill, kill!@@Go for the throat!@@Maim the bastard!@@Get up on 'im!@@Go around! No, the other way!@@Watch out!@@That's the ticket!@@Make me rich!@@Gimme those new shoes, baby!@@Give me some of that sugar!@@Footwork stupid! Footwork!@@Finish him!@@Fight!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Get 'im!@@There goes a week's wages…again.@@Yeah!@@Kill, kill, kill!@@Go for the throat!@@Maim the bastard!@@Get up on 'im!@@Go around! No, the other way!@@Watch out!@@That's the ticket!@@Make me rich!@@Gimme those new shoes, baby!@@Give me some of that sugar!@@Footwork stupid! Footwork!@@Finish him!@@Fight!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Get 'im!@@There goes a week's wages…again.@@Yeah!@@Kill, kill, kill!@@Go for the throat!@@Maim the bastard!@@Get up on 'im!@@Go around! No, the other way!@@Watch out!@@That's the ticket!@@Make me rich!@@Gimme those new shoes, baby!@@Give me some of that sugar!@@Footwork stupid! Footwork!@@Finish him!@@Fight!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue options}
+{1010}{}{-}
+{2000}{}{Get 'im!@@There goes a week's wages…again.@@Yeah!@@Kill, kill, kill!@@Go for the throat!@@Maim the bastard!@@Get up on 'im!@@Go around! No, the other way!@@Watch out!@@That's the ticket!@@Make me rich!@@Gimme those new shoes, baby!@@Give me some of that sugar!@@Footwork stupid! Footwork!@@Finish him!@@Fight!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}

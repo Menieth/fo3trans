@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,21 @@ lang=engl czec
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}

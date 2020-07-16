@@ -2,7 +2,7 @@
 Common dialog for each faction's mainframe used to manage players' database.
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -55,6 +55,45 @@ lang=engl czec
 {100000042}{}{Choose the action you want to perform:}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{non-member}
+{1030}{}{invited}
+{2000}{}{*BEEP* Welcome to @lex faction@ Door Control}
+{2010}{}{Open Door}
+{2020}{}{Close Door Now}
+{2030}{}{Log off the terminal.}
+{3000}{}{Access Denied
+}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{non-member}
+{1030}{}{invited}
+{2000}{}{*BEEP* Welcome to @lex faction@ Door Control}
+{2010}{}{Open Door}
+{2020}{}{Close Door Now}
+{2030}{}{Log off the terminal.}
+{3000}{}{Access Denied
+}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{non-member}
+{1030}{}{invited}
+{2000}{}{*BEEP* Welcome to @lex faction@ Door Control}
+{2010}{}{Open Door}
+{2020}{}{Close Door Now}
+{2030}{}{Log off the terminal.}
+{3000}{}{Access Denied
+}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}

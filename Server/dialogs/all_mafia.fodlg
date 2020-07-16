@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Well, well - what have we got here?@@Simple travellers, eh? Ain't no such thing. You need help with any of your valuables?@@Watch where you're walking around Reno, or you're gonna get hurt. Stay outta my way.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well, well - what have we got here?@@Simple travellers, eh? Ain't no such thing. You need help with any of your valuables?@@Watch where you're walking around Reno, or you're gonna get hurt. Stay outta my way.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well, well - what have we got here?@@Simple travellers, eh? Ain't no such thing. You need help with any of your valuables?@@Watch where you're walking around Reno, or you're gonna get hurt. Stay outta my way.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well, well - what have we got here?@@Simple travellers, eh? Ain't no such thing. You need help with any of your valuables?@@Watch where you're walking around Reno, or you're gonna get hurt. Stay outta my way.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

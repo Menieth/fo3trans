@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -155,6 +155,228 @@ lang=engl czec
 {20020}{}{Actually, I'd like to look at something else.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{not BoS}
+{1020}{}{Default}
+{2000}{}{Hello, Brother. Can I do anything for you?}
+{2010}{}{I have just been promoted and instructed to speak with you, sir.}
+{2020}{}{I'd like to browse your inventory, sir.}
+{2030}{}{No, I'm just looking around.}
+{3000}{}{Ah, an Initiate. Congratulations. I assume this is your first time receiving supplies?}
+{3010}{}{Yes, sir.}
+{4000}{}{Then let me give you a quick rundown. The two tasks you received for your promotion were menial. From this point on, you will receive much more substantial missions. As a reward for completing these tasks, you will receive faction points.}
+{4010}{}{[continue]}
+{5000}{}{Speak to any Brotherhood quartermaster like myself to exchange these points for rewards ranging from armor to weapons to meds. You may even be able to trade for weapon blueprints from time to time.}
+{5010}{}{[continue]}
+{6000}{}{Additionally, faction points will eventually be the means to you being promoted. However, the only member with permission to promote to those ranks is the head quartermaster in the Lost Hills.}
+{6010}{}{Anything else I should know, sir?}
+{7000}{}{As this is your first promotion, you get a free set of armor and a weapon. The armor is standard, so what type of weapons do you specialize in?}
+{7010}{}{Energy weapons, sir!}
+{7020}{}{Big guns, sir!}
+{7030}{}{Small guns, sir!}
+{7040}{}{Melee weapons, sir!}
+{7050}{}{I fight hand-to-hand combat, sir!}
+{7060}{}{Thrown weapons, sir!}
+{8000}{}{Very well, here are your weapon and armor. At the moment, we do not have any work for a Brother of your rank, but you will be notified when you are of use again here. Until then, your orders will be given directly to you in the Lost Hills. Dismissed.}
+{8010}{}{Thank you, sir.}
+{9000}{}{Very well, here are your weapon and armor. And I threw in a few healing powders in there since you'll be on the front lines. At the moment, we do not have any work for a Brother of your rank, but you will be notified when you are of use again here. Until then, your orders will be given directly to you in the Lost Hills. }
+{9010}{}{Thank you, sir.}
+{10000}{}{An Enclave spy! Kill him!}
+{11000}{}{Alright, let's see....You have @lex fp_bos@ points remaining.}
+{11010}{}{Thank you, sir. I'd like to browse your inventory now.}
+{11020}{}{Thank you, sir. I'll be going now.}
+{12000}{}{What are you looking for?}
+{12010}{}{Small guns.}
+{12020}{}{Big guns.}
+{12030}{}{Energy weapons.}
+{12040}{}{Medical supplies.}
+{12050}{}{Any other weapons?}
+{12060}{}{I'm looking for quality armor.}
+{12070}{}{Anything else you can offer me?}
+{12080}{}{Actually, I changed my mind. I don't need anything right now.}
+{13000}{}{[He pulls out a few holsters, each carrying a small gun and some ammunition.] Take your pick.}
+{13010}{}{I'll take the 10mm pistol. [150 FP]}
+{13020}{}{I'll take the shotgun. [200 FP]}
+{13030}{}{Actually, I'd like to look at something else.}
+{14000}{}{[He points to a pile of large weapons in a corner.] Sorry if I can't be bothered to move them all, but that's what you're looking for.}
+{14010}{}{I'll take the flamer. [500 FP]}
+{14020}{}{Actually, I'd like to look at something else.}
+{15000}{}{[He takes out metal cases, each carrying a high-tech weapon.] Take your pick.}
+{15010}{}{I'll take the Magneto Pistol. [400 FP]}
+{15020}{}{Actually, I'd like to look at something else.}
+{16000}{}{[He pulls out a first aid kit. Inside are a few meds.] This is all we have in the medical department.}
+{16010}{}{I need an antidote. [50 FP]}
+{16020}{}{I need some healing powder. [80 FP]}
+{16030}{}{I need a pack of cigarettes. [50 FP]}
+{16040}{}{Actually, I'd like to look at something else.}
+{17000}{}{[He shows you a bag full of assorted survival tools.] Any of this useful to you?}
+{17010}{}{I'll take the rope. [100 FP]}
+{17020}{}{I'll take the knife. [20 FP]}
+{17030}{}{I'll take the hatchet. [70 FP]}
+{17040}{}{I'll take the hammer. [60 FP]}
+{17050}{}{Actually, I'd like to look at something else.}
+{18000}{}{[He takes out quite an assortment of weapons.] What looks good to you?}
+{18010}{}{I'll take the spiked knuckles. [200 FP]}
+{18020}{}{I'll take a throwing knife. [120 FP]}
+{18030}{}{I'll take the combat knife. [180 FP]}
+{18040}{}{Actually, I'd like to look at something else.}
+{19000}{}{There you go. Anything else?}
+{19010}{}{I think I'll keep looking.}
+{19020}{}{No, that's all for now. Thank you.}
+{20000}{}{[He pulls out a hanging rack of armors.] Let's find something that fits you properly.}
+{20010}{}{I'll take the leather jacket. [250 FP]}
+{20020}{}{Actually, I'd like to look at something else.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{not BoS}
+{1020}{}{Default}
+{2000}{}{Hello, Brother. Can I do anything for you?}
+{2010}{}{I have just been promoted and instructed to speak with you, sir.}
+{2020}{}{I'd like to browse your inventory, sir.}
+{2030}{}{No, I'm just looking around.}
+{3000}{}{Ah, an Initiate. Congratulations. I assume this is your first time receiving supplies?}
+{3010}{}{Yes, sir.}
+{4000}{}{Then let me give you a quick rundown. The two tasks you received for your promotion were menial. From this point on, you will receive much more substantial missions. As a reward for completing these tasks, you will receive faction points.}
+{4010}{}{[continue]}
+{5000}{}{Speak to any Brotherhood quartermaster like myself to exchange these points for rewards ranging from armor to weapons to meds. You may even be able to trade for weapon blueprints from time to time.}
+{5010}{}{[continue]}
+{6000}{}{Additionally, faction points will eventually be the means to you being promoted. However, the only member with permission to promote to those ranks is the head quartermaster in the Lost Hills.}
+{6010}{}{Anything else I should know, sir?}
+{7000}{}{As this is your first promotion, you get a free set of armor and a weapon. The armor is standard, so what type of weapons do you specialize in?}
+{7010}{}{Energy weapons, sir!}
+{7020}{}{Big guns, sir!}
+{7030}{}{Small guns, sir!}
+{7040}{}{Melee weapons, sir!}
+{7050}{}{I fight hand-to-hand combat, sir!}
+{7060}{}{Thrown weapons, sir!}
+{8000}{}{Very well, here are your weapon and armor. At the moment, we do not have any work for a Brother of your rank, but you will be notified when you are of use again here. Until then, your orders will be given directly to you in the Lost Hills. Dismissed.}
+{8010}{}{Thank you, sir.}
+{9000}{}{Very well, here are your weapon and armor. And I threw in a few healing powders in there since you'll be on the front lines. At the moment, we do not have any work for a Brother of your rank, but you will be notified when you are of use again here. Until then, your orders will be given directly to you in the Lost Hills. }
+{9010}{}{Thank you, sir.}
+{10000}{}{An Enclave spy! Kill him!}
+{11000}{}{Alright, let's see....You have @lex fp_bos@ points remaining.}
+{11010}{}{Thank you, sir. I'd like to browse your inventory now.}
+{11020}{}{Thank you, sir. I'll be going now.}
+{12000}{}{What are you looking for?}
+{12010}{}{Small guns.}
+{12020}{}{Big guns.}
+{12030}{}{Energy weapons.}
+{12040}{}{Medical supplies.}
+{12050}{}{Any other weapons?}
+{12060}{}{I'm looking for quality armor.}
+{12070}{}{Anything else you can offer me?}
+{12080}{}{Actually, I changed my mind. I don't need anything right now.}
+{13000}{}{[He pulls out a few holsters, each carrying a small gun and some ammunition.] Take your pick.}
+{13010}{}{I'll take the 10mm pistol. [150 FP]}
+{13020}{}{I'll take the shotgun. [200 FP]}
+{13030}{}{Actually, I'd like to look at something else.}
+{14000}{}{[He points to a pile of large weapons in a corner.] Sorry if I can't be bothered to move them all, but that's what you're looking for.}
+{14010}{}{I'll take the flamer. [500 FP]}
+{14020}{}{Actually, I'd like to look at something else.}
+{15000}{}{[He takes out metal cases, each carrying a high-tech weapon.] Take your pick.}
+{15010}{}{I'll take the Magneto Pistol. [400 FP]}
+{15020}{}{Actually, I'd like to look at something else.}
+{16000}{}{[He pulls out a first aid kit. Inside are a few meds.] This is all we have in the medical department.}
+{16010}{}{I need an antidote. [50 FP]}
+{16020}{}{I need some healing powder. [80 FP]}
+{16030}{}{I need a pack of cigarettes. [50 FP]}
+{16040}{}{Actually, I'd like to look at something else.}
+{17000}{}{[He shows you a bag full of assorted survival tools.] Any of this useful to you?}
+{17010}{}{I'll take the rope. [100 FP]}
+{17020}{}{I'll take the knife. [20 FP]}
+{17030}{}{I'll take the hatchet. [70 FP]}
+{17040}{}{I'll take the hammer. [60 FP]}
+{17050}{}{Actually, I'd like to look at something else.}
+{18000}{}{[He takes out quite an assortment of weapons.] What looks good to you?}
+{18010}{}{I'll take the spiked knuckles. [200 FP]}
+{18020}{}{I'll take a throwing knife. [120 FP]}
+{18030}{}{I'll take the combat knife. [180 FP]}
+{18040}{}{Actually, I'd like to look at something else.}
+{19000}{}{There you go. Anything else?}
+{19010}{}{I think I'll keep looking.}
+{19020}{}{No, that's all for now. Thank you.}
+{20000}{}{[He pulls out a hanging rack of armors.] Let's find something that fits you properly.}
+{20010}{}{I'll take the leather jacket. [250 FP]}
+{20020}{}{Actually, I'd like to look at something else.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{not BoS}
+{1020}{}{Default}
+{2000}{}{Hello, Brother. Can I do anything for you?}
+{2010}{}{I have just been promoted and instructed to speak with you, sir.}
+{2020}{}{I'd like to browse your inventory, sir.}
+{2030}{}{No, I'm just looking around.}
+{3000}{}{Ah, an Initiate. Congratulations. I assume this is your first time receiving supplies?}
+{3010}{}{Yes, sir.}
+{4000}{}{Then let me give you a quick rundown. The two tasks you received for your promotion were menial. From this point on, you will receive much more substantial missions. As a reward for completing these tasks, you will receive faction points.}
+{4010}{}{[continue]}
+{5000}{}{Speak to any Brotherhood quartermaster like myself to exchange these points for rewards ranging from armor to weapons to meds. You may even be able to trade for weapon blueprints from time to time.}
+{5010}{}{[continue]}
+{6000}{}{Additionally, faction points will eventually be the means to you being promoted. However, the only member with permission to promote to those ranks is the head quartermaster in the Lost Hills.}
+{6010}{}{Anything else I should know, sir?}
+{7000}{}{As this is your first promotion, you get a free set of armor and a weapon. The armor is standard, so what type of weapons do you specialize in?}
+{7010}{}{Energy weapons, sir!}
+{7020}{}{Big guns, sir!}
+{7030}{}{Small guns, sir!}
+{7040}{}{Melee weapons, sir!}
+{7050}{}{I fight hand-to-hand combat, sir!}
+{7060}{}{Thrown weapons, sir!}
+{8000}{}{Very well, here are your weapon and armor. At the moment, we do not have any work for a Brother of your rank, but you will be notified when you are of use again here. Until then, your orders will be given directly to you in the Lost Hills. Dismissed.}
+{8010}{}{Thank you, sir.}
+{9000}{}{Very well, here are your weapon and armor. And I threw in a few healing powders in there since you'll be on the front lines. At the moment, we do not have any work for a Brother of your rank, but you will be notified when you are of use again here. Until then, your orders will be given directly to you in the Lost Hills. }
+{9010}{}{Thank you, sir.}
+{10000}{}{An Enclave spy! Kill him!}
+{11000}{}{Alright, let's see....You have @lex fp_bos@ points remaining.}
+{11010}{}{Thank you, sir. I'd like to browse your inventory now.}
+{11020}{}{Thank you, sir. I'll be going now.}
+{12000}{}{What are you looking for?}
+{12010}{}{Small guns.}
+{12020}{}{Big guns.}
+{12030}{}{Energy weapons.}
+{12040}{}{Medical supplies.}
+{12050}{}{Any other weapons?}
+{12060}{}{I'm looking for quality armor.}
+{12070}{}{Anything else you can offer me?}
+{12080}{}{Actually, I changed my mind. I don't need anything right now.}
+{13000}{}{[He pulls out a few holsters, each carrying a small gun and some ammunition.] Take your pick.}
+{13010}{}{I'll take the 10mm pistol. [150 FP]}
+{13020}{}{I'll take the shotgun. [200 FP]}
+{13030}{}{Actually, I'd like to look at something else.}
+{14000}{}{[He points to a pile of large weapons in a corner.] Sorry if I can't be bothered to move them all, but that's what you're looking for.}
+{14010}{}{I'll take the flamer. [500 FP]}
+{14020}{}{Actually, I'd like to look at something else.}
+{15000}{}{[He takes out metal cases, each carrying a high-tech weapon.] Take your pick.}
+{15010}{}{I'll take the Magneto Pistol. [400 FP]}
+{15020}{}{Actually, I'd like to look at something else.}
+{16000}{}{[He pulls out a first aid kit. Inside are a few meds.] This is all we have in the medical department.}
+{16010}{}{I need an antidote. [50 FP]}
+{16020}{}{I need some healing powder. [80 FP]}
+{16030}{}{I need a pack of cigarettes. [50 FP]}
+{16040}{}{Actually, I'd like to look at something else.}
+{17000}{}{[He shows you a bag full of assorted survival tools.] Any of this useful to you?}
+{17010}{}{I'll take the rope. [100 FP]}
+{17020}{}{I'll take the knife. [20 FP]}
+{17030}{}{I'll take the hatchet. [70 FP]}
+{17040}{}{I'll take the hammer. [60 FP]}
+{17050}{}{Actually, I'd like to look at something else.}
+{18000}{}{[He takes out quite an assortment of weapons.] What looks good to you?}
+{18010}{}{I'll take the spiked knuckles. [200 FP]}
+{18020}{}{I'll take a throwing knife. [120 FP]}
+{18030}{}{I'll take the combat knife. [180 FP]}
+{18040}{}{Actually, I'd like to look at something else.}
+{19000}{}{There you go. Anything else?}
+{19010}{}{I think I'll keep looking.}
+{19020}{}{No, that's all for now. Thank you.}
+{20000}{}{[He pulls out a hanging rack of armors.] Let's find something that fits you properly.}
+{20010}{}{I'll take the leather jacket. [250 FP]}
+{20020}{}{Actually, I'd like to look at something else.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS}

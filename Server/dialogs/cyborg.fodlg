@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -202,6 +202,297 @@ lang=engl czec
 {13000}{}{Success}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{2000}{}{system initializing...}
+{2010}{}{Login}
+{2020}{}{Turn off}
+{3000}{}{authentication required}
+{3010}{}{Password ************}
+{4000}{}{authentication token accepted, choose action}
+{4010}{}{Status}
+{4020}{}{Installation}
+{4030}{}{Uninstall module}
+{4040}{}{Find a Joke}
+{4050}{}{Logout}
+{5000}{}{Choose action}
+{5010}{}{S.P.E.C.I.A.L Implants}
+{5020}{}{Combat Implants}
+{5030}{}{Back}
+{6000}{}{Choose action}
+{6010}{}{S.P.E.C.I.A.L Implants}
+{6020}{}{Combat Implants}
+{6030}{}{Back}
+{7000}{}{Choose Module}
+{7010}{}{Hypertrophy Accelerator}
+{7020}{}{Optics Enhancer}
+{7030}{}{	Nociception Regulator}
+{7040}{}{	Empathy Synthesizer}
+{7050}{}{Logic Co-Processor}
+{7060}{}{Reflex Booster}
+{7070}{}{	Probability Calculator}
+{8000}{}{Action success}
+{8010}{}{Back}
+{8020}{}{Logout}
+{9000}{}{Choose Module}
+{9010}{}{Dermal Impact Armor}
+{9020}{}{Phoenix Armor Implants}
+{9030}{}{Aggressive Sensors}
+{9040}{}{	Dragon System}
+{9050}{}{	Tiger Movement}
+{9060}{}{	Tactical Chip}
+{9070}{}{	Nemean Armor}
+{9080}{}{	Dermal Impact Armor}
+{9090}{}{	Phoenix Armor Implants}
+{9100}{}{Aggressive Sensors}
+{9110}{}{Dragon System}
+{9120}{}{	Claw Module}
+{9130}{}{Tiger Movement}
+{9140}{}{	Tactical Chip}
+{9150}{}{Dermal Impact Armor}
+{9160}{}{Phoenix Armor Implants}
+{9170}{}{Aggressive Sensors}
+{9180}{}{Dragon System}
+{9190}{}{	Claw Module}
+{9200}{}{Tiger Movement}
+{9210}{}{	Tactical Chip}
+{9220}{}{Claw Module}
+{10000}{}{Choose Module}
+{10010}{}{Hypertrophy Accelerator}
+{10020}{}{Optics Enhancer}
+{10030}{}{Nociception Regulator}
+{10040}{}{Empathy Synthesizer}
+{10050}{}{Logic Co-Processor}
+{10060}{}{Reflex Booster}
+{10070}{}{	Probability Calculator}
+{11000}{}{Choose Module}
+{11010}{}{	Dermal Impact Armor}
+{11020}{}{	Dermal Impact Armor}
+{11030}{}{	Dermal Impact Armor}
+{11040}{}{Phoenix Armor Implants}
+{11050}{}{Phoenix Armor Implants}
+{11060}{}{Phoenix Armor Implants}
+{11070}{}{	Aggressive Sensors}
+{11080}{}{	Aggressive Sensors}
+{11090}{}{	Aggressive Sensors}
+{11100}{}{Dragon System}
+{11110}{}{Dragon System}
+{11120}{}{Dragon System}
+{11130}{}{	Claw Module}
+{11140}{}{	Claw Module}
+{11150}{}{	Claw Module}
+{11160}{}{Tiger Movement}
+{11170}{}{Tiger Movement}
+{11180}{}{Tiger Movement}
+{11190}{}{Tactical Chip}
+{11200}{}{Tactical Chip}
+{11210}{}{Tactical Chip}
+{11220}{}{	Nemean Armor}
+{12000}{}{Checking...}
+{12010}{}{Repair broken optics}
+{12020}{}{Repair left arm}
+{12030}{}{Repair right arm}
+{12040}{}{Repair left leg}
+{12050}{}{Repair right leg}
+{12060}{}{back}
+{13000}{}{Success}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{2000}{}{system initializing...}
+{2010}{}{Login}
+{2020}{}{Turn off}
+{3000}{}{authentication required}
+{3010}{}{Password ************}
+{4000}{}{authentication token accepted, choose action}
+{4010}{}{Status}
+{4020}{}{Installation}
+{4030}{}{Uninstall module}
+{4040}{}{Find a Joke}
+{4050}{}{Logout}
+{5000}{}{Choose action}
+{5010}{}{S.P.E.C.I.A.L Implants}
+{5020}{}{Combat Implants}
+{5030}{}{Back}
+{6000}{}{Choose action}
+{6010}{}{S.P.E.C.I.A.L Implants}
+{6020}{}{Combat Implants}
+{6030}{}{Back}
+{7000}{}{Choose Module}
+{7010}{}{Hypertrophy Accelerator}
+{7020}{}{Optics Enhancer}
+{7030}{}{	Nociception Regulator}
+{7040}{}{	Empathy Synthesizer}
+{7050}{}{Logic Co-Processor}
+{7060}{}{Reflex Booster}
+{7070}{}{	Probability Calculator}
+{8000}{}{Action success}
+{8010}{}{Back}
+{8020}{}{Logout}
+{9000}{}{Choose Module}
+{9010}{}{Dermal Impact Armor}
+{9020}{}{Phoenix Armor Implants}
+{9030}{}{Aggressive Sensors}
+{9040}{}{	Dragon System}
+{9050}{}{	Tiger Movement}
+{9060}{}{	Tactical Chip}
+{9070}{}{	Nemean Armor}
+{9080}{}{	Dermal Impact Armor}
+{9090}{}{	Phoenix Armor Implants}
+{9100}{}{Aggressive Sensors}
+{9110}{}{Dragon System}
+{9120}{}{	Claw Module}
+{9130}{}{Tiger Movement}
+{9140}{}{	Tactical Chip}
+{9150}{}{Dermal Impact Armor}
+{9160}{}{Phoenix Armor Implants}
+{9170}{}{Aggressive Sensors}
+{9180}{}{Dragon System}
+{9190}{}{	Claw Module}
+{9200}{}{Tiger Movement}
+{9210}{}{	Tactical Chip}
+{9220}{}{Claw Module}
+{10000}{}{Choose Module}
+{10010}{}{Hypertrophy Accelerator}
+{10020}{}{Optics Enhancer}
+{10030}{}{Nociception Regulator}
+{10040}{}{Empathy Synthesizer}
+{10050}{}{Logic Co-Processor}
+{10060}{}{Reflex Booster}
+{10070}{}{	Probability Calculator}
+{11000}{}{Choose Module}
+{11010}{}{	Dermal Impact Armor}
+{11020}{}{	Dermal Impact Armor}
+{11030}{}{	Dermal Impact Armor}
+{11040}{}{Phoenix Armor Implants}
+{11050}{}{Phoenix Armor Implants}
+{11060}{}{Phoenix Armor Implants}
+{11070}{}{	Aggressive Sensors}
+{11080}{}{	Aggressive Sensors}
+{11090}{}{	Aggressive Sensors}
+{11100}{}{Dragon System}
+{11110}{}{Dragon System}
+{11120}{}{Dragon System}
+{11130}{}{	Claw Module}
+{11140}{}{	Claw Module}
+{11150}{}{	Claw Module}
+{11160}{}{Tiger Movement}
+{11170}{}{Tiger Movement}
+{11180}{}{Tiger Movement}
+{11190}{}{Tactical Chip}
+{11200}{}{Tactical Chip}
+{11210}{}{Tactical Chip}
+{11220}{}{	Nemean Armor}
+{12000}{}{Checking...}
+{12010}{}{Repair broken optics}
+{12020}{}{Repair left arm}
+{12030}{}{Repair right arm}
+{12040}{}{Repair left leg}
+{12050}{}{Repair right leg}
+{12060}{}{back}
+{13000}{}{Success}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeii}
+{2000}{}{system initializing...}
+{2010}{}{Login}
+{2020}{}{Turn off}
+{3000}{}{authentication required}
+{3010}{}{Password ************}
+{4000}{}{authentication token accepted, choose action}
+{4010}{}{Status}
+{4020}{}{Installation}
+{4030}{}{Uninstall module}
+{4040}{}{Find a Joke}
+{4050}{}{Logout}
+{5000}{}{Choose action}
+{5010}{}{S.P.E.C.I.A.L Implants}
+{5020}{}{Combat Implants}
+{5030}{}{Back}
+{6000}{}{Choose action}
+{6010}{}{S.P.E.C.I.A.L Implants}
+{6020}{}{Combat Implants}
+{6030}{}{Back}
+{7000}{}{Choose Module}
+{7010}{}{Hypertrophy Accelerator}
+{7020}{}{Optics Enhancer}
+{7030}{}{	Nociception Regulator}
+{7040}{}{	Empathy Synthesizer}
+{7050}{}{Logic Co-Processor}
+{7060}{}{Reflex Booster}
+{7070}{}{	Probability Calculator}
+{8000}{}{Action success}
+{8010}{}{Back}
+{8020}{}{Logout}
+{9000}{}{Choose Module}
+{9010}{}{Dermal Impact Armor}
+{9020}{}{Phoenix Armor Implants}
+{9030}{}{Aggressive Sensors}
+{9040}{}{	Dragon System}
+{9050}{}{	Tiger Movement}
+{9060}{}{	Tactical Chip}
+{9070}{}{	Nemean Armor}
+{9080}{}{	Dermal Impact Armor}
+{9090}{}{	Phoenix Armor Implants}
+{9100}{}{Aggressive Sensors}
+{9110}{}{Dragon System}
+{9120}{}{	Claw Module}
+{9130}{}{Tiger Movement}
+{9140}{}{	Tactical Chip}
+{9150}{}{Dermal Impact Armor}
+{9160}{}{Phoenix Armor Implants}
+{9170}{}{Aggressive Sensors}
+{9180}{}{Dragon System}
+{9190}{}{	Claw Module}
+{9200}{}{Tiger Movement}
+{9210}{}{	Tactical Chip}
+{9220}{}{Claw Module}
+{10000}{}{Choose Module}
+{10010}{}{Hypertrophy Accelerator}
+{10020}{}{Optics Enhancer}
+{10030}{}{Nociception Regulator}
+{10040}{}{Empathy Synthesizer}
+{10050}{}{Logic Co-Processor}
+{10060}{}{Reflex Booster}
+{10070}{}{	Probability Calculator}
+{11000}{}{Choose Module}
+{11010}{}{	Dermal Impact Armor}
+{11020}{}{	Dermal Impact Armor}
+{11030}{}{	Dermal Impact Armor}
+{11040}{}{Phoenix Armor Implants}
+{11050}{}{Phoenix Armor Implants}
+{11060}{}{Phoenix Armor Implants}
+{11070}{}{	Aggressive Sensors}
+{11080}{}{	Aggressive Sensors}
+{11090}{}{	Aggressive Sensors}
+{11100}{}{Dragon System}
+{11110}{}{Dragon System}
+{11120}{}{Dragon System}
+{11130}{}{	Claw Module}
+{11140}{}{	Claw Module}
+{11150}{}{	Claw Module}
+{11160}{}{Tiger Movement}
+{11170}{}{Tiger Movement}
+{11180}{}{Tiger Movement}
+{11190}{}{Tactical Chip}
+{11200}{}{Tactical Chip}
+{11210}{}{Tactical Chip}
+{11220}{}{	Nemean Armor}
+{12000}{}{Checking...}
+{12010}{}{Repair broken optics}
+{12020}{}{Repair left arm}
+{12030}{}{Repair right arm}
+{12040}{}{Repair left leg}
+{12050}{}{Repair right leg}
+{12060}{}{back}
+{13000}{}{Success}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}

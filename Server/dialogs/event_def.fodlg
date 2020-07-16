@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -31,6 +31,45 @@ lang=engl czec
 {4010}{}{Aha... Yeah...Right.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Good! You will help us to fight for the indepedence! Here is your gear, fight with honor! Are you ready?}
+{3010}{}{I am. Lets get to it.}
+{3020}{}{give me a minute}
+{4000}{}{You are not in the list... Damn spies...}
+{4010}{}{Aha... Yeah...Right.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Good! You will help us to fight for the indepedence! Here is your gear, fight with honor! Are you ready?}
+{3010}{}{I am. Lets get to it.}
+{3020}{}{give me a minute}
+{4000}{}{You are not in the list... Damn spies...}
+{4010}{}{Aha... Yeah...Right.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Good! You will help us to fight for the indepedence! Here is your gear, fight with honor! Are you ready?}
+{3010}{}{I am. Lets get to it.}
+{3020}{}{give me a minute}
+{4000}{}{You are not in the list... Damn spies...}
+{4010}{}{Aha... Yeah...Right.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}

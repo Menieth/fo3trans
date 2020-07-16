@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,42 @@ lang=engl czec
 {3020}{}{[Don't go yet.]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is Salvatore's Bar.]}
+{2010}{}{[Enter Salvatore's Bar.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave Salvatore's Bar?]}
+{3010}{}{[Exit Salvatore's Bar.]}
+{3020}{}{[Don't go yet.]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is Salvatore's Bar.]}
+{2010}{}{[Enter Salvatore's Bar.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave Salvatore's Bar?]}
+{3010}{}{[Exit Salvatore's Bar.]}
+{3020}{}{[Don't go yet.]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is Salvatore's Bar.]}
+{2010}{}{[Enter Salvatore's Bar.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave Salvatore's Bar?]}
+{3010}{}{[Exit Salvatore's Bar.]}
+{3020}{}{[Don't go yet.]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}

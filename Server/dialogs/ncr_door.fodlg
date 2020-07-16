@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! This area is restricted. Show your pass.}
+{2010}{}{[ Show him the pass ]}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! This area is restricted. Show your pass.}
+{2010}{}{[ Show him the pass ]}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Halt! This area is restricted. Show your pass.}
+{2010}{}{[ Show him the pass ]}
+{2020}{}{Alright, alright. I am leaving.}
+{3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

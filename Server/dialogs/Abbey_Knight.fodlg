@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,21 @@ lang=engl czec
 {2000}{}{...}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{2000}{}{...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{2000}{}{...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{2000}{}{...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{...}

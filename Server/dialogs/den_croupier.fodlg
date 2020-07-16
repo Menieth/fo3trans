@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {3000}{}{You know the rules.@@Can't take your money.@@We don't accept dirty money.@@Your money's no good at our tables.@@Don't make a scene, just walk away.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{-}
+{2000}{}{Looking to play the tables?@@You're a lucky fella, aren'tcha?@@Come on, just one game.@@Don't make me beg, now.}
+{3000}{}{You know the rules.@@Can't take your money.@@We don't accept dirty money.@@Your money's no good at our tables.@@Don't make a scene, just walk away.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{-}
+{2000}{}{Looking to play the tables?@@You're a lucky fella, aren'tcha?@@Come on, just one game.@@Don't make me beg, now.}
+{3000}{}{You know the rules.@@Can't take your money.@@We don't accept dirty money.@@Your money's no good at our tables.@@Don't make a scene, just walk away.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{-}
+{2000}{}{Looking to play the tables?@@You're a lucky fella, aren'tcha?@@Come on, just one game.@@Don't make me beg, now.}
+{3000}{}{You know the rules.@@Can't take your money.@@We don't accept dirty money.@@Your money's no good at our tables.@@Don't make a scene, just walk away.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}

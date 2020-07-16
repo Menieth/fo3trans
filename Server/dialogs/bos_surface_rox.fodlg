@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -153,6 +153,228 @@ lang=engl czec
 {22020}{}{Whatever... I had other questions.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{aa}
+{1020}{}{aa}
+{2000}{}{Wastelander, you are approaching the Brotherhood of Steel territory. What is your business here?}
+{2010}{}{What is this place?}
+{2020}{}{Who are you?}
+{2030}{}{Brotherhood of Steel territory? Well, I am so sorry to disturb your party in the middle of the fucking desert, but how come that a pice of sand land like this is now occupied by some tinmen?}
+{2040}{}{It seems I lost my way... I better go now.}
+{3000}{}{[ He silently stares at you ]}
+{3010}{}{Whatever... I had other questions.}
+{3020}{}{[ Stare at him silently ]}
+{4000}{}{What is it, wastelander?}
+{4010}{}{What is this place?}
+{4020}{}{Who are you?}
+{4030}{}{What are the rules here?}
+{4040}{}{I am searching for job.}
+{4050}{}{Nothing, See you.}
+{5000}{}{This is Lost Hills - the Brotherhood of Steel HQ.}
+{5010}{}{Alright, I had some other questions.}
+{5020}{}{Good. I will be going now.}
+{6000}{}{You are free to walk around the Perimeter - in another words, you are free to walk around anywhere except the area behind these gates. [ He points at the gates across the road ]}
+{6010}{}{Fine... One more thing.}
+{6020}{}{I see. Later.}
+{7000}{}{I am Paladin Rox and that's all you need to know.}
+{7010}{}{Sure. I have another question.}
+{7020}{}{Well see you, then, Rox.}
+{8000}{}{Hm... I am pretty sure that there are brothers and sisters who might need your help here. Walk around, ask some people.}
+{8010}{}{Cool, there is something else to discuss.}
+{8020}{}{I will go search for them, then.}
+{9000}{}{[ He keeps on staring at you ]}
+{9010}{}{[ Stare at him silently ]}
+{9020}{}{Whatever... I had other questions.}
+{10000}{}{[ He silently stares at you... still ]}
+{10010}{}{[ Stare at him silently ]}
+{10020}{}{Whatever... I had other questions.}
+{11000}{}{[ He silently stares at you ]}
+{11010}{}{[ Stare at him silently ]}
+{11020}{}{Whatever... I had other questions.}
+{12000}{}{[ He silently stares at you ]}
+{12010}{}{[ Stare at him silently ]}
+{12020}{}{Whatever... I had other questions.}
+{13000}{}{[ He silently stares at you ]}
+{13010}{}{[ Stare at him silently ]}
+{13020}{}{Whatever... I had other questions.}
+{14000}{}{[ Did you come here to play a stupid game of starings with this guy? ]}
+{14010}{}{[ Stare at him silently ]}
+{14020}{}{Whatever... I had other questions.}
+{15000}{}{[ Oh please... Stop it, you won't win in this fight! ]}
+{15010}{}{[ Stare at him silently ]}
+{15020}{}{Whatever... I had other questions.}
+{16000}{}{[ I said ENOUGH ]}
+{16010}{}{[ Stare at him silently ]}
+{16020}{}{Whatever... I had other questions.}
+{17000}{}{[ Alright, lets see how it goes ]}
+{17010}{}{[ Stare at him silently ]}
+{17020}{}{Whatever... I had other questions.}
+{18000}{}{[ He silently stares at you ]}
+{18010}{}{[ Stare at him silently ]}
+{18020}{}{Whatever... I had other questions.}
+{19000}{}{[ He silently stares at you ]}
+{19010}{}{[ Stare at him silently ]}
+{19020}{}{Whatever... I had other questions.}
+{20000}{}{[ He silently stares at you ]}
+{20010}{}{[ Stare at him silently ]}
+{20020}{}{Whatever... I had other questions.}
+{21000}{}{[ Gosh! Alright you got me here... I was too lazy to make a proper dialog for this guy. Are you happy now? ]}
+{21010}{}{[ Stare at him silently ]}
+{21020}{}{Whatever... I had other questions.}
+{22000}{}{[ You know what, just go take a walk ]}
+{22010}{}{[ Stare at him silently ]}
+{22020}{}{Whatever... I had other questions.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{aa}
+{1020}{}{aa}
+{2000}{}{Wastelander, you are approaching the Brotherhood of Steel territory. What is your business here?}
+{2010}{}{What is this place?}
+{2020}{}{Who are you?}
+{2030}{}{Brotherhood of Steel territory? Well, I am so sorry to disturb your party in the middle of the fucking desert, but how come that a pice of sand land like this is now occupied by some tinmen?}
+{2040}{}{It seems I lost my way... I better go now.}
+{3000}{}{[ He silently stares at you ]}
+{3010}{}{Whatever... I had other questions.}
+{3020}{}{[ Stare at him silently ]}
+{4000}{}{What is it, wastelander?}
+{4010}{}{What is this place?}
+{4020}{}{Who are you?}
+{4030}{}{What are the rules here?}
+{4040}{}{I am searching for job.}
+{4050}{}{Nothing, See you.}
+{5000}{}{This is Lost Hills - the Brotherhood of Steel HQ.}
+{5010}{}{Alright, I had some other questions.}
+{5020}{}{Good. I will be going now.}
+{6000}{}{You are free to walk around the Perimeter - in another words, you are free to walk around anywhere except the area behind these gates. [ He points at the gates across the road ]}
+{6010}{}{Fine... One more thing.}
+{6020}{}{I see. Later.}
+{7000}{}{I am Paladin Rox and that's all you need to know.}
+{7010}{}{Sure. I have another question.}
+{7020}{}{Well see you, then, Rox.}
+{8000}{}{Hm... I am pretty sure that there are brothers and sisters who might need your help here. Walk around, ask some people.}
+{8010}{}{Cool, there is something else to discuss.}
+{8020}{}{I will go search for them, then.}
+{9000}{}{[ He keeps on staring at you ]}
+{9010}{}{[ Stare at him silently ]}
+{9020}{}{Whatever... I had other questions.}
+{10000}{}{[ He silently stares at you... still ]}
+{10010}{}{[ Stare at him silently ]}
+{10020}{}{Whatever... I had other questions.}
+{11000}{}{[ He silently stares at you ]}
+{11010}{}{[ Stare at him silently ]}
+{11020}{}{Whatever... I had other questions.}
+{12000}{}{[ He silently stares at you ]}
+{12010}{}{[ Stare at him silently ]}
+{12020}{}{Whatever... I had other questions.}
+{13000}{}{[ He silently stares at you ]}
+{13010}{}{[ Stare at him silently ]}
+{13020}{}{Whatever... I had other questions.}
+{14000}{}{[ Did you come here to play a stupid game of starings with this guy? ]}
+{14010}{}{[ Stare at him silently ]}
+{14020}{}{Whatever... I had other questions.}
+{15000}{}{[ Oh please... Stop it, you won't win in this fight! ]}
+{15010}{}{[ Stare at him silently ]}
+{15020}{}{Whatever... I had other questions.}
+{16000}{}{[ I said ENOUGH ]}
+{16010}{}{[ Stare at him silently ]}
+{16020}{}{Whatever... I had other questions.}
+{17000}{}{[ Alright, lets see how it goes ]}
+{17010}{}{[ Stare at him silently ]}
+{17020}{}{Whatever... I had other questions.}
+{18000}{}{[ He silently stares at you ]}
+{18010}{}{[ Stare at him silently ]}
+{18020}{}{Whatever... I had other questions.}
+{19000}{}{[ He silently stares at you ]}
+{19010}{}{[ Stare at him silently ]}
+{19020}{}{Whatever... I had other questions.}
+{20000}{}{[ He silently stares at you ]}
+{20010}{}{[ Stare at him silently ]}
+{20020}{}{Whatever... I had other questions.}
+{21000}{}{[ Gosh! Alright you got me here... I was too lazy to make a proper dialog for this guy. Are you happy now? ]}
+{21010}{}{[ Stare at him silently ]}
+{21020}{}{Whatever... I had other questions.}
+{22000}{}{[ You know what, just go take a walk ]}
+{22010}{}{[ Stare at him silently ]}
+{22020}{}{Whatever... I had other questions.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{aa}
+{1020}{}{aa}
+{2000}{}{Wastelander, you are approaching the Brotherhood of Steel territory. What is your business here?}
+{2010}{}{What is this place?}
+{2020}{}{Who are you?}
+{2030}{}{Brotherhood of Steel territory? Well, I am so sorry to disturb your party in the middle of the fucking desert, but how come that a pice of sand land like this is now occupied by some tinmen?}
+{2040}{}{It seems I lost my way... I better go now.}
+{3000}{}{[ He silently stares at you ]}
+{3010}{}{Whatever... I had other questions.}
+{3020}{}{[ Stare at him silently ]}
+{4000}{}{What is it, wastelander?}
+{4010}{}{What is this place?}
+{4020}{}{Who are you?}
+{4030}{}{What are the rules here?}
+{4040}{}{I am searching for job.}
+{4050}{}{Nothing, See you.}
+{5000}{}{This is Lost Hills - the Brotherhood of Steel HQ.}
+{5010}{}{Alright, I had some other questions.}
+{5020}{}{Good. I will be going now.}
+{6000}{}{You are free to walk around the Perimeter - in another words, you are free to walk around anywhere except the area behind these gates. [ He points at the gates across the road ]}
+{6010}{}{Fine... One more thing.}
+{6020}{}{I see. Later.}
+{7000}{}{I am Paladin Rox and that's all you need to know.}
+{7010}{}{Sure. I have another question.}
+{7020}{}{Well see you, then, Rox.}
+{8000}{}{Hm... I am pretty sure that there are brothers and sisters who might need your help here. Walk around, ask some people.}
+{8010}{}{Cool, there is something else to discuss.}
+{8020}{}{I will go search for them, then.}
+{9000}{}{[ He keeps on staring at you ]}
+{9010}{}{[ Stare at him silently ]}
+{9020}{}{Whatever... I had other questions.}
+{10000}{}{[ He silently stares at you... still ]}
+{10010}{}{[ Stare at him silently ]}
+{10020}{}{Whatever... I had other questions.}
+{11000}{}{[ He silently stares at you ]}
+{11010}{}{[ Stare at him silently ]}
+{11020}{}{Whatever... I had other questions.}
+{12000}{}{[ He silently stares at you ]}
+{12010}{}{[ Stare at him silently ]}
+{12020}{}{Whatever... I had other questions.}
+{13000}{}{[ He silently stares at you ]}
+{13010}{}{[ Stare at him silently ]}
+{13020}{}{Whatever... I had other questions.}
+{14000}{}{[ Did you come here to play a stupid game of starings with this guy? ]}
+{14010}{}{[ Stare at him silently ]}
+{14020}{}{Whatever... I had other questions.}
+{15000}{}{[ Oh please... Stop it, you won't win in this fight! ]}
+{15010}{}{[ Stare at him silently ]}
+{15020}{}{Whatever... I had other questions.}
+{16000}{}{[ I said ENOUGH ]}
+{16010}{}{[ Stare at him silently ]}
+{16020}{}{Whatever... I had other questions.}
+{17000}{}{[ Alright, lets see how it goes ]}
+{17010}{}{[ Stare at him silently ]}
+{17020}{}{Whatever... I had other questions.}
+{18000}{}{[ He silently stares at you ]}
+{18010}{}{[ Stare at him silently ]}
+{18020}{}{Whatever... I had other questions.}
+{19000}{}{[ He silently stares at you ]}
+{19010}{}{[ Stare at him silently ]}
+{19020}{}{Whatever... I had other questions.}
+{20000}{}{[ He silently stares at you ]}
+{20010}{}{[ Stare at him silently ]}
+{20020}{}{Whatever... I had other questions.}
+{21000}{}{[ Gosh! Alright you got me here... I was too lazy to make a proper dialog for this guy. Are you happy now? ]}
+{21010}{}{[ Stare at him silently ]}
+{21020}{}{Whatever... I had other questions.}
+{22000}{}{[ You know what, just go take a walk ]}
+{22010}{}{[ Stare at him silently ]}
+{22020}{}{Whatever... I had other questions.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{aa}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{important member}
+{1030}{}{disguised}
+{1040}{}{non-member}
+{2000}{}{I don’t have time to chitchat with the grunts!@@Stop interrupting my work, soldier.@@This is the research lab. What are you doing here? Leave immidiately!}
+{3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{important member}
+{1030}{}{disguised}
+{1040}{}{non-member}
+{2000}{}{I don’t have time to chitchat with the grunts!@@Stop interrupting my work, soldier.@@This is the research lab. What are you doing here? Leave immidiately!}
+{3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{important member}
+{1030}{}{disguised}
+{1040}{}{non-member}
+{2000}{}{I don’t have time to chitchat with the grunts!@@Stop interrupting my work, soldier.@@This is the research lab. What are you doing here? Leave immidiately!}
+{3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}

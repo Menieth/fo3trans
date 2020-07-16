@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -22,6 +22,24 @@ lang=engl czec
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ioaao}
+{2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}

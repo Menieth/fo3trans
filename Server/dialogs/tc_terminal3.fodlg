@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -35,6 +35,51 @@ lang=engl czec
 {4020}{}{[ Back ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}
+{2010}{}{[ Somebody? ]}
+{2020}{}{[ Notification ]}
+{2030}{}{[ Exit ]}
+{3000}{}{Guys? The hell is that green liquid I see spitting out of the chambers' rooms? Are these infected materials? The hell is happening?}
+{3010}{}{[ Exit ]}
+{3020}{}{[ Back ]}
+{4000}{}{[ WARNING! VIRUS LEAK DETECTED! THE COMLEX WILL GET UNDER LOCKDOWN IN 1 MINUTE. PLEASE PROCEED TO YOUR PERSONAL EMERGENCY ESCAPE ROUTE. ]}
+{4010}{}{[ Exit ]}
+{4020}{}{[ Back ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}
+{2010}{}{[ Somebody? ]}
+{2020}{}{[ Notification ]}
+{2030}{}{[ Exit ]}
+{3000}{}{Guys? The hell is that green liquid I see spitting out of the chambers' rooms? Are these infected materials? The hell is happening?}
+{3010}{}{[ Exit ]}
+{3020}{}{[ Back ]}
+{4000}{}{[ WARNING! VIRUS LEAK DETECTED! THE COMLEX WILL GET UNDER LOCKDOWN IN 1 MINUTE. PLEASE PROCEED TO YOUR PERSONAL EMERGENCY ESCAPE ROUTE. ]}
+{4010}{}{[ Exit ]}
+{4020}{}{[ Back ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}
+{2010}{}{[ Somebody? ]}
+{2020}{}{[ Notification ]}
+{2030}{}{[ Exit ]}
+{3000}{}{Guys? The hell is that green liquid I see spitting out of the chambers' rooms? Are these infected materials? The hell is happening?}
+{3010}{}{[ Exit ]}
+{3020}{}{[ Back ]}
+{4000}{}{[ WARNING! VIRUS LEAK DETECTED! THE COMLEX WILL GET UNDER LOCKDOWN IN 1 MINUTE. PLEASE PROCEED TO YOUR PERSONAL EMERGENCY ESCAPE ROUTE. ]}
+{4010}{}{[ Exit ]}
+{4020}{}{[ Back ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

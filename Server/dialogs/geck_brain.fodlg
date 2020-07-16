@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Normal}
+{2000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
+{3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Normal}
+{2000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
+{3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{1020}{}{Normal}
+{2000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
+{3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }

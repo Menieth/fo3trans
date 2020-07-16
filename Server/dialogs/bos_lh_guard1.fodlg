@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,24 @@ lang=engl czec
 {2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

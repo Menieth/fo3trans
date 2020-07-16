@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Hey there, smoothskin.@@Buy us a drink, smoothskin.@@Boy, am I thirsty.@@Too good to drink with us?@@Where are my pals, Johnny Stroller and Jim Bean?@@I’ll have mine shaken, not stirred.@@Ask Wooz to tell you a story.@@Let’s sing a song.@@…And then the heads do what? I just don’t understand Wooz.@@What’s an apple?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Predialogue installations}
+{2000}{}{Hey there, smoothskin.@@Buy us a drink, smoothskin.@@Boy, am I thirsty.@@Too good to drink with us?@@Where are my pals, Johnny Stroller and Jim Bean?@@I’ll have mine shaken, not stirred.@@Ask Wooz to tell you a story.@@Let’s sing a song.@@…And then the heads do what? I just don’t understand Wooz.@@What’s an apple?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Predialogue installations}
+{2000}{}{Hey there, smoothskin.@@Buy us a drink, smoothskin.@@Boy, am I thirsty.@@Too good to drink with us?@@Where are my pals, Johnny Stroller and Jim Bean?@@I’ll have mine shaken, not stirred.@@Ask Wooz to tell you a story.@@Let’s sing a song.@@…And then the heads do what? I just don’t understand Wooz.@@What’s an apple?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Predialogue installations}
+{2000}{}{Hey there, smoothskin.@@Buy us a drink, smoothskin.@@Boy, am I thirsty.@@Too good to drink with us?@@Where are my pals, Johnny Stroller and Jim Bean?@@I’ll have mine shaken, not stirred.@@Ask Wooz to tell you a story.@@Let’s sing a song.@@…And then the heads do what? I just don’t understand Wooz.@@What’s an apple?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Predialogue installations}

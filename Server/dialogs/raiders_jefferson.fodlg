@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,36 @@ lang=engl czec
 {3010}{}{Just checking.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{go}
+{2000}{}{Yep?}
+{2010}{}{You the brahmin guy?}
+{2020}{}{Nothing.}
+{3000}{}{Indeed.}
+{3010}{}{Just checking.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{go}
+{2000}{}{Yep?}
+{2010}{}{You the brahmin guy?}
+{2020}{}{Nothing.}
+{3000}{}{Indeed.}
+{3010}{}{Just checking.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{go}
+{2000}{}{Yep?}
+{2010}{}{You the brahmin guy?}
+{2020}{}{Nothing.}
+{3000}{}{Indeed.}
+{3010}{}{Just checking.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{go}

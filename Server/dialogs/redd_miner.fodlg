@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,30 @@ lang=engl czec
 {3000}{}{I've heard about you. I don't want any trouble.@@We don't like your kind in our town.@@You ever had a pickaxe beating, pal?@@(He glares and tightens his grip on his shovel)@@The hell are you looking at?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Hated}
+{2000}{}{Another day older and deeper in debt...@@I've got dirt everywhere.@@It sure is dark down there.@@Dig we must.@@We dig 'em and then we die in 'em.@@Why isn't gold ever found on the surface?}
+{3000}{}{I've heard about you. I don't want any trouble.@@We don't like your kind in our town.@@You ever had a pickaxe beating, pal?@@(He glares and tightens his grip on his shovel)@@The hell are you looking at?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Hated}
+{2000}{}{Another day older and deeper in debt...@@I've got dirt everywhere.@@It sure is dark down there.@@Dig we must.@@We dig 'em and then we die in 'em.@@Why isn't gold ever found on the surface?}
+{3000}{}{I've heard about you. I don't want any trouble.@@We don't like your kind in our town.@@You ever had a pickaxe beating, pal?@@(He glares and tightens his grip on his shovel)@@The hell are you looking at?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Hated}
+{2000}{}{Another day older and deeper in debt...@@I've got dirt everywhere.@@It sure is dark down there.@@Dig we must.@@We dig 'em and then we die in 'em.@@Why isn't gold ever found on the surface?}
+{3000}{}{I've heard about you. I don't want any trouble.@@We don't like your kind in our town.@@You ever had a pickaxe beating, pal?@@(He glares and tightens his grip on his shovel)@@The hell are you looking at?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

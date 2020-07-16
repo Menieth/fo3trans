@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -30,6 +30,39 @@ lang=engl czec
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{got water job}
+{1020}{}{-}
+{2000}{}{Hi there, stranger. Like my crops?@@Good day to you!@@Nice day, isn't it?@@This soil is much healthier than it looks.@@I'm trying to save these trees and I think it's working.@@There should be a fertilizer caravan. Now there's some money.@@Come on in, there's plenty of room.@@It's a little chilly out there; have a seat.@@Farming suits me.@@Did you know plants grow better when you're nice to them?@@I wish I had a little more land.@@Did you know there used to be large bodies of drinkable water?@@I've read about rivers. I sure wish I had one next to my fields.@@I wish the days were longer; there's so much to do.}
+{3000}{}{What's up?@@Yeh?@@What?}
+{3010}{}{I've got some water for you.@@Here, some water for you.}
+{3020}{}{Nothing, bye.}
+{4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{got water job}
+{1020}{}{-}
+{2000}{}{Hi there, stranger. Like my crops?@@Good day to you!@@Nice day, isn't it?@@This soil is much healthier than it looks.@@I'm trying to save these trees and I think it's working.@@There should be a fertilizer caravan. Now there's some money.@@Come on in, there's plenty of room.@@It's a little chilly out there; have a seat.@@Farming suits me.@@Did you know plants grow better when you're nice to them?@@I wish I had a little more land.@@Did you know there used to be large bodies of drinkable water?@@I've read about rivers. I sure wish I had one next to my fields.@@I wish the days were longer; there's so much to do.}
+{3000}{}{What's up?@@Yeh?@@What?}
+{3010}{}{I've got some water for you.@@Here, some water for you.}
+{3020}{}{Nothing, bye.}
+{4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{got water job}
+{1020}{}{-}
+{2000}{}{Hi there, stranger. Like my crops?@@Good day to you!@@Nice day, isn't it?@@This soil is much healthier than it looks.@@I'm trying to save these trees and I think it's working.@@There should be a fertilizer caravan. Now there's some money.@@Come on in, there's plenty of room.@@It's a little chilly out there; have a seat.@@Farming suits me.@@Did you know plants grow better when you're nice to them?@@I wish I had a little more land.@@Did you know there used to be large bodies of drinkable water?@@I've read about rivers. I sure wish I had one next to my fields.@@I wish the days were longer; there's so much to do.}
+{3000}{}{What's up?@@Yeh?@@What?}
+{3010}{}{I've got some water for you.@@Here, some water for you.}
+{3020}{}{Nothing, bye.}
+{4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}

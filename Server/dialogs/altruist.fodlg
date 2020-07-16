@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -111,6 +111,162 @@ lang=engl czec
 {4400}{}{@msg game 104611@}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, tester.}
+{2010}{}{Hello, now give me a level.}
+{2020}{}{Right, give me three levels.}
+{2030}{}{Remove my drug effects, pretty please.}
+{2040}{}{Give me a Support Perk that I am eligible to take.}
+{3000}{}{Yes.}
+{4000}{}{Which one?}
+{4010}{}{@msg game 103011@}
+{4020}{}{@msg game 103081@}
+{4030}{}{@msg game 103121@}
+{4040}{}{@msg game 103141@}
+{4050}{}{@msg game 103191@}
+{4060}{}{@msg game 103311@}
+{4070}{}{@msg game 103321@}
+{4080}{}{@msg game 103341@}
+{4090}{}{@msg game 103351@}
+{4100}{}{@msg game 103381@}
+{4110}{}{@msg game 103421@}
+{4120}{}{@msg game 103441@}
+{4130}{}{@msg game 103461@}
+{4140}{}{@msg game 103481@}
+{4150}{}{@msg game 103511@}
+{4160}{}{@msg game 103541@}
+{4170}{}{@msg game 103551@}
+{4180}{}{@msg game 103561@}
+{4190}{}{@msg game 103571@}
+{4200}{}{@msg game 103581@}
+{4210}{}{@msg game 103591@}
+{4220}{}{@msg game 103601@}
+{4230}{}{@msg game 103611@}
+{4240}{}{@msg game 103621@}
+{4250}{}{@msg game 103631@}
+{4260}{}{@msg game 103811@}
+{4270}{}{@msg game 103831@}
+{4280}{}{@msg game 103921@}
+{4290}{}{@msg game 103971@}
+{4300}{}{@msg game 103991@}
+{4310}{}{@msg game 104001@}
+{4320}{}{@msg game 104011@}
+{4330}{}{@msg game 104061@}
+{4340}{}{@msg game 104301@}
+{4350}{}{@msg game 104501@}
+{4360}{}{@msg game 104541@}
+{4370}{}{@msg game 104551@}
+{4380}{}{@msg game 104561@}
+{4390}{}{@msg game 104591@}
+{4400}{}{@msg game 104611@}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, tester.}
+{2010}{}{Hello, now give me a level.}
+{2020}{}{Right, give me three levels.}
+{2030}{}{Remove my drug effects, pretty please.}
+{2040}{}{Give me a Support Perk that I am eligible to take.}
+{3000}{}{Yes.}
+{4000}{}{Which one?}
+{4010}{}{@msg game 103011@}
+{4020}{}{@msg game 103081@}
+{4030}{}{@msg game 103121@}
+{4040}{}{@msg game 103141@}
+{4050}{}{@msg game 103191@}
+{4060}{}{@msg game 103311@}
+{4070}{}{@msg game 103321@}
+{4080}{}{@msg game 103341@}
+{4090}{}{@msg game 103351@}
+{4100}{}{@msg game 103381@}
+{4110}{}{@msg game 103421@}
+{4120}{}{@msg game 103441@}
+{4130}{}{@msg game 103461@}
+{4140}{}{@msg game 103481@}
+{4150}{}{@msg game 103511@}
+{4160}{}{@msg game 103541@}
+{4170}{}{@msg game 103551@}
+{4180}{}{@msg game 103561@}
+{4190}{}{@msg game 103571@}
+{4200}{}{@msg game 103581@}
+{4210}{}{@msg game 103591@}
+{4220}{}{@msg game 103601@}
+{4230}{}{@msg game 103611@}
+{4240}{}{@msg game 103621@}
+{4250}{}{@msg game 103631@}
+{4260}{}{@msg game 103811@}
+{4270}{}{@msg game 103831@}
+{4280}{}{@msg game 103921@}
+{4290}{}{@msg game 103971@}
+{4300}{}{@msg game 103991@}
+{4310}{}{@msg game 104001@}
+{4320}{}{@msg game 104011@}
+{4330}{}{@msg game 104061@}
+{4340}{}{@msg game 104301@}
+{4350}{}{@msg game 104501@}
+{4360}{}{@msg game 104541@}
+{4370}{}{@msg game 104551@}
+{4380}{}{@msg game 104561@}
+{4390}{}{@msg game 104591@}
+{4400}{}{@msg game 104611@}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello, tester.}
+{2010}{}{Hello, now give me a level.}
+{2020}{}{Right, give me three levels.}
+{2030}{}{Remove my drug effects, pretty please.}
+{2040}{}{Give me a Support Perk that I am eligible to take.}
+{3000}{}{Yes.}
+{4000}{}{Which one?}
+{4010}{}{@msg game 103011@}
+{4020}{}{@msg game 103081@}
+{4030}{}{@msg game 103121@}
+{4040}{}{@msg game 103141@}
+{4050}{}{@msg game 103191@}
+{4060}{}{@msg game 103311@}
+{4070}{}{@msg game 103321@}
+{4080}{}{@msg game 103341@}
+{4090}{}{@msg game 103351@}
+{4100}{}{@msg game 103381@}
+{4110}{}{@msg game 103421@}
+{4120}{}{@msg game 103441@}
+{4130}{}{@msg game 103461@}
+{4140}{}{@msg game 103481@}
+{4150}{}{@msg game 103511@}
+{4160}{}{@msg game 103541@}
+{4170}{}{@msg game 103551@}
+{4180}{}{@msg game 103561@}
+{4190}{}{@msg game 103571@}
+{4200}{}{@msg game 103581@}
+{4210}{}{@msg game 103591@}
+{4220}{}{@msg game 103601@}
+{4230}{}{@msg game 103611@}
+{4240}{}{@msg game 103621@}
+{4250}{}{@msg game 103631@}
+{4260}{}{@msg game 103811@}
+{4270}{}{@msg game 103831@}
+{4280}{}{@msg game 103921@}
+{4290}{}{@msg game 103971@}
+{4300}{}{@msg game 103991@}
+{4310}{}{@msg game 104001@}
+{4320}{}{@msg game 104011@}
+{4330}{}{@msg game 104061@}
+{4340}{}{@msg game 104301@}
+{4350}{}{@msg game 104501@}
+{4360}{}{@msg game 104541@}
+{4370}{}{@msg game 104551@}
+{4380}{}{@msg game 104561@}
+{4390}{}{@msg game 104591@}
+{4400}{}{@msg game 104611@}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,24 @@ lang=engl czec
 {2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

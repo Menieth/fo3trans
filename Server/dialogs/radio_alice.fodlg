@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -81,6 +81,120 @@ lang=engl czec
 {12000}{}{Well, beat it, jerk.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.}
+{2010}{}{Who are you?}
+{2020}{}{What is the point of the whole mess here?}
+{2030}{}{Just saying hi. See ya.}
+{2040}{}{Job's done.}
+{3000}{}{Name's Alice. I am working together with Duke here, helping him with broadcasts and equipment.}
+{3010}{}{Broadcasting? What is it all about?}
+{3020}{}{Tell me about yourself.}
+{3030}{}{Yeah... Whatever. Bye.}
+{4000}{}{Imagine! This will be the first radio transmitting all around the Wasteland! Isn't it great? We've come here recently, and what've we seen? Untouched equipment and huge powers. Radio broadcasts is our future!}
+{4010}{}{I see. Tell me about yourself.}
+{4020}{}{There is something else I wanted to ask...}
+{4030}{}{I see. That's all what I needed. Farewell.}
+{5000}{}{Can't say much. Me and Duke are brother and sister. We were born in New Reno and... Bleh, what a disgusting city. I had a choice either to become a thief or a whore. So me and my brother decided to rob one big guy there and just escape the city.}
+{5010}{}{I think you made a right choice.}
+{5020}{}{How could you do it? You would be a really nice whore.}
+{5030}{}{Pff... What a story. Who even cares?}
+{5040}{}{Alright, lets switch the topic.}
+{6000}{}{Right... May I ask you for something? Just a small work that should be done. The problem is that that guy, whom we robed... Well, he still hunts us. Alerio La Furneult - that's his name. He is a drug dealer working with Mordinos. The bastard stays in shadows, but there is a way to get him. Are you interested? I will pay you for the risk of course.}
+{6010}{}{I am not interested. Bye.}
+{6020}{}{I am in. What is it?}
+{7000}{}{Great. Take these explosives. I want you to plant them in a big blue box pile in Stables underground level. I used to work with Mordinos before, this is where they store different goods for Alerio to distribute. I know that Alerio always comes pesonally to check it up, so that's when we will catch him! But be careful. Guards there might not like it.}
+{7010}{}{Fine, I am on it.}
+{7020}{}{On the second thought... I don't want to get into this. Later.}
+{8000}{}{Alright. Just place the explosives, my man there will do the rest.}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9010}{}{Deal.}
+{9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
+{10000}{}{You get a point. 1700 caps.}
+{10010}{}{Ah come on. Do you really call it a fine payment?}
+{10020}{}{Deal.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{12000}{}{Well, beat it, jerk.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.}
+{2010}{}{Who are you?}
+{2020}{}{What is the point of the whole mess here?}
+{2030}{}{Just saying hi. See ya.}
+{2040}{}{Job's done.}
+{3000}{}{Name's Alice. I am working together with Duke here, helping him with broadcasts and equipment.}
+{3010}{}{Broadcasting? What is it all about?}
+{3020}{}{Tell me about yourself.}
+{3030}{}{Yeah... Whatever. Bye.}
+{4000}{}{Imagine! This will be the first radio transmitting all around the Wasteland! Isn't it great? We've come here recently, and what've we seen? Untouched equipment and huge powers. Radio broadcasts is our future!}
+{4010}{}{I see. Tell me about yourself.}
+{4020}{}{There is something else I wanted to ask...}
+{4030}{}{I see. That's all what I needed. Farewell.}
+{5000}{}{Can't say much. Me and Duke are brother and sister. We were born in New Reno and... Bleh, what a disgusting city. I had a choice either to become a thief or a whore. So me and my brother decided to rob one big guy there and just escape the city.}
+{5010}{}{I think you made a right choice.}
+{5020}{}{How could you do it? You would be a really nice whore.}
+{5030}{}{Pff... What a story. Who even cares?}
+{5040}{}{Alright, lets switch the topic.}
+{6000}{}{Right... May I ask you for something? Just a small work that should be done. The problem is that that guy, whom we robed... Well, he still hunts us. Alerio La Furneult - that's his name. He is a drug dealer working with Mordinos. The bastard stays in shadows, but there is a way to get him. Are you interested? I will pay you for the risk of course.}
+{6010}{}{I am not interested. Bye.}
+{6020}{}{I am in. What is it?}
+{7000}{}{Great. Take these explosives. I want you to plant them in a big blue box pile in Stables underground level. I used to work with Mordinos before, this is where they store different goods for Alerio to distribute. I know that Alerio always comes pesonally to check it up, so that's when we will catch him! But be careful. Guards there might not like it.}
+{7010}{}{Fine, I am on it.}
+{7020}{}{On the second thought... I don't want to get into this. Later.}
+{8000}{}{Alright. Just place the explosives, my man there will do the rest.}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9010}{}{Deal.}
+{9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
+{10000}{}{You get a point. 1700 caps.}
+{10010}{}{Ah come on. Do you really call it a fine payment?}
+{10020}{}{Deal.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{12000}{}{Well, beat it, jerk.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.}
+{2010}{}{Who are you?}
+{2020}{}{What is the point of the whole mess here?}
+{2030}{}{Just saying hi. See ya.}
+{2040}{}{Job's done.}
+{3000}{}{Name's Alice. I am working together with Duke here, helping him with broadcasts and equipment.}
+{3010}{}{Broadcasting? What is it all about?}
+{3020}{}{Tell me about yourself.}
+{3030}{}{Yeah... Whatever. Bye.}
+{4000}{}{Imagine! This will be the first radio transmitting all around the Wasteland! Isn't it great? We've come here recently, and what've we seen? Untouched equipment and huge powers. Radio broadcasts is our future!}
+{4010}{}{I see. Tell me about yourself.}
+{4020}{}{There is something else I wanted to ask...}
+{4030}{}{I see. That's all what I needed. Farewell.}
+{5000}{}{Can't say much. Me and Duke are brother and sister. We were born in New Reno and... Bleh, what a disgusting city. I had a choice either to become a thief or a whore. So me and my brother decided to rob one big guy there and just escape the city.}
+{5010}{}{I think you made a right choice.}
+{5020}{}{How could you do it? You would be a really nice whore.}
+{5030}{}{Pff... What a story. Who even cares?}
+{5040}{}{Alright, lets switch the topic.}
+{6000}{}{Right... May I ask you for something? Just a small work that should be done. The problem is that that guy, whom we robed... Well, he still hunts us. Alerio La Furneult - that's his name. He is a drug dealer working with Mordinos. The bastard stays in shadows, but there is a way to get him. Are you interested? I will pay you for the risk of course.}
+{6010}{}{I am not interested. Bye.}
+{6020}{}{I am in. What is it?}
+{7000}{}{Great. Take these explosives. I want you to plant them in a big blue box pile in Stables underground level. I used to work with Mordinos before, this is where they store different goods for Alerio to distribute. I know that Alerio always comes pesonally to check it up, so that's when we will catch him! But be careful. Guards there might not like it.}
+{7010}{}{Fine, I am on it.}
+{7020}{}{On the second thought... I don't want to get into this. Later.}
+{8000}{}{Alright. Just place the explosives, my man there will do the rest.}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9010}{}{Deal.}
+{9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
+{10000}{}{You get a point. 1700 caps.}
+{10010}{}{Ah come on. Do you really call it a fine payment?}
+{10020}{}{Deal.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{12000}{}{Well, beat it, jerk.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

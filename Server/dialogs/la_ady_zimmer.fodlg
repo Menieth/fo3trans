@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{I'm busy.@@Leave me alone.@@Come back later.@@I don't have time for people like you!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{I'm busy.@@Leave me alone.@@Come back later.@@I don't have time for people like you!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{I'm busy.@@Leave me alone.@@Come back later.@@I don't have time for people like you!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{I'm busy.@@Leave me alone.@@Come back later.@@I don't have time for people like you!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}

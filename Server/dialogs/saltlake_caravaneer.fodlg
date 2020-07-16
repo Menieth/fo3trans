@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Hello.@@What do you want? Don't you see that I'm busy?@@Look, I'm tired. Find someone else to bother, alright?@@Find our boss. He solves all our issues, not me.@@Whatever you want, you need to discuss it with our boss.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello.@@What do you want? Don't you see that I'm busy?@@Look, I'm tired. Find someone else to bother, alright?@@Find our boss. He solves all our issues, not me.@@Whatever you want, you need to discuss it with our boss.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello.@@What do you want? Don't you see that I'm busy?@@Look, I'm tired. Find someone else to bother, alright?@@Find our boss. He solves all our issues, not me.@@Whatever you want, you need to discuss it with our boss.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello.@@What do you want? Don't you see that I'm busy?@@Look, I'm tired. Find someone else to bother, alright?@@Find our boss. He solves all our issues, not me.@@Whatever you want, you need to discuss it with our boss.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

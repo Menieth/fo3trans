@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,24 @@ lang=engl czec
 {2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

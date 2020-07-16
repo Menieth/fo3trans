@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -18,6 +18,24 @@ lang=engl czec
 {2000}{}{Who are you?@@Hello.@@You look like one of those punks.@@Leave us in peace.@@I don't want to talk.@@Isn't there more to life than this?@@We're smarter than you think.@@Welcome to San Francisco.@@You seem like a person with a straight head.@@We're proud of our community.@@Respect our community and everything will be fine.@@Life around here could be better.@@What do you want?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Who are you?@@Hello.@@You look like one of those punks.@@Leave us in peace.@@I don't want to talk.@@Isn't there more to life than this?@@We're smarter than you think.@@Welcome to San Francisco.@@You seem like a person with a straight head.@@We're proud of our community.@@Respect our community and everything will be fine.@@Life around here could be better.@@What do you want?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Who are you?@@Hello.@@You look like one of those punks.@@Leave us in peace.@@I don't want to talk.@@Isn't there more to life than this?@@We're smarter than you think.@@Welcome to San Francisco.@@You seem like a person with a straight head.@@We're proud of our community.@@Respect our community and everything will be fine.@@Life around here could be better.@@What do you want?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Who are you?@@Hello.@@You look like one of those punks.@@Leave us in peace.@@I don't want to talk.@@Isn't there more to life than this?@@We're smarter than you think.@@Welcome to San Francisco.@@You seem like a person with a straight head.@@We're proud of our community.@@Respect our community and everything will be fine.@@Life around here could be better.@@What do you want?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}

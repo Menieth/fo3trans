@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -39,6 +39,57 @@ lang=engl czec
 {5000}{}{Thank you!@@I will go far away now!@@They killed my family!@@They destroyed my home!@@I am free now!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{slave free}
+{1030}{}{Answer text}
+{2000}{}{Please don't hurt me!@@Please, no!}
+{3000}{}{Please don't hurt me!@@Please set me free.@@I really want to be free.}
+{3010}{}{[You go away.]}
+{3020}{}{You are free!@@Run, you are free!@@You are free, run!@@Fast, run! You are free!}
+{3030}{}{You go away!@@You free!@@Free!}
+{4000}{}{@sex@|Oh god, thank you sir!||Oh god, thank you, miss!|}
+{4010}{}{[Done]}
+{4020}{}{[Combat] Actually, this was a joke.@@And now I will kill you.@@[Attack] And now I will hunt you down.@@[Attack] This will be a good hunt... }
+{4030}{}{[Attack] This joke, me kill you.@@[Attack] Now me kill you.@@[Attack]You dead now. Me big warrior!}
+{5000}{}{Thank you!@@I will go far away now!@@They killed my family!@@They destroyed my home!@@I am free now!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{slave free}
+{1030}{}{Answer text}
+{2000}{}{Please don't hurt me!@@Please, no!}
+{3000}{}{Please don't hurt me!@@Please set me free.@@I really want to be free.}
+{3010}{}{[You go away.]}
+{3020}{}{You are free!@@Run, you are free!@@You are free, run!@@Fast, run! You are free!}
+{3030}{}{You go away!@@You free!@@Free!}
+{4000}{}{@sex@|Oh god, thank you sir!||Oh god, thank you, miss!|}
+{4010}{}{[Done]}
+{4020}{}{[Combat] Actually, this was a joke.@@And now I will kill you.@@[Attack] And now I will hunt you down.@@[Attack] This will be a good hunt... }
+{4030}{}{[Attack] This joke, me kill you.@@[Attack] Now me kill you.@@[Attack]You dead now. Me big warrior!}
+{5000}{}{Thank you!@@I will go far away now!@@They killed my family!@@They destroyed my home!@@I am free now!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{slave free}
+{1030}{}{Answer text}
+{2000}{}{Please don't hurt me!@@Please, no!}
+{3000}{}{Please don't hurt me!@@Please set me free.@@I really want to be free.}
+{3010}{}{[You go away.]}
+{3020}{}{You are free!@@Run, you are free!@@You are free, run!@@Fast, run! You are free!}
+{3030}{}{You go away!@@You free!@@Free!}
+{4000}{}{@sex@|Oh god, thank you sir!||Oh god, thank you, miss!|}
+{4010}{}{[Done]}
+{4020}{}{[Combat] Actually, this was a joke.@@And now I will kill you.@@[Attack] And now I will hunt you down.@@[Attack] This will be a good hunt... }
+{4030}{}{[Attack] This joke, me kill you.@@[Attack] Now me kill you.@@[Attack]You dead now. Me big warrior!}
+{5000}{}{Thank you!@@I will go far away now!@@They killed my family!@@They destroyed my home!@@I am free now!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}

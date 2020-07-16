@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -33,6 +33,42 @@ lang=engl czec
 {4010}{}{Okay, okay! I'm leaving.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Who are you, and what the hell are you doing in my office?}
+{2010}{}{I'm looking for work, Madam President.}
+{3000}{}{Right. There's no work for you here. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
+{3010}{}{I'm not leaving until I get a job.}
+{3020}{}{Fine. Bye.}
+{4000}{}{Hell and thunder! Stop wasting my time, or I'll call the guards.}
+{4010}{}{Okay, okay! I'm leaving.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Who are you, and what the hell are you doing in my office?}
+{2010}{}{I'm looking for work, Madam President.}
+{3000}{}{Right. There's no work for you here. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
+{3010}{}{I'm not leaving until I get a job.}
+{3020}{}{Fine. Bye.}
+{4000}{}{Hell and thunder! Stop wasting my time, or I'll call the guards.}
+{4010}{}{Okay, okay! I'm leaving.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Who are you, and what the hell are you doing in my office?}
+{2010}{}{I'm looking for work, Madam President.}
+{3000}{}{Right. There's no work for you here. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
+{3010}{}{I'm not leaving until I get a job.}
+{3020}{}{Fine. Bye.}
+{4000}{}{Hell and thunder! Stop wasting my time, or I'll call the guards.}
+{4010}{}{Okay, okay! I'm leaving.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

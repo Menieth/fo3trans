@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {3000}{}{[ Inititating... ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ManageIT Tec Terminal number 44 ]}
+{2010}{}{[ Overload the system. Warning, it may cause all emergency doors getting unlocked! ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Inititating... ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ManageIT Tec Terminal number 44 ]}
+{2010}{}{[ Overload the system. Warning, it may cause all emergency doors getting unlocked! ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Inititating... ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ManageIT Tec Terminal number 44 ]}
+{2010}{}{[ Overload the system. Warning, it may cause all emergency doors getting unlocked! ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Inititating... ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

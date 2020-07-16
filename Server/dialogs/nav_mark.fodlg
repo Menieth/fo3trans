@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,27 @@ lang=engl czec
 {2000}{}{What are you looking at?@@Move along.@@No loitering.@@I'll put you on report.@@Get back to work.@@Do you have clearance for this section?@@Keep on keeping on.@@Button up.@@Some days it doesn't pay to get out of bed.@@Every inspection's a parade.@@I love my work.@@Did you hear something?@@My feet are *killing* me.@@So, did you hear the one about the new second louie?@@Nothing ever happens here anyway.@@I sure wish something exciting would happen.@@Radio check. Check , check. You reading me?@@*Yawn*@@Hey, poker game tonight. Man, do I feel lucky too.@@Keep sharp.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Enclave member}
+{1020}{}{disguised}
+{2000}{}{What are you looking at?@@Move along.@@No loitering.@@I'll put you on report.@@Get back to work.@@Do you have clearance for this section?@@Keep on keeping on.@@Button up.@@Some days it doesn't pay to get out of bed.@@Every inspection's a parade.@@I love my work.@@Did you hear something?@@My feet are *killing* me.@@So, did you hear the one about the new second louie?@@Nothing ever happens here anyway.@@I sure wish something exciting would happen.@@Radio check. Check , check. You reading me?@@*Yawn*@@Hey, poker game tonight. Man, do I feel lucky too.@@Keep sharp.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Enclave member}
+{1020}{}{disguised}
+{2000}{}{What are you looking at?@@Move along.@@No loitering.@@I'll put you on report.@@Get back to work.@@Do you have clearance for this section?@@Keep on keeping on.@@Button up.@@Some days it doesn't pay to get out of bed.@@Every inspection's a parade.@@I love my work.@@Did you hear something?@@My feet are *killing* me.@@So, did you hear the one about the new second louie?@@Nothing ever happens here anyway.@@I sure wish something exciting would happen.@@Radio check. Check , check. You reading me?@@*Yawn*@@Hey, poker game tonight. Man, do I feel lucky too.@@Keep sharp.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Enclave member}
+{1020}{}{disguised}
+{2000}{}{What are you looking at?@@Move along.@@No loitering.@@I'll put you on report.@@Get back to work.@@Do you have clearance for this section?@@Keep on keeping on.@@Button up.@@Some days it doesn't pay to get out of bed.@@Every inspection's a parade.@@I love my work.@@Did you hear something?@@My feet are *killing* me.@@So, did you hear the one about the new second louie?@@Nothing ever happens here anyway.@@I sure wish something exciting would happen.@@Radio check. Check , check. You reading me?@@*Yawn*@@Hey, poker game tonight. Man, do I feel lucky too.@@Keep sharp.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Enclave member}

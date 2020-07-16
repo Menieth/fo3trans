@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {2020}{}{Thanks, but no.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}
+{2010}{}{[Trade]}
+{2020}{}{Thanks, but no.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}
+{2010}{}{[Trade]}
+{2020}{}{Thanks, but no.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}
+{2010}{}{[Trade]}
+{2020}{}{Thanks, but no.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

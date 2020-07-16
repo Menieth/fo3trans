@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {100000001}{}{Oh, I know this song!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{He is awesome.@@At least some place to relax.@@Don't try their food.@@Shhh. I am listening.@@Could you stop bothering me?@@Oh, I know this song!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{He is awesome.@@At least some place to relax.@@Don't try their food.@@Shhh. I am listening.@@Could you stop bothering me?@@Oh, I know this song!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{He is awesome.@@At least some place to relax.@@Don't try their food.@@Shhh. I am listening.@@Could you stop bothering me?@@Oh, I know this song!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {3000}{}{Wonderful night, isn't it?@@Ain't it a great night?@@This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@Is it my bed time yet?@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Answer text}
+{2000}{}{This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
+{3000}{}{Wonderful night, isn't it?@@Ain't it a great night?@@This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@Is it my bed time yet?@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Answer text}
+{2000}{}{This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
+{3000}{}{Wonderful night, isn't it?@@Ain't it a great night?@@This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@Is it my bed time yet?@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Answer text}
+{2000}{}{This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
+{3000}{}{Wonderful night, isn't it?@@Ain't it a great night?@@This place is neat!  It's much better than my old place.@@I like it here!@@There's so much space. If I had any stuff, I would have plenty of room.@@Where's my dog?@@I'm thirsty.@@Got any food?@@I'm hungry.@@Is it my bed time yet?@@You can have my old place.@@I'm tired, why are you here?@@Where's my pillow?@@I'm sleepy.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}

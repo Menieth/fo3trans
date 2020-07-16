@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -37,6 +37,54 @@ lang=engl czec
 {6000}{}{Just give me a second to catch my breath.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Uh, who are you?}
+{3000}{}{All the brahmin are dead. There's no reason to continue.}
+{4000}{}{Shall we continue our journey?}
+{4010}{}{Off we go.}
+{4020}{}{Just give me a second, I need to get ready.}
+{5000}{}{Get us rid of these attackers first.}
+{6000}{}{Just give me a second to catch my breath.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Uh, who are you?}
+{3000}{}{All the brahmin are dead. There's no reason to continue.}
+{4000}{}{Shall we continue our journey?}
+{4010}{}{Off we go.}
+{4020}{}{Just give me a second, I need to get ready.}
+{5000}{}{Get us rid of these attackers first.}
+{6000}{}{Just give me a second to catch my breath.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Uh, who are you?}
+{3000}{}{All the brahmin are dead. There's no reason to continue.}
+{4000}{}{Shall we continue our journey?}
+{4010}{}{Off we go.}
+{4020}{}{Just give me a second, I need to get ready.}
+{5000}{}{Get us rid of these attackers first.}
+{6000}{}{Just give me a second to catch my breath.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

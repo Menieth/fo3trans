@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -44,6 +44,63 @@ lang=engl czec
 {6010}{}{Thanks. That's all what my job was about. See you.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{bereits gesprochen}
+{2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}
+{2010}{}{I'm looking for work.}
+{2020}{}{I've got a message from J.D. to you.}
+{2030}{}{What is it that you do here?}
+{2040}{}{You can't. Bye.}
+{3000}{}{We don't hire in the moment. Check back later.}
+{3010}{}{Fine.}
+{4000}{}{We trade wares between all the different settlements. Sounds simple? But it isn't.}
+{4010}{}{I'm looking for work.}
+{4020}{}{Have to go. Bye.}
+{5000}{}{Yes? What is it? His caravan is too late already.}
+{5010}{}{Well, that's actually the message. They are too late, and will show up here in like one or two days. A sand storm delayed the trip.}
+{6000}{}{Damn, that's already the second time. Oh well... thank you for scouting. Here, I'll give you 'few Hubbucks.}
+{6010}{}{Thanks. That's all what my job was about. See you.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{bereits gesprochen}
+{2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}
+{2010}{}{I'm looking for work.}
+{2020}{}{I've got a message from J.D. to you.}
+{2030}{}{What is it that you do here?}
+{2040}{}{You can't. Bye.}
+{3000}{}{We don't hire in the moment. Check back later.}
+{3010}{}{Fine.}
+{4000}{}{We trade wares between all the different settlements. Sounds simple? But it isn't.}
+{4010}{}{I'm looking for work.}
+{4020}{}{Have to go. Bye.}
+{5000}{}{Yes? What is it? His caravan is too late already.}
+{5010}{}{Well, that's actually the message. They are too late, and will show up here in like one or two days. A sand storm delayed the trip.}
+{6000}{}{Damn, that's already the second time. Oh well... thank you for scouting. Here, I'll give you 'few Hubbucks.}
+{6010}{}{Thanks. That's all what my job was about. See you.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{bereits gesprochen}
+{2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}
+{2010}{}{I'm looking for work.}
+{2020}{}{I've got a message from J.D. to you.}
+{2030}{}{What is it that you do here?}
+{2040}{}{You can't. Bye.}
+{3000}{}{We don't hire in the moment. Check back later.}
+{3010}{}{Fine.}
+{4000}{}{We trade wares between all the different settlements. Sounds simple? But it isn't.}
+{4010}{}{I'm looking for work.}
+{4020}{}{Have to go. Bye.}
+{5000}{}{Yes? What is it? His caravan is too late already.}
+{5010}{}{Well, that's actually the message. They are too late, and will show up here in like one or two days. A sand storm delayed the trip.}
+{6000}{}{Damn, that's already the second time. Oh well... thank you for scouting. Here, I'll give you 'few Hubbucks.}
+{6010}{}{Thanks. That's all what my job was about. See you.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}

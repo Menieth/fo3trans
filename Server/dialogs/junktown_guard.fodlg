@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,30 @@ lang=engl czec
 {100000003}{}{Guys, get him!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Stupid?}
+{2000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@This is Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
+{3000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@This is Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Stupid?}
+{2000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@This is Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
+{3000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@This is Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Stupid?}
+{2000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@This is Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
+{3000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@This is Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

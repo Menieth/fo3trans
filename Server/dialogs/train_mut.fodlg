@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,36 @@ lang=engl czec
 {3020}{}{I'm up for that.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Huuh?}
+{2010}{}{That's a cool lab, doc. Can you make me a mutant too?}
+{3000}{}{Yesh... But shis requiers som ekshperiesh! Or the operashn will kill ya.}
+{3010}{}{Eh... Fine. I changed my mind.}
+{3020}{}{I'm up for that.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Huuh?}
+{2010}{}{That's a cool lab, doc. Can you make me a mutant too?}
+{3000}{}{Yesh... But shis requiers som ekshperiesh! Or the operashn will kill ya.}
+{3010}{}{Eh... Fine. I changed my mind.}
+{3020}{}{I'm up for that.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Huuh?}
+{2010}{}{That's a cool lab, doc. Can you make me a mutant too?}
+{3000}{}{Yesh... But shis requiers som ekshperiesh! Or the operashn will kill ya.}
+{3010}{}{Eh... Fine. I changed my mind.}
+{3020}{}{I'm up for that.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}

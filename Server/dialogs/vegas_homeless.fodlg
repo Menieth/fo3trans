@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {100000001}{}{ }
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{I had everything.@@Stupid slots.@@Give me some money.@@Do you have any food?@@Learn from my mistakes.@@Its very cold during the night.@@Leave me alone.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{I had everything.@@Stupid slots.@@Give me some money.@@Do you have any food?@@Learn from my mistakes.@@Its very cold during the night.@@Leave me alone.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{I had everything.@@Stupid slots.@@Give me some money.@@Do you have any food?@@Learn from my mistakes.@@Its very cold during the night.@@Leave me alone.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}

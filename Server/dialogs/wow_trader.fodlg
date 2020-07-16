@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -31,6 +31,45 @@ lang=engl czec
 {4000}{}{Fuck off, jackass.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yo. Wanna buy something?}
+{2010}{}{Hey. Who are...}
+{2020}{}{Show me your stock.}
+{2030}{}{I will be going.}
+{3000}{}{Look. Ain't have time for the friendly shit talks, ya get me?}
+{3010}{}{Fine then, dickhead.}
+{3020}{}{Alright. Lets barter.}
+{4000}{}{Fuck off, jackass.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yo. Wanna buy something?}
+{2010}{}{Hey. Who are...}
+{2020}{}{Show me your stock.}
+{2030}{}{I will be going.}
+{3000}{}{Look. Ain't have time for the friendly shit talks, ya get me?}
+{3010}{}{Fine then, dickhead.}
+{3020}{}{Alright. Lets barter.}
+{4000}{}{Fuck off, jackass.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yo. Wanna buy something?}
+{2010}{}{Hey. Who are...}
+{2020}{}{Show me your stock.}
+{2030}{}{I will be going.}
+{3000}{}{Look. Ain't have time for the friendly shit talks, ya get me?}
+{3010}{}{Fine then, dickhead.}
+{3020}{}{Alright. Lets barter.}
+{4000}{}{Fuck off, jackass.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

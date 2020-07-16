@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{You looking to join up?@@You must be here to see Lara.@@How's it going?@@Lara's the person you should be talking to.@@Hi.@@You here to see Lara?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{You looking to join up?@@You must be here to see Lara.@@How's it going?@@Lara's the person you should be talking to.@@Hi.@@You here to see Lara?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{You looking to join up?@@You must be here to see Lara.@@How's it going?@@Lara's the person you should be talking to.@@Hi.@@You here to see Lara?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{You looking to join up?@@You must be here to see Lara.@@How's it going?@@Lara's the person you should be talking to.@@Hi.@@You here to see Lara?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

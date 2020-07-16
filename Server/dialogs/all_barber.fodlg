@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -240,6 +240,357 @@ lang=engl czec
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{female}
+{1020}{}{Deathcalw}
+{1030}{}{mutant}
+{1040}{}{Answer text}
+{2000}{}{Good day, madam.@@Hello.}
+{3000}{}{[The barber looks at you happy.] Good day. How can I help you?}
+{3010}{}{Can you use your fabulous magick on my hair?}
+{3020}{}{I would like to have a pink colored beard. Can you do this?}
+{3030}{}{In no kind of way. Bye.}
+{3040}{}{Human, can you make me a good haircut?}
+{3050}{}{Can I get some fancy looking haircut?}
+{4000}{}{Of course. This will cost you 50 caps. }
+{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
+{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
+{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4060}{}{I don't have enough money.}
+{4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
+{5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
+{5010}{}{Thanks! See you later again. Maybe.}
+{6000}{}{Then I can't use my fabulous magick on your hair. I am sorry.}
+{6010}{}{I bet you suck anyway. Bye.}
+{6020}{}{Okay, I might come back later. See you.}
+{7000}{}{Er... Uh... I am sorry, but I can't do this.}
+{7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
+{7020}{}{This sucks! I am going!}
+{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8010}{}{I've changed my mind. Bye.}
+{8020}{}{Black man in bluesuit (8)}
+{8030}{}{Black man in metal armor (9)}
+{8040}{}{Brahmin (15)}
+{8050}{}{Dog (16)}
+{8060}{}{Mr. Handy (17)}
+{8070}{}{Molerat (19)}
+{8080}{}{Mutant in black armor (20)}
+{8090}{}{Mutant without armor (21)}
+{8100}{}{Radscorpion (22)}
+{8110}{}{Floater (23)}
+{8120}{}{Small rat (24)}
+{8130}{}{Blue robes (26)}
+{8140}{}{Male child (27)}
+{8150}{}{Green ghoul (28)}
+{8160}{}{White ghoul (29)}
+{8170}{}{Rags (31)}
+{8180}{}{Blonde woman (33)}
+{8190}{}{Woman in metal armor (Valerie model 35)}
+{8200}{}{Female citizen (Becky model 36)}
+{8210}{}{Prostitute (37)}
+{8220}{}{Redhead in bluesuit (38)}
+{8230}{}{Black man in red clothes (39)}
+{8240}{}{Male citizen (Pretty Boy Lloyd model 40)}
+{8250}{}{Male citizen (Mr. Bishop model 41)}
+{8260}{}{Midget (42)}
+{8270}{}{Junkie (43)}
+{8280}{}{Bald man in leather armor (Smiley model 44)}
+{8290}{}{Male in blue jeans (Ian model 45)}
+{8300}{}{Mechanic (Smitty model 48)}
+{8310}{}{Large deathclaw (51)}
+{8320}{}{Mantis (52)}
+{8330}{}{Brain bot (53)}
+{8340}{}{Security bot (54)}
+{8350}{}{Pigrat (55)}
+{8360}{}{Brown robes (56)}
+{8370}{}{Scientist (57)}
+{8380}{}{Small scorpion (59)}
+{8390}{}{Small deathclaw (60)}
+{8400}{}{Female tribal (61)}
+{8410}{}{Male tribal (62)}
+{8420}{}{Female tribal (63)}
+{8430}{}{Male tribal with mohawk (64)}
+{8440}{}{Robot with rocket launcher and minigun (66)}
+{8450}{}{Silver gecko (67)}
+{8460}{}{Golden gecko (68)}
+{8470}{}{Robodog (70)}
+{8480}{}{Man in a suit (72)}
+{8490}{}{Woman in black dress (Mrs. Bishop model 73)}
+{8500}{}{Robodog (75)}
+{8510}{}{Rat god (76)}
+{8520}{}{Mobster (blue model 77)}
+{8530}{}{Mobster (gray model 78)}
+{8540}{}{White ghoul (Lenny model 79)}
+{8550}{}{Alien (80)}
+{8560}{}{Fire gecko (81)}
+{8570}{}{Asian male (82)}
+{8580}{}{Black woman in bluesuit (Lynette model 83)}
+{8590}{}{Gray robes (84)}
+{8600}{}{Alien queen (86)}
+{8610}{}{NCR Policeman (87)}
+{8620}{}{Nerd (Myron model 88)}
+{8630}{}{Doctor with glasses (89)}
+{8640}{}{Old fat man (Vic model 91)}
+{8650}{}{Asian guard with red shirt (92)}
+{8660}{}{Asian guard with blue shirt (93)}
+{8670}{}{Asian female (94)}
+{8680}{}{Casino guard (95)}
+{8690}{}{Boxer (96)}
+{8700}{}{Ant (97)}
+{8710}{}{Old man with beard (Mr Wright model 98)}
+{8720}{}{Goris in robes (99)}
+{8730}{}{Gray deathclaw (100)}
+{8740}{}{Female child (103)}
+{8750}{}{Metzger (104)}
+{8760}{}{Long hair tribal (110)}
+{8770}{}{Long hair tribal with brown trousers (119)}
+{8780}{}{Mutant in metal armor (Lieutenant model 120)}
+{8790}{}{Bald tribal (126)}
+{8800}{}{Old Ian (128)}
+{8810}{}{Red dog (130)}
+{9000}{}{Here you go.}
+{9010}{}{Thanks!}
+{10000}{}{Are you seriouse? Ha! A mutant asking me to make a nice haircut, hahaha!}
+{11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{female}
+{1020}{}{Deathcalw}
+{1030}{}{mutant}
+{1040}{}{Answer text}
+{2000}{}{Good day, madam.@@Hello.}
+{3000}{}{[The barber looks at you happy.] Good day. How can I help you?}
+{3010}{}{Can you use your fabulous magick on my hair?}
+{3020}{}{I would like to have a pink colored beard. Can you do this?}
+{3030}{}{In no kind of way. Bye.}
+{3040}{}{Human, can you make me a good haircut?}
+{3050}{}{Can I get some fancy looking haircut?}
+{4000}{}{Of course. This will cost you 50 caps. }
+{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
+{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
+{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4060}{}{I don't have enough money.}
+{4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
+{5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
+{5010}{}{Thanks! See you later again. Maybe.}
+{6000}{}{Then I can't use my fabulous magick on your hair. I am sorry.}
+{6010}{}{I bet you suck anyway. Bye.}
+{6020}{}{Okay, I might come back later. See you.}
+{7000}{}{Er... Uh... I am sorry, but I can't do this.}
+{7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
+{7020}{}{This sucks! I am going!}
+{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8010}{}{I've changed my mind. Bye.}
+{8020}{}{Black man in bluesuit (8)}
+{8030}{}{Black man in metal armor (9)}
+{8040}{}{Brahmin (15)}
+{8050}{}{Dog (16)}
+{8060}{}{Mr. Handy (17)}
+{8070}{}{Molerat (19)}
+{8080}{}{Mutant in black armor (20)}
+{8090}{}{Mutant without armor (21)}
+{8100}{}{Radscorpion (22)}
+{8110}{}{Floater (23)}
+{8120}{}{Small rat (24)}
+{8130}{}{Blue robes (26)}
+{8140}{}{Male child (27)}
+{8150}{}{Green ghoul (28)}
+{8160}{}{White ghoul (29)}
+{8170}{}{Rags (31)}
+{8180}{}{Blonde woman (33)}
+{8190}{}{Woman in metal armor (Valerie model 35)}
+{8200}{}{Female citizen (Becky model 36)}
+{8210}{}{Prostitute (37)}
+{8220}{}{Redhead in bluesuit (38)}
+{8230}{}{Black man in red clothes (39)}
+{8240}{}{Male citizen (Pretty Boy Lloyd model 40)}
+{8250}{}{Male citizen (Mr. Bishop model 41)}
+{8260}{}{Midget (42)}
+{8270}{}{Junkie (43)}
+{8280}{}{Bald man in leather armor (Smiley model 44)}
+{8290}{}{Male in blue jeans (Ian model 45)}
+{8300}{}{Mechanic (Smitty model 48)}
+{8310}{}{Large deathclaw (51)}
+{8320}{}{Mantis (52)}
+{8330}{}{Brain bot (53)}
+{8340}{}{Security bot (54)}
+{8350}{}{Pigrat (55)}
+{8360}{}{Brown robes (56)}
+{8370}{}{Scientist (57)}
+{8380}{}{Small scorpion (59)}
+{8390}{}{Small deathclaw (60)}
+{8400}{}{Female tribal (61)}
+{8410}{}{Male tribal (62)}
+{8420}{}{Female tribal (63)}
+{8430}{}{Male tribal with mohawk (64)}
+{8440}{}{Robot with rocket launcher and minigun (66)}
+{8450}{}{Silver gecko (67)}
+{8460}{}{Golden gecko (68)}
+{8470}{}{Robodog (70)}
+{8480}{}{Man in a suit (72)}
+{8490}{}{Woman in black dress (Mrs. Bishop model 73)}
+{8500}{}{Robodog (75)}
+{8510}{}{Rat god (76)}
+{8520}{}{Mobster (blue model 77)}
+{8530}{}{Mobster (gray model 78)}
+{8540}{}{White ghoul (Lenny model 79)}
+{8550}{}{Alien (80)}
+{8560}{}{Fire gecko (81)}
+{8570}{}{Asian male (82)}
+{8580}{}{Black woman in bluesuit (Lynette model 83)}
+{8590}{}{Gray robes (84)}
+{8600}{}{Alien queen (86)}
+{8610}{}{NCR Policeman (87)}
+{8620}{}{Nerd (Myron model 88)}
+{8630}{}{Doctor with glasses (89)}
+{8640}{}{Old fat man (Vic model 91)}
+{8650}{}{Asian guard with red shirt (92)}
+{8660}{}{Asian guard with blue shirt (93)}
+{8670}{}{Asian female (94)}
+{8680}{}{Casino guard (95)}
+{8690}{}{Boxer (96)}
+{8700}{}{Ant (97)}
+{8710}{}{Old man with beard (Mr Wright model 98)}
+{8720}{}{Goris in robes (99)}
+{8730}{}{Gray deathclaw (100)}
+{8740}{}{Female child (103)}
+{8750}{}{Metzger (104)}
+{8760}{}{Long hair tribal (110)}
+{8770}{}{Long hair tribal with brown trousers (119)}
+{8780}{}{Mutant in metal armor (Lieutenant model 120)}
+{8790}{}{Bald tribal (126)}
+{8800}{}{Old Ian (128)}
+{8810}{}{Red dog (130)}
+{9000}{}{Here you go.}
+{9010}{}{Thanks!}
+{10000}{}{Are you seriouse? Ha! A mutant asking me to make a nice haircut, hahaha!}
+{11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{female}
+{1020}{}{Deathcalw}
+{1030}{}{mutant}
+{1040}{}{Answer text}
+{2000}{}{Good day, madam.@@Hello.}
+{3000}{}{[The barber looks at you happy.] Good day. How can I help you?}
+{3010}{}{Can you use your fabulous magick on my hair?}
+{3020}{}{I would like to have a pink colored beard. Can you do this?}
+{3030}{}{In no kind of way. Bye.}
+{3040}{}{Human, can you make me a good haircut?}
+{3050}{}{Can I get some fancy looking haircut?}
+{4000}{}{Of course. This will cost you 50 caps. }
+{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
+{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
+{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4060}{}{I don't have enough money.}
+{4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
+{5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
+{5010}{}{Thanks! See you later again. Maybe.}
+{6000}{}{Then I can't use my fabulous magick on your hair. I am sorry.}
+{6010}{}{I bet you suck anyway. Bye.}
+{6020}{}{Okay, I might come back later. See you.}
+{7000}{}{Er... Uh... I am sorry, but I can't do this.}
+{7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
+{7020}{}{This sucks! I am going!}
+{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8010}{}{I've changed my mind. Bye.}
+{8020}{}{Black man in bluesuit (8)}
+{8030}{}{Black man in metal armor (9)}
+{8040}{}{Brahmin (15)}
+{8050}{}{Dog (16)}
+{8060}{}{Mr. Handy (17)}
+{8070}{}{Molerat (19)}
+{8080}{}{Mutant in black armor (20)}
+{8090}{}{Mutant without armor (21)}
+{8100}{}{Radscorpion (22)}
+{8110}{}{Floater (23)}
+{8120}{}{Small rat (24)}
+{8130}{}{Blue robes (26)}
+{8140}{}{Male child (27)}
+{8150}{}{Green ghoul (28)}
+{8160}{}{White ghoul (29)}
+{8170}{}{Rags (31)}
+{8180}{}{Blonde woman (33)}
+{8190}{}{Woman in metal armor (Valerie model 35)}
+{8200}{}{Female citizen (Becky model 36)}
+{8210}{}{Prostitute (37)}
+{8220}{}{Redhead in bluesuit (38)}
+{8230}{}{Black man in red clothes (39)}
+{8240}{}{Male citizen (Pretty Boy Lloyd model 40)}
+{8250}{}{Male citizen (Mr. Bishop model 41)}
+{8260}{}{Midget (42)}
+{8270}{}{Junkie (43)}
+{8280}{}{Bald man in leather armor (Smiley model 44)}
+{8290}{}{Male in blue jeans (Ian model 45)}
+{8300}{}{Mechanic (Smitty model 48)}
+{8310}{}{Large deathclaw (51)}
+{8320}{}{Mantis (52)}
+{8330}{}{Brain bot (53)}
+{8340}{}{Security bot (54)}
+{8350}{}{Pigrat (55)}
+{8360}{}{Brown robes (56)}
+{8370}{}{Scientist (57)}
+{8380}{}{Small scorpion (59)}
+{8390}{}{Small deathclaw (60)}
+{8400}{}{Female tribal (61)}
+{8410}{}{Male tribal (62)}
+{8420}{}{Female tribal (63)}
+{8430}{}{Male tribal with mohawk (64)}
+{8440}{}{Robot with rocket launcher and minigun (66)}
+{8450}{}{Silver gecko (67)}
+{8460}{}{Golden gecko (68)}
+{8470}{}{Robodog (70)}
+{8480}{}{Man in a suit (72)}
+{8490}{}{Woman in black dress (Mrs. Bishop model 73)}
+{8500}{}{Robodog (75)}
+{8510}{}{Rat god (76)}
+{8520}{}{Mobster (blue model 77)}
+{8530}{}{Mobster (gray model 78)}
+{8540}{}{White ghoul (Lenny model 79)}
+{8550}{}{Alien (80)}
+{8560}{}{Fire gecko (81)}
+{8570}{}{Asian male (82)}
+{8580}{}{Black woman in bluesuit (Lynette model 83)}
+{8590}{}{Gray robes (84)}
+{8600}{}{Alien queen (86)}
+{8610}{}{NCR Policeman (87)}
+{8620}{}{Nerd (Myron model 88)}
+{8630}{}{Doctor with glasses (89)}
+{8640}{}{Old fat man (Vic model 91)}
+{8650}{}{Asian guard with red shirt (92)}
+{8660}{}{Asian guard with blue shirt (93)}
+{8670}{}{Asian female (94)}
+{8680}{}{Casino guard (95)}
+{8690}{}{Boxer (96)}
+{8700}{}{Ant (97)}
+{8710}{}{Old man with beard (Mr Wright model 98)}
+{8720}{}{Goris in robes (99)}
+{8730}{}{Gray deathclaw (100)}
+{8740}{}{Female child (103)}
+{8750}{}{Metzger (104)}
+{8760}{}{Long hair tribal (110)}
+{8770}{}{Long hair tribal with brown trousers (119)}
+{8780}{}{Mutant in metal armor (Lieutenant model 120)}
+{8790}{}{Bald tribal (126)}
+{8800}{}{Old Ian (128)}
+{8810}{}{Red dog (130)}
+{9000}{}{Here you go.}
+{9010}{}{Thanks!}
+{10000}{}{Are you seriouse? Ha! A mutant asking me to make a nice haircut, hahaha!}
+{11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{female}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Hey there.@@Damn wasteland, nothing interesting but some fucking sand,@@Were you lucky to find something interesting today?@@Yesterday I found small underground shelter... Damn Deathclaws made a nest out of it.@@Wonder why there are so many porn journals around ruins.@@Hello.@@Nice to see you.@@Remember to behave.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.@@Damn wasteland, nothing interesting but some fucking sand,@@Were you lucky to find something interesting today?@@Yesterday I found small underground shelter... Damn Deathclaws made a nest out of it.@@Wonder why there are so many porn journals around ruins.@@Hello.@@Nice to see you.@@Remember to behave.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.@@Damn wasteland, nothing interesting but some fucking sand,@@Were you lucky to find something interesting today?@@Yesterday I found small underground shelter... Damn Deathclaws made a nest out of it.@@Wonder why there are so many porn journals around ruins.@@Hello.@@Nice to see you.@@Remember to behave.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there.@@Damn wasteland, nothing interesting but some fucking sand,@@Were you lucky to find something interesting today?@@Yesterday I found small underground shelter... Damn Deathclaws made a nest out of it.@@Wonder why there are so many porn journals around ruins.@@Hello.@@Nice to see you.@@Remember to behave.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{This is the train station administration. If you don't have anything important, you should leave.@@Hello.@@I am very busy.@@If you want to join the Followers of the Apocalypse, you should visit us in our library in the west of the Boneyard.@@Greetings, traveler.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{This is the train station administration. If you don't have anything important, you should leave.@@Hello.@@I am very busy.@@If you want to join the Followers of the Apocalypse, you should visit us in our library in the west of the Boneyard.@@Greetings, traveler.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{This is the train station administration. If you don't have anything important, you should leave.@@Hello.@@I am very busy.@@If you want to join the Followers of the Apocalypse, you should visit us in our library in the west of the Boneyard.@@Greetings, traveler.}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{This is the train station administration. If you don't have anything important, you should leave.@@Hello.@@I am very busy.@@If you want to join the Followers of the Apocalypse, you should visit us in our library in the west of the Boneyard.@@Greetings, traveler.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

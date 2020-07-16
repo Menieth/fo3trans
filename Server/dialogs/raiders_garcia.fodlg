@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -28,6 +28,36 @@ lang=engl czec
 {3010}{}{Alright.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{[He looks at you.]}
+{2010}{}{Can I ask you something?}
+{2020}{}{[Walk off.]}
+{3000}{}{Go bug someone else, man.}
+{3010}{}{Alright.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{[He looks at you.]}
+{2010}{}{Can I ask you something?}
+{2020}{}{[Walk off.]}
+{3000}{}{Go bug someone else, man.}
+{3010}{}{Alright.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Default Khan chatter}
+{2000}{}{[He looks at you.]}
+{2010}{}{Can I ask you something?}
+{2020}{}{[Walk off.]}
+{3000}{}{Go bug someone else, man.}
+{3010}{}{Alright.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}

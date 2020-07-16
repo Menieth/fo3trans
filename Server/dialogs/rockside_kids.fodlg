@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Hello!@@Hi!@@Do you have few spare caps?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello!@@Hi!@@Do you have few spare caps?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello!@@Hi!@@Do you have few spare caps?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello!@@Hi!@@Do you have few spare caps?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

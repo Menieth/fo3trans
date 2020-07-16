@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,27 @@ lang=engl czec
 {2000}{}{Good day soldier.@@Please don’t touch anything.@@You grunts are not supposed to be in here.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Good day soldier.@@Please don’t touch anything.@@You grunts are not supposed to be in here.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Good day soldier.@@Please don’t touch anything.@@You grunts are not supposed to be in here.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Good day soldier.@@Please don’t touch anything.@@You grunts are not supposed to be in here.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}

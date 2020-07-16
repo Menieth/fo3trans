@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -56,6 +56,78 @@ lang=engl czec
 {6020}{}{Hmm. Gotta go. Bye.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Yeah? Whaddya want?}
+{2010}{}{Who are you?}
+{2020}{}{What do you do here?}
+{2030}{}{Nothing, thanks.}
+{3000}{}{I'm Crocket. I'm a scientist and fix-it guy. Can I get back to it?}
+{3010}{}{No. I have more questions.}
+{3020}{}{Yeah, sure.}
+{4000}{}{I develop new technology and I get my share of cultist tail, if you catch my meaning.}
+{4010}{}{So you're not an Hubologist?}
+{4020}{}{I got it. I have more questions.}
+{4030}{}{No. What do you mean?}
+{4040}{}{What new tech have you developed?}
+{4050}{}{Loud and clear. See ya.}
+{5000}{}{These guys don't know real science - I help them justify their extravagance in exchange for some downtime with the ladies and a hefty salary.}
+{5010}{}{Hmm. I had more questions I wanted to ask.}
+{5020}{}{Not bad at all. See ya.}
+{6000}{}{Let's see... I built a nuclear reactor for the spaceship. I created the hardening process for power armor. And I fix things that are broken.}
+{6010}{}{I see. Well, I have more questions.}
+{6020}{}{Hmm. Gotta go. Bye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Yeah? Whaddya want?}
+{2010}{}{Who are you?}
+{2020}{}{What do you do here?}
+{2030}{}{Nothing, thanks.}
+{3000}{}{I'm Crocket. I'm a scientist and fix-it guy. Can I get back to it?}
+{3010}{}{No. I have more questions.}
+{3020}{}{Yeah, sure.}
+{4000}{}{I develop new technology and I get my share of cultist tail, if you catch my meaning.}
+{4010}{}{So you're not an Hubologist?}
+{4020}{}{I got it. I have more questions.}
+{4030}{}{No. What do you mean?}
+{4040}{}{What new tech have you developed?}
+{4050}{}{Loud and clear. See ya.}
+{5000}{}{These guys don't know real science - I help them justify their extravagance in exchange for some downtime with the ladies and a hefty salary.}
+{5010}{}{Hmm. I had more questions I wanted to ask.}
+{5020}{}{Not bad at all. See ya.}
+{6000}{}{Let's see... I built a nuclear reactor for the spaceship. I created the hardening process for power armor. And I fix things that are broken.}
+{6010}{}{I see. Well, I have more questions.}
+{6020}{}{Hmm. Gotta go. Bye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Yeah? Whaddya want?}
+{2010}{}{Who are you?}
+{2020}{}{What do you do here?}
+{2030}{}{Nothing, thanks.}
+{3000}{}{I'm Crocket. I'm a scientist and fix-it guy. Can I get back to it?}
+{3010}{}{No. I have more questions.}
+{3020}{}{Yeah, sure.}
+{4000}{}{I develop new technology and I get my share of cultist tail, if you catch my meaning.}
+{4010}{}{So you're not an Hubologist?}
+{4020}{}{I got it. I have more questions.}
+{4030}{}{No. What do you mean?}
+{4040}{}{What new tech have you developed?}
+{4050}{}{Loud and clear. See ya.}
+{5000}{}{These guys don't know real science - I help them justify their extravagance in exchange for some downtime with the ladies and a hefty salary.}
+{5010}{}{Hmm. I had more questions I wanted to ask.}
+{5020}{}{Not bad at all. See ya.}
+{6000}{}{Let's see... I built a nuclear reactor for the spaceship. I created the hardening process for power armor. And I fix things that are broken.}
+{6010}{}{I see. Well, I have more questions.}
+{6020}{}{Hmm. Gotta go. Bye.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

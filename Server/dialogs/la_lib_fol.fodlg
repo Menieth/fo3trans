@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Please be quiet, I am trying to study.@@We seek knowledge to protect us.@@Nicole said that knowledge is power.@@Please respect the sanctity of our Library.@@Welcome to the Followers of the Apocalypse.@@Hello.@@Glorious Day to you.@@All knowledge is holy.@@Knowledge is life.@@We resurrect what has been lost.@@Nicole helped us to understand the holiness of knowledge.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Please be quiet, I am trying to study.@@We seek knowledge to protect us.@@Nicole said that knowledge is power.@@Please respect the sanctity of our Library.@@Welcome to the Followers of the Apocalypse.@@Hello.@@Glorious Day to you.@@All knowledge is holy.@@Knowledge is life.@@We resurrect what has been lost.@@Nicole helped us to understand the holiness of knowledge.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Please be quiet, I am trying to study.@@We seek knowledge to protect us.@@Nicole said that knowledge is power.@@Please respect the sanctity of our Library.@@Welcome to the Followers of the Apocalypse.@@Hello.@@Glorious Day to you.@@All knowledge is holy.@@Knowledge is life.@@We resurrect what has been lost.@@Nicole helped us to understand the holiness of knowledge.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Please be quiet, I am trying to study.@@We seek knowledge to protect us.@@Nicole said that knowledge is power.@@Please respect the sanctity of our Library.@@Welcome to the Followers of the Apocalypse.@@Hello.@@Glorious Day to you.@@All knowledge is holy.@@Knowledge is life.@@We resurrect what has been lost.@@Nicole helped us to understand the holiness of knowledge.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}

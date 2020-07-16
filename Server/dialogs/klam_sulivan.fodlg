@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -63,6 +63,90 @@ lang=engl czec
 {9000}{}{Your word's no good here, scum.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{Dumb}
+{1030}{}{unknown}
+{1040}{}{known}
+{2000}{}{You'd give Torr a good run for his money. On your way now, ya wee strange one.}
+{2010}{}{Hurrr.}
+{3000}{}{Welcome back, how's the world been treatin' yeh?}
+{3010}{}{Not bad, John. But I've got to get going.}
+{3020}{}{Can't complain. What's that you were saying about the sweet science?}
+{4000}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
+{4010}{}{What are you talking about?}
+{4020}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
+{5000}{}{About the sweet science, of course. The sportin' art.}
+{5010}{}{Don't make me repeat myself. What are you talking about?}
+{6000}{}{Pugilism, the manly art of hand-to-hand combat. That's what I mean. I was a boxer, don't you know. When I was a wee young lad, an' dinnay have any sense in me thick head. Down in a place called Reno. You keep your nose clean and stay away from the likes o' that place.}
+{6010}{}{I think I know more about that than you could ever teach me, pal.}
+{6020}{}{Reno? Where's that?}
+{6030}{}{I'm glad you enjoyed it. Bye, John.}
+{6040}{}{Could you teach me a little about fighting?}
+{7000}{}{Ah, I would love to, I truly would, but this old fella's a little too past it to show you. In me younger days, maybe.}
+{7010}{}{That's a shame. Goodbye, John.}
+{8000}{}{I dinnay want to tell ye. You get on now. Just keep out o' harm's way. Goodbye now.}
+{8010}{}{Alright, bye John.}
+{9000}{}{Your word's no good here, scum.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{Dumb}
+{1030}{}{unknown}
+{1040}{}{known}
+{2000}{}{You'd give Torr a good run for his money. On your way now, ya wee strange one.}
+{2010}{}{Hurrr.}
+{3000}{}{Welcome back, how's the world been treatin' yeh?}
+{3010}{}{Not bad, John. But I've got to get going.}
+{3020}{}{Can't complain. What's that you were saying about the sweet science?}
+{4000}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
+{4010}{}{What are you talking about?}
+{4020}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
+{5000}{}{About the sweet science, of course. The sportin' art.}
+{5010}{}{Don't make me repeat myself. What are you talking about?}
+{6000}{}{Pugilism, the manly art of hand-to-hand combat. That's what I mean. I was a boxer, don't you know. When I was a wee young lad, an' dinnay have any sense in me thick head. Down in a place called Reno. You keep your nose clean and stay away from the likes o' that place.}
+{6010}{}{I think I know more about that than you could ever teach me, pal.}
+{6020}{}{Reno? Where's that?}
+{6030}{}{I'm glad you enjoyed it. Bye, John.}
+{6040}{}{Could you teach me a little about fighting?}
+{7000}{}{Ah, I would love to, I truly would, but this old fella's a little too past it to show you. In me younger days, maybe.}
+{7010}{}{That's a shame. Goodbye, John.}
+{8000}{}{I dinnay want to tell ye. You get on now. Just keep out o' harm's way. Goodbye now.}
+{8010}{}{Alright, bye John.}
+{9000}{}{Your word's no good here, scum.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{slaver}
+{1020}{}{Dumb}
+{1030}{}{unknown}
+{1040}{}{known}
+{2000}{}{You'd give Torr a good run for his money. On your way now, ya wee strange one.}
+{2010}{}{Hurrr.}
+{3000}{}{Welcome back, how's the world been treatin' yeh?}
+{3010}{}{Not bad, John. But I've got to get going.}
+{3020}{}{Can't complain. What's that you were saying about the sweet science?}
+{4000}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
+{4010}{}{What are you talking about?}
+{4020}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
+{5000}{}{About the sweet science, of course. The sportin' art.}
+{5010}{}{Don't make me repeat myself. What are you talking about?}
+{6000}{}{Pugilism, the manly art of hand-to-hand combat. That's what I mean. I was a boxer, don't you know. When I was a wee young lad, an' dinnay have any sense in me thick head. Down in a place called Reno. You keep your nose clean and stay away from the likes o' that place.}
+{6010}{}{I think I know more about that than you could ever teach me, pal.}
+{6020}{}{Reno? Where's that?}
+{6030}{}{I'm glad you enjoyed it. Bye, John.}
+{6040}{}{Could you teach me a little about fighting?}
+{7000}{}{Ah, I would love to, I truly would, but this old fella's a little too past it to show you. In me younger days, maybe.}
+{7010}{}{That's a shame. Goodbye, John.}
+{8000}{}{I dinnay want to tell ye. You get on now. Just keep out o' harm's way. Goodbye now.}
+{8010}{}{Alright, bye John.}
+{9000}{}{Your word's no good here, scum.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}

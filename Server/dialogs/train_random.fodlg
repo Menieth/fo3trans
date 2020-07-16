@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,39 @@ lang=engl czec
 {3020}{}{Let's play}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{What made you come you here?}
+{2010}{}{I'm life loser, I wanna gamble what i have and maybe luck will smile to me.}
+{2020}{}{Mere nothing. Bye.}
+{3000}{}{This is a dangerouse game you want to play. Remember - there is no way back. The ritual will be painful and if you don't have a proper experience... You may just die.}
+{3010}{}{Fine, fine... I will go, than.}
+{3020}{}{Let's play}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{What made you come you here?}
+{2010}{}{I'm life loser, I wanna gamble what i have and maybe luck will smile to me.}
+{2020}{}{Mere nothing. Bye.}
+{3000}{}{This is a dangerouse game you want to play. Remember - there is no way back. The ritual will be painful and if you don't have a proper experience... You may just die.}
+{3010}{}{Fine, fine... I will go, than.}
+{3020}{}{Let's play}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{What made you come you here?}
+{2010}{}{I'm life loser, I wanna gamble what i have and maybe luck will smile to me.}
+{2020}{}{Mere nothing. Bye.}
+{3000}{}{This is a dangerouse game you want to play. Remember - there is no way back. The ritual will be painful and if you don't have a proper experience... You may just die.}
+{3010}{}{Fine, fine... I will go, than.}
+{3020}{}{Let's play}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}

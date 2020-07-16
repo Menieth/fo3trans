@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -26,6 +26,24 @@ lang=engl czec
 {2000}{}{Man, don't look now, but you got this tribal following you.@@I can barely see you down there, I'm so high.@@Why's there two o' you? That your twin?@@Huh? You real?@@I'm soooo high that…uh, what was I saying?@@You wanna fly with me?@@You looking to fly? Talk to Juuuuules.@@Jagged Jimmy J 'fix' you up, know what I'm saying?@@You see Renesco, tell him I'll give him the money tomorrow.@@Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.@@You talkin' to me? You talkin' to me?@@You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!@@You want some of this?! Huh?@@::Glares at you past drug-hazed eyes::}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Man, don't look now, but you got this tribal following you.@@I can barely see you down there, I'm so high.@@Why's there two o' you? That your twin?@@Huh? You real?@@I'm soooo high that…uh, what was I saying?@@You wanna fly with me?@@You looking to fly? Talk to Juuuuules.@@Jagged Jimmy J 'fix' you up, know what I'm saying?@@You see Renesco, tell him I'll give him the money tomorrow.@@Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.@@You talkin' to me? You talkin' to me?@@You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!@@You want some of this?! Huh?@@::Glares at you past drug-hazed eyes::}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Man, don't look now, but you got this tribal following you.@@I can barely see you down there, I'm so high.@@Why's there two o' you? That your twin?@@Huh? You real?@@I'm soooo high that…uh, what was I saying?@@You wanna fly with me?@@You looking to fly? Talk to Juuuuules.@@Jagged Jimmy J 'fix' you up, know what I'm saying?@@You see Renesco, tell him I'll give him the money tomorrow.@@Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.@@You talkin' to me? You talkin' to me?@@You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!@@You want some of this?! Huh?@@::Glares at you past drug-hazed eyes::}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{Man, don't look now, but you got this tribal following you.@@I can barely see you down there, I'm so high.@@Why's there two o' you? That your twin?@@Huh? You real?@@I'm soooo high that…uh, what was I saying?@@You wanna fly with me?@@You looking to fly? Talk to Juuuuules.@@Jagged Jimmy J 'fix' you up, know what I'm saying?@@You see Renesco, tell him I'll give him the money tomorrow.@@Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.@@You talkin' to me? You talkin' to me?@@You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!@@You want some of this?! Huh?@@::Glares at you past drug-hazed eyes::}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

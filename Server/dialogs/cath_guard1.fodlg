@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -18,6 +18,24 @@ lang=engl czec
 {2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

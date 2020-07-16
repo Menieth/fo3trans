@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -107,6 +107,156 @@ lang=engl czec
 {14020}{}{Me want ticked.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{dumb}
+{2000}{}{Welcome to the New California Republic train service. Do you want to buy a ticket?}
+{2010}{}{Yes, I want to buy a ticket.}
+{2020}{}{What is the target station of the next train?}
+{2030}{}{When will the next train arrive?}
+{2040}{}{Not today. [Exit]}
+{3000}{}{Welc... oh... eh... Welcome to the Boneyard train service. You... you want to buy a ticket? With... money?}
+{3010}{}{Me want ticked.}
+{3020}{}{Next shoo-shoo what target?}
+{3030}{}{When next shoo-shoo?}
+{3040}{}{Me go.}
+{4000}{}{The next train is expected to arrive in [time minutes / hours].}
+{4010}{}{Alright, I want to buy a ticket.}
+{4020}{}{What is the target station of the next train?}
+{4030}{}{Thanks, that's all I wanted to know. Bye.}
+{5000}{}{Uhm, eh, the next... shoo-shoo... is expected to arrive in [time minutes / hours].}
+{5010}{}{Ok, me want to buy ticked.}
+{5020}{}{Next shoo-shoo what target?}
+{5030}{}{Ok, me going now. }
+{6000}{}{One moment... ah, yes. The station target for the next incoming train is [target].}
+{6010}{}{Alright, I want to buy a ticket.}
+{6020}{}{When will the next train arrive?}
+{6030}{}{Thanks, that's all I wanted to know. Bye.}
+{7000}{}{Wait, let me see... ah, yes. The station target for the next incoming... shoo-shoo.... is [target].}
+{7010}{}{Alright, I want to buy a ticket.}
+{7020}{}{When next shoo-shoo?}
+{7030}{}{Ok, me going now. }
+{8000}{}{Very well. A ticket costs 100 caps.}
+{8010}{}{Alright. [Buy a ticket]}
+{8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
+{8030}{}{Guess I changed my mind. Bye.}
+{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9010}{}{Okay. [Buy a ticket]}
+{9020}{}{Me not enough money.@@Not enough money me have.}
+{9030}{}{Me not want. Me going.}
+{10000}{}{Have a nice day.}
+{11000}{}{Here is your ticket. Have a nice day.}
+{12000}{}{Then I cannot help you. I am sorry.}
+{12010}{}{[Leave]}
+{13000}{}{The Conductor at the rails should be able to answer your question.}
+{13010}{}{Thanks, that's all I wanted to know. Bye.}
+{13020}{}{Alright, I want to buy a ticket.}
+{14000}{}{Eh... uhm... talk to the... person... at big choo-choo rails. He will answer you.}
+{14010}{}{Ok, me going now. }
+{14020}{}{Me want ticked.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{dumb}
+{2000}{}{Welcome to the New California Republic train service. Do you want to buy a ticket?}
+{2010}{}{Yes, I want to buy a ticket.}
+{2020}{}{What is the target station of the next train?}
+{2030}{}{When will the next train arrive?}
+{2040}{}{Not today. [Exit]}
+{3000}{}{Welc... oh... eh... Welcome to the Boneyard train service. You... you want to buy a ticket? With... money?}
+{3010}{}{Me want ticked.}
+{3020}{}{Next shoo-shoo what target?}
+{3030}{}{When next shoo-shoo?}
+{3040}{}{Me go.}
+{4000}{}{The next train is expected to arrive in [time minutes / hours].}
+{4010}{}{Alright, I want to buy a ticket.}
+{4020}{}{What is the target station of the next train?}
+{4030}{}{Thanks, that's all I wanted to know. Bye.}
+{5000}{}{Uhm, eh, the next... shoo-shoo... is expected to arrive in [time minutes / hours].}
+{5010}{}{Ok, me want to buy ticked.}
+{5020}{}{Next shoo-shoo what target?}
+{5030}{}{Ok, me going now. }
+{6000}{}{One moment... ah, yes. The station target for the next incoming train is [target].}
+{6010}{}{Alright, I want to buy a ticket.}
+{6020}{}{When will the next train arrive?}
+{6030}{}{Thanks, that's all I wanted to know. Bye.}
+{7000}{}{Wait, let me see... ah, yes. The station target for the next incoming... shoo-shoo.... is [target].}
+{7010}{}{Alright, I want to buy a ticket.}
+{7020}{}{When next shoo-shoo?}
+{7030}{}{Ok, me going now. }
+{8000}{}{Very well. A ticket costs 100 caps.}
+{8010}{}{Alright. [Buy a ticket]}
+{8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
+{8030}{}{Guess I changed my mind. Bye.}
+{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9010}{}{Okay. [Buy a ticket]}
+{9020}{}{Me not enough money.@@Not enough money me have.}
+{9030}{}{Me not want. Me going.}
+{10000}{}{Have a nice day.}
+{11000}{}{Here is your ticket. Have a nice day.}
+{12000}{}{Then I cannot help you. I am sorry.}
+{12010}{}{[Leave]}
+{13000}{}{The Conductor at the rails should be able to answer your question.}
+{13010}{}{Thanks, that's all I wanted to know. Bye.}
+{13020}{}{Alright, I want to buy a ticket.}
+{14000}{}{Eh... uhm... talk to the... person... at big choo-choo rails. He will answer you.}
+{14010}{}{Ok, me going now. }
+{14020}{}{Me want ticked.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{1020}{}{dumb}
+{2000}{}{Welcome to the New California Republic train service. Do you want to buy a ticket?}
+{2010}{}{Yes, I want to buy a ticket.}
+{2020}{}{What is the target station of the next train?}
+{2030}{}{When will the next train arrive?}
+{2040}{}{Not today. [Exit]}
+{3000}{}{Welc... oh... eh... Welcome to the Boneyard train service. You... you want to buy a ticket? With... money?}
+{3010}{}{Me want ticked.}
+{3020}{}{Next shoo-shoo what target?}
+{3030}{}{When next shoo-shoo?}
+{3040}{}{Me go.}
+{4000}{}{The next train is expected to arrive in [time minutes / hours].}
+{4010}{}{Alright, I want to buy a ticket.}
+{4020}{}{What is the target station of the next train?}
+{4030}{}{Thanks, that's all I wanted to know. Bye.}
+{5000}{}{Uhm, eh, the next... shoo-shoo... is expected to arrive in [time minutes / hours].}
+{5010}{}{Ok, me want to buy ticked.}
+{5020}{}{Next shoo-shoo what target?}
+{5030}{}{Ok, me going now. }
+{6000}{}{One moment... ah, yes. The station target for the next incoming train is [target].}
+{6010}{}{Alright, I want to buy a ticket.}
+{6020}{}{When will the next train arrive?}
+{6030}{}{Thanks, that's all I wanted to know. Bye.}
+{7000}{}{Wait, let me see... ah, yes. The station target for the next incoming... shoo-shoo.... is [target].}
+{7010}{}{Alright, I want to buy a ticket.}
+{7020}{}{When next shoo-shoo?}
+{7030}{}{Ok, me going now. }
+{8000}{}{Very well. A ticket costs 100 caps.}
+{8010}{}{Alright. [Buy a ticket]}
+{8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
+{8030}{}{Guess I changed my mind. Bye.}
+{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9010}{}{Okay. [Buy a ticket]}
+{9020}{}{Me not enough money.@@Not enough money me have.}
+{9030}{}{Me not want. Me going.}
+{10000}{}{Have a nice day.}
+{11000}{}{Here is your ticket. Have a nice day.}
+{12000}{}{Then I cannot help you. I am sorry.}
+{12010}{}{[Leave]}
+{13000}{}{The Conductor at the rails should be able to answer your question.}
+{13010}{}{Thanks, that's all I wanted to know. Bye.}
+{13020}{}{Alright, I want to buy a ticket.}
+{14000}{}{Eh... uhm... talk to the... person... at big choo-choo rails. He will answer you.}
+{14010}{}{Ok, me going now. }
+{14020}{}{Me want ticked.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}

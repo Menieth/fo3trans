@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -63,6 +63,93 @@ lang=engl czec
 {5000}{}{Here you go.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it brother?}
+{2010}{}{Who are you?}
+{2020}{}{I wish to get some equipment.}
+{2030}{}{Nothing. Just passing by.}
+{3000}{}{I am the quartermaster. The one who gives and stores the equipment.}
+{3010}{}{Fine. I wish to get some equipment.}
+{4000}{}{Fine. Sign up here and here...}
+{4010}{}{On the second thought, I will show up later.}
+{4020}{}{[ Brotherhood Combat Armor Set - 1 token ]}
+{4030}{}{[ 500 MFC + 300 SBC - 1 token ]}
+{4040}{}{[ 30 Super Stimpaks + 20 Stimpaks - 1 token ]}
+{4050}{}{[ 3 mines + 1 plastic explosives - 2 tokens ]}
+{4060}{}{[ 1 Motion sensor - 1 token ]}
+{4070}{}{[ Plasma SMG + 50 MFC + Plasma Rifle - 1 token ]}
+{4080}{}{[ Tesla Armor + Tesla Helmet + YK32 Pistol + 50 SBC + 3 Super Stimpaks - 2 tokens ]}
+{4090}{}{[ Vault Tec Key - 5 tokens ]}
+{4100}{}{[  Avenger minigun + 1000 5mm ammo - 1 token ]}
+{4110}{}{[  Sniper rifle + 150 .223 ammo - 1 token ]}
+{4120}{}{[  G11 - 5 tokens  ]}
+{4130}{}{[ Vault Tec key - 5 tokens ]}
+{4140}{}{[ Vault 13 key - 1 token ]}
+{4150}{}{[ Howitzer shell - 1 token ]}
+{4160}{}{[ 100 4.7 ammo - 1 token ]}
+{5000}{}{Here you go.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it brother?}
+{2010}{}{Who are you?}
+{2020}{}{I wish to get some equipment.}
+{2030}{}{Nothing. Just passing by.}
+{3000}{}{I am the quartermaster. The one who gives and stores the equipment.}
+{3010}{}{Fine. I wish to get some equipment.}
+{4000}{}{Fine. Sign up here and here...}
+{4010}{}{On the second thought, I will show up later.}
+{4020}{}{[ Brotherhood Combat Armor Set - 1 token ]}
+{4030}{}{[ 500 MFC + 300 SBC - 1 token ]}
+{4040}{}{[ 30 Super Stimpaks + 20 Stimpaks - 1 token ]}
+{4050}{}{[ 3 mines + 1 plastic explosives - 2 tokens ]}
+{4060}{}{[ 1 Motion sensor - 1 token ]}
+{4070}{}{[ Plasma SMG + 50 MFC + Plasma Rifle - 1 token ]}
+{4080}{}{[ Tesla Armor + Tesla Helmet + YK32 Pistol + 50 SBC + 3 Super Stimpaks - 2 tokens ]}
+{4090}{}{[ Vault Tec Key - 5 tokens ]}
+{4100}{}{[  Avenger minigun + 1000 5mm ammo - 1 token ]}
+{4110}{}{[  Sniper rifle + 150 .223 ammo - 1 token ]}
+{4120}{}{[  G11 - 5 tokens  ]}
+{4130}{}{[ Vault Tec key - 5 tokens ]}
+{4140}{}{[ Vault 13 key - 1 token ]}
+{4150}{}{[ Howitzer shell - 1 token ]}
+{4160}{}{[ 100 4.7 ammo - 1 token ]}
+{5000}{}{Here you go.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it brother?}
+{2010}{}{Who are you?}
+{2020}{}{I wish to get some equipment.}
+{2030}{}{Nothing. Just passing by.}
+{3000}{}{I am the quartermaster. The one who gives and stores the equipment.}
+{3010}{}{Fine. I wish to get some equipment.}
+{4000}{}{Fine. Sign up here and here...}
+{4010}{}{On the second thought, I will show up later.}
+{4020}{}{[ Brotherhood Combat Armor Set - 1 token ]}
+{4030}{}{[ 500 MFC + 300 SBC - 1 token ]}
+{4040}{}{[ 30 Super Stimpaks + 20 Stimpaks - 1 token ]}
+{4050}{}{[ 3 mines + 1 plastic explosives - 2 tokens ]}
+{4060}{}{[ 1 Motion sensor - 1 token ]}
+{4070}{}{[ Plasma SMG + 50 MFC + Plasma Rifle - 1 token ]}
+{4080}{}{[ Tesla Armor + Tesla Helmet + YK32 Pistol + 50 SBC + 3 Super Stimpaks - 2 tokens ]}
+{4090}{}{[ Vault Tec Key - 5 tokens ]}
+{4100}{}{[  Avenger minigun + 1000 5mm ammo - 1 token ]}
+{4110}{}{[  Sniper rifle + 150 .223 ammo - 1 token ]}
+{4120}{}{[  G11 - 5 tokens  ]}
+{4130}{}{[ Vault Tec key - 5 tokens ]}
+{4140}{}{[ Vault 13 key - 1 token ]}
+{4150}{}{[ Howitzer shell - 1 token ]}
+{4160}{}{[ 100 4.7 ammo - 1 token ]}
+{5000}{}{Here you go.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

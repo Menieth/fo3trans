@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -33,6 +33,42 @@ lang=engl czec
 {4000}{}{That's it man, you're history!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Attack if you bother him}
+{1020}{}{Hostile to good people}
+{1030}{}{Go}
+{2000}{}{What can I do you for?}
+{2010}{}{I'd like to see what you've got on tap.}
+{2020}{}{Nothing.}
+{3000}{}{What the fuck are ya doin' here, man? Get lost before someone shoots ya!@@We don't like your kind here. You better get the fuck outta here, before getting bullet in the back.@@Man, I would dissapear from this place if I were you.}
+{4000}{}{That's it man, you're history!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Attack if you bother him}
+{1020}{}{Hostile to good people}
+{1030}{}{Go}
+{2000}{}{What can I do you for?}
+{2010}{}{I'd like to see what you've got on tap.}
+{2020}{}{Nothing.}
+{3000}{}{What the fuck are ya doin' here, man? Get lost before someone shoots ya!@@We don't like your kind here. You better get the fuck outta here, before getting bullet in the back.@@Man, I would dissapear from this place if I were you.}
+{4000}{}{That's it man, you're history!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Attack if you bother him}
+{1020}{}{Hostile to good people}
+{1030}{}{Go}
+{2000}{}{What can I do you for?}
+{2010}{}{I'd like to see what you've got on tap.}
+{2020}{}{Nothing.}
+{3000}{}{What the fuck are ya doin' here, man? Get lost before someone shoots ya!@@We don't like your kind here. You better get the fuck outta here, before getting bullet in the back.@@Man, I would dissapear from this place if I were you.}
+{4000}{}{That's it man, you're history!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}

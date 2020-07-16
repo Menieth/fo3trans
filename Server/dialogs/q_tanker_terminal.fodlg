@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -75,6 +75,111 @@ lang=engl czec
 {9040}{}{[Logoff from the terminal.]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Computer hacked}
+{1020}{}{Computer not hacked}
+{2000}{}{0011 0000 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 1111}
+{2010}{}{[Try to hack the computer terminal.]}
+{2020}{}{[Leave the computer terminal alone.]}
+{3000}{}{Welcome to the Poseiden Oil security system. Please choose your action.}
+{3010}{}{[Information.]}
+{3020}{}{[Hack the security software.]}
+{3030}{}{[Hack the security software.]}
+{3040}{}{[Logoff from the terminal.]}
+{4000}{}{[You failed to hack the computer terminal.]}
+{4010}{}{[Try again.]}
+{4020}{}{[Leave the computer terminal alone.]}
+{5000}{}{[You succeeded in hacking in to the computer terminal. You are logging in as the administrator.]}
+{5010}{}{[Wait.]}
+{5020}{}{[Logoff from the terminal.]}
+{6000}{}{All security systems are online and working.}
+{6010}{}{[Information.]}
+{6020}{}{[Deactivate security systems.]}
+{6030}{}{[Logoff from the terminal.]}
+{7000}{}{All security systems are offline and in idle mode.}
+{7010}{}{[Information.]}
+{7020}{}{[Activate security systems.]}
+{7030}{}{[Logoff from the terminal.]}
+{8000}{}{Status: PMV Hellas Prairial, General Systems offline. Security-System Active. }
+{8010}{}{[Go back to the main menu.]}
+{9000}{}{[You failed to hack the security software.]}
+{9010}{}{[Information.]}
+{9020}{}{[Try to hack the security software again.]}
+{9030}{}{[Try to hack the security software again.]}
+{9040}{}{[Logoff from the terminal.]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Computer hacked}
+{1020}{}{Computer not hacked}
+{2000}{}{0011 0000 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 1111}
+{2010}{}{[Try to hack the computer terminal.]}
+{2020}{}{[Leave the computer terminal alone.]}
+{3000}{}{Welcome to the Poseiden Oil security system. Please choose your action.}
+{3010}{}{[Information.]}
+{3020}{}{[Hack the security software.]}
+{3030}{}{[Hack the security software.]}
+{3040}{}{[Logoff from the terminal.]}
+{4000}{}{[You failed to hack the computer terminal.]}
+{4010}{}{[Try again.]}
+{4020}{}{[Leave the computer terminal alone.]}
+{5000}{}{[You succeeded in hacking in to the computer terminal. You are logging in as the administrator.]}
+{5010}{}{[Wait.]}
+{5020}{}{[Logoff from the terminal.]}
+{6000}{}{All security systems are online and working.}
+{6010}{}{[Information.]}
+{6020}{}{[Deactivate security systems.]}
+{6030}{}{[Logoff from the terminal.]}
+{7000}{}{All security systems are offline and in idle mode.}
+{7010}{}{[Information.]}
+{7020}{}{[Activate security systems.]}
+{7030}{}{[Logoff from the terminal.]}
+{8000}{}{Status: PMV Hellas Prairial, General Systems offline. Security-System Active. }
+{8010}{}{[Go back to the main menu.]}
+{9000}{}{[You failed to hack the security software.]}
+{9010}{}{[Information.]}
+{9020}{}{[Try to hack the security software again.]}
+{9030}{}{[Try to hack the security software again.]}
+{9040}{}{[Logoff from the terminal.]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Computer hacked}
+{1020}{}{Computer not hacked}
+{2000}{}{0011 0000 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 0011 1010 0101 1010 1111}
+{2010}{}{[Try to hack the computer terminal.]}
+{2020}{}{[Leave the computer terminal alone.]}
+{3000}{}{Welcome to the Poseiden Oil security system. Please choose your action.}
+{3010}{}{[Information.]}
+{3020}{}{[Hack the security software.]}
+{3030}{}{[Hack the security software.]}
+{3040}{}{[Logoff from the terminal.]}
+{4000}{}{[You failed to hack the computer terminal.]}
+{4010}{}{[Try again.]}
+{4020}{}{[Leave the computer terminal alone.]}
+{5000}{}{[You succeeded in hacking in to the computer terminal. You are logging in as the administrator.]}
+{5010}{}{[Wait.]}
+{5020}{}{[Logoff from the terminal.]}
+{6000}{}{All security systems are online and working.}
+{6010}{}{[Information.]}
+{6020}{}{[Deactivate security systems.]}
+{6030}{}{[Logoff from the terminal.]}
+{7000}{}{All security systems are offline and in idle mode.}
+{7010}{}{[Information.]}
+{7020}{}{[Activate security systems.]}
+{7030}{}{[Logoff from the terminal.]}
+{8000}{}{Status: PMV Hellas Prairial, General Systems offline. Security-System Active. }
+{8010}{}{[Go back to the main menu.]}
+{9000}{}{[You failed to hack the security software.]}
+{9010}{}{[Information.]}
+{9020}{}{[Try to hack the security software again.]}
+{9030}{}{[Try to hack the security software again.]}
+{9040}{}{[Logoff from the terminal.]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Computer hacked}

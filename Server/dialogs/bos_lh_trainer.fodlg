@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -59,6 +59,81 @@ lang=engl czec
 {11000}{}{** OLD ** Can't even finish the whole thing....Damn right you're getting back to work. And stop being so useless!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Not BoS member.}
+{1020}{}{Answer text}
+{1030}{}{Not ugly. Quest in progress.}
+{1040}{}{Not ugly. Quest completed.}
+{1050}{}{Not ugly. Quest not started.}
+{2000}{}{There's no way in hell we initiated anyone as ugly as you. Get out of here.}
+{3000}{}{You interested in helping out the Brotherhood @sex@|boy||girl|?}
+{3010}{}{Yes sir! Here to serve the Brotherhood.}
+{3020}{}{Nope. I'm just here for the title.}
+{4000}{}{For a grunt like you, you get exactly what you deserve, grunt work. And you gotta be one lucky @sex@|son of a bitch||whining bitch| today! You know why?}
+{4010}{}{May I guess, sir?}
+{4020}{}{No, sir!}
+{5000}{}{Why do we keep scum like you around? Get the hell out of my sight!}
+{6000}{}{Because there's no work that dirty that I may assign to such a worthless rat like you! Get out!}
+{7000}{}{** OLD ** Good job. There's still work to be done so quit standing around!}
+{8000}{}{** OLD ** I don't have anything for you to do. Quit bothering me.}
+{9000}{}{How did you get in here? Brothers, kill this spy!}
+{10000}{}{** OLD ** Well?}
+{10010}{}{I'm finished, sir!}
+{10020}{}{I'll get back to work...}
+{11000}{}{** OLD ** Can't even finish the whole thing....Damn right you're getting back to work. And stop being so useless!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Not BoS member.}
+{1020}{}{Answer text}
+{1030}{}{Not ugly. Quest in progress.}
+{1040}{}{Not ugly. Quest completed.}
+{1050}{}{Not ugly. Quest not started.}
+{2000}{}{There's no way in hell we initiated anyone as ugly as you. Get out of here.}
+{3000}{}{You interested in helping out the Brotherhood @sex@|boy||girl|?}
+{3010}{}{Yes sir! Here to serve the Brotherhood.}
+{3020}{}{Nope. I'm just here for the title.}
+{4000}{}{For a grunt like you, you get exactly what you deserve, grunt work. And you gotta be one lucky @sex@|son of a bitch||whining bitch| today! You know why?}
+{4010}{}{May I guess, sir?}
+{4020}{}{No, sir!}
+{5000}{}{Why do we keep scum like you around? Get the hell out of my sight!}
+{6000}{}{Because there's no work that dirty that I may assign to such a worthless rat like you! Get out!}
+{7000}{}{** OLD ** Good job. There's still work to be done so quit standing around!}
+{8000}{}{** OLD ** I don't have anything for you to do. Quit bothering me.}
+{9000}{}{How did you get in here? Brothers, kill this spy!}
+{10000}{}{** OLD ** Well?}
+{10010}{}{I'm finished, sir!}
+{10020}{}{I'll get back to work...}
+{11000}{}{** OLD ** Can't even finish the whole thing....Damn right you're getting back to work. And stop being so useless!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Not BoS member.}
+{1020}{}{Answer text}
+{1030}{}{Not ugly. Quest in progress.}
+{1040}{}{Not ugly. Quest completed.}
+{1050}{}{Not ugly. Quest not started.}
+{2000}{}{There's no way in hell we initiated anyone as ugly as you. Get out of here.}
+{3000}{}{You interested in helping out the Brotherhood @sex@|boy||girl|?}
+{3010}{}{Yes sir! Here to serve the Brotherhood.}
+{3020}{}{Nope. I'm just here for the title.}
+{4000}{}{For a grunt like you, you get exactly what you deserve, grunt work. And you gotta be one lucky @sex@|son of a bitch||whining bitch| today! You know why?}
+{4010}{}{May I guess, sir?}
+{4020}{}{No, sir!}
+{5000}{}{Why do we keep scum like you around? Get the hell out of my sight!}
+{6000}{}{Because there's no work that dirty that I may assign to such a worthless rat like you! Get out!}
+{7000}{}{** OLD ** Good job. There's still work to be done so quit standing around!}
+{8000}{}{** OLD ** I don't have anything for you to do. Quit bothering me.}
+{9000}{}{How did you get in here? Brothers, kill this spy!}
+{10000}{}{** OLD ** Well?}
+{10010}{}{I'm finished, sir!}
+{10020}{}{I'll get back to work...}
+{11000}{}{** OLD ** Can't even finish the whole thing....Damn right you're getting back to work. And stop being so useless!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not BoS member.}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,39 @@ lang=engl czec
 {3010}{}{Okay. Bye.@@I should go then.@@Okay.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}
+{2010}{}{Uh... sure thing.}
+{2020}{}{Actually, what is this place?@@What is this place?}
+{2030}{}{Uhkay.}
+{3000}{}{This is a correctional facility of the New California Republic and if you don't have any important business to do, you have to leave this place now.}
+{3010}{}{Okay. Bye.@@I should go then.@@Okay.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}
+{2010}{}{Uh... sure thing.}
+{2020}{}{Actually, what is this place?@@What is this place?}
+{2030}{}{Uhkay.}
+{3000}{}{This is a correctional facility of the New California Republic and if you don't have any important business to do, you have to leave this place now.}
+{3010}{}{Okay. Bye.@@I should go then.@@Okay.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}
+{2010}{}{Uh... sure thing.}
+{2020}{}{Actually, what is this place?@@What is this place?}
+{2030}{}{Uhkay.}
+{3000}{}{This is a correctional facility of the New California Republic and if you don't have any important business to do, you have to leave this place now.}
+{3010}{}{Okay. Bye.@@I should go then.@@Okay.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

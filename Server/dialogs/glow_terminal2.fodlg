@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -33,6 +33,57 @@ UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Shoul
 {3020}{}{error}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{[ Error. Low power. ]}
+{2010}{}{[ Weapon Test #63 ]
+}
+{2020}{}{[ Exit ]}
+{3000}{}{Test-Subject: "Laser-Gat" # 1.02 (Experimental)
+
+Test-Target: Combat Armor Model 333 
+
+Surprisingly, experimental Laser Gatling shows great results in efficiency: more simplier technology, yet not so weak in comparsion to Plasma version, it could be a "cheaper" type of "big" energy-weapons to mass production. 
+UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Should try different power modes and make few more tests.}
+{3010}{}{error}
+{3020}{}{error}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{[ Error. Low power. ]}
+{2010}{}{[ Weapon Test #63 ]
+}
+{2020}{}{[ Exit ]}
+{3000}{}{Test-Subject: "Laser-Gat" # 1.02 (Experimental)
+
+Test-Target: Combat Armor Model 333 
+
+Surprisingly, experimental Laser Gatling shows great results in efficiency: more simplier technology, yet not so weak in comparsion to Plasma version, it could be a "cheaper" type of "big" energy-weapons to mass production. 
+UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Should try different power modes and make few more tests.}
+{3010}{}{error}
+{3020}{}{error}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{[ Error. Low power. ]}
+{2010}{}{[ Weapon Test #63 ]
+}
+{2020}{}{[ Exit ]}
+{3000}{}{Test-Subject: "Laser-Gat" # 1.02 (Experimental)
+
+Test-Target: Combat Armor Model 333 
+
+Surprisingly, experimental Laser Gatling shows great results in efficiency: more simplier technology, yet not so weak in comparsion to Plasma version, it could be a "cheaper" type of "big" energy-weapons to mass production. 
+UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Should try different power modes and make few more tests.}
+{3010}{}{error}
+{3020}{}{error}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }

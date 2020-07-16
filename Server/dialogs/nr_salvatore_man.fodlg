@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -28,6 +28,30 @@ lang=engl czec
 {3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Ugly}
+{2000}{}{I haven't got time to talk right now.@@I can't help you.@@Can't help you. Sorry.}
+{3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Ugly}
+{2000}{}{I haven't got time to talk right now.@@I can't help you.@@Can't help you. Sorry.}
+{3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Ugly}
+{2000}{}{I haven't got time to talk right now.@@I can't help you.@@Can't help you. Sorry.}
+{3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}

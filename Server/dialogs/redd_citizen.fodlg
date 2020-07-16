@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,30 @@ lang=engl czec
 {3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{What are you looking at?@@Welcome to the big city.@@Hello.@@Been in Redding long?@@First time in Redding, huh?@@We don't want any trouble here.@@I've been looking at you, too.@@Howdy, stranger.@@What's up?@@How're you doing?@@Good day to you.@@Yup.@@Heya.}
+{3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{What are you looking at?@@Welcome to the big city.@@Hello.@@Been in Redding long?@@First time in Redding, huh?@@We don't want any trouble here.@@I've been looking at you, too.@@Howdy, stranger.@@What's up?@@How're you doing?@@Good day to you.@@Yup.@@Heya.}
+{3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{Answer text}
+{2000}{}{What are you looking at?@@Welcome to the big city.@@Hello.@@Been in Redding long?@@First time in Redding, huh?@@We don't want any trouble here.@@I've been looking at you, too.@@Howdy, stranger.@@What's up?@@How're you doing?@@Good day to you.@@Yup.@@Heya.}
+{3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

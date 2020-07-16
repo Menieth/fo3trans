@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.@@Hey! Raw meat! Who are you? What are you doing here?@@Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.@@Hey! Raw meat! Who are you? What are you doing here?@@Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.@@Hey! Raw meat! Who are you? What are you doing here?@@Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.@@Hey! Raw meat! Who are you? What are you doing here?@@Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

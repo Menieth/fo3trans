@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -87,6 +87,129 @@ lang=engl czec
 {9160}{}{Cannibal}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Hello, can I help you with something?}
+{2010}{}{Vic, huh? You are very well known all over the wastes.}
+{2020}{}{I forgot to choose trait}
+{3000}{}{Fine... Are you sure you want to hear this? It may change your life and there might be no way back.}
+{3010}{}{Not now.}
+{3020}{}{I'm all in ears.}
+{4000}{}{Not me, but the Chosen One I guess. I am just the guy who used to be a good things carrier, ahah... Anyway, what are you here for?}
+{4010}{}{I want to hear the story about the Chosen One. The WHOLE story. So I want you to tell me everything about him.}
+{4020}{}{Nothing, see ya.}
+{4030}{}{For nothing, fatass.}
+{5000}{}{Why should I?}
+{5010}{}{And why not?}
+{5020}{}{Your knowledge may help me in my everyday struggle in this God - forsaken Wasteland. Isn't it obvious?}
+{5030}{}{Look, I crawled around this State not for your stupid questions! I want to hear your story!}
+{5040}{}{Because in another way I will just blow your brain out of your head and will use it for luring Deathclaws.}
+{5050}{}{Actually. You shouldn't. I better go.}
+{6000}{}{Listen, these things are not for your ears. You look like a person who has just left some very cozy and comfortable vault. In another words - you are not experienced at all for such stories.}
+{7000}{}{Look here, these things are not for your ears... yet. I understand that you have already tasted many wonders of the wasnteland but still... You don't have enough experience.}
+{8000}{}{Scum...}
+{9000}{}{Choose Trait!}
+{9010}{}{BloodyMess}
+{9020}{}{Bonehead}
+{9030}{}{Bruiser}
+{9040}{}{Chem Reliant}
+{9050}{}{Fast Metabolism}
+{9060}{}{Fast Shot}
+{9070}{}{Finesse}
+{9080}{}{Good Natured}
+{9090}{}{Heavy Handed}
+{9100}{}{Jinxed}
+{9110}{}{Kamikaze}
+{9120}{}{Loner}
+{9130}{}{One Hander}
+{9140}{}{Small Frame}
+{9150}{}{Gifted}
+{9160}{}{Cannibal}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Hello, can I help you with something?}
+{2010}{}{Vic, huh? You are very well known all over the wastes.}
+{2020}{}{I forgot to choose trait}
+{3000}{}{Fine... Are you sure you want to hear this? It may change your life and there might be no way back.}
+{3010}{}{Not now.}
+{3020}{}{I'm all in ears.}
+{4000}{}{Not me, but the Chosen One I guess. I am just the guy who used to be a good things carrier, ahah... Anyway, what are you here for?}
+{4010}{}{I want to hear the story about the Chosen One. The WHOLE story. So I want you to tell me everything about him.}
+{4020}{}{Nothing, see ya.}
+{4030}{}{For nothing, fatass.}
+{5000}{}{Why should I?}
+{5010}{}{And why not?}
+{5020}{}{Your knowledge may help me in my everyday struggle in this God - forsaken Wasteland. Isn't it obvious?}
+{5030}{}{Look, I crawled around this State not for your stupid questions! I want to hear your story!}
+{5040}{}{Because in another way I will just blow your brain out of your head and will use it for luring Deathclaws.}
+{5050}{}{Actually. You shouldn't. I better go.}
+{6000}{}{Listen, these things are not for your ears. You look like a person who has just left some very cozy and comfortable vault. In another words - you are not experienced at all for such stories.}
+{7000}{}{Look here, these things are not for your ears... yet. I understand that you have already tasted many wonders of the wasnteland but still... You don't have enough experience.}
+{8000}{}{Scum...}
+{9000}{}{Choose Trait!}
+{9010}{}{BloodyMess}
+{9020}{}{Bonehead}
+{9030}{}{Bruiser}
+{9040}{}{Chem Reliant}
+{9050}{}{Fast Metabolism}
+{9060}{}{Fast Shot}
+{9070}{}{Finesse}
+{9080}{}{Good Natured}
+{9090}{}{Heavy Handed}
+{9100}{}{Jinxed}
+{9110}{}{Kamikaze}
+{9120}{}{Loner}
+{9130}{}{One Hander}
+{9140}{}{Small Frame}
+{9150}{}{Gifted}
+{9160}{}{Cannibal}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Hello, can I help you with something?}
+{2010}{}{Vic, huh? You are very well known all over the wastes.}
+{2020}{}{I forgot to choose trait}
+{3000}{}{Fine... Are you sure you want to hear this? It may change your life and there might be no way back.}
+{3010}{}{Not now.}
+{3020}{}{I'm all in ears.}
+{4000}{}{Not me, but the Chosen One I guess. I am just the guy who used to be a good things carrier, ahah... Anyway, what are you here for?}
+{4010}{}{I want to hear the story about the Chosen One. The WHOLE story. So I want you to tell me everything about him.}
+{4020}{}{Nothing, see ya.}
+{4030}{}{For nothing, fatass.}
+{5000}{}{Why should I?}
+{5010}{}{And why not?}
+{5020}{}{Your knowledge may help me in my everyday struggle in this God - forsaken Wasteland. Isn't it obvious?}
+{5030}{}{Look, I crawled around this State not for your stupid questions! I want to hear your story!}
+{5040}{}{Because in another way I will just blow your brain out of your head and will use it for luring Deathclaws.}
+{5050}{}{Actually. You shouldn't. I better go.}
+{6000}{}{Listen, these things are not for your ears. You look like a person who has just left some very cozy and comfortable vault. In another words - you are not experienced at all for such stories.}
+{7000}{}{Look here, these things are not for your ears... yet. I understand that you have already tasted many wonders of the wasnteland but still... You don't have enough experience.}
+{8000}{}{Scum...}
+{9000}{}{Choose Trait!}
+{9010}{}{BloodyMess}
+{9020}{}{Bonehead}
+{9030}{}{Bruiser}
+{9040}{}{Chem Reliant}
+{9050}{}{Fast Metabolism}
+{9060}{}{Fast Shot}
+{9070}{}{Finesse}
+{9080}{}{Good Natured}
+{9090}{}{Heavy Handed}
+{9100}{}{Jinxed}
+{9110}{}{Kamikaze}
+{9120}{}{Loner}
+{9130}{}{One Hander}
+{9140}{}{Small Frame}
+{9150}{}{Gifted}
+{9160}{}{Cannibal}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}

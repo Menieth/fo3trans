@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Treatment is only for NCR army memebers!@@Get out of here, we don't heal just everyone.@@I don't have time for this, get out of here!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Treatment is only for NCR army memebers!@@Get out of here, we don't heal just everyone.@@I don't have time for this, get out of here!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Treatment is only for NCR army memebers!@@Get out of here, we don't heal just everyone.@@I don't have time for this, get out of here!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Treatment is only for NCR army memebers!@@Get out of here, we don't heal just everyone.@@I don't have time for this, get out of here!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

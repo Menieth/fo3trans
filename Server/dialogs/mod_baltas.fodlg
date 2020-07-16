@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -87,6 +87,126 @@ lang=engl czec
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{finished his little fetchquest}
+{1020}{}{Answer text}
+{2000}{}{Hello, my name's Balthas. I run the Tannery here in Modoc. Can I help you?}
+{2010}{}{I'd like to see your wares.}
+{2020}{}{Tannery, huh? Say, can you make jackets and armors from the brahmin hide? I'm quite eager to learn how to do it properly.}
+{2030}{}{Could you teach me something more about armors?}
+{2040}{}{How's business, Balthas?}
+{2050}{}{How's business, Balthas? Still having the same problems?}
+{2060}{}{Just looking, thanks.}
+{3000}{}{Get out of here, idiot.@@Been out in the sun too long?@@Shoo!}
+{4000}{}{I killed brahmin better looking than you.@@What.. what are you?@@Please, you're scaring my son.@@I'm going to have to ask you to leave. You're hurting my business.}
+{5000}{}{Oh you know. It's been pretty slow, recently. I mean, the custom's here, but it's hard keeping up with demand. Grisham's never got enough hides to spare for me.}
+{5010}{}{You know, I don't really have a day job. I could look in to this for you.}
+{5020}{}{That sucks, man. I mean, I don't even have a job. Life is tough alright. Later.}
+{6000}{}{You would? I mean I'd do it myself but if I leave the shop for a minute some damn wastelander will try stealing what I've got here. Just check in with Grisham and see what's up.}
+{6010}{}{I'll go talk to Grisham for you Balthas and see what's up with the brahmin.}
+{6020}{}{Not interested, I've got better things to do.}
+{7000}{}{Same as ever. This is turning out to be a real chronic issue. Haven't got a decent excuse out of Grisham yet. He's always blaming wastelanders. If you could give it another shot I'd appreciate it.}
+{7010}{}{I'll go talk to Grisham for you, Balthas, and see what's up with the brahmin.}
+{7020}{}{I hope you find someone else to whine on Grisham.}
+{8000}{}{Hey wastelander. I need to thank you.}
+{8010}{}{Oh, you already heard?}
+{9000}{}{Yeah, Ed's buckaroo's got here a bit before you did and told me about it. Don't know how you got brahmin off that man, but I'm glad for the extra hides. }
+{9010}{}{Well, I'm glad to help out.}
+{10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
+{10010}{}{Thanks man, really. I appreciate your candour.}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
+{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11020}{}{Sorry, that's too much for me. I might be back later, though.}
+{12000}{}{Well, I think there is something I could show you... For three grand.}
+{12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
+{12020}{}{Sorry, that's too much for me. I might be back later, though.}
+{13000}{}{Good, now pay attention... [Baltas shows you how to make armors and take care of them]}
+{13010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
+{14000}{}{Good, now pay attention... [Baltas shows you the essence of his skill]}
+{14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{finished his little fetchquest}
+{1020}{}{Answer text}
+{2000}{}{Hello, my name's Balthas. I run the Tannery here in Modoc. Can I help you?}
+{2010}{}{I'd like to see your wares.}
+{2020}{}{Tannery, huh? Say, can you make jackets and armors from the brahmin hide? I'm quite eager to learn how to do it properly.}
+{2030}{}{Could you teach me something more about armors?}
+{2040}{}{How's business, Balthas?}
+{2050}{}{How's business, Balthas? Still having the same problems?}
+{2060}{}{Just looking, thanks.}
+{3000}{}{Get out of here, idiot.@@Been out in the sun too long?@@Shoo!}
+{4000}{}{I killed brahmin better looking than you.@@What.. what are you?@@Please, you're scaring my son.@@I'm going to have to ask you to leave. You're hurting my business.}
+{5000}{}{Oh you know. It's been pretty slow, recently. I mean, the custom's here, but it's hard keeping up with demand. Grisham's never got enough hides to spare for me.}
+{5010}{}{You know, I don't really have a day job. I could look in to this for you.}
+{5020}{}{That sucks, man. I mean, I don't even have a job. Life is tough alright. Later.}
+{6000}{}{You would? I mean I'd do it myself but if I leave the shop for a minute some damn wastelander will try stealing what I've got here. Just check in with Grisham and see what's up.}
+{6010}{}{I'll go talk to Grisham for you Balthas and see what's up with the brahmin.}
+{6020}{}{Not interested, I've got better things to do.}
+{7000}{}{Same as ever. This is turning out to be a real chronic issue. Haven't got a decent excuse out of Grisham yet. He's always blaming wastelanders. If you could give it another shot I'd appreciate it.}
+{7010}{}{I'll go talk to Grisham for you, Balthas, and see what's up with the brahmin.}
+{7020}{}{I hope you find someone else to whine on Grisham.}
+{8000}{}{Hey wastelander. I need to thank you.}
+{8010}{}{Oh, you already heard?}
+{9000}{}{Yeah, Ed's buckaroo's got here a bit before you did and told me about it. Don't know how you got brahmin off that man, but I'm glad for the extra hides. }
+{9010}{}{Well, I'm glad to help out.}
+{10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
+{10010}{}{Thanks man, really. I appreciate your candour.}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
+{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11020}{}{Sorry, that's too much for me. I might be back later, though.}
+{12000}{}{Well, I think there is something I could show you... For three grand.}
+{12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
+{12020}{}{Sorry, that's too much for me. I might be back later, though.}
+{13000}{}{Good, now pay attention... [Baltas shows you how to make armors and take care of them]}
+{13010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
+{14000}{}{Good, now pay attention... [Baltas shows you the essence of his skill]}
+{14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{finished his little fetchquest}
+{1020}{}{Answer text}
+{2000}{}{Hello, my name's Balthas. I run the Tannery here in Modoc. Can I help you?}
+{2010}{}{I'd like to see your wares.}
+{2020}{}{Tannery, huh? Say, can you make jackets and armors from the brahmin hide? I'm quite eager to learn how to do it properly.}
+{2030}{}{Could you teach me something more about armors?}
+{2040}{}{How's business, Balthas?}
+{2050}{}{How's business, Balthas? Still having the same problems?}
+{2060}{}{Just looking, thanks.}
+{3000}{}{Get out of here, idiot.@@Been out in the sun too long?@@Shoo!}
+{4000}{}{I killed brahmin better looking than you.@@What.. what are you?@@Please, you're scaring my son.@@I'm going to have to ask you to leave. You're hurting my business.}
+{5000}{}{Oh you know. It's been pretty slow, recently. I mean, the custom's here, but it's hard keeping up with demand. Grisham's never got enough hides to spare for me.}
+{5010}{}{You know, I don't really have a day job. I could look in to this for you.}
+{5020}{}{That sucks, man. I mean, I don't even have a job. Life is tough alright. Later.}
+{6000}{}{You would? I mean I'd do it myself but if I leave the shop for a minute some damn wastelander will try stealing what I've got here. Just check in with Grisham and see what's up.}
+{6010}{}{I'll go talk to Grisham for you Balthas and see what's up with the brahmin.}
+{6020}{}{Not interested, I've got better things to do.}
+{7000}{}{Same as ever. This is turning out to be a real chronic issue. Haven't got a decent excuse out of Grisham yet. He's always blaming wastelanders. If you could give it another shot I'd appreciate it.}
+{7010}{}{I'll go talk to Grisham for you, Balthas, and see what's up with the brahmin.}
+{7020}{}{I hope you find someone else to whine on Grisham.}
+{8000}{}{Hey wastelander. I need to thank you.}
+{8010}{}{Oh, you already heard?}
+{9000}{}{Yeah, Ed's buckaroo's got here a bit before you did and told me about it. Don't know how you got brahmin off that man, but I'm glad for the extra hides. }
+{9010}{}{Well, I'm glad to help out.}
+{10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
+{10010}{}{Thanks man, really. I appreciate your candour.}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
+{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11020}{}{Sorry, that's too much for me. I might be back later, though.}
+{12000}{}{Well, I think there is something I could show you... For three grand.}
+{12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
+{12020}{}{Sorry, that's too much for me. I might be back later, though.}
+{13000}{}{Good, now pay attention... [Baltas shows you how to make armors and take care of them]}
+{13010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
+{14000}{}{Good, now pay attention... [Baltas shows you the essence of his skill]}
+{14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}

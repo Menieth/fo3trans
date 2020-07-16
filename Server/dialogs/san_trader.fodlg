@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -53,6 +53,30 @@ lang=engl czec
 {100000001}{}{I've got eight healthy children! They all eat fish!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Go str8 2 da floats bitch}
+{2000}{}{Come back in the morning.@@We're closed, come back tomorrow.}
+{3000}{}{Fiiiiiiiiiiiiiiiiiiiiiiiiish!@@Fresh fish for sale!@@Fishy-Wishy@@Who wants some fish?@@Less radiated than that guy's fish!@@The finest fish available on this entire dock!@@Come on up and purchase some fish!@@Good fish, good price.@@Also selling ancient chinese fish recipes, 3 for 2.@@They taste better than they smell!@@5 for 4, get your fish!@@Caught just today, in the disgusting black sea!@@Three types: Disgusting, Mutated and Small!@@Goes well with instant noodles!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Go str8 2 da floats bitch}
+{2000}{}{Come back in the morning.@@We're closed, come back tomorrow.}
+{3000}{}{Fiiiiiiiiiiiiiiiiiiiiiiiiish!@@Fresh fish for sale!@@Fishy-Wishy@@Who wants some fish?@@Less radiated than that guy's fish!@@The finest fish available on this entire dock!@@Come on up and purchase some fish!@@Good fish, good price.@@Also selling ancient chinese fish recipes, 3 for 2.@@They taste better than they smell!@@5 for 4, get your fish!@@Caught just today, in the disgusting black sea!@@Three types: Disgusting, Mutated and Small!@@Goes well with instant noodles!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{night}
+{1020}{}{Go str8 2 da floats bitch}
+{2000}{}{Come back in the morning.@@We're closed, come back tomorrow.}
+{3000}{}{Fiiiiiiiiiiiiiiiiiiiiiiiiish!@@Fresh fish for sale!@@Fishy-Wishy@@Who wants some fish?@@Less radiated than that guy's fish!@@The finest fish available on this entire dock!@@Come on up and purchase some fish!@@Good fish, good price.@@Also selling ancient chinese fish recipes, 3 for 2.@@They taste better than they smell!@@5 for 4, get your fish!@@Caught just today, in the disgusting black sea!@@Three types: Disgusting, Mutated and Small!@@Goes well with instant noodles!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}

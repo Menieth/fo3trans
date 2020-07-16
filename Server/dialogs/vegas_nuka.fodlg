@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {3000}{}{Thank you for purchase.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This is a working Nuka Machine. It asks for 10 caps for 1 bottle of Nuka Cola. There is also a strange option that asks you to spend 1 golden dollar for something special. The remark on right says "For true fans of Nuka!". ]}
+{2010}{}{[ Buy a bottle of Nuka ]}
+{2020}{}{[ Drop a dollar in the machine ]}
+{3000}{}{Thank you for purchase.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This is a working Nuka Machine. It asks for 10 caps for 1 bottle of Nuka Cola. There is also a strange option that asks you to spend 1 golden dollar for something special. The remark on right says "For true fans of Nuka!". ]}
+{2010}{}{[ Buy a bottle of Nuka ]}
+{2020}{}{[ Drop a dollar in the machine ]}
+{3000}{}{Thank you for purchase.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ This is a working Nuka Machine. It asks for 10 caps for 1 bottle of Nuka Cola. There is also a strange option that asks you to spend 1 golden dollar for something special. The remark on right says "For true fans of Nuka!". ]}
+{2010}{}{[ Buy a bottle of Nuka ]}
+{2020}{}{[ Drop a dollar in the machine ]}
+{3000}{}{Thank you for purchase.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

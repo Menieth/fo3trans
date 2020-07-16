@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Wanna have some fun?@@I can fulfill your dreams sweety!@@Come here sweetheart.@@ I will be all yours.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Wanna have some fun?@@I can fulfill your dreams sweety!@@Come here sweetheart.@@ I will be all yours.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Wanna have some fun?@@I can fulfill your dreams sweety!@@Come here sweetheart.@@ I will be all yours.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,24 @@ lang=engl czec
 {2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Predialogue installations}
+{2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Predialogue installations}
+{2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Predialogue installations}
+{2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Predialogue installations}

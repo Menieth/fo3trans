@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {2020}{}{Nothing, I'm leaving.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{A new face in our venue? Make yourself comfortable! There is no such a club in the world where you can sit through for long without at least buying some alcohol and getting drunk. And for this we work! Choose what you'll drink!}
+{2010}{}{Show me what you have.}
+{2020}{}{Nothing, I'm leaving.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{A new face in our venue? Make yourself comfortable! There is no such a club in the world where you can sit through for long without at least buying some alcohol and getting drunk. And for this we work! Choose what you'll drink!}
+{2010}{}{Show me what you have.}
+{2020}{}{Nothing, I'm leaving.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{A new face in our venue? Make yourself comfortable! There is no such a club in the world where you can sit through for long without at least buying some alcohol and getting drunk. And for this we work! Choose what you'll drink!}
+{2010}{}{Show me what you have.}
+{2020}{}{Nothing, I'm leaving.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

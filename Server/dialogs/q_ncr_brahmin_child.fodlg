@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -139,6 +139,204 @@ lang=engl czec
 {22040}{}{Goodbye.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{quest }
+{1020}{}{talked to already}
+{1030}{}{no quest}
+{2000}{}{I don't like you!@@Boo!@@You are ugly!@@You can't do anything!@@Waaaah!@@Pah!@@I am free!@@}
+{3000}{}{What do you want?@@My mom doesn't allow me to talk to strangers!@@I am not allowed to talk to strangers!}
+{3010}{}{Hey, what are you kids doing here?}
+{3020}{}{Get away from here, that's no place to play for kids!}
+{3030}{}{[End]}
+{4000}{}{We are playing with the moo-moos!}
+{4010}{}{Playing? You are chasing them around!}
+{4020}{}{[Combat] I am going to show YOU what playing is!}
+{4030}{}{If I'll give you kids some meat jerky, will you leave then?}
+{4040}{}{Where are your parents, I am going to have a word with them!}
+{4050}{}{Fine... then... uh, continue.}
+{5000}{}{Aaaaaa! You are evil!}
+{6000}{}{@sex@|Sure, mister!||Sure, mam!| That's great! I am so hungry...}
+{6010}{}{Fine. [You give them some meat jerky.]}
+{7000}{}{@sex@|Thanks, mister!||Thanks, miss!|}
+{8000}{}{We always play here, you can't dictate us anything!}
+{8010}{}{Where are your parents, I am going to have a word with them!}
+{8020}{}{If I'll give you kids some meat jerky, will you leave then?}
+{9000}{}{No! We run around with them and they like it!}
+{9010}{}{Obviously you can't see how nervous the brahmin get when you and your friends are running around them all the time.}
+{9020}{}{Where are your parents, I am going to have a word with them!}
+{9030}{}{I'll give you 10 caps if you go to play somewhere else.}
+{9040}{}{I'll give you 10 caps if you go to play somewhere else.}
+{9050}{}{[Combat] Enough, is enough, I am going to teach you some respect!}
+{10000}{}{My parents are working at the quarry all day long, they don't care about what you say!}
+{10010}{}{At the quarry? But that's miles away! Shouldn't you be at the workers settlement instead of here?}
+{10020}{}{Where is that quarry you are talking about?}
+{11000}{}{They don't like it? Oh no! [The kid looks worried.]}
+{11010}{}{Yes, you should stop it, so they can relax again.}
+{11020}{}{They don't like it and I am going to tell your parents about what evil things you and your friends are doing!}
+{12000}{}{We don't want them to feel bad! We better play somewhere else then.}
+{13000}{}{It's in the mountains to the west of here! [He hasty points into some random direction with one of his arms.]}
+{13010}{}{But that's miles away! Shouldn't you be at the workers settlement instead of here?}
+{14000}{}{We don't like it there, and it stinks! We are free now, we can do whatever we want to do!}
+{14010}{}{You better stop chasing around the brahmin or you will get in trouble with the local brahmin baron.}
+{14020}{}{[Combat] Enough, is enough, I am going to teach you some respect!}
+{14030}{}{Your parents must be worried, you kids really should go back to them.}
+{14040}{}{Do whatever you want to do. Bye.}
+{15000}{}{@sex@|Sure, mister!||Sure, mam!| We'll be playing somewhere else! [He yells over to his friends and they run away.] }
+{15010}{}{[End]}
+{16000}{}{NO! ... We want 50 caps!}
+{16010}{}{You kids for sure are expensive. [You give him 50 caps.]}
+{16020}{}{I don't have that much money on me. Just stop running after the brahmin!}
+{17000}{}{@sex@|Thanks, mister!||Thanks, miss!| We go to play somewhere else! [He yells over to his friends and they run away.] }
+{17010}{}{[End]}
+{18000}{}{My parents don't care where I am, they don't even know I'm gone!}
+{18010}{}{[Bluff] I think that's not true, I saw some people looking for their children, I bet they were you're parents.}
+{18020}{}{[Bluff] I think that's not true, I saw some people looking for their children, I bet they were you're parents.}
+{18030}{}{Just stop running after the brahmin!}
+{19000}{}{Oh crap, they're looking for us already?}
+{19010}{}{Yes, you should go home now.}
+{20000}{}{We better go home! [He yells over to his friends and they run away.]}
+{20010}{}{[End]}
+{21000}{}{I don't believe you! You are lying!}
+{22000}{}{@sex@|Yes, mister?||Yes, miss?|}
+{22010}{}{Stop chasing around the brahmin!}
+{22020}{}{If I'll give you kids some meat jerky, will you leave then?}
+{22030}{}{Where are your parents, I am going to have a word with them!}
+{22040}{}{Goodbye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{quest }
+{1020}{}{talked to already}
+{1030}{}{no quest}
+{2000}{}{I don't like you!@@Boo!@@You are ugly!@@You can't do anything!@@Waaaah!@@Pah!@@I am free!@@}
+{3000}{}{What do you want?@@My mom doesn't allow me to talk to strangers!@@I am not allowed to talk to strangers!}
+{3010}{}{Hey, what are you kids doing here?}
+{3020}{}{Get away from here, that's no place to play for kids!}
+{3030}{}{[End]}
+{4000}{}{We are playing with the moo-moos!}
+{4010}{}{Playing? You are chasing them around!}
+{4020}{}{[Combat] I am going to show YOU what playing is!}
+{4030}{}{If I'll give you kids some meat jerky, will you leave then?}
+{4040}{}{Where are your parents, I am going to have a word with them!}
+{4050}{}{Fine... then... uh, continue.}
+{5000}{}{Aaaaaa! You are evil!}
+{6000}{}{@sex@|Sure, mister!||Sure, mam!| That's great! I am so hungry...}
+{6010}{}{Fine. [You give them some meat jerky.]}
+{7000}{}{@sex@|Thanks, mister!||Thanks, miss!|}
+{8000}{}{We always play here, you can't dictate us anything!}
+{8010}{}{Where are your parents, I am going to have a word with them!}
+{8020}{}{If I'll give you kids some meat jerky, will you leave then?}
+{9000}{}{No! We run around with them and they like it!}
+{9010}{}{Obviously you can't see how nervous the brahmin get when you and your friends are running around them all the time.}
+{9020}{}{Where are your parents, I am going to have a word with them!}
+{9030}{}{I'll give you 10 caps if you go to play somewhere else.}
+{9040}{}{I'll give you 10 caps if you go to play somewhere else.}
+{9050}{}{[Combat] Enough, is enough, I am going to teach you some respect!}
+{10000}{}{My parents are working at the quarry all day long, they don't care about what you say!}
+{10010}{}{At the quarry? But that's miles away! Shouldn't you be at the workers settlement instead of here?}
+{10020}{}{Where is that quarry you are talking about?}
+{11000}{}{They don't like it? Oh no! [The kid looks worried.]}
+{11010}{}{Yes, you should stop it, so they can relax again.}
+{11020}{}{They don't like it and I am going to tell your parents about what evil things you and your friends are doing!}
+{12000}{}{We don't want them to feel bad! We better play somewhere else then.}
+{13000}{}{It's in the mountains to the west of here! [He hasty points into some random direction with one of his arms.]}
+{13010}{}{But that's miles away! Shouldn't you be at the workers settlement instead of here?}
+{14000}{}{We don't like it there, and it stinks! We are free now, we can do whatever we want to do!}
+{14010}{}{You better stop chasing around the brahmin or you will get in trouble with the local brahmin baron.}
+{14020}{}{[Combat] Enough, is enough, I am going to teach you some respect!}
+{14030}{}{Your parents must be worried, you kids really should go back to them.}
+{14040}{}{Do whatever you want to do. Bye.}
+{15000}{}{@sex@|Sure, mister!||Sure, mam!| We'll be playing somewhere else! [He yells over to his friends and they run away.] }
+{15010}{}{[End]}
+{16000}{}{NO! ... We want 50 caps!}
+{16010}{}{You kids for sure are expensive. [You give him 50 caps.]}
+{16020}{}{I don't have that much money on me. Just stop running after the brahmin!}
+{17000}{}{@sex@|Thanks, mister!||Thanks, miss!| We go to play somewhere else! [He yells over to his friends and they run away.] }
+{17010}{}{[End]}
+{18000}{}{My parents don't care where I am, they don't even know I'm gone!}
+{18010}{}{[Bluff] I think that's not true, I saw some people looking for their children, I bet they were you're parents.}
+{18020}{}{[Bluff] I think that's not true, I saw some people looking for their children, I bet they were you're parents.}
+{18030}{}{Just stop running after the brahmin!}
+{19000}{}{Oh crap, they're looking for us already?}
+{19010}{}{Yes, you should go home now.}
+{20000}{}{We better go home! [He yells over to his friends and they run away.]}
+{20010}{}{[End]}
+{21000}{}{I don't believe you! You are lying!}
+{22000}{}{@sex@|Yes, mister?||Yes, miss?|}
+{22010}{}{Stop chasing around the brahmin!}
+{22020}{}{If I'll give you kids some meat jerky, will you leave then?}
+{22030}{}{Where are your parents, I am going to have a word with them!}
+{22040}{}{Goodbye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{quest }
+{1020}{}{talked to already}
+{1030}{}{no quest}
+{2000}{}{I don't like you!@@Boo!@@You are ugly!@@You can't do anything!@@Waaaah!@@Pah!@@I am free!@@}
+{3000}{}{What do you want?@@My mom doesn't allow me to talk to strangers!@@I am not allowed to talk to strangers!}
+{3010}{}{Hey, what are you kids doing here?}
+{3020}{}{Get away from here, that's no place to play for kids!}
+{3030}{}{[End]}
+{4000}{}{We are playing with the moo-moos!}
+{4010}{}{Playing? You are chasing them around!}
+{4020}{}{[Combat] I am going to show YOU what playing is!}
+{4030}{}{If I'll give you kids some meat jerky, will you leave then?}
+{4040}{}{Where are your parents, I am going to have a word with them!}
+{4050}{}{Fine... then... uh, continue.}
+{5000}{}{Aaaaaa! You are evil!}
+{6000}{}{@sex@|Sure, mister!||Sure, mam!| That's great! I am so hungry...}
+{6010}{}{Fine. [You give them some meat jerky.]}
+{7000}{}{@sex@|Thanks, mister!||Thanks, miss!|}
+{8000}{}{We always play here, you can't dictate us anything!}
+{8010}{}{Where are your parents, I am going to have a word with them!}
+{8020}{}{If I'll give you kids some meat jerky, will you leave then?}
+{9000}{}{No! We run around with them and they like it!}
+{9010}{}{Obviously you can't see how nervous the brahmin get when you and your friends are running around them all the time.}
+{9020}{}{Where are your parents, I am going to have a word with them!}
+{9030}{}{I'll give you 10 caps if you go to play somewhere else.}
+{9040}{}{I'll give you 10 caps if you go to play somewhere else.}
+{9050}{}{[Combat] Enough, is enough, I am going to teach you some respect!}
+{10000}{}{My parents are working at the quarry all day long, they don't care about what you say!}
+{10010}{}{At the quarry? But that's miles away! Shouldn't you be at the workers settlement instead of here?}
+{10020}{}{Where is that quarry you are talking about?}
+{11000}{}{They don't like it? Oh no! [The kid looks worried.]}
+{11010}{}{Yes, you should stop it, so they can relax again.}
+{11020}{}{They don't like it and I am going to tell your parents about what evil things you and your friends are doing!}
+{12000}{}{We don't want them to feel bad! We better play somewhere else then.}
+{13000}{}{It's in the mountains to the west of here! [He hasty points into some random direction with one of his arms.]}
+{13010}{}{But that's miles away! Shouldn't you be at the workers settlement instead of here?}
+{14000}{}{We don't like it there, and it stinks! We are free now, we can do whatever we want to do!}
+{14010}{}{You better stop chasing around the brahmin or you will get in trouble with the local brahmin baron.}
+{14020}{}{[Combat] Enough, is enough, I am going to teach you some respect!}
+{14030}{}{Your parents must be worried, you kids really should go back to them.}
+{14040}{}{Do whatever you want to do. Bye.}
+{15000}{}{@sex@|Sure, mister!||Sure, mam!| We'll be playing somewhere else! [He yells over to his friends and they run away.] }
+{15010}{}{[End]}
+{16000}{}{NO! ... We want 50 caps!}
+{16010}{}{You kids for sure are expensive. [You give him 50 caps.]}
+{16020}{}{I don't have that much money on me. Just stop running after the brahmin!}
+{17000}{}{@sex@|Thanks, mister!||Thanks, miss!| We go to play somewhere else! [He yells over to his friends and they run away.] }
+{17010}{}{[End]}
+{18000}{}{My parents don't care where I am, they don't even know I'm gone!}
+{18010}{}{[Bluff] I think that's not true, I saw some people looking for their children, I bet they were you're parents.}
+{18020}{}{[Bluff] I think that's not true, I saw some people looking for their children, I bet they were you're parents.}
+{18030}{}{Just stop running after the brahmin!}
+{19000}{}{Oh crap, they're looking for us already?}
+{19010}{}{Yes, you should go home now.}
+{20000}{}{We better go home! [He yells over to his friends and they run away.]}
+{20010}{}{[End]}
+{21000}{}{I don't believe you! You are lying!}
+{22000}{}{@sex@|Yes, mister?||Yes, miss?|}
+{22010}{}{Stop chasing around the brahmin!}
+{22020}{}{If I'll give you kids some meat jerky, will you leave then?}
+{22030}{}{Where are your parents, I am going to have a word with them!}
+{22040}{}{Goodbye.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{quest }

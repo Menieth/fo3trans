@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,33 @@ lang=engl czec
 {2030}{}{[ Play "1812 Overture" - Yellow Record ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}
+{2010}{}{[ Play "Battle Cry of Freedom" - Green Record ]}
+{2020}{}{[ Play "Deck the Halls" - Red Record ]}
+{2030}{}{[ Play "1812 Overture" - Yellow Record ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}
+{2010}{}{[ Play "Battle Cry of Freedom" - Green Record ]}
+{2020}{}{[ Play "Deck the Halls" - Red Record ]}
+{2030}{}{[ Play "1812 Overture" - Yellow Record ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}
+{2010}{}{[ Play "Battle Cry of Freedom" - Green Record ]}
+{2020}{}{[ Play "Deck the Halls" - Red Record ]}
+{2030}{}{[ Play "1812 Overture" - Yellow Record ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

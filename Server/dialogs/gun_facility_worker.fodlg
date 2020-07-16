@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{I am really busy over here.@@You are the new one?@@Be careful with the tools.@@Careful with the machines!@@Working for the Gun Runners is a privilege! }
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal float}
+{2000}{}{I am really busy over here.@@You are the new one?@@Be careful with the tools.@@Careful with the machines!@@Working for the Gun Runners is a privilege! }
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal float}
+{2000}{}{I am really busy over here.@@You are the new one?@@Be careful with the tools.@@Careful with the machines!@@Working for the Gun Runners is a privilege! }
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal float}
+{2000}{}{I am really busy over here.@@You are the new one?@@Be careful with the tools.@@Careful with the machines!@@Working for the Gun Runners is a privilege! }
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal float}

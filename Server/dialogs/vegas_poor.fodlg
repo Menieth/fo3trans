@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,6 +25,24 @@ lang=engl czec
 {100000001}{}{I don't want to die.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Have you got any money?@@I have lost everything.@@I need some money.@@Please, help me..@@Nobody cares about me.@@Got any food?@@I don't want to die.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Have you got any money?@@I have lost everything.@@I need some money.@@Please, help me..@@Nobody cares about me.@@Got any food?@@I don't want to die.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{error}
+{2000}{}{Have you got any money?@@I have lost everything.@@I need some money.@@Please, help me..@@Nobody cares about me.@@Got any food?@@I don't want to die.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}

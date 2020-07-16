@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -116,6 +116,168 @@ lang=engl czec
 {16010}{}{My pleasure.}
 
 [czec]
+{100}{}{none}
+{1000}{}{error}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{2000}{}{Mira's the name. What'll ya have, stranger?}
+{2010}{}{Gimme a beer.}
+{2020}{}{Information.}
+{2030}{}{Buster sent me. He wants me to pick up a couple packs of smokes.}
+{2040}{}{Got any work for me?}
+{2050}{}{Nothing.}
+{3000}{}{Hello again. What'll it be?}
+{3010}{}{Gimme a beer.}
+{3020}{}{Information.}
+{3030}{}{Buster sent me. He wants me to pick up a couple packs of smokes.}
+{3040}{}{Got any work for me?}
+{3050}{}{I've returned the debt to Dusty.}
+{3060}{}{Nothing.}
+{4000}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
+{4010}{}{Yeah, sure.}
+{5000}{}{Sure, I got some time. That's what bartenders are supposed to do. Just don't get no ideas}
+{5010}{}{Tell me about this town.}
+{5020}{}{What's the deal on this Merk guy?}
+{5030}{}{There's this cop in town saying some pretty harsh things about you. What's the deal?}
+{6000}{}{For you, I always got time, baby. What ya want?}
+{6010}{}{Tell me about this town.}
+{6020}{}{What's the deal on this Merk guy?}
+{6030}{}{There's this cop in town saying some pretty harsh things about you. What's the deal?}
+{7000}{}{One Rad-A-Waster coming up! Ten caps. [You can use SAY to enter number of items you want to buy]}
+{7010}{}{Thanks, I had some other questions.}
+{7020}{}{TEN caps? Too much for me.}
+{7030}{}{Forget it, I had some questions.}
+{7040}{}{Nevermind, bye.}
+{8000}{}{Get outta here, ya deadbeat!}
+{9000}{}{Name's Shady Sands. After the Master's defeat, Aradesh and the others founded the Republic. Now, Shady Sands sits right on the border. Everything south of here's Republic ruled.}
+{9010}{}{Anything else?}
+{10000}{}{Word of advice. Keep your nose clean in town. Courts aren't too friendly to our types, if you know what I mean. Citizens got more rights than you.}
+{10010}{}{A few more questions...}
+{10020}{}{Well, thanks. I'll remember that. Bye.}
+{11000}{}{That bastard....It was just a messy divorce, that's all.}
+{11010}{}{Well, how about we talk about something else?}
+{11020}{}{Well, I guess I'll be going.}
+{12000}{}{He's a great guy. He's my boss. What ya expect me to say?}
+{12010}{}{A few more questions...}
+{12020}{}{Well, I guess I'll be going.}
+{13000}{}{Someone get this freak outta my bar! Uh, no offense Lenny.@@Someone show this thing the door.@@You're making my customers nervous. Get out.}
+{14000}{}{Hah, ain't he a bit young to be smoking? Just kiddin'. Alright, here you go. Give the little bastard my best.}
+{14010}{}{Thanks, I will.}
+{15000}{}{I happen to owe 100 bucks to Dusty at Dusty's Cantina. I'd appreciate if you could take the money back to Dusty. [She offers you the money.]}
+{15010}{}{I don't have time for such bullshit right now.}
+{15020}{}{Sure thing baby, I'll be back before you know it.}
+{16000}{}{Oh great. Let's see what I can give you for your troubles... I have a few old molotov coctails that might be of use to you. Take this slow knife also, I have no use for it anymore.}
+{16010}{}{My pleasure.}
+
+[pols]
+{100}{}{none}
+{1000}{}{error}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{2000}{}{Mira's the name. What'll ya have, stranger?}
+{2010}{}{Gimme a beer.}
+{2020}{}{Information.}
+{2030}{}{Buster sent me. He wants me to pick up a couple packs of smokes.}
+{2040}{}{Got any work for me?}
+{2050}{}{Nothing.}
+{3000}{}{Hello again. What'll it be?}
+{3010}{}{Gimme a beer.}
+{3020}{}{Information.}
+{3030}{}{Buster sent me. He wants me to pick up a couple packs of smokes.}
+{3040}{}{Got any work for me?}
+{3050}{}{I've returned the debt to Dusty.}
+{3060}{}{Nothing.}
+{4000}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
+{4010}{}{Yeah, sure.}
+{5000}{}{Sure, I got some time. That's what bartenders are supposed to do. Just don't get no ideas}
+{5010}{}{Tell me about this town.}
+{5020}{}{What's the deal on this Merk guy?}
+{5030}{}{There's this cop in town saying some pretty harsh things about you. What's the deal?}
+{6000}{}{For you, I always got time, baby. What ya want?}
+{6010}{}{Tell me about this town.}
+{6020}{}{What's the deal on this Merk guy?}
+{6030}{}{There's this cop in town saying some pretty harsh things about you. What's the deal?}
+{7000}{}{One Rad-A-Waster coming up! Ten caps. [You can use SAY to enter number of items you want to buy]}
+{7010}{}{Thanks, I had some other questions.}
+{7020}{}{TEN caps? Too much for me.}
+{7030}{}{Forget it, I had some questions.}
+{7040}{}{Nevermind, bye.}
+{8000}{}{Get outta here, ya deadbeat!}
+{9000}{}{Name's Shady Sands. After the Master's defeat, Aradesh and the others founded the Republic. Now, Shady Sands sits right on the border. Everything south of here's Republic ruled.}
+{9010}{}{Anything else?}
+{10000}{}{Word of advice. Keep your nose clean in town. Courts aren't too friendly to our types, if you know what I mean. Citizens got more rights than you.}
+{10010}{}{A few more questions...}
+{10020}{}{Well, thanks. I'll remember that. Bye.}
+{11000}{}{That bastard....It was just a messy divorce, that's all.}
+{11010}{}{Well, how about we talk about something else?}
+{11020}{}{Well, I guess I'll be going.}
+{12000}{}{He's a great guy. He's my boss. What ya expect me to say?}
+{12010}{}{A few more questions...}
+{12020}{}{Well, I guess I'll be going.}
+{13000}{}{Someone get this freak outta my bar! Uh, no offense Lenny.@@Someone show this thing the door.@@You're making my customers nervous. Get out.}
+{14000}{}{Hah, ain't he a bit young to be smoking? Just kiddin'. Alright, here you go. Give the little bastard my best.}
+{14010}{}{Thanks, I will.}
+{15000}{}{I happen to owe 100 bucks to Dusty at Dusty's Cantina. I'd appreciate if you could take the money back to Dusty. [She offers you the money.]}
+{15010}{}{I don't have time for such bullshit right now.}
+{15020}{}{Sure thing baby, I'll be back before you know it.}
+{16000}{}{Oh great. Let's see what I can give you for your troubles... I have a few old molotov coctails that might be of use to you. Take this slow knife also, I have no use for it anymore.}
+{16010}{}{My pleasure.}
+
+[span]
+{100}{}{none}
+{1000}{}{error}
+{1010}{}{Unknown}
+{1020}{}{Known}
+{2000}{}{Mira's the name. What'll ya have, stranger?}
+{2010}{}{Gimme a beer.}
+{2020}{}{Information.}
+{2030}{}{Buster sent me. He wants me to pick up a couple packs of smokes.}
+{2040}{}{Got any work for me?}
+{2050}{}{Nothing.}
+{3000}{}{Hello again. What'll it be?}
+{3010}{}{Gimme a beer.}
+{3020}{}{Information.}
+{3030}{}{Buster sent me. He wants me to pick up a couple packs of smokes.}
+{3040}{}{Got any work for me?}
+{3050}{}{I've returned the debt to Dusty.}
+{3060}{}{Nothing.}
+{4000}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
+{4010}{}{Yeah, sure.}
+{5000}{}{Sure, I got some time. That's what bartenders are supposed to do. Just don't get no ideas}
+{5010}{}{Tell me about this town.}
+{5020}{}{What's the deal on this Merk guy?}
+{5030}{}{There's this cop in town saying some pretty harsh things about you. What's the deal?}
+{6000}{}{For you, I always got time, baby. What ya want?}
+{6010}{}{Tell me about this town.}
+{6020}{}{What's the deal on this Merk guy?}
+{6030}{}{There's this cop in town saying some pretty harsh things about you. What's the deal?}
+{7000}{}{One Rad-A-Waster coming up! Ten caps. [You can use SAY to enter number of items you want to buy]}
+{7010}{}{Thanks, I had some other questions.}
+{7020}{}{TEN caps? Too much for me.}
+{7030}{}{Forget it, I had some questions.}
+{7040}{}{Nevermind, bye.}
+{8000}{}{Get outta here, ya deadbeat!}
+{9000}{}{Name's Shady Sands. After the Master's defeat, Aradesh and the others founded the Republic. Now, Shady Sands sits right on the border. Everything south of here's Republic ruled.}
+{9010}{}{Anything else?}
+{10000}{}{Word of advice. Keep your nose clean in town. Courts aren't too friendly to our types, if you know what I mean. Citizens got more rights than you.}
+{10010}{}{A few more questions...}
+{10020}{}{Well, thanks. I'll remember that. Bye.}
+{11000}{}{That bastard....It was just a messy divorce, that's all.}
+{11010}{}{Well, how about we talk about something else?}
+{11020}{}{Well, I guess I'll be going.}
+{12000}{}{He's a great guy. He's my boss. What ya expect me to say?}
+{12010}{}{A few more questions...}
+{12020}{}{Well, I guess I'll be going.}
+{13000}{}{Someone get this freak outta my bar! Uh, no offense Lenny.@@Someone show this thing the door.@@You're making my customers nervous. Get out.}
+{14000}{}{Hah, ain't he a bit young to be smoking? Just kiddin'. Alright, here you go. Give the little bastard my best.}
+{14010}{}{Thanks, I will.}
+{15000}{}{I happen to owe 100 bucks to Dusty at Dusty's Cantina. I'd appreciate if you could take the money back to Dusty. [She offers you the money.]}
+{15010}{}{I don't have time for such bullshit right now.}
+{15020}{}{Sure thing baby, I'll be back before you know it.}
+{16000}{}{Oh great. Let's see what I can give you for your troubles... I have a few old molotov coctails that might be of use to you. Take this slow knife also, I have no use for it anymore.}
+{16010}{}{My pleasure.}
+
+[russ]
 {100}{}{none}
 {1000}{}{error}
 {1010}{}{Unknown}

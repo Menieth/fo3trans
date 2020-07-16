@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Male}
+{1020}{}{Female}
+{2000}{}{Get out of my face.@@You lookin' for trouble?@@Keep right on walking.@@Not interested.@@Go away.}
+{3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Male}
+{1020}{}{Female}
+{2000}{}{Get out of my face.@@You lookin' for trouble?@@Keep right on walking.@@Not interested.@@Go away.}
+{3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Male}
+{1020}{}{Female}
+{2000}{}{Get out of my face.@@You lookin' for trouble?@@Keep right on walking.@@Not interested.@@Go away.}
+{3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}

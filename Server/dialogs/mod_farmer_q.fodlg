@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,30 @@ lang=engl czec
 {3000}{}{This is supposed to be a quiet place.@@Don't bring your filth here.@@Please leave,@@I hope you're not staying long.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Answer text}
+{2000}{}{Hello.@@How are you?@@It's always so quiet around here.@@Nothing to do... Nothing to do...@@Hmm...}
+{3000}{}{This is supposed to be a quiet place.@@Don't bring your filth here.@@Please leave,@@I hope you're not staying long.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Answer text}
+{2000}{}{Hello.@@How are you?@@It's always so quiet around here.@@Nothing to do... Nothing to do...@@Hmm...}
+{3000}{}{This is supposed to be a quiet place.@@Don't bring your filth here.@@Please leave,@@I hope you're not staying long.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Slaver}
+{1020}{}{Answer text}
+{2000}{}{Hello.@@How are you?@@It's always so quiet around here.@@Nothing to do... Nothing to do...@@Hmm...}
+{3000}{}{This is supposed to be a quiet place.@@Don't bring your filth here.@@Please leave,@@I hope you're not staying long.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}

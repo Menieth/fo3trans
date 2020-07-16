@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,27 @@ lang=engl czec
 {2010}{}{You must be blind.. I'm outta here.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unkown}
+{2000}{}{What? Who's there? [The old man is looking around, trying to focus you.]}
+{2010}{}{You must be blind.. I'm outta here.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unkown}
+{2000}{}{What? Who's there? [The old man is looking around, trying to focus you.]}
+{2010}{}{You must be blind.. I'm outta here.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unkown}
+{2000}{}{What? Who's there? [The old man is looking around, trying to focus you.]}
+{2010}{}{You must be blind.. I'm outta here.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unkown}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,6 +24,30 @@ lang=engl czec
 {3000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Stupid?}
+{2000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
+{3000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Stupid?}
+{2000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
+{3000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Stupid?}
+{2000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
+{3000}{}{Welcome to the Arena!@@Greetings, stranger.@@Move along.@@Keep your nose clean.@@Do you have any commodities to declare?@@I've heard of you. Watch it.@@We'll be keeping an eye on you.@@No fighting in the lobby, tough guy.@@I hate people like you.@@Keep your nose clean while you're in here.@@Enjoy your stay.@@Keep moving.@@Move along. Move along.@@We're here to Prevent and Survey.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

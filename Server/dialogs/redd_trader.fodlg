@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -31,6 +31,42 @@ lang=engl czec
 {3020}{}{go bye-bye.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Dumb}
+{2000}{}{Wah d'ya want?}
+{2010}{}{I want to trade some things in.}
+{2020}{}{Nothing.}
+{3000}{}{Wah d'ya want?}
+{3010}{}{want shinies.}
+{3020}{}{go bye-bye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Dumb}
+{2000}{}{Wah d'ya want?}
+{2010}{}{I want to trade some things in.}
+{2020}{}{Nothing.}
+{3000}{}{Wah d'ya want?}
+{3010}{}{want shinies.}
+{3020}{}{go bye-bye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Dumb}
+{2000}{}{Wah d'ya want?}
+{2010}{}{I want to trade some things in.}
+{2020}{}{Nothing.}
+{3000}{}{Wah d'ya want?}
+{3010}{}{want shinies.}
+{3020}{}{go bye-bye.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Regular}

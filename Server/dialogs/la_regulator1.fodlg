@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{We are cleaning up here.@@We don't have any time for you.@@Go away or you get a bullet.@@Move along.@@Go away.@@What? Move!@@You are annoying.@@Go to Adytum if you want to trade.@@Go to the Gun Runners if you need a big weapon.@@The whole boneyard is a mess.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{We are cleaning up here.@@We don't have any time for you.@@Go away or you get a bullet.@@Move along.@@Go away.@@What? Move!@@You are annoying.@@Go to Adytum if you want to trade.@@Go to the Gun Runners if you need a big weapon.@@The whole boneyard is a mess.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{We are cleaning up here.@@We don't have any time for you.@@Go away or you get a bullet.@@Move along.@@Go away.@@What? Move!@@You are annoying.@@Go to Adytum if you want to trade.@@Go to the Gun Runners if you need a big weapon.@@The whole boneyard is a mess.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{We are cleaning up here.@@We don't have any time for you.@@Go away or you get a bullet.@@Move along.@@Go away.@@What? Move!@@You are annoying.@@Go to Adytum if you want to trade.@@Go to the Gun Runners if you need a big weapon.@@The whole boneyard is a mess.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}

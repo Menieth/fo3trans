@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -67,6 +67,99 @@ lang=engl czec
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
+{2010}{}{A garden? What is it all about?}
+{2020}{}{Can you tell me more about this place?}
+{2030}{}{Hey, I am looking for some job. Got anything in mind?}
+{2040}{}{I must be overdoesed with jet... Better get out of here.}
+{2050}{}{I need to go. Bye.}
+{2060}{}{I got the chip. Here it is.}
+{3000}{}{I follow my very special duty to make this world a better place and cover the wastes with green forests and grass again. Name's glory by the way.}
+{3010}{}{Why did you decide to... You know... Get yourself into planting?}
+{3020}{}{Fine, may we speak about something else?}
+{4000}{}{Humanity went crazy about war and greed. We are forgetting about our nature being in danger and slowly dying because of us.}
+{4010}{}{What about Wind of War? What can you tell me about this settlement?}
+{4020}{}{Alright. I have one more question for you.}
+{4030}{}{That's all I needed to know. Bye.}
+{5000}{}{Wind of War used to be ruins of a military camp before. I came here around several years ago. Used to serve local guard forces, but now decied to retire and to work on something truly important for the humanity.}
+{5010}{}{One more thing...}
+{6000}{}{Yes. There is something you can help me with. As my garden grows, I am running out of water for keeping it alive. However a water chip can fix the situation. If you can get me one from the Vault there [ she points somewhere North ], it could help me a lot.}
+{6010}{}{And where exactly can I get this chip?}
+{6020}{}{Ah, noo... I am not even somehow interested in getting into such adventures.}
+{7000}{}{I have something very special for payment. Talk with Howard about getting access to the Vault.}
+{8000}{}{Thank you. Here, take this gift as a sign of peaceful intentions. Let its light guide you through the wastes.}
+{9000}{}{I am sure that such chips are installed in main Vault computers... Most likely it is there.}
+{9010}{}{Fine. I will do it.}
+{9020}{}{It will cost you a while, you know.}
+{9030}{}{Nah, I pass.}
+{10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
+{2010}{}{A garden? What is it all about?}
+{2020}{}{Can you tell me more about this place?}
+{2030}{}{Hey, I am looking for some job. Got anything in mind?}
+{2040}{}{I must be overdoesed with jet... Better get out of here.}
+{2050}{}{I need to go. Bye.}
+{2060}{}{I got the chip. Here it is.}
+{3000}{}{I follow my very special duty to make this world a better place and cover the wastes with green forests and grass again. Name's glory by the way.}
+{3010}{}{Why did you decide to... You know... Get yourself into planting?}
+{3020}{}{Fine, may we speak about something else?}
+{4000}{}{Humanity went crazy about war and greed. We are forgetting about our nature being in danger and slowly dying because of us.}
+{4010}{}{What about Wind of War? What can you tell me about this settlement?}
+{4020}{}{Alright. I have one more question for you.}
+{4030}{}{That's all I needed to know. Bye.}
+{5000}{}{Wind of War used to be ruins of a military camp before. I came here around several years ago. Used to serve local guard forces, but now decied to retire and to work on something truly important for the humanity.}
+{5010}{}{One more thing...}
+{6000}{}{Yes. There is something you can help me with. As my garden grows, I am running out of water for keeping it alive. However a water chip can fix the situation. If you can get me one from the Vault there [ she points somewhere North ], it could help me a lot.}
+{6010}{}{And where exactly can I get this chip?}
+{6020}{}{Ah, noo... I am not even somehow interested in getting into such adventures.}
+{7000}{}{I have something very special for payment. Talk with Howard about getting access to the Vault.}
+{8000}{}{Thank you. Here, take this gift as a sign of peaceful intentions. Let its light guide you through the wastes.}
+{9000}{}{I am sure that such chips are installed in main Vault computers... Most likely it is there.}
+{9010}{}{Fine. I will do it.}
+{9020}{}{It will cost you a while, you know.}
+{9030}{}{Nah, I pass.}
+{10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
+{2010}{}{A garden? What is it all about?}
+{2020}{}{Can you tell me more about this place?}
+{2030}{}{Hey, I am looking for some job. Got anything in mind?}
+{2040}{}{I must be overdoesed with jet... Better get out of here.}
+{2050}{}{I need to go. Bye.}
+{2060}{}{I got the chip. Here it is.}
+{3000}{}{I follow my very special duty to make this world a better place and cover the wastes with green forests and grass again. Name's glory by the way.}
+{3010}{}{Why did you decide to... You know... Get yourself into planting?}
+{3020}{}{Fine, may we speak about something else?}
+{4000}{}{Humanity went crazy about war and greed. We are forgetting about our nature being in danger and slowly dying because of us.}
+{4010}{}{What about Wind of War? What can you tell me about this settlement?}
+{4020}{}{Alright. I have one more question for you.}
+{4030}{}{That's all I needed to know. Bye.}
+{5000}{}{Wind of War used to be ruins of a military camp before. I came here around several years ago. Used to serve local guard forces, but now decied to retire and to work on something truly important for the humanity.}
+{5010}{}{One more thing...}
+{6000}{}{Yes. There is something you can help me with. As my garden grows, I am running out of water for keeping it alive. However a water chip can fix the situation. If you can get me one from the Vault there [ she points somewhere North ], it could help me a lot.}
+{6010}{}{And where exactly can I get this chip?}
+{6020}{}{Ah, noo... I am not even somehow interested in getting into such adventures.}
+{7000}{}{I have something very special for payment. Talk with Howard about getting access to the Vault.}
+{8000}{}{Thank you. Here, take this gift as a sign of peaceful intentions. Let its light guide you through the wastes.}
+{9000}{}{I am sure that such chips are installed in main Vault computers... Most likely it is there.}
+{9010}{}{Fine. I will do it.}
+{9020}{}{It will cost you a while, you know.}
+{9030}{}{Nah, I pass.}
+{10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

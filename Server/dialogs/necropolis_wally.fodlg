@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -112,6 +112,162 @@ lang=engl czec
 {19010}{}{Hm, but...where have they gone?}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{You know Wally!}
+{1020}{}{Talked to wally already.}
+{1030}{}{You don't know Wally!}
+{2000}{}{So, Smoothskin. What can the 'ol Wally do for you?}
+{2010}{}{Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you? I mean, while you have wandered across the wasteland or so...}
+{2020}{}{Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you? I mean, while you have wandered across the wasteland or so...}
+{2030}{}{So... yeah, we are now looking for a new hideout, do you think you'd have something for us?}
+{2040}{}{Nothing. I'm outta here.}
+{3000}{}{And... uhh... Smoothskin, what is it you guys call yourselves... not that I want to know... i'm just curious, you know? [Make sure that everyone in your group is following you right now, otherwise they won't count as members]}
+{3010}{}{Nevermind.}
+{4000}{}{Good, good, uhh... Smoothskin. Your people'll be thrilled. Let me just mark it on your map...how will you name this hole?}
+{4010}{}{Nevermind.}
+{5000}{}{Never heard of you guys, Smoothskin. Sorry. Don't think I can help you. Nothing personal.}
+{5010}{}{Ooops, I think I mispoke, let me repeat myself...}
+{5020}{}{I'm wasting my time here.}
+{6000}{}{Sure I can help you, but it ain't gonna be cheap. I happen to know a couple suitable locations, but some are a little more, how should I put it... impressive, than others.}
+{6010}{}{Do you know of anything useful in the surrounding area?}
+{6020}{}{Screw you, I changed my mind.}
+{7000}{}{Good, good. Your loss, buddy.}
+{7010}{}{I guess...}
+{7020}{}{I'll be back}
+{8000}{}{Uhh...ok, done.}
+{8010}{}{Thanks!}
+{9000}{}{Eh, there's already a group of people going around calling themselves that and I don't think thats you, buddy. You better pick something different, buddy.}
+{9010}{}{Alright, how about...}
+{9020}{}{Nevermind.}
+{10000}{}{Hmm, there is something wrong with my brain. Do you want try again?}
+{10010}{}{Ok, I will tell you again, maybe you understand this time.}
+{10020}{}{Nevermind}
+{11000}{}{Sorry, so many damn groups have came to me, I don't know of any more places. Sorry. Try finding one that's already out there.}
+{11010}{}{Okay...}
+{12000}{}{Ekhm, and where are the caps? Are you trying to fool me out? Shove off!}
+{12010}{}{Uhm, but...}
+{13000}{}{Uhm... Smoothskin... Here? It's just a shitty old town, full with ghouls and other lost people.}
+{13010}{}{Yeh. Ok, but what about a area that is a bit... more away. You know, even if it is far away... [You paint some irrecognizable image with your hands in the air.]}
+{13020}{}{That's too much for me. Screw it.}
+{14000}{}{Uhh... Maybe... yes. It could be possible that I saw something a while ago... but it costs you 350.000 caps to fresh up my mind, Smoothskin...}
+{14010}{}{Okay. Here, take the 350.000 caps and show me the way. I hope it's worth it.}
+{14020}{}{Damn, I don't have enough money right now. I will come back later.}
+{15000}{}{What do you want, Smoothskin?@@Leave me alone, Smoothskin.@@What? Uh!@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that? No?@@Ever since the mutants left, it's been better.@@Hello Smoothskin.}
+{16000}{}{You better get outa here, buddy. }
+{16010}{}{Slow down, man. Are you Wally? I was searching for you. Damn, you look old as hell.}
+{17000}{}{Yeah buddy, how do you know my name?}
+{17010}{}{I've heard stories about you and that you have been a kind of outdoor master.}
+{18000}{}{Ah... uh... this... this is already a long time ago. I am not like that anymore.}
+{18010}{}{You know, I have some questions to you...}
+{19000}{}{Hmm, I must be getting blind, I don't see any sufficiently large group around here, hm?}
+{19010}{}{Hm, but...where have they gone?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{You know Wally!}
+{1020}{}{Talked to wally already.}
+{1030}{}{You don't know Wally!}
+{2000}{}{So, Smoothskin. What can the 'ol Wally do for you?}
+{2010}{}{Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you? I mean, while you have wandered across the wasteland or so...}
+{2020}{}{Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you? I mean, while you have wandered across the wasteland or so...}
+{2030}{}{So... yeah, we are now looking for a new hideout, do you think you'd have something for us?}
+{2040}{}{Nothing. I'm outta here.}
+{3000}{}{And... uhh... Smoothskin, what is it you guys call yourselves... not that I want to know... i'm just curious, you know? [Make sure that everyone in your group is following you right now, otherwise they won't count as members]}
+{3010}{}{Nevermind.}
+{4000}{}{Good, good, uhh... Smoothskin. Your people'll be thrilled. Let me just mark it on your map...how will you name this hole?}
+{4010}{}{Nevermind.}
+{5000}{}{Never heard of you guys, Smoothskin. Sorry. Don't think I can help you. Nothing personal.}
+{5010}{}{Ooops, I think I mispoke, let me repeat myself...}
+{5020}{}{I'm wasting my time here.}
+{6000}{}{Sure I can help you, but it ain't gonna be cheap. I happen to know a couple suitable locations, but some are a little more, how should I put it... impressive, than others.}
+{6010}{}{Do you know of anything useful in the surrounding area?}
+{6020}{}{Screw you, I changed my mind.}
+{7000}{}{Good, good. Your loss, buddy.}
+{7010}{}{I guess...}
+{7020}{}{I'll be back}
+{8000}{}{Uhh...ok, done.}
+{8010}{}{Thanks!}
+{9000}{}{Eh, there's already a group of people going around calling themselves that and I don't think thats you, buddy. You better pick something different, buddy.}
+{9010}{}{Alright, how about...}
+{9020}{}{Nevermind.}
+{10000}{}{Hmm, there is something wrong with my brain. Do you want try again?}
+{10010}{}{Ok, I will tell you again, maybe you understand this time.}
+{10020}{}{Nevermind}
+{11000}{}{Sorry, so many damn groups have came to me, I don't know of any more places. Sorry. Try finding one that's already out there.}
+{11010}{}{Okay...}
+{12000}{}{Ekhm, and where are the caps? Are you trying to fool me out? Shove off!}
+{12010}{}{Uhm, but...}
+{13000}{}{Uhm... Smoothskin... Here? It's just a shitty old town, full with ghouls and other lost people.}
+{13010}{}{Yeh. Ok, but what about a area that is a bit... more away. You know, even if it is far away... [You paint some irrecognizable image with your hands in the air.]}
+{13020}{}{That's too much for me. Screw it.}
+{14000}{}{Uhh... Maybe... yes. It could be possible that I saw something a while ago... but it costs you 350.000 caps to fresh up my mind, Smoothskin...}
+{14010}{}{Okay. Here, take the 350.000 caps and show me the way. I hope it's worth it.}
+{14020}{}{Damn, I don't have enough money right now. I will come back later.}
+{15000}{}{What do you want, Smoothskin?@@Leave me alone, Smoothskin.@@What? Uh!@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that? No?@@Ever since the mutants left, it's been better.@@Hello Smoothskin.}
+{16000}{}{You better get outa here, buddy. }
+{16010}{}{Slow down, man. Are you Wally? I was searching for you. Damn, you look old as hell.}
+{17000}{}{Yeah buddy, how do you know my name?}
+{17010}{}{I've heard stories about you and that you have been a kind of outdoor master.}
+{18000}{}{Ah... uh... this... this is already a long time ago. I am not like that anymore.}
+{18010}{}{You know, I have some questions to you...}
+{19000}{}{Hmm, I must be getting blind, I don't see any sufficiently large group around here, hm?}
+{19010}{}{Hm, but...where have they gone?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{You know Wally!}
+{1020}{}{Talked to wally already.}
+{1030}{}{You don't know Wally!}
+{2000}{}{So, Smoothskin. What can the 'ol Wally do for you?}
+{2010}{}{Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you? I mean, while you have wandered across the wasteland or so...}
+{2020}{}{Y'see, I happen to be the leader of a group of travellers, and we're desperate for somewhere to settle down. You don't happen to know anywhere we could use, do you? I mean, while you have wandered across the wasteland or so...}
+{2030}{}{So... yeah, we are now looking for a new hideout, do you think you'd have something for us?}
+{2040}{}{Nothing. I'm outta here.}
+{3000}{}{And... uhh... Smoothskin, what is it you guys call yourselves... not that I want to know... i'm just curious, you know? [Make sure that everyone in your group is following you right now, otherwise they won't count as members]}
+{3010}{}{Nevermind.}
+{4000}{}{Good, good, uhh... Smoothskin. Your people'll be thrilled. Let me just mark it on your map...how will you name this hole?}
+{4010}{}{Nevermind.}
+{5000}{}{Never heard of you guys, Smoothskin. Sorry. Don't think I can help you. Nothing personal.}
+{5010}{}{Ooops, I think I mispoke, let me repeat myself...}
+{5020}{}{I'm wasting my time here.}
+{6000}{}{Sure I can help you, but it ain't gonna be cheap. I happen to know a couple suitable locations, but some are a little more, how should I put it... impressive, than others.}
+{6010}{}{Do you know of anything useful in the surrounding area?}
+{6020}{}{Screw you, I changed my mind.}
+{7000}{}{Good, good. Your loss, buddy.}
+{7010}{}{I guess...}
+{7020}{}{I'll be back}
+{8000}{}{Uhh...ok, done.}
+{8010}{}{Thanks!}
+{9000}{}{Eh, there's already a group of people going around calling themselves that and I don't think thats you, buddy. You better pick something different, buddy.}
+{9010}{}{Alright, how about...}
+{9020}{}{Nevermind.}
+{10000}{}{Hmm, there is something wrong with my brain. Do you want try again?}
+{10010}{}{Ok, I will tell you again, maybe you understand this time.}
+{10020}{}{Nevermind}
+{11000}{}{Sorry, so many damn groups have came to me, I don't know of any more places. Sorry. Try finding one that's already out there.}
+{11010}{}{Okay...}
+{12000}{}{Ekhm, and where are the caps? Are you trying to fool me out? Shove off!}
+{12010}{}{Uhm, but...}
+{13000}{}{Uhm... Smoothskin... Here? It's just a shitty old town, full with ghouls and other lost people.}
+{13010}{}{Yeh. Ok, but what about a area that is a bit... more away. You know, even if it is far away... [You paint some irrecognizable image with your hands in the air.]}
+{13020}{}{That's too much for me. Screw it.}
+{14000}{}{Uhh... Maybe... yes. It could be possible that I saw something a while ago... but it costs you 350.000 caps to fresh up my mind, Smoothskin...}
+{14010}{}{Okay. Here, take the 350.000 caps and show me the way. I hope it's worth it.}
+{14020}{}{Damn, I don't have enough money right now. I will come back later.}
+{15000}{}{What do you want, Smoothskin?@@Leave me alone, Smoothskin.@@What? Uh!@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that? No?@@Ever since the mutants left, it's been better.@@Hello Smoothskin.}
+{16000}{}{You better get outa here, buddy. }
+{16010}{}{Slow down, man. Are you Wally? I was searching for you. Damn, you look old as hell.}
+{17000}{}{Yeah buddy, how do you know my name?}
+{17010}{}{I've heard stories about you and that you have been a kind of outdoor master.}
+{18000}{}{Ah... uh... this... this is already a long time ago. I am not like that anymore.}
+{18010}{}{You know, I have some questions to you...}
+{19000}{}{Hmm, I must be getting blind, I don't see any sufficiently large group around here, hm?}
+{19010}{}{Hm, but...where have they gone?}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know Wally!}

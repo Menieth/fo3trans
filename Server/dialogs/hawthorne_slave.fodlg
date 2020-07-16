@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Hello.@@Yes?@@Our mayor is one of the greatest men ever!@@Hmh?@@Are you new here?@@Be careful with those freaks from military base.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello.@@Yes?@@Our mayor is one of the greatest men ever!@@Hmh?@@Are you new here?@@Be careful with those freaks from military base.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello.@@Yes?@@Our mayor is one of the greatest men ever!@@Hmh?@@Are you new here?@@Be careful with those freaks from military base.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello.@@Yes?@@Our mayor is one of the greatest men ever!@@Hmh?@@Are you new here?@@Be careful with those freaks from military base.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

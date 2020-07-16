@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,42 @@ lang=engl czec
 {4000}{}{[ Printing... ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Error.... Error... Error... ]}
+{2010}{}{[ Print NSA security card ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Please insert black COC Badge ]}
+{3010}{}{[ Confirm the procedure ]}
+{3020}{}{[ Exit ]}
+{4000}{}{[ Printing... ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Error.... Error... Error... ]}
+{2010}{}{[ Print NSA security card ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Please insert black COC Badge ]}
+{3010}{}{[ Confirm the procedure ]}
+{3020}{}{[ Exit ]}
+{4000}{}{[ Printing... ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Error.... Error... Error... ]}
+{2010}{}{[ Print NSA security card ]}
+{2020}{}{[ Exit ]}
+{3000}{}{[ Please insert black COC Badge ]}
+{3010}{}{[ Confirm the procedure ]}
+{3020}{}{[ Exit ]}
+{4000}{}{[ Printing... ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

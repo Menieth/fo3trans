@@ -519,7 +519,7 @@
 #
 # SKILLDEX
 #
-{3340}{}{Seznam schopností}
+{3340}{}{Schopnosti}
 {3341}{}{ZRUŠIT}
 
 #
@@ -936,7 +936,7 @@
 
 ##First words
 #For age and conditions
-{11000}{}{Vidíš }
+{11000}{}{Vidíš: }
 {11001}{}{To jsi ty }
 #For special
 {11002}{}{Vypadá, že }
@@ -1048,7 +1048,7 @@
 
 ##First words
 #For age and conditions
-{12000}{}{Vidíš }
+{12000}{}{Vidíš: }
 {12001}{}{To jsi ty }
 #For special
 {12002}{}{Vypadá to, že je }
@@ -1488,7 +1488,7 @@ SK_MELEE_WEAPONS
 # SK_FIRST_AID
 {102061}{}{První pomoc}
 {102062}{}{Obecné léčitelské znalosti, používané k vyléčení drobnějších řezných ran, odřenin a všeobecně lehčích zranění. Vyšší úroveň první pomoci může vyléčit více bodů zdraví.}
-{102063}{}{První pomoc}
+{102063}{}{Pr. pomoc}
 # SK_DOCTOR
 {102071}{}{Doktor}
 {102072}{}{Léčení vážných zranění a polámaných končetin. Bez použití této dovednosti, bude trvat mnohem déle, než se zraněné údy vyléčí natolik, aby byly znovu použitelné.}
@@ -1500,7 +1500,7 @@ SK_MELEE_WEAPONS
 # SK_LOCKPICK
 {102091}{}{Páčení zámků}
 {102092}{}{Dovednost otevírat zámky bez originálního klíče. Použití paklíče nebo elektronického paklíče značně zvyšuje tuto dovednost a tedy šanci na úspěšné otevření zámku.}
-{102093}{}{Páčení zámků}
+{102093}{}{Páč.zám.}
 # SK_STEAL
 {102101}{}{Kradení}
 {102102}{}{Dovednost udělat z cizích věcí věci vlastní. Používá se pro okrádání lidí.}
@@ -1508,7 +1508,7 @@ SK_MELEE_WEAPONS
 # SK_TRAPS
 {102111}{}{Pasti a výbušniny}
 {102112}{}{Dovednost nalézt a odstranit pasti. Zahrnuje rovněž nastavení, deaktivaci a zacházení s výbušninami určených k demoličním účelům.}
-{102113}{}{Pasti a výbušniny}
+{102113}{}{Pasti}
 # SK_SCIENCE
 {102121}{}{Věda}
 {102122}{}{Zahrnuje znalosti celé škály vyspělých technologií, jako např. znalost počítačů, biologie, fyziky a geologie.}
@@ -1516,7 +1516,7 @@ SK_MELEE_WEAPONS
 # SK_REPAIR
 {102131}{}{Opravování}
 {102132}{}{Praktické aplikování technických znalostí pro opravu zničených zařízení, strojů a elektroniky.}
-{102133}{}{Opravování}
+{102133}{}{Oprava}
 # SK_SPEECH
 {102141}{}{Řeč}
 {102142}{}{Dovednost prakticky a efektivně komunikovat. Umění přesvědčit ostatní, že tvůj názor je ten správný. Schopnost lhát a nebýt odhalen. Nezbytná dovednost každého politika.}
@@ -1538,7 +1538,7 @@ SK_MELEE_WEAPONS
 {102271}{}{After Burner gum}
 {102281}{}{Mutie}
 {102291}{}{Voodoo}
-{102301}{}{PRvní pomoc}
+{102301}{}{První pomoc}
 # TO_SK_DOCTOR, timeouts
 {102311}{}{Doktor}
 # TO_SK_REPAIR, timeouts
@@ -2188,7 +2188,7 @@ SK_MELEE_WEAPONS
 {105051}{}{Chromá pravá nova}
 {105052}{}{Tvá pravá noha je vážně zraněna.}
 # DAMAGE_LEFT_LEG, damages
-{105061}{}{Hromá levá noha}
+{105061}{}{Chromá levá noha}
 {105062}{}{Tvá levá noha je vážně zraněna.}
 
 

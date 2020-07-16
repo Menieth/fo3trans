@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{I have no time to talk.@@Stop bothering me.@@I have to play on their ball, otherwise I'm dead.@@Leave me alone.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{I have no time to talk.@@Stop bothering me.@@I have to play on their ball, otherwise I'm dead.@@Leave me alone.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{I have no time to talk.@@Stop bothering me.@@I have to play on their ball, otherwise I'm dead.@@Leave me alone.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{I have no time to talk.@@Stop bothering me.@@I have to play on their ball, otherwise I'm dead.@@Leave me alone.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}

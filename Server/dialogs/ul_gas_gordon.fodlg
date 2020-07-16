@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -73,6 +73,105 @@ lang=engl czec
 {10010}{}{Will do.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
+{2010}{}{Who are you?}
+{2020}{}{I need some supplies.}
+{2030}{}{Who's that psycho bitch outside of your store?}
+{2040}{}{I'm here about the hummer that was on its way here.}
+{2050}{}{See you later.}
+{3000}{}{Oh, it's just my daughter, pay no attention to her. She likes to scare the few customers that come by.}
+{3010}{}{Who are you?}
+{3020}{}{I figured it was something like that.}
+{3030}{}{Maybe you should buy a scarecrow instead, as a substitute I mean. Just kiddin'.}
+{4000}{}{The raiders don't harass me much, the sand storms are much worse. Definitely.}
+{4010}{}{Nice chat, now, I need some supplies.}
+{4020}{}{I guess there is no point for them. I better get going, thanks for the chat.}
+{5000}{}{I'm Gordon, and the girl outside, is my daughter Tamira. I own this gas station, been living here for the past 30 years. I used to live in New Reno, but it didn't suit me, too violent for my taste. You see what I mean?}
+{5010}{}{Sure, I follow you. I just wonder, how do you make a living, owning a gas station in the middle of the desert when there's hardly any cars?}
+{5020}{}{Alright, that's all I needed to do. Have a good day Gordon!}
+{6000}{}{My name is Gordon. I own this gas station, been living here for the past 30 years. I used to live in New Reno, but it didn't suit me, too much violence for my taste. You see what I mean?}
+{6010}{}{Sure, I follow you. I just wonder, how do you make a living, owning a gas station in the middle of the desert when there's hardly any cars?}
+{6020}{}{Alright, that's all I needed to do. Have a good day Gordon!}
+{7000}{}{Well, there ain't many customers nowadays, but as NCR is getting more stable, I expect a population boom soon, in fact, I already see some signs of it.}
+{7010}{}{So, what about raiders, do they bother you?}
+{7020}{}{You must be crazy, you old bugger, you've been living out here in the desert for too long.}
+{8000}{}{Oh yeah. They were supposed to be here over an hour ago. What happened?}
+{8010}{}{[You explain what happened and what you need.]}
+{9000}{}{Hm. Sounds like you need a radiator hose. Take this box of parts. You'll find everything you need in here.}
+{9010}{}{Thanks, Gordon. That hummer should be running again soon.}
+{10000}{}{Just tell them to hurry up. I do have other things to do today.}
+{10010}{}{Will do.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
+{2010}{}{Who are you?}
+{2020}{}{I need some supplies.}
+{2030}{}{Who's that psycho bitch outside of your store?}
+{2040}{}{I'm here about the hummer that was on its way here.}
+{2050}{}{See you later.}
+{3000}{}{Oh, it's just my daughter, pay no attention to her. She likes to scare the few customers that come by.}
+{3010}{}{Who are you?}
+{3020}{}{I figured it was something like that.}
+{3030}{}{Maybe you should buy a scarecrow instead, as a substitute I mean. Just kiddin'.}
+{4000}{}{The raiders don't harass me much, the sand storms are much worse. Definitely.}
+{4010}{}{Nice chat, now, I need some supplies.}
+{4020}{}{I guess there is no point for them. I better get going, thanks for the chat.}
+{5000}{}{I'm Gordon, and the girl outside, is my daughter Tamira. I own this gas station, been living here for the past 30 years. I used to live in New Reno, but it didn't suit me, too violent for my taste. You see what I mean?}
+{5010}{}{Sure, I follow you. I just wonder, how do you make a living, owning a gas station in the middle of the desert when there's hardly any cars?}
+{5020}{}{Alright, that's all I needed to do. Have a good day Gordon!}
+{6000}{}{My name is Gordon. I own this gas station, been living here for the past 30 years. I used to live in New Reno, but it didn't suit me, too much violence for my taste. You see what I mean?}
+{6010}{}{Sure, I follow you. I just wonder, how do you make a living, owning a gas station in the middle of the desert when there's hardly any cars?}
+{6020}{}{Alright, that's all I needed to do. Have a good day Gordon!}
+{7000}{}{Well, there ain't many customers nowadays, but as NCR is getting more stable, I expect a population boom soon, in fact, I already see some signs of it.}
+{7010}{}{So, what about raiders, do they bother you?}
+{7020}{}{You must be crazy, you old bugger, you've been living out here in the desert for too long.}
+{8000}{}{Oh yeah. They were supposed to be here over an hour ago. What happened?}
+{8010}{}{[You explain what happened and what you need.]}
+{9000}{}{Hm. Sounds like you need a radiator hose. Take this box of parts. You'll find everything you need in here.}
+{9010}{}{Thanks, Gordon. That hummer should be running again soon.}
+{10000}{}{Just tell them to hurry up. I do have other things to do today.}
+{10010}{}{Will do.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
+{2010}{}{Who are you?}
+{2020}{}{I need some supplies.}
+{2030}{}{Who's that psycho bitch outside of your store?}
+{2040}{}{I'm here about the hummer that was on its way here.}
+{2050}{}{See you later.}
+{3000}{}{Oh, it's just my daughter, pay no attention to her. She likes to scare the few customers that come by.}
+{3010}{}{Who are you?}
+{3020}{}{I figured it was something like that.}
+{3030}{}{Maybe you should buy a scarecrow instead, as a substitute I mean. Just kiddin'.}
+{4000}{}{The raiders don't harass me much, the sand storms are much worse. Definitely.}
+{4010}{}{Nice chat, now, I need some supplies.}
+{4020}{}{I guess there is no point for them. I better get going, thanks for the chat.}
+{5000}{}{I'm Gordon, and the girl outside, is my daughter Tamira. I own this gas station, been living here for the past 30 years. I used to live in New Reno, but it didn't suit me, too violent for my taste. You see what I mean?}
+{5010}{}{Sure, I follow you. I just wonder, how do you make a living, owning a gas station in the middle of the desert when there's hardly any cars?}
+{5020}{}{Alright, that's all I needed to do. Have a good day Gordon!}
+{6000}{}{My name is Gordon. I own this gas station, been living here for the past 30 years. I used to live in New Reno, but it didn't suit me, too much violence for my taste. You see what I mean?}
+{6010}{}{Sure, I follow you. I just wonder, how do you make a living, owning a gas station in the middle of the desert when there's hardly any cars?}
+{6020}{}{Alright, that's all I needed to do. Have a good day Gordon!}
+{7000}{}{Well, there ain't many customers nowadays, but as NCR is getting more stable, I expect a population boom soon, in fact, I already see some signs of it.}
+{7010}{}{So, what about raiders, do they bother you?}
+{7020}{}{You must be crazy, you old bugger, you've been living out here in the desert for too long.}
+{8000}{}{Oh yeah. They were supposed to be here over an hour ago. What happened?}
+{8010}{}{[You explain what happened and what you need.]}
+{9000}{}{Hm. Sounds like you need a radiator hose. Take this box of parts. You'll find everything you need in here.}
+{9010}{}{Thanks, Gordon. That hummer should be running again soon.}
+{10000}{}{Just tell them to hurry up. I do have other things to do today.}
+{10010}{}{Will do.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

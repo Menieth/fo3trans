@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -43,6 +43,63 @@ lang=engl czec
 {5010}{}{[ Take it and leave. ]}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
+{2010}{}{[ Try to see anything among the cables. ]}
+{2020}{}{[ Leave. ]}
+{2030}{}{[ Hit the fucking thing. ]}
+{3000}{}{[ It seems like something is lying behind the cables. ]}
+{3010}{}{[ Try to carefully take this object. ]}
+{3020}{}{[ Leave. ]}
+{3030}{}{[ Try to grab it as fast as possible. ]}
+{4000}{}{[ You carefully try to get the thing... However, it seems like there is no possibility for you to do so. You will need to cut one of three wires - blue, red and yellow. On one of them you can see a yellow mark. ]}
+{4010}{}{[ Cut red ]}
+{4020}{}{[ Cut blue ]}
+{4030}{}{[ Cut yellow ]}
+{5000}{}{[ You cut the wire and nothing happened. You can now take the object. ]}
+{5010}{}{[ Take it and leave. ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
+{2010}{}{[ Try to see anything among the cables. ]}
+{2020}{}{[ Leave. ]}
+{2030}{}{[ Hit the fucking thing. ]}
+{3000}{}{[ It seems like something is lying behind the cables. ]}
+{3010}{}{[ Try to carefully take this object. ]}
+{3020}{}{[ Leave. ]}
+{3030}{}{[ Try to grab it as fast as possible. ]}
+{4000}{}{[ You carefully try to get the thing... However, it seems like there is no possibility for you to do so. You will need to cut one of three wires - blue, red and yellow. On one of them you can see a yellow mark. ]}
+{4010}{}{[ Cut red ]}
+{4020}{}{[ Cut blue ]}
+{4030}{}{[ Cut yellow ]}
+{5000}{}{[ You cut the wire and nothing happened. You can now take the object. ]}
+{5010}{}{[ Take it and leave. ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
+{2010}{}{[ Try to see anything among the cables. ]}
+{2020}{}{[ Leave. ]}
+{2030}{}{[ Hit the fucking thing. ]}
+{3000}{}{[ It seems like something is lying behind the cables. ]}
+{3010}{}{[ Try to carefully take this object. ]}
+{3020}{}{[ Leave. ]}
+{3030}{}{[ Try to grab it as fast as possible. ]}
+{4000}{}{[ You carefully try to get the thing... However, it seems like there is no possibility for you to do so. You will need to cut one of three wires - blue, red and yellow. On one of them you can see a yellow mark. ]}
+{4010}{}{[ Cut red ]}
+{4020}{}{[ Cut blue ]}
+{4030}{}{[ Cut yellow ]}
+{5000}{}{[ You cut the wire and nothing happened. You can now take the object. ]}
+{5010}{}{[ Take it and leave. ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

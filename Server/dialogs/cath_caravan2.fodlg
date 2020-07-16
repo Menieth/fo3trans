@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -18,6 +18,24 @@ lang=engl czec
 {2000}{}{I have a shitload of work to do, so just go away.@@Today's going to be a long day!@@You're an idiot.  Get outta here you skag.@@Can't you see I'm trying to rest.@@Hot day today, eh skag?@@Leave me alone, wastelander.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{I have a shitload of work to do, so just go away.@@Today's going to be a long day!@@You're an idiot.  Get outta here you skag.@@Can't you see I'm trying to rest.@@Hot day today, eh skag?@@Leave me alone, wastelander.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{I have a shitload of work to do, so just go away.@@Today's going to be a long day!@@You're an idiot.  Get outta here you skag.@@Can't you see I'm trying to rest.@@Hot day today, eh skag?@@Leave me alone, wastelander.}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{I have a shitload of work to do, so just go away.@@Today's going to be a long day!@@You're an idiot.  Get outta here you skag.@@Can't you see I'm trying to rest.@@Hot day today, eh skag?@@Leave me alone, wastelander.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}

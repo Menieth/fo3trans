@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Sorry, pal, but you’ll have to find someone else to play with.@@Get out of here.@@If you're looking for work, look elsewhere.@@Move!@@You're just trying to irritate me, aren't you?@@Quit bothering me.@@Don't you have anything better to do?@@Down in the NCR, it was the same thing over and over.@@Nothing is forever except for the road.@@Feel sorry for that kid we lost during our last run.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Sorry, pal, but you’ll have to find someone else to play with.@@Get out of here.@@If you're looking for work, look elsewhere.@@Move!@@You're just trying to irritate me, aren't you?@@Quit bothering me.@@Don't you have anything better to do?@@Down in the NCR, it was the same thing over and over.@@Nothing is forever except for the road.@@Feel sorry for that kid we lost during our last run.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Sorry, pal, but you’ll have to find someone else to play with.@@Get out of here.@@If you're looking for work, look elsewhere.@@Move!@@You're just trying to irritate me, aren't you?@@Quit bothering me.@@Don't you have anything better to do?@@Down in the NCR, it was the same thing over and over.@@Nothing is forever except for the road.@@Feel sorry for that kid we lost during our last run.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ioaao}
+{2000}{}{Sorry, pal, but you’ll have to find someone else to play with.@@Get out of here.@@If you're looking for work, look elsewhere.@@Move!@@You're just trying to irritate me, aren't you?@@Quit bothering me.@@Don't you have anything better to do?@@Down in the NCR, it was the same thing over and over.@@Nothing is forever except for the road.@@Feel sorry for that kid we lost during our last run.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}

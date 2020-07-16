@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -152,6 +152,225 @@ lang=engl czec
 {17050}{}{Nothing.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Yeah, whadda ya want?}
+{2010}{}{Could I get a room here?}
+{2020}{}{Could I get a room here?}
+{2030}{}{Water.}
+{2040}{}{Beer.}
+{2050}{}{Liquor.}
+{2060}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{Can I get a room?}
+{3020}{}{Can I get a room?}
+{3030}{}{I'd like to pay my rent for the room.}
+{3040}{}{Water.}
+{3050}{}{Beer.}
+{3060}{}{Liquor.}
+{3070}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{Typical of you scumbags to try and get somethin' for nothin'. Get the hell out.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{We still have a room free and it will cost you @lex price@ caps for @lex time@ days. You want it?}
+{5010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
+{5020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
+{5030}{}{Hmm, maybe later. What about something else?}
+{6000}{}{Alright, let me show you your room...}
+{6010}{}{[Follow]}
+{7000}{}{Hey, dumbass, get out of here!}
+{8000}{}{You should leave this place.}
+{9000}{}{Hmm, sorry - no free rooms here, pal.}
+{9010}{}{Oh well...}
+{9020}{}{[Leave] Damn!}
+{10000}{}{Good, you wouldn't wanna see your stuff changed their owner, right? [A greedy gleam appears in her eyes for a moment]}
+{10010}{}{Right... [Give her the money] Could you tell me something else now?}
+{10020}{}{Right... [Leave]}
+{11000}{}{That'll be two caps.}
+{11010}{}{Sure.@@Okay.}
+{11020}{}{Sure.@@Okay.}
+{11030}{}{I changed my mind... I feel a bit sick.}
+{11040}{}{No, thanks.}
+{12000}{}{That'll be ten caps. [You can use SAY to enter number of items you want to buy]}
+{12010}{}{Sure.@@Okay.}
+{12020}{}{No, thanks.}
+{13000}{}{That'll be ten caps.}
+{13010}{}{Sure.@@Okay.}
+{13020}{}{No, thanks.}
+{14000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
+{14010}{}{Water}
+{14020}{}{Beer.}
+{14030}{}{Liquor.}
+{14040}{}{About renting a room...}
+{14050}{}{Nothing.}
+{15000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{15010}{}{Water.}
+{15020}{}{Beer.}
+{15030}{}{Liquor.}
+{15040}{}{About renting a room...}
+{15050}{}{Nothing.}
+{16000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{16010}{}{Water.}
+{16020}{}{Beer.}
+{16030}{}{Liquor.}
+{16040}{}{About renting a room...}
+{16050}{}{Nothing.}
+{17000}{}{Here. [The bartender slides you another cup full of the same murky water, and after you drink it, you're reminded as to how strange it tasted the last time . . .]}
+{17010}{}{Water}
+{17020}{}{Beer.}
+{17030}{}{Liquor.}
+{17040}{}{About renting a room...}
+{17050}{}{Nothing.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Yeah, whadda ya want?}
+{2010}{}{Could I get a room here?}
+{2020}{}{Could I get a room here?}
+{2030}{}{Water.}
+{2040}{}{Beer.}
+{2050}{}{Liquor.}
+{2060}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{Can I get a room?}
+{3020}{}{Can I get a room?}
+{3030}{}{I'd like to pay my rent for the room.}
+{3040}{}{Water.}
+{3050}{}{Beer.}
+{3060}{}{Liquor.}
+{3070}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{Typical of you scumbags to try and get somethin' for nothin'. Get the hell out.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{We still have a room free and it will cost you @lex price@ caps for @lex time@ days. You want it?}
+{5010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
+{5020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
+{5030}{}{Hmm, maybe later. What about something else?}
+{6000}{}{Alright, let me show you your room...}
+{6010}{}{[Follow]}
+{7000}{}{Hey, dumbass, get out of here!}
+{8000}{}{You should leave this place.}
+{9000}{}{Hmm, sorry - no free rooms here, pal.}
+{9010}{}{Oh well...}
+{9020}{}{[Leave] Damn!}
+{10000}{}{Good, you wouldn't wanna see your stuff changed their owner, right? [A greedy gleam appears in her eyes for a moment]}
+{10010}{}{Right... [Give her the money] Could you tell me something else now?}
+{10020}{}{Right... [Leave]}
+{11000}{}{That'll be two caps.}
+{11010}{}{Sure.@@Okay.}
+{11020}{}{Sure.@@Okay.}
+{11030}{}{I changed my mind... I feel a bit sick.}
+{11040}{}{No, thanks.}
+{12000}{}{That'll be ten caps. [You can use SAY to enter number of items you want to buy]}
+{12010}{}{Sure.@@Okay.}
+{12020}{}{No, thanks.}
+{13000}{}{That'll be ten caps.}
+{13010}{}{Sure.@@Okay.}
+{13020}{}{No, thanks.}
+{14000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
+{14010}{}{Water}
+{14020}{}{Beer.}
+{14030}{}{Liquor.}
+{14040}{}{About renting a room...}
+{14050}{}{Nothing.}
+{15000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{15010}{}{Water.}
+{15020}{}{Beer.}
+{15030}{}{Liquor.}
+{15040}{}{About renting a room...}
+{15050}{}{Nothing.}
+{16000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{16010}{}{Water.}
+{16020}{}{Beer.}
+{16030}{}{Liquor.}
+{16040}{}{About renting a room...}
+{16050}{}{Nothing.}
+{17000}{}{Here. [The bartender slides you another cup full of the same murky water, and after you drink it, you're reminded as to how strange it tasted the last time . . .]}
+{17010}{}{Water}
+{17020}{}{Beer.}
+{17030}{}{Liquor.}
+{17040}{}{About renting a room...}
+{17050}{}{Nothing.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Dumb}
+{1020}{}{Unknown}
+{1030}{}{Familiar}
+{2000}{}{Yeah, whadda ya want?}
+{2010}{}{Could I get a room here?}
+{2020}{}{Could I get a room here?}
+{2030}{}{Water.}
+{2040}{}{Beer.}
+{2050}{}{Liquor.}
+{2060}{}{Nothing.}
+{3000}{}{What can I getcha?}
+{3010}{}{Can I get a room?}
+{3020}{}{Can I get a room?}
+{3030}{}{I'd like to pay my rent for the room.}
+{3040}{}{Water.}
+{3050}{}{Beer.}
+{3060}{}{Liquor.}
+{3070}{}{Nothing, thanks. I'm out of here.}
+{4000}{}{Typical of you scumbags to try and get somethin' for nothin'. Get the hell out.}
+{4010}{}{Alright, I'm leaving.}
+{5000}{}{We still have a room free and it will cost you @lex price@ caps for @lex time@ days. You want it?}
+{5010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
+{5020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
+{5030}{}{Hmm, maybe later. What about something else?}
+{6000}{}{Alright, let me show you your room...}
+{6010}{}{[Follow]}
+{7000}{}{Hey, dumbass, get out of here!}
+{8000}{}{You should leave this place.}
+{9000}{}{Hmm, sorry - no free rooms here, pal.}
+{9010}{}{Oh well...}
+{9020}{}{[Leave] Damn!}
+{10000}{}{Good, you wouldn't wanna see your stuff changed their owner, right? [A greedy gleam appears in her eyes for a moment]}
+{10010}{}{Right... [Give her the money] Could you tell me something else now?}
+{10020}{}{Right... [Leave]}
+{11000}{}{That'll be two caps.}
+{11010}{}{Sure.@@Okay.}
+{11020}{}{Sure.@@Okay.}
+{11030}{}{I changed my mind... I feel a bit sick.}
+{11040}{}{No, thanks.}
+{12000}{}{That'll be ten caps. [You can use SAY to enter number of items you want to buy]}
+{12010}{}{Sure.@@Okay.}
+{12020}{}{No, thanks.}
+{13000}{}{That'll be ten caps.}
+{13010}{}{Sure.@@Okay.}
+{13020}{}{No, thanks.}
+{14000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
+{14010}{}{Water}
+{14020}{}{Beer.}
+{14030}{}{Liquor.}
+{14040}{}{About renting a room...}
+{14050}{}{Nothing.}
+{15000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{15010}{}{Water.}
+{15020}{}{Beer.}
+{15030}{}{Liquor.}
+{15040}{}{About renting a room...}
+{15050}{}{Nothing.}
+{16000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{16010}{}{Water.}
+{16020}{}{Beer.}
+{16030}{}{Liquor.}
+{16040}{}{About renting a room...}
+{16050}{}{Nothing.}
+{17000}{}{Here. [The bartender slides you another cup full of the same murky water, and after you drink it, you're reminded as to how strange it tasted the last time . . .]}
+{17010}{}{Water}
+{17020}{}{Beer.}
+{17030}{}{Liquor.}
+{17040}{}{About renting a room...}
+{17050}{}{Nothing.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}

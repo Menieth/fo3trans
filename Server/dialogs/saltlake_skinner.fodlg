@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,24 @@ lang=engl czec
 {2000}{}{Good day. What is your business here?@@I've heard your Nuka-Cola vending machines are constantly being robbed. Have you managed to catch the thief yet?@@I once wandered into the artesian tower... Why don't you get it working?@@What will be the next task?@@That's right. My name is Skinner. Principal Skinner.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day. What is your business here?@@I've heard your Nuka-Cola vending machines are constantly being robbed. Have you managed to catch the thief yet?@@I once wandered into the artesian tower... Why don't you get it working?@@What will be the next task?@@That's right. My name is Skinner. Principal Skinner.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day. What is your business here?@@I've heard your Nuka-Cola vending machines are constantly being robbed. Have you managed to catch the thief yet?@@I once wandered into the artesian tower... Why don't you get it working?@@What will be the next task?@@That's right. My name is Skinner. Principal Skinner.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Good day. What is your business here?@@I've heard your Nuka-Cola vending machines are constantly being robbed. Have you managed to catch the thief yet?@@I once wandered into the artesian tower... Why don't you get it working?@@What will be the next task?@@That's right. My name is Skinner. Principal Skinner.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

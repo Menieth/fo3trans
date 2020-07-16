@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,24 @@ lang=engl czec
 {2000}{}{Yeah?@@Watch yourself.@@What a scrapyard...@@No time for chatting.@@Step asid.@@Not now.}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Watch yourself.@@What a scrapyard...@@No time for chatting.@@Step asid.@@Not now.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Watch yourself.@@What a scrapyard...@@No time for chatting.@@Step asid.@@Not now.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Watch yourself.@@What a scrapyard...@@No time for chatting.@@Step asid.@@Not now.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

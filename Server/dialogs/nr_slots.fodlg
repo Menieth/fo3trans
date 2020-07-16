@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl czec
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +21,24 @@ lang=engl czec
 {2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
 
 [czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
