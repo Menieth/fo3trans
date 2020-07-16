@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +18,30 @@ lang=engl
 {210}{}{His jaw gleams like glass.}
 {210}{}{He looks as if he wouldn't last seven seconds in the ring.}
 {210}{}{He looks like you could knock him out with a slice of pizza.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}

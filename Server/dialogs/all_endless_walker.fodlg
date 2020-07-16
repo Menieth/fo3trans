@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +16,30 @@ lang=engl
 {210}{}{He looks like a walking, sun bleached chunk of beef jerky.}
 {240}{}{You see a dead Ghoul.}
 {260}{}{You see a slain Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Mahhhh . . .@@GRAAAAA . . .@@RAAAAAAA . . .}

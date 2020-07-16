@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -26,6 +26,78 @@ lang=engl
 {100}{}{Trapper}
 {200}{}{You see a trapper.}
 {210}{}{Best not get too close. Some of the critters in their clothes might be looking for a cleaner home.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
+{2010}{}{Do you have any gecko pelts for sale?}
+{2020}{}{Just passing through.}
+{3000}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into town.}
+{3010}{}{What do you have?}
+{3020}{}{Never mind.}
+{4000}{}{Regular gecko pelt's $100. Golden goes for $200. How about it?}
+{4010}{}{I'll take a gecko pelt.}
+{4020}{}{How about a golden gecko pelt?}
+{4030}{}{Maybe next time. Bye}
+{5000}{}{Nice doing business with ya. See you around.}
+{5010}{}{Wait, could I maybe get another?}
+{5020}{}{Bye.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
+{2010}{}{Do you have any gecko pelts for sale?}
+{2020}{}{Just passing through.}
+{3000}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into town.}
+{3010}{}{What do you have?}
+{3020}{}{Never mind.}
+{4000}{}{Regular gecko pelt's $100. Golden goes for $200. How about it?}
+{4010}{}{I'll take a gecko pelt.}
+{4020}{}{How about a golden gecko pelt?}
+{4030}{}{Maybe next time. Bye}
+{5000}{}{Nice doing business with ya. See you around.}
+{5010}{}{Wait, could I maybe get another?}
+{5020}{}{Bye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
+{2010}{}{Do you have any gecko pelts for sale?}
+{2020}{}{Just passing through.}
+{3000}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into town.}
+{3010}{}{What do you have?}
+{3020}{}{Never mind.}
+{4000}{}{Regular gecko pelt's $100. Golden goes for $200. How about it?}
+{4010}{}{I'll take a gecko pelt.}
+{4020}{}{How about a golden gecko pelt?}
+{4030}{}{Maybe next time. Bye}
+{5000}{}{Nice doing business with ya. See you around.}
+{5010}{}{Wait, could I maybe get another?}
+{5020}{}{Bye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}
+{2010}{}{Do you have any gecko pelts for sale?}
+{2020}{}{Just passing through.}
+{3000}{}{Well, I reckon I might be able to sell ya my pelts. It'll save me the trouble of going into town.}
+{3010}{}{What do you have?}
+{3020}{}{Never mind.}
+{4000}{}{Regular gecko pelt's $100. Golden goes for $200. How about it?}
+{4010}{}{I'll take a gecko pelt.}
+{4020}{}{How about a golden gecko pelt?}
+{4030}{}{Maybe next time. Bye}
+{5000}{}{Nice doing business with ya. See you around.}
+{5010}{}{Wait, could I maybe get another?}
+{5020}{}{Bye.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Howdy. Don't come across people too often out here in trapper country. Whatcha want?}

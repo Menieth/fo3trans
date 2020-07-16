@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Isaac}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I am on duty, if you have any business to me then speak with my wife - Samantha. She is in Tombstone.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I am on duty, if you have any business to me then speak with my wife - Samantha. She is in Tombstone.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I am on duty, if you have any business to me then speak with my wife - Samantha. She is in Tombstone.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I am on duty, if you have any business to me then speak with my wife - Samantha. She is in Tombstone.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I am on duty, if you have any business to me then speak with my wife - Samantha. She is in Tombstone.}

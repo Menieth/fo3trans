@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Drunk}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eeh?@@Heard some news from Virginia? Is it any better nowadays?@@I always wondered why won't they let me serve Enclave...@@Whatever Jet is doing in Boston...@@Khouse? Never heard about this guy... @@Hah... Another Vault Dweller. A less epic verson however...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eeh?@@Heard some news from Virginia? Is it any better nowadays?@@I always wondered why won't they let me serve Enclave...@@Whatever Jet is doing in Boston...@@Khouse? Never heard about this guy... @@Hah... Another Vault Dweller. A less epic verson however...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eeh?@@Heard some news from Virginia? Is it any better nowadays?@@I always wondered why won't they let me serve Enclave...@@Whatever Jet is doing in Boston...@@Khouse? Never heard about this guy... @@Hah... Another Vault Dweller. A less epic verson however...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Eeh?@@Heard some news from Virginia? Is it any better nowadays?@@I always wondered why won't they let me serve Enclave...@@Whatever Jet is doing in Boston...@@Khouse? Never heard about this guy... @@Hah... Another Vault Dweller. A less epic verson however...}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Eeh?@@Heard some news from Virginia? Is it any better nowadays?@@I always wondered why won't they let me serve Enclave...@@Whatever Jet is doing in Boston...@@Khouse? Never heard about this guy... @@Hah... Another Vault Dweller. A less epic verson however...}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,34 @@ lang=engl
 {100}{}{Mel Williams}
 {200}{}{You see Mel Williams.}
 {210}{}{He got his shit right, sitting tight, with a bottle of whisky in the one hand and a full glass in the other hand.}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{unknown}
+{2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
+{2010}{}{Uh, nothing.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}

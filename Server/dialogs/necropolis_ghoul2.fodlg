@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,30 @@ lang=engl
 {240}{}{You see a dead glowing Ghoul.}
 {250}{}{You examine the pitiful thing, but can not figure out what might have made it the way it is.}
 {260}{}{You see a slain glowing Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}

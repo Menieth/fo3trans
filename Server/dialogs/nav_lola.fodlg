@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -31,6 +31,98 @@ lang=engl
 {100}{}{Lola}
 {200}{}{You see a young woman wearing a vault suit.}
 {210}{}{She is working on some statistics.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{disguised}
+{2000}{}{Yes, can I help you?}
+{2010}{}{I had some questions for you.}
+{2020}{}{No, I was about to leave.}
+{3000}{}{Just be quick, I've got the latest analysis from the mainframe and have to take care of it ASAP.}
+{3010}{}{ASAP?}
+{3020}{}{Who are you?}
+{3030}{}{Why are you wearing that vault suit?}
+{3040}{}{Thanks for the chit-chat. Bye!}
+{4000}{}{As soon as possible! Not the sharpest tool in the shed, are you?}
+{4010}{}{I see. Let me ask you something else then...}
+{4020}{}{Thanks for the chit-chat. Bye!}
+{5000}{}{My name is Lola, I'm the head of the Statistic Division here. Just don't ask me what am I doing here because you'll get the answer in numbers.}
+{5010}{}{OK, got it. One more question, please.}
+{5020}{}{Thanks for the chit-chat. Bye!}
+{6000}{}{I used to live in a vault once, but left it because... It's a long story. Anyway, my companions and me were ambushed by deathclaws and I was the only one saved by the Enclave vertibird patrol. It was pure luck for them to show up.}
+{6010}{}{It really was. Another question...}
+{6020}{}{Thanks for the chit-chat. Bye!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{disguised}
+{2000}{}{Yes, can I help you?}
+{2010}{}{I had some questions for you.}
+{2020}{}{No, I was about to leave.}
+{3000}{}{Just be quick, I've got the latest analysis from the mainframe and have to take care of it ASAP.}
+{3010}{}{ASAP?}
+{3020}{}{Who are you?}
+{3030}{}{Why are you wearing that vault suit?}
+{3040}{}{Thanks for the chit-chat. Bye!}
+{4000}{}{As soon as possible! Not the sharpest tool in the shed, are you?}
+{4010}{}{I see. Let me ask you something else then...}
+{4020}{}{Thanks for the chit-chat. Bye!}
+{5000}{}{My name is Lola, I'm the head of the Statistic Division here. Just don't ask me what am I doing here because you'll get the answer in numbers.}
+{5010}{}{OK, got it. One more question, please.}
+{5020}{}{Thanks for the chit-chat. Bye!}
+{6000}{}{I used to live in a vault once, but left it because... It's a long story. Anyway, my companions and me were ambushed by deathclaws and I was the only one saved by the Enclave vertibird patrol. It was pure luck for them to show up.}
+{6010}{}{It really was. Another question...}
+{6020}{}{Thanks for the chit-chat. Bye!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{disguised}
+{2000}{}{Yes, can I help you?}
+{2010}{}{I had some questions for you.}
+{2020}{}{No, I was about to leave.}
+{3000}{}{Just be quick, I've got the latest analysis from the mainframe and have to take care of it ASAP.}
+{3010}{}{ASAP?}
+{3020}{}{Who are you?}
+{3030}{}{Why are you wearing that vault suit?}
+{3040}{}{Thanks for the chit-chat. Bye!}
+{4000}{}{As soon as possible! Not the sharpest tool in the shed, are you?}
+{4010}{}{I see. Let me ask you something else then...}
+{4020}{}{Thanks for the chit-chat. Bye!}
+{5000}{}{My name is Lola, I'm the head of the Statistic Division here. Just don't ask me what am I doing here because you'll get the answer in numbers.}
+{5010}{}{OK, got it. One more question, please.}
+{5020}{}{Thanks for the chit-chat. Bye!}
+{6000}{}{I used to live in a vault once, but left it because... It's a long story. Anyway, my companions and me were ambushed by deathclaws and I was the only one saved by the Enclave vertibird patrol. It was pure luck for them to show up.}
+{6010}{}{It really was. Another question...}
+{6020}{}{Thanks for the chit-chat. Bye!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{disguised}
+{2000}{}{Yes, can I help you?}
+{2010}{}{I had some questions for you.}
+{2020}{}{No, I was about to leave.}
+{3000}{}{Just be quick, I've got the latest analysis from the mainframe and have to take care of it ASAP.}
+{3010}{}{ASAP?}
+{3020}{}{Who are you?}
+{3030}{}{Why are you wearing that vault suit?}
+{3040}{}{Thanks for the chit-chat. Bye!}
+{4000}{}{As soon as possible! Not the sharpest tool in the shed, are you?}
+{4010}{}{I see. Let me ask you something else then...}
+{4020}{}{Thanks for the chit-chat. Bye!}
+{5000}{}{My name is Lola, I'm the head of the Statistic Division here. Just don't ask me what am I doing here because you'll get the answer in numbers.}
+{5010}{}{OK, got it. One more question, please.}
+{5020}{}{Thanks for the chit-chat. Bye!}
+{6000}{}{I used to live in a vault once, but left it because... It's a long story. Anyway, my companions and me were ambushed by deathclaws and I was the only one saved by the Enclave vertibird patrol. It was pure luck for them to show up.}
+{6010}{}{It really was. Another question...}
+{6020}{}{Thanks for the chit-chat. Bye!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{disguised}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -26,6 +26,86 @@ lang=engl
 
 [engl]
 {100}{}{John}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{..}
+{2000}{}{Heya, anything you need?}
+{2010}{}{You look very unhappy...}
+{2020}{}{Oh... Ew... A stinking villager. Oh please, I am out of here.}
+{3000}{}{Eh... Look, my farm is facing some certain troubles recently. These damn plants and rad scorpios. Be a good fellow and do a small work for me... I will pay you for every 5 killed plants or every 5 killed scorpios. Alright?}
+{3010}{}{I will keep it in mind.}
+{3020}{}{Pff... As if I care.}
+{4000}{}{What is it?}
+{4010}{}{Tell me about yourself.}
+{4020}{}{I killed 5 plants. Where is my payment?}
+{4030}{}{I killed 5 scorpios. Where is my payment?}
+{5000}{}{Nothing to tell ya. I am a simple farmer. Name's John... Have been livin' here for... For over 10 years already.}
+{5010}{}{I see. There was something else.}
+{5020}{}{Filthy stinkman...}
+{6000}{}{Here is a pistol for you. Now do your job.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{..}
+{2000}{}{Heya, anything you need?}
+{2010}{}{You look very unhappy...}
+{2020}{}{Oh... Ew... A stinking villager. Oh please, I am out of here.}
+{3000}{}{Eh... Look, my farm is facing some certain troubles recently. These damn plants and rad scorpios. Be a good fellow and do a small work for me... I will pay you for every 5 killed plants or every 5 killed scorpios. Alright?}
+{3010}{}{I will keep it in mind.}
+{3020}{}{Pff... As if I care.}
+{4000}{}{What is it?}
+{4010}{}{Tell me about yourself.}
+{4020}{}{I killed 5 plants. Where is my payment?}
+{4030}{}{I killed 5 scorpios. Where is my payment?}
+{5000}{}{Nothing to tell ya. I am a simple farmer. Name's John... Have been livin' here for... For over 10 years already.}
+{5010}{}{I see. There was something else.}
+{5020}{}{Filthy stinkman...}
+{6000}{}{Here is a pistol for you. Now do your job.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{..}
+{2000}{}{Heya, anything you need?}
+{2010}{}{You look very unhappy...}
+{2020}{}{Oh... Ew... A stinking villager. Oh please, I am out of here.}
+{3000}{}{Eh... Look, my farm is facing some certain troubles recently. These damn plants and rad scorpios. Be a good fellow and do a small work for me... I will pay you for every 5 killed plants or every 5 killed scorpios. Alright?}
+{3010}{}{I will keep it in mind.}
+{3020}{}{Pff... As if I care.}
+{4000}{}{What is it?}
+{4010}{}{Tell me about yourself.}
+{4020}{}{I killed 5 plants. Where is my payment?}
+{4030}{}{I killed 5 scorpios. Where is my payment?}
+{5000}{}{Nothing to tell ya. I am a simple farmer. Name's John... Have been livin' here for... For over 10 years already.}
+{5010}{}{I see. There was something else.}
+{5020}{}{Filthy stinkman...}
+{6000}{}{Here is a pistol for you. Now do your job.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{..}
+{2000}{}{Heya, anything you need?}
+{2010}{}{You look very unhappy...}
+{2020}{}{Oh... Ew... A stinking villager. Oh please, I am out of here.}
+{3000}{}{Eh... Look, my farm is facing some certain troubles recently. These damn plants and rad scorpios. Be a good fellow and do a small work for me... I will pay you for every 5 killed plants or every 5 killed scorpios. Alright?}
+{3010}{}{I will keep it in mind.}
+{3020}{}{Pff... As if I care.}
+{4000}{}{What is it?}
+{4010}{}{Tell me about yourself.}
+{4020}{}{I killed 5 plants. Where is my payment?}
+{4030}{}{I killed 5 scorpios. Where is my payment?}
+{5000}{}{Nothing to tell ya. I am a simple farmer. Name's John... Have been livin' here for... For over 10 years already.}
+{5010}{}{I see. There was something else.}
+{5020}{}{Filthy stinkman...}
+{6000}{}{Here is a pistol for you. Now do your job.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{..}

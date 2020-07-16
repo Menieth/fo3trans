@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +23,74 @@ lang=engl
 
 [engl]
 {100}{}{Charley}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{...}
+{2000}{}{Hello! Oh hold on... I remember you. Are you from SE18?}
+{2010}{}{No, I don't understand the shit you are saying.}
+{2020}{}{Yes I am.}
+{3000}{}{Damn, it is nice to see another replicant here. How did you manage to leave the vault?}
+{3010}{}{Just found the exist and found myself in Rockside. A strange settlement. I remember there were Doctor Redwolf, Francis, Fritz...}
+{4000}{}{Rockside? But... There is no Rockside... Such town doesn't exist.}
+{4010}{}{Wha? Nah this is a bullshit. I saw it.}
+{5000}{}{No, I am serious. Rockside doesn't exist, recently I hear a lot of mentionings of Rockside... But nobody can find it and people like Doctor Redwolf, Francis, Fritz... These are names of some pre war actors and singers.}
+{5010}{}{...}
+{6000}{}{Guess you need to think it over.}
+{7000}{}{Hello again.@@Nice to see you.@@Hey.@@Hi.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{...}
+{2000}{}{Hello! Oh hold on... I remember you. Are you from SE18?}
+{2010}{}{No, I don't understand the shit you are saying.}
+{2020}{}{Yes I am.}
+{3000}{}{Damn, it is nice to see another replicant here. How did you manage to leave the vault?}
+{3010}{}{Just found the exist and found myself in Rockside. A strange settlement. I remember there were Doctor Redwolf, Francis, Fritz...}
+{4000}{}{Rockside? But... There is no Rockside... Such town doesn't exist.}
+{4010}{}{Wha? Nah this is a bullshit. I saw it.}
+{5000}{}{No, I am serious. Rockside doesn't exist, recently I hear a lot of mentionings of Rockside... But nobody can find it and people like Doctor Redwolf, Francis, Fritz... These are names of some pre war actors and singers.}
+{5010}{}{...}
+{6000}{}{Guess you need to think it over.}
+{7000}{}{Hello again.@@Nice to see you.@@Hey.@@Hi.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{...}
+{2000}{}{Hello! Oh hold on... I remember you. Are you from SE18?}
+{2010}{}{No, I don't understand the shit you are saying.}
+{2020}{}{Yes I am.}
+{3000}{}{Damn, it is nice to see another replicant here. How did you manage to leave the vault?}
+{3010}{}{Just found the exist and found myself in Rockside. A strange settlement. I remember there were Doctor Redwolf, Francis, Fritz...}
+{4000}{}{Rockside? But... There is no Rockside... Such town doesn't exist.}
+{4010}{}{Wha? Nah this is a bullshit. I saw it.}
+{5000}{}{No, I am serious. Rockside doesn't exist, recently I hear a lot of mentionings of Rockside... But nobody can find it and people like Doctor Redwolf, Francis, Fritz... These are names of some pre war actors and singers.}
+{5010}{}{...}
+{6000}{}{Guess you need to think it over.}
+{7000}{}{Hello again.@@Nice to see you.@@Hey.@@Hi.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{...}
+{2000}{}{Hello! Oh hold on... I remember you. Are you from SE18?}
+{2010}{}{No, I don't understand the shit you are saying.}
+{2020}{}{Yes I am.}
+{3000}{}{Damn, it is nice to see another replicant here. How did you manage to leave the vault?}
+{3010}{}{Just found the exist and found myself in Rockside. A strange settlement. I remember there were Doctor Redwolf, Francis, Fritz...}
+{4000}{}{Rockside? But... There is no Rockside... Such town doesn't exist.}
+{4010}{}{Wha? Nah this is a bullshit. I saw it.}
+{5000}{}{No, I am serious. Rockside doesn't exist, recently I hear a lot of mentionings of Rockside... But nobody can find it and people like Doctor Redwolf, Francis, Fritz... These are names of some pre war actors and singers.}
+{5010}{}{...}
+{6000}{}{Guess you need to think it over.}
+{7000}{}{Hello again.@@Nice to see you.@@Hey.@@Hi.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{...}

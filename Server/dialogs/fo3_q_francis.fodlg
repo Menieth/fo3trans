@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -93,6 +93,354 @@ lang=engl
 
 [engl]
 {100}{}{Francis}
+{1000}{}{Predialogue installations}
+{1010}{}{[ Mutant ]}
+{1020}{}{[ Human ]}
+{1030}{}{[ Known ]}
+{2000}{}{Hey there. I see we have another bluesuit here.}
+{2010}{}{What? Where am I? Who are you?...}
+{3000}{}{Hey, hey... Hold on, buddy. You are in Rockside. Do you remember your name?}
+{3010}{}{My name?...I am@pname@...}
+{4000}{}{@pname@? Sure... And what is your REAL name?}
+{4010}{}{My real name... I... I...}
+{5000}{}{Hahaha... Relax, mate. You are just another Vault resident who woke up in a middle of the General Atmocs vault it made your way out.}
+{5010}{}{Wait...}
+{6000}{}{Yeah, I understand... These damn robots made your head hurt as well, didn't they?}
+{6010}{}{Yeah... What is going on actually?}
+{7000}{}{Well... It seems like we are some sort of people who survived the Great War. Ha! I see you start remembering something. Weird feeling, isn't it? For some reason all of us know about the Great War and about the fact that we are some sort of Vault Residents of General Atomics Vault. But all of us don't remember anything else. We just... know some things. }
+{7010}{}{So you are...}
+{8000}{}{Vault Resident as well. Just like you, mate. I left the Vault 3 years ago. For some reason residents there are getting awaken in some certain periods... Not sure why. I actually advice you to visit our doc. He lives there. [ he points north - west ]}
+{8010}{}{...}
+{8020}{}{Sure... I guess.}
+{8030}{}{You don't tell me what to do...}
+{9000}{}{When you handle up with your shock, you can come back to me. Would be nice to chit chat.}
+{10000}{}{Anything else, mate?}
+{10010}{}{What can you tell me about Rockside?}
+{10020}{}{Why do you have so tough fortifications and guards standing in front of this cave?}
+{10030}{}{Are there any other settlements or towns nearby?}
+{10040}{}{Anything I can help you with?}
+{10050}{}{I got a beer for you.}
+{10060}{}{Nothing.}
+{11000}{}{Our village was built around 10 years ago by first Vault dwellers. Nothing else to say... We are just a big caravan route outpost. It's pretty boring here sometimes.}
+{11010}{}{I see.}
+{11020}{}{What should I do around here?}
+{11030}{}{Great, I need to go.}
+{12000}{}{Don't know, buddy... You should walk around the village, talk with people... You know... Don't make me teach you how to make some business in the Wasteland.}
+{12010}{}{Alright... Lets talk about something else.}
+{12020}{}{Gonna go, than,}
+{13000}{}{Hmh... Well, as I said - there are usually simple people... bluesutis... coming out of this cave. But sometimes some nasty things getting out of there. Ghouls, some kind of... mutants... But mostly some freaks who try their best to kill somebody.}
+{13010}{}{Strange, but the Vault seemed secure...}
+{14000}{}{Well yeah... But it seems like there is some kind of stuff going on on down levels of the Vault. At least sometimes the whole hell from down comes up here.}
+{14010}{}{There is something else I wanted to ask.}
+{14020}{}{Yup, I need to go, though,}
+{15000}{}{Well there is a big town on north - Hub. Even far on north is Junktown. On south there is Boneyard. On east is Necropolis and completely nothing interesting on west.}
+{15010}{}{Tell me about Hub.}
+{15020}{}{Tell me about Junktown.}
+{15030}{}{Tell me about Boneyard.}
+{15040}{}{Necropolis?}
+{15050}{}{Let's talk about something else.}
+{15060}{}{Fine. I need to go now.}
+{16000}{}{Hub is the city of traders. The biggest city in the Wastealnd... In this part of the Wasteland at least... It is quite peaceful, so a bluesuit like you should eventually visit this town first. Just my strong recomendation.}
+{16010}{}{What about Junktown?}
+{16020}{}{Boneyard? Sounds strange.}
+{16030}{}{Necropolis. What about it?}
+{16040}{}{I see. That's enough.}
+{17000}{}{Junktown, huh? Well, as you may guess out of the name of the place - the town is just a huge junkyard. I've never been there, so there is nothing I can tell you about this city.}
+{17010}{}{And what about Hub?}
+{17020}{}{Ehm... Boneyard?}
+{17030}{}{Necropolis?}
+{17040}{}{Great. That's enough.}
+{18000}{}{Boneyard is what remains from the city once named "Lost Angeles". Well, at least that's what one caravaner told me once... It is devided into several safe zones. Therefore you should be careful there. Ruins of the city are filled with different gangs and scrubs.}
+{18010}{}{What about Hub?}
+{18020}{}{And what about Junktown?}
+{18030}{}{What about Necropolis?}
+{18040}{}{Fine. I got it.}
+{19000}{}{Necropolis... What I heard about it is that the city is filled with ghouls. Nothing much to mention.}
+{19010}{}{Junktown?}
+{19020}{}{What about Hub?}
+{19030}{}{What about Boneyard?}
+{19040}{}{Okey...}
+{20000}{}{Hm... Well, if you want to help me- than just be a good buddy and bring me a bottle of beer. It is damn hot today.}
+{20010}{}{Okey. I will do it.}
+{20020}{}{I am not a waiter.}
+{21000}{}{See ya.}
+{22000}{}{Alright, see ya than.}
+{23000}{}{Oh that's the way you should make friends around. Thank you, buddy. Here, you deserve it.}
+{24000}{}{Hah, fine... Look, my lighter broke down. And this thing is very important for me. I will really appreciate if you bring it to Miguel, so he can fix it.}
+{24010}{}{I will do it.}
+{24020}{}{Ah no, no way I will do it. See you.}
+{25000}{}{Oh no! He can't be seriouse... Damn shame. Alright, just forget about it than. Here is your reward.}
+{26000}{}{Great! Thank you very much, buddy. Here, I think you deserve it.}
+{27000}{}{A mutant! Damn it, son... Are you able to talk?}
+{27010}{}{What?! I am... I...}
+{28000}{}{Ah it's fine. You are just another bluesuit... Mutated bluesuit.}
+{28010}{}{Wha?... Where am I? What is...?}
+{29000}{}{Will be waiting.}
+{30000}{}{Cool, will be waiting for news from you.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{[ Mutant ]}
+{1020}{}{[ Human ]}
+{1030}{}{[ Known ]}
+{2000}{}{Hey there. I see we have another bluesuit here.}
+{2010}{}{What? Where am I? Who are you?...}
+{3000}{}{Hey, hey... Hold on, buddy. You are in Rockside. Do you remember your name?}
+{3010}{}{My name?...I am@pname@...}
+{4000}{}{@pname@? Sure... And what is your REAL name?}
+{4010}{}{My real name... I... I...}
+{5000}{}{Hahaha... Relax, mate. You are just another Vault resident who woke up in a middle of the General Atmocs vault it made your way out.}
+{5010}{}{Wait...}
+{6000}{}{Yeah, I understand... These damn robots made your head hurt as well, didn't they?}
+{6010}{}{Yeah... What is going on actually?}
+{7000}{}{Well... It seems like we are some sort of people who survived the Great War. Ha! I see you start remembering something. Weird feeling, isn't it? For some reason all of us know about the Great War and about the fact that we are some sort of Vault Residents of General Atomics Vault. But all of us don't remember anything else. We just... know some things. }
+{7010}{}{So you are...}
+{8000}{}{Vault Resident as well. Just like you, mate. I left the Vault 3 years ago. For some reason residents there are getting awaken in some certain periods... Not sure why. I actually advice you to visit our doc. He lives there. [ he points north - west ]}
+{8010}{}{...}
+{8020}{}{Sure... I guess.}
+{8030}{}{You don't tell me what to do...}
+{9000}{}{When you handle up with your shock, you can come back to me. Would be nice to chit chat.}
+{10000}{}{Anything else, mate?}
+{10010}{}{What can you tell me about Rockside?}
+{10020}{}{Why do you have so tough fortifications and guards standing in front of this cave?}
+{10030}{}{Are there any other settlements or towns nearby?}
+{10040}{}{Anything I can help you with?}
+{10050}{}{I got a beer for you.}
+{10060}{}{Nothing.}
+{11000}{}{Our village was built around 10 years ago by first Vault dwellers. Nothing else to say... We are just a big caravan route outpost. It's pretty boring here sometimes.}
+{11010}{}{I see.}
+{11020}{}{What should I do around here?}
+{11030}{}{Great, I need to go.}
+{12000}{}{Don't know, buddy... You should walk around the village, talk with people... You know... Don't make me teach you how to make some business in the Wasteland.}
+{12010}{}{Alright... Lets talk about something else.}
+{12020}{}{Gonna go, than,}
+{13000}{}{Hmh... Well, as I said - there are usually simple people... bluesutis... coming out of this cave. But sometimes some nasty things getting out of there. Ghouls, some kind of... mutants... But mostly some freaks who try their best to kill somebody.}
+{13010}{}{Strange, but the Vault seemed secure...}
+{14000}{}{Well yeah... But it seems like there is some kind of stuff going on on down levels of the Vault. At least sometimes the whole hell from down comes up here.}
+{14010}{}{There is something else I wanted to ask.}
+{14020}{}{Yup, I need to go, though,}
+{15000}{}{Well there is a big town on north - Hub. Even far on north is Junktown. On south there is Boneyard. On east is Necropolis and completely nothing interesting on west.}
+{15010}{}{Tell me about Hub.}
+{15020}{}{Tell me about Junktown.}
+{15030}{}{Tell me about Boneyard.}
+{15040}{}{Necropolis?}
+{15050}{}{Let's talk about something else.}
+{15060}{}{Fine. I need to go now.}
+{16000}{}{Hub is the city of traders. The biggest city in the Wastealnd... In this part of the Wasteland at least... It is quite peaceful, so a bluesuit like you should eventually visit this town first. Just my strong recomendation.}
+{16010}{}{What about Junktown?}
+{16020}{}{Boneyard? Sounds strange.}
+{16030}{}{Necropolis. What about it?}
+{16040}{}{I see. That's enough.}
+{17000}{}{Junktown, huh? Well, as you may guess out of the name of the place - the town is just a huge junkyard. I've never been there, so there is nothing I can tell you about this city.}
+{17010}{}{And what about Hub?}
+{17020}{}{Ehm... Boneyard?}
+{17030}{}{Necropolis?}
+{17040}{}{Great. That's enough.}
+{18000}{}{Boneyard is what remains from the city once named "Lost Angeles". Well, at least that's what one caravaner told me once... It is devided into several safe zones. Therefore you should be careful there. Ruins of the city are filled with different gangs and scrubs.}
+{18010}{}{What about Hub?}
+{18020}{}{And what about Junktown?}
+{18030}{}{What about Necropolis?}
+{18040}{}{Fine. I got it.}
+{19000}{}{Necropolis... What I heard about it is that the city is filled with ghouls. Nothing much to mention.}
+{19010}{}{Junktown?}
+{19020}{}{What about Hub?}
+{19030}{}{What about Boneyard?}
+{19040}{}{Okey...}
+{20000}{}{Hm... Well, if you want to help me- than just be a good buddy and bring me a bottle of beer. It is damn hot today.}
+{20010}{}{Okey. I will do it.}
+{20020}{}{I am not a waiter.}
+{21000}{}{See ya.}
+{22000}{}{Alright, see ya than.}
+{23000}{}{Oh that's the way you should make friends around. Thank you, buddy. Here, you deserve it.}
+{24000}{}{Hah, fine... Look, my lighter broke down. And this thing is very important for me. I will really appreciate if you bring it to Miguel, so he can fix it.}
+{24010}{}{I will do it.}
+{24020}{}{Ah no, no way I will do it. See you.}
+{25000}{}{Oh no! He can't be seriouse... Damn shame. Alright, just forget about it than. Here is your reward.}
+{26000}{}{Great! Thank you very much, buddy. Here, I think you deserve it.}
+{27000}{}{A mutant! Damn it, son... Are you able to talk?}
+{27010}{}{What?! I am... I...}
+{28000}{}{Ah it's fine. You are just another bluesuit... Mutated bluesuit.}
+{28010}{}{Wha?... Where am I? What is...?}
+{29000}{}{Will be waiting.}
+{30000}{}{Cool, will be waiting for news from you.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{[ Mutant ]}
+{1020}{}{[ Human ]}
+{1030}{}{[ Known ]}
+{2000}{}{Hey there. I see we have another bluesuit here.}
+{2010}{}{What? Where am I? Who are you?...}
+{3000}{}{Hey, hey... Hold on, buddy. You are in Rockside. Do you remember your name?}
+{3010}{}{My name?...I am@pname@...}
+{4000}{}{@pname@? Sure... And what is your REAL name?}
+{4010}{}{My real name... I... I...}
+{5000}{}{Hahaha... Relax, mate. You are just another Vault resident who woke up in a middle of the General Atmocs vault it made your way out.}
+{5010}{}{Wait...}
+{6000}{}{Yeah, I understand... These damn robots made your head hurt as well, didn't they?}
+{6010}{}{Yeah... What is going on actually?}
+{7000}{}{Well... It seems like we are some sort of people who survived the Great War. Ha! I see you start remembering something. Weird feeling, isn't it? For some reason all of us know about the Great War and about the fact that we are some sort of Vault Residents of General Atomics Vault. But all of us don't remember anything else. We just... know some things. }
+{7010}{}{So you are...}
+{8000}{}{Vault Resident as well. Just like you, mate. I left the Vault 3 years ago. For some reason residents there are getting awaken in some certain periods... Not sure why. I actually advice you to visit our doc. He lives there. [ he points north - west ]}
+{8010}{}{...}
+{8020}{}{Sure... I guess.}
+{8030}{}{You don't tell me what to do...}
+{9000}{}{When you handle up with your shock, you can come back to me. Would be nice to chit chat.}
+{10000}{}{Anything else, mate?}
+{10010}{}{What can you tell me about Rockside?}
+{10020}{}{Why do you have so tough fortifications and guards standing in front of this cave?}
+{10030}{}{Are there any other settlements or towns nearby?}
+{10040}{}{Anything I can help you with?}
+{10050}{}{I got a beer for you.}
+{10060}{}{Nothing.}
+{11000}{}{Our village was built around 10 years ago by first Vault dwellers. Nothing else to say... We are just a big caravan route outpost. It's pretty boring here sometimes.}
+{11010}{}{I see.}
+{11020}{}{What should I do around here?}
+{11030}{}{Great, I need to go.}
+{12000}{}{Don't know, buddy... You should walk around the village, talk with people... You know... Don't make me teach you how to make some business in the Wasteland.}
+{12010}{}{Alright... Lets talk about something else.}
+{12020}{}{Gonna go, than,}
+{13000}{}{Hmh... Well, as I said - there are usually simple people... bluesutis... coming out of this cave. But sometimes some nasty things getting out of there. Ghouls, some kind of... mutants... But mostly some freaks who try their best to kill somebody.}
+{13010}{}{Strange, but the Vault seemed secure...}
+{14000}{}{Well yeah... But it seems like there is some kind of stuff going on on down levels of the Vault. At least sometimes the whole hell from down comes up here.}
+{14010}{}{There is something else I wanted to ask.}
+{14020}{}{Yup, I need to go, though,}
+{15000}{}{Well there is a big town on north - Hub. Even far on north is Junktown. On south there is Boneyard. On east is Necropolis and completely nothing interesting on west.}
+{15010}{}{Tell me about Hub.}
+{15020}{}{Tell me about Junktown.}
+{15030}{}{Tell me about Boneyard.}
+{15040}{}{Necropolis?}
+{15050}{}{Let's talk about something else.}
+{15060}{}{Fine. I need to go now.}
+{16000}{}{Hub is the city of traders. The biggest city in the Wastealnd... In this part of the Wasteland at least... It is quite peaceful, so a bluesuit like you should eventually visit this town first. Just my strong recomendation.}
+{16010}{}{What about Junktown?}
+{16020}{}{Boneyard? Sounds strange.}
+{16030}{}{Necropolis. What about it?}
+{16040}{}{I see. That's enough.}
+{17000}{}{Junktown, huh? Well, as you may guess out of the name of the place - the town is just a huge junkyard. I've never been there, so there is nothing I can tell you about this city.}
+{17010}{}{And what about Hub?}
+{17020}{}{Ehm... Boneyard?}
+{17030}{}{Necropolis?}
+{17040}{}{Great. That's enough.}
+{18000}{}{Boneyard is what remains from the city once named "Lost Angeles". Well, at least that's what one caravaner told me once... It is devided into several safe zones. Therefore you should be careful there. Ruins of the city are filled with different gangs and scrubs.}
+{18010}{}{What about Hub?}
+{18020}{}{And what about Junktown?}
+{18030}{}{What about Necropolis?}
+{18040}{}{Fine. I got it.}
+{19000}{}{Necropolis... What I heard about it is that the city is filled with ghouls. Nothing much to mention.}
+{19010}{}{Junktown?}
+{19020}{}{What about Hub?}
+{19030}{}{What about Boneyard?}
+{19040}{}{Okey...}
+{20000}{}{Hm... Well, if you want to help me- than just be a good buddy and bring me a bottle of beer. It is damn hot today.}
+{20010}{}{Okey. I will do it.}
+{20020}{}{I am not a waiter.}
+{21000}{}{See ya.}
+{22000}{}{Alright, see ya than.}
+{23000}{}{Oh that's the way you should make friends around. Thank you, buddy. Here, you deserve it.}
+{24000}{}{Hah, fine... Look, my lighter broke down. And this thing is very important for me. I will really appreciate if you bring it to Miguel, so he can fix it.}
+{24010}{}{I will do it.}
+{24020}{}{Ah no, no way I will do it. See you.}
+{25000}{}{Oh no! He can't be seriouse... Damn shame. Alright, just forget about it than. Here is your reward.}
+{26000}{}{Great! Thank you very much, buddy. Here, I think you deserve it.}
+{27000}{}{A mutant! Damn it, son... Are you able to talk?}
+{27010}{}{What?! I am... I...}
+{28000}{}{Ah it's fine. You are just another bluesuit... Mutated bluesuit.}
+{28010}{}{Wha?... Where am I? What is...?}
+{29000}{}{Will be waiting.}
+{30000}{}{Cool, will be waiting for news from you.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{[ Mutant ]}
+{1020}{}{[ Human ]}
+{1030}{}{[ Known ]}
+{2000}{}{Hey there. I see we have another bluesuit here.}
+{2010}{}{What? Where am I? Who are you?...}
+{3000}{}{Hey, hey... Hold on, buddy. You are in Rockside. Do you remember your name?}
+{3010}{}{My name?...I am@pname@...}
+{4000}{}{@pname@? Sure... And what is your REAL name?}
+{4010}{}{My real name... I... I...}
+{5000}{}{Hahaha... Relax, mate. You are just another Vault resident who woke up in a middle of the General Atmocs vault it made your way out.}
+{5010}{}{Wait...}
+{6000}{}{Yeah, I understand... These damn robots made your head hurt as well, didn't they?}
+{6010}{}{Yeah... What is going on actually?}
+{7000}{}{Well... It seems like we are some sort of people who survived the Great War. Ha! I see you start remembering something. Weird feeling, isn't it? For some reason all of us know about the Great War and about the fact that we are some sort of Vault Residents of General Atomics Vault. But all of us don't remember anything else. We just... know some things. }
+{7010}{}{So you are...}
+{8000}{}{Vault Resident as well. Just like you, mate. I left the Vault 3 years ago. For some reason residents there are getting awaken in some certain periods... Not sure why. I actually advice you to visit our doc. He lives there. [ he points north - west ]}
+{8010}{}{...}
+{8020}{}{Sure... I guess.}
+{8030}{}{You don't tell me what to do...}
+{9000}{}{When you handle up with your shock, you can come back to me. Would be nice to chit chat.}
+{10000}{}{Anything else, mate?}
+{10010}{}{What can you tell me about Rockside?}
+{10020}{}{Why do you have so tough fortifications and guards standing in front of this cave?}
+{10030}{}{Are there any other settlements or towns nearby?}
+{10040}{}{Anything I can help you with?}
+{10050}{}{I got a beer for you.}
+{10060}{}{Nothing.}
+{11000}{}{Our village was built around 10 years ago by first Vault dwellers. Nothing else to say... We are just a big caravan route outpost. It's pretty boring here sometimes.}
+{11010}{}{I see.}
+{11020}{}{What should I do around here?}
+{11030}{}{Great, I need to go.}
+{12000}{}{Don't know, buddy... You should walk around the village, talk with people... You know... Don't make me teach you how to make some business in the Wasteland.}
+{12010}{}{Alright... Lets talk about something else.}
+{12020}{}{Gonna go, than,}
+{13000}{}{Hmh... Well, as I said - there are usually simple people... bluesutis... coming out of this cave. But sometimes some nasty things getting out of there. Ghouls, some kind of... mutants... But mostly some freaks who try their best to kill somebody.}
+{13010}{}{Strange, but the Vault seemed secure...}
+{14000}{}{Well yeah... But it seems like there is some kind of stuff going on on down levels of the Vault. At least sometimes the whole hell from down comes up here.}
+{14010}{}{There is something else I wanted to ask.}
+{14020}{}{Yup, I need to go, though,}
+{15000}{}{Well there is a big town on north - Hub. Even far on north is Junktown. On south there is Boneyard. On east is Necropolis and completely nothing interesting on west.}
+{15010}{}{Tell me about Hub.}
+{15020}{}{Tell me about Junktown.}
+{15030}{}{Tell me about Boneyard.}
+{15040}{}{Necropolis?}
+{15050}{}{Let's talk about something else.}
+{15060}{}{Fine. I need to go now.}
+{16000}{}{Hub is the city of traders. The biggest city in the Wastealnd... In this part of the Wasteland at least... It is quite peaceful, so a bluesuit like you should eventually visit this town first. Just my strong recomendation.}
+{16010}{}{What about Junktown?}
+{16020}{}{Boneyard? Sounds strange.}
+{16030}{}{Necropolis. What about it?}
+{16040}{}{I see. That's enough.}
+{17000}{}{Junktown, huh? Well, as you may guess out of the name of the place - the town is just a huge junkyard. I've never been there, so there is nothing I can tell you about this city.}
+{17010}{}{And what about Hub?}
+{17020}{}{Ehm... Boneyard?}
+{17030}{}{Necropolis?}
+{17040}{}{Great. That's enough.}
+{18000}{}{Boneyard is what remains from the city once named "Lost Angeles". Well, at least that's what one caravaner told me once... It is devided into several safe zones. Therefore you should be careful there. Ruins of the city are filled with different gangs and scrubs.}
+{18010}{}{What about Hub?}
+{18020}{}{And what about Junktown?}
+{18030}{}{What about Necropolis?}
+{18040}{}{Fine. I got it.}
+{19000}{}{Necropolis... What I heard about it is that the city is filled with ghouls. Nothing much to mention.}
+{19010}{}{Junktown?}
+{19020}{}{What about Hub?}
+{19030}{}{What about Boneyard?}
+{19040}{}{Okey...}
+{20000}{}{Hm... Well, if you want to help me- than just be a good buddy and bring me a bottle of beer. It is damn hot today.}
+{20010}{}{Okey. I will do it.}
+{20020}{}{I am not a waiter.}
+{21000}{}{See ya.}
+{22000}{}{Alright, see ya than.}
+{23000}{}{Oh that's the way you should make friends around. Thank you, buddy. Here, you deserve it.}
+{24000}{}{Hah, fine... Look, my lighter broke down. And this thing is very important for me. I will really appreciate if you bring it to Miguel, so he can fix it.}
+{24010}{}{I will do it.}
+{24020}{}{Ah no, no way I will do it. See you.}
+{25000}{}{Oh no! He can't be seriouse... Damn shame. Alright, just forget about it than. Here is your reward.}
+{26000}{}{Great! Thank you very much, buddy. Here, I think you deserve it.}
+{27000}{}{A mutant! Damn it, son... Are you able to talk?}
+{27010}{}{What?! I am... I...}
+{28000}{}{Ah it's fine. You are just another bluesuit... Mutated bluesuit.}
+{28010}{}{Wha?... Where am I? What is...?}
+{29000}{}{Will be waiting.}
+{30000}{}{Cool, will be waiting for news from you.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{[ Mutant ]}
 {1020}{}{[ Human ]}

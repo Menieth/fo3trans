@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -24,4 +25,36 @@ lang=engl
 {100000003}{}{|0xFF00D5FF COME CLOSER! COME CLOSER! ARENA FIGHT, RIGHT NOW! SEE THE ROAMING EVILS!}
 {100000004}{}{|0xFF00D5FF BIG HUB ARENA MATCH! COME TO SEE, COME TO FIGHT!}
 {100000005}{}{|0xFF00D5FF COME TO SEE! COME TO FIGHT! THE ARENA IS OPEN!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, hey, hey! I bet you want to see the fights in the arena, eh? }
+{2010}{}{Yeah, this sounds interesting.}
+{2020}{}{No, bye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, hey, hey! I bet you want to see the fights in the arena, eh? }
+{2010}{}{Yeah, this sounds interesting.}
+{2020}{}{No, bye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, hey, hey! I bet you want to see the fights in the arena, eh? }
+{2010}{}{Yeah, this sounds interesting.}
+{2020}{}{No, bye.}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, hey, hey! I bet you want to see the fights in the arena, eh? }
+{2010}{}{Yeah, this sounds interesting.}
+{2020}{}{No, bye.}
 

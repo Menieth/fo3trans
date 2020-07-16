@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -30,4 +31,28 @@ lang=engl
 {100000010}{}{. . . when you were younger, I'm guessing you got dropped on your head. Probably off a cliff.}
 {100000011}{}{Man, for you, it is never a good day . . .}
 {100000012}{}{I think you are tanked enough. No more alcohol for you today.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{@sex@|What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, mister? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*||What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, ma'am? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*|}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{@sex@|What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, mister? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*||What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, ma'am? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*|}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{@sex@|What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, mister? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*||What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, ma'am? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*|}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{@sex@|What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, mister? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*||What? What--da 'ya want?@@Yeh? *hicks*@@Ma'am, I am sorry, mister -- *hicks*@@*hicks* wha--ah?@@You have something to drink, ma'am? *hicks*@@I . . . I can see a light . . . Oh no, it's just an empty bottle. *hicks*@@You want *hicks* somethin' from me?@@*urgs* -- *hick*|}
 

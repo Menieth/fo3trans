@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -91,6 +91,350 @@ lang=engl
 0 26010 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Pick up on setting existing contract}
+{1020}{}{Room is busy}
+{1030}{}{No contract}
+{2000}{}{What do you want to do?}
+{2010}{}{I want to create a new match.}
+{2020}{}{I want to see if there's any current matches open.}
+{2030}{}{[Exit]}
+{3000}{}{You have a PVP match created.}
+{3010}{}{Ok.}
+{3020}{}{Cancel match.}
+{4000}{}{You have a FVF match created.}
+{4010}{}{Ok.}
+{4020}{}{Cancel match.}
+{5000}{}{Select match type.}
+{5010}{}{PVP Match.}
+{5020}{}{FVF Match.}
+{5030}{}{[Back]}
+{6000}{}{Select an arena.}
+{6010}{}{@lex arena0@}
+{6020}{}{@lex arena1@}
+{6030}{}{@lex arena2@}
+{6040}{}{@lex arena3@}
+{6050}{}{[Back] No arenas available.}
+{7000}{}{Select which rules you want for your match, current rules: @lex rules@}
+{7010}{}{Change weapon rules.}
+{7020}{}{Change armor rules.}
+{7030}{}{Looks fine!}
+{8000}{}{Change weapon rules. Current rules: @lex rulesweapon@}
+{8010}{}{All weapons allowed.}
+{8020}{}{Only Unarmed.}
+{8030}{}{Only Melee.}
+{8040}{}{[Back]}
+{9000}{}{Change armor rules. Current rules: @lex rulesarmor@}
+{9010}{}{All armor allowed.}
+{9020}{}{Only light armor.}
+{9030}{}{Only medium armor.}
+{9040}{}{Only heavy armor.}
+{9050}{}{[Back]}
+{10000}{}{What kind of matches are you looking for?}
+{10010}{}{PVP match.}
+{10020}{}{FVF match.}
+{10030}{}{[Back]}
+{11000}{}{Who's the match hoster?}
+{11010}{}{@lex pvp0@}
+{11020}{}{@lex pvp1@}
+{11030}{}{@lex pvp2@}
+{11040}{}{@lex pvp3@}
+{11050}{}{[Back]}
+{12000}{}{Match was cancelled.}
+{12010}{}{[Exit]}
+{13000}{}{Match opened! Now you'll have to wait for some opponent(s).}
+{13010}{}{Alright.}
+{14000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{14010}{}{Nevermind, I'm not interested.}
+{14020}{}{Yes, bring it on!}
+{15000}{}{THESE ARE COOL NEWS}
+{15010}{}{AH OK}
+{16000}{}{Rule criteria are not met. Make sure you or your team mates don't have any items on you that aren't allowed.}
+{16010}{}{Alright!}
+{17000}{}{The arena was just taken.}
+{17010}{}{Damn!}
+{18000}{}{Who are the opposing faction?}
+{18010}{}{@lex fvf0@}
+{18020}{}{@lex fvf1@}
+{18030}{}{@lex fvf2@}
+{18040}{}{@lex fvf3@}
+{19000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{19010}{}{Nevermind, I'm not interested.}
+{19020}{}{Yes, bring it on!}
+{20000}{}{Match already joined.}
+{20010}{}{I see.}
+{21000}{}{Match was cancelled.}
+{21010}{}{Crap!}
+{22000}{}{But that is your faction!}
+{22010}{}{Are you sure?}
+{23000}{}{Wrong room!}
+{23010}{}{Oops!}
+{24000}{}{This room is already used by another group.}
+{24010}{}{[Exit]}
+{25000}{}{FATAL ERROR!}
+{26000}{}{A match using this terminal has already been created!}
+{26010}{}{Oops.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Pick up on setting existing contract}
+{1020}{}{Room is busy}
+{1030}{}{No contract}
+{2000}{}{What do you want to do?}
+{2010}{}{I want to create a new match.}
+{2020}{}{I want to see if there's any current matches open.}
+{2030}{}{[Exit]}
+{3000}{}{You have a PVP match created.}
+{3010}{}{Ok.}
+{3020}{}{Cancel match.}
+{4000}{}{You have a FVF match created.}
+{4010}{}{Ok.}
+{4020}{}{Cancel match.}
+{5000}{}{Select match type.}
+{5010}{}{PVP Match.}
+{5020}{}{FVF Match.}
+{5030}{}{[Back]}
+{6000}{}{Select an arena.}
+{6010}{}{@lex arena0@}
+{6020}{}{@lex arena1@}
+{6030}{}{@lex arena2@}
+{6040}{}{@lex arena3@}
+{6050}{}{[Back] No arenas available.}
+{7000}{}{Select which rules you want for your match, current rules: @lex rules@}
+{7010}{}{Change weapon rules.}
+{7020}{}{Change armor rules.}
+{7030}{}{Looks fine!}
+{8000}{}{Change weapon rules. Current rules: @lex rulesweapon@}
+{8010}{}{All weapons allowed.}
+{8020}{}{Only Unarmed.}
+{8030}{}{Only Melee.}
+{8040}{}{[Back]}
+{9000}{}{Change armor rules. Current rules: @lex rulesarmor@}
+{9010}{}{All armor allowed.}
+{9020}{}{Only light armor.}
+{9030}{}{Only medium armor.}
+{9040}{}{Only heavy armor.}
+{9050}{}{[Back]}
+{10000}{}{What kind of matches are you looking for?}
+{10010}{}{PVP match.}
+{10020}{}{FVF match.}
+{10030}{}{[Back]}
+{11000}{}{Who's the match hoster?}
+{11010}{}{@lex pvp0@}
+{11020}{}{@lex pvp1@}
+{11030}{}{@lex pvp2@}
+{11040}{}{@lex pvp3@}
+{11050}{}{[Back]}
+{12000}{}{Match was cancelled.}
+{12010}{}{[Exit]}
+{13000}{}{Match opened! Now you'll have to wait for some opponent(s).}
+{13010}{}{Alright.}
+{14000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{14010}{}{Nevermind, I'm not interested.}
+{14020}{}{Yes, bring it on!}
+{15000}{}{THESE ARE COOL NEWS}
+{15010}{}{AH OK}
+{16000}{}{Rule criteria are not met. Make sure you or your team mates don't have any items on you that aren't allowed.}
+{16010}{}{Alright!}
+{17000}{}{The arena was just taken.}
+{17010}{}{Damn!}
+{18000}{}{Who are the opposing faction?}
+{18010}{}{@lex fvf0@}
+{18020}{}{@lex fvf1@}
+{18030}{}{@lex fvf2@}
+{18040}{}{@lex fvf3@}
+{19000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{19010}{}{Nevermind, I'm not interested.}
+{19020}{}{Yes, bring it on!}
+{20000}{}{Match already joined.}
+{20010}{}{I see.}
+{21000}{}{Match was cancelled.}
+{21010}{}{Crap!}
+{22000}{}{But that is your faction!}
+{22010}{}{Are you sure?}
+{23000}{}{Wrong room!}
+{23010}{}{Oops!}
+{24000}{}{This room is already used by another group.}
+{24010}{}{[Exit]}
+{25000}{}{FATAL ERROR!}
+{26000}{}{A match using this terminal has already been created!}
+{26010}{}{Oops.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Pick up on setting existing contract}
+{1020}{}{Room is busy}
+{1030}{}{No contract}
+{2000}{}{What do you want to do?}
+{2010}{}{I want to create a new match.}
+{2020}{}{I want to see if there's any current matches open.}
+{2030}{}{[Exit]}
+{3000}{}{You have a PVP match created.}
+{3010}{}{Ok.}
+{3020}{}{Cancel match.}
+{4000}{}{You have a FVF match created.}
+{4010}{}{Ok.}
+{4020}{}{Cancel match.}
+{5000}{}{Select match type.}
+{5010}{}{PVP Match.}
+{5020}{}{FVF Match.}
+{5030}{}{[Back]}
+{6000}{}{Select an arena.}
+{6010}{}{@lex arena0@}
+{6020}{}{@lex arena1@}
+{6030}{}{@lex arena2@}
+{6040}{}{@lex arena3@}
+{6050}{}{[Back] No arenas available.}
+{7000}{}{Select which rules you want for your match, current rules: @lex rules@}
+{7010}{}{Change weapon rules.}
+{7020}{}{Change armor rules.}
+{7030}{}{Looks fine!}
+{8000}{}{Change weapon rules. Current rules: @lex rulesweapon@}
+{8010}{}{All weapons allowed.}
+{8020}{}{Only Unarmed.}
+{8030}{}{Only Melee.}
+{8040}{}{[Back]}
+{9000}{}{Change armor rules. Current rules: @lex rulesarmor@}
+{9010}{}{All armor allowed.}
+{9020}{}{Only light armor.}
+{9030}{}{Only medium armor.}
+{9040}{}{Only heavy armor.}
+{9050}{}{[Back]}
+{10000}{}{What kind of matches are you looking for?}
+{10010}{}{PVP match.}
+{10020}{}{FVF match.}
+{10030}{}{[Back]}
+{11000}{}{Who's the match hoster?}
+{11010}{}{@lex pvp0@}
+{11020}{}{@lex pvp1@}
+{11030}{}{@lex pvp2@}
+{11040}{}{@lex pvp3@}
+{11050}{}{[Back]}
+{12000}{}{Match was cancelled.}
+{12010}{}{[Exit]}
+{13000}{}{Match opened! Now you'll have to wait for some opponent(s).}
+{13010}{}{Alright.}
+{14000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{14010}{}{Nevermind, I'm not interested.}
+{14020}{}{Yes, bring it on!}
+{15000}{}{THESE ARE COOL NEWS}
+{15010}{}{AH OK}
+{16000}{}{Rule criteria are not met. Make sure you or your team mates don't have any items on you that aren't allowed.}
+{16010}{}{Alright!}
+{17000}{}{The arena was just taken.}
+{17010}{}{Damn!}
+{18000}{}{Who are the opposing faction?}
+{18010}{}{@lex fvf0@}
+{18020}{}{@lex fvf1@}
+{18030}{}{@lex fvf2@}
+{18040}{}{@lex fvf3@}
+{19000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{19010}{}{Nevermind, I'm not interested.}
+{19020}{}{Yes, bring it on!}
+{20000}{}{Match already joined.}
+{20010}{}{I see.}
+{21000}{}{Match was cancelled.}
+{21010}{}{Crap!}
+{22000}{}{But that is your faction!}
+{22010}{}{Are you sure?}
+{23000}{}{Wrong room!}
+{23010}{}{Oops!}
+{24000}{}{This room is already used by another group.}
+{24010}{}{[Exit]}
+{25000}{}{FATAL ERROR!}
+{26000}{}{A match using this terminal has already been created!}
+{26010}{}{Oops.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Pick up on setting existing contract}
+{1020}{}{Room is busy}
+{1030}{}{No contract}
+{2000}{}{What do you want to do?}
+{2010}{}{I want to create a new match.}
+{2020}{}{I want to see if there's any current matches open.}
+{2030}{}{[Exit]}
+{3000}{}{You have a PVP match created.}
+{3010}{}{Ok.}
+{3020}{}{Cancel match.}
+{4000}{}{You have a FVF match created.}
+{4010}{}{Ok.}
+{4020}{}{Cancel match.}
+{5000}{}{Select match type.}
+{5010}{}{PVP Match.}
+{5020}{}{FVF Match.}
+{5030}{}{[Back]}
+{6000}{}{Select an arena.}
+{6010}{}{@lex arena0@}
+{6020}{}{@lex arena1@}
+{6030}{}{@lex arena2@}
+{6040}{}{@lex arena3@}
+{6050}{}{[Back] No arenas available.}
+{7000}{}{Select which rules you want for your match, current rules: @lex rules@}
+{7010}{}{Change weapon rules.}
+{7020}{}{Change armor rules.}
+{7030}{}{Looks fine!}
+{8000}{}{Change weapon rules. Current rules: @lex rulesweapon@}
+{8010}{}{All weapons allowed.}
+{8020}{}{Only Unarmed.}
+{8030}{}{Only Melee.}
+{8040}{}{[Back]}
+{9000}{}{Change armor rules. Current rules: @lex rulesarmor@}
+{9010}{}{All armor allowed.}
+{9020}{}{Only light armor.}
+{9030}{}{Only medium armor.}
+{9040}{}{Only heavy armor.}
+{9050}{}{[Back]}
+{10000}{}{What kind of matches are you looking for?}
+{10010}{}{PVP match.}
+{10020}{}{FVF match.}
+{10030}{}{[Back]}
+{11000}{}{Who's the match hoster?}
+{11010}{}{@lex pvp0@}
+{11020}{}{@lex pvp1@}
+{11030}{}{@lex pvp2@}
+{11040}{}{@lex pvp3@}
+{11050}{}{[Back]}
+{12000}{}{Match was cancelled.}
+{12010}{}{[Exit]}
+{13000}{}{Match opened! Now you'll have to wait for some opponent(s).}
+{13010}{}{Alright.}
+{14000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{14010}{}{Nevermind, I'm not interested.}
+{14020}{}{Yes, bring it on!}
+{15000}{}{THESE ARE COOL NEWS}
+{15010}{}{AH OK}
+{16000}{}{Rule criteria are not met. Make sure you or your team mates don't have any items on you that aren't allowed.}
+{16010}{}{Alright!}
+{17000}{}{The arena was just taken.}
+{17010}{}{Damn!}
+{18000}{}{Who are the opposing faction?}
+{18010}{}{@lex fvf0@}
+{18020}{}{@lex fvf1@}
+{18030}{}{@lex fvf2@}
+{18040}{}{@lex fvf3@}
+{19000}{}{The match will take place in @lex arena@ with the following rules: @lex rules@}
+{19010}{}{Nevermind, I'm not interested.}
+{19020}{}{Yes, bring it on!}
+{20000}{}{Match already joined.}
+{20010}{}{I see.}
+{21000}{}{Match was cancelled.}
+{21010}{}{Crap!}
+{22000}{}{But that is your faction!}
+{22010}{}{Are you sure?}
+{23000}{}{Wrong room!}
+{23010}{}{Oops!}
+{24000}{}{This room is already used by another group.}
+{24010}{}{[Exit]}
+{25000}{}{FATAL ERROR!}
+{26000}{}{A match using this terminal has already been created!}
+{26010}{}{Oops.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}

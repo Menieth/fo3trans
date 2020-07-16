@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,54 @@ lang=engl
 0 3020 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is the Shark Club.]}
+{2010}{}{[Enter the Shark Club.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave the Shark Club?]}
+{3010}{}{[Exit the Shark Club.]}
+{3020}{}{[Don't go yet.]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is the Shark Club.]}
+{2010}{}{[Enter the Shark Club.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave the Shark Club?]}
+{3010}{}{[Exit the Shark Club.]}
+{3020}{}{[Don't go yet.]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is the Shark Club.]}
+{2010}{}{[Enter the Shark Club.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave the Shark Club?]}
+{3010}{}{[Exit the Shark Club.]}
+{3020}{}{[Don't go yet.]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[In front of you is the Shark Club.]}
+{2010}{}{[Enter the Shark Club.]}
+{2020}{}{[Go away.]}
+{3000}{}{[Do you want to leave the Shark Club?]}
+{3010}{}{[Exit the Shark Club.]}
+{3020}{}{[Don't go yet.]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}

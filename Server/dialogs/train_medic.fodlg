@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,7 +23,63 @@ lang=engl
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
-{2010}{}{but....
+{2010}{}{but....
+}
+{3000}{}{Ok let me show you how to make proper resuscitation then...}
+{3010}{}{I'm not get it}
+{3020}{}{Ok ok, but why you not showing it on doll but on living human, wow...}
+{4000}{}{No but? But help me!}
+{4010}{}{First Teach me how}
+{4020}{}{You are doing good, I think you don't need my help.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
+{2010}{}{but....
+}
+{3000}{}{Ok let me show you how to make proper resuscitation then...}
+{3010}{}{I'm not get it}
+{3020}{}{Ok ok, but why you not showing it on doll but on living human, wow...}
+{4000}{}{No but? But help me!}
+{4010}{}{First Teach me how}
+{4020}{}{You are doing good, I think you don't need my help.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
+{2010}{}{but....
+}
+{3000}{}{Ok let me show you how to make proper resuscitation then...}
+{3010}{}{I'm not get it}
+{3020}{}{Ok ok, but why you not showing it on doll but on living human, wow...}
+{4000}{}{No but? But help me!}
+{4010}{}{First Teach me how}
+{4020}{}{You are doing good, I think you don't need my help.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
+{2010}{}{but....
+}
+{3000}{}{Ok let me show you how to make proper resuscitation then...}
+{3010}{}{I'm not get it}
+{3020}{}{Ok ok, but why you not showing it on doll but on living human, wow...}
+{4000}{}{No but? But help me!}
+{4010}{}{First Teach me how}
+{4020}{}{You are doing good, I think you don't need my help.}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
+{2010}{}{but....
 }
 {3000}{}{Ok let me show you how to make proper resuscitation then...}
 {3010}{}{I'm not get it}

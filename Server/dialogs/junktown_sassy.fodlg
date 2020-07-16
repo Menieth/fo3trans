@@ -5,7 +5,7 @@ S. Spears: 60 caps a spear + 10xp
 Very simple fetch quest, no vars, only requires >2 int. Will be a new money making PE_PROFESSION.
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -66,6 +66,202 @@ lang=engl
 {250}{}{She looks: Almost Dead,}
 {260}{}{She looks: Dead.}
 {270}{}{She's dead.}
+{1000}{}{Predialogue installations}
+{1010}{}{Known}
+{1020}{}{retard}
+{1030}{}{notknown}
+{2000}{}{Well, hey there! What brings you around Junktown stranger?}
+{2010}{}{I'm just lookin' to unload this backpack of mine. The name's @pname@ by the way.}
+{2020}{}{The name's @pname@, and I'm just lookin' for something to do.}
+{2030}{}{I'm just looking around, sorry to bother you.}
+{3000}{}{Is that so @pname@? Well it's mighty fine to meet ya', mah' name's Sassy Givins. Say @pname@, you wouldn't happen to have any spears on ya', would ya'? }
+{3010}{}{Sure do, why do you ask?}
+{3020}{}{No, why do you ask?}
+{4000}{}{Well those spears are great recyclables, and we could use em' to help maintain just about everything around here. I'd be happy to buy them off you for 50 caps a spear, 60 caps for the sharper ones. Deal?}
+{4010}{}{Hey, why not? I was just going to throw them away anyways. I'll come back with a few spears. Goodbye.}
+{5000}{}{Hi there @pname@, have you any spears for me today?}
+{5010}{}{Sure do, have a spear.}
+{5020}{}{I have a few sharpened spears.}
+{5030}{}{No not today, sorry. Goodbye.}
+{6000}{}{Thanks, here's 50 caps for it. Keep them coming please! And we'll make sure to keep the walls intact.}
+{6010}{}{Thanks, goodbye}
+{7000}{}{I'll take one, thanks. Here's 60 caps for it. Keep them coming please! We'll make sure the bar is always stocked!}
+{7010}{}{Thanks, goodbye}
+{8000}{}{Well if your bored, spears make great recyclables, and we can use them for pretty much anything around here. I'd be happy to buy some off you for 50 caps a spear, or 60 caps for a sharpened spear.}
+{8010}{}{Sounds exciting. I'll come back with a few spears. What's your name by the way?}
+{9000}{}{How many spears do you have?}
+{9010}{}{One.}
+{9020}{}{Five.}
+{9030}{}{Ten.}
+{10000}{}{How many sharpened spears do you have?}
+{10010}{}{One.}
+{10020}{}{Five.}
+{10030}{}{Ten.}
+{11000}{}{I'll take five, thanks. Here's your 250 caps. Keep em' comin'.}
+{11010}{}{Thanks, goodbye.}
+{12000}{}{I'll take ten, thanks. Here's your 500 caps. Keep em' comin'.}
+{12010}{}{Thanks, goodbye.}
+{13000}{}{I'll take five sharper ones, thanks. Here's your 300 caps. Keep em' comin'.}
+{13010}{}{Thanks, goodbye.}
+{14000}{}{I'll take ten sharper ones, thanks. Here's your 600 caps. Keep em' comin'.}
+{14010}{}{Thanks, goodbye.}
+{15000}{}{Well hey...*She pauses, then stares deeply into your eyes* You pee'd yourself...The bathroom's that a-way...}
+{15010}{}{Me wet! Yay!}
+{15020}{}{I like soup! *Smile deeply*}
+{15030}{}{Pwretty...You like @pname@?}
+{15040}{}{Derrrrr!}
+{16000}{}{Ahh! Get away from me you freak!}
+{17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Known}
+{1020}{}{retard}
+{1030}{}{notknown}
+{2000}{}{Well, hey there! What brings you around Junktown stranger?}
+{2010}{}{I'm just lookin' to unload this backpack of mine. The name's @pname@ by the way.}
+{2020}{}{The name's @pname@, and I'm just lookin' for something to do.}
+{2030}{}{I'm just looking around, sorry to bother you.}
+{3000}{}{Is that so @pname@? Well it's mighty fine to meet ya', mah' name's Sassy Givins. Say @pname@, you wouldn't happen to have any spears on ya', would ya'? }
+{3010}{}{Sure do, why do you ask?}
+{3020}{}{No, why do you ask?}
+{4000}{}{Well those spears are great recyclables, and we could use em' to help maintain just about everything around here. I'd be happy to buy them off you for 50 caps a spear, 60 caps for the sharper ones. Deal?}
+{4010}{}{Hey, why not? I was just going to throw them away anyways. I'll come back with a few spears. Goodbye.}
+{5000}{}{Hi there @pname@, have you any spears for me today?}
+{5010}{}{Sure do, have a spear.}
+{5020}{}{I have a few sharpened spears.}
+{5030}{}{No not today, sorry. Goodbye.}
+{6000}{}{Thanks, here's 50 caps for it. Keep them coming please! And we'll make sure to keep the walls intact.}
+{6010}{}{Thanks, goodbye}
+{7000}{}{I'll take one, thanks. Here's 60 caps for it. Keep them coming please! We'll make sure the bar is always stocked!}
+{7010}{}{Thanks, goodbye}
+{8000}{}{Well if your bored, spears make great recyclables, and we can use them for pretty much anything around here. I'd be happy to buy some off you for 50 caps a spear, or 60 caps for a sharpened spear.}
+{8010}{}{Sounds exciting. I'll come back with a few spears. What's your name by the way?}
+{9000}{}{How many spears do you have?}
+{9010}{}{One.}
+{9020}{}{Five.}
+{9030}{}{Ten.}
+{10000}{}{How many sharpened spears do you have?}
+{10010}{}{One.}
+{10020}{}{Five.}
+{10030}{}{Ten.}
+{11000}{}{I'll take five, thanks. Here's your 250 caps. Keep em' comin'.}
+{11010}{}{Thanks, goodbye.}
+{12000}{}{I'll take ten, thanks. Here's your 500 caps. Keep em' comin'.}
+{12010}{}{Thanks, goodbye.}
+{13000}{}{I'll take five sharper ones, thanks. Here's your 300 caps. Keep em' comin'.}
+{13010}{}{Thanks, goodbye.}
+{14000}{}{I'll take ten sharper ones, thanks. Here's your 600 caps. Keep em' comin'.}
+{14010}{}{Thanks, goodbye.}
+{15000}{}{Well hey...*She pauses, then stares deeply into your eyes* You pee'd yourself...The bathroom's that a-way...}
+{15010}{}{Me wet! Yay!}
+{15020}{}{I like soup! *Smile deeply*}
+{15030}{}{Pwretty...You like @pname@?}
+{15040}{}{Derrrrr!}
+{16000}{}{Ahh! Get away from me you freak!}
+{17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Known}
+{1020}{}{retard}
+{1030}{}{notknown}
+{2000}{}{Well, hey there! What brings you around Junktown stranger?}
+{2010}{}{I'm just lookin' to unload this backpack of mine. The name's @pname@ by the way.}
+{2020}{}{The name's @pname@, and I'm just lookin' for something to do.}
+{2030}{}{I'm just looking around, sorry to bother you.}
+{3000}{}{Is that so @pname@? Well it's mighty fine to meet ya', mah' name's Sassy Givins. Say @pname@, you wouldn't happen to have any spears on ya', would ya'? }
+{3010}{}{Sure do, why do you ask?}
+{3020}{}{No, why do you ask?}
+{4000}{}{Well those spears are great recyclables, and we could use em' to help maintain just about everything around here. I'd be happy to buy them off you for 50 caps a spear, 60 caps for the sharper ones. Deal?}
+{4010}{}{Hey, why not? I was just going to throw them away anyways. I'll come back with a few spears. Goodbye.}
+{5000}{}{Hi there @pname@, have you any spears for me today?}
+{5010}{}{Sure do, have a spear.}
+{5020}{}{I have a few sharpened spears.}
+{5030}{}{No not today, sorry. Goodbye.}
+{6000}{}{Thanks, here's 50 caps for it. Keep them coming please! And we'll make sure to keep the walls intact.}
+{6010}{}{Thanks, goodbye}
+{7000}{}{I'll take one, thanks. Here's 60 caps for it. Keep them coming please! We'll make sure the bar is always stocked!}
+{7010}{}{Thanks, goodbye}
+{8000}{}{Well if your bored, spears make great recyclables, and we can use them for pretty much anything around here. I'd be happy to buy some off you for 50 caps a spear, or 60 caps for a sharpened spear.}
+{8010}{}{Sounds exciting. I'll come back with a few spears. What's your name by the way?}
+{9000}{}{How many spears do you have?}
+{9010}{}{One.}
+{9020}{}{Five.}
+{9030}{}{Ten.}
+{10000}{}{How many sharpened spears do you have?}
+{10010}{}{One.}
+{10020}{}{Five.}
+{10030}{}{Ten.}
+{11000}{}{I'll take five, thanks. Here's your 250 caps. Keep em' comin'.}
+{11010}{}{Thanks, goodbye.}
+{12000}{}{I'll take ten, thanks. Here's your 500 caps. Keep em' comin'.}
+{12010}{}{Thanks, goodbye.}
+{13000}{}{I'll take five sharper ones, thanks. Here's your 300 caps. Keep em' comin'.}
+{13010}{}{Thanks, goodbye.}
+{14000}{}{I'll take ten sharper ones, thanks. Here's your 600 caps. Keep em' comin'.}
+{14010}{}{Thanks, goodbye.}
+{15000}{}{Well hey...*She pauses, then stares deeply into your eyes* You pee'd yourself...The bathroom's that a-way...}
+{15010}{}{Me wet! Yay!}
+{15020}{}{I like soup! *Smile deeply*}
+{15030}{}{Pwretty...You like @pname@?}
+{15040}{}{Derrrrr!}
+{16000}{}{Ahh! Get away from me you freak!}
+{17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Known}
+{1020}{}{retard}
+{1030}{}{notknown}
+{2000}{}{Well, hey there! What brings you around Junktown stranger?}
+{2010}{}{I'm just lookin' to unload this backpack of mine. The name's @pname@ by the way.}
+{2020}{}{The name's @pname@, and I'm just lookin' for something to do.}
+{2030}{}{I'm just looking around, sorry to bother you.}
+{3000}{}{Is that so @pname@? Well it's mighty fine to meet ya', mah' name's Sassy Givins. Say @pname@, you wouldn't happen to have any spears on ya', would ya'? }
+{3010}{}{Sure do, why do you ask?}
+{3020}{}{No, why do you ask?}
+{4000}{}{Well those spears are great recyclables, and we could use em' to help maintain just about everything around here. I'd be happy to buy them off you for 50 caps a spear, 60 caps for the sharper ones. Deal?}
+{4010}{}{Hey, why not? I was just going to throw them away anyways. I'll come back with a few spears. Goodbye.}
+{5000}{}{Hi there @pname@, have you any spears for me today?}
+{5010}{}{Sure do, have a spear.}
+{5020}{}{I have a few sharpened spears.}
+{5030}{}{No not today, sorry. Goodbye.}
+{6000}{}{Thanks, here's 50 caps for it. Keep them coming please! And we'll make sure to keep the walls intact.}
+{6010}{}{Thanks, goodbye}
+{7000}{}{I'll take one, thanks. Here's 60 caps for it. Keep them coming please! We'll make sure the bar is always stocked!}
+{7010}{}{Thanks, goodbye}
+{8000}{}{Well if your bored, spears make great recyclables, and we can use them for pretty much anything around here. I'd be happy to buy some off you for 50 caps a spear, or 60 caps for a sharpened spear.}
+{8010}{}{Sounds exciting. I'll come back with a few spears. What's your name by the way?}
+{9000}{}{How many spears do you have?}
+{9010}{}{One.}
+{9020}{}{Five.}
+{9030}{}{Ten.}
+{10000}{}{How many sharpened spears do you have?}
+{10010}{}{One.}
+{10020}{}{Five.}
+{10030}{}{Ten.}
+{11000}{}{I'll take five, thanks. Here's your 250 caps. Keep em' comin'.}
+{11010}{}{Thanks, goodbye.}
+{12000}{}{I'll take ten, thanks. Here's your 500 caps. Keep em' comin'.}
+{12010}{}{Thanks, goodbye.}
+{13000}{}{I'll take five sharper ones, thanks. Here's your 300 caps. Keep em' comin'.}
+{13010}{}{Thanks, goodbye.}
+{14000}{}{I'll take ten sharper ones, thanks. Here's your 600 caps. Keep em' comin'.}
+{14010}{}{Thanks, goodbye.}
+{15000}{}{Well hey...*She pauses, then stares deeply into your eyes* You pee'd yourself...The bathroom's that a-way...}
+{15010}{}{Me wet! Yay!}
+{15020}{}{I like soup! *Smile deeply*}
+{15030}{}{Pwretty...You like @pname@?}
+{15040}{}{Derrrrr!}
+{16000}{}{Ahh! Get away from me you freak!}
+{17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{retard}

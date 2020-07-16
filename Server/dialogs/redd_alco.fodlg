@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +20,30 @@ lang=engl
 {210}{}{This guy's already had too much to drink.}
 {210}{}{This guy drank too much.}
 {210}{}{You see man ordering beer.}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}

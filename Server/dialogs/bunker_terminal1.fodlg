@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,42 @@ lang=engl
 
 [engl]
 {100}{}{Child of Colt}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... System online. ]}
+{2010}{}{[ Redirect power to the radiotower ]}
+{2020}{}{[ Open the armory ]}
+{2030}{}{[ Leave ]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... System online. ]}
+{2010}{}{[ Redirect power to the radiotower ]}
+{2020}{}{[ Open the armory ]}
+{2030}{}{[ Leave ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... System online. ]}
+{2010}{}{[ Redirect power to the radiotower ]}
+{2020}{}{[ Open the armory ]}
+{2030}{}{[ Leave ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... System online. ]}
+{2010}{}{[ Redirect power to the radiotower ]}
+{2020}{}{[ Open the armory ]}
+{2030}{}{[ Leave ]}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... System online. ]}

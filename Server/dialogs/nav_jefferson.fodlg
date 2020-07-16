@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -40,6 +40,134 @@ lang=engl
 {100}{}{Jefferson}
 {200}{}{You see a technician.}
 {210}{}{You see a man in a military uniform. Judging by the tools he's using you think he is more of a technician than a soldier.}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, what? Can't you see I'm busy?}
+{2010}{}{Oh, sorry. I'm *blind*, you know.}
+{2020}{}{Who are you?}
+{2030}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{2040}{}{Ah, nothing. Sorry.}
+{3000}{}{Go playing *blindman* somewhere else then, I gotta work to do.}
+{3010}{}{Sorry, I was just kidding... Actually, I had a few questions for you.}
+{3020}{}{Yeah, right.}
+{4000}{}{Jefferson's the name. I'm mostly repairing various technical junk and there's more of it each day... Armors, plasma rifles, energy cells, you name it. Now did you need something or what? [Looking at you impatiantly]}
+{4010}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{4020}{}{Nope, I think I'll leave you to your work then.}
+{5000}{}{Well, energy cells and weapons are just a part of my work, but I guess you'll hardly find someone else around with so much experience in this area. Anyway, what did you want to know exactly?}
+{5010}{}{I'm currently interested in energy cells and... [You explain everything to Jefferson]}
+{5020}{}{Is there any way to store electrical energy more efficiently? I was thinking... [You explain everything to Jefferson]}
+{5030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
+{6000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps, that should do the trick. Hell, for that money I'll even give you one of these Deans Electronics manuals for free!}
+{6010}{}{I've got that here right now. [Give him the $1500]}
+{6020}{}{Okay, let me fetch it for you... Be right back.}
+{7000}{}{Well, there is a way to do something like that... I could show you a few more pointers, let's say, for three grand. }
+{7010}{}{Okay, I've got that. Here you go.. [Give him $3000]}
+{7020}{}{Okay, let me fetch it for you... Be right back.}
+{8000}{}{[OBSOLETE] That's a pretty complex issue you're talking about, @sex@|boy||girl|. Okay, I guess I could teach you the theory, but you'll have to find a place to produce them yourself. You know, a place with a strong energy source. Anyway, $4500 and we're set.}
+{8010}{}{Here you go. [Give him $4500]}
+{8020}{}{Okay, just let me get the money, be right back.}
+{9000}{}{Well, glad to see you got everything we need to start with, hehe... [Puts the money into one of his small pockets] Okay, let's start then. [Jefferson explains to you everything you wanted to know. It takes a while.]}
+{9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, what? Can't you see I'm busy?}
+{2010}{}{Oh, sorry. I'm *blind*, you know.}
+{2020}{}{Who are you?}
+{2030}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{2040}{}{Ah, nothing. Sorry.}
+{3000}{}{Go playing *blindman* somewhere else then, I gotta work to do.}
+{3010}{}{Sorry, I was just kidding... Actually, I had a few questions for you.}
+{3020}{}{Yeah, right.}
+{4000}{}{Jefferson's the name. I'm mostly repairing various technical junk and there's more of it each day... Armors, plasma rifles, energy cells, you name it. Now did you need something or what? [Looking at you impatiantly]}
+{4010}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{4020}{}{Nope, I think I'll leave you to your work then.}
+{5000}{}{Well, energy cells and weapons are just a part of my work, but I guess you'll hardly find someone else around with so much experience in this area. Anyway, what did you want to know exactly?}
+{5010}{}{I'm currently interested in energy cells and... [You explain everything to Jefferson]}
+{5020}{}{Is there any way to store electrical energy more efficiently? I was thinking... [You explain everything to Jefferson]}
+{5030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
+{6000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps, that should do the trick. Hell, for that money I'll even give you one of these Deans Electronics manuals for free!}
+{6010}{}{I've got that here right now. [Give him the $1500]}
+{6020}{}{Okay, let me fetch it for you... Be right back.}
+{7000}{}{Well, there is a way to do something like that... I could show you a few more pointers, let's say, for three grand. }
+{7010}{}{Okay, I've got that. Here you go.. [Give him $3000]}
+{7020}{}{Okay, let me fetch it for you... Be right back.}
+{8000}{}{[OBSOLETE] That's a pretty complex issue you're talking about, @sex@|boy||girl|. Okay, I guess I could teach you the theory, but you'll have to find a place to produce them yourself. You know, a place with a strong energy source. Anyway, $4500 and we're set.}
+{8010}{}{Here you go. [Give him $4500]}
+{8020}{}{Okay, just let me get the money, be right back.}
+{9000}{}{Well, glad to see you got everything we need to start with, hehe... [Puts the money into one of his small pockets] Okay, let's start then. [Jefferson explains to you everything you wanted to know. It takes a while.]}
+{9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, what? Can't you see I'm busy?}
+{2010}{}{Oh, sorry. I'm *blind*, you know.}
+{2020}{}{Who are you?}
+{2030}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{2040}{}{Ah, nothing. Sorry.}
+{3000}{}{Go playing *blindman* somewhere else then, I gotta work to do.}
+{3010}{}{Sorry, I was just kidding... Actually, I had a few questions for you.}
+{3020}{}{Yeah, right.}
+{4000}{}{Jefferson's the name. I'm mostly repairing various technical junk and there's more of it each day... Armors, plasma rifles, energy cells, you name it. Now did you need something or what? [Looking at you impatiantly]}
+{4010}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{4020}{}{Nope, I think I'll leave you to your work then.}
+{5000}{}{Well, energy cells and weapons are just a part of my work, but I guess you'll hardly find someone else around with so much experience in this area. Anyway, what did you want to know exactly?}
+{5010}{}{I'm currently interested in energy cells and... [You explain everything to Jefferson]}
+{5020}{}{Is there any way to store electrical energy more efficiently? I was thinking... [You explain everything to Jefferson]}
+{5030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
+{6000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps, that should do the trick. Hell, for that money I'll even give you one of these Deans Electronics manuals for free!}
+{6010}{}{I've got that here right now. [Give him the $1500]}
+{6020}{}{Okay, let me fetch it for you... Be right back.}
+{7000}{}{Well, there is a way to do something like that... I could show you a few more pointers, let's say, for three grand. }
+{7010}{}{Okay, I've got that. Here you go.. [Give him $3000]}
+{7020}{}{Okay, let me fetch it for you... Be right back.}
+{8000}{}{[OBSOLETE] That's a pretty complex issue you're talking about, @sex@|boy||girl|. Okay, I guess I could teach you the theory, but you'll have to find a place to produce them yourself. You know, a place with a strong energy source. Anyway, $4500 and we're set.}
+{8010}{}{Here you go. [Give him $4500]}
+{8020}{}{Okay, just let me get the money, be right back.}
+{9000}{}{Well, glad to see you got everything we need to start with, hehe... [Puts the money into one of his small pockets] Okay, let's start then. [Jefferson explains to you everything you wanted to know. It takes a while.]}
+{9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, what? Can't you see I'm busy?}
+{2010}{}{Oh, sorry. I'm *blind*, you know.}
+{2020}{}{Who are you?}
+{2030}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{2040}{}{Ah, nothing. Sorry.}
+{3000}{}{Go playing *blindman* somewhere else then, I gotta work to do.}
+{3010}{}{Sorry, I was just kidding... Actually, I had a few questions for you.}
+{3020}{}{Yeah, right.}
+{4000}{}{Jefferson's the name. I'm mostly repairing various technical junk and there's more of it each day... Armors, plasma rifles, energy cells, you name it. Now did you need something or what? [Looking at you impatiantly]}
+{4010}{}{Say, since you look like the right person to ask... I'm interested in energy production and storage, maybe you could help me with it?}
+{4020}{}{Nope, I think I'll leave you to your work then.}
+{5000}{}{Well, energy cells and weapons are just a part of my work, but I guess you'll hardly find someone else around with so much experience in this area. Anyway, what did you want to know exactly?}
+{5010}{}{I'm currently interested in energy cells and... [You explain everything to Jefferson]}
+{5020}{}{Is there any way to store electrical energy more efficiently? I was thinking... [You explain everything to Jefferson]}
+{5030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
+{6000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps, that should do the trick. Hell, for that money I'll even give you one of these Deans Electronics manuals for free!}
+{6010}{}{I've got that here right now. [Give him the $1500]}
+{6020}{}{Okay, let me fetch it for you... Be right back.}
+{7000}{}{Well, there is a way to do something like that... I could show you a few more pointers, let's say, for three grand. }
+{7010}{}{Okay, I've got that. Here you go.. [Give him $3000]}
+{7020}{}{Okay, let me fetch it for you... Be right back.}
+{8000}{}{[OBSOLETE] That's a pretty complex issue you're talking about, @sex@|boy||girl|. Okay, I guess I could teach you the theory, but you'll have to find a place to produce them yourself. You know, a place with a strong energy source. Anyway, $4500 and we're set.}
+{8010}{}{Here you go. [Give him $4500]}
+{8020}{}{Okay, just let me get the money, be right back.}
+{9000}{}{Well, glad to see you got everything we need to start with, hehe... [Puts the money into one of his small pockets] Okay, let's start then. [Jefferson explains to you everything you wanted to know. It takes a while.]}
+{9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

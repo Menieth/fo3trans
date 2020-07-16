@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Bum}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ay.@@Yo.@@You have a spare few caps maybe?@@Never though I would end up like this...@@Life is a harsh thing.@@What is it?@@Do you need something?@@You don't look like a bum, hah.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ay.@@Yo.@@You have a spare few caps maybe?@@Never though I would end up like this...@@Life is a harsh thing.@@What is it?@@Do you need something?@@You don't look like a bum, hah.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ay.@@Yo.@@You have a spare few caps maybe?@@Never though I would end up like this...@@Life is a harsh thing.@@What is it?@@Do you need something?@@You don't look like a bum, hah.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Ay.@@Yo.@@You have a spare few caps maybe?@@Never though I would end up like this...@@Life is a harsh thing.@@What is it?@@Do you need something?@@You don't look like a bum, hah.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Ay.@@Yo.@@You have a spare few caps maybe?@@Never though I would end up like this...@@Life is a harsh thing.@@What is it?@@Do you need something?@@You don't look like a bum, hah.}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -53,6 +53,186 @@ lang=engl
 {100}{}{Mercenary Recruiter}
 {200}{}{You see a grizzled old mercenary recruiter.}
 {210}{}{It looks like he's in the business of selling bodyguards.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What do you want?}
+{2010}{}{I'm looking to hire some muscle.}
+{2020}{}{Nothing. Bye.}
+{3000}{}{[The recruiter waves a disgruntled mercenary over to you] Okay, there you go. Feed him at least twice a day and don't let him on the furniture.}
+{3010}{}{Thanks, I'll put 'em to good use.}
+{4000}{}{Some error occured. Report this to admins.}
+{4010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{5000}{}{Error, merc not found. Report this to admins.}
+{5010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6010}{}{Damn, didn't realise I was that broke.}
+{7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
+{7010}{}{Your loss.}
+{8000}{}{That's good. Because that's what I do. Definitely made the right decision coming to talk to me. We do not supply any equipments, so you'll have to take care of that bit yourself. So, what are you looking for?}
+{8010}{}{I want someone who fights hand-to-hand.}
+{8020}{}{How about a classic gunman? Pistols, shotguns, rifles, you know what I'm talking about.}
+{8030}{}{Give me one of those insane guys with the huge miniguns and flamers and shit.}
+{8040}{}{Know anyone who can use energy weapons? I want me some of that on my side.}
+{8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
+{8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
+{9000}{}{How much are you willing to pay?}
+{9010}{}{@lex melee1@ caps for a simple thug.}
+{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ caps for a professional fighter.}
+{9040}{}{@lex melee4@ caps for a ninja.}
+{9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
+{10000}{}{How much are you willing to pay?}
+{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ caps for a retired hunter.}
+{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10040}{}{Hold on, let me choose again...}
+{11000}{}{How much are you willing to pay?}
+{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11040}{}{Wait, what were my options again?}
+{12000}{}{How much are you willing to pay?}
+{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12030}{}{Nah, I don't want this type. What are my other options?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What do you want?}
+{2010}{}{I'm looking to hire some muscle.}
+{2020}{}{Nothing. Bye.}
+{3000}{}{[The recruiter waves a disgruntled mercenary over to you] Okay, there you go. Feed him at least twice a day and don't let him on the furniture.}
+{3010}{}{Thanks, I'll put 'em to good use.}
+{4000}{}{Some error occured. Report this to admins.}
+{4010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{5000}{}{Error, merc not found. Report this to admins.}
+{5010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6010}{}{Damn, didn't realise I was that broke.}
+{7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
+{7010}{}{Your loss.}
+{8000}{}{That's good. Because that's what I do. Definitely made the right decision coming to talk to me. We do not supply any equipments, so you'll have to take care of that bit yourself. So, what are you looking for?}
+{8010}{}{I want someone who fights hand-to-hand.}
+{8020}{}{How about a classic gunman? Pistols, shotguns, rifles, you know what I'm talking about.}
+{8030}{}{Give me one of those insane guys with the huge miniguns and flamers and shit.}
+{8040}{}{Know anyone who can use energy weapons? I want me some of that on my side.}
+{8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
+{8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
+{9000}{}{How much are you willing to pay?}
+{9010}{}{@lex melee1@ caps for a simple thug.}
+{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ caps for a professional fighter.}
+{9040}{}{@lex melee4@ caps for a ninja.}
+{9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
+{10000}{}{How much are you willing to pay?}
+{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ caps for a retired hunter.}
+{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10040}{}{Hold on, let me choose again...}
+{11000}{}{How much are you willing to pay?}
+{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11040}{}{Wait, what were my options again?}
+{12000}{}{How much are you willing to pay?}
+{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12030}{}{Nah, I don't want this type. What are my other options?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What do you want?}
+{2010}{}{I'm looking to hire some muscle.}
+{2020}{}{Nothing. Bye.}
+{3000}{}{[The recruiter waves a disgruntled mercenary over to you] Okay, there you go. Feed him at least twice a day and don't let him on the furniture.}
+{3010}{}{Thanks, I'll put 'em to good use.}
+{4000}{}{Some error occured. Report this to admins.}
+{4010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{5000}{}{Error, merc not found. Report this to admins.}
+{5010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6010}{}{Damn, didn't realise I was that broke.}
+{7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
+{7010}{}{Your loss.}
+{8000}{}{That's good. Because that's what I do. Definitely made the right decision coming to talk to me. We do not supply any equipments, so you'll have to take care of that bit yourself. So, what are you looking for?}
+{8010}{}{I want someone who fights hand-to-hand.}
+{8020}{}{How about a classic gunman? Pistols, shotguns, rifles, you know what I'm talking about.}
+{8030}{}{Give me one of those insane guys with the huge miniguns and flamers and shit.}
+{8040}{}{Know anyone who can use energy weapons? I want me some of that on my side.}
+{8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
+{8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
+{9000}{}{How much are you willing to pay?}
+{9010}{}{@lex melee1@ caps for a simple thug.}
+{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ caps for a professional fighter.}
+{9040}{}{@lex melee4@ caps for a ninja.}
+{9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
+{10000}{}{How much are you willing to pay?}
+{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ caps for a retired hunter.}
+{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10040}{}{Hold on, let me choose again...}
+{11000}{}{How much are you willing to pay?}
+{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11040}{}{Wait, what were my options again?}
+{12000}{}{How much are you willing to pay?}
+{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12030}{}{Nah, I don't want this type. What are my other options?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What do you want?}
+{2010}{}{I'm looking to hire some muscle.}
+{2020}{}{Nothing. Bye.}
+{3000}{}{[The recruiter waves a disgruntled mercenary over to you] Okay, there you go. Feed him at least twice a day and don't let him on the furniture.}
+{3010}{}{Thanks, I'll put 'em to good use.}
+{4000}{}{Some error occured. Report this to admins.}
+{4010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{5000}{}{Error, merc not found. Report this to admins.}
+{5010}{}{Yes, of course. I'll do it right away. I love the admins!}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6010}{}{Damn, didn't realise I was that broke.}
+{7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
+{7010}{}{Your loss.}
+{8000}{}{That's good. Because that's what I do. Definitely made the right decision coming to talk to me. We do not supply any equipments, so you'll have to take care of that bit yourself. So, what are you looking for?}
+{8010}{}{I want someone who fights hand-to-hand.}
+{8020}{}{How about a classic gunman? Pistols, shotguns, rifles, you know what I'm talking about.}
+{8030}{}{Give me one of those insane guys with the huge miniguns and flamers and shit.}
+{8040}{}{Know anyone who can use energy weapons? I want me some of that on my side.}
+{8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
+{8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
+{9000}{}{How much are you willing to pay?}
+{9010}{}{@lex melee1@ caps for a simple thug.}
+{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ caps for a professional fighter.}
+{9040}{}{@lex melee4@ caps for a ninja.}
+{9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
+{10000}{}{How much are you willing to pay?}
+{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ caps for a retired hunter.}
+{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10040}{}{Hold on, let me choose again...}
+{11000}{}{How much are you willing to pay?}
+{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11040}{}{Wait, what were my options again?}
+{12000}{}{How much are you willing to pay?}
+{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12030}{}{Nah, I don't want this type. What are my other options?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}

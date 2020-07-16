@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,6 +24,78 @@ lang=engl
 
 [engl]
 {100}{}{Outfitter}
+{1000}{}{Preddialogue settings}
+{1010}{}{Has taken gear}
+{1020}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The unarmed outfit (Spiked knuckles).}
+{2020}{}{The melee outfit (Sledgehammer).}
+{2030}{}{The thrower outfit (Throwing knives).}
+{2040}{}{The gunslinger outfit (.44 Magnum).}
+{2050}{}{The sniper outfit (Hunting rifle).}
+{2060}{}{The energy outfit (Magneto-laser pistol).}
+{2070}{}{The big gunner outfit (Flamethrower).}
+{2080}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{[Exit]}
+{4000}{}{You've already received your gear. Next!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Has taken gear}
+{1020}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The unarmed outfit (Spiked knuckles).}
+{2020}{}{The melee outfit (Sledgehammer).}
+{2030}{}{The thrower outfit (Throwing knives).}
+{2040}{}{The gunslinger outfit (.44 Magnum).}
+{2050}{}{The sniper outfit (Hunting rifle).}
+{2060}{}{The energy outfit (Magneto-laser pistol).}
+{2070}{}{The big gunner outfit (Flamethrower).}
+{2080}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{[Exit]}
+{4000}{}{You've already received your gear. Next!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Has taken gear}
+{1020}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The unarmed outfit (Spiked knuckles).}
+{2020}{}{The melee outfit (Sledgehammer).}
+{2030}{}{The thrower outfit (Throwing knives).}
+{2040}{}{The gunslinger outfit (.44 Magnum).}
+{2050}{}{The sniper outfit (Hunting rifle).}
+{2060}{}{The energy outfit (Magneto-laser pistol).}
+{2070}{}{The big gunner outfit (Flamethrower).}
+{2080}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{[Exit]}
+{4000}{}{You've already received your gear. Next!}
+
+[span]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{Has taken gear}
+{1020}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{The unarmed outfit (Spiked knuckles).}
+{2020}{}{The melee outfit (Sledgehammer).}
+{2030}{}{The thrower outfit (Throwing knives).}
+{2040}{}{The gunslinger outfit (.44 Magnum).}
+{2050}{}{The sniper outfit (Hunting rifle).}
+{2060}{}{The energy outfit (Magneto-laser pistol).}
+{2070}{}{The big gunner outfit (Flamethrower).}
+{2080}{}{Nothing.}
+{3000}{}{Here you go.}
+{3010}{}{[Exit]}
+{4000}{}{You've already received your gear. Next!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Has taken gear}
 {1020}{}{ }

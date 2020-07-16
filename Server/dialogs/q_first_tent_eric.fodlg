@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,38 @@ lang=engl
 {100}{}{Eric}
 {200}{}{A young boy.}
 {210}{}{A young boy with pale blond hair. He looks very self-confident, unlike his father.}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Talk}
+{2000}{}{I'm going to climb up this tree!}
+{2010}{}{Okay...}
+{2020}{}{Me too!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {2000}{}{I'm going to climb up this tree!}

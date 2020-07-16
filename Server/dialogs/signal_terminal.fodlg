@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -22,6 +22,74 @@ lang=engl
 5 5000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
+{2010}{}{[ Status ]}
+{2020}{}{[ Open doors ]}
+{2030}{}{[ Leave ]}
+{3000}{}{[ STATUS OF THE COMPLEX: LABORATORY R800 "FLAMES RESEARCH" OFFLINE, LABORATORY R900 "ARTIFICIAL INTELLEGENT RESEARCH" OFFLINE, SECURITY POST OFFLINE, HQ OFFLINE ]}
+{3010}{}{[ Back ]}
+{3020}{}{[ Leave ]}
+{4000}{}{[ PLEASE INSERT THE KEYCARD ]}
+{4010}{}{[ Back ]}
+{4020}{}{[ Insert the keycard ]}
+{4030}{}{[ Leave ]}
+{5000}{}{[ OPERATING... ]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
+{2010}{}{[ Status ]}
+{2020}{}{[ Open doors ]}
+{2030}{}{[ Leave ]}
+{3000}{}{[ STATUS OF THE COMPLEX: LABORATORY R800 "FLAMES RESEARCH" OFFLINE, LABORATORY R900 "ARTIFICIAL INTELLEGENT RESEARCH" OFFLINE, SECURITY POST OFFLINE, HQ OFFLINE ]}
+{3010}{}{[ Back ]}
+{3020}{}{[ Leave ]}
+{4000}{}{[ PLEASE INSERT THE KEYCARD ]}
+{4010}{}{[ Back ]}
+{4020}{}{[ Insert the keycard ]}
+{4030}{}{[ Leave ]}
+{5000}{}{[ OPERATING... ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
+{2010}{}{[ Status ]}
+{2020}{}{[ Open doors ]}
+{2030}{}{[ Leave ]}
+{3000}{}{[ STATUS OF THE COMPLEX: LABORATORY R800 "FLAMES RESEARCH" OFFLINE, LABORATORY R900 "ARTIFICIAL INTELLEGENT RESEARCH" OFFLINE, SECURITY POST OFFLINE, HQ OFFLINE ]}
+{3010}{}{[ Back ]}
+{3020}{}{[ Leave ]}
+{4000}{}{[ PLEASE INSERT THE KEYCARD ]}
+{4010}{}{[ Back ]}
+{4020}{}{[ Insert the keycard ]}
+{4030}{}{[ Leave ]}
+{5000}{}{[ OPERATING... ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
+{2010}{}{[ Status ]}
+{2020}{}{[ Open doors ]}
+{2030}{}{[ Leave ]}
+{3000}{}{[ STATUS OF THE COMPLEX: LABORATORY R800 "FLAMES RESEARCH" OFFLINE, LABORATORY R900 "ARTIFICIAL INTELLEGENT RESEARCH" OFFLINE, SECURITY POST OFFLINE, HQ OFFLINE ]}
+{3010}{}{[ Back ]}
+{3020}{}{[ Leave ]}
+{4000}{}{[ PLEASE INSERT THE KEYCARD ]}
+{4010}{}{[ Back ]}
+{4020}{}{[ Insert the keycard ]}
+{4030}{}{[ Leave ]}
+{5000}{}{[ OPERATING... ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

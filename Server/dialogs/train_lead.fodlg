@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,58 @@ lang=engl
 [engl]
 {100}{}{Le Mark}
 {210}{}{Here you are... Meet the soldier.}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{If fighting is sure to result in victory, then you must fight! San Tzu said that, and I'd say he knows a little more about fighting...}
+{2010}{}{Eeh...? }
+{3000}{}{Are you sure? This require some proper experience and expierience!}
+{3010}{}{Then my answer is no.}
+{3020}{}{YES sir}
+{4000}{}{What... What is it?}
+{4010}{}{I want to be a Great Leader like you. Our nation needs us!}
+{4020}{}{Nothing. Bye.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{If fighting is sure to result in victory, then you must fight! San Tzu said that, and I'd say he knows a little more about fighting...}
+{2010}{}{Eeh...? }
+{3000}{}{Are you sure? This require some proper experience and expierience!}
+{3010}{}{Then my answer is no.}
+{3020}{}{YES sir}
+{4000}{}{What... What is it?}
+{4010}{}{I want to be a Great Leader like you. Our nation needs us!}
+{4020}{}{Nothing. Bye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{If fighting is sure to result in victory, then you must fight! San Tzu said that, and I'd say he knows a little more about fighting...}
+{2010}{}{Eeh...? }
+{3000}{}{Are you sure? This require some proper experience and expierience!}
+{3010}{}{Then my answer is no.}
+{3020}{}{YES sir}
+{4000}{}{What... What is it?}
+{4010}{}{I want to be a Great Leader like you. Our nation needs us!}
+{4020}{}{Nothing. Bye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{has no perk}
+{2000}{}{If fighting is sure to result in victory, then you must fight! San Tzu said that, and I'd say he knows a little more about fighting...}
+{2010}{}{Eeh...? }
+{3000}{}{Are you sure? This require some proper experience and expierience!}
+{3010}{}{Then my answer is no.}
+{3020}{}{YES sir}
+{4000}{}{What... What is it?}
+{4010}{}{I want to be a Great Leader like you. Our nation needs us!}
+{4020}{}{Nothing. Bye.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{If fighting is sure to result in victory, then you must fight! San Tzu said that, and I'd say he knows a little more about fighting...}

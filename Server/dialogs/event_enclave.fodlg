@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,58 @@ lang=engl
 
 [engl]
 {100}{}{Enclave Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want join to join the battle}
+{2020}{}{Uh, nothing.}
+{3000}{}{Fine. Our men need a backup, so you better fight with whole your power for your nation. Here is your ammunition, you better not loose it. Do you understand that, private? Are you ready for the battle?}
+{3010}{}{Yes, sir!}
+{3020}{}{Ehm... Later.}
+{4000}{}{WHAT?! YOU ARE NOT IN THE LIST! DID YOU THINK YOU COULD FOOL ME?}
+{4010}{}{I better go...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want join to join the battle}
+{2020}{}{Uh, nothing.}
+{3000}{}{Fine. Our men need a backup, so you better fight with whole your power for your nation. Here is your ammunition, you better not loose it. Do you understand that, private? Are you ready for the battle?}
+{3010}{}{Yes, sir!}
+{3020}{}{Ehm... Later.}
+{4000}{}{WHAT?! YOU ARE NOT IN THE LIST! DID YOU THINK YOU COULD FOOL ME?}
+{4010}{}{I better go...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want join to join the battle}
+{2020}{}{Uh, nothing.}
+{3000}{}{Fine. Our men need a backup, so you better fight with whole your power for your nation. Here is your ammunition, you better not loose it. Do you understand that, private? Are you ready for the battle?}
+{3010}{}{Yes, sir!}
+{3020}{}{Ehm... Later.}
+{4000}{}{WHAT?! YOU ARE NOT IN THE LIST! DID YOU THINK YOU COULD FOOL ME?}
+{4010}{}{I better go...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want join to join the battle}
+{2020}{}{Uh, nothing.}
+{3000}{}{Fine. Our men need a backup, so you better fight with whole your power for your nation. Here is your ammunition, you better not loose it. Do you understand that, private? Are you ready for the battle?}
+{3010}{}{Yes, sir!}
+{3020}{}{Ehm... Later.}
+{4000}{}{WHAT?! YOU ARE NOT IN THE LIST! DID YOU THINK YOU COULD FOOL ME?}
+{4010}{}{I better go...}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it, you, wasteland shit?}

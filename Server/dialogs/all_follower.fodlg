@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -14,6 +15,30 @@ lang=engl
 {200}{}{You see someone from the Followers of the Apocalypse.}
 {240}{}{You see a dead follower of the apocalypse.}
 {260}{}{You see a slain follower of the apocalypse.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}

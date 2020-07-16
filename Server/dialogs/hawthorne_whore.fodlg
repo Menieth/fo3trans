@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,50 @@ lang=engl
 
 [engl]
 {100}{}{Whore}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
+{2010}{}{Hey, babe. What do you think about some party togather, eh?}
+{2020}{}{Back off, dirty bitch!}
+{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
+{3020}{}{Oh right! Let's do it...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
+{2010}{}{Hey, babe. What do you think about some party togather, eh?}
+{2020}{}{Back off, dirty bitch!}
+{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
+{3020}{}{Oh right! Let's do it...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
+{2010}{}{Hey, babe. What do you think about some party togather, eh?}
+{2020}{}{Back off, dirty bitch!}
+{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
+{3020}{}{Oh right! Let's do it...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
+{2010}{}{Hey, babe. What do you think about some party togather, eh?}
+{2020}{}{Back off, dirty bitch!}
+{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
+{3020}{}{Oh right! Let's do it...}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}

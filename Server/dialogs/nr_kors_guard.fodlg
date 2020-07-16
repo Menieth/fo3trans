@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +14,34 @@ lang=engl
 {100}{}{Bodyguard}
 {200}{}{You see a guard.}
 {210}{}{You see a guard, he's cracking his knuckles.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@
+}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@
+}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@
+}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@
+}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@::stares::@@You're starting to annoy me.@@::stares::@@::stares::@@::stares::@@::stares::@@

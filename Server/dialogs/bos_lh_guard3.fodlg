@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +16,30 @@ lang=engl
 {210}{}{You see a Paladin of the Brotherhood of Steel.}
 {240}{}{You see a dead Paladin.}
 {260}{}{You see a slain Paladin.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello brother.@@Are you allowed to be in here?@@This is the storage room.@@Don't touch anything.@@Are you on duty?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello brother.@@Are you allowed to be in here?@@This is the storage room.@@Don't touch anything.@@Are you on duty?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello brother.@@Are you allowed to be in here?@@This is the storage room.@@Don't touch anything.@@Are you on duty?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello brother.@@Are you allowed to be in here?@@This is the storage room.@@Don't touch anything.@@Are you on duty?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello brother.@@Are you allowed to be in here?@@This is the storage room.@@Don't touch anything.@@Are you on duty?}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,66 @@ lang=engl
 {100}{}{Soldier from Sierra}
 {200}{}{You see an Soldier from Sierra.}
 {210}{}{Looks for someone who was born before The Great War.}
+{1000}{}{Predialogue installations}
+{1010}{}{Power is on}
+{2000}{}{<<Sierra Army Complex Terminal>>
+>>AUTHORIZED PERSONNEL ONLY
+
+>External storage magazine.
+>Control panel.}
+{2010}{}{[Open the external storage.]}
+{2020}{}{[Log off.]}
+{3000}{}{Openning...}
+{3010}{}{[Back]}
+{3020}{}{[Log off]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Power is on}
+{2000}{}{<<Sierra Army Complex Terminal>>
+>>AUTHORIZED PERSONNEL ONLY
+
+>External storage magazine.
+>Control panel.}
+{2010}{}{[Open the external storage.]}
+{2020}{}{[Log off.]}
+{3000}{}{Openning...}
+{3010}{}{[Back]}
+{3020}{}{[Log off]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Power is on}
+{2000}{}{<<Sierra Army Complex Terminal>>
+>>AUTHORIZED PERSONNEL ONLY
+
+>External storage magazine.
+>Control panel.}
+{2010}{}{[Open the external storage.]}
+{2020}{}{[Log off.]}
+{3000}{}{Openning...}
+{3010}{}{[Back]}
+{3020}{}{[Log off]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Power is on}
+{2000}{}{<<Sierra Army Complex Terminal>>
+>>AUTHORIZED PERSONNEL ONLY
+
+>External storage magazine.
+>Control panel.}
+{2010}{}{[Open the external storage.]}
+{2020}{}{[Log off.]}
+{3000}{}{Openning...}
+{3010}{}{[Back]}
+{3020}{}{[Log off]}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Power is on}
 {2000}{}{<<Sierra Army Complex Terminal>>

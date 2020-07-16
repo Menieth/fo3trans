@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -28,6 +29,90 @@ lang=engl
 {100}{}{Taylor}
 {200}{}{You see the town's trader, Tine.}
 {210}{}{You see a cheery man with close-cropped hair.}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{normal}
+{1030}{}{normal, known}
+{2000}{}{Hello, stranger! What can I do for you today?}
+{2010}{}{I'd like to do some trading. [Barter]}
+{2020}{}{Nuthin'. [Exit]}
+{2030}{}{Didn't I saw you in Adytum the last time?}
+{3000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
+{4000}{}{My old shop was in Adytum, yup. But the room was just so small and I started to hate that place...}
+{4010}{}{So that's why you thought this place in the Boneyard fits you more?}
+{4020}{}{Ok, gotta go.}
+{5000}{}{Yup. What now, you want to buy something? Check out my inventory...}
+{5010}{}{I'd like to do some trading. [Barter]}
+{5020}{}{Maybe next time. [Exit]}
+{6000}{}{Hello, you again! It is always good to see a customer again. What can I do for you today?}
+{6010}{}{I'd like to do some trading. [Barter]}
+{6020}{}{Nuthin'. [Exit]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{normal}
+{1030}{}{normal, known}
+{2000}{}{Hello, stranger! What can I do for you today?}
+{2010}{}{I'd like to do some trading. [Barter]}
+{2020}{}{Nuthin'. [Exit]}
+{2030}{}{Didn't I saw you in Adytum the last time?}
+{3000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
+{4000}{}{My old shop was in Adytum, yup. But the room was just so small and I started to hate that place...}
+{4010}{}{So that's why you thought this place in the Boneyard fits you more?}
+{4020}{}{Ok, gotta go.}
+{5000}{}{Yup. What now, you want to buy something? Check out my inventory...}
+{5010}{}{I'd like to do some trading. [Barter]}
+{5020}{}{Maybe next time. [Exit]}
+{6000}{}{Hello, you again! It is always good to see a customer again. What can I do for you today?}
+{6010}{}{I'd like to do some trading. [Barter]}
+{6020}{}{Nuthin'. [Exit]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{normal}
+{1030}{}{normal, known}
+{2000}{}{Hello, stranger! What can I do for you today?}
+{2010}{}{I'd like to do some trading. [Barter]}
+{2020}{}{Nuthin'. [Exit]}
+{2030}{}{Didn't I saw you in Adytum the last time?}
+{3000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
+{4000}{}{My old shop was in Adytum, yup. But the room was just so small and I started to hate that place...}
+{4010}{}{So that's why you thought this place in the Boneyard fits you more?}
+{4020}{}{Ok, gotta go.}
+{5000}{}{Yup. What now, you want to buy something? Check out my inventory...}
+{5010}{}{I'd like to do some trading. [Barter]}
+{5020}{}{Maybe next time. [Exit]}
+{6000}{}{Hello, you again! It is always good to see a customer again. What can I do for you today?}
+{6010}{}{I'd like to do some trading. [Barter]}
+{6020}{}{Nuthin'. [Exit]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ugly}
+{1020}{}{normal}
+{1030}{}{normal, known}
+{2000}{}{Hello, stranger! What can I do for you today?}
+{2010}{}{I'd like to do some trading. [Barter]}
+{2020}{}{Nuthin'. [Exit]}
+{2030}{}{Didn't I saw you in Adytum the last time?}
+{3000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
+{4000}{}{My old shop was in Adytum, yup. But the room was just so small and I started to hate that place...}
+{4010}{}{So that's why you thought this place in the Boneyard fits you more?}
+{4020}{}{Ok, gotta go.}
+{5000}{}{Yup. What now, you want to buy something? Check out my inventory...}
+{5010}{}{I'd like to do some trading. [Barter]}
+{5020}{}{Maybe next time. [Exit]}
+{6000}{}{Hello, you again! It is always good to see a customer again. What can I do for you today?}
+{6010}{}{I'd like to do some trading. [Barter]}
+{6020}{}{Nuthin'. [Exit]}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{normal}

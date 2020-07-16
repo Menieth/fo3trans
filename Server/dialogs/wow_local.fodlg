@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Local}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there. I don't remember you around.@@Hello.@@You must be an outsider, right?@@What is it?@@Yeah?@@I heard someone took the old radiostation.@@Be careful in northed district.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there. I don't remember you around.@@Hello.@@You must be an outsider, right?@@What is it?@@Yeah?@@I heard someone took the old radiostation.@@Be careful in northed district.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there. I don't remember you around.@@Hello.@@You must be an outsider, right?@@What is it?@@Yeah?@@I heard someone took the old radiostation.@@Be careful in northed district.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey there. I don't remember you around.@@Hello.@@You must be an outsider, right?@@What is it?@@Yeah?@@I heard someone took the old radiostation.@@Be careful in northed district.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there. I don't remember you around.@@Hello.@@You must be an outsider, right?@@What is it?@@Yeah?@@I heard someone took the old radiostation.@@Be careful in northed district.}

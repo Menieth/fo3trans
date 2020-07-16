@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -23,4 +23,28 @@ lang=engl
 {100000001}{}{Mmooo?!}
 {100000001}{}{Moooo?!?}
 {100000001}{}{Mmmmooo!??}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Moo.@@Mooooo.@@Moo?@@Mooo.@@Moooo!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Moo.@@Mooooo.@@Moo?@@Mooo.@@Moooo!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Moo.@@Mooooo.@@Moo?@@Mooo.@@Moooo!}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Moo.@@Mooooo.@@Moo?@@Mooo.@@Moooo!}
 

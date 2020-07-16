@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -11,6 +11,31 @@ lang=engl
 2 2000 None 0 &
 
 [engl]
+{100}{}{error}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Devoted to the victims of COVID19 pandemic, among whom there were members of FOnline communty. Additionaly this monument is devoted to doctors, who risked their own lives in order to safe ours.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Devoted to the victims of COVID19 pandemic, among whom there were members of FOnline communty. Additionaly this monument is devoted to doctors, who risked their own lives in order to safe ours.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Devoted to the victims of COVID19 pandemic, among whom there were members of FOnline communty. Additionaly this monument is devoted to doctors, who risked their own lives in order to safe ours.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Devoted to the victims of COVID19 pandemic, among whom there were members of FOnline communty. Additionaly this monument is devoted to doctors, who risked their own lives in order to safe ours.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Devoted to the victims of COVID19 pandemic, among whom there were members of FOnline communty. Additionaly this monument is devoted to doctors, who risked their own lives in order to safe ours.}

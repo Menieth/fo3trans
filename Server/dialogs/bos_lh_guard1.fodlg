@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +16,30 @@ lang=engl
 {210}{}{You see a Paladin of the Brotherhood of Steel.}
 {240}{}{You see a dead Brotherhood Guard.}
 {260}{}{You see a slain Brotherhood Guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Good day, brother.@@Looking good. Keep up the good work.@@Hello brother, everything is secure.@@Sorry, I shouldn't be talking to anyone. You know how it is.@@You should talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Child}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello@@Hey there.@@I don't know you.@@Hello, big stranger.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello@@Hey there.@@I don't know you.@@Hello, big stranger.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello@@Hey there.@@I don't know you.@@Hello, big stranger.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hello@@Hey there.@@I don't know you.@@Hello, big stranger.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello@@Hey there.@@I don't know you.@@Hello, big stranger.}

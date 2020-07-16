@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -21,6 +22,58 @@ lang=engl
 {200}{}{You see a thin old woman who's seen better times.}
 {210}{}{You see the Widow Rooney.}
 {210}{}{You see a thin old woman with warts and a very furry upper lip.}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{1020}{}{ciaeiiu}
+{1030}{}{ao?ae}
+{1040}{}{Hated}
+{2000}{}{Hello there. What can old Widow Rooney do fer ya?}
+{2010}{}{Nothing, I was just leaving. Bye.}
+{3000}{}{Poor thing, you're more than a little touched in the head, aren't you?}
+{3010}{}{Momm?}
+{4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{1020}{}{ciaeiiu}
+{1030}{}{ao?ae}
+{1040}{}{Hated}
+{2000}{}{Hello there. What can old Widow Rooney do fer ya?}
+{2010}{}{Nothing, I was just leaving. Bye.}
+{3000}{}{Poor thing, you're more than a little touched in the head, aren't you?}
+{3010}{}{Momm?}
+{4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{1020}{}{ciaeiiu}
+{1030}{}{ao?ae}
+{1040}{}{Hated}
+{2000}{}{Hello there. What can old Widow Rooney do fer ya?}
+{2010}{}{Nothing, I was just leaving. Bye.}
+{3000}{}{Poor thing, you're more than a little touched in the head, aren't you?}
+{3010}{}{Momm?}
+{4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ia ciaeiiu}
+{1020}{}{ciaeiiu}
+{1030}{}{ao?ae}
+{1040}{}{Hated}
+{2000}{}{Hello there. What can old Widow Rooney do fer ya?}
+{2010}{}{Nothing, I was just leaving. Bye.}
+{3000}{}{Poor thing, you're more than a little touched in the head, aren't you?}
+{3010}{}{Momm?}
+{4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}

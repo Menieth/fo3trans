@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -82,6 +82,298 @@ lang=engl
 {200}{}{You see an old man.}
 {210}{}{You see Chris, the gas station attendant.}
 {210}{}{You see the sloppy old man in purple clothes.}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{1030}{}{non-member, quest}
+{1040}{}{non-member, no quest, known}
+{1050}{}{non-member, no quest, unknown}
+{2000}{}{Howdy, stranger. Ain't seen you around these parts before. What can old Chris do for you?}
+{2010}{}{What is this place?}
+{2020}{}{I'm just looking around.}
+{2030}{}{I need to get into that fenced-in area over there.}
+{3000}{}{This here's my place, Chris's. It's a service station - ain't you ever seen one of those, in old magazines and such? That's what I got here - a service station.}
+{3010}{}{I'm looking for Navarro. Is this it?}
+{3020}{}{I'm looking for Navarro. Is this it?}
+{3030}{}{Sorry, got to go.}
+{4000}{}{Navarro you say? I'm an old timer, tend to forget names and places. Quite sure I heard of it once, but can't get it now... Beats me. It can take a while for the memories to refresh, you know? Say, maybe you could do something for the old man Chris in the meantime. Whaddya say, @sex@|boy||girl|?}
+{4010}{}{Sure what do you need?}
+{4020}{}{Your memories will bleach... And so will your bones. Die!}
+{5000}{}{Ya see, no matter how hard I try to save energy cells, there's somehow always a shortage of them. And my business, repairing cars and stuff, it can't rumble without those, ya know what I mean?}
+{5010}{}{You need energy cells?}
+{5020}{}{You need energy cells?}
+{5030}{}{None of my business. I'm outta here.}
+{6000}{}{Hell, I surely do! You go find 60 Micro Fusion Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{6010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{6020}{}{Forget it, I'm outta here.}
+{7000}{}{Hell, I surely do! You go find 50 Small Energy Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{7010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{7020}{}{Forget it, I'm outta here.}
+{8000}{}{Look, it's you again. Any luck finding those energy cells for me?}
+{8010}{}{I guess this is your lucky day -- 60 Micro Fusion Cells for you to waste. Here.}
+{8020}{}{I guess this is your lucky day -- 50 Small Energy Cells for you to waste. Here.}
+{8030}{}{No, not yet. I'll keep looking, though.}
+{9000}{}{You saved my business, @sex@|son||beauty|. Now, time to keep my part of the bargain...}
+{9010}{}{You better do, old man.}
+{9020}{}{I think I'm not interested in Navarro anymore... Glad I could help you and all, but now I have to keep going. Bye!}
+{10000}{}{Okay look... Now you gonna turn away and leave this place. Did you get me?}
+{10010}{}{What?! No way, old man!}
+{10020}{}{Uhm... Alright, alright... I am leaving.}
+{11000}{}{Well, I be damned -- it's you again. What do you want this time, stranger?}
+{11010}{}{What is this place?}
+{11020}{}{I'm just looking around.}
+{11030}{}{I need to get into that fenced-in area over there.}
+{12000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be poking around somewhere, don't be doing it here.}
+{12010}{}{Hey, don't you be preaching that shit to me old man!}
+{12020}{}{Yeah, right.}
+{13000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be looking for some Narrator, don't be doing it here.}
+{13010}{}{Hey, don't you be preaching that shit to me old man!}
+{13020}{}{Yeah, right.}
+{14000}{}{Hello there.@@Glad to see you again.@@What, superiors being too hard with you?@@You should check out the terminal.}
+{15000}{}{Well that's all well and good, but you can't be poking around here. Now get out before I have you shot.}
+{15010}{}{How about you give me that key or I cause some serious bleeding on your end? That pea-shooter you have isn't going to stop me and nobody else is around to save you.}
+{15020}{}{Come on, man. There's no reason to cause a ruckus. How about I make it worth your while?}
+{15030}{}{Enclave inspector. [You quickly flash him a photo of Richard Nixon taped to a Holodisk.] I have been ordered to search the area due to reports of recent trespassers.}
+{16000}{}{Whoa, now. No need to get violent. But I promise there's absolutely nothing there. Take the damn key.}
+{16010}{}{Your internal organs thank you, Chris.}
+{17000}{}{I can do it for 500 caps, and only because I'm running low on supplies here.}
+{17010}{}{Here, take the caps.}
+{17020}{}{I can't give you 500. But look at this place. You could use the money to fix it up. 300 is as high as I'll go.}
+{17030}{}{I don't have that much money on me. I'll be back.}
+{18000}{}{I had no idea, sir. Please, take this key and forgive me for my incompetence.}
+{18010}{}{Nothing wrong with being cautious. Carry on.}
+{19000}{}{Pleasure doing business with you. }
+{19010}{}{Yeah, shove it up your ass.}
+{20000}{}{Fine. Just take the key and leave me the hell alone.}
+{20010}{}{I'll do just that.}
+{21000}{}{Hello there.@@New here, aren't you?@@What, superiors being too hard with you?}
+{21010}{}{I need to get into that fenced-in area over there.}
+{22000}{}{Why? There's nothing there except for some old junk.}
+{22010}{}{Then there's no reason not to let me in, right?}
+{23000}{}{Fine, here's the key.}
+{23010}{}{Thanks.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{1030}{}{non-member, quest}
+{1040}{}{non-member, no quest, known}
+{1050}{}{non-member, no quest, unknown}
+{2000}{}{Howdy, stranger. Ain't seen you around these parts before. What can old Chris do for you?}
+{2010}{}{What is this place?}
+{2020}{}{I'm just looking around.}
+{2030}{}{I need to get into that fenced-in area over there.}
+{3000}{}{This here's my place, Chris's. It's a service station - ain't you ever seen one of those, in old magazines and such? That's what I got here - a service station.}
+{3010}{}{I'm looking for Navarro. Is this it?}
+{3020}{}{I'm looking for Navarro. Is this it?}
+{3030}{}{Sorry, got to go.}
+{4000}{}{Navarro you say? I'm an old timer, tend to forget names and places. Quite sure I heard of it once, but can't get it now... Beats me. It can take a while for the memories to refresh, you know? Say, maybe you could do something for the old man Chris in the meantime. Whaddya say, @sex@|boy||girl|?}
+{4010}{}{Sure what do you need?}
+{4020}{}{Your memories will bleach... And so will your bones. Die!}
+{5000}{}{Ya see, no matter how hard I try to save energy cells, there's somehow always a shortage of them. And my business, repairing cars and stuff, it can't rumble without those, ya know what I mean?}
+{5010}{}{You need energy cells?}
+{5020}{}{You need energy cells?}
+{5030}{}{None of my business. I'm outta here.}
+{6000}{}{Hell, I surely do! You go find 60 Micro Fusion Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{6010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{6020}{}{Forget it, I'm outta here.}
+{7000}{}{Hell, I surely do! You go find 50 Small Energy Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{7010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{7020}{}{Forget it, I'm outta here.}
+{8000}{}{Look, it's you again. Any luck finding those energy cells for me?}
+{8010}{}{I guess this is your lucky day -- 60 Micro Fusion Cells for you to waste. Here.}
+{8020}{}{I guess this is your lucky day -- 50 Small Energy Cells for you to waste. Here.}
+{8030}{}{No, not yet. I'll keep looking, though.}
+{9000}{}{You saved my business, @sex@|son||beauty|. Now, time to keep my part of the bargain...}
+{9010}{}{You better do, old man.}
+{9020}{}{I think I'm not interested in Navarro anymore... Glad I could help you and all, but now I have to keep going. Bye!}
+{10000}{}{Okay look... Now you gonna turn away and leave this place. Did you get me?}
+{10010}{}{What?! No way, old man!}
+{10020}{}{Uhm... Alright, alright... I am leaving.}
+{11000}{}{Well, I be damned -- it's you again. What do you want this time, stranger?}
+{11010}{}{What is this place?}
+{11020}{}{I'm just looking around.}
+{11030}{}{I need to get into that fenced-in area over there.}
+{12000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be poking around somewhere, don't be doing it here.}
+{12010}{}{Hey, don't you be preaching that shit to me old man!}
+{12020}{}{Yeah, right.}
+{13000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be looking for some Narrator, don't be doing it here.}
+{13010}{}{Hey, don't you be preaching that shit to me old man!}
+{13020}{}{Yeah, right.}
+{14000}{}{Hello there.@@Glad to see you again.@@What, superiors being too hard with you?@@You should check out the terminal.}
+{15000}{}{Well that's all well and good, but you can't be poking around here. Now get out before I have you shot.}
+{15010}{}{How about you give me that key or I cause some serious bleeding on your end? That pea-shooter you have isn't going to stop me and nobody else is around to save you.}
+{15020}{}{Come on, man. There's no reason to cause a ruckus. How about I make it worth your while?}
+{15030}{}{Enclave inspector. [You quickly flash him a photo of Richard Nixon taped to a Holodisk.] I have been ordered to search the area due to reports of recent trespassers.}
+{16000}{}{Whoa, now. No need to get violent. But I promise there's absolutely nothing there. Take the damn key.}
+{16010}{}{Your internal organs thank you, Chris.}
+{17000}{}{I can do it for 500 caps, and only because I'm running low on supplies here.}
+{17010}{}{Here, take the caps.}
+{17020}{}{I can't give you 500. But look at this place. You could use the money to fix it up. 300 is as high as I'll go.}
+{17030}{}{I don't have that much money on me. I'll be back.}
+{18000}{}{I had no idea, sir. Please, take this key and forgive me for my incompetence.}
+{18010}{}{Nothing wrong with being cautious. Carry on.}
+{19000}{}{Pleasure doing business with you. }
+{19010}{}{Yeah, shove it up your ass.}
+{20000}{}{Fine. Just take the key and leave me the hell alone.}
+{20010}{}{I'll do just that.}
+{21000}{}{Hello there.@@New here, aren't you?@@What, superiors being too hard with you?}
+{21010}{}{I need to get into that fenced-in area over there.}
+{22000}{}{Why? There's nothing there except for some old junk.}
+{22010}{}{Then there's no reason not to let me in, right?}
+{23000}{}{Fine, here's the key.}
+{23010}{}{Thanks.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{1030}{}{non-member, quest}
+{1040}{}{non-member, no quest, known}
+{1050}{}{non-member, no quest, unknown}
+{2000}{}{Howdy, stranger. Ain't seen you around these parts before. What can old Chris do for you?}
+{2010}{}{What is this place?}
+{2020}{}{I'm just looking around.}
+{2030}{}{I need to get into that fenced-in area over there.}
+{3000}{}{This here's my place, Chris's. It's a service station - ain't you ever seen one of those, in old magazines and such? That's what I got here - a service station.}
+{3010}{}{I'm looking for Navarro. Is this it?}
+{3020}{}{I'm looking for Navarro. Is this it?}
+{3030}{}{Sorry, got to go.}
+{4000}{}{Navarro you say? I'm an old timer, tend to forget names and places. Quite sure I heard of it once, but can't get it now... Beats me. It can take a while for the memories to refresh, you know? Say, maybe you could do something for the old man Chris in the meantime. Whaddya say, @sex@|boy||girl|?}
+{4010}{}{Sure what do you need?}
+{4020}{}{Your memories will bleach... And so will your bones. Die!}
+{5000}{}{Ya see, no matter how hard I try to save energy cells, there's somehow always a shortage of them. And my business, repairing cars and stuff, it can't rumble without those, ya know what I mean?}
+{5010}{}{You need energy cells?}
+{5020}{}{You need energy cells?}
+{5030}{}{None of my business. I'm outta here.}
+{6000}{}{Hell, I surely do! You go find 60 Micro Fusion Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{6010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{6020}{}{Forget it, I'm outta here.}
+{7000}{}{Hell, I surely do! You go find 50 Small Energy Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{7010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{7020}{}{Forget it, I'm outta here.}
+{8000}{}{Look, it's you again. Any luck finding those energy cells for me?}
+{8010}{}{I guess this is your lucky day -- 60 Micro Fusion Cells for you to waste. Here.}
+{8020}{}{I guess this is your lucky day -- 50 Small Energy Cells for you to waste. Here.}
+{8030}{}{No, not yet. I'll keep looking, though.}
+{9000}{}{You saved my business, @sex@|son||beauty|. Now, time to keep my part of the bargain...}
+{9010}{}{You better do, old man.}
+{9020}{}{I think I'm not interested in Navarro anymore... Glad I could help you and all, but now I have to keep going. Bye!}
+{10000}{}{Okay look... Now you gonna turn away and leave this place. Did you get me?}
+{10010}{}{What?! No way, old man!}
+{10020}{}{Uhm... Alright, alright... I am leaving.}
+{11000}{}{Well, I be damned -- it's you again. What do you want this time, stranger?}
+{11010}{}{What is this place?}
+{11020}{}{I'm just looking around.}
+{11030}{}{I need to get into that fenced-in area over there.}
+{12000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be poking around somewhere, don't be doing it here.}
+{12010}{}{Hey, don't you be preaching that shit to me old man!}
+{12020}{}{Yeah, right.}
+{13000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be looking for some Narrator, don't be doing it here.}
+{13010}{}{Hey, don't you be preaching that shit to me old man!}
+{13020}{}{Yeah, right.}
+{14000}{}{Hello there.@@Glad to see you again.@@What, superiors being too hard with you?@@You should check out the terminal.}
+{15000}{}{Well that's all well and good, but you can't be poking around here. Now get out before I have you shot.}
+{15010}{}{How about you give me that key or I cause some serious bleeding on your end? That pea-shooter you have isn't going to stop me and nobody else is around to save you.}
+{15020}{}{Come on, man. There's no reason to cause a ruckus. How about I make it worth your while?}
+{15030}{}{Enclave inspector. [You quickly flash him a photo of Richard Nixon taped to a Holodisk.] I have been ordered to search the area due to reports of recent trespassers.}
+{16000}{}{Whoa, now. No need to get violent. But I promise there's absolutely nothing there. Take the damn key.}
+{16010}{}{Your internal organs thank you, Chris.}
+{17000}{}{I can do it for 500 caps, and only because I'm running low on supplies here.}
+{17010}{}{Here, take the caps.}
+{17020}{}{I can't give you 500. But look at this place. You could use the money to fix it up. 300 is as high as I'll go.}
+{17030}{}{I don't have that much money on me. I'll be back.}
+{18000}{}{I had no idea, sir. Please, take this key and forgive me for my incompetence.}
+{18010}{}{Nothing wrong with being cautious. Carry on.}
+{19000}{}{Pleasure doing business with you. }
+{19010}{}{Yeah, shove it up your ass.}
+{20000}{}{Fine. Just take the key and leave me the hell alone.}
+{20010}{}{I'll do just that.}
+{21000}{}{Hello there.@@New here, aren't you?@@What, superiors being too hard with you?}
+{21010}{}{I need to get into that fenced-in area over there.}
+{22000}{}{Why? There's nothing there except for some old junk.}
+{22010}{}{Then there's no reason not to let me in, right?}
+{23000}{}{Fine, here's the key.}
+{23010}{}{Thanks.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{1030}{}{non-member, quest}
+{1040}{}{non-member, no quest, known}
+{1050}{}{non-member, no quest, unknown}
+{2000}{}{Howdy, stranger. Ain't seen you around these parts before. What can old Chris do for you?}
+{2010}{}{What is this place?}
+{2020}{}{I'm just looking around.}
+{2030}{}{I need to get into that fenced-in area over there.}
+{3000}{}{This here's my place, Chris's. It's a service station - ain't you ever seen one of those, in old magazines and such? That's what I got here - a service station.}
+{3010}{}{I'm looking for Navarro. Is this it?}
+{3020}{}{I'm looking for Navarro. Is this it?}
+{3030}{}{Sorry, got to go.}
+{4000}{}{Navarro you say? I'm an old timer, tend to forget names and places. Quite sure I heard of it once, but can't get it now... Beats me. It can take a while for the memories to refresh, you know? Say, maybe you could do something for the old man Chris in the meantime. Whaddya say, @sex@|boy||girl|?}
+{4010}{}{Sure what do you need?}
+{4020}{}{Your memories will bleach... And so will your bones. Die!}
+{5000}{}{Ya see, no matter how hard I try to save energy cells, there's somehow always a shortage of them. And my business, repairing cars and stuff, it can't rumble without those, ya know what I mean?}
+{5010}{}{You need energy cells?}
+{5020}{}{You need energy cells?}
+{5030}{}{None of my business. I'm outta here.}
+{6000}{}{Hell, I surely do! You go find 60 Micro Fusion Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{6010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{6020}{}{Forget it, I'm outta here.}
+{7000}{}{Hell, I surely do! You go find 50 Small Energy Cells and bring it to old Chris and I'll ask around about that Narrator you seek... Deal?}
+{7010}{}{Navarro, it's called Navarro! I'll be back with the energy cells, don't worry.}
+{7020}{}{Forget it, I'm outta here.}
+{8000}{}{Look, it's you again. Any luck finding those energy cells for me?}
+{8010}{}{I guess this is your lucky day -- 60 Micro Fusion Cells for you to waste. Here.}
+{8020}{}{I guess this is your lucky day -- 50 Small Energy Cells for you to waste. Here.}
+{8030}{}{No, not yet. I'll keep looking, though.}
+{9000}{}{You saved my business, @sex@|son||beauty|. Now, time to keep my part of the bargain...}
+{9010}{}{You better do, old man.}
+{9020}{}{I think I'm not interested in Navarro anymore... Glad I could help you and all, but now I have to keep going. Bye!}
+{10000}{}{Okay look... Now you gonna turn away and leave this place. Did you get me?}
+{10010}{}{What?! No way, old man!}
+{10020}{}{Uhm... Alright, alright... I am leaving.}
+{11000}{}{Well, I be damned -- it's you again. What do you want this time, stranger?}
+{11010}{}{What is this place?}
+{11020}{}{I'm just looking around.}
+{11030}{}{I need to get into that fenced-in area over there.}
+{12000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be poking around somewhere, don't be doing it here.}
+{12010}{}{Hey, don't you be preaching that shit to me old man!}
+{12020}{}{Yeah, right.}
+{13000}{}{Well, I don't mean to be rude or nothing, but this here's private property. If you're going to be looking for some Narrator, don't be doing it here.}
+{13010}{}{Hey, don't you be preaching that shit to me old man!}
+{13020}{}{Yeah, right.}
+{14000}{}{Hello there.@@Glad to see you again.@@What, superiors being too hard with you?@@You should check out the terminal.}
+{15000}{}{Well that's all well and good, but you can't be poking around here. Now get out before I have you shot.}
+{15010}{}{How about you give me that key or I cause some serious bleeding on your end? That pea-shooter you have isn't going to stop me and nobody else is around to save you.}
+{15020}{}{Come on, man. There's no reason to cause a ruckus. How about I make it worth your while?}
+{15030}{}{Enclave inspector. [You quickly flash him a photo of Richard Nixon taped to a Holodisk.] I have been ordered to search the area due to reports of recent trespassers.}
+{16000}{}{Whoa, now. No need to get violent. But I promise there's absolutely nothing there. Take the damn key.}
+{16010}{}{Your internal organs thank you, Chris.}
+{17000}{}{I can do it for 500 caps, and only because I'm running low on supplies here.}
+{17010}{}{Here, take the caps.}
+{17020}{}{I can't give you 500. But look at this place. You could use the money to fix it up. 300 is as high as I'll go.}
+{17030}{}{I don't have that much money on me. I'll be back.}
+{18000}{}{I had no idea, sir. Please, take this key and forgive me for my incompetence.}
+{18010}{}{Nothing wrong with being cautious. Carry on.}
+{19000}{}{Pleasure doing business with you. }
+{19010}{}{Yeah, shove it up your ass.}
+{20000}{}{Fine. Just take the key and leave me the hell alone.}
+{20010}{}{I'll do just that.}
+{21000}{}{Hello there.@@New here, aren't you?@@What, superiors being too hard with you?}
+{21010}{}{I need to get into that fenced-in area over there.}
+{22000}{}{Why? There's nothing there except for some old junk.}
+{22010}{}{Then there's no reason not to let me in, right?}
+{23000}{}{Fine, here's the key.}
+{23010}{}{Thanks.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

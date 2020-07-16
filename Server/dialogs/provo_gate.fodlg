@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -17,6 +17,50 @@ lang=engl
 
 [engl]
 {100}{}{Guard}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Your pass?}
+{2010}{}{Pass? What pass?}
+{2020}{}{"Black sheep".}
+{2030}{}{I am just passing by. See ya.}
+{3000}{}{Get lost. Outsiders are not welcomed here.}
+{4000}{}{Get in, soldier.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Your pass?}
+{2010}{}{Pass? What pass?}
+{2020}{}{"Black sheep".}
+{2030}{}{I am just passing by. See ya.}
+{3000}{}{Get lost. Outsiders are not welcomed here.}
+{4000}{}{Get in, soldier.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Your pass?}
+{2010}{}{Pass? What pass?}
+{2020}{}{"Black sheep".}
+{2030}{}{I am just passing by. See ya.}
+{3000}{}{Get lost. Outsiders are not welcomed here.}
+{4000}{}{Get in, soldier.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Your pass?}
+{2010}{}{Pass? What pass?}
+{2020}{}{"Black sheep".}
+{2030}{}{I am just passing by. See ya.}
+{3000}{}{Get lost. Outsiders are not welcomed here.}
+{4000}{}{Get in, soldier.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Your pass?}

@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -18,6 +19,50 @@ lang=engl
 {100}{}{Frederick}
 {200}{}{You see a tall, irate, balding man.}
 {210}{}{You see Frederick, the car stop owner.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah, what do you want?}
+{2010}{}{I was looking to business.}
+{2020}{}{Nothing, bye.}
+{3000}{}{Business, fine. Here's what I got.}
+{3010}{}{[Barter]}
+{3020}{}{That did it for me, thanks.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah, what do you want?}
+{2010}{}{I was looking to business.}
+{2020}{}{Nothing, bye.}
+{3000}{}{Business, fine. Here's what I got.}
+{3010}{}{[Barter]}
+{3020}{}{That did it for me, thanks.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah, what do you want?}
+{2010}{}{I was looking to business.}
+{2020}{}{Nothing, bye.}
+{3000}{}{Business, fine. Here's what I got.}
+{3010}{}{[Barter]}
+{3020}{}{That did it for me, thanks.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah, what do you want?}
+{2010}{}{I was looking to business.}
+{2020}{}{Nothing, bye.}
+{3000}{}{Business, fine. Here's what I got.}
+{3010}{}{[Barter]}
+{3020}{}{That did it for me, thanks.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah, what do you want?}

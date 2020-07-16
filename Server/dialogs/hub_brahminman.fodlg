@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -61,6 +61,222 @@ lang=engl
 [engl]
 {100}{}{Cleve}
 {200}{}{You see Cleve, the Brahmin trader.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey you! Cleve my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
+{2010}{}{What should I do with a Brahmin?}
+{2020}{}{Yes, I would like to buy a Brahmin.}
+{2030}{}{I want to sell a Brahmin to you.}
+{2040}{}{I've cleaned your pen a bit, need a refund for those dirty boots.}
+{2050}{}{Any jobs?}
+{2060}{}{Nothing. Bye.@@Nevermind, bye.}
+{2070}{}{Uhma ug.}
+{3000}{}{Moo-moo very good.}
+{3010}{}{Maybe, let me see...}
+{4000}{}{So, these here are all the Brahmin that I have. Do you want to buy or do you not want to buy? This is the question. Ah yes... one Brahmin costs @lex price@. Hope, you can bring up the money, or...}
+{4010}{}{I'll take that Brahmin. [You give him @lex price@ caps.]}
+{4020}{}{I changed my mind, I can't afford anything right now.}
+{5000}{}{Here she is. Take care of this wonderful Brahmin, I beg you.}
+{5010}{}{Thanks, I'll put 'em to good use.}
+{6000}{}{Some error occured. Report this to admins.}
+{6010}{}{Yes, of course. I'll do it right away.}
+{7000}{}{Error, Brahmin not found. Report this to admins.}
+{7010}{}{Yes, of course. I'll do it right away.}
+{8000}{}{That's too expensive for you.}
+{8010}{}{You're right...}
+{9000}{}{Eh, nevermind. Go... yes, you. Go away. }
+{10000}{}{Selling a Brahmin, eh? Okay, let me see what you have...}
+{10010}{}{I have a perfectly healthy Brahmin here. I'm sure you will like it...}
+{10020}{}{Nevermind, I changed my mind...@@Nevermind, I don't want to sell a Brahmin now.}
+{11000}{}{What a fine Brahmin. I'll give you @lex price@ caps for it}
+{11010}{}{This is a good price. Here you have your new Brahmin.}
+{11020}{}{No, this is not enough. I am going to someone else who'd rather give me a fair price.}
+{12000}{}{Then don't steal my time.}
+{12010}{}{[Exit]}
+{13000}{}{A good deal. Do you want something else?}
+{13010}{}{Yes, I would like to buy a Brahmin.}
+{13020}{}{I want to sell another Brahmin to you.}
+{13030}{}{Nothing yet. Bye.}
+{14000}{}{I'm sorry, I don't have any brahmin left to sell you.}
+{14010}{}{Ok then,  bye}
+{15000}{}{Sorry, I already have enough brahmin. Come back later.}
+{15010}{}{What a bummer. Oh well, bye.}
+{16000}{}{I could always use some help with... you know, dirty job. Get a shovel and help me with cleaning. I'm paying per crap!}
+{16010}{}{Do you happen to have some shovel, I could use one you know...}
+{16020}{}{Okay.}
+{16030}{}{[Leave] Uhh, okay. I will see what I can do...}
+{17000}{}{Great, now the pen doesn't stink anymore. Well, but you do. Take the cash and get a wash.}
+{17010}{}{[Leave] Sure, will do...}
+{18000}{}{Here, grab this one... and return it to me after you finish the job.}
+{18010}{}{[Leave] Yes sir!}
+{19000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+{20000}{}{I've changed my mind... [Too many party members already]}
+{20010}{}{What a bummer.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey you! Cleve my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
+{2010}{}{What should I do with a Brahmin?}
+{2020}{}{Yes, I would like to buy a Brahmin.}
+{2030}{}{I want to sell a Brahmin to you.}
+{2040}{}{I've cleaned your pen a bit, need a refund for those dirty boots.}
+{2050}{}{Any jobs?}
+{2060}{}{Nothing. Bye.@@Nevermind, bye.}
+{2070}{}{Uhma ug.}
+{3000}{}{Moo-moo very good.}
+{3010}{}{Maybe, let me see...}
+{4000}{}{So, these here are all the Brahmin that I have. Do you want to buy or do you not want to buy? This is the question. Ah yes... one Brahmin costs @lex price@. Hope, you can bring up the money, or...}
+{4010}{}{I'll take that Brahmin. [You give him @lex price@ caps.]}
+{4020}{}{I changed my mind, I can't afford anything right now.}
+{5000}{}{Here she is. Take care of this wonderful Brahmin, I beg you.}
+{5010}{}{Thanks, I'll put 'em to good use.}
+{6000}{}{Some error occured. Report this to admins.}
+{6010}{}{Yes, of course. I'll do it right away.}
+{7000}{}{Error, Brahmin not found. Report this to admins.}
+{7010}{}{Yes, of course. I'll do it right away.}
+{8000}{}{That's too expensive for you.}
+{8010}{}{You're right...}
+{9000}{}{Eh, nevermind. Go... yes, you. Go away. }
+{10000}{}{Selling a Brahmin, eh? Okay, let me see what you have...}
+{10010}{}{I have a perfectly healthy Brahmin here. I'm sure you will like it...}
+{10020}{}{Nevermind, I changed my mind...@@Nevermind, I don't want to sell a Brahmin now.}
+{11000}{}{What a fine Brahmin. I'll give you @lex price@ caps for it}
+{11010}{}{This is a good price. Here you have your new Brahmin.}
+{11020}{}{No, this is not enough. I am going to someone else who'd rather give me a fair price.}
+{12000}{}{Then don't steal my time.}
+{12010}{}{[Exit]}
+{13000}{}{A good deal. Do you want something else?}
+{13010}{}{Yes, I would like to buy a Brahmin.}
+{13020}{}{I want to sell another Brahmin to you.}
+{13030}{}{Nothing yet. Bye.}
+{14000}{}{I'm sorry, I don't have any brahmin left to sell you.}
+{14010}{}{Ok then,  bye}
+{15000}{}{Sorry, I already have enough brahmin. Come back later.}
+{15010}{}{What a bummer. Oh well, bye.}
+{16000}{}{I could always use some help with... you know, dirty job. Get a shovel and help me with cleaning. I'm paying per crap!}
+{16010}{}{Do you happen to have some shovel, I could use one you know...}
+{16020}{}{Okay.}
+{16030}{}{[Leave] Uhh, okay. I will see what I can do...}
+{17000}{}{Great, now the pen doesn't stink anymore. Well, but you do. Take the cash and get a wash.}
+{17010}{}{[Leave] Sure, will do...}
+{18000}{}{Here, grab this one... and return it to me after you finish the job.}
+{18010}{}{[Leave] Yes sir!}
+{19000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+{20000}{}{I've changed my mind... [Too many party members already]}
+{20010}{}{What a bummer.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey you! Cleve my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
+{2010}{}{What should I do with a Brahmin?}
+{2020}{}{Yes, I would like to buy a Brahmin.}
+{2030}{}{I want to sell a Brahmin to you.}
+{2040}{}{I've cleaned your pen a bit, need a refund for those dirty boots.}
+{2050}{}{Any jobs?}
+{2060}{}{Nothing. Bye.@@Nevermind, bye.}
+{2070}{}{Uhma ug.}
+{3000}{}{Moo-moo very good.}
+{3010}{}{Maybe, let me see...}
+{4000}{}{So, these here are all the Brahmin that I have. Do you want to buy or do you not want to buy? This is the question. Ah yes... one Brahmin costs @lex price@. Hope, you can bring up the money, or...}
+{4010}{}{I'll take that Brahmin. [You give him @lex price@ caps.]}
+{4020}{}{I changed my mind, I can't afford anything right now.}
+{5000}{}{Here she is. Take care of this wonderful Brahmin, I beg you.}
+{5010}{}{Thanks, I'll put 'em to good use.}
+{6000}{}{Some error occured. Report this to admins.}
+{6010}{}{Yes, of course. I'll do it right away.}
+{7000}{}{Error, Brahmin not found. Report this to admins.}
+{7010}{}{Yes, of course. I'll do it right away.}
+{8000}{}{That's too expensive for you.}
+{8010}{}{You're right...}
+{9000}{}{Eh, nevermind. Go... yes, you. Go away. }
+{10000}{}{Selling a Brahmin, eh? Okay, let me see what you have...}
+{10010}{}{I have a perfectly healthy Brahmin here. I'm sure you will like it...}
+{10020}{}{Nevermind, I changed my mind...@@Nevermind, I don't want to sell a Brahmin now.}
+{11000}{}{What a fine Brahmin. I'll give you @lex price@ caps for it}
+{11010}{}{This is a good price. Here you have your new Brahmin.}
+{11020}{}{No, this is not enough. I am going to someone else who'd rather give me a fair price.}
+{12000}{}{Then don't steal my time.}
+{12010}{}{[Exit]}
+{13000}{}{A good deal. Do you want something else?}
+{13010}{}{Yes, I would like to buy a Brahmin.}
+{13020}{}{I want to sell another Brahmin to you.}
+{13030}{}{Nothing yet. Bye.}
+{14000}{}{I'm sorry, I don't have any brahmin left to sell you.}
+{14010}{}{Ok then,  bye}
+{15000}{}{Sorry, I already have enough brahmin. Come back later.}
+{15010}{}{What a bummer. Oh well, bye.}
+{16000}{}{I could always use some help with... you know, dirty job. Get a shovel and help me with cleaning. I'm paying per crap!}
+{16010}{}{Do you happen to have some shovel, I could use one you know...}
+{16020}{}{Okay.}
+{16030}{}{[Leave] Uhh, okay. I will see what I can do...}
+{17000}{}{Great, now the pen doesn't stink anymore. Well, but you do. Take the cash and get a wash.}
+{17010}{}{[Leave] Sure, will do...}
+{18000}{}{Here, grab this one... and return it to me after you finish the job.}
+{18010}{}{[Leave] Yes sir!}
+{19000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+{20000}{}{I've changed my mind... [Too many party members already]}
+{20010}{}{What a bummer.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey you! Cleve my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
+{2010}{}{What should I do with a Brahmin?}
+{2020}{}{Yes, I would like to buy a Brahmin.}
+{2030}{}{I want to sell a Brahmin to you.}
+{2040}{}{I've cleaned your pen a bit, need a refund for those dirty boots.}
+{2050}{}{Any jobs?}
+{2060}{}{Nothing. Bye.@@Nevermind, bye.}
+{2070}{}{Uhma ug.}
+{3000}{}{Moo-moo very good.}
+{3010}{}{Maybe, let me see...}
+{4000}{}{So, these here are all the Brahmin that I have. Do you want to buy or do you not want to buy? This is the question. Ah yes... one Brahmin costs @lex price@. Hope, you can bring up the money, or...}
+{4010}{}{I'll take that Brahmin. [You give him @lex price@ caps.]}
+{4020}{}{I changed my mind, I can't afford anything right now.}
+{5000}{}{Here she is. Take care of this wonderful Brahmin, I beg you.}
+{5010}{}{Thanks, I'll put 'em to good use.}
+{6000}{}{Some error occured. Report this to admins.}
+{6010}{}{Yes, of course. I'll do it right away.}
+{7000}{}{Error, Brahmin not found. Report this to admins.}
+{7010}{}{Yes, of course. I'll do it right away.}
+{8000}{}{That's too expensive for you.}
+{8010}{}{You're right...}
+{9000}{}{Eh, nevermind. Go... yes, you. Go away. }
+{10000}{}{Selling a Brahmin, eh? Okay, let me see what you have...}
+{10010}{}{I have a perfectly healthy Brahmin here. I'm sure you will like it...}
+{10020}{}{Nevermind, I changed my mind...@@Nevermind, I don't want to sell a Brahmin now.}
+{11000}{}{What a fine Brahmin. I'll give you @lex price@ caps for it}
+{11010}{}{This is a good price. Here you have your new Brahmin.}
+{11020}{}{No, this is not enough. I am going to someone else who'd rather give me a fair price.}
+{12000}{}{Then don't steal my time.}
+{12010}{}{[Exit]}
+{13000}{}{A good deal. Do you want something else?}
+{13010}{}{Yes, I would like to buy a Brahmin.}
+{13020}{}{I want to sell another Brahmin to you.}
+{13030}{}{Nothing yet. Bye.}
+{14000}{}{I'm sorry, I don't have any brahmin left to sell you.}
+{14010}{}{Ok then,  bye}
+{15000}{}{Sorry, I already have enough brahmin. Come back later.}
+{15010}{}{What a bummer. Oh well, bye.}
+{16000}{}{I could always use some help with... you know, dirty job. Get a shovel and help me with cleaning. I'm paying per crap!}
+{16010}{}{Do you happen to have some shovel, I could use one you know...}
+{16020}{}{Okay.}
+{16030}{}{[Leave] Uhh, okay. I will see what I can do...}
+{17000}{}{Great, now the pen doesn't stink anymore. Well, but you do. Take the cash and get a wash.}
+{17010}{}{[Leave] Sure, will do...}
+{18000}{}{Here, grab this one... and return it to me after you finish the job.}
+{18010}{}{[Leave] Yes sir!}
+{19000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+{20000}{}{I've changed my mind... [Too many party members already]}
+{20010}{}{What a bummer.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Cleve my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}

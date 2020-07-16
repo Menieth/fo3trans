@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -25,4 +26,28 @@ lang=engl
 {100000005}{}{Brother, you are not allowed to enter the storage room.}
 {100000006}{}{Initiate, you are not allowed to enter the computer room.}
 {100000007}{}{You've been warned. . .}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but now.@@I am not allowed to talk to you.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but now.@@I am not allowed to talk to you.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but now.@@I am not allowed to talk to you.}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but now.@@I am not allowed to talk to you.}
 

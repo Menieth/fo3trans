@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -83,6 +83,306 @@ lang=engl
 {100}{}{Doctor Redwolf}
 {200}{}{Doctor Redwolf.}
 {210}{}{Doctor Redwolf. He looks sad.}
+{1000}{}{Predialogue installations}
+{1010}{}{Mutant}
+{1020}{}{Unknown player}
+{1030}{}{Known player}
+{2000}{}{I'm Redwolf, "working" here as doctor, but actually, just wasting time playing with my pets. [ He points at the rad scorpion near him. ]}
+{2010}{}{Why are you here?}
+{2020}{}{What a shame. }
+{3000}{}{And why are YOU here? I am the replicant, S18 dweller, just like you.}
+{3010}{}{Fantastic... Bye.}
+{3020}{}{Can you tell me more about S18?}
+{4000}{}{I wish. But I don't know much... Same like you. I woke up in my chamber 10 years ago. Was one of the first dwellers who actually left the Vault. I managed to hack one of the terminals there and find out that it was S18... Whatever the thing means.}
+{4010}{}{Hmh...}
+{5000}{}{What can I do for you?}
+{5010}{}{I need medical help.}
+{5020}{}{Do you have some work for me?}
+{5030}{}{Lets trade?}
+{5040}{}{What is this place?}
+{5050}{}{Can I buy stimpacks from you?}
+{5060}{}{You said something about replicants... What does "replicant" mean?}
+{5070}{}{Can you tell me anything about proper usage of medcine?}
+{5080}{}{Nah, nothing.}
+{5090}{}{Hey, I got hypodermics from Sally.}
+{5100}{}{Anything else I can help you with?}
+{5110}{}{I found Bruce. He is near the pond.}
+{6000}{}{Here we go... Don't move please...}
+{6010}{}{Thank you, Doc.}
+{7000}{}{Hmm... Well, I need some syrgines from Sally, She must be somewhere in the town.}
+{7010}{}{No, it's boring. Next time.}
+{7020}{}{Ok, I'll be do it..}
+{8000}{}{Thank you.}
+{9000}{}{Look at that... Another one has just left its cozy chamber. So how is it?}
+{9010}{}{I suppose you are a local doctor...}
+{10000}{}{Yes, I am Doctor Sebastian Redwolf and right now you are in Rockside... A settlement built by dwellers from General Atomics Experimental Vault S18.}
+{10010}{}{S18...? It is... I heard it somewhere...}
+{11000}{}{Seems like you don't remember anything. Don't worry, it turned out that each replicant doesn't remember about his past. I suppose you don't remember your true name either, huh? How should I call you then?}
+{11010}{}{@pname@, call me @pname@.}
+{12000}{}{Fine than ,@pname@. How can I help you?}
+{12010}{}{So... who are you once again?}
+{13000}{}{Sorry, but I am not a trader.}
+{14000}{}{35 caps per one stimpak.}
+{14010}{}{I will take one.}
+{14020}{}{I will take 5.}
+{15000}{}{Rockside. A small settlement built by Vault dwellers from S18... General Atmoics Vault.}
+{15010}{}{What is going on in the world then?}
+{16000}{}{Well, California and Nevada are now sinking in war among big organisations. In simple words - the whole thing went crazy, so I would suggest you to pack your things and maybe get somewhere far, far away from here. I heard it is quite peaceful in Arizona.}
+{16010}{}{I see, well I need to discuss another stuff...}
+{16020}{}{It was nice to listen, but I need to go now.}
+{17000}{}{Medcine? Everything what you should know is that stimpaks and superstimpaks are your best friends in this radioactive holocaust. There are different types of drugs as well, but it's better avoid using them, if you don't want to end your life in few years. Also, you should improve your First Aid skill if you want to be more effective medic. See this health points number in your pip-boy action interface? [he points somewhere down of your screen] If you get 0, you will get into clinical death, and if it goes -20 then you will just die.}
+{17010}{}{Thanks, Doc.}
+{18000}{}{Well, I don't know. That's what was written in that Terminal about us.}
+{18010}{}{Great...}
+{19000}{}{Many thanks, @pname@. Here take this, I am sure you will need it some day.}
+{19010}{}{Anything else I can help you with?}
+{19020}{}{Alright, see you.}
+{20000}{}{Chris? Oh no, don't even ask, I will not give any to him.}
+{20010}{}{Why?}
+{21000}{}{Because this guy eats buffout like a damn bramin and don't even pay for it. I tell you once again, I will not give any to this guy.}
+{22000}{}{I just want to warn you that this guy may not even pay you for such kind delivery. But well... It is up on you, anyway.}
+{23000}{}{Hah, sure... You should learn how to lie correctly though.}
+{24000}{}{Somebody ate too much buffout again, eh? Well, here it is...}
+{25000}{}{Hey, I... What a hell? A supermutant? Seriously? What is fucking wrong with that system?}
+{25010}{}{What is wrong with me?}
+{26000}{}{You are... You are... eh... It is a very seldom case among replicants like you. I have no freaking idea why some of you awaken being a mutant. As I read in one of the terminals here, the technology of cloning starts with an injection of a special liquid containing a small portion of not active samples of FEV. Later they take some blood samples from you in order to insert it in the mashine... And as it says, sometimes FEV can activate itself in your blood and cause such mutation... As I said, I have no clue what all this stuff means though.}
+{26010}{}{Oh... great...}
+{27000}{}{Yeah, I understand how you feel at the moment, but try to look on it from other side...}
+{27010}{}{Yeah, thanks for advice... Can I heal it somehow?}
+{28000}{}{To tell you honestly - I don't know.}
+{28010}{}{Amazing... Who are you anyway?}
+{29000}{}{Well, you may know my pet scorpio - Joseph. [ He points at the rad scorpio near him ] I feed them with mentats. Well, I have another one also - his name is Bruce. And I can't find him anywhere, can you please look for him? I am sure he must be somewhere in Rockside.}
+{29010}{}{Fine, I will fine him.}
+{29020}{}{Nah, sounds like some pile of bullshit for me.}
+{30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Mutant}
+{1020}{}{Unknown player}
+{1030}{}{Known player}
+{2000}{}{I'm Redwolf, "working" here as doctor, but actually, just wasting time playing with my pets. [ He points at the rad scorpion near him. ]}
+{2010}{}{Why are you here?}
+{2020}{}{What a shame. }
+{3000}{}{And why are YOU here? I am the replicant, S18 dweller, just like you.}
+{3010}{}{Fantastic... Bye.}
+{3020}{}{Can you tell me more about S18?}
+{4000}{}{I wish. But I don't know much... Same like you. I woke up in my chamber 10 years ago. Was one of the first dwellers who actually left the Vault. I managed to hack one of the terminals there and find out that it was S18... Whatever the thing means.}
+{4010}{}{Hmh...}
+{5000}{}{What can I do for you?}
+{5010}{}{I need medical help.}
+{5020}{}{Do you have some work for me?}
+{5030}{}{Lets trade?}
+{5040}{}{What is this place?}
+{5050}{}{Can I buy stimpacks from you?}
+{5060}{}{You said something about replicants... What does "replicant" mean?}
+{5070}{}{Can you tell me anything about proper usage of medcine?}
+{5080}{}{Nah, nothing.}
+{5090}{}{Hey, I got hypodermics from Sally.}
+{5100}{}{Anything else I can help you with?}
+{5110}{}{I found Bruce. He is near the pond.}
+{6000}{}{Here we go... Don't move please...}
+{6010}{}{Thank you, Doc.}
+{7000}{}{Hmm... Well, I need some syrgines from Sally, She must be somewhere in the town.}
+{7010}{}{No, it's boring. Next time.}
+{7020}{}{Ok, I'll be do it..}
+{8000}{}{Thank you.}
+{9000}{}{Look at that... Another one has just left its cozy chamber. So how is it?}
+{9010}{}{I suppose you are a local doctor...}
+{10000}{}{Yes, I am Doctor Sebastian Redwolf and right now you are in Rockside... A settlement built by dwellers from General Atomics Experimental Vault S18.}
+{10010}{}{S18...? It is... I heard it somewhere...}
+{11000}{}{Seems like you don't remember anything. Don't worry, it turned out that each replicant doesn't remember about his past. I suppose you don't remember your true name either, huh? How should I call you then?}
+{11010}{}{@pname@, call me @pname@.}
+{12000}{}{Fine than ,@pname@. How can I help you?}
+{12010}{}{So... who are you once again?}
+{13000}{}{Sorry, but I am not a trader.}
+{14000}{}{35 caps per one stimpak.}
+{14010}{}{I will take one.}
+{14020}{}{I will take 5.}
+{15000}{}{Rockside. A small settlement built by Vault dwellers from S18... General Atmoics Vault.}
+{15010}{}{What is going on in the world then?}
+{16000}{}{Well, California and Nevada are now sinking in war among big organisations. In simple words - the whole thing went crazy, so I would suggest you to pack your things and maybe get somewhere far, far away from here. I heard it is quite peaceful in Arizona.}
+{16010}{}{I see, well I need to discuss another stuff...}
+{16020}{}{It was nice to listen, but I need to go now.}
+{17000}{}{Medcine? Everything what you should know is that stimpaks and superstimpaks are your best friends in this radioactive holocaust. There are different types of drugs as well, but it's better avoid using them, if you don't want to end your life in few years. Also, you should improve your First Aid skill if you want to be more effective medic. See this health points number in your pip-boy action interface? [he points somewhere down of your screen] If you get 0, you will get into clinical death, and if it goes -20 then you will just die.}
+{17010}{}{Thanks, Doc.}
+{18000}{}{Well, I don't know. That's what was written in that Terminal about us.}
+{18010}{}{Great...}
+{19000}{}{Many thanks, @pname@. Here take this, I am sure you will need it some day.}
+{19010}{}{Anything else I can help you with?}
+{19020}{}{Alright, see you.}
+{20000}{}{Chris? Oh no, don't even ask, I will not give any to him.}
+{20010}{}{Why?}
+{21000}{}{Because this guy eats buffout like a damn bramin and don't even pay for it. I tell you once again, I will not give any to this guy.}
+{22000}{}{I just want to warn you that this guy may not even pay you for such kind delivery. But well... It is up on you, anyway.}
+{23000}{}{Hah, sure... You should learn how to lie correctly though.}
+{24000}{}{Somebody ate too much buffout again, eh? Well, here it is...}
+{25000}{}{Hey, I... What a hell? A supermutant? Seriously? What is fucking wrong with that system?}
+{25010}{}{What is wrong with me?}
+{26000}{}{You are... You are... eh... It is a very seldom case among replicants like you. I have no freaking idea why some of you awaken being a mutant. As I read in one of the terminals here, the technology of cloning starts with an injection of a special liquid containing a small portion of not active samples of FEV. Later they take some blood samples from you in order to insert it in the mashine... And as it says, sometimes FEV can activate itself in your blood and cause such mutation... As I said, I have no clue what all this stuff means though.}
+{26010}{}{Oh... great...}
+{27000}{}{Yeah, I understand how you feel at the moment, but try to look on it from other side...}
+{27010}{}{Yeah, thanks for advice... Can I heal it somehow?}
+{28000}{}{To tell you honestly - I don't know.}
+{28010}{}{Amazing... Who are you anyway?}
+{29000}{}{Well, you may know my pet scorpio - Joseph. [ He points at the rad scorpio near him ] I feed them with mentats. Well, I have another one also - his name is Bruce. And I can't find him anywhere, can you please look for him? I am sure he must be somewhere in Rockside.}
+{29010}{}{Fine, I will fine him.}
+{29020}{}{Nah, sounds like some pile of bullshit for me.}
+{30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Mutant}
+{1020}{}{Unknown player}
+{1030}{}{Known player}
+{2000}{}{I'm Redwolf, "working" here as doctor, but actually, just wasting time playing with my pets. [ He points at the rad scorpion near him. ]}
+{2010}{}{Why are you here?}
+{2020}{}{What a shame. }
+{3000}{}{And why are YOU here? I am the replicant, S18 dweller, just like you.}
+{3010}{}{Fantastic... Bye.}
+{3020}{}{Can you tell me more about S18?}
+{4000}{}{I wish. But I don't know much... Same like you. I woke up in my chamber 10 years ago. Was one of the first dwellers who actually left the Vault. I managed to hack one of the terminals there and find out that it was S18... Whatever the thing means.}
+{4010}{}{Hmh...}
+{5000}{}{What can I do for you?}
+{5010}{}{I need medical help.}
+{5020}{}{Do you have some work for me?}
+{5030}{}{Lets trade?}
+{5040}{}{What is this place?}
+{5050}{}{Can I buy stimpacks from you?}
+{5060}{}{You said something about replicants... What does "replicant" mean?}
+{5070}{}{Can you tell me anything about proper usage of medcine?}
+{5080}{}{Nah, nothing.}
+{5090}{}{Hey, I got hypodermics from Sally.}
+{5100}{}{Anything else I can help you with?}
+{5110}{}{I found Bruce. He is near the pond.}
+{6000}{}{Here we go... Don't move please...}
+{6010}{}{Thank you, Doc.}
+{7000}{}{Hmm... Well, I need some syrgines from Sally, She must be somewhere in the town.}
+{7010}{}{No, it's boring. Next time.}
+{7020}{}{Ok, I'll be do it..}
+{8000}{}{Thank you.}
+{9000}{}{Look at that... Another one has just left its cozy chamber. So how is it?}
+{9010}{}{I suppose you are a local doctor...}
+{10000}{}{Yes, I am Doctor Sebastian Redwolf and right now you are in Rockside... A settlement built by dwellers from General Atomics Experimental Vault S18.}
+{10010}{}{S18...? It is... I heard it somewhere...}
+{11000}{}{Seems like you don't remember anything. Don't worry, it turned out that each replicant doesn't remember about his past. I suppose you don't remember your true name either, huh? How should I call you then?}
+{11010}{}{@pname@, call me @pname@.}
+{12000}{}{Fine than ,@pname@. How can I help you?}
+{12010}{}{So... who are you once again?}
+{13000}{}{Sorry, but I am not a trader.}
+{14000}{}{35 caps per one stimpak.}
+{14010}{}{I will take one.}
+{14020}{}{I will take 5.}
+{15000}{}{Rockside. A small settlement built by Vault dwellers from S18... General Atmoics Vault.}
+{15010}{}{What is going on in the world then?}
+{16000}{}{Well, California and Nevada are now sinking in war among big organisations. In simple words - the whole thing went crazy, so I would suggest you to pack your things and maybe get somewhere far, far away from here. I heard it is quite peaceful in Arizona.}
+{16010}{}{I see, well I need to discuss another stuff...}
+{16020}{}{It was nice to listen, but I need to go now.}
+{17000}{}{Medcine? Everything what you should know is that stimpaks and superstimpaks are your best friends in this radioactive holocaust. There are different types of drugs as well, but it's better avoid using them, if you don't want to end your life in few years. Also, you should improve your First Aid skill if you want to be more effective medic. See this health points number in your pip-boy action interface? [he points somewhere down of your screen] If you get 0, you will get into clinical death, and if it goes -20 then you will just die.}
+{17010}{}{Thanks, Doc.}
+{18000}{}{Well, I don't know. That's what was written in that Terminal about us.}
+{18010}{}{Great...}
+{19000}{}{Many thanks, @pname@. Here take this, I am sure you will need it some day.}
+{19010}{}{Anything else I can help you with?}
+{19020}{}{Alright, see you.}
+{20000}{}{Chris? Oh no, don't even ask, I will not give any to him.}
+{20010}{}{Why?}
+{21000}{}{Because this guy eats buffout like a damn bramin and don't even pay for it. I tell you once again, I will not give any to this guy.}
+{22000}{}{I just want to warn you that this guy may not even pay you for such kind delivery. But well... It is up on you, anyway.}
+{23000}{}{Hah, sure... You should learn how to lie correctly though.}
+{24000}{}{Somebody ate too much buffout again, eh? Well, here it is...}
+{25000}{}{Hey, I... What a hell? A supermutant? Seriously? What is fucking wrong with that system?}
+{25010}{}{What is wrong with me?}
+{26000}{}{You are... You are... eh... It is a very seldom case among replicants like you. I have no freaking idea why some of you awaken being a mutant. As I read in one of the terminals here, the technology of cloning starts with an injection of a special liquid containing a small portion of not active samples of FEV. Later they take some blood samples from you in order to insert it in the mashine... And as it says, sometimes FEV can activate itself in your blood and cause such mutation... As I said, I have no clue what all this stuff means though.}
+{26010}{}{Oh... great...}
+{27000}{}{Yeah, I understand how you feel at the moment, but try to look on it from other side...}
+{27010}{}{Yeah, thanks for advice... Can I heal it somehow?}
+{28000}{}{To tell you honestly - I don't know.}
+{28010}{}{Amazing... Who are you anyway?}
+{29000}{}{Well, you may know my pet scorpio - Joseph. [ He points at the rad scorpio near him ] I feed them with mentats. Well, I have another one also - his name is Bruce. And I can't find him anywhere, can you please look for him? I am sure he must be somewhere in Rockside.}
+{29010}{}{Fine, I will fine him.}
+{29020}{}{Nah, sounds like some pile of bullshit for me.}
+{30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Mutant}
+{1020}{}{Unknown player}
+{1030}{}{Known player}
+{2000}{}{I'm Redwolf, "working" here as doctor, but actually, just wasting time playing with my pets. [ He points at the rad scorpion near him. ]}
+{2010}{}{Why are you here?}
+{2020}{}{What a shame. }
+{3000}{}{And why are YOU here? I am the replicant, S18 dweller, just like you.}
+{3010}{}{Fantastic... Bye.}
+{3020}{}{Can you tell me more about S18?}
+{4000}{}{I wish. But I don't know much... Same like you. I woke up in my chamber 10 years ago. Was one of the first dwellers who actually left the Vault. I managed to hack one of the terminals there and find out that it was S18... Whatever the thing means.}
+{4010}{}{Hmh...}
+{5000}{}{What can I do for you?}
+{5010}{}{I need medical help.}
+{5020}{}{Do you have some work for me?}
+{5030}{}{Lets trade?}
+{5040}{}{What is this place?}
+{5050}{}{Can I buy stimpacks from you?}
+{5060}{}{You said something about replicants... What does "replicant" mean?}
+{5070}{}{Can you tell me anything about proper usage of medcine?}
+{5080}{}{Nah, nothing.}
+{5090}{}{Hey, I got hypodermics from Sally.}
+{5100}{}{Anything else I can help you with?}
+{5110}{}{I found Bruce. He is near the pond.}
+{6000}{}{Here we go... Don't move please...}
+{6010}{}{Thank you, Doc.}
+{7000}{}{Hmm... Well, I need some syrgines from Sally, She must be somewhere in the town.}
+{7010}{}{No, it's boring. Next time.}
+{7020}{}{Ok, I'll be do it..}
+{8000}{}{Thank you.}
+{9000}{}{Look at that... Another one has just left its cozy chamber. So how is it?}
+{9010}{}{I suppose you are a local doctor...}
+{10000}{}{Yes, I am Doctor Sebastian Redwolf and right now you are in Rockside... A settlement built by dwellers from General Atomics Experimental Vault S18.}
+{10010}{}{S18...? It is... I heard it somewhere...}
+{11000}{}{Seems like you don't remember anything. Don't worry, it turned out that each replicant doesn't remember about his past. I suppose you don't remember your true name either, huh? How should I call you then?}
+{11010}{}{@pname@, call me @pname@.}
+{12000}{}{Fine than ,@pname@. How can I help you?}
+{12010}{}{So... who are you once again?}
+{13000}{}{Sorry, but I am not a trader.}
+{14000}{}{35 caps per one stimpak.}
+{14010}{}{I will take one.}
+{14020}{}{I will take 5.}
+{15000}{}{Rockside. A small settlement built by Vault dwellers from S18... General Atmoics Vault.}
+{15010}{}{What is going on in the world then?}
+{16000}{}{Well, California and Nevada are now sinking in war among big organisations. In simple words - the whole thing went crazy, so I would suggest you to pack your things and maybe get somewhere far, far away from here. I heard it is quite peaceful in Arizona.}
+{16010}{}{I see, well I need to discuss another stuff...}
+{16020}{}{It was nice to listen, but I need to go now.}
+{17000}{}{Medcine? Everything what you should know is that stimpaks and superstimpaks are your best friends in this radioactive holocaust. There are different types of drugs as well, but it's better avoid using them, if you don't want to end your life in few years. Also, you should improve your First Aid skill if you want to be more effective medic. See this health points number in your pip-boy action interface? [he points somewhere down of your screen] If you get 0, you will get into clinical death, and if it goes -20 then you will just die.}
+{17010}{}{Thanks, Doc.}
+{18000}{}{Well, I don't know. That's what was written in that Terminal about us.}
+{18010}{}{Great...}
+{19000}{}{Many thanks, @pname@. Here take this, I am sure you will need it some day.}
+{19010}{}{Anything else I can help you with?}
+{19020}{}{Alright, see you.}
+{20000}{}{Chris? Oh no, don't even ask, I will not give any to him.}
+{20010}{}{Why?}
+{21000}{}{Because this guy eats buffout like a damn bramin and don't even pay for it. I tell you once again, I will not give any to this guy.}
+{22000}{}{I just want to warn you that this guy may not even pay you for such kind delivery. But well... It is up on you, anyway.}
+{23000}{}{Hah, sure... You should learn how to lie correctly though.}
+{24000}{}{Somebody ate too much buffout again, eh? Well, here it is...}
+{25000}{}{Hey, I... What a hell? A supermutant? Seriously? What is fucking wrong with that system?}
+{25010}{}{What is wrong with me?}
+{26000}{}{You are... You are... eh... It is a very seldom case among replicants like you. I have no freaking idea why some of you awaken being a mutant. As I read in one of the terminals here, the technology of cloning starts with an injection of a special liquid containing a small portion of not active samples of FEV. Later they take some blood samples from you in order to insert it in the mashine... And as it says, sometimes FEV can activate itself in your blood and cause such mutation... As I said, I have no clue what all this stuff means though.}
+{26010}{}{Oh... great...}
+{27000}{}{Yeah, I understand how you feel at the moment, but try to look on it from other side...}
+{27010}{}{Yeah, thanks for advice... Can I heal it somehow?}
+{28000}{}{To tell you honestly - I don't know.}
+{28010}{}{Amazing... Who are you anyway?}
+{29000}{}{Well, you may know my pet scorpio - Joseph. [ He points at the rad scorpio near him ] I feed them with mentats. Well, I have another one also - his name is Bruce. And I can't find him anywhere, can you please look for him? I am sure he must be somewhere in Rockside.}
+{29010}{}{Fine, I will fine him.}
+{29020}{}{Nah, sounds like some pile of bullshit for me.}
+{30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Mutant}
 {1020}{}{Unknown player}

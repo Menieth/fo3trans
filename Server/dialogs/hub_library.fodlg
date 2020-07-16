@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -47,6 +47,154 @@ lang=engl
 {210}{}{You see a very old looking woman.}
 {240}{}{You see a dead police officer.}
 {260}{}{You see a slain Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{i dont know you}
+{1020}{}{I know you.}
+{2000}{}{@sex@|Hi, Welcome to the Library, young boy. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?||Hi, Welcome to the Library, young lady. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?|}
+{2010}{}{What do you have in the way of books?}
+{2020}{}{You must be the oldest woman in the whole Hub!}
+{2030}{}{Can you tell me something about the old days?}
+{2040}{}{Nothing, but thanks.}
+{3000}{}{Good to see you again.  What might you be looking for today?}
+{3010}{}{What do you have in the way of books?}
+{3020}{}{You must be the oldest woman in the whole Hub!}
+{3030}{}{Can you tell me something about the old days?}
+{3040}{}{Nothing, but thanks.}
+{4000}{}{@sex@|Well, young boy, let me show you my selection... What are you searching for?||Well, young lady, let me show you my selection... What are you searching for?|}
+{4010}{}{I need something special... A book that explains methods for faster learning. [Swift Learner]}
+{4020}{}{Ok. It seems like there is nothing I would need now. Thanks anyway.}
+{4030}{}{Let me see what you have...}
+{5000}{}{I'm sorry, but I don't understand you. Somewhere I have a Holodisk on learning the English language, if you're interested.}
+{5010}{}{Wha?@@Wah!}
+{6000}{}{Hah! Seems like you are right, youngster. Mrs. Stapleton isn't very young anymore. But I still remember the old days . . . yes, the old days. Things where different back then . . . but in general everything is still the same mess.}
+{6010}{}{Can you tell me something about the old days?}
+{7000}{}{@sex@|Maybe later, young boy.||Maybe later, young lady.|}
+{7010}{}{I'll have some other question.}
+{8000}{}{Yes?}
+{8010}{}{What do you have in the way of books?}
+{8020}{}{Nothing, but thanks.}
+{9000}{}{Maybe some other time.}
+{9010}{}{Okay, anyway... I am searching for some books...}
+{9020}{}{Okay, maybe next time. Bye.}
+{10000}{}{Whaddya know, I've got one right here -- you may find it quite useful. However, I never managed to get any more of these, so it's not for sale. If you want, you can take a seat at the table over there and read it, just bring it back to me undamaged once you're finished with the reading. Okay?}
+{10010}{}{Certainly, ma'am. [Read the book] [Swift Learner]}
+{10020}{}{Maybe some other time. Thanks anyway! [Leave]}
+{11000}{}{[You return the book] Thank you for bringing it back in one piece. I'm sure once in a while someone else will want to read it as well.}
+{11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{i dont know you}
+{1020}{}{I know you.}
+{2000}{}{@sex@|Hi, Welcome to the Library, young boy. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?||Hi, Welcome to the Library, young lady. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?|}
+{2010}{}{What do you have in the way of books?}
+{2020}{}{You must be the oldest woman in the whole Hub!}
+{2030}{}{Can you tell me something about the old days?}
+{2040}{}{Nothing, but thanks.}
+{3000}{}{Good to see you again.  What might you be looking for today?}
+{3010}{}{What do you have in the way of books?}
+{3020}{}{You must be the oldest woman in the whole Hub!}
+{3030}{}{Can you tell me something about the old days?}
+{3040}{}{Nothing, but thanks.}
+{4000}{}{@sex@|Well, young boy, let me show you my selection... What are you searching for?||Well, young lady, let me show you my selection... What are you searching for?|}
+{4010}{}{I need something special... A book that explains methods for faster learning. [Swift Learner]}
+{4020}{}{Ok. It seems like there is nothing I would need now. Thanks anyway.}
+{4030}{}{Let me see what you have...}
+{5000}{}{I'm sorry, but I don't understand you. Somewhere I have a Holodisk on learning the English language, if you're interested.}
+{5010}{}{Wha?@@Wah!}
+{6000}{}{Hah! Seems like you are right, youngster. Mrs. Stapleton isn't very young anymore. But I still remember the old days . . . yes, the old days. Things where different back then . . . but in general everything is still the same mess.}
+{6010}{}{Can you tell me something about the old days?}
+{7000}{}{@sex@|Maybe later, young boy.||Maybe later, young lady.|}
+{7010}{}{I'll have some other question.}
+{8000}{}{Yes?}
+{8010}{}{What do you have in the way of books?}
+{8020}{}{Nothing, but thanks.}
+{9000}{}{Maybe some other time.}
+{9010}{}{Okay, anyway... I am searching for some books...}
+{9020}{}{Okay, maybe next time. Bye.}
+{10000}{}{Whaddya know, I've got one right here -- you may find it quite useful. However, I never managed to get any more of these, so it's not for sale. If you want, you can take a seat at the table over there and read it, just bring it back to me undamaged once you're finished with the reading. Okay?}
+{10010}{}{Certainly, ma'am. [Read the book] [Swift Learner]}
+{10020}{}{Maybe some other time. Thanks anyway! [Leave]}
+{11000}{}{[You return the book] Thank you for bringing it back in one piece. I'm sure once in a while someone else will want to read it as well.}
+{11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{i dont know you}
+{1020}{}{I know you.}
+{2000}{}{@sex@|Hi, Welcome to the Library, young boy. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?||Hi, Welcome to the Library, young lady. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?|}
+{2010}{}{What do you have in the way of books?}
+{2020}{}{You must be the oldest woman in the whole Hub!}
+{2030}{}{Can you tell me something about the old days?}
+{2040}{}{Nothing, but thanks.}
+{3000}{}{Good to see you again.  What might you be looking for today?}
+{3010}{}{What do you have in the way of books?}
+{3020}{}{You must be the oldest woman in the whole Hub!}
+{3030}{}{Can you tell me something about the old days?}
+{3040}{}{Nothing, but thanks.}
+{4000}{}{@sex@|Well, young boy, let me show you my selection... What are you searching for?||Well, young lady, let me show you my selection... What are you searching for?|}
+{4010}{}{I need something special... A book that explains methods for faster learning. [Swift Learner]}
+{4020}{}{Ok. It seems like there is nothing I would need now. Thanks anyway.}
+{4030}{}{Let me see what you have...}
+{5000}{}{I'm sorry, but I don't understand you. Somewhere I have a Holodisk on learning the English language, if you're interested.}
+{5010}{}{Wha?@@Wah!}
+{6000}{}{Hah! Seems like you are right, youngster. Mrs. Stapleton isn't very young anymore. But I still remember the old days . . . yes, the old days. Things where different back then . . . but in general everything is still the same mess.}
+{6010}{}{Can you tell me something about the old days?}
+{7000}{}{@sex@|Maybe later, young boy.||Maybe later, young lady.|}
+{7010}{}{I'll have some other question.}
+{8000}{}{Yes?}
+{8010}{}{What do you have in the way of books?}
+{8020}{}{Nothing, but thanks.}
+{9000}{}{Maybe some other time.}
+{9010}{}{Okay, anyway... I am searching for some books...}
+{9020}{}{Okay, maybe next time. Bye.}
+{10000}{}{Whaddya know, I've got one right here -- you may find it quite useful. However, I never managed to get any more of these, so it's not for sale. If you want, you can take a seat at the table over there and read it, just bring it back to me undamaged once you're finished with the reading. Okay?}
+{10010}{}{Certainly, ma'am. [Read the book] [Swift Learner]}
+{10020}{}{Maybe some other time. Thanks anyway! [Leave]}
+{11000}{}{[You return the book] Thank you for bringing it back in one piece. I'm sure once in a while someone else will want to read it as well.}
+{11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{i dont know you}
+{1020}{}{I know you.}
+{2000}{}{@sex@|Hi, Welcome to the Library, young boy. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?||Hi, Welcome to the Library, young lady. I don't think I have seen you around these parts before. What might you be looking for in the way of knowledge?|}
+{2010}{}{What do you have in the way of books?}
+{2020}{}{You must be the oldest woman in the whole Hub!}
+{2030}{}{Can you tell me something about the old days?}
+{2040}{}{Nothing, but thanks.}
+{3000}{}{Good to see you again.  What might you be looking for today?}
+{3010}{}{What do you have in the way of books?}
+{3020}{}{You must be the oldest woman in the whole Hub!}
+{3030}{}{Can you tell me something about the old days?}
+{3040}{}{Nothing, but thanks.}
+{4000}{}{@sex@|Well, young boy, let me show you my selection... What are you searching for?||Well, young lady, let me show you my selection... What are you searching for?|}
+{4010}{}{I need something special... A book that explains methods for faster learning. [Swift Learner]}
+{4020}{}{Ok. It seems like there is nothing I would need now. Thanks anyway.}
+{4030}{}{Let me see what you have...}
+{5000}{}{I'm sorry, but I don't understand you. Somewhere I have a Holodisk on learning the English language, if you're interested.}
+{5010}{}{Wha?@@Wah!}
+{6000}{}{Hah! Seems like you are right, youngster. Mrs. Stapleton isn't very young anymore. But I still remember the old days . . . yes, the old days. Things where different back then . . . but in general everything is still the same mess.}
+{6010}{}{Can you tell me something about the old days?}
+{7000}{}{@sex@|Maybe later, young boy.||Maybe later, young lady.|}
+{7010}{}{I'll have some other question.}
+{8000}{}{Yes?}
+{8010}{}{What do you have in the way of books?}
+{8020}{}{Nothing, but thanks.}
+{9000}{}{Maybe some other time.}
+{9010}{}{Okay, anyway... I am searching for some books...}
+{9020}{}{Okay, maybe next time. Bye.}
+{10000}{}{Whaddya know, I've got one right here -- you may find it quite useful. However, I never managed to get any more of these, so it's not for sale. If you want, you can take a seat at the table over there and read it, just bring it back to me undamaged once you're finished with the reading. Okay?}
+{10010}{}{Certainly, ma'am. [Read the book] [Swift Learner]}
+{10020}{}{Maybe some other time. Thanks anyway! [Leave]}
+{11000}{}{[You return the book] Thank you for bringing it back in one piece. I'm sure once in a while someone else will want to read it as well.}
+{11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{I know you.}

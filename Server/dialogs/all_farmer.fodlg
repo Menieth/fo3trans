@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -142,4 +142,256 @@ lang=engl
 {100000009}{}{If you think you can do a better job, then bring it on fancy pants!}
 {100000010}{}{Geez, I'm wrecked...}
 {100000011}{}{I'd better get back to work.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{hired, before transfer}
+{1020}{}{not hirable anymore}
+{1030}{}{not hired, buying}
+{1040}{}{not hired, default}
+{1050}{}{hired, player not in faction}
+{1060}{}{use. not ready}
+{1070}{}{use. ready}
+{2000}{}{Well howdey padner' mah' name's ol' @lex name@, I'm your new Farmer! I'm really glad to be part of @lex faction@! My family and I even built a shack right next door!}
+{2010}{}{Nice to meet you, my name's @pname@.}
+{3000}{}{I suppose' yer' wonderin' what I can do fer' ya around these parts, eh? Well I can harvest fruit, fibers, wood, and all sorts o' geckos pelts. Just let me know if you need anything.}
+{3010}{}{Collect some Scorpion Tails for us.}
+{3020}{}{Harvest some fruit for us.}
+{3030}{}{Collect some fibers for @lex faction@.}
+{3040}{}{Chop us some wood.}
+{3050}{}{Go and hunt some Small Geckos.}
+{3060}{}{Hunt some Golden Geckos for me.}
+{3070}{}{Nothing for now. [Exit]}
+{4000}{}{Well Golly-willikers that sounds like a grand idea, but I'll need some weapons and ammo before I head out. Bring me 2 Hunting Rifles, and 10x rounds of .22 Caliber.}
+{4010}{}{Sure thing, here ya' go.}
+{4020}{}{I'll be right back. [Exit]}
+{5000}{}{Well Gee-willikers that sounds like a mighty fine idea, let me tell you what! But I'll need some weapons and ammo before I head out. Bring me 2 Assault Rifles, and 30x rounds of 5mm JHP.}
+{5010}{}{Sure, take these.}
+{5020}{}{I'll be right back. [Exit]}
+{6000}{}{Sure thing boss, but I'ma bound ta' get a bit thirsty. I'll need 3 Empty Water Bags before I head out.}
+{6010}{}{Here ya' go!}
+{6020}{}{I'll be right back. [Exit]}
+{7000}{}{That sounds like a mighty fine idea! But I'll need a Sharpened Spear ta' hunt with... Just don't go calling me no damn tribal now ya hear?}
+{7010}{}{Take this one. Be quick, I need medicine.}
+{7020}{}{I'll be right back. [Exit]}
+{8000}{}{Well gosh, that's the easiest thing I've hadta' do all day!}
+{8010}{}{Great. Get to it.}
+{9000}{}{Sure thing, but I can't promise I won't eat a few while I pick em'!}
+{9010}{}{Just don't get sick, I need you working, not puking.}
+{10000}{}{I'm back with 10x Gecko Pelts! Ya know dem' critters ain't so tough! Ya should have seen dem' holes I left in em'!}
+{10010}{}{Thanks, I think I get the picture. [Exit]}
+{11000}{}{I'm back with 5x Golden Gecko Pelts! Nearly got mah goddang leg chewed off! Heck, for a second I thought I'd have a gimp leg forever.}
+{11010}{}{Thanks, don't know what I'd do if you lost a leg... [Exit]}
+{12000}{}{Here's yer' Fruit. [He hands you 20x Fruit]}
+{12010}{}{Thanks, lookin' good. [Exit]}
+{13000}{}{Here's yer' Fibers! [He hands you 22x Fibers]}
+{13010}{}{Thank you. [Exit]}
+{14000}{}{Gee-willikers! My arms are tired! Here's your 18x pieces of Wood. That's all I could carry.}
+{14010}{}{Amazing, thank you. [Exit]}
+{15000}{}{I'm back with 5x Radscorpion Tails. Here ya go! Didn't even get bitten once!}
+{15010}{}{Outstanding job, thank you. [Exit]}
+{16000}{}{Gee-willikers, I sure am beat. I'm calling it a day, talk to me tomorrow.}
+{17000}{}{If it doesn't rain soon, I'm out of a job@@Whoa there, don't shoot padner'@@Hasn't rained in days...@@Sorry padner', I'm too busy to talk@@There's just too much radiation here, I don't think that next season's crops will do that well...@@Holster that weapon, stranger!@@Don't shoot I'm just a farmer!@@You look pretty funny there @sex@|mister||miss|, I'l be keeping an eye on you...@@You smell that, stranger? It smells like...rain@@Now where did I put that hatchet?}
+{18000}{}{Well howdy there, stranger! The name's ol' @lex name@, I'm a farmer here in town. But if it doesn't rain soon, I'll be out of a job. }
+{18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
+{18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
+{18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
+{20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
+{20010}{}{That's your loss then. I hope it rains soon. Goodbye}
+{21000}{}{Well hot-dog stranger! Lemme' just run over to Blacks, pay my debt, then get my family ready to relocate. Draw me a map to your base and I'll be over there faster then you can skin a torn up gecko!}
+{21010}{}{Don't take all day. You work for @lex faction@ now.}
+{22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{hired, before transfer}
+{1020}{}{not hirable anymore}
+{1030}{}{not hired, buying}
+{1040}{}{not hired, default}
+{1050}{}{hired, player not in faction}
+{1060}{}{use. not ready}
+{1070}{}{use. ready}
+{2000}{}{Well howdey padner' mah' name's ol' @lex name@, I'm your new Farmer! I'm really glad to be part of @lex faction@! My family and I even built a shack right next door!}
+{2010}{}{Nice to meet you, my name's @pname@.}
+{3000}{}{I suppose' yer' wonderin' what I can do fer' ya around these parts, eh? Well I can harvest fruit, fibers, wood, and all sorts o' geckos pelts. Just let me know if you need anything.}
+{3010}{}{Collect some Scorpion Tails for us.}
+{3020}{}{Harvest some fruit for us.}
+{3030}{}{Collect some fibers for @lex faction@.}
+{3040}{}{Chop us some wood.}
+{3050}{}{Go and hunt some Small Geckos.}
+{3060}{}{Hunt some Golden Geckos for me.}
+{3070}{}{Nothing for now. [Exit]}
+{4000}{}{Well Golly-willikers that sounds like a grand idea, but I'll need some weapons and ammo before I head out. Bring me 2 Hunting Rifles, and 10x rounds of .22 Caliber.}
+{4010}{}{Sure thing, here ya' go.}
+{4020}{}{I'll be right back. [Exit]}
+{5000}{}{Well Gee-willikers that sounds like a mighty fine idea, let me tell you what! But I'll need some weapons and ammo before I head out. Bring me 2 Assault Rifles, and 30x rounds of 5mm JHP.}
+{5010}{}{Sure, take these.}
+{5020}{}{I'll be right back. [Exit]}
+{6000}{}{Sure thing boss, but I'ma bound ta' get a bit thirsty. I'll need 3 Empty Water Bags before I head out.}
+{6010}{}{Here ya' go!}
+{6020}{}{I'll be right back. [Exit]}
+{7000}{}{That sounds like a mighty fine idea! But I'll need a Sharpened Spear ta' hunt with... Just don't go calling me no damn tribal now ya hear?}
+{7010}{}{Take this one. Be quick, I need medicine.}
+{7020}{}{I'll be right back. [Exit]}
+{8000}{}{Well gosh, that's the easiest thing I've hadta' do all day!}
+{8010}{}{Great. Get to it.}
+{9000}{}{Sure thing, but I can't promise I won't eat a few while I pick em'!}
+{9010}{}{Just don't get sick, I need you working, not puking.}
+{10000}{}{I'm back with 10x Gecko Pelts! Ya know dem' critters ain't so tough! Ya should have seen dem' holes I left in em'!}
+{10010}{}{Thanks, I think I get the picture. [Exit]}
+{11000}{}{I'm back with 5x Golden Gecko Pelts! Nearly got mah goddang leg chewed off! Heck, for a second I thought I'd have a gimp leg forever.}
+{11010}{}{Thanks, don't know what I'd do if you lost a leg... [Exit]}
+{12000}{}{Here's yer' Fruit. [He hands you 20x Fruit]}
+{12010}{}{Thanks, lookin' good. [Exit]}
+{13000}{}{Here's yer' Fibers! [He hands you 22x Fibers]}
+{13010}{}{Thank you. [Exit]}
+{14000}{}{Gee-willikers! My arms are tired! Here's your 18x pieces of Wood. That's all I could carry.}
+{14010}{}{Amazing, thank you. [Exit]}
+{15000}{}{I'm back with 5x Radscorpion Tails. Here ya go! Didn't even get bitten once!}
+{15010}{}{Outstanding job, thank you. [Exit]}
+{16000}{}{Gee-willikers, I sure am beat. I'm calling it a day, talk to me tomorrow.}
+{17000}{}{If it doesn't rain soon, I'm out of a job@@Whoa there, don't shoot padner'@@Hasn't rained in days...@@Sorry padner', I'm too busy to talk@@There's just too much radiation here, I don't think that next season's crops will do that well...@@Holster that weapon, stranger!@@Don't shoot I'm just a farmer!@@You look pretty funny there @sex@|mister||miss|, I'l be keeping an eye on you...@@You smell that, stranger? It smells like...rain@@Now where did I put that hatchet?}
+{18000}{}{Well howdy there, stranger! The name's ol' @lex name@, I'm a farmer here in town. But if it doesn't rain soon, I'll be out of a job. }
+{18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
+{18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
+{18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
+{20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
+{20010}{}{That's your loss then. I hope it rains soon. Goodbye}
+{21000}{}{Well hot-dog stranger! Lemme' just run over to Blacks, pay my debt, then get my family ready to relocate. Draw me a map to your base and I'll be over there faster then you can skin a torn up gecko!}
+{21010}{}{Don't take all day. You work for @lex faction@ now.}
+{22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{hired, before transfer}
+{1020}{}{not hirable anymore}
+{1030}{}{not hired, buying}
+{1040}{}{not hired, default}
+{1050}{}{hired, player not in faction}
+{1060}{}{use. not ready}
+{1070}{}{use. ready}
+{2000}{}{Well howdey padner' mah' name's ol' @lex name@, I'm your new Farmer! I'm really glad to be part of @lex faction@! My family and I even built a shack right next door!}
+{2010}{}{Nice to meet you, my name's @pname@.}
+{3000}{}{I suppose' yer' wonderin' what I can do fer' ya around these parts, eh? Well I can harvest fruit, fibers, wood, and all sorts o' geckos pelts. Just let me know if you need anything.}
+{3010}{}{Collect some Scorpion Tails for us.}
+{3020}{}{Harvest some fruit for us.}
+{3030}{}{Collect some fibers for @lex faction@.}
+{3040}{}{Chop us some wood.}
+{3050}{}{Go and hunt some Small Geckos.}
+{3060}{}{Hunt some Golden Geckos for me.}
+{3070}{}{Nothing for now. [Exit]}
+{4000}{}{Well Golly-willikers that sounds like a grand idea, but I'll need some weapons and ammo before I head out. Bring me 2 Hunting Rifles, and 10x rounds of .22 Caliber.}
+{4010}{}{Sure thing, here ya' go.}
+{4020}{}{I'll be right back. [Exit]}
+{5000}{}{Well Gee-willikers that sounds like a mighty fine idea, let me tell you what! But I'll need some weapons and ammo before I head out. Bring me 2 Assault Rifles, and 30x rounds of 5mm JHP.}
+{5010}{}{Sure, take these.}
+{5020}{}{I'll be right back. [Exit]}
+{6000}{}{Sure thing boss, but I'ma bound ta' get a bit thirsty. I'll need 3 Empty Water Bags before I head out.}
+{6010}{}{Here ya' go!}
+{6020}{}{I'll be right back. [Exit]}
+{7000}{}{That sounds like a mighty fine idea! But I'll need a Sharpened Spear ta' hunt with... Just don't go calling me no damn tribal now ya hear?}
+{7010}{}{Take this one. Be quick, I need medicine.}
+{7020}{}{I'll be right back. [Exit]}
+{8000}{}{Well gosh, that's the easiest thing I've hadta' do all day!}
+{8010}{}{Great. Get to it.}
+{9000}{}{Sure thing, but I can't promise I won't eat a few while I pick em'!}
+{9010}{}{Just don't get sick, I need you working, not puking.}
+{10000}{}{I'm back with 10x Gecko Pelts! Ya know dem' critters ain't so tough! Ya should have seen dem' holes I left in em'!}
+{10010}{}{Thanks, I think I get the picture. [Exit]}
+{11000}{}{I'm back with 5x Golden Gecko Pelts! Nearly got mah goddang leg chewed off! Heck, for a second I thought I'd have a gimp leg forever.}
+{11010}{}{Thanks, don't know what I'd do if you lost a leg... [Exit]}
+{12000}{}{Here's yer' Fruit. [He hands you 20x Fruit]}
+{12010}{}{Thanks, lookin' good. [Exit]}
+{13000}{}{Here's yer' Fibers! [He hands you 22x Fibers]}
+{13010}{}{Thank you. [Exit]}
+{14000}{}{Gee-willikers! My arms are tired! Here's your 18x pieces of Wood. That's all I could carry.}
+{14010}{}{Amazing, thank you. [Exit]}
+{15000}{}{I'm back with 5x Radscorpion Tails. Here ya go! Didn't even get bitten once!}
+{15010}{}{Outstanding job, thank you. [Exit]}
+{16000}{}{Gee-willikers, I sure am beat. I'm calling it a day, talk to me tomorrow.}
+{17000}{}{If it doesn't rain soon, I'm out of a job@@Whoa there, don't shoot padner'@@Hasn't rained in days...@@Sorry padner', I'm too busy to talk@@There's just too much radiation here, I don't think that next season's crops will do that well...@@Holster that weapon, stranger!@@Don't shoot I'm just a farmer!@@You look pretty funny there @sex@|mister||miss|, I'l be keeping an eye on you...@@You smell that, stranger? It smells like...rain@@Now where did I put that hatchet?}
+{18000}{}{Well howdy there, stranger! The name's ol' @lex name@, I'm a farmer here in town. But if it doesn't rain soon, I'll be out of a job. }
+{18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
+{18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
+{18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
+{20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
+{20010}{}{That's your loss then. I hope it rains soon. Goodbye}
+{21000}{}{Well hot-dog stranger! Lemme' just run over to Blacks, pay my debt, then get my family ready to relocate. Draw me a map to your base and I'll be over there faster then you can skin a torn up gecko!}
+{21010}{}{Don't take all day. You work for @lex faction@ now.}
+{22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{hired, before transfer}
+{1020}{}{not hirable anymore}
+{1030}{}{not hired, buying}
+{1040}{}{not hired, default}
+{1050}{}{hired, player not in faction}
+{1060}{}{use. not ready}
+{1070}{}{use. ready}
+{2000}{}{Well howdey padner' mah' name's ol' @lex name@, I'm your new Farmer! I'm really glad to be part of @lex faction@! My family and I even built a shack right next door!}
+{2010}{}{Nice to meet you, my name's @pname@.}
+{3000}{}{I suppose' yer' wonderin' what I can do fer' ya around these parts, eh? Well I can harvest fruit, fibers, wood, and all sorts o' geckos pelts. Just let me know if you need anything.}
+{3010}{}{Collect some Scorpion Tails for us.}
+{3020}{}{Harvest some fruit for us.}
+{3030}{}{Collect some fibers for @lex faction@.}
+{3040}{}{Chop us some wood.}
+{3050}{}{Go and hunt some Small Geckos.}
+{3060}{}{Hunt some Golden Geckos for me.}
+{3070}{}{Nothing for now. [Exit]}
+{4000}{}{Well Golly-willikers that sounds like a grand idea, but I'll need some weapons and ammo before I head out. Bring me 2 Hunting Rifles, and 10x rounds of .22 Caliber.}
+{4010}{}{Sure thing, here ya' go.}
+{4020}{}{I'll be right back. [Exit]}
+{5000}{}{Well Gee-willikers that sounds like a mighty fine idea, let me tell you what! But I'll need some weapons and ammo before I head out. Bring me 2 Assault Rifles, and 30x rounds of 5mm JHP.}
+{5010}{}{Sure, take these.}
+{5020}{}{I'll be right back. [Exit]}
+{6000}{}{Sure thing boss, but I'ma bound ta' get a bit thirsty. I'll need 3 Empty Water Bags before I head out.}
+{6010}{}{Here ya' go!}
+{6020}{}{I'll be right back. [Exit]}
+{7000}{}{That sounds like a mighty fine idea! But I'll need a Sharpened Spear ta' hunt with... Just don't go calling me no damn tribal now ya hear?}
+{7010}{}{Take this one. Be quick, I need medicine.}
+{7020}{}{I'll be right back. [Exit]}
+{8000}{}{Well gosh, that's the easiest thing I've hadta' do all day!}
+{8010}{}{Great. Get to it.}
+{9000}{}{Sure thing, but I can't promise I won't eat a few while I pick em'!}
+{9010}{}{Just don't get sick, I need you working, not puking.}
+{10000}{}{I'm back with 10x Gecko Pelts! Ya know dem' critters ain't so tough! Ya should have seen dem' holes I left in em'!}
+{10010}{}{Thanks, I think I get the picture. [Exit]}
+{11000}{}{I'm back with 5x Golden Gecko Pelts! Nearly got mah goddang leg chewed off! Heck, for a second I thought I'd have a gimp leg forever.}
+{11010}{}{Thanks, don't know what I'd do if you lost a leg... [Exit]}
+{12000}{}{Here's yer' Fruit. [He hands you 20x Fruit]}
+{12010}{}{Thanks, lookin' good. [Exit]}
+{13000}{}{Here's yer' Fibers! [He hands you 22x Fibers]}
+{13010}{}{Thank you. [Exit]}
+{14000}{}{Gee-willikers! My arms are tired! Here's your 18x pieces of Wood. That's all I could carry.}
+{14010}{}{Amazing, thank you. [Exit]}
+{15000}{}{I'm back with 5x Radscorpion Tails. Here ya go! Didn't even get bitten once!}
+{15010}{}{Outstanding job, thank you. [Exit]}
+{16000}{}{Gee-willikers, I sure am beat. I'm calling it a day, talk to me tomorrow.}
+{17000}{}{If it doesn't rain soon, I'm out of a job@@Whoa there, don't shoot padner'@@Hasn't rained in days...@@Sorry padner', I'm too busy to talk@@There's just too much radiation here, I don't think that next season's crops will do that well...@@Holster that weapon, stranger!@@Don't shoot I'm just a farmer!@@You look pretty funny there @sex@|mister||miss|, I'l be keeping an eye on you...@@You smell that, stranger? It smells like...rain@@Now where did I put that hatchet?}
+{18000}{}{Well howdy there, stranger! The name's ol' @lex name@, I'm a farmer here in town. But if it doesn't rain soon, I'll be out of a job. }
+{18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
+{18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
+{18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
+{20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
+{20010}{}{That's your loss then. I hope it rains soon. Goodbye}
+{21000}{}{Well hot-dog stranger! Lemme' just run over to Blacks, pay my debt, then get my family ready to relocate. Draw me a map to your base and I'll be over there faster then you can skin a torn up gecko!}
+{21010}{}{Don't take all day. You work for @lex faction@ now.}
+{22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 

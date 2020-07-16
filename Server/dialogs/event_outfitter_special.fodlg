@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -61,6 +61,226 @@ lang=engl
 
 [engl]
 {100}{}{Outfitter}
+{1000}{}{Preddialogue settings}
+{1010}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{Let me choose my weapon.}
+{2020}{}{Let my choose ammunition.}
+{2030}{}{Combat Armor and Helmet Mark II.}
+{2040}{}{Tesla Armor and Helmet.}
+{2050}{}{A set of drugs.}
+{2060}{}{Nothing.}
+{3000}{}{What weapon do you need?}
+{3010}{}{.223 Pistol}
+{3020}{}{P90c}
+{3030}{}{Pancor Jackhammer}
+{3040}{}{Sniper Rifle}
+{3050}{}{XL70E3}
+{3060}{}{M72 Grenade Launcher}
+{3070}{}{Avenger Minigun}
+{3080}{}{Incinerator}
+{3090}{}{Light Support Weapon}
+{3100}{}{M60}
+{3110}{}{Rocket Launcher}
+{3120}{}{Laser Rifle (Ext. Cap.)}
+{3130}{}{Plasma Rifle}
+{3140}{}{Plasma Pistol (Ext. Cart.)}
+{3150}{}{YK32 Pulse Pistol}
+{3160}{}{Gatling Laser}
+{3170}{}{Super Cattle Prod}
+{3180}{}{Mega Power Fist}
+{3190}{}{Ripper}
+{3200}{}{Super Sledgehammer}
+{3210}{}{None.}
+{4000}{}{Choose ammunition.}
+{4010}{}{10mm JHP ammo x100}
+{4020}{}{10mm AP ammo x100}
+{4030}{}{Shotgun Shells x100}
+{4040}{}{Shotgun Slug Shells x100}
+{4050}{}{Shotgun Flechette Shells x100}
+{4060}{}{.223 ammo x100}
+{4070}{}{5mm JHP x250}
+{4080}{}{5mm AP x250}
+{4090}{}{7.62mm ammo  x100}
+{4100}{}{40mm Grenade x10}
+{4110}{}{Explosive Rockets x10}
+{4120}{}{AP Rockets x10}
+{4130}{}{Flamethrower Fuel Mark II x25}
+{4140}{}{Small Energy Cells x100}
+{4150}{}{Micro Fusion Cells x100}
+{4160}{}{Frag Grenades x25}
+{4170}{}{Plasma Grenades x25}
+{4180}{}{Dynacords x25}
+{4190}{}{Throwing Knives x25}
+{4200}{}{Nothing.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{Let me choose my weapon.}
+{2020}{}{Let my choose ammunition.}
+{2030}{}{Combat Armor and Helmet Mark II.}
+{2040}{}{Tesla Armor and Helmet.}
+{2050}{}{A set of drugs.}
+{2060}{}{Nothing.}
+{3000}{}{What weapon do you need?}
+{3010}{}{.223 Pistol}
+{3020}{}{P90c}
+{3030}{}{Pancor Jackhammer}
+{3040}{}{Sniper Rifle}
+{3050}{}{XL70E3}
+{3060}{}{M72 Grenade Launcher}
+{3070}{}{Avenger Minigun}
+{3080}{}{Incinerator}
+{3090}{}{Light Support Weapon}
+{3100}{}{M60}
+{3110}{}{Rocket Launcher}
+{3120}{}{Laser Rifle (Ext. Cap.)}
+{3130}{}{Plasma Rifle}
+{3140}{}{Plasma Pistol (Ext. Cart.)}
+{3150}{}{YK32 Pulse Pistol}
+{3160}{}{Gatling Laser}
+{3170}{}{Super Cattle Prod}
+{3180}{}{Mega Power Fist}
+{3190}{}{Ripper}
+{3200}{}{Super Sledgehammer}
+{3210}{}{None.}
+{4000}{}{Choose ammunition.}
+{4010}{}{10mm JHP ammo x100}
+{4020}{}{10mm AP ammo x100}
+{4030}{}{Shotgun Shells x100}
+{4040}{}{Shotgun Slug Shells x100}
+{4050}{}{Shotgun Flechette Shells x100}
+{4060}{}{.223 ammo x100}
+{4070}{}{5mm JHP x250}
+{4080}{}{5mm AP x250}
+{4090}{}{7.62mm ammo  x100}
+{4100}{}{40mm Grenade x10}
+{4110}{}{Explosive Rockets x10}
+{4120}{}{AP Rockets x10}
+{4130}{}{Flamethrower Fuel Mark II x25}
+{4140}{}{Small Energy Cells x100}
+{4150}{}{Micro Fusion Cells x100}
+{4160}{}{Frag Grenades x25}
+{4170}{}{Plasma Grenades x25}
+{4180}{}{Dynacords x25}
+{4190}{}{Throwing Knives x25}
+{4200}{}{Nothing.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{Let me choose my weapon.}
+{2020}{}{Let my choose ammunition.}
+{2030}{}{Combat Armor and Helmet Mark II.}
+{2040}{}{Tesla Armor and Helmet.}
+{2050}{}{A set of drugs.}
+{2060}{}{Nothing.}
+{3000}{}{What weapon do you need?}
+{3010}{}{.223 Pistol}
+{3020}{}{P90c}
+{3030}{}{Pancor Jackhammer}
+{3040}{}{Sniper Rifle}
+{3050}{}{XL70E3}
+{3060}{}{M72 Grenade Launcher}
+{3070}{}{Avenger Minigun}
+{3080}{}{Incinerator}
+{3090}{}{Light Support Weapon}
+{3100}{}{M60}
+{3110}{}{Rocket Launcher}
+{3120}{}{Laser Rifle (Ext. Cap.)}
+{3130}{}{Plasma Rifle}
+{3140}{}{Plasma Pistol (Ext. Cart.)}
+{3150}{}{YK32 Pulse Pistol}
+{3160}{}{Gatling Laser}
+{3170}{}{Super Cattle Prod}
+{3180}{}{Mega Power Fist}
+{3190}{}{Ripper}
+{3200}{}{Super Sledgehammer}
+{3210}{}{None.}
+{4000}{}{Choose ammunition.}
+{4010}{}{10mm JHP ammo x100}
+{4020}{}{10mm AP ammo x100}
+{4030}{}{Shotgun Shells x100}
+{4040}{}{Shotgun Slug Shells x100}
+{4050}{}{Shotgun Flechette Shells x100}
+{4060}{}{.223 ammo x100}
+{4070}{}{5mm JHP x250}
+{4080}{}{5mm AP x250}
+{4090}{}{7.62mm ammo  x100}
+{4100}{}{40mm Grenade x10}
+{4110}{}{Explosive Rockets x10}
+{4120}{}{AP Rockets x10}
+{4130}{}{Flamethrower Fuel Mark II x25}
+{4140}{}{Small Energy Cells x100}
+{4150}{}{Micro Fusion Cells x100}
+{4160}{}{Frag Grenades x25}
+{4170}{}{Plasma Grenades x25}
+{4180}{}{Dynacords x25}
+{4190}{}{Throwing Knives x25}
+{4200}{}{Nothing.}
+
+[span]
+{100}{}{none}
+{1000}{}{Preddialogue settings}
+{1010}{}{ }
+{2000}{}{Hello there. What  do you need?}
+{2010}{}{Let me choose my weapon.}
+{2020}{}{Let my choose ammunition.}
+{2030}{}{Combat Armor and Helmet Mark II.}
+{2040}{}{Tesla Armor and Helmet.}
+{2050}{}{A set of drugs.}
+{2060}{}{Nothing.}
+{3000}{}{What weapon do you need?}
+{3010}{}{.223 Pistol}
+{3020}{}{P90c}
+{3030}{}{Pancor Jackhammer}
+{3040}{}{Sniper Rifle}
+{3050}{}{XL70E3}
+{3060}{}{M72 Grenade Launcher}
+{3070}{}{Avenger Minigun}
+{3080}{}{Incinerator}
+{3090}{}{Light Support Weapon}
+{3100}{}{M60}
+{3110}{}{Rocket Launcher}
+{3120}{}{Laser Rifle (Ext. Cap.)}
+{3130}{}{Plasma Rifle}
+{3140}{}{Plasma Pistol (Ext. Cart.)}
+{3150}{}{YK32 Pulse Pistol}
+{3160}{}{Gatling Laser}
+{3170}{}{Super Cattle Prod}
+{3180}{}{Mega Power Fist}
+{3190}{}{Ripper}
+{3200}{}{Super Sledgehammer}
+{3210}{}{None.}
+{4000}{}{Choose ammunition.}
+{4010}{}{10mm JHP ammo x100}
+{4020}{}{10mm AP ammo x100}
+{4030}{}{Shotgun Shells x100}
+{4040}{}{Shotgun Slug Shells x100}
+{4050}{}{Shotgun Flechette Shells x100}
+{4060}{}{.223 ammo x100}
+{4070}{}{5mm JHP x250}
+{4080}{}{5mm AP x250}
+{4090}{}{7.62mm ammo  x100}
+{4100}{}{40mm Grenade x10}
+{4110}{}{Explosive Rockets x10}
+{4120}{}{AP Rockets x10}
+{4130}{}{Flamethrower Fuel Mark II x25}
+{4140}{}{Small Energy Cells x100}
+{4150}{}{Micro Fusion Cells x100}
+{4160}{}{Frag Grenades x25}
+{4170}{}{Plasma Grenades x25}
+{4180}{}{Dynacords x25}
+{4190}{}{Throwing Knives x25}
+{4200}{}{Nothing.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{ }
 {2000}{}{Hello there. What  do you need?}

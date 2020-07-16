@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,50 @@ lang=engl
 4 4000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Access to the mainfrmae confirmed. Welcome. ]}
+{2010}{}{[ Grant access to the armory ]}
+{2020}{}{[ Retrive the water chip ]}
+{2030}{}{[ Exit]}
+{3000}{}{[ Access granted ]}
+{4000}{}{Beep...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Access to the mainfrmae confirmed. Welcome. ]}
+{2010}{}{[ Grant access to the armory ]}
+{2020}{}{[ Retrive the water chip ]}
+{2030}{}{[ Exit]}
+{3000}{}{[ Access granted ]}
+{4000}{}{Beep...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Access to the mainfrmae confirmed. Welcome. ]}
+{2010}{}{[ Grant access to the armory ]}
+{2020}{}{[ Retrive the water chip ]}
+{2030}{}{[ Exit]}
+{3000}{}{[ Access granted ]}
+{4000}{}{Beep...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Access to the mainfrmae confirmed. Welcome. ]}
+{2010}{}{[ Grant access to the armory ]}
+{2020}{}{[ Retrive the water chip ]}
+{2030}{}{[ Exit]}
+{3000}{}{[ Access granted ]}
+{4000}{}{Beep...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

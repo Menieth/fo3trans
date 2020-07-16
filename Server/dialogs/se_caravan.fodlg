@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,38 @@ lang=engl
 {100}{}{Drunk}
 {200}{}{You see a drunk.}
 {210}{}{This guy's had way too much to drink.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hi there, would you take a look on my store?}
+{2010}{}{Yes, please.}
+{2020}{}{nah, it's not necessary}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hi there, would you take a look on my store?}
+{2010}{}{Yes, please.}
+{2020}{}{nah, it's not necessary}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hi there, would you take a look on my store?}
+{2010}{}{Yes, please.}
+{2020}{}{nah, it's not necessary}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hi there, would you take a look on my store?}
+{2010}{}{Yes, please.}
+{2020}{}{nah, it's not necessary}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, would you take a look on my store?}

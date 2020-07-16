@@ -2,7 +2,7 @@
 Generic brahmin herdsman for brahmin pens without brahmin trade:)
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,90 @@ lang=engl
 {100}{}{Brahmin herdsman}
 {200}{}{You see a dirty herdsman.}
 {210}{}{You see a filthy man. Looks like he's had more experience with brahmin than most people.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
+{2010}{}{Hey there.}
+{2020}{}{I've shovelled some of your shit. Break out the caps.}
+{2030}{}{[Leave]}
+{3000}{}{Hey there... what?}
+{3010}{}{I've noticed that there's a lot of, uh, shit around. Do you want me to help you out with that?}
+{3020}{}{Nothing, just passing through.}
+{4000}{}{Shovel my shit? I, uh... I guess you could. Don't know why you'd want to, though. I s'pose I could make it worth your while.}
+{4010}{}{Sure thing, let's get started.}
+{4020}{}{If you think I'm going into that field and grabbing fistfuls of brahmin shit, you have another thing coming.}
+{4030}{}{I think I'll pass...}
+{5000}{}{Oh! A shovel. Right. Okay, here you go. Come back to me when you're done, and I'll sort out your payment.}
+{5010}{}{Great. Time to turn my life around.}
+{6000}{}{Well, you made that damn pen sparkle. Here's your caps, stranger.}
+{6010}{}{Thanks. See you later. I love my life.}
+{7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
+{2010}{}{Hey there.}
+{2020}{}{I've shovelled some of your shit. Break out the caps.}
+{2030}{}{[Leave]}
+{3000}{}{Hey there... what?}
+{3010}{}{I've noticed that there's a lot of, uh, shit around. Do you want me to help you out with that?}
+{3020}{}{Nothing, just passing through.}
+{4000}{}{Shovel my shit? I, uh... I guess you could. Don't know why you'd want to, though. I s'pose I could make it worth your while.}
+{4010}{}{Sure thing, let's get started.}
+{4020}{}{If you think I'm going into that field and grabbing fistfuls of brahmin shit, you have another thing coming.}
+{4030}{}{I think I'll pass...}
+{5000}{}{Oh! A shovel. Right. Okay, here you go. Come back to me when you're done, and I'll sort out your payment.}
+{5010}{}{Great. Time to turn my life around.}
+{6000}{}{Well, you made that damn pen sparkle. Here's your caps, stranger.}
+{6010}{}{Thanks. See you later. I love my life.}
+{7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
+{2010}{}{Hey there.}
+{2020}{}{I've shovelled some of your shit. Break out the caps.}
+{2030}{}{[Leave]}
+{3000}{}{Hey there... what?}
+{3010}{}{I've noticed that there's a lot of, uh, shit around. Do you want me to help you out with that?}
+{3020}{}{Nothing, just passing through.}
+{4000}{}{Shovel my shit? I, uh... I guess you could. Don't know why you'd want to, though. I s'pose I could make it worth your while.}
+{4010}{}{Sure thing, let's get started.}
+{4020}{}{If you think I'm going into that field and grabbing fistfuls of brahmin shit, you have another thing coming.}
+{4030}{}{I think I'll pass...}
+{5000}{}{Oh! A shovel. Right. Okay, here you go. Come back to me when you're done, and I'll sort out your payment.}
+{5010}{}{Great. Time to turn my life around.}
+{6000}{}{Well, you made that damn pen sparkle. Here's your caps, stranger.}
+{6010}{}{Thanks. See you later. I love my life.}
+{7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
+{2010}{}{Hey there.}
+{2020}{}{I've shovelled some of your shit. Break out the caps.}
+{2030}{}{[Leave]}
+{3000}{}{Hey there... what?}
+{3010}{}{I've noticed that there's a lot of, uh, shit around. Do you want me to help you out with that?}
+{3020}{}{Nothing, just passing through.}
+{4000}{}{Shovel my shit? I, uh... I guess you could. Don't know why you'd want to, though. I s'pose I could make it worth your while.}
+{4010}{}{Sure thing, let's get started.}
+{4020}{}{If you think I'm going into that field and grabbing fistfuls of brahmin shit, you have another thing coming.}
+{4030}{}{I think I'll pass...}
+{5000}{}{Oh! A shovel. Right. Okay, here you go. Come back to me when you're done, and I'll sort out your payment.}
+{5010}{}{Great. Time to turn my life around.}
+{6000}{}{Well, you made that damn pen sparkle. Here's your caps, stranger.}
+{6010}{}{Thanks. See you later. I love my life.}
+{7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}

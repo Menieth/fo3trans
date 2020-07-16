@@ -7,7 +7,7 @@
 5 = Visited Golgotha and discovered corpse
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -46,6 +46,138 @@ lang=engl
 {100}{}{Lenny}
 {200}{}{You see an inebriated mutant}
 {210}{}{He looks unwell}
+{1000}{}{Predialogue installations}
+{1010}{}{Player has received Mutant message from Lenny}
+{1020}{}{Player has spoken to Iguana Mike}
+{1030}{}{Player hasn't spoken to Iguana Mike}
+{2000}{}{What now you want? Me busy.}
+{2010}{}{Nothing. Carry on...}
+{2020}{}{Where did you find that Son of Bob stand out in the Bazaar? You know, the pretty white one?}
+{2030}{}{You... know... sonofbob?}
+{3000}{}{Haha.. little.. sonofbob... how you know?}
+{3010}{}{me know... big iguana bob... he looking sunofbob... you know sunofbob?}
+{3020}{}{I know his father, he is looking for him and wants me to deliver a message. You have to tell me where he is!}
+{4000}{}{What... you say? You sound... funny...}
+{4010}{}{...........}
+{5000}{}{Me know... sunofbob... me friend small Bob but.. small Bob gone far away... drink for small Bob!}
+{5010}{}{No more drinking! Please I can't stand this anymore, tell me where he is!}
+{5020}{}{Drink for Small Bob!}
+{5030}{}{Drink for Small Bob!}
+{6000}{}{[burrrrp] what... who you? Me miss sunofbob... you like small Bob... small squishy Bob}
+{6010}{}{You squish... small Bob?}
+{6020}{}{Where find small Bob?}
+{6030}{}{What did you do to Iguana Pete's son? You monster!}
+{7000}{}{Small Bob live desert now... can't visit... drink for... small.. small Bob..}
+{7010}{}{where in desert?}
+{7020}{}{What do you mean in the desert?}
+{8000}{}{Not safe... me.... small Bob go south of town.. town new.... new... n... [throws up in mouth]}
+{8010}{}{New what? Dammnit tell me, I'm sick of this shit already!}
+{9000}{}{urrgg....gorru........uhhh...::burp:: lost small... Bob.... miss sunofbob... ::he starts to cry::}
+{9010}{}{::he doesn't look well. you better leave before they throw you both out::}
+{10000}{}{I'm Lenny and you're pond scum. Get outta here.@@Why you bothering Lenny, you little white grub?@@What you want with Lenny, worthless human?@@Keep poking me and you can tell your maker Lenny sent you.@@Pleased to meet ya. I'm Lenny - you must be Shit-for-brains. Ha, ha!}
+{11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Player has received Mutant message from Lenny}
+{1020}{}{Player has spoken to Iguana Mike}
+{1030}{}{Player hasn't spoken to Iguana Mike}
+{2000}{}{What now you want? Me busy.}
+{2010}{}{Nothing. Carry on...}
+{2020}{}{Where did you find that Son of Bob stand out in the Bazaar? You know, the pretty white one?}
+{2030}{}{You... know... sonofbob?}
+{3000}{}{Haha.. little.. sonofbob... how you know?}
+{3010}{}{me know... big iguana bob... he looking sunofbob... you know sunofbob?}
+{3020}{}{I know his father, he is looking for him and wants me to deliver a message. You have to tell me where he is!}
+{4000}{}{What... you say? You sound... funny...}
+{4010}{}{...........}
+{5000}{}{Me know... sunofbob... me friend small Bob but.. small Bob gone far away... drink for small Bob!}
+{5010}{}{No more drinking! Please I can't stand this anymore, tell me where he is!}
+{5020}{}{Drink for Small Bob!}
+{5030}{}{Drink for Small Bob!}
+{6000}{}{[burrrrp] what... who you? Me miss sunofbob... you like small Bob... small squishy Bob}
+{6010}{}{You squish... small Bob?}
+{6020}{}{Where find small Bob?}
+{6030}{}{What did you do to Iguana Pete's son? You monster!}
+{7000}{}{Small Bob live desert now... can't visit... drink for... small.. small Bob..}
+{7010}{}{where in desert?}
+{7020}{}{What do you mean in the desert?}
+{8000}{}{Not safe... me.... small Bob go south of town.. town new.... new... n... [throws up in mouth]}
+{8010}{}{New what? Dammnit tell me, I'm sick of this shit already!}
+{9000}{}{urrgg....gorru........uhhh...::burp:: lost small... Bob.... miss sunofbob... ::he starts to cry::}
+{9010}{}{::he doesn't look well. you better leave before they throw you both out::}
+{10000}{}{I'm Lenny and you're pond scum. Get outta here.@@Why you bothering Lenny, you little white grub?@@What you want with Lenny, worthless human?@@Keep poking me and you can tell your maker Lenny sent you.@@Pleased to meet ya. I'm Lenny - you must be Shit-for-brains. Ha, ha!}
+{11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Player has received Mutant message from Lenny}
+{1020}{}{Player has spoken to Iguana Mike}
+{1030}{}{Player hasn't spoken to Iguana Mike}
+{2000}{}{What now you want? Me busy.}
+{2010}{}{Nothing. Carry on...}
+{2020}{}{Where did you find that Son of Bob stand out in the Bazaar? You know, the pretty white one?}
+{2030}{}{You... know... sonofbob?}
+{3000}{}{Haha.. little.. sonofbob... how you know?}
+{3010}{}{me know... big iguana bob... he looking sunofbob... you know sunofbob?}
+{3020}{}{I know his father, he is looking for him and wants me to deliver a message. You have to tell me where he is!}
+{4000}{}{What... you say? You sound... funny...}
+{4010}{}{...........}
+{5000}{}{Me know... sunofbob... me friend small Bob but.. small Bob gone far away... drink for small Bob!}
+{5010}{}{No more drinking! Please I can't stand this anymore, tell me where he is!}
+{5020}{}{Drink for Small Bob!}
+{5030}{}{Drink for Small Bob!}
+{6000}{}{[burrrrp] what... who you? Me miss sunofbob... you like small Bob... small squishy Bob}
+{6010}{}{You squish... small Bob?}
+{6020}{}{Where find small Bob?}
+{6030}{}{What did you do to Iguana Pete's son? You monster!}
+{7000}{}{Small Bob live desert now... can't visit... drink for... small.. small Bob..}
+{7010}{}{where in desert?}
+{7020}{}{What do you mean in the desert?}
+{8000}{}{Not safe... me.... small Bob go south of town.. town new.... new... n... [throws up in mouth]}
+{8010}{}{New what? Dammnit tell me, I'm sick of this shit already!}
+{9000}{}{urrgg....gorru........uhhh...::burp:: lost small... Bob.... miss sunofbob... ::he starts to cry::}
+{9010}{}{::he doesn't look well. you better leave before they throw you both out::}
+{10000}{}{I'm Lenny and you're pond scum. Get outta here.@@Why you bothering Lenny, you little white grub?@@What you want with Lenny, worthless human?@@Keep poking me and you can tell your maker Lenny sent you.@@Pleased to meet ya. I'm Lenny - you must be Shit-for-brains. Ha, ha!}
+{11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Player has received Mutant message from Lenny}
+{1020}{}{Player has spoken to Iguana Mike}
+{1030}{}{Player hasn't spoken to Iguana Mike}
+{2000}{}{What now you want? Me busy.}
+{2010}{}{Nothing. Carry on...}
+{2020}{}{Where did you find that Son of Bob stand out in the Bazaar? You know, the pretty white one?}
+{2030}{}{You... know... sonofbob?}
+{3000}{}{Haha.. little.. sonofbob... how you know?}
+{3010}{}{me know... big iguana bob... he looking sunofbob... you know sunofbob?}
+{3020}{}{I know his father, he is looking for him and wants me to deliver a message. You have to tell me where he is!}
+{4000}{}{What... you say? You sound... funny...}
+{4010}{}{...........}
+{5000}{}{Me know... sunofbob... me friend small Bob but.. small Bob gone far away... drink for small Bob!}
+{5010}{}{No more drinking! Please I can't stand this anymore, tell me where he is!}
+{5020}{}{Drink for Small Bob!}
+{5030}{}{Drink for Small Bob!}
+{6000}{}{[burrrrp] what... who you? Me miss sunofbob... you like small Bob... small squishy Bob}
+{6010}{}{You squish... small Bob?}
+{6020}{}{Where find small Bob?}
+{6030}{}{What did you do to Iguana Pete's son? You monster!}
+{7000}{}{Small Bob live desert now... can't visit... drink for... small.. small Bob..}
+{7010}{}{where in desert?}
+{7020}{}{What do you mean in the desert?}
+{8000}{}{Not safe... me.... small Bob go south of town.. town new.... new... n... [throws up in mouth]}
+{8010}{}{New what? Dammnit tell me, I'm sick of this shit already!}
+{9000}{}{urrgg....gorru........uhhh...::burp:: lost small... Bob.... miss sunofbob... ::he starts to cry::}
+{9010}{}{::he doesn't look well. you better leave before they throw you both out::}
+{10000}{}{I'm Lenny and you're pond scum. Get outta here.@@Why you bothering Lenny, you little white grub?@@What you want with Lenny, worthless human?@@Keep poking me and you can tell your maker Lenny sent you.@@Pleased to meet ya. I'm Lenny - you must be Shit-for-brains. Ha, ha!}
+{11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}

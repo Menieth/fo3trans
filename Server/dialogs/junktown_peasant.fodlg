@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -14,6 +15,38 @@ lang=engl
 [engl]
 {100}{}{Peasant}
 {200}{}{You see a junktown resident.}
+{1000}{}{Predialogue installations}
+{1010}{}{it is night}
+{1020}{}{normal}
+{2000}{}{I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+{3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{it is night}
+{1020}{}{normal}
+{2000}{}{I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+{3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{it is night}
+{1020}{}{normal}
+{2000}{}{I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+{3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{it is night}
+{1020}{}{normal}
+{2000}{}{I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+{3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{it is night}
 {1020}{}{normal}

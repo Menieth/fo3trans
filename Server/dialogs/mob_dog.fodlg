@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +14,30 @@ lang=engl
 {100}{}{Dog}
 {200}{}{You see a dog.}
 {210}{}{You see a dog, probably of mixed breed.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Aroooo.@@::pant::pant::@@Grrrrrr. Woof! Woof! Grrrrrr…@@Grrrr!@@Aroo?@@Ruff?@@Woof, woof? Aroo?}

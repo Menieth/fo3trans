@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -34,6 +34,118 @@ lang=engl
 
 [engl]
 {100}{}{Sir Charles Oustin}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
+{2010}{}{A talking plant?}
+{2020}{}{What do you do here?}
+{2030}{}{I bet you know good quotes from the book you read. What is the quote of the day you can tell me?}
+{2040}{}{Leo asked me to get his watch from you.}
+{2050}{}{I need to go.}
+{2060}{}{I have some Nuka for you.}
+{3000}{}{Well, I am not just a talking plant. I am Sir Charles Oustin... And I really like reading those wonderful novels from Aria.}
+{3010}{}{But... How did you end up like this?}
+{4000}{}{Not sure... I remember being plant and then... Well, thanks to dear ladies and gentlemen from Followers of Apocalypse, I am now here.}
+{4010}{}{I need to ask you about something else.}
+{5000}{}{I teach children some biology lessons with one more dear gentleman from Followers. These lovely kids are very fond of my subject, I assure you.}
+{5010}{}{Hmh... One more thing.}
+{6000}{}{Don't loot your comrade during the battle... Whatever that means.@@APA is good, but APA mk2 is better!@@Don't you dare dual logging or the Gods will come for you!@@Better loot, than die.@@Kompre and Sor did nothing wrong!@@Vi and Net really like tea parties.@@The one who handles the Banhammer gets the whole power!@@Enclave is not supported by Gods!@@Imperial Bar will come one day!}
+{7000}{}{Ah right... This wonderful gentleman is pretty bad in cards. We can solve it as civilised people. Lets play cards, if you win - you get the watch.}
+{7010}{}{I am not a good player myself... Maybe there is another way to deal with it?}
+{7020}{}{[ Gambling 50 ] Lets do it!}
+{7030}{}{[ Gambling 50 ] I am on it.}
+{8000}{}{Hmmh... Well, I would really like 3 bottles of Nuka. The day is so hot.}
+{9000}{}{I am sorry to say, but you've lost. Don't worry though, it is not so bad to loose to the plant.}
+{10000}{}{You won! You are really good in it. Here is what you need, thank you for this game.}
+{11000}{}{Amazing! Thank you a lot. Here is what you need. Now, before you go, let me give you a small tip, how to be good in card games...}
+{12000}{}{Have a good day, dear visitor.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
+{2010}{}{A talking plant?}
+{2020}{}{What do you do here?}
+{2030}{}{I bet you know good quotes from the book you read. What is the quote of the day you can tell me?}
+{2040}{}{Leo asked me to get his watch from you.}
+{2050}{}{I need to go.}
+{2060}{}{I have some Nuka for you.}
+{3000}{}{Well, I am not just a talking plant. I am Sir Charles Oustin... And I really like reading those wonderful novels from Aria.}
+{3010}{}{But... How did you end up like this?}
+{4000}{}{Not sure... I remember being plant and then... Well, thanks to dear ladies and gentlemen from Followers of Apocalypse, I am now here.}
+{4010}{}{I need to ask you about something else.}
+{5000}{}{I teach children some biology lessons with one more dear gentleman from Followers. These lovely kids are very fond of my subject, I assure you.}
+{5010}{}{Hmh... One more thing.}
+{6000}{}{Don't loot your comrade during the battle... Whatever that means.@@APA is good, but APA mk2 is better!@@Don't you dare dual logging or the Gods will come for you!@@Better loot, than die.@@Kompre and Sor did nothing wrong!@@Vi and Net really like tea parties.@@The one who handles the Banhammer gets the whole power!@@Enclave is not supported by Gods!@@Imperial Bar will come one day!}
+{7000}{}{Ah right... This wonderful gentleman is pretty bad in cards. We can solve it as civilised people. Lets play cards, if you win - you get the watch.}
+{7010}{}{I am not a good player myself... Maybe there is another way to deal with it?}
+{7020}{}{[ Gambling 50 ] Lets do it!}
+{7030}{}{[ Gambling 50 ] I am on it.}
+{8000}{}{Hmmh... Well, I would really like 3 bottles of Nuka. The day is so hot.}
+{9000}{}{I am sorry to say, but you've lost. Don't worry though, it is not so bad to loose to the plant.}
+{10000}{}{You won! You are really good in it. Here is what you need, thank you for this game.}
+{11000}{}{Amazing! Thank you a lot. Here is what you need. Now, before you go, let me give you a small tip, how to be good in card games...}
+{12000}{}{Have a good day, dear visitor.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
+{2010}{}{A talking plant?}
+{2020}{}{What do you do here?}
+{2030}{}{I bet you know good quotes from the book you read. What is the quote of the day you can tell me?}
+{2040}{}{Leo asked me to get his watch from you.}
+{2050}{}{I need to go.}
+{2060}{}{I have some Nuka for you.}
+{3000}{}{Well, I am not just a talking plant. I am Sir Charles Oustin... And I really like reading those wonderful novels from Aria.}
+{3010}{}{But... How did you end up like this?}
+{4000}{}{Not sure... I remember being plant and then... Well, thanks to dear ladies and gentlemen from Followers of Apocalypse, I am now here.}
+{4010}{}{I need to ask you about something else.}
+{5000}{}{I teach children some biology lessons with one more dear gentleman from Followers. These lovely kids are very fond of my subject, I assure you.}
+{5010}{}{Hmh... One more thing.}
+{6000}{}{Don't loot your comrade during the battle... Whatever that means.@@APA is good, but APA mk2 is better!@@Don't you dare dual logging or the Gods will come for you!@@Better loot, than die.@@Kompre and Sor did nothing wrong!@@Vi and Net really like tea parties.@@The one who handles the Banhammer gets the whole power!@@Enclave is not supported by Gods!@@Imperial Bar will come one day!}
+{7000}{}{Ah right... This wonderful gentleman is pretty bad in cards. We can solve it as civilised people. Lets play cards, if you win - you get the watch.}
+{7010}{}{I am not a good player myself... Maybe there is another way to deal with it?}
+{7020}{}{[ Gambling 50 ] Lets do it!}
+{7030}{}{[ Gambling 50 ] I am on it.}
+{8000}{}{Hmmh... Well, I would really like 3 bottles of Nuka. The day is so hot.}
+{9000}{}{I am sorry to say, but you've lost. Don't worry though, it is not so bad to loose to the plant.}
+{10000}{}{You won! You are really good in it. Here is what you need, thank you for this game.}
+{11000}{}{Amazing! Thank you a lot. Here is what you need. Now, before you go, let me give you a small tip, how to be good in card games...}
+{12000}{}{Have a good day, dear visitor.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{ }
+{2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
+{2010}{}{A talking plant?}
+{2020}{}{What do you do here?}
+{2030}{}{I bet you know good quotes from the book you read. What is the quote of the day you can tell me?}
+{2040}{}{Leo asked me to get his watch from you.}
+{2050}{}{I need to go.}
+{2060}{}{I have some Nuka for you.}
+{3000}{}{Well, I am not just a talking plant. I am Sir Charles Oustin... And I really like reading those wonderful novels from Aria.}
+{3010}{}{But... How did you end up like this?}
+{4000}{}{Not sure... I remember being plant and then... Well, thanks to dear ladies and gentlemen from Followers of Apocalypse, I am now here.}
+{4010}{}{I need to ask you about something else.}
+{5000}{}{I teach children some biology lessons with one more dear gentleman from Followers. These lovely kids are very fond of my subject, I assure you.}
+{5010}{}{Hmh... One more thing.}
+{6000}{}{Don't loot your comrade during the battle... Whatever that means.@@APA is good, but APA mk2 is better!@@Don't you dare dual logging or the Gods will come for you!@@Better loot, than die.@@Kompre and Sor did nothing wrong!@@Vi and Net really like tea parties.@@The one who handles the Banhammer gets the whole power!@@Enclave is not supported by Gods!@@Imperial Bar will come one day!}
+{7000}{}{Ah right... This wonderful gentleman is pretty bad in cards. We can solve it as civilised people. Lets play cards, if you win - you get the watch.}
+{7010}{}{I am not a good player myself... Maybe there is another way to deal with it?}
+{7020}{}{[ Gambling 50 ] Lets do it!}
+{7030}{}{[ Gambling 50 ] I am on it.}
+{8000}{}{Hmmh... Well, I would really like 3 bottles of Nuka. The day is so hot.}
+{9000}{}{I am sorry to say, but you've lost. Don't worry though, it is not so bad to loose to the plant.}
+{10000}{}{You won! You are really good in it. Here is what you need, thank you for this game.}
+{11000}{}{Amazing! Thank you a lot. Here is what you need. Now, before you go, let me give you a small tip, how to be good in card games...}
+{12000}{}{Have a good day, dear visitor.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}

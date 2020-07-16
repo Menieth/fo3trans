@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +14,30 @@ lang=engl
 {100}{}{Chuck}
 {200}{}{You see Chuck, the gypsy fortune-teller.}
 {210}{}{You see a dark-skinned man adorned with bright scarves and trinkets.}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{normal}
+{2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}

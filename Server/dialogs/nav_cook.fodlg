@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -30,6 +30,94 @@ lang=engl
 {100}{}{Cookie}
 {200}{}{You see a cook.}
 {210}{}{You see a man in armor wearing a chef’s hat and an apron.}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
+{2010}{}{I could use something to eat.}
+{2020}{}{Let’s chat a while.}
+{2030}{}{I better be going now.}
+{3000}{}{Well, here ya go. The snow and fly shit’s over there. Anything else?}
+{3010}{}{Shit? Snow? What the hell kind of food is this?}
+{3020}{}{Let’s chat while I eat.}
+{3030}{}{Thanks. See you.}
+{4000}{}{I’m sorry, ya must be new to the army. Don’t take offense to what I said, that’s just what we call stuff here. Snow and fly shit’s another name for salt and pepper.}
+{4010}{}{Got it, sorry. Let’s chat while I eat.}
+{4020}{}{Yes, it makes sense now. Gotta go, see you later.}
+{5000}{}{What ya want to talk about?}
+{5010}{}{What’s going on around here?}
+{5020}{}{Thanks. I need to get back to my duty post.}
+{6000}{}{Not much. Soldiers are coming and going, usual stuff. You wanna ask about something specific or what?}
+{6010}{}{Nothing for now, thanks.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
+{2010}{}{I could use something to eat.}
+{2020}{}{Let’s chat a while.}
+{2030}{}{I better be going now.}
+{3000}{}{Well, here ya go. The snow and fly shit’s over there. Anything else?}
+{3010}{}{Shit? Snow? What the hell kind of food is this?}
+{3020}{}{Let’s chat while I eat.}
+{3030}{}{Thanks. See you.}
+{4000}{}{I’m sorry, ya must be new to the army. Don’t take offense to what I said, that’s just what we call stuff here. Snow and fly shit’s another name for salt and pepper.}
+{4010}{}{Got it, sorry. Let’s chat while I eat.}
+{4020}{}{Yes, it makes sense now. Gotta go, see you later.}
+{5000}{}{What ya want to talk about?}
+{5010}{}{What’s going on around here?}
+{5020}{}{Thanks. I need to get back to my duty post.}
+{6000}{}{Not much. Soldiers are coming and going, usual stuff. You wanna ask about something specific or what?}
+{6010}{}{Nothing for now, thanks.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
+{2010}{}{I could use something to eat.}
+{2020}{}{Let’s chat a while.}
+{2030}{}{I better be going now.}
+{3000}{}{Well, here ya go. The snow and fly shit’s over there. Anything else?}
+{3010}{}{Shit? Snow? What the hell kind of food is this?}
+{3020}{}{Let’s chat while I eat.}
+{3030}{}{Thanks. See you.}
+{4000}{}{I’m sorry, ya must be new to the army. Don’t take offense to what I said, that’s just what we call stuff here. Snow and fly shit’s another name for salt and pepper.}
+{4010}{}{Got it, sorry. Let’s chat while I eat.}
+{4020}{}{Yes, it makes sense now. Gotta go, see you later.}
+{5000}{}{What ya want to talk about?}
+{5010}{}{What’s going on around here?}
+{5020}{}{Thanks. I need to get back to my duty post.}
+{6000}{}{Not much. Soldiers are coming and going, usual stuff. You wanna ask about something specific or what?}
+{6010}{}{Nothing for now, thanks.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Hey soldier. Ya looking for some grub or just someone to talk to?}
+{2010}{}{I could use something to eat.}
+{2020}{}{Let’s chat a while.}
+{2030}{}{I better be going now.}
+{3000}{}{Well, here ya go. The snow and fly shit’s over there. Anything else?}
+{3010}{}{Shit? Snow? What the hell kind of food is this?}
+{3020}{}{Let’s chat while I eat.}
+{3030}{}{Thanks. See you.}
+{4000}{}{I’m sorry, ya must be new to the army. Don’t take offense to what I said, that’s just what we call stuff here. Snow and fly shit’s another name for salt and pepper.}
+{4010}{}{Got it, sorry. Let’s chat while I eat.}
+{4020}{}{Yes, it makes sense now. Gotta go, see you later.}
+{5000}{}{What ya want to talk about?}
+{5010}{}{What’s going on around here?}
+{5020}{}{Thanks. I need to get back to my duty post.}
+{6000}{}{Not much. Soldiers are coming and going, usual stuff. You wanna ask about something specific or what?}
+{6010}{}{Nothing for now, thanks.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

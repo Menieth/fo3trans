@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -31,6 +31,106 @@ lang=engl
 
 [engl]
 {100}{}{Sergeant Peterson}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Get Back! This is USA property!}
+{2010}{}{Enclave? What are you doing here?}
+{2020}{}{What is the point for Enclave to capture Necropolis?}
+{2030}{}{I made it. Here is the data from that terminal.}
+{2040}{}{I better go, then.}
+{3000}{}{Recently we recaptured the ruins of Bakersfield knocking out the Brotherhood. Now we are planning to reconstruct the city for our needs. But first we need to knock out these zombie freaks from the underground.}
+{3010}{}{What are you mean underground?}
+{3020}{}{I wanted to ask about something else.}
+{3030}{}{Whoever even cares...}
+{4000}{}{These mutants, well... rest of them, fortified in the Vault 12 when we capture the city. We can't waste time and peoples on storm. But we need information from the terminal inside.}
+{4010}{}{Maybe I can help with this... problem?}
+{4020}{}{Alright. Bye then.}
+{5000}{}{Hmh... Well, if you really wish to help you country. I don't stop you. If you succeed, you will be paid. We need those data.}
+{5010}{}{Fine. I will do it.}
+{5020}{}{Not interested.}
+{6000}{}{Good job. Here is your payment. Now we finally can burrow them in their fortress without losing people.}
+{6010}{}{What? Is that all? Do you even imagine how dangerouse it was?!}
+{6020}{}{What a hell? Where is your pride to pay me this shit? I demand more!}
+{6030}{}{Alright. See you.}
+{7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more caps for you, you damn begger. Get out now!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Get Back! This is USA property!}
+{2010}{}{Enclave? What are you doing here?}
+{2020}{}{What is the point for Enclave to capture Necropolis?}
+{2030}{}{I made it. Here is the data from that terminal.}
+{2040}{}{I better go, then.}
+{3000}{}{Recently we recaptured the ruins of Bakersfield knocking out the Brotherhood. Now we are planning to reconstruct the city for our needs. But first we need to knock out these zombie freaks from the underground.}
+{3010}{}{What are you mean underground?}
+{3020}{}{I wanted to ask about something else.}
+{3030}{}{Whoever even cares...}
+{4000}{}{These mutants, well... rest of them, fortified in the Vault 12 when we capture the city. We can't waste time and peoples on storm. But we need information from the terminal inside.}
+{4010}{}{Maybe I can help with this... problem?}
+{4020}{}{Alright. Bye then.}
+{5000}{}{Hmh... Well, if you really wish to help you country. I don't stop you. If you succeed, you will be paid. We need those data.}
+{5010}{}{Fine. I will do it.}
+{5020}{}{Not interested.}
+{6000}{}{Good job. Here is your payment. Now we finally can burrow them in their fortress without losing people.}
+{6010}{}{What? Is that all? Do you even imagine how dangerouse it was?!}
+{6020}{}{What a hell? Where is your pride to pay me this shit? I demand more!}
+{6030}{}{Alright. See you.}
+{7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more caps for you, you damn begger. Get out now!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Get Back! This is USA property!}
+{2010}{}{Enclave? What are you doing here?}
+{2020}{}{What is the point for Enclave to capture Necropolis?}
+{2030}{}{I made it. Here is the data from that terminal.}
+{2040}{}{I better go, then.}
+{3000}{}{Recently we recaptured the ruins of Bakersfield knocking out the Brotherhood. Now we are planning to reconstruct the city for our needs. But first we need to knock out these zombie freaks from the underground.}
+{3010}{}{What are you mean underground?}
+{3020}{}{I wanted to ask about something else.}
+{3030}{}{Whoever even cares...}
+{4000}{}{These mutants, well... rest of them, fortified in the Vault 12 when we capture the city. We can't waste time and peoples on storm. But we need information from the terminal inside.}
+{4010}{}{Maybe I can help with this... problem?}
+{4020}{}{Alright. Bye then.}
+{5000}{}{Hmh... Well, if you really wish to help you country. I don't stop you. If you succeed, you will be paid. We need those data.}
+{5010}{}{Fine. I will do it.}
+{5020}{}{Not interested.}
+{6000}{}{Good job. Here is your payment. Now we finally can burrow them in their fortress without losing people.}
+{6010}{}{What? Is that all? Do you even imagine how dangerouse it was?!}
+{6020}{}{What a hell? Where is your pride to pay me this shit? I demand more!}
+{6030}{}{Alright. See you.}
+{7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more caps for you, you damn begger. Get out now!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Get Back! This is USA property!}
+{2010}{}{Enclave? What are you doing here?}
+{2020}{}{What is the point for Enclave to capture Necropolis?}
+{2030}{}{I made it. Here is the data from that terminal.}
+{2040}{}{I better go, then.}
+{3000}{}{Recently we recaptured the ruins of Bakersfield knocking out the Brotherhood. Now we are planning to reconstruct the city for our needs. But first we need to knock out these zombie freaks from the underground.}
+{3010}{}{What are you mean underground?}
+{3020}{}{I wanted to ask about something else.}
+{3030}{}{Whoever even cares...}
+{4000}{}{These mutants, well... rest of them, fortified in the Vault 12 when we capture the city. We can't waste time and peoples on storm. But we need information from the terminal inside.}
+{4010}{}{Maybe I can help with this... problem?}
+{4020}{}{Alright. Bye then.}
+{5000}{}{Hmh... Well, if you really wish to help you country. I don't stop you. If you succeed, you will be paid. We need those data.}
+{5010}{}{Fine. I will do it.}
+{5020}{}{Not interested.}
+{6000}{}{Good job. Here is your payment. Now we finally can burrow them in their fortress without losing people.}
+{6010}{}{What? Is that all? Do you even imagine how dangerouse it was?!}
+{6020}{}{What a hell? Where is your pride to pay me this shit? I demand more!}
+{6030}{}{Alright. See you.}
+{7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more caps for you, you damn begger. Get out now!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Get Back! This is USA property!}

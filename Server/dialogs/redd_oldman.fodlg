@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +14,30 @@ lang=engl
 {100}{}{Emmett}
 {200}{}{You see an old man.}
 {210}{}{You see a hunched over old man, with a weary look in his eye.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whatcha want?@@Blah.@@Mining town, that's it.@@You got spare caps?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whatcha want?@@Blah.@@Mining town, that's it.@@You got spare caps?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whatcha want?@@Blah.@@Mining town, that's it.@@You got spare caps?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whatcha want?@@Blah.@@Mining town, that's it.@@You got spare caps?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Whatcha want?@@Blah.@@Mining town, that's it.@@You got spare caps?}

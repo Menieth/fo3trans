@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -18,6 +19,38 @@ lang=engl
 {210}{}{You see one of Mordino's men. He looks a little jumpy.}
 {210}{}{You see one of Mordino's men. He looks nervous.}
 {210}{}{You see one of Mordino's men. He looks like he hasn't slept in a while.}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Charismatic}
+{2000}{}{Look, I ain't your compadre, so don't be talking to me no more.@@Mordinos ain't got no friends except Mordinos.@@I ain't got TIME for you right now.@@Get outta here.@@I ain't got TIME for you right now.@@Get.@@I ain't gonna give you any Jet no matter how much you beg. Git.@@Look, I AIN'T your brother, so don't be talking to me no more.@@Blow, puta.}
+{3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Charismatic}
+{2000}{}{Look, I ain't your compadre, so don't be talking to me no more.@@Mordinos ain't got no friends except Mordinos.@@I ain't got TIME for you right now.@@Get outta here.@@I ain't got TIME for you right now.@@Get.@@I ain't gonna give you any Jet no matter how much you beg. Git.@@Look, I AIN'T your brother, so don't be talking to me no more.@@Blow, puta.}
+{3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Charismatic}
+{2000}{}{Look, I ain't your compadre, so don't be talking to me no more.@@Mordinos ain't got no friends except Mordinos.@@I ain't got TIME for you right now.@@Get outta here.@@I ain't got TIME for you right now.@@Get.@@I ain't gonna give you any Jet no matter how much you beg. Git.@@Look, I AIN'T your brother, so don't be talking to me no more.@@Blow, puta.}
+{3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Charismatic}
+{2000}{}{Look, I ain't your compadre, so don't be talking to me no more.@@Mordinos ain't got no friends except Mordinos.@@I ain't got TIME for you right now.@@Get outta here.@@I ain't got TIME for you right now.@@Get.@@I ain't gonna give you any Jet no matter how much you beg. Git.@@Look, I AIN'T your brother, so don't be talking to me no more.@@Blow, puta.}
+{3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Charismatic}

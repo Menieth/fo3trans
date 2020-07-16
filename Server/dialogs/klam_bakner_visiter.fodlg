@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -26,6 +27,50 @@ lang=engl
 {210}{}{You see some regular bar client who slowly drinks his beer.}
 {210}{}{You see a barfly laughing for no particular reason.}
 {210}{}{You see some Buckner House regular.}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Popular}
+{1030}{}{Hated}
+{1040}{}{slaver}
+{2000}{}{Nice to see someone new in town.@@I guess you ain’t so bad after all.@@Buy us a round of drinks!@@Say hello to Smiley over there, and Gimpy Jim next to him.@@Trapping’s good lately.@@Weather’s getting ready to turn, I guess.@@Got me a good trapline south of here.@@If you’re smart, you’ll stay away from the Duntons.@@If your anxious, try the Bathhouse.@@Head west to Trapper Town, if you want a place to sack out later.}
+{3000}{}{Welcome, friend.@@Hope you like our city.@@Klamath is the place to be.@@Nice to have you here.@@(raises his mug to you)@@(winks at you)@@You sure are pretty, maybe we should... alright, just askin'!@@Don’t go wandering at night.@@One of our best trappers is missing. Guy named Phil.}
+{4000}{}{You’re in the wrong tavern, ain’t ya?@@We don’t need troublemakers here.@@mumble, mumble)…sorry ass outa town...@@Another one of Dunton’s gang.@@What are you looking at?@@Just keep moving.@@Hope you can hold your liquor.@@No room for the likes of you.@@Too many strangers lately.@@There goes the neighborhood.@@(looks at you and then shakes his head)@@(makes a subtly rude gesture)@@You’re probably the one responsible for them brahmin mutilations.@@Some of our hunters' is gone missing an' you’re prob'ly why.@@You better not steal our brahmin.@@We’re keeping an eye on you.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Popular}
+{1030}{}{Hated}
+{1040}{}{slaver}
+{2000}{}{Nice to see someone new in town.@@I guess you ain’t so bad after all.@@Buy us a round of drinks!@@Say hello to Smiley over there, and Gimpy Jim next to him.@@Trapping’s good lately.@@Weather’s getting ready to turn, I guess.@@Got me a good trapline south of here.@@If you’re smart, you’ll stay away from the Duntons.@@If your anxious, try the Bathhouse.@@Head west to Trapper Town, if you want a place to sack out later.}
+{3000}{}{Welcome, friend.@@Hope you like our city.@@Klamath is the place to be.@@Nice to have you here.@@(raises his mug to you)@@(winks at you)@@You sure are pretty, maybe we should... alright, just askin'!@@Don’t go wandering at night.@@One of our best trappers is missing. Guy named Phil.}
+{4000}{}{You’re in the wrong tavern, ain’t ya?@@We don’t need troublemakers here.@@mumble, mumble)…sorry ass outa town...@@Another one of Dunton’s gang.@@What are you looking at?@@Just keep moving.@@Hope you can hold your liquor.@@No room for the likes of you.@@Too many strangers lately.@@There goes the neighborhood.@@(looks at you and then shakes his head)@@(makes a subtly rude gesture)@@You’re probably the one responsible for them brahmin mutilations.@@Some of our hunters' is gone missing an' you’re prob'ly why.@@You better not steal our brahmin.@@We’re keeping an eye on you.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Popular}
+{1030}{}{Hated}
+{1040}{}{slaver}
+{2000}{}{Nice to see someone new in town.@@I guess you ain’t so bad after all.@@Buy us a round of drinks!@@Say hello to Smiley over there, and Gimpy Jim next to him.@@Trapping’s good lately.@@Weather’s getting ready to turn, I guess.@@Got me a good trapline south of here.@@If you’re smart, you’ll stay away from the Duntons.@@If your anxious, try the Bathhouse.@@Head west to Trapper Town, if you want a place to sack out later.}
+{3000}{}{Welcome, friend.@@Hope you like our city.@@Klamath is the place to be.@@Nice to have you here.@@(raises his mug to you)@@(winks at you)@@You sure are pretty, maybe we should... alright, just askin'!@@Don’t go wandering at night.@@One of our best trappers is missing. Guy named Phil.}
+{4000}{}{You’re in the wrong tavern, ain’t ya?@@We don’t need troublemakers here.@@mumble, mumble)…sorry ass outa town...@@Another one of Dunton’s gang.@@What are you looking at?@@Just keep moving.@@Hope you can hold your liquor.@@No room for the likes of you.@@Too many strangers lately.@@There goes the neighborhood.@@(looks at you and then shakes his head)@@(makes a subtly rude gesture)@@You’re probably the one responsible for them brahmin mutilations.@@Some of our hunters' is gone missing an' you’re prob'ly why.@@You better not steal our brahmin.@@We’re keeping an eye on you.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Regular}
+{1020}{}{Popular}
+{1030}{}{Hated}
+{1040}{}{slaver}
+{2000}{}{Nice to see someone new in town.@@I guess you ain’t so bad after all.@@Buy us a round of drinks!@@Say hello to Smiley over there, and Gimpy Jim next to him.@@Trapping’s good lately.@@Weather’s getting ready to turn, I guess.@@Got me a good trapline south of here.@@If you’re smart, you’ll stay away from the Duntons.@@If your anxious, try the Bathhouse.@@Head west to Trapper Town, if you want a place to sack out later.}
+{3000}{}{Welcome, friend.@@Hope you like our city.@@Klamath is the place to be.@@Nice to have you here.@@(raises his mug to you)@@(winks at you)@@You sure are pretty, maybe we should... alright, just askin'!@@Don’t go wandering at night.@@One of our best trappers is missing. Guy named Phil.}
+{4000}{}{You’re in the wrong tavern, ain’t ya?@@We don’t need troublemakers here.@@mumble, mumble)…sorry ass outa town...@@Another one of Dunton’s gang.@@What are you looking at?@@Just keep moving.@@Hope you can hold your liquor.@@No room for the likes of you.@@Too many strangers lately.@@There goes the neighborhood.@@(looks at you and then shakes his head)@@(makes a subtly rude gesture)@@You’re probably the one responsible for them brahmin mutilations.@@Some of our hunters' is gone missing an' you’re prob'ly why.@@You better not steal our brahmin.@@We’re keeping an eye on you.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Regular}
 {1020}{}{Popular}

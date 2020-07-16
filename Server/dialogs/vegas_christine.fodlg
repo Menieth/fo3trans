@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -49,6 +49,178 @@ lang=engl
 
 [engl]
 {100}{}{Christine}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Ans}
+{1030}{}{Ans}
+{1040}{}{Ans}
+{2000}{}{Hey... Hey wait! Please, I need your help.}
+{2010}{}{Who are you?}
+{2020}{}{Oh back off!}
+{3000}{}{My name is Christine, I was thrown out of the city by my idiot husband. Can you help me? I promise I will help you.}
+{3010}{}{Why did your husband do this with you?}
+{3020}{}{Alright, how can I help you?}
+{3030}{}{I can help, but only if I can get some profit out of it.}
+{3040}{}{Not interested. Bye.}
+{4000}{}{I... eh... I cheated on him, that fat fuck saw me. Don't look at me like that, I never wanted to merry him. I had to, because it was the only way for my family to survive. Do you think it is nice to grow outisde of Strip?}
+{4010}{}{Ha! You deserved that, slut. Farewell.}
+{4020}{}{Fine, I will help you. What's the deal?}
+{4030}{}{Alright, if I get some caps for it - you can rely on me.}
+{4040}{}{Not interested. Bye.}
+{5000}{}{Listen, I managed to steal some money from that old prick. I was hiding them in a small briefcase, which I had put in a junk pile. It is hidden under the NCR embassy. Check around there, there should be a way down. You will get your payment, don't worry.}
+{5010}{}{Fine. I will look for it.}
+{5020}{}{Not for me. See you.}
+{6000}{}{Please... You are my only hope.}
+{7000}{}{Oh thank you a lot. Here, take these dollars as a reward. You saved my life.}
+{7010}{}{So, what will you do now?}
+{7020}{}{All's well that ends well. Farewell, Christine.}
+{7030}{}{And that's it? Get all the dollars here, you bitch!}
+{7040}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{7050}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{8000}{}{Fuck this city, I am getting out of here. Will exchange dollars and take a trip to Hub. I no longer wish to make up a noble face to get some shiny coins.}
+{8010}{}{What about your family?}
+{8020}{}{Fine idea. Bye, Christine.}
+{9000}{}{They died last year. Some psycho killed them for several caps. That's what it like to live in Strip.}
+{9010}{}{I see. See you, Christine.}
+{9020}{}{What a horrible city indeed. Goodbye, Christine.}
+{10000}{}{Thank you once again.}
+{11000}{}{Hey... Did you manage to get it?}
+{11010}{}{Yes, here is your briefcase.}
+{11020}{}{No, but I am on it.}
+{12000}{}{Fine... Here are few extra. Now go, thank you once again.}
+{13000}{}{No, sorry but I need these money.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Ans}
+{1030}{}{Ans}
+{1040}{}{Ans}
+{2000}{}{Hey... Hey wait! Please, I need your help.}
+{2010}{}{Who are you?}
+{2020}{}{Oh back off!}
+{3000}{}{My name is Christine, I was thrown out of the city by my idiot husband. Can you help me? I promise I will help you.}
+{3010}{}{Why did your husband do this with you?}
+{3020}{}{Alright, how can I help you?}
+{3030}{}{I can help, but only if I can get some profit out of it.}
+{3040}{}{Not interested. Bye.}
+{4000}{}{I... eh... I cheated on him, that fat fuck saw me. Don't look at me like that, I never wanted to merry him. I had to, because it was the only way for my family to survive. Do you think it is nice to grow outisde of Strip?}
+{4010}{}{Ha! You deserved that, slut. Farewell.}
+{4020}{}{Fine, I will help you. What's the deal?}
+{4030}{}{Alright, if I get some caps for it - you can rely on me.}
+{4040}{}{Not interested. Bye.}
+{5000}{}{Listen, I managed to steal some money from that old prick. I was hiding them in a small briefcase, which I had put in a junk pile. It is hidden under the NCR embassy. Check around there, there should be a way down. You will get your payment, don't worry.}
+{5010}{}{Fine. I will look for it.}
+{5020}{}{Not for me. See you.}
+{6000}{}{Please... You are my only hope.}
+{7000}{}{Oh thank you a lot. Here, take these dollars as a reward. You saved my life.}
+{7010}{}{So, what will you do now?}
+{7020}{}{All's well that ends well. Farewell, Christine.}
+{7030}{}{And that's it? Get all the dollars here, you bitch!}
+{7040}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{7050}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{8000}{}{Fuck this city, I am getting out of here. Will exchange dollars and take a trip to Hub. I no longer wish to make up a noble face to get some shiny coins.}
+{8010}{}{What about your family?}
+{8020}{}{Fine idea. Bye, Christine.}
+{9000}{}{They died last year. Some psycho killed them for several caps. That's what it like to live in Strip.}
+{9010}{}{I see. See you, Christine.}
+{9020}{}{What a horrible city indeed. Goodbye, Christine.}
+{10000}{}{Thank you once again.}
+{11000}{}{Hey... Did you manage to get it?}
+{11010}{}{Yes, here is your briefcase.}
+{11020}{}{No, but I am on it.}
+{12000}{}{Fine... Here are few extra. Now go, thank you once again.}
+{13000}{}{No, sorry but I need these money.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Ans}
+{1030}{}{Ans}
+{1040}{}{Ans}
+{2000}{}{Hey... Hey wait! Please, I need your help.}
+{2010}{}{Who are you?}
+{2020}{}{Oh back off!}
+{3000}{}{My name is Christine, I was thrown out of the city by my idiot husband. Can you help me? I promise I will help you.}
+{3010}{}{Why did your husband do this with you?}
+{3020}{}{Alright, how can I help you?}
+{3030}{}{I can help, but only if I can get some profit out of it.}
+{3040}{}{Not interested. Bye.}
+{4000}{}{I... eh... I cheated on him, that fat fuck saw me. Don't look at me like that, I never wanted to merry him. I had to, because it was the only way for my family to survive. Do you think it is nice to grow outisde of Strip?}
+{4010}{}{Ha! You deserved that, slut. Farewell.}
+{4020}{}{Fine, I will help you. What's the deal?}
+{4030}{}{Alright, if I get some caps for it - you can rely on me.}
+{4040}{}{Not interested. Bye.}
+{5000}{}{Listen, I managed to steal some money from that old prick. I was hiding them in a small briefcase, which I had put in a junk pile. It is hidden under the NCR embassy. Check around there, there should be a way down. You will get your payment, don't worry.}
+{5010}{}{Fine. I will look for it.}
+{5020}{}{Not for me. See you.}
+{6000}{}{Please... You are my only hope.}
+{7000}{}{Oh thank you a lot. Here, take these dollars as a reward. You saved my life.}
+{7010}{}{So, what will you do now?}
+{7020}{}{All's well that ends well. Farewell, Christine.}
+{7030}{}{And that's it? Get all the dollars here, you bitch!}
+{7040}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{7050}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{8000}{}{Fuck this city, I am getting out of here. Will exchange dollars and take a trip to Hub. I no longer wish to make up a noble face to get some shiny coins.}
+{8010}{}{What about your family?}
+{8020}{}{Fine idea. Bye, Christine.}
+{9000}{}{They died last year. Some psycho killed them for several caps. That's what it like to live in Strip.}
+{9010}{}{I see. See you, Christine.}
+{9020}{}{What a horrible city indeed. Goodbye, Christine.}
+{10000}{}{Thank you once again.}
+{11000}{}{Hey... Did you manage to get it?}
+{11010}{}{Yes, here is your briefcase.}
+{11020}{}{No, but I am on it.}
+{12000}{}{Fine... Here are few extra. Now go, thank you once again.}
+{13000}{}{No, sorry but I need these money.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Ans}
+{1030}{}{Ans}
+{1040}{}{Ans}
+{2000}{}{Hey... Hey wait! Please, I need your help.}
+{2010}{}{Who are you?}
+{2020}{}{Oh back off!}
+{3000}{}{My name is Christine, I was thrown out of the city by my idiot husband. Can you help me? I promise I will help you.}
+{3010}{}{Why did your husband do this with you?}
+{3020}{}{Alright, how can I help you?}
+{3030}{}{I can help, but only if I can get some profit out of it.}
+{3040}{}{Not interested. Bye.}
+{4000}{}{I... eh... I cheated on him, that fat fuck saw me. Don't look at me like that, I never wanted to merry him. I had to, because it was the only way for my family to survive. Do you think it is nice to grow outisde of Strip?}
+{4010}{}{Ha! You deserved that, slut. Farewell.}
+{4020}{}{Fine, I will help you. What's the deal?}
+{4030}{}{Alright, if I get some caps for it - you can rely on me.}
+{4040}{}{Not interested. Bye.}
+{5000}{}{Listen, I managed to steal some money from that old prick. I was hiding them in a small briefcase, which I had put in a junk pile. It is hidden under the NCR embassy. Check around there, there should be a way down. You will get your payment, don't worry.}
+{5010}{}{Fine. I will look for it.}
+{5020}{}{Not for me. See you.}
+{6000}{}{Please... You are my only hope.}
+{7000}{}{Oh thank you a lot. Here, take these dollars as a reward. You saved my life.}
+{7010}{}{So, what will you do now?}
+{7020}{}{All's well that ends well. Farewell, Christine.}
+{7030}{}{And that's it? Get all the dollars here, you bitch!}
+{7040}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{7050}{}{[ Barter 90 ] I am sure I deserve more than that.}
+{8000}{}{Fuck this city, I am getting out of here. Will exchange dollars and take a trip to Hub. I no longer wish to make up a noble face to get some shiny coins.}
+{8010}{}{What about your family?}
+{8020}{}{Fine idea. Bye, Christine.}
+{9000}{}{They died last year. Some psycho killed them for several caps. That's what it like to live in Strip.}
+{9010}{}{I see. See you, Christine.}
+{9020}{}{What a horrible city indeed. Goodbye, Christine.}
+{10000}{}{Thank you once again.}
+{11000}{}{Hey... Did you manage to get it?}
+{11010}{}{Yes, here is your briefcase.}
+{11020}{}{No, but I am on it.}
+{12000}{}{Fine... Here are few extra. Now go, thank you once again.}
+{13000}{}{No, sorry but I need these money.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ans}

@@ -1,4 +1,4 @@
-Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 2
+# Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 2
 # This is all of the combat messages used by combat.c
 # Note: all %d values will be filled with a number greater than 1
 #
@@ -1425,10 +1425,10 @@ Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 
 {10910}{}{Auuu...To bolííí!}
 {10920}{}{Urp!}
 {10930}{}{Urp! jaůůůůů...}
-{10940}{}{Bolest...to je...bolest...}
-{10950}{}{Bolí, to bolí, ne...}
 {10930}{}{Už nikdy nebudu mít děti.}
+{10940}{}{Bolest...to je...bolest...}
 {10940}{}{A Lucinka už bratříčka nedostane....}
+{10950}{}{Bolí, to bolí, ne...}
 {10950}{}{Proč zrovna tam? Proč?}
 {10960}{}{To bolí, to bolí!}
 {10970}{}{Musím si na chvíli sednout.}
@@ -2075,12 +2075,12 @@ Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 
 {16310}{}{Ještě kousek doprava, ahhh, to je lepší.}
 {16320}{}{Gerrk!}
 {16330}{}{Co to tady tak smrdí? Aha, moje střeva.}
-{16340}{}{Dík za tracheotomii, hned se mi líp dýchá.}
-{16350}{}{./~ ...nechal jsem své srdce.../~}
-{16360}{}{Na žebrech jsem lechtivej, nech toho.}
 {16330}{}{Slepý střevo stejně na nic není.}
+{16340}{}{Dík za tracheotomii, hned se mi líp dýchá.}
 {16340}{}{Au, říkal ste, že to akorát trochu píchne, doktore?}
+{16350}{}{./~ ...nechal jsem své srdce.../~}
 {16350}{}{Arrrgggggh, moje páteř! Vrať mi ten obratel!}
+{16360}{}{Na žebrech jsem lechtivej, nech toho.}
 {16360}{}{Moje noha, necítím nohy... ještě že tak.}
 {16370}{}{Šlo to do břicha, seržante. Nechte mě tady....}
 {16380}{}{Plíce jsou pro sráče.}
@@ -2132,10 +2132,10 @@ Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 
 {16910}{}{Jáááááááááááááááááááůůůůůůůůůůůů!!!!!!!!!!!}
 {16920}{}{Uhhhhhhhhh. Uf.}
 {16930}{}{Asi si na chvilku lehnu.}
-{16940}{}{Suspenzor. Musím si pořídit suspenzor.}
-{16950}{}{Hmm, a s mým společenským životem je konec.}
 {16930}{}{Musím si na chvíli sednout. Tak na rok, dva.}
+{16940}{}{Suspenzor. Musím si pořídit suspenzor.}
 {16940}{}{Kdyby byly nějaký ghoulky, byly by na tebe pěkně nasraný.}
+{16950}{}{Hmm, a s mým společenským životem je konec.}
 {16950}{}{Ooooh. To bolelo. Dost.}
 {16960}{}{Hele, nebylo to do... Jo, bylo. ÁÁÁ!}
 {16970}{}{Hele, co se to tu kutálí za koule? Moje koule...}
@@ -2247,7 +2247,6 @@ Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 
 {18350}{}{Nrgggg}
 {18360}{}{*hfff*}
 {18370}{}{Aůůů! Dejte mi někdo stimpak! Nebo radši Jet!}
-
 #
 # target hit in right leg
 #
@@ -2255,17 +2254,17 @@ Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 
 {18610}{}{Hej! S tou nohou ještě chodím!}
 {18620}{}{Aůůů! Dejte mi někdo stimpak! Nebo radši Jet!}
 #
-# target hit in eyes
-#
-{18800}{}{Hmm, to asi nebyla jehla, co mě trefilo do oka...}
-{18810}{}{Hej! S tím okem se koukám!}
-{18820}{}{Moje oči! Moje oči! Bolí mě oči!}
-#
 # target hit in left leg
 #
 {18700}{}{Hej! Někdo mě trefil do nohy!}
 {18710}{}{Hej! S tou nohou ještě chodím!}
 {18720}{}{Aůůů! Dejte mi někdo stimpak! Nebo radši Jet!}
+#
+# target hit in eyes
+#
+{18800}{}{Hmm, to asi nebyla jehla, co mě trefilo do oka...}
+{18810}{}{Hej! S tím okem se koukám!}
+{18820}{}{Moje oči! Moje oči! Bolí mě oči!}
 #
 # target hit in groin
 #
@@ -7110,7 +7109,7 @@ Překlad pro Fonline3 server s využitím původních CZ překladů pro Fallout 
 {615570}{}{Cítím bolest!!}
 {615580}{}{Au! Tomuhle říkám bolestivé!}
 # 7. Guard 7 (Rookie)
-# "I can hit a target real good when it ain't moving. I'm sure looking forward to some real action. Honest I am!" (Naïve, and probably won't live long enough to learn)
+# "I can hit a target real good when it ain't moving. I'm sure looking forward to some real action. Honest I am!" (Na?ve, and probably won't live long enough to learn)
 #
 #  running away
 #

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,34 @@ lang=engl
 {100}{}{Prospector}
 {200}{}{You see prospector.}
 {210}{}{He seems to be in charge of the mining site.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whaddya want?}
+{2010}{}{Just passing by.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whaddya want?}
+{2010}{}{Just passing by.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whaddya want?}
+{2010}{}{Just passing by.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Whaddya want?}
+{2010}{}{Just passing by.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Whaddya want?}

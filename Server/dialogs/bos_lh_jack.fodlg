@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -39,6 +39,138 @@ lang=engl
 
 [engl]
 {100}{}{Scribe Jack}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Do you need anything?}
+{2010}{}{Who are you?}
+{2020}{}{Nothing.}
+{2030}{}{About your task... Here is a broc flower! I think it will do nicely.}
+{2040}{}{As for your task... I have a talisman here. Maybe it will work?}
+{2050}{}{I found a proper present - this gold locket!}
+{2060}{}{Here, I think this landmine will do nicely as a present. In the Wasteland we all give each other mines as presents.}
+{2070}{}{Here, I think this landmine will do nicely as a present.}
+{2080}{}{What about this painitng? Is it fine?}
+{2090}{}{I got something interesting for you. A magic ball! Just shake it and it will answer you.}
+{2100}{}{What about this wonderful Cat's Paw Magazine? A perfect present I guess.}
+{3000}{}{You are speaking with Scriber Jack. What do you need?}
+{3010}{}{I am searching for the job. You get any?}
+{3020}{}{Just saying hi.}
+{4000}{}{[ He stares at you for a second, then he whispers ] Look, there is a situation... I am in love with one... person. We've been together for a month already and I think I should make her a present.}
+{4010}{}{So, what is the problem?}
+{4020}{}{Phah! As if I care about this romantic bullshit.}
+{5000}{}{The problem is that you won't find anything suitable for a present here. And Scribes are not allowed to go outside as you may guess... I need you to bring me something what is worth of being a present. Something fancy and... well... you know...}
+{5010}{}{Fine, I will search for something.}
+{5020}{}{Nah, I won't do a thing for you.}
+{6000}{}{Oh ehm... Alright, this looks fine. But I actually hoped for something better.}
+{7000}{}{Well this seems to be great. Thank you for your help, here take this as a reward.}
+{8000}{}{Hey, this thing looks great. Thank you. Here is your reward,}
+{9000}{}{Wait... A landmine? Ehm... Alright.}
+{10000}{}{This is a really strange painting. But it will do great I guess.}
+{11000}{}{[ He shakes the ball ] Pretty nice toy. Thank you, here is your reward.}
+{12000}{}{Don't try to fool me, ok? This won't work.}
+{13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Do you need anything?}
+{2010}{}{Who are you?}
+{2020}{}{Nothing.}
+{2030}{}{About your task... Here is a broc flower! I think it will do nicely.}
+{2040}{}{As for your task... I have a talisman here. Maybe it will work?}
+{2050}{}{I found a proper present - this gold locket!}
+{2060}{}{Here, I think this landmine will do nicely as a present. In the Wasteland we all give each other mines as presents.}
+{2070}{}{Here, I think this landmine will do nicely as a present.}
+{2080}{}{What about this painitng? Is it fine?}
+{2090}{}{I got something interesting for you. A magic ball! Just shake it and it will answer you.}
+{2100}{}{What about this wonderful Cat's Paw Magazine? A perfect present I guess.}
+{3000}{}{You are speaking with Scriber Jack. What do you need?}
+{3010}{}{I am searching for the job. You get any?}
+{3020}{}{Just saying hi.}
+{4000}{}{[ He stares at you for a second, then he whispers ] Look, there is a situation... I am in love with one... person. We've been together for a month already and I think I should make her a present.}
+{4010}{}{So, what is the problem?}
+{4020}{}{Phah! As if I care about this romantic bullshit.}
+{5000}{}{The problem is that you won't find anything suitable for a present here. And Scribes are not allowed to go outside as you may guess... I need you to bring me something what is worth of being a present. Something fancy and... well... you know...}
+{5010}{}{Fine, I will search for something.}
+{5020}{}{Nah, I won't do a thing for you.}
+{6000}{}{Oh ehm... Alright, this looks fine. But I actually hoped for something better.}
+{7000}{}{Well this seems to be great. Thank you for your help, here take this as a reward.}
+{8000}{}{Hey, this thing looks great. Thank you. Here is your reward,}
+{9000}{}{Wait... A landmine? Ehm... Alright.}
+{10000}{}{This is a really strange painting. But it will do great I guess.}
+{11000}{}{[ He shakes the ball ] Pretty nice toy. Thank you, here is your reward.}
+{12000}{}{Don't try to fool me, ok? This won't work.}
+{13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Do you need anything?}
+{2010}{}{Who are you?}
+{2020}{}{Nothing.}
+{2030}{}{About your task... Here is a broc flower! I think it will do nicely.}
+{2040}{}{As for your task... I have a talisman here. Maybe it will work?}
+{2050}{}{I found a proper present - this gold locket!}
+{2060}{}{Here, I think this landmine will do nicely as a present. In the Wasteland we all give each other mines as presents.}
+{2070}{}{Here, I think this landmine will do nicely as a present.}
+{2080}{}{What about this painitng? Is it fine?}
+{2090}{}{I got something interesting for you. A magic ball! Just shake it and it will answer you.}
+{2100}{}{What about this wonderful Cat's Paw Magazine? A perfect present I guess.}
+{3000}{}{You are speaking with Scriber Jack. What do you need?}
+{3010}{}{I am searching for the job. You get any?}
+{3020}{}{Just saying hi.}
+{4000}{}{[ He stares at you for a second, then he whispers ] Look, there is a situation... I am in love with one... person. We've been together for a month already and I think I should make her a present.}
+{4010}{}{So, what is the problem?}
+{4020}{}{Phah! As if I care about this romantic bullshit.}
+{5000}{}{The problem is that you won't find anything suitable for a present here. And Scribes are not allowed to go outside as you may guess... I need you to bring me something what is worth of being a present. Something fancy and... well... you know...}
+{5010}{}{Fine, I will search for something.}
+{5020}{}{Nah, I won't do a thing for you.}
+{6000}{}{Oh ehm... Alright, this looks fine. But I actually hoped for something better.}
+{7000}{}{Well this seems to be great. Thank you for your help, here take this as a reward.}
+{8000}{}{Hey, this thing looks great. Thank you. Here is your reward,}
+{9000}{}{Wait... A landmine? Ehm... Alright.}
+{10000}{}{This is a really strange painting. But it will do great I guess.}
+{11000}{}{[ He shakes the ball ] Pretty nice toy. Thank you, here is your reward.}
+{12000}{}{Don't try to fool me, ok? This won't work.}
+{13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Do you need anything?}
+{2010}{}{Who are you?}
+{2020}{}{Nothing.}
+{2030}{}{About your task... Here is a broc flower! I think it will do nicely.}
+{2040}{}{As for your task... I have a talisman here. Maybe it will work?}
+{2050}{}{I found a proper present - this gold locket!}
+{2060}{}{Here, I think this landmine will do nicely as a present. In the Wasteland we all give each other mines as presents.}
+{2070}{}{Here, I think this landmine will do nicely as a present.}
+{2080}{}{What about this painitng? Is it fine?}
+{2090}{}{I got something interesting for you. A magic ball! Just shake it and it will answer you.}
+{2100}{}{What about this wonderful Cat's Paw Magazine? A perfect present I guess.}
+{3000}{}{You are speaking with Scriber Jack. What do you need?}
+{3010}{}{I am searching for the job. You get any?}
+{3020}{}{Just saying hi.}
+{4000}{}{[ He stares at you for a second, then he whispers ] Look, there is a situation... I am in love with one... person. We've been together for a month already and I think I should make her a present.}
+{4010}{}{So, what is the problem?}
+{4020}{}{Phah! As if I care about this romantic bullshit.}
+{5000}{}{The problem is that you won't find anything suitable for a present here. And Scribes are not allowed to go outside as you may guess... I need you to bring me something what is worth of being a present. Something fancy and... well... you know...}
+{5010}{}{Fine, I will search for something.}
+{5020}{}{Nah, I won't do a thing for you.}
+{6000}{}{Oh ehm... Alright, this looks fine. But I actually hoped for something better.}
+{7000}{}{Well this seems to be great. Thank you for your help, here take this as a reward.}
+{8000}{}{Hey, this thing looks great. Thank you. Here is your reward,}
+{9000}{}{Wait... A landmine? Ehm... Alright.}
+{10000}{}{This is a really strange painting. But it will do great I guess.}
+{11000}{}{[ He shakes the ball ] Pretty nice toy. Thank you, here is your reward.}
+{12000}{}{Don't try to fool me, ok? This won't work.}
+{13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you need anything?}

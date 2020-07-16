@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,38 @@ lang=engl
 {100}{}{Nuka Cola Worker}
 {200}{}{You see a worker of Nuka Cola Bottle Plant.}
 {210}{}{This is just another ordinary laborer in the factory.}
+{1000}{}{Predialogue installations}
+{1010}{}{Is on cafeteria}
+{1020}{}{Is on production line}
+{2000}{}{I'm busy, talk to you after work}
+{3000}{}{I'm not used talking with my mouth full.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Is on cafeteria}
+{1020}{}{Is on production line}
+{2000}{}{I'm busy, talk to you after work}
+{3000}{}{I'm not used talking with my mouth full.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Is on cafeteria}
+{1020}{}{Is on production line}
+{2000}{}{I'm busy, talk to you after work}
+{3000}{}{I'm not used talking with my mouth full.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Is on cafeteria}
+{1020}{}{Is on production line}
+{2000}{}{I'm busy, talk to you after work}
+{3000}{}{I'm not used talking with my mouth full.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Is on cafeteria}
 {1020}{}{Is on production line}

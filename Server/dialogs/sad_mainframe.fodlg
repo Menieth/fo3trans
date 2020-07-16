@@ -2,7 +2,7 @@
 IOC - US Army's Industrial Operations Command
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -135,4 +135,268 @@ Full report: pending.}
 {100000001}{}{You have successfully restored the backup power.}
 {100000002}{}{Backup power generator is already fully functional.}
 {100000003}{}{This generator seems to be broken. You are not quite sure what could have caused the inoperability.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{science > 50%}
+{1020}{}{else}
+{2000}{}{You have no idea how to use this terminal.}
+{2010}{}{[Leave]}
+{3000}{}{Welcome to Sierra Army Depot Mainframe Software v.2.0.7.7. Please, select the operation you want to perform:}
+{3010}{}{[Access Mainframe]}
+{3020}{}{[Access Power Supply]}
+{3030}{}{[Access Power Supply]}
+{3040}{}{[Access Power Supply]}
+{3050}{}{[Access Power Supply]}
+{3060}{}{[Access Medical Research & Development]}
+{3070}{}{[Access Medical Research & Development]}
+{3080}{}{[Access Medical Research & Development]}
+{3090}{}{[Access Medical Research & Development]}
+{3100}{}{[Access Ammo Facility]}
+{3110}{}{[Access Ammo Facility]}
+{3120}{}{[Access Ammo Facility]}
+{3130}{}{[Access Ammo Facility]}
+{3140}{}{[Leave]}
+{4000}{}{The Mainframe is currently inaccessible due to DEFCON 1.}
+{4010}{}{But, the war is over decades ago! Damn machine... [Return to main menu]}
+{4020}{}{[Leave]}
+{5000}{}{Main power supply status: OFFLINE.
+Backup power supply status: OFFLINE.}
+{5010}{}{[Check Main Power Supply]}
+{5020}{}{[Check Backup Power Supply]}
+{5030}{}{[Main Menu]}
+{5040}{}{[Leave]}
+{6000}{}{Main power supply status: OFFLINE.
+Backup power supply status: ONLINE.}
+{6010}{}{[Check Main Power Supply]}
+{6020}{}{[Main Menu]}
+{6030}{}{[Redirect power to Medical Laboratory]}
+{6040}{}{[Redirect power to Ammo facility]}
+{6050}{}{[Leave]}
+{7000}{}{Power grid: damaged.
+Full report: pending.}
+{7010}{}{[According to the report, the power grid is a complex network of cables located deep under the ground level. There are no means to repair it.]}
+{7020}{}{[Leave]}
+{8000}{}{Backup power supply: damaged.
+Full report: pending.}
+{8010}{}{[It looks like the backup power supply system can be repaired. It is located on the 4th level.]}
+{8020}{}{[Leave]}
+{9000}{}{Medical Research & Development Lab: OFFLINE.}
+{9010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{9020}{}{[Now the backup power supply is on, you decide to redirect the power to the Medical Lab.]}
+{9030}{}{[The backup power is assigned to Ammo Facility. You decide to redirect the power to the Medical Lab.]}
+{9040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{10000}{}{Medical Research & Development Lab: ONLINE.}
+{10010}{}{[Main Menu]}
+{10020}{}{[Leave]}
+{11000}{}{Ammo Facility: OFFLINE}
+{11010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{11020}{}{[Now the backup power supply is on, you decide to redirect the power to the Ammo Facility]}
+{11030}{}{[The backup power is assigned to Medical Lab. You decide to redirect the power to the Ammo Facility.]}
+{11040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{12000}{}{Ammo Facility: ONLINE}
+{12010}{}{[Main Menu]}
+{12020}{}{[Leave]}
+{13000}{}{[The power supply suddenly fails. It looks like the generator fuse switched to off again.]}
+{13010}{}{[Main Menu]}
+{13020}{}{[Leave]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{science > 50%}
+{1020}{}{else}
+{2000}{}{You have no idea how to use this terminal.}
+{2010}{}{[Leave]}
+{3000}{}{Welcome to Sierra Army Depot Mainframe Software v.2.0.7.7. Please, select the operation you want to perform:}
+{3010}{}{[Access Mainframe]}
+{3020}{}{[Access Power Supply]}
+{3030}{}{[Access Power Supply]}
+{3040}{}{[Access Power Supply]}
+{3050}{}{[Access Power Supply]}
+{3060}{}{[Access Medical Research & Development]}
+{3070}{}{[Access Medical Research & Development]}
+{3080}{}{[Access Medical Research & Development]}
+{3090}{}{[Access Medical Research & Development]}
+{3100}{}{[Access Ammo Facility]}
+{3110}{}{[Access Ammo Facility]}
+{3120}{}{[Access Ammo Facility]}
+{3130}{}{[Access Ammo Facility]}
+{3140}{}{[Leave]}
+{4000}{}{The Mainframe is currently inaccessible due to DEFCON 1.}
+{4010}{}{But, the war is over decades ago! Damn machine... [Return to main menu]}
+{4020}{}{[Leave]}
+{5000}{}{Main power supply status: OFFLINE.
+Backup power supply status: OFFLINE.}
+{5010}{}{[Check Main Power Supply]}
+{5020}{}{[Check Backup Power Supply]}
+{5030}{}{[Main Menu]}
+{5040}{}{[Leave]}
+{6000}{}{Main power supply status: OFFLINE.
+Backup power supply status: ONLINE.}
+{6010}{}{[Check Main Power Supply]}
+{6020}{}{[Main Menu]}
+{6030}{}{[Redirect power to Medical Laboratory]}
+{6040}{}{[Redirect power to Ammo facility]}
+{6050}{}{[Leave]}
+{7000}{}{Power grid: damaged.
+Full report: pending.}
+{7010}{}{[According to the report, the power grid is a complex network of cables located deep under the ground level. There are no means to repair it.]}
+{7020}{}{[Leave]}
+{8000}{}{Backup power supply: damaged.
+Full report: pending.}
+{8010}{}{[It looks like the backup power supply system can be repaired. It is located on the 4th level.]}
+{8020}{}{[Leave]}
+{9000}{}{Medical Research & Development Lab: OFFLINE.}
+{9010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{9020}{}{[Now the backup power supply is on, you decide to redirect the power to the Medical Lab.]}
+{9030}{}{[The backup power is assigned to Ammo Facility. You decide to redirect the power to the Medical Lab.]}
+{9040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{10000}{}{Medical Research & Development Lab: ONLINE.}
+{10010}{}{[Main Menu]}
+{10020}{}{[Leave]}
+{11000}{}{Ammo Facility: OFFLINE}
+{11010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{11020}{}{[Now the backup power supply is on, you decide to redirect the power to the Ammo Facility]}
+{11030}{}{[The backup power is assigned to Medical Lab. You decide to redirect the power to the Ammo Facility.]}
+{11040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{12000}{}{Ammo Facility: ONLINE}
+{12010}{}{[Main Menu]}
+{12020}{}{[Leave]}
+{13000}{}{[The power supply suddenly fails. It looks like the generator fuse switched to off again.]}
+{13010}{}{[Main Menu]}
+{13020}{}{[Leave]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{science > 50%}
+{1020}{}{else}
+{2000}{}{You have no idea how to use this terminal.}
+{2010}{}{[Leave]}
+{3000}{}{Welcome to Sierra Army Depot Mainframe Software v.2.0.7.7. Please, select the operation you want to perform:}
+{3010}{}{[Access Mainframe]}
+{3020}{}{[Access Power Supply]}
+{3030}{}{[Access Power Supply]}
+{3040}{}{[Access Power Supply]}
+{3050}{}{[Access Power Supply]}
+{3060}{}{[Access Medical Research & Development]}
+{3070}{}{[Access Medical Research & Development]}
+{3080}{}{[Access Medical Research & Development]}
+{3090}{}{[Access Medical Research & Development]}
+{3100}{}{[Access Ammo Facility]}
+{3110}{}{[Access Ammo Facility]}
+{3120}{}{[Access Ammo Facility]}
+{3130}{}{[Access Ammo Facility]}
+{3140}{}{[Leave]}
+{4000}{}{The Mainframe is currently inaccessible due to DEFCON 1.}
+{4010}{}{But, the war is over decades ago! Damn machine... [Return to main menu]}
+{4020}{}{[Leave]}
+{5000}{}{Main power supply status: OFFLINE.
+Backup power supply status: OFFLINE.}
+{5010}{}{[Check Main Power Supply]}
+{5020}{}{[Check Backup Power Supply]}
+{5030}{}{[Main Menu]}
+{5040}{}{[Leave]}
+{6000}{}{Main power supply status: OFFLINE.
+Backup power supply status: ONLINE.}
+{6010}{}{[Check Main Power Supply]}
+{6020}{}{[Main Menu]}
+{6030}{}{[Redirect power to Medical Laboratory]}
+{6040}{}{[Redirect power to Ammo facility]}
+{6050}{}{[Leave]}
+{7000}{}{Power grid: damaged.
+Full report: pending.}
+{7010}{}{[According to the report, the power grid is a complex network of cables located deep under the ground level. There are no means to repair it.]}
+{7020}{}{[Leave]}
+{8000}{}{Backup power supply: damaged.
+Full report: pending.}
+{8010}{}{[It looks like the backup power supply system can be repaired. It is located on the 4th level.]}
+{8020}{}{[Leave]}
+{9000}{}{Medical Research & Development Lab: OFFLINE.}
+{9010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{9020}{}{[Now the backup power supply is on, you decide to redirect the power to the Medical Lab.]}
+{9030}{}{[The backup power is assigned to Ammo Facility. You decide to redirect the power to the Medical Lab.]}
+{9040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{10000}{}{Medical Research & Development Lab: ONLINE.}
+{10010}{}{[Main Menu]}
+{10020}{}{[Leave]}
+{11000}{}{Ammo Facility: OFFLINE}
+{11010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{11020}{}{[Now the backup power supply is on, you decide to redirect the power to the Ammo Facility]}
+{11030}{}{[The backup power is assigned to Medical Lab. You decide to redirect the power to the Ammo Facility.]}
+{11040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{12000}{}{Ammo Facility: ONLINE}
+{12010}{}{[Main Menu]}
+{12020}{}{[Leave]}
+{13000}{}{[The power supply suddenly fails. It looks like the generator fuse switched to off again.]}
+{13010}{}{[Main Menu]}
+{13020}{}{[Leave]}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{science > 50%}
+{1020}{}{else}
+{2000}{}{You have no idea how to use this terminal.}
+{2010}{}{[Leave]}
+{3000}{}{Welcome to Sierra Army Depot Mainframe Software v.2.0.7.7. Please, select the operation you want to perform:}
+{3010}{}{[Access Mainframe]}
+{3020}{}{[Access Power Supply]}
+{3030}{}{[Access Power Supply]}
+{3040}{}{[Access Power Supply]}
+{3050}{}{[Access Power Supply]}
+{3060}{}{[Access Medical Research & Development]}
+{3070}{}{[Access Medical Research & Development]}
+{3080}{}{[Access Medical Research & Development]}
+{3090}{}{[Access Medical Research & Development]}
+{3100}{}{[Access Ammo Facility]}
+{3110}{}{[Access Ammo Facility]}
+{3120}{}{[Access Ammo Facility]}
+{3130}{}{[Access Ammo Facility]}
+{3140}{}{[Leave]}
+{4000}{}{The Mainframe is currently inaccessible due to DEFCON 1.}
+{4010}{}{But, the war is over decades ago! Damn machine... [Return to main menu]}
+{4020}{}{[Leave]}
+{5000}{}{Main power supply status: OFFLINE.
+Backup power supply status: OFFLINE.}
+{5010}{}{[Check Main Power Supply]}
+{5020}{}{[Check Backup Power Supply]}
+{5030}{}{[Main Menu]}
+{5040}{}{[Leave]}
+{6000}{}{Main power supply status: OFFLINE.
+Backup power supply status: ONLINE.}
+{6010}{}{[Check Main Power Supply]}
+{6020}{}{[Main Menu]}
+{6030}{}{[Redirect power to Medical Laboratory]}
+{6040}{}{[Redirect power to Ammo facility]}
+{6050}{}{[Leave]}
+{7000}{}{Power grid: damaged.
+Full report: pending.}
+{7010}{}{[According to the report, the power grid is a complex network of cables located deep under the ground level. There are no means to repair it.]}
+{7020}{}{[Leave]}
+{8000}{}{Backup power supply: damaged.
+Full report: pending.}
+{8010}{}{[It looks like the backup power supply system can be repaired. It is located on the 4th level.]}
+{8020}{}{[Leave]}
+{9000}{}{Medical Research & Development Lab: OFFLINE.}
+{9010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{9020}{}{[Now the backup power supply is on, you decide to redirect the power to the Medical Lab.]}
+{9030}{}{[The backup power is assigned to Ammo Facility. You decide to redirect the power to the Medical Lab.]}
+{9040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{10000}{}{Medical Research & Development Lab: ONLINE.}
+{10010}{}{[Main Menu]}
+{10020}{}{[Leave]}
+{11000}{}{Ammo Facility: OFFLINE}
+{11010}{}{[The logs point to the low power input. You decide to return to main menu.]}
+{11020}{}{[Now the backup power supply is on, you decide to redirect the power to the Ammo Facility]}
+{11030}{}{[The backup power is assigned to Medical Lab. You decide to redirect the power to the Ammo Facility.]}
+{11040}{}{[The logs point to the low power input. You decide to leave the terminal.]}
+{12000}{}{Ammo Facility: ONLINE}
+{12010}{}{[Main Menu]}
+{12020}{}{[Leave]}
+{13000}{}{[The power supply suddenly fails. It looks like the generator fuse switched to off again.]}
+{13010}{}{[Main Menu]}
+{13020}{}{[Leave]}
 

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,42 @@ lang=engl
 
 [engl]
 {100}{}{alarm_terminal}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... Complete ]}
+{2010}{}{[ Deactivate the alarm ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Operating... ]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... Complete ]}
+{2010}{}{[ Deactivate the alarm ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Operating... ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... Complete ]}
+{2010}{}{[ Deactivate the alarm ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Operating... ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Loading... Complete ]}
+{2010}{}{[ Deactivate the alarm ]}
+{2020}{}{[ Leave ]}
+{3000}{}{[ Operating... ]}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Complete ]}

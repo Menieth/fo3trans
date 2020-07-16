@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +13,34 @@ lang=engl
 
 [engl]
 {100}{}{Generator}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Example of the most common generator, probably was transported from power plant or bunker. Do you know how much energy it can produce? Neither do we. [WARNING: SHOCKING!]}
+{2010}{}{[ Exit ]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Example of the most common generator, probably was transported from power plant or bunker. Do you know how much energy it can produce? Neither do we. [WARNING: SHOCKING!]}
+{2010}{}{[ Exit ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Example of the most common generator, probably was transported from power plant or bunker. Do you know how much energy it can produce? Neither do we. [WARNING: SHOCKING!]}
+{2010}{}{[ Exit ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Example of the most common generator, probably was transported from power plant or bunker. Do you know how much energy it can produce? Neither do we. [WARNING: SHOCKING!]}
+{2010}{}{[ Exit ]}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Example of the most common generator, probably was transported from power plant or bunker. Do you know how much energy it can produce? Neither do we. [WARNING: SHOCKING!]}

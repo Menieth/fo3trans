@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +13,38 @@ lang=engl
 3 3000 None 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ WARNING! RADIATION LEAK DETECTED! THE FACILITY IS UNDER LOCKDOWN ]}
+{2010}{}{[ DEACTIVATE THE LOCKDOWN PROTOCOLE ]}
+{3000}{}{[ REBOOTING... ERROR FOR ERROR MINUTES ]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ WARNING! RADIATION LEAK DETECTED! THE FACILITY IS UNDER LOCKDOWN ]}
+{2010}{}{[ DEACTIVATE THE LOCKDOWN PROTOCOLE ]}
+{3000}{}{[ REBOOTING... ERROR FOR ERROR MINUTES ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ WARNING! RADIATION LEAK DETECTED! THE FACILITY IS UNDER LOCKDOWN ]}
+{2010}{}{[ DEACTIVATE THE LOCKDOWN PROTOCOLE ]}
+{3000}{}{[ REBOOTING... ERROR FOR ERROR MINUTES ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ WARNING! RADIATION LEAK DETECTED! THE FACILITY IS UNDER LOCKDOWN ]}
+{2010}{}{[ DEACTIVATE THE LOCKDOWN PROTOCOLE ]}
+{3000}{}{[ REBOOTING... ERROR FOR ERROR MINUTES ]}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}

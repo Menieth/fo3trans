@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,34 @@ lang=engl
 0 2010 R _script caravans@r_Start 0  &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{Cleve my name!}
+{2010}{}{Let's go.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{Cleve my name!}
+{2010}{}{Let's go.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{Cleve my name!}
+{2010}{}{Let's go.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{default}
+{2000}{}{Cleve my name!}
+{2010}{}{Let's go.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}

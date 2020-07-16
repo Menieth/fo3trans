@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -33,6 +33,114 @@ lang=engl
 
 [engl]
 {100}{}{Arnold}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{2000}{}{Hey wha... Ah, you are one of them, huh?}
+{2010}{}{One of them?}
+{3000}{}{Vault residents... Damn city of clones, I tell you.}
+{3010}{}{Right...}
+{4000}{}{What do you need?}
+{4010}{}{Who are you?}
+{4020}{}{What is wrong with this village?}
+{4030}{}{I better go.}
+{4040}{}{I am from Boris. He wishes to join your caravan to Junktown.}
+{5000}{}{Name's Arnold. A caravaner from Junktown. Selling and buying some goods here... In this weird place.}
+{5010}{}{A caravaner?}
+{5020}{}{Why weird though?}
+{5030}{}{I have something else to ask you about.}
+{5040}{}{Junktown?}
+{6000}{}{Yeah, a caravaner. The guy who walks around cities and delivers and sells goods, ya know.}
+{6010}{}{Alright... One more thing.}
+{7000}{}{It just looks weird. All of you got out of some Vault or something... Like... I don't know. I heard stories about one Vault from Capital Wasteland which is occupied by some crazy clones or how you call em... Just don't feel comfortable here, ya know.}
+{7010}{}{Fine, there is something else...}
+{8000}{}{Yes, Junktown. Don't wonder, the whole town is really made of Junk. You can find it north from Hub.}
+{8010}{}{Fine, there is something else...}
+{9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{2000}{}{Hey wha... Ah, you are one of them, huh?}
+{2010}{}{One of them?}
+{3000}{}{Vault residents... Damn city of clones, I tell you.}
+{3010}{}{Right...}
+{4000}{}{What do you need?}
+{4010}{}{Who are you?}
+{4020}{}{What is wrong with this village?}
+{4030}{}{I better go.}
+{4040}{}{I am from Boris. He wishes to join your caravan to Junktown.}
+{5000}{}{Name's Arnold. A caravaner from Junktown. Selling and buying some goods here... In this weird place.}
+{5010}{}{A caravaner?}
+{5020}{}{Why weird though?}
+{5030}{}{I have something else to ask you about.}
+{5040}{}{Junktown?}
+{6000}{}{Yeah, a caravaner. The guy who walks around cities and delivers and sells goods, ya know.}
+{6010}{}{Alright... One more thing.}
+{7000}{}{It just looks weird. All of you got out of some Vault or something... Like... I don't know. I heard stories about one Vault from Capital Wasteland which is occupied by some crazy clones or how you call em... Just don't feel comfortable here, ya know.}
+{7010}{}{Fine, there is something else...}
+{8000}{}{Yes, Junktown. Don't wonder, the whole town is really made of Junk. You can find it north from Hub.}
+{8010}{}{Fine, there is something else...}
+{9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{2000}{}{Hey wha... Ah, you are one of them, huh?}
+{2010}{}{One of them?}
+{3000}{}{Vault residents... Damn city of clones, I tell you.}
+{3010}{}{Right...}
+{4000}{}{What do you need?}
+{4010}{}{Who are you?}
+{4020}{}{What is wrong with this village?}
+{4030}{}{I better go.}
+{4040}{}{I am from Boris. He wishes to join your caravan to Junktown.}
+{5000}{}{Name's Arnold. A caravaner from Junktown. Selling and buying some goods here... In this weird place.}
+{5010}{}{A caravaner?}
+{5020}{}{Why weird though?}
+{5030}{}{I have something else to ask you about.}
+{5040}{}{Junktown?}
+{6000}{}{Yeah, a caravaner. The guy who walks around cities and delivers and sells goods, ya know.}
+{6010}{}{Alright... One more thing.}
+{7000}{}{It just looks weird. All of you got out of some Vault or something... Like... I don't know. I heard stories about one Vault from Capital Wasteland which is occupied by some crazy clones or how you call em... Just don't feel comfortable here, ya know.}
+{7010}{}{Fine, there is something else...}
+{8000}{}{Yes, Junktown. Don't wonder, the whole town is really made of Junk. You can find it north from Hub.}
+{8010}{}{Fine, there is something else...}
+{9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{2000}{}{Hey wha... Ah, you are one of them, huh?}
+{2010}{}{One of them?}
+{3000}{}{Vault residents... Damn city of clones, I tell you.}
+{3010}{}{Right...}
+{4000}{}{What do you need?}
+{4010}{}{Who are you?}
+{4020}{}{What is wrong with this village?}
+{4030}{}{I better go.}
+{4040}{}{I am from Boris. He wishes to join your caravan to Junktown.}
+{5000}{}{Name's Arnold. A caravaner from Junktown. Selling and buying some goods here... In this weird place.}
+{5010}{}{A caravaner?}
+{5020}{}{Why weird though?}
+{5030}{}{I have something else to ask you about.}
+{5040}{}{Junktown?}
+{6000}{}{Yeah, a caravaner. The guy who walks around cities and delivers and sells goods, ya know.}
+{6010}{}{Alright... One more thing.}
+{7000}{}{It just looks weird. All of you got out of some Vault or something... Like... I don't know. I heard stories about one Vault from Capital Wasteland which is occupied by some crazy clones or how you call em... Just don't feel comfortable here, ya know.}
+{7010}{}{Fine, there is something else...}
+{8000}{}{Yes, Junktown. Don't wonder, the whole town is really made of Junk. You can find it north from Hub.}
+{8010}{}{Fine, there is something else...}
+{9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -13,6 +13,38 @@ lang=engl
 0 2010 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Set dialog image}
+{1020}{}{Go}
+{2000}{}{ }
+{2010}{}{Looks cool, i guess.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Set dialog image}
+{1020}{}{Go}
+{2000}{}{ }
+{2010}{}{Looks cool, i guess.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Set dialog image}
+{1020}{}{Go}
+{2000}{}{ }
+{2010}{}{Looks cool, i guess.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Set dialog image}
+{1020}{}{Go}
+{2000}{}{ }
+{2010}{}{Looks cool, i guess.}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Set dialog image}

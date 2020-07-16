@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -28,6 +28,98 @@ lang=engl
 0 5040 D _param p ST_INTELLECT < 4 R _script arena@r_DoorTransport 1 0 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[You see a guard on the other side of the fence] Yes?}
+{2010}{}{Hello, I would like to enter this facility.}
+{2020}{}{Me wanna in.}
+{2030}{}{Hello, I would like to enter this facility.}
+{2040}{}{Me wanna in.}
+{2050}{}{Uh, nothing.}
+{2060}{}{Uuuuh. [Shamble off]}
+{3000}{}{You're clean, come in.}
+{3010}{}{[Pass through the gate]}
+{3020}{}{[Turn away]}
+{4000}{}{Sorry, no drugs, real weapons or any other items are allowed inside the lobby and arena facilities. Please come back without them.}
+{4010}{}{I'll be back.}
+{5000}{}{[A guard notices you] Going home already?}
+{5010}{}{Actually, I was going to stay here for a while longer.}
+{5020}{}{Yeah, it's time for me to go.}
+{5030}{}{No, me fight more.}
+{5040}{}{Ohh, out!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[You see a guard on the other side of the fence] Yes?}
+{2010}{}{Hello, I would like to enter this facility.}
+{2020}{}{Me wanna in.}
+{2030}{}{Hello, I would like to enter this facility.}
+{2040}{}{Me wanna in.}
+{2050}{}{Uh, nothing.}
+{2060}{}{Uuuuh. [Shamble off]}
+{3000}{}{You're clean, come in.}
+{3010}{}{[Pass through the gate]}
+{3020}{}{[Turn away]}
+{4000}{}{Sorry, no drugs, real weapons or any other items are allowed inside the lobby and arena facilities. Please come back without them.}
+{4010}{}{I'll be back.}
+{5000}{}{[A guard notices you] Going home already?}
+{5010}{}{Actually, I was going to stay here for a while longer.}
+{5020}{}{Yeah, it's time for me to go.}
+{5030}{}{No, me fight more.}
+{5040}{}{Ohh, out!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[You see a guard on the other side of the fence] Yes?}
+{2010}{}{Hello, I would like to enter this facility.}
+{2020}{}{Me wanna in.}
+{2030}{}{Hello, I would like to enter this facility.}
+{2040}{}{Me wanna in.}
+{2050}{}{Uh, nothing.}
+{2060}{}{Uuuuh. [Shamble off]}
+{3000}{}{You're clean, come in.}
+{3010}{}{[Pass through the gate]}
+{3020}{}{[Turn away]}
+{4000}{}{Sorry, no drugs, real weapons or any other items are allowed inside the lobby and arena facilities. Please come back without them.}
+{4010}{}{I'll be back.}
+{5000}{}{[A guard notices you] Going home already?}
+{5010}{}{Actually, I was going to stay here for a while longer.}
+{5020}{}{Yeah, it's time for me to go.}
+{5030}{}{No, me fight more.}
+{5040}{}{Ohh, out!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{1020}{}{trying to exit}
+{2000}{}{[You see a guard on the other side of the fence] Yes?}
+{2010}{}{Hello, I would like to enter this facility.}
+{2020}{}{Me wanna in.}
+{2030}{}{Hello, I would like to enter this facility.}
+{2040}{}{Me wanna in.}
+{2050}{}{Uh, nothing.}
+{2060}{}{Uuuuh. [Shamble off]}
+{3000}{}{You're clean, come in.}
+{3010}{}{[Pass through the gate]}
+{3020}{}{[Turn away]}
+{4000}{}{Sorry, no drugs, real weapons or any other items are allowed inside the lobby and arena facilities. Please come back without them.}
+{4010}{}{I'll be back.}
+{5000}{}{[A guard notices you] Going home already?}
+{5010}{}{Actually, I was going to stay here for a while longer.}
+{5020}{}{Yeah, it's time for me to go.}
+{5030}{}{No, me fight more.}
+{5040}{}{Ohh, out!}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}

@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -35,6 +35,110 @@ lang=engl
 {200}{}{You see a young man wearing the badge of the NCR police.}
 {210}{}{It's Karl, the town deputy.}
 {210}{}{You see a young man barely out of his teens. He looks eager to please.}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{2000}{}{What can Deputy Karl do for you?}
+{2010}{}{I'm new to NCR. What can you tell me about your town?}
+{2020}{}{Where can I find Roger Westin?}
+{2030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{3000}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
+{3010}{}{Well, I've got some other questions.}
+{3020}{}{That's all, thanks.}
+{4000}{}{That SOB? He's got a spread just outside town. Just take the road past Stockmen's.}
+{4010}{}{You don't like him much.}
+{4020}{}{Well, I've got some other questions.}
+{4030}{}{Thanks.}
+{5000}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
+{5010}{}{Stranger things have happened. I want to ask you something else.}
+{5020}{}{I've got to go. Just outside of town, you say?}
+{6000}{}{At his ranch of course. But i doubt he want to see anyone.}
+{6010}{}{Well, I've got some other questions.}
+{6020}{}{That's all, thanks.}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{2000}{}{What can Deputy Karl do for you?}
+{2010}{}{I'm new to NCR. What can you tell me about your town?}
+{2020}{}{Where can I find Roger Westin?}
+{2030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{3000}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
+{3010}{}{Well, I've got some other questions.}
+{3020}{}{That's all, thanks.}
+{4000}{}{That SOB? He's got a spread just outside town. Just take the road past Stockmen's.}
+{4010}{}{You don't like him much.}
+{4020}{}{Well, I've got some other questions.}
+{4030}{}{Thanks.}
+{5000}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
+{5010}{}{Stranger things have happened. I want to ask you something else.}
+{5020}{}{I've got to go. Just outside of town, you say?}
+{6000}{}{At his ranch of course. But i doubt he want to see anyone.}
+{6010}{}{Well, I've got some other questions.}
+{6020}{}{That's all, thanks.}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{2000}{}{What can Deputy Karl do for you?}
+{2010}{}{I'm new to NCR. What can you tell me about your town?}
+{2020}{}{Where can I find Roger Westin?}
+{2030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{3000}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
+{3010}{}{Well, I've got some other questions.}
+{3020}{}{That's all, thanks.}
+{4000}{}{That SOB? He's got a spread just outside town. Just take the road past Stockmen's.}
+{4010}{}{You don't like him much.}
+{4020}{}{Well, I've got some other questions.}
+{4030}{}{Thanks.}
+{5000}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
+{5010}{}{Stranger things have happened. I want to ask you something else.}
+{5020}{}{I've got to go. Just outside of town, you say?}
+{6000}{}{At his ranch of course. But i doubt he want to see anyone.}
+{6010}{}{Well, I've got some other questions.}
+{6020}{}{That's all, thanks.}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{2}
+{1020}{}{Known}
+{2000}{}{What can Deputy Karl do for you?}
+{2010}{}{I'm new to NCR. What can you tell me about your town?}
+{2020}{}{Where can I find Roger Westin?}
+{2030}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{3000}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
+{3010}{}{Well, I've got some other questions.}
+{3020}{}{That's all, thanks.}
+{4000}{}{That SOB? He's got a spread just outside town. Just take the road past Stockmen's.}
+{4010}{}{You don't like him much.}
+{4020}{}{Well, I've got some other questions.}
+{4030}{}{Thanks.}
+{5000}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
+{5010}{}{Stranger things have happened. I want to ask you something else.}
+{5020}{}{I've got to go. Just outside of town, you say?}
+{6000}{}{At his ranch of course. But i doubt he want to see anyone.}
+{6010}{}{Well, I've got some other questions.}
+{6020}{}{That's all, thanks.}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Known}

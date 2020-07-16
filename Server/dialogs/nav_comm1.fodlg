@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -27,6 +27,82 @@ lang=engl
 {100}{}{Enclave Technician}
 {200}{}{You see an Enclave technician.}
 {210}{}{You see someone wearing a lab coat. He appears confident and self-assured.}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, sir?}
+{2010}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
+{2020}{}{Just saying hi. See ya.}
+{3000}{}{Certainly.}
+{3010}{}{What is this place?}
+{3020}{}{What is your job here?}
+{3030}{}{Nothing. I’ve got to go.}
+{4000}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
+{4010}{}{All right. A couple more questions.}
+{4020}{}{Thanks. I’ve got to go now.}
+{5000}{}{I’m a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don’t screw up.}
+{5010}{}{All right. A couple more questions.}
+{5020}{}{Good. Keep up the good work.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, sir?}
+{2010}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
+{2020}{}{Just saying hi. See ya.}
+{3000}{}{Certainly.}
+{3010}{}{What is this place?}
+{3020}{}{What is your job here?}
+{3030}{}{Nothing. I’ve got to go.}
+{4000}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
+{4010}{}{All right. A couple more questions.}
+{4020}{}{Thanks. I’ve got to go now.}
+{5000}{}{I’m a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don’t screw up.}
+{5010}{}{All right. A couple more questions.}
+{5020}{}{Good. Keep up the good work.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, sir?}
+{2010}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
+{2020}{}{Just saying hi. See ya.}
+{3000}{}{Certainly.}
+{3010}{}{What is this place?}
+{3020}{}{What is your job here?}
+{3030}{}{Nothing. I’ve got to go.}
+{4000}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
+{4010}{}{All right. A couple more questions.}
+{4020}{}{Thanks. I’ve got to go now.}
+{5000}{}{I’m a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don’t screw up.}
+{5010}{}{All right. A couple more questions.}
+{5020}{}{Good. Keep up the good work.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{1020}{}{disguised}
+{2000}{}{Yes, sir?}
+{2010}{}{I’m new here and I’m trying to get familiar with the base. Can I ask you some questions?}
+{2020}{}{Just saying hi. See ya.}
+{3000}{}{Certainly.}
+{3010}{}{What is this place?}
+{3020}{}{What is your job here?}
+{3030}{}{Nothing. I’ve got to go.}
+{4000}{}{This is the comm center. From here we handle all communications with the main base and any other outposts that have been established.}
+{4010}{}{All right. A couple more questions.}
+{4020}{}{Thanks. I’ve got to go now.}
+{5000}{}{I’m a comm center technician, first class. I perform supervisory duties. Mainly I make sure the other techs don’t screw up.}
+{5010}{}{All right. A couple more questions.}
+{5020}{}{Good. Keep up the good work.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

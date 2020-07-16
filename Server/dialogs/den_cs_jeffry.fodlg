@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +16,38 @@ lang=engl
 {100}{}{Geoffrey}
 {200}{}{You see a rotung, sweating man.}
 {210}{}{You see Geoffrey, the carstop trader.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What can I do you for, pal?}
+{2010}{}{Can I see what you have in stock?}
+{2020}{}{Nothing today, thanks.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What can I do you for, pal?}
+{2010}{}{Can I see what you have in stock?}
+{2020}{}{Nothing today, thanks.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What can I do you for, pal?}
+{2010}{}{Can I see what you have in stock?}
+{2020}{}{Nothing today, thanks.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What can I do you for, pal?}
+{2010}{}{Can I see what you have in stock?}
+{2020}{}{Nothing today, thanks.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What can I do you for, pal?}

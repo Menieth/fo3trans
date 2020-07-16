@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -14,6 +14,38 @@ lang=engl
 
 [engl]
 {100}{}{Child of Colt}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Welcome. Please authorize. ( You briefly check through the system. It seems like someone has already hacked it. ) ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Leave ]}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Welcome. Please authorize. ( You briefly check through the system. It seems like someone has already hacked it. ) ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Leave ]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Welcome. Please authorize. ( You briefly check through the system. It seems like someone has already hacked it. ) ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Leave ]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{[ Welcome. Please authorize. ( You briefly check through the system. It seems like someone has already hacked it. ) ]}
+{2010}{}{[ Open the door ]}
+{2020}{}{[ Leave ]}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Welcome. Please authorize. ( You briefly check through the system. It seems like someone has already hacked it. ) ]}

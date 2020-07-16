@@ -2,7 +2,7 @@
 Common dialog for each faction's mainframe used to manage players' database.
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -54,4 +54,56 @@ lang=engl
 {100000040}{}{ has claimed leadership.}
 {100000041}{}{You have claimed leadership - time left: }
 {100000042}{}{Choose the action you want to perform:}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{2000}{}{[Weird person in robe sitting near table with many maps on]}
+{2010}{}{Hello?}
+{2020}{}{Hi, do you have any job to do?}
+{2030}{}{Are you there?}
+{2040}{}{[look at maps]}
+{2050}{}{[leave]}
+{3000}{}{[He not anwer]}
+{3010}{}{[move back]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{2000}{}{[Weird person in robe sitting near table with many maps on]}
+{2010}{}{Hello?}
+{2020}{}{Hi, do you have any job to do?}
+{2030}{}{Are you there?}
+{2040}{}{[look at maps]}
+{2050}{}{[leave]}
+{3000}{}{[He not anwer]}
+{3010}{}{[move back]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{2000}{}{[Weird person in robe sitting near table with many maps on]}
+{2010}{}{Hello?}
+{2020}{}{Hi, do you have any job to do?}
+{2030}{}{Are you there?}
+{2040}{}{[look at maps]}
+{2050}{}{[leave]}
+{3000}{}{[He not anwer]}
+{3010}{}{[move back]}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{member}
+{2000}{}{[Weird person in robe sitting near table with many maps on]}
+{2010}{}{Hello?}
+{2020}{}{Hi, do you have any job to do?}
+{2030}{}{Are you there?}
+{2040}{}{[look at maps]}
+{2050}{}{[leave]}
+{3000}{}{[He not anwer]}
+{3010}{}{[move back]}
 

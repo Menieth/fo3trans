@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +30,94 @@ lang=engl
 {100}{}{Slaver}
 {200}{}{You see a slaver.}
 {210}{}{This slaver is leading your expedition.}
+{1000}{}{Predialogue installations}
+{1010}{}{all done}
+{1020}{}{talked}
+{1030}{}{2}
+{2000}{}{Alright, you made it.}
+{2010}{}{Yes I did. What do we have today?}
+{3000}{}{Some camp of fuckin' savages. Real backwards shitheads, all waving sticks and getting high off xander root.}
+{3010}{}{Sounds like this will be real easy.}
+{4000}{}{Maybe, or maybe you'll get a spear in your throat. Don't be so fuckin' cocky. Just stick to your guns and keep your head. Any one of them starts doing some crazy shit, then yeah, drop his ass.}
+{4010}{}{Okay, take out the crazies, I got it.}
+{5000}{}{But don't start spraying like a bitch neither. Some of these primitive motherfuckers probably don't even know what a gun is and they might freak out at all the noises. If they're not dangerous, don't grease 'em - else the money's comin' out of your cut. I'm not taking a hit in my pay because you fucked about.}
+{5010}{}{Alright, I'll make sure they're a threat before I fire. I want these slaves too, you know.}
+{6000}{}{Alright then, let's move!}
+{6010}{}{Ok!}
+{6020}{}{Wait a second and let me check my gear again.}
+{7000}{}{I'll take it from here@@Go and report to Metzger@@We're done here@@Tell the boss we're done}
+{8000}{}{Ready?}
+{8010}{}{Sure, let's take them!}
+{8020}{}{Uh, I'll just reload my shotgun...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{all done}
+{1020}{}{talked}
+{1030}{}{2}
+{2000}{}{Alright, you made it.}
+{2010}{}{Yes I did. What do we have today?}
+{3000}{}{Some camp of fuckin' savages. Real backwards shitheads, all waving sticks and getting high off xander root.}
+{3010}{}{Sounds like this will be real easy.}
+{4000}{}{Maybe, or maybe you'll get a spear in your throat. Don't be so fuckin' cocky. Just stick to your guns and keep your head. Any one of them starts doing some crazy shit, then yeah, drop his ass.}
+{4010}{}{Okay, take out the crazies, I got it.}
+{5000}{}{But don't start spraying like a bitch neither. Some of these primitive motherfuckers probably don't even know what a gun is and they might freak out at all the noises. If they're not dangerous, don't grease 'em - else the money's comin' out of your cut. I'm not taking a hit in my pay because you fucked about.}
+{5010}{}{Alright, I'll make sure they're a threat before I fire. I want these slaves too, you know.}
+{6000}{}{Alright then, let's move!}
+{6010}{}{Ok!}
+{6020}{}{Wait a second and let me check my gear again.}
+{7000}{}{I'll take it from here@@Go and report to Metzger@@We're done here@@Tell the boss we're done}
+{8000}{}{Ready?}
+{8010}{}{Sure, let's take them!}
+{8020}{}{Uh, I'll just reload my shotgun...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{all done}
+{1020}{}{talked}
+{1030}{}{2}
+{2000}{}{Alright, you made it.}
+{2010}{}{Yes I did. What do we have today?}
+{3000}{}{Some camp of fuckin' savages. Real backwards shitheads, all waving sticks and getting high off xander root.}
+{3010}{}{Sounds like this will be real easy.}
+{4000}{}{Maybe, or maybe you'll get a spear in your throat. Don't be so fuckin' cocky. Just stick to your guns and keep your head. Any one of them starts doing some crazy shit, then yeah, drop his ass.}
+{4010}{}{Okay, take out the crazies, I got it.}
+{5000}{}{But don't start spraying like a bitch neither. Some of these primitive motherfuckers probably don't even know what a gun is and they might freak out at all the noises. If they're not dangerous, don't grease 'em - else the money's comin' out of your cut. I'm not taking a hit in my pay because you fucked about.}
+{5010}{}{Alright, I'll make sure they're a threat before I fire. I want these slaves too, you know.}
+{6000}{}{Alright then, let's move!}
+{6010}{}{Ok!}
+{6020}{}{Wait a second and let me check my gear again.}
+{7000}{}{I'll take it from here@@Go and report to Metzger@@We're done here@@Tell the boss we're done}
+{8000}{}{Ready?}
+{8010}{}{Sure, let's take them!}
+{8020}{}{Uh, I'll just reload my shotgun...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{all done}
+{1020}{}{talked}
+{1030}{}{2}
+{2000}{}{Alright, you made it.}
+{2010}{}{Yes I did. What do we have today?}
+{3000}{}{Some camp of fuckin' savages. Real backwards shitheads, all waving sticks and getting high off xander root.}
+{3010}{}{Sounds like this will be real easy.}
+{4000}{}{Maybe, or maybe you'll get a spear in your throat. Don't be so fuckin' cocky. Just stick to your guns and keep your head. Any one of them starts doing some crazy shit, then yeah, drop his ass.}
+{4010}{}{Okay, take out the crazies, I got it.}
+{5000}{}{But don't start spraying like a bitch neither. Some of these primitive motherfuckers probably don't even know what a gun is and they might freak out at all the noises. If they're not dangerous, don't grease 'em - else the money's comin' out of your cut. I'm not taking a hit in my pay because you fucked about.}
+{5010}{}{Alright, I'll make sure they're a threat before I fire. I want these slaves too, you know.}
+{6000}{}{Alright then, let's move!}
+{6010}{}{Ok!}
+{6020}{}{Wait a second and let me check my gear again.}
+{7000}{}{I'll take it from here@@Go and report to Metzger@@We're done here@@Tell the boss we're done}
+{8000}{}{Ready?}
+{8010}{}{Sure, let's take them!}
+{8020}{}{Uh, I'll just reload my shotgun...}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}

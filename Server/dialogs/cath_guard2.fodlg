@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +13,30 @@ lang=engl
 [engl]
 {100}{}{Guard}
 {200}{}{You see cathedral Guard.}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
+
+[span]
+{100}{}{none}
+{1000}{}{Initial preferences}
+{1010}{}{---}
+{2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}

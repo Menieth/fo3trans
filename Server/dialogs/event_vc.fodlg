@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -19,6 +19,58 @@ lang=engl
 
 [engl]
 {100}{}{Vault City Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Sure thing, guardsman. Here is your battle gear. Are you ready for the operation?}
+{3010}{}{Guess I am ready.}
+{3020}{}{I think I will be back later.}
+{4000}{}{I don't see you in the order list. Who the hell are you?}
+{4010}{}{Ah... I better go.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Sure thing, guardsman. Here is your battle gear. Are you ready for the operation?}
+{3010}{}{Guess I am ready.}
+{3020}{}{I think I will be back later.}
+{4000}{}{I don't see you in the order list. Who the hell are you?}
+{4010}{}{Ah... I better go.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Sure thing, guardsman. Here is your battle gear. Are you ready for the operation?}
+{3010}{}{Guess I am ready.}
+{3020}{}{I think I will be back later.}
+{4000}{}{I don't see you in the order list. Who the hell are you?}
+{4010}{}{Ah... I better go.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it?}
+{2010}{}{I want to join the battle.}
+{2020}{}{Uh, nothing.}
+{3000}{}{Sure thing, guardsman. Here is your battle gear. Are you ready for the operation?}
+{3010}{}{Guess I am ready.}
+{3020}{}{I think I will be back later.}
+{4000}{}{I don't see you in the order list. Who the hell are you?}
+{4010}{}{Ah... I better go.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it?}

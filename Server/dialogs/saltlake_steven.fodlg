@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,38 @@ lang=engl
 {100}{}{Steven}
 {200}{}{This is Steven Quok.}
 {210}{}{You see a weapon trader Steven Quok.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello wanderer! Don't pass by Quok's family business! We always happy with new visitors and won't let you go without some excellent goodies! Check out my new weapon stock. Maybe you'll find something fitting your holster?}
+{2010}{}{[Buy weapon]}
+{2020}{}{Don't need it, thanks.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello wanderer! Don't pass by Quok's family business! We always happy with new visitors and won't let you go without some excellent goodies! Check out my new weapon stock. Maybe you'll find something fitting your holster?}
+{2010}{}{[Buy weapon]}
+{2020}{}{Don't need it, thanks.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello wanderer! Don't pass by Quok's family business! We always happy with new visitors and won't let you go without some excellent goodies! Check out my new weapon stock. Maybe you'll find something fitting your holster?}
+{2010}{}{[Buy weapon]}
+{2020}{}{Don't need it, thanks.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hello wanderer! Don't pass by Quok's family business! We always happy with new visitors and won't let you go without some excellent goodies! Check out my new weapon stock. Maybe you'll find something fitting your holster?}
+{2010}{}{[Buy weapon]}
+{2020}{}{Don't need it, thanks.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello wanderer! Don't pass by Quok's family business! We always happy with new visitors and won't let you go without some excellent goodies! Check out my new weapon stock. Maybe you'll find something fitting your holster?}

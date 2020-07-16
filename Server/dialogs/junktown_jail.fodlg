@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -33,6 +33,110 @@ lang=engl
 [engl]
 {100}{}{Stephan}
 {200}{}{You see Stephan, the jail guard.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Reward for idiot}
+{2000}{}{Can I help you?}
+{2010}{}{Who are you?}
+{2020}{}{What are you doing?}
+{2030}{}{No thanks.}
+{2040}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2050}{}{Eergh!}
+{3000}{}{I'm Stephan. My job is to guard the jail.}
+{3010}{}{What are you doing?}
+{4000}{}{I'm guarding the jail. I make sure that miscreants don't get in or out.}
+{4010}{}{Why would you keep people from getting in the jail?}
+{4020}{}{Oh.}
+{5000}{}{Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.}
+{5010}{}{Oh.}
+{6000}{}{You have a good day. And stay out of trouble.}
+{6010}{}{[OK]}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+{8000}{}{Oh my... Look, I don't have so much time for talking. Just take this  and go to... Somewhere...}
+{8010}{}{Somewhere...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Reward for idiot}
+{2000}{}{Can I help you?}
+{2010}{}{Who are you?}
+{2020}{}{What are you doing?}
+{2030}{}{No thanks.}
+{2040}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2050}{}{Eergh!}
+{3000}{}{I'm Stephan. My job is to guard the jail.}
+{3010}{}{What are you doing?}
+{4000}{}{I'm guarding the jail. I make sure that miscreants don't get in or out.}
+{4010}{}{Why would you keep people from getting in the jail?}
+{4020}{}{Oh.}
+{5000}{}{Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.}
+{5010}{}{Oh.}
+{6000}{}{You have a good day. And stay out of trouble.}
+{6010}{}{[OK]}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+{8000}{}{Oh my... Look, I don't have so much time for talking. Just take this  and go to... Somewhere...}
+{8010}{}{Somewhere...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Reward for idiot}
+{2000}{}{Can I help you?}
+{2010}{}{Who are you?}
+{2020}{}{What are you doing?}
+{2030}{}{No thanks.}
+{2040}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2050}{}{Eergh!}
+{3000}{}{I'm Stephan. My job is to guard the jail.}
+{3010}{}{What are you doing?}
+{4000}{}{I'm guarding the jail. I make sure that miscreants don't get in or out.}
+{4010}{}{Why would you keep people from getting in the jail?}
+{4020}{}{Oh.}
+{5000}{}{Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.}
+{5010}{}{Oh.}
+{6000}{}{You have a good day. And stay out of trouble.}
+{6010}{}{[OK]}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+{8000}{}{Oh my... Look, I don't have so much time for talking. Just take this  and go to... Somewhere...}
+{8010}{}{Somewhere...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Reward for idiot}
+{2000}{}{Can I help you?}
+{2010}{}{Who are you?}
+{2020}{}{What are you doing?}
+{2030}{}{No thanks.}
+{2040}{}{I helped in repelling an attack here. Do you have any reward for helping?}
+{2050}{}{Eergh!}
+{3000}{}{I'm Stephan. My job is to guard the jail.}
+{3010}{}{What are you doing?}
+{4000}{}{I'm guarding the jail. I make sure that miscreants don't get in or out.}
+{4010}{}{Why would you keep people from getting in the jail?}
+{4020}{}{Oh.}
+{5000}{}{Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.}
+{5010}{}{Oh.}
+{6000}{}{You have a good day. And stay out of trouble.}
+{6010}{}{[OK]}
+{7000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{7010}{}{Hey thanks! Let me ask for something else.}
+{7020}{}{Hey thanks! See you later!}
+{8000}{}{Oh my... Look, I don't have so much time for talking. Just take this  and go to... Somewhere...}
+{8010}{}{Somewhere...}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Reward for idiot}

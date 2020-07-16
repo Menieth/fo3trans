@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -29,6 +29,98 @@ lang=engl
 
 [engl]
 {100}{}{Bank Manager}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings. May I help you?}
+{2010}{}{Money on the table, bitch!}
+{2020}{}{What is this place?}
+{2030}{}{I want to exchange currencies.}
+{2040}{}{Nah, see ya.}
+{3000}{}{This is FLC exchange unit. Here we exchange your caps on golden dollars.}
+{3010}{}{Golden dollar? What is this about?}
+{3020}{}{I wish to exchange currencies.}
+{3030}{}{I wanted to ask something else.}
+{4000}{}{Golden dollars are our new currency that soon will become California wide. Caps are not stable and many people still use some old machines to create big amounts of caps, so we created a completely new currency that will stabalize our economic and everyone will be happy. Golden dollars are our future.}
+{4010}{}{I wish to exchange currencies.}
+{4020}{}{I wanted to ask something else.}
+{5000}{}{Sure, currenct currency is 1000 caps per one golden dollar. Exchange comission - 100 caps. All in all 1100 caps per one golden dollar.}
+{5010}{}{1 dollar please.}
+{5020}{}{5 dollars.}
+{5030}{}{10 dollars.}
+{5040}{}{50 dollars.}
+{5050}{}{Nevermind.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings. May I help you?}
+{2010}{}{Money on the table, bitch!}
+{2020}{}{What is this place?}
+{2030}{}{I want to exchange currencies.}
+{2040}{}{Nah, see ya.}
+{3000}{}{This is FLC exchange unit. Here we exchange your caps on golden dollars.}
+{3010}{}{Golden dollar? What is this about?}
+{3020}{}{I wish to exchange currencies.}
+{3030}{}{I wanted to ask something else.}
+{4000}{}{Golden dollars are our new currency that soon will become California wide. Caps are not stable and many people still use some old machines to create big amounts of caps, so we created a completely new currency that will stabalize our economic and everyone will be happy. Golden dollars are our future.}
+{4010}{}{I wish to exchange currencies.}
+{4020}{}{I wanted to ask something else.}
+{5000}{}{Sure, currenct currency is 1000 caps per one golden dollar. Exchange comission - 100 caps. All in all 1100 caps per one golden dollar.}
+{5010}{}{1 dollar please.}
+{5020}{}{5 dollars.}
+{5030}{}{10 dollars.}
+{5040}{}{50 dollars.}
+{5050}{}{Nevermind.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings. May I help you?}
+{2010}{}{Money on the table, bitch!}
+{2020}{}{What is this place?}
+{2030}{}{I want to exchange currencies.}
+{2040}{}{Nah, see ya.}
+{3000}{}{This is FLC exchange unit. Here we exchange your caps on golden dollars.}
+{3010}{}{Golden dollar? What is this about?}
+{3020}{}{I wish to exchange currencies.}
+{3030}{}{I wanted to ask something else.}
+{4000}{}{Golden dollars are our new currency that soon will become California wide. Caps are not stable and many people still use some old machines to create big amounts of caps, so we created a completely new currency that will stabalize our economic and everyone will be happy. Golden dollars are our future.}
+{4010}{}{I wish to exchange currencies.}
+{4020}{}{I wanted to ask something else.}
+{5000}{}{Sure, currenct currency is 1000 caps per one golden dollar. Exchange comission - 100 caps. All in all 1100 caps per one golden dollar.}
+{5010}{}{1 dollar please.}
+{5020}{}{5 dollars.}
+{5030}{}{10 dollars.}
+{5040}{}{50 dollars.}
+{5050}{}{Nevermind.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Greetings. May I help you?}
+{2010}{}{Money on the table, bitch!}
+{2020}{}{What is this place?}
+{2030}{}{I want to exchange currencies.}
+{2040}{}{Nah, see ya.}
+{3000}{}{This is FLC exchange unit. Here we exchange your caps on golden dollars.}
+{3010}{}{Golden dollar? What is this about?}
+{3020}{}{I wish to exchange currencies.}
+{3030}{}{I wanted to ask something else.}
+{4000}{}{Golden dollars are our new currency that soon will become California wide. Caps are not stable and many people still use some old machines to create big amounts of caps, so we created a completely new currency that will stabalize our economic and everyone will be happy. Golden dollars are our future.}
+{4010}{}{I wish to exchange currencies.}
+{4020}{}{I wanted to ask something else.}
+{5000}{}{Sure, currenct currency is 1000 caps per one golden dollar. Exchange comission - 100 caps. All in all 1100 caps per one golden dollar.}
+{5010}{}{1 dollar please.}
+{5020}{}{5 dollars.}
+{5030}{}{10 dollars.}
+{5040}{}{50 dollars.}
+{5050}{}{Nevermind.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings. May I help you?}

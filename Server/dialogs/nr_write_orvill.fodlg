@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -112,4 +112,212 @@ lang=engl
 {16060}{}{Hey, thanks.}
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 {100000004}{}{I have the best Iguana in the WHOOOOOLE Hub! }
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ugly}
+{1020}{}{Quest assigned }
+{1030}{}{Known}
+{1040}{}{2}
+{2000}{}{(Wrinkles cover this old man's face...it looks like any expression other than a scowl is foreign to him. Only a few brown hairs are left in his thick gray hair.) Start talking. Who are you, and what do you want?}
+{2010}{}{I'm a simple traveler…looking for work.}
+{2020}{}{Actually, I seem to have entered the wrong room. I'll be leaving now.}
+{3000}{}{(Scowls.) Get the fuck out of here, y'ugly circus freak. Your disgusting ass comes back here and scares my family like that again, I'll have you shot, you hear me?}
+{3010}{}{[Shamble off]}
+{4000}{}{(Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{4010}{}{Whoa, now hold on…!}
+{4020}{}{They won't get in here in time to save your life...}
+{5000}{}{Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?}
+{5010}{}{Fuck you, old man.}
+{5020}{}{I'm going.}
+{6000}{}{(When he sees you, Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{6010}{}{You'll be dead before your little boys can get here.}
+{6020}{}{Excuse me. Me and the exit have an appointment.}
+{7000}{}{No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown as he scopes you out.) Looking for work in family Wright, huh?}
+{7010}{}{Yes, I --}
+{8000}{}{You again? What do you want?}
+{8010}{}{Got any work for me?}
+{8020}{}{Got any work for me?}
+{8030}{}{Nothing, Mister Wright. Goodbye.}
+{9000}{}{(Studies you for a moment.) All right. (Scowl fades.) I got one job. You just got to talk to some of my clients. You up to it?}
+{9010}{}{Sure thing.}
+{9020}{}{Forget it. Find another messenger.}
+{10000}{}{(Nods, smiles.) Now we're talkin'. Need you to keep an eye on business. Go round all the local watering holes, check my contacts, find out how business is doing. I want to know how much to charge those bastards.}
+{10010}{}{Contacts? Like who?}
+{11000}{}{Bill down at the Shark Club, Pretty Boy LLoyd over at the Salvatore place... heck, Kitty at the Cat's Paw can always use a little for her customers. I figure that should do it. That's the Shark, the Salvatore, and the 'Paw. IN THAT ORDER, y'hear. I got a good system, and I don't want you screwing it up. Think you can handle that?}
+{11010}{}{Bill at the Shark, Lloyd at the Salvatore's, Kitty at the 'Paw. In that order. Got it.}
+{12000}{}{(Looks up) Well? How'd it go? What'd they say?}
+{12010}{}{Well, Bill sends his regards. Says the Shark's been having trouble keeping up with demand.}
+{12020}{}{Well, sorry, I didn't get around to it just yet. I'd better be going.}
+{13000}{}{(Grins) He did? Hah! That old bastard. Perfect. Perfect. Well, how's ol' Lloyd doing? He have any info for ya?}
+{13010}{}{He says the Salvatores ain't doing any better than usual.}
+{14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
+{14010}{}{Kitty, uh..}
+{15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
+{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
+{16010}{}{Thank you, Mister Wright. You're a gentleman.}
+{16020}{}{Thank you, Mister Wright.}
+{16030}{}{Hey, thanks.}
+{16040}{}{Thank you, Mister Wright. You're a gentleman.}
+{16050}{}{Thank you, Mister Wright.}
+{16060}{}{Hey, thanks.}
+{17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ugly}
+{1020}{}{Quest assigned }
+{1030}{}{Known}
+{1040}{}{2}
+{2000}{}{(Wrinkles cover this old man's face...it looks like any expression other than a scowl is foreign to him. Only a few brown hairs are left in his thick gray hair.) Start talking. Who are you, and what do you want?}
+{2010}{}{I'm a simple traveler…looking for work.}
+{2020}{}{Actually, I seem to have entered the wrong room. I'll be leaving now.}
+{3000}{}{(Scowls.) Get the fuck out of here, y'ugly circus freak. Your disgusting ass comes back here and scares my family like that again, I'll have you shot, you hear me?}
+{3010}{}{[Shamble off]}
+{4000}{}{(Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{4010}{}{Whoa, now hold on…!}
+{4020}{}{They won't get in here in time to save your life...}
+{5000}{}{Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?}
+{5010}{}{Fuck you, old man.}
+{5020}{}{I'm going.}
+{6000}{}{(When he sees you, Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{6010}{}{You'll be dead before your little boys can get here.}
+{6020}{}{Excuse me. Me and the exit have an appointment.}
+{7000}{}{No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown as he scopes you out.) Looking for work in family Wright, huh?}
+{7010}{}{Yes, I --}
+{8000}{}{You again? What do you want?}
+{8010}{}{Got any work for me?}
+{8020}{}{Got any work for me?}
+{8030}{}{Nothing, Mister Wright. Goodbye.}
+{9000}{}{(Studies you for a moment.) All right. (Scowl fades.) I got one job. You just got to talk to some of my clients. You up to it?}
+{9010}{}{Sure thing.}
+{9020}{}{Forget it. Find another messenger.}
+{10000}{}{(Nods, smiles.) Now we're talkin'. Need you to keep an eye on business. Go round all the local watering holes, check my contacts, find out how business is doing. I want to know how much to charge those bastards.}
+{10010}{}{Contacts? Like who?}
+{11000}{}{Bill down at the Shark Club, Pretty Boy LLoyd over at the Salvatore place... heck, Kitty at the Cat's Paw can always use a little for her customers. I figure that should do it. That's the Shark, the Salvatore, and the 'Paw. IN THAT ORDER, y'hear. I got a good system, and I don't want you screwing it up. Think you can handle that?}
+{11010}{}{Bill at the Shark, Lloyd at the Salvatore's, Kitty at the 'Paw. In that order. Got it.}
+{12000}{}{(Looks up) Well? How'd it go? What'd they say?}
+{12010}{}{Well, Bill sends his regards. Says the Shark's been having trouble keeping up with demand.}
+{12020}{}{Well, sorry, I didn't get around to it just yet. I'd better be going.}
+{13000}{}{(Grins) He did? Hah! That old bastard. Perfect. Perfect. Well, how's ol' Lloyd doing? He have any info for ya?}
+{13010}{}{He says the Salvatores ain't doing any better than usual.}
+{14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
+{14010}{}{Kitty, uh..}
+{15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
+{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
+{16010}{}{Thank you, Mister Wright. You're a gentleman.}
+{16020}{}{Thank you, Mister Wright.}
+{16030}{}{Hey, thanks.}
+{16040}{}{Thank you, Mister Wright. You're a gentleman.}
+{16050}{}{Thank you, Mister Wright.}
+{16060}{}{Hey, thanks.}
+{17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ugly}
+{1020}{}{Quest assigned }
+{1030}{}{Known}
+{1040}{}{2}
+{2000}{}{(Wrinkles cover this old man's face...it looks like any expression other than a scowl is foreign to him. Only a few brown hairs are left in his thick gray hair.) Start talking. Who are you, and what do you want?}
+{2010}{}{I'm a simple traveler…looking for work.}
+{2020}{}{Actually, I seem to have entered the wrong room. I'll be leaving now.}
+{3000}{}{(Scowls.) Get the fuck out of here, y'ugly circus freak. Your disgusting ass comes back here and scares my family like that again, I'll have you shot, you hear me?}
+{3010}{}{[Shamble off]}
+{4000}{}{(Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{4010}{}{Whoa, now hold on…!}
+{4020}{}{They won't get in here in time to save your life...}
+{5000}{}{Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?}
+{5010}{}{Fuck you, old man.}
+{5020}{}{I'm going.}
+{6000}{}{(When he sees you, Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{6010}{}{You'll be dead before your little boys can get here.}
+{6020}{}{Excuse me. Me and the exit have an appointment.}
+{7000}{}{No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown as he scopes you out.) Looking for work in family Wright, huh?}
+{7010}{}{Yes, I --}
+{8000}{}{You again? What do you want?}
+{8010}{}{Got any work for me?}
+{8020}{}{Got any work for me?}
+{8030}{}{Nothing, Mister Wright. Goodbye.}
+{9000}{}{(Studies you for a moment.) All right. (Scowl fades.) I got one job. You just got to talk to some of my clients. You up to it?}
+{9010}{}{Sure thing.}
+{9020}{}{Forget it. Find another messenger.}
+{10000}{}{(Nods, smiles.) Now we're talkin'. Need you to keep an eye on business. Go round all the local watering holes, check my contacts, find out how business is doing. I want to know how much to charge those bastards.}
+{10010}{}{Contacts? Like who?}
+{11000}{}{Bill down at the Shark Club, Pretty Boy LLoyd over at the Salvatore place... heck, Kitty at the Cat's Paw can always use a little for her customers. I figure that should do it. That's the Shark, the Salvatore, and the 'Paw. IN THAT ORDER, y'hear. I got a good system, and I don't want you screwing it up. Think you can handle that?}
+{11010}{}{Bill at the Shark, Lloyd at the Salvatore's, Kitty at the 'Paw. In that order. Got it.}
+{12000}{}{(Looks up) Well? How'd it go? What'd they say?}
+{12010}{}{Well, Bill sends his regards. Says the Shark's been having trouble keeping up with demand.}
+{12020}{}{Well, sorry, I didn't get around to it just yet. I'd better be going.}
+{13000}{}{(Grins) He did? Hah! That old bastard. Perfect. Perfect. Well, how's ol' Lloyd doing? He have any info for ya?}
+{13010}{}{He says the Salvatores ain't doing any better than usual.}
+{14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
+{14010}{}{Kitty, uh..}
+{15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
+{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
+{16010}{}{Thank you, Mister Wright. You're a gentleman.}
+{16020}{}{Thank you, Mister Wright.}
+{16030}{}{Hey, thanks.}
+{16040}{}{Thank you, Mister Wright. You're a gentleman.}
+{16050}{}{Thank you, Mister Wright.}
+{16060}{}{Hey, thanks.}
+{17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Ugly}
+{1020}{}{Quest assigned }
+{1030}{}{Known}
+{1040}{}{2}
+{2000}{}{(Wrinkles cover this old man's face...it looks like any expression other than a scowl is foreign to him. Only a few brown hairs are left in his thick gray hair.) Start talking. Who are you, and what do you want?}
+{2010}{}{I'm a simple traveler…looking for work.}
+{2020}{}{Actually, I seem to have entered the wrong room. I'll be leaving now.}
+{3000}{}{(Scowls.) Get the fuck out of here, y'ugly circus freak. Your disgusting ass comes back here and scares my family like that again, I'll have you shot, you hear me?}
+{3010}{}{[Shamble off]}
+{4000}{}{(Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{4010}{}{Whoa, now hold on…!}
+{4020}{}{They won't get in here in time to save your life...}
+{5000}{}{Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?}
+{5010}{}{Fuck you, old man.}
+{5020}{}{I'm going.}
+{6000}{}{(When he sees you, Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
+{6010}{}{You'll be dead before your little boys can get here.}
+{6020}{}{Excuse me. Me and the exit have an appointment.}
+{7000}{}{No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown as he scopes you out.) Looking for work in family Wright, huh?}
+{7010}{}{Yes, I --}
+{8000}{}{You again? What do you want?}
+{8010}{}{Got any work for me?}
+{8020}{}{Got any work for me?}
+{8030}{}{Nothing, Mister Wright. Goodbye.}
+{9000}{}{(Studies you for a moment.) All right. (Scowl fades.) I got one job. You just got to talk to some of my clients. You up to it?}
+{9010}{}{Sure thing.}
+{9020}{}{Forget it. Find another messenger.}
+{10000}{}{(Nods, smiles.) Now we're talkin'. Need you to keep an eye on business. Go round all the local watering holes, check my contacts, find out how business is doing. I want to know how much to charge those bastards.}
+{10010}{}{Contacts? Like who?}
+{11000}{}{Bill down at the Shark Club, Pretty Boy LLoyd over at the Salvatore place... heck, Kitty at the Cat's Paw can always use a little for her customers. I figure that should do it. That's the Shark, the Salvatore, and the 'Paw. IN THAT ORDER, y'hear. I got a good system, and I don't want you screwing it up. Think you can handle that?}
+{11010}{}{Bill at the Shark, Lloyd at the Salvatore's, Kitty at the 'Paw. In that order. Got it.}
+{12000}{}{(Looks up) Well? How'd it go? What'd they say?}
+{12010}{}{Well, Bill sends his regards. Says the Shark's been having trouble keeping up with demand.}
+{12020}{}{Well, sorry, I didn't get around to it just yet. I'd better be going.}
+{13000}{}{(Grins) He did? Hah! That old bastard. Perfect. Perfect. Well, how's ol' Lloyd doing? He have any info for ya?}
+{13010}{}{He says the Salvatores ain't doing any better than usual.}
+{14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
+{14010}{}{Kitty, uh..}
+{15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
+{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
+{16010}{}{Thank you, Mister Wright. You're a gentleman.}
+{16020}{}{Thank you, Mister Wright.}
+{16030}{}{Hey, thanks.}
+{16040}{}{Thank you, Mister Wright. You're a gentleman.}
+{16050}{}{Thank you, Mister Wright.}
+{16060}{}{Hey, thanks.}
+{17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 

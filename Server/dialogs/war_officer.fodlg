@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -20,6 +20,62 @@ lang=engl
 
 [engl]
 {100}{}{Officer}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want to join the battle}
+{2020}{}{I want to join the battle}
+{2030}{}{I want to join the battle}
+{2040}{}{I want to buy something}
+{2050}{}{I want to leave this event}
+{3000}{}{Are you sure? You wont get reward and you wont get reward}
+{3010}{}{Yes, I'm Sure}
+{3020}{}{No... wait}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want to join the battle}
+{2020}{}{I want to join the battle}
+{2030}{}{I want to join the battle}
+{2040}{}{I want to buy something}
+{2050}{}{I want to leave this event}
+{3000}{}{Are you sure? You wont get reward and you wont get reward}
+{3010}{}{Yes, I'm Sure}
+{3020}{}{No... wait}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want to join the battle}
+{2020}{}{I want to join the battle}
+{2030}{}{I want to join the battle}
+{2040}{}{I want to buy something}
+{2050}{}{I want to leave this event}
+{3000}{}{Are you sure? You wont get reward and you wont get reward}
+{3010}{}{Yes, I'm Sure}
+{3020}{}{No... wait}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{trying to enter}
+{2000}{}{What is it, you, wasteland shit?}
+{2010}{}{I want to join the battle}
+{2020}{}{I want to join the battle}
+{2030}{}{I want to join the battle}
+{2040}{}{I want to buy something}
+{2050}{}{I want to leave this event}
+{3000}{}{Are you sure? You wont get reward and you wont get reward}
+{3010}{}{Yes, I'm Sure}
+{3020}{}{No... wait}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it, you, wasteland shit?}

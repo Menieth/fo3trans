@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -121,6 +121,474 @@ lang=engl
 {100}{}{Banker}
 {200}{}{You see a banker.}
 {210}{}{He's keeping watch over you with piggy little eyes.}
+{1000}{}{Predialogue installations}
+{1010}{}{---}
+{2000}{}{Yes, sir, how may I help you?}
+{2010}{}{I want to use your banking services.}
+{2020}{}{Could I open an account in this fine establishment?}
+{2030}{}{Hey, I know your bank is bankrupt! I want my money, *NOW*! *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2040}{}{I want to exchange all the money on my account into NCR Gold Dollars. *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2050}{}{May I see your interest rates?}
+{2060}{}{I would like to sell a gold nugget. Need some caps for whiskey.}
+{2070}{}{I have 10 gold nuggets for sale. Yeah, you heard it right, ten fucking gold nuggets. Finally I'm rich and people will have to respect me.}
+{2080}{}{Uh, nothing. Bye.}
+{3000}{}{What's your account number?}
+{3010}{}{Uh, nevermind. Can I ask you something else?}
+{3020}{}{The account is in my name...}
+{3030}{}{Forget it. Bye.}
+{4000}{}{What kind of transaction would you like to make?}
+{4010}{}{I'd like to make a deposit.}
+{4020}{}{Could I make a withdrawal?}
+{4030}{}{Can I transfer money to another account?}
+{4040}{}{I'd like to take out a loan.}
+{4050}{}{Can I check my balance?}
+{4060}{}{That's all for me, thanks.}
+{5000}{}{Account Owner: @lex owner@.
+Account Number: @lex number@.
+Account Balance: @lex balance@.
+Account Credit Rating: @lex rating@.
+Account Type: @lex type@.}
+{5010}{}{Thanks, can I make another transation?}
+{5020}{}{I want to change who can access this account.}
+{5030}{}{Can I upgrade this account to a joint account?}
+{6000}{}{What would you like to do?}
+{6010}{}{Can I give someone access?}
+{6020}{}{Can I revoke someone's access?}
+{6030}{}{Nothing, nevermind.}
+{7000}{}{Who would you like to give access to?}
+{7010}{}{Okay, I'm done, thank you.}
+{8000}{}{Whose access would you like to revoke?}
+{8010}{}{Okay, I'm done, thank you.}
+{9000}{}{Certainly sir, one second.}
+{10000}{}{I'm afraid you don't have that kind of money, sir.}
+{11000}{}{Which account would that be, sir?}
+{11010}{}{Nevermind, I changed my mind.}
+{12000}{}{How much would you like to transfer to this account? [Use say to tell the banker how much]}
+{12010}{}{Nevermind, I changed my mind.}
+{13000}{}{How big a deposit would you like to make? [Use say to tell the banker how much]}
+{13010}{}{Nevermind, I changed my mind.}
+{14000}{}{How much would you like to withdraw? [Use say to tell the banker how much]}
+{14010}{}{Nevermind, I changed my mind.}
+{15000}{}{Certainly, how much do you wish to borrow? The interest rate for loans is currently @lex interest@% and will be counted for each day since you've taken the loan.}
+{15010}{}{Uh, nevermind.}
+{15020}{}{$@lex micro@}
+{15030}{}{$@lex small@}
+{15040}{}{$@lex medium@}
+{15050}{}{$@lex big@}
+{16000}{}{You wish to create an account? Certainly. The one-time fee for creating a bank account with us is only $100.}
+{16010}{}{Alright, here's $100}
+{16020}{}{Forget it, I'm not interested.}
+{16030}{}{Little steep for me, bye.}
+{17000}{}{It doesn't seem like you have a bank account with us. Do you want me to set up an account for you? It'll only cost you $100.}
+{17010}{}{Sure, why not.}
+{17020}{}{No thanks.}
+{17030}{}{I think I'll be going.}
+{18000}{}{Congratulations, you now have your own personal account. How may I help you?}
+{18010}{}{Could I make a transaction?}
+{18020}{}{That's all I needed, thanks. Bye.}
+{19000}{}{It seems like there's already an account in your name. Sorry pal, we only allow one account per person.}
+{19010}{}{Just.. uh, checking. Thanks.}
+{20000}{}{Please, I'm busy with another customer. Give me one moment.}
+{21000}{}{Sorry, our bank can hardly handle the amount of customers we already have. You can't open a new account here. I guess you'll have to check elsewhere.}
+{21010}{}{Damn, oh well.}
+{22000}{}{Sorry, there was some error in registration. Try again later [Please report this error on the forum or elsewhere]}
+{22010}{}{I understand. No problem!}
+{23000}{}{I'm sorry, with your credit rating we can't afford to risk giving you a loan.}
+{23010}{}{I see.}
+{24000}{}{I'm sorry, that's not a valid account number.}
+{24010}{}{Sorry, I must've misspoke. Let me try again.}
+{24020}{}{Damn. Forget it.}
+{25000}{}{Sorry, it doesn't seem you're authorized to access this account.}
+{25010}{}{Must've mixed up the numbers somehow....}
+{26000}{}{Bank not found - Please report this error on the forum or elsewhere}
+{27000}{}{A joint account? This'll let a group of people all withdraw and deposit money into the same account. This upgrade will cost you $10,000 taken directly from your account. Are you sure you want to?}
+{27010}{}{Yeah, thank you.}
+{27020}{}{No, I changed my mind.}
+{28000}{}{Thank you, we've upgraded you to a joint account.}
+{28010}{}{Okay, thanks.}
+{29000}{}{Sorry pal, you haven't got the cash to upgrade in your account. Make the necessary deposit, and try again.}
+{29010}{}{Will do.}
+{30000}{}{Some error occured while upgrading your account. Sorry}
+{30010}{}{No problem}
+{31000}{}{Some error occured while trying to loan money. Sorry}
+{31010}{}{It's ok}
+{32000}{}{You need to pay back your current loans, deadbeat.}
+{32010}{}{Fine, fine. Jeez.}
+{33000}{}{I'm sorry, we don't have any money left to lend you.}
+{33010}{}{I'll check with you later then.}
+{34000}{}{Here you go. We expect the money back as soon as possible. If not, we'll find you.}
+{34010}{}{I'll do what I can.}
+{35000}{}{Certainly. Savings Interest: @lex savings@%}
+{35010}{}{Okay, can I make another transaction?}
+{35020}{}{Thank you, bye.}
+{36000}{}{We... have the possibilitie to exchange the money on your account into NCR Gold Dollars. Of course, the conversion rate isn't 1:1, but hey, it's better than nothing, isn't it!}
+{36010}{}{I want to exchange all the money on my account into NCR Gold Dollars.}
+{36020}{}{No, I don't want to exchange my money!}
+{37000}{}{This would be @lex show amount of gold dollar to get yaddayadda@ NCR Dollar.}
+{37010}{}{Good, give it to me! *DEV NOTE: Add money result in here.*}
+{37020}{}{I changed my mind. I don't want to exchange my money.}
+{38000}{}{Please wait here... [The banker is heading to his safe room, opening a heavy lock with some code of numbers that seems to be rather long. After a few minutes he comes back to you.] ... Here is your money. [He gives you the NCR Dollars.]}
+{38010}{}{Goodbye.@@Thank you, bye.}
+{39000}{}{That's 125 caps. Here is you money.}
+{39010}{}{Thank you, I have another question.}
+{39020}{}{Thanks, bye.}
+{40000}{}{Of course sir, 1250 caps it is. There is some new vein of gold?}
+{40010}{}{Maybe there is, maybe there isn't... it's none of your business. I have another question.}
+{40020}{}{And why are you so interested? Goodbye.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{---}
+{2000}{}{Yes, sir, how may I help you?}
+{2010}{}{I want to use your banking services.}
+{2020}{}{Could I open an account in this fine establishment?}
+{2030}{}{Hey, I know your bank is bankrupt! I want my money, *NOW*! *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2040}{}{I want to exchange all the money on my account into NCR Gold Dollars. *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2050}{}{May I see your interest rates?}
+{2060}{}{I would like to sell a gold nugget. Need some caps for whiskey.}
+{2070}{}{I have 10 gold nuggets for sale. Yeah, you heard it right, ten fucking gold nuggets. Finally I'm rich and people will have to respect me.}
+{2080}{}{Uh, nothing. Bye.}
+{3000}{}{What's your account number?}
+{3010}{}{Uh, nevermind. Can I ask you something else?}
+{3020}{}{The account is in my name...}
+{3030}{}{Forget it. Bye.}
+{4000}{}{What kind of transaction would you like to make?}
+{4010}{}{I'd like to make a deposit.}
+{4020}{}{Could I make a withdrawal?}
+{4030}{}{Can I transfer money to another account?}
+{4040}{}{I'd like to take out a loan.}
+{4050}{}{Can I check my balance?}
+{4060}{}{That's all for me, thanks.}
+{5000}{}{Account Owner: @lex owner@.
+Account Number: @lex number@.
+Account Balance: @lex balance@.
+Account Credit Rating: @lex rating@.
+Account Type: @lex type@.}
+{5010}{}{Thanks, can I make another transation?}
+{5020}{}{I want to change who can access this account.}
+{5030}{}{Can I upgrade this account to a joint account?}
+{6000}{}{What would you like to do?}
+{6010}{}{Can I give someone access?}
+{6020}{}{Can I revoke someone's access?}
+{6030}{}{Nothing, nevermind.}
+{7000}{}{Who would you like to give access to?}
+{7010}{}{Okay, I'm done, thank you.}
+{8000}{}{Whose access would you like to revoke?}
+{8010}{}{Okay, I'm done, thank you.}
+{9000}{}{Certainly sir, one second.}
+{10000}{}{I'm afraid you don't have that kind of money, sir.}
+{11000}{}{Which account would that be, sir?}
+{11010}{}{Nevermind, I changed my mind.}
+{12000}{}{How much would you like to transfer to this account? [Use say to tell the banker how much]}
+{12010}{}{Nevermind, I changed my mind.}
+{13000}{}{How big a deposit would you like to make? [Use say to tell the banker how much]}
+{13010}{}{Nevermind, I changed my mind.}
+{14000}{}{How much would you like to withdraw? [Use say to tell the banker how much]}
+{14010}{}{Nevermind, I changed my mind.}
+{15000}{}{Certainly, how much do you wish to borrow? The interest rate for loans is currently @lex interest@% and will be counted for each day since you've taken the loan.}
+{15010}{}{Uh, nevermind.}
+{15020}{}{$@lex micro@}
+{15030}{}{$@lex small@}
+{15040}{}{$@lex medium@}
+{15050}{}{$@lex big@}
+{16000}{}{You wish to create an account? Certainly. The one-time fee for creating a bank account with us is only $100.}
+{16010}{}{Alright, here's $100}
+{16020}{}{Forget it, I'm not interested.}
+{16030}{}{Little steep for me, bye.}
+{17000}{}{It doesn't seem like you have a bank account with us. Do you want me to set up an account for you? It'll only cost you $100.}
+{17010}{}{Sure, why not.}
+{17020}{}{No thanks.}
+{17030}{}{I think I'll be going.}
+{18000}{}{Congratulations, you now have your own personal account. How may I help you?}
+{18010}{}{Could I make a transaction?}
+{18020}{}{That's all I needed, thanks. Bye.}
+{19000}{}{It seems like there's already an account in your name. Sorry pal, we only allow one account per person.}
+{19010}{}{Just.. uh, checking. Thanks.}
+{20000}{}{Please, I'm busy with another customer. Give me one moment.}
+{21000}{}{Sorry, our bank can hardly handle the amount of customers we already have. You can't open a new account here. I guess you'll have to check elsewhere.}
+{21010}{}{Damn, oh well.}
+{22000}{}{Sorry, there was some error in registration. Try again later [Please report this error on the forum or elsewhere]}
+{22010}{}{I understand. No problem!}
+{23000}{}{I'm sorry, with your credit rating we can't afford to risk giving you a loan.}
+{23010}{}{I see.}
+{24000}{}{I'm sorry, that's not a valid account number.}
+{24010}{}{Sorry, I must've misspoke. Let me try again.}
+{24020}{}{Damn. Forget it.}
+{25000}{}{Sorry, it doesn't seem you're authorized to access this account.}
+{25010}{}{Must've mixed up the numbers somehow....}
+{26000}{}{Bank not found - Please report this error on the forum or elsewhere}
+{27000}{}{A joint account? This'll let a group of people all withdraw and deposit money into the same account. This upgrade will cost you $10,000 taken directly from your account. Are you sure you want to?}
+{27010}{}{Yeah, thank you.}
+{27020}{}{No, I changed my mind.}
+{28000}{}{Thank you, we've upgraded you to a joint account.}
+{28010}{}{Okay, thanks.}
+{29000}{}{Sorry pal, you haven't got the cash to upgrade in your account. Make the necessary deposit, and try again.}
+{29010}{}{Will do.}
+{30000}{}{Some error occured while upgrading your account. Sorry}
+{30010}{}{No problem}
+{31000}{}{Some error occured while trying to loan money. Sorry}
+{31010}{}{It's ok}
+{32000}{}{You need to pay back your current loans, deadbeat.}
+{32010}{}{Fine, fine. Jeez.}
+{33000}{}{I'm sorry, we don't have any money left to lend you.}
+{33010}{}{I'll check with you later then.}
+{34000}{}{Here you go. We expect the money back as soon as possible. If not, we'll find you.}
+{34010}{}{I'll do what I can.}
+{35000}{}{Certainly. Savings Interest: @lex savings@%}
+{35010}{}{Okay, can I make another transaction?}
+{35020}{}{Thank you, bye.}
+{36000}{}{We... have the possibilitie to exchange the money on your account into NCR Gold Dollars. Of course, the conversion rate isn't 1:1, but hey, it's better than nothing, isn't it!}
+{36010}{}{I want to exchange all the money on my account into NCR Gold Dollars.}
+{36020}{}{No, I don't want to exchange my money!}
+{37000}{}{This would be @lex show amount of gold dollar to get yaddayadda@ NCR Dollar.}
+{37010}{}{Good, give it to me! *DEV NOTE: Add money result in here.*}
+{37020}{}{I changed my mind. I don't want to exchange my money.}
+{38000}{}{Please wait here... [The banker is heading to his safe room, opening a heavy lock with some code of numbers that seems to be rather long. After a few minutes he comes back to you.] ... Here is your money. [He gives you the NCR Dollars.]}
+{38010}{}{Goodbye.@@Thank you, bye.}
+{39000}{}{That's 125 caps. Here is you money.}
+{39010}{}{Thank you, I have another question.}
+{39020}{}{Thanks, bye.}
+{40000}{}{Of course sir, 1250 caps it is. There is some new vein of gold?}
+{40010}{}{Maybe there is, maybe there isn't... it's none of your business. I have another question.}
+{40020}{}{And why are you so interested? Goodbye.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{---}
+{2000}{}{Yes, sir, how may I help you?}
+{2010}{}{I want to use your banking services.}
+{2020}{}{Could I open an account in this fine establishment?}
+{2030}{}{Hey, I know your bank is bankrupt! I want my money, *NOW*! *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2040}{}{I want to exchange all the money on my account into NCR Gold Dollars. *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2050}{}{May I see your interest rates?}
+{2060}{}{I would like to sell a gold nugget. Need some caps for whiskey.}
+{2070}{}{I have 10 gold nuggets for sale. Yeah, you heard it right, ten fucking gold nuggets. Finally I'm rich and people will have to respect me.}
+{2080}{}{Uh, nothing. Bye.}
+{3000}{}{What's your account number?}
+{3010}{}{Uh, nevermind. Can I ask you something else?}
+{3020}{}{The account is in my name...}
+{3030}{}{Forget it. Bye.}
+{4000}{}{What kind of transaction would you like to make?}
+{4010}{}{I'd like to make a deposit.}
+{4020}{}{Could I make a withdrawal?}
+{4030}{}{Can I transfer money to another account?}
+{4040}{}{I'd like to take out a loan.}
+{4050}{}{Can I check my balance?}
+{4060}{}{That's all for me, thanks.}
+{5000}{}{Account Owner: @lex owner@.
+Account Number: @lex number@.
+Account Balance: @lex balance@.
+Account Credit Rating: @lex rating@.
+Account Type: @lex type@.}
+{5010}{}{Thanks, can I make another transation?}
+{5020}{}{I want to change who can access this account.}
+{5030}{}{Can I upgrade this account to a joint account?}
+{6000}{}{What would you like to do?}
+{6010}{}{Can I give someone access?}
+{6020}{}{Can I revoke someone's access?}
+{6030}{}{Nothing, nevermind.}
+{7000}{}{Who would you like to give access to?}
+{7010}{}{Okay, I'm done, thank you.}
+{8000}{}{Whose access would you like to revoke?}
+{8010}{}{Okay, I'm done, thank you.}
+{9000}{}{Certainly sir, one second.}
+{10000}{}{I'm afraid you don't have that kind of money, sir.}
+{11000}{}{Which account would that be, sir?}
+{11010}{}{Nevermind, I changed my mind.}
+{12000}{}{How much would you like to transfer to this account? [Use say to tell the banker how much]}
+{12010}{}{Nevermind, I changed my mind.}
+{13000}{}{How big a deposit would you like to make? [Use say to tell the banker how much]}
+{13010}{}{Nevermind, I changed my mind.}
+{14000}{}{How much would you like to withdraw? [Use say to tell the banker how much]}
+{14010}{}{Nevermind, I changed my mind.}
+{15000}{}{Certainly, how much do you wish to borrow? The interest rate for loans is currently @lex interest@% and will be counted for each day since you've taken the loan.}
+{15010}{}{Uh, nevermind.}
+{15020}{}{$@lex micro@}
+{15030}{}{$@lex small@}
+{15040}{}{$@lex medium@}
+{15050}{}{$@lex big@}
+{16000}{}{You wish to create an account? Certainly. The one-time fee for creating a bank account with us is only $100.}
+{16010}{}{Alright, here's $100}
+{16020}{}{Forget it, I'm not interested.}
+{16030}{}{Little steep for me, bye.}
+{17000}{}{It doesn't seem like you have a bank account with us. Do you want me to set up an account for you? It'll only cost you $100.}
+{17010}{}{Sure, why not.}
+{17020}{}{No thanks.}
+{17030}{}{I think I'll be going.}
+{18000}{}{Congratulations, you now have your own personal account. How may I help you?}
+{18010}{}{Could I make a transaction?}
+{18020}{}{That's all I needed, thanks. Bye.}
+{19000}{}{It seems like there's already an account in your name. Sorry pal, we only allow one account per person.}
+{19010}{}{Just.. uh, checking. Thanks.}
+{20000}{}{Please, I'm busy with another customer. Give me one moment.}
+{21000}{}{Sorry, our bank can hardly handle the amount of customers we already have. You can't open a new account here. I guess you'll have to check elsewhere.}
+{21010}{}{Damn, oh well.}
+{22000}{}{Sorry, there was some error in registration. Try again later [Please report this error on the forum or elsewhere]}
+{22010}{}{I understand. No problem!}
+{23000}{}{I'm sorry, with your credit rating we can't afford to risk giving you a loan.}
+{23010}{}{I see.}
+{24000}{}{I'm sorry, that's not a valid account number.}
+{24010}{}{Sorry, I must've misspoke. Let me try again.}
+{24020}{}{Damn. Forget it.}
+{25000}{}{Sorry, it doesn't seem you're authorized to access this account.}
+{25010}{}{Must've mixed up the numbers somehow....}
+{26000}{}{Bank not found - Please report this error on the forum or elsewhere}
+{27000}{}{A joint account? This'll let a group of people all withdraw and deposit money into the same account. This upgrade will cost you $10,000 taken directly from your account. Are you sure you want to?}
+{27010}{}{Yeah, thank you.}
+{27020}{}{No, I changed my mind.}
+{28000}{}{Thank you, we've upgraded you to a joint account.}
+{28010}{}{Okay, thanks.}
+{29000}{}{Sorry pal, you haven't got the cash to upgrade in your account. Make the necessary deposit, and try again.}
+{29010}{}{Will do.}
+{30000}{}{Some error occured while upgrading your account. Sorry}
+{30010}{}{No problem}
+{31000}{}{Some error occured while trying to loan money. Sorry}
+{31010}{}{It's ok}
+{32000}{}{You need to pay back your current loans, deadbeat.}
+{32010}{}{Fine, fine. Jeez.}
+{33000}{}{I'm sorry, we don't have any money left to lend you.}
+{33010}{}{I'll check with you later then.}
+{34000}{}{Here you go. We expect the money back as soon as possible. If not, we'll find you.}
+{34010}{}{I'll do what I can.}
+{35000}{}{Certainly. Savings Interest: @lex savings@%}
+{35010}{}{Okay, can I make another transaction?}
+{35020}{}{Thank you, bye.}
+{36000}{}{We... have the possibilitie to exchange the money on your account into NCR Gold Dollars. Of course, the conversion rate isn't 1:1, but hey, it's better than nothing, isn't it!}
+{36010}{}{I want to exchange all the money on my account into NCR Gold Dollars.}
+{36020}{}{No, I don't want to exchange my money!}
+{37000}{}{This would be @lex show amount of gold dollar to get yaddayadda@ NCR Dollar.}
+{37010}{}{Good, give it to me! *DEV NOTE: Add money result in here.*}
+{37020}{}{I changed my mind. I don't want to exchange my money.}
+{38000}{}{Please wait here... [The banker is heading to his safe room, opening a heavy lock with some code of numbers that seems to be rather long. After a few minutes he comes back to you.] ... Here is your money. [He gives you the NCR Dollars.]}
+{38010}{}{Goodbye.@@Thank you, bye.}
+{39000}{}{That's 125 caps. Here is you money.}
+{39010}{}{Thank you, I have another question.}
+{39020}{}{Thanks, bye.}
+{40000}{}{Of course sir, 1250 caps it is. There is some new vein of gold?}
+{40010}{}{Maybe there is, maybe there isn't... it's none of your business. I have another question.}
+{40020}{}{And why are you so interested? Goodbye.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{---}
+{2000}{}{Yes, sir, how may I help you?}
+{2010}{}{I want to use your banking services.}
+{2020}{}{Could I open an account in this fine establishment?}
+{2030}{}{Hey, I know your bank is bankrupt! I want my money, *NOW*! *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2040}{}{I want to exchange all the money on my account into NCR Gold Dollars. *DEV NOTE: Add Demand for Hub and NCR location here.* DEV NOTE 2: added high IN check, didn't want to remove the line, we may use this yet. *}
+{2050}{}{May I see your interest rates?}
+{2060}{}{I would like to sell a gold nugget. Need some caps for whiskey.}
+{2070}{}{I have 10 gold nuggets for sale. Yeah, you heard it right, ten fucking gold nuggets. Finally I'm rich and people will have to respect me.}
+{2080}{}{Uh, nothing. Bye.}
+{3000}{}{What's your account number?}
+{3010}{}{Uh, nevermind. Can I ask you something else?}
+{3020}{}{The account is in my name...}
+{3030}{}{Forget it. Bye.}
+{4000}{}{What kind of transaction would you like to make?}
+{4010}{}{I'd like to make a deposit.}
+{4020}{}{Could I make a withdrawal?}
+{4030}{}{Can I transfer money to another account?}
+{4040}{}{I'd like to take out a loan.}
+{4050}{}{Can I check my balance?}
+{4060}{}{That's all for me, thanks.}
+{5000}{}{Account Owner: @lex owner@.
+Account Number: @lex number@.
+Account Balance: @lex balance@.
+Account Credit Rating: @lex rating@.
+Account Type: @lex type@.}
+{5010}{}{Thanks, can I make another transation?}
+{5020}{}{I want to change who can access this account.}
+{5030}{}{Can I upgrade this account to a joint account?}
+{6000}{}{What would you like to do?}
+{6010}{}{Can I give someone access?}
+{6020}{}{Can I revoke someone's access?}
+{6030}{}{Nothing, nevermind.}
+{7000}{}{Who would you like to give access to?}
+{7010}{}{Okay, I'm done, thank you.}
+{8000}{}{Whose access would you like to revoke?}
+{8010}{}{Okay, I'm done, thank you.}
+{9000}{}{Certainly sir, one second.}
+{10000}{}{I'm afraid you don't have that kind of money, sir.}
+{11000}{}{Which account would that be, sir?}
+{11010}{}{Nevermind, I changed my mind.}
+{12000}{}{How much would you like to transfer to this account? [Use say to tell the banker how much]}
+{12010}{}{Nevermind, I changed my mind.}
+{13000}{}{How big a deposit would you like to make? [Use say to tell the banker how much]}
+{13010}{}{Nevermind, I changed my mind.}
+{14000}{}{How much would you like to withdraw? [Use say to tell the banker how much]}
+{14010}{}{Nevermind, I changed my mind.}
+{15000}{}{Certainly, how much do you wish to borrow? The interest rate for loans is currently @lex interest@% and will be counted for each day since you've taken the loan.}
+{15010}{}{Uh, nevermind.}
+{15020}{}{$@lex micro@}
+{15030}{}{$@lex small@}
+{15040}{}{$@lex medium@}
+{15050}{}{$@lex big@}
+{16000}{}{You wish to create an account? Certainly. The one-time fee for creating a bank account with us is only $100.}
+{16010}{}{Alright, here's $100}
+{16020}{}{Forget it, I'm not interested.}
+{16030}{}{Little steep for me, bye.}
+{17000}{}{It doesn't seem like you have a bank account with us. Do you want me to set up an account for you? It'll only cost you $100.}
+{17010}{}{Sure, why not.}
+{17020}{}{No thanks.}
+{17030}{}{I think I'll be going.}
+{18000}{}{Congratulations, you now have your own personal account. How may I help you?}
+{18010}{}{Could I make a transaction?}
+{18020}{}{That's all I needed, thanks. Bye.}
+{19000}{}{It seems like there's already an account in your name. Sorry pal, we only allow one account per person.}
+{19010}{}{Just.. uh, checking. Thanks.}
+{20000}{}{Please, I'm busy with another customer. Give me one moment.}
+{21000}{}{Sorry, our bank can hardly handle the amount of customers we already have. You can't open a new account here. I guess you'll have to check elsewhere.}
+{21010}{}{Damn, oh well.}
+{22000}{}{Sorry, there was some error in registration. Try again later [Please report this error on the forum or elsewhere]}
+{22010}{}{I understand. No problem!}
+{23000}{}{I'm sorry, with your credit rating we can't afford to risk giving you a loan.}
+{23010}{}{I see.}
+{24000}{}{I'm sorry, that's not a valid account number.}
+{24010}{}{Sorry, I must've misspoke. Let me try again.}
+{24020}{}{Damn. Forget it.}
+{25000}{}{Sorry, it doesn't seem you're authorized to access this account.}
+{25010}{}{Must've mixed up the numbers somehow....}
+{26000}{}{Bank not found - Please report this error on the forum or elsewhere}
+{27000}{}{A joint account? This'll let a group of people all withdraw and deposit money into the same account. This upgrade will cost you $10,000 taken directly from your account. Are you sure you want to?}
+{27010}{}{Yeah, thank you.}
+{27020}{}{No, I changed my mind.}
+{28000}{}{Thank you, we've upgraded you to a joint account.}
+{28010}{}{Okay, thanks.}
+{29000}{}{Sorry pal, you haven't got the cash to upgrade in your account. Make the necessary deposit, and try again.}
+{29010}{}{Will do.}
+{30000}{}{Some error occured while upgrading your account. Sorry}
+{30010}{}{No problem}
+{31000}{}{Some error occured while trying to loan money. Sorry}
+{31010}{}{It's ok}
+{32000}{}{You need to pay back your current loans, deadbeat.}
+{32010}{}{Fine, fine. Jeez.}
+{33000}{}{I'm sorry, we don't have any money left to lend you.}
+{33010}{}{I'll check with you later then.}
+{34000}{}{Here you go. We expect the money back as soon as possible. If not, we'll find you.}
+{34010}{}{I'll do what I can.}
+{35000}{}{Certainly. Savings Interest: @lex savings@%}
+{35010}{}{Okay, can I make another transaction?}
+{35020}{}{Thank you, bye.}
+{36000}{}{We... have the possibilitie to exchange the money on your account into NCR Gold Dollars. Of course, the conversion rate isn't 1:1, but hey, it's better than nothing, isn't it!}
+{36010}{}{I want to exchange all the money on my account into NCR Gold Dollars.}
+{36020}{}{No, I don't want to exchange my money!}
+{37000}{}{This would be @lex show amount of gold dollar to get yaddayadda@ NCR Dollar.}
+{37010}{}{Good, give it to me! *DEV NOTE: Add money result in here.*}
+{37020}{}{I changed my mind. I don't want to exchange my money.}
+{38000}{}{Please wait here... [The banker is heading to his safe room, opening a heavy lock with some code of numbers that seems to be rather long. After a few minutes he comes back to you.] ... Here is your money. [He gives you the NCR Dollars.]}
+{38010}{}{Goodbye.@@Thank you, bye.}
+{39000}{}{That's 125 caps. Here is you money.}
+{39010}{}{Thank you, I have another question.}
+{39020}{}{Thanks, bye.}
+{40000}{}{Of course sir, 1250 caps it is. There is some new vein of gold?}
+{40010}{}{Maybe there is, maybe there isn't... it's none of your business. I have another question.}
+{40020}{}{And why are you so interested? Goodbye.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Yes, sir, how may I help you?}

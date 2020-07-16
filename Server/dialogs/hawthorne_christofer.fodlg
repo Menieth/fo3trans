@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Christofer}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}

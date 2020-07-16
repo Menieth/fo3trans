@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Guard}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Hello.@@I am watching you.@@Don't try anything stupid.@@Greetings.@@Can I help you?@@What is it?}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Hello.@@I am watching you.@@Don't try anything stupid.@@Greetings.@@Can I help you?@@What is it?}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Hello.@@I am watching you.@@Don't try anything stupid.@@Greetings.@@Can I help you?@@What is it?}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Yeah?@@Hello.@@I am watching you.@@Don't try anything stupid.@@Greetings.@@Can I help you?@@What is it?}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah?@@Hello.@@I am watching you.@@Don't try anything stupid.@@Greetings.@@Can I help you?@@What is it?}

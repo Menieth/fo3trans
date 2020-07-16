@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,30 @@ lang=engl
 {210}{}{A little girl. She seems rather playful.}
 {240}{}{A dead little girl.}
 {250}{}{A dead little girl. She's not very playful.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{How come you're so funny looking?@@Who dressed you so funny?@@Have you seen my invisible friend?@@I’ve got a shiny pebble!@@Have you seen my invisible friend?@@I'll bet you're nicer than you look.@@Do you have some food?@@I can run fast. Wanna see?@@Are you married?@@Do you like me?@@Stranger!@@I'm delicious.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{How come you're so funny looking?@@Who dressed you so funny?@@Have you seen my invisible friend?@@I’ve got a shiny pebble!@@Have you seen my invisible friend?@@I'll bet you're nicer than you look.@@Do you have some food?@@I can run fast. Wanna see?@@Are you married?@@Do you like me?@@Stranger!@@I'm delicious.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{How come you're so funny looking?@@Who dressed you so funny?@@Have you seen my invisible friend?@@I’ve got a shiny pebble!@@Have you seen my invisible friend?@@I'll bet you're nicer than you look.@@Do you have some food?@@I can run fast. Wanna see?@@Are you married?@@Do you like me?@@Stranger!@@I'm delicious.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{How come you're so funny looking?@@Who dressed you so funny?@@Have you seen my invisible friend?@@I’ve got a shiny pebble!@@Have you seen my invisible friend?@@I'll bet you're nicer than you look.@@Do you have some food?@@I can run fast. Wanna see?@@Are you married?@@Do you like me?@@Stranger!@@I'm delicious.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{How come you're so funny looking?@@Who dressed you so funny?@@Have you seen my invisible friend?@@I’ve got a shiny pebble!@@Have you seen my invisible friend?@@I'll bet you're nicer than you look.@@Do you have some food?@@I can run fast. Wanna see?@@Are you married?@@Do you like me?@@Stranger!@@I'm delicious.}

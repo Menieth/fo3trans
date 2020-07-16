@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +15,42 @@ lang=engl
 
 [engl]
 {100}{}{Enclave Sniper}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What a... The heck are you doing here?}
+{2010}{}{Ups... I better go.}
+{2020}{}{Uh... Ehm...}
+{2030}{}{I AM YOUR DOOM!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What a... The heck are you doing here?}
+{2010}{}{Ups... I better go.}
+{2020}{}{Uh... Ehm...}
+{2030}{}{I AM YOUR DOOM!}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What a... The heck are you doing here?}
+{2010}{}{Ups... I better go.}
+{2020}{}{Uh... Ehm...}
+{2030}{}{I AM YOUR DOOM!}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What a... The heck are you doing here?}
+{2010}{}{Ups... I better go.}
+{2020}{}{Uh... Ehm...}
+{2030}{}{I AM YOUR DOOM!}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a... The heck are you doing here?}

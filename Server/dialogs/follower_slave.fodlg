@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -121,4 +121,236 @@ lang=engl
 @lex stats@}
 {15010}{}{[Done]}
 {100000001}{}{I feel stronger, master!@@I feel stronger!}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{heavy wounded}
+{1020}{}{Wounded}
+{1030}{}{ }
+{1040}{}{Not owner, floats}
+{2000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{2010}{}{You stay here. If you run away, I will find and kill you.}
+{2020}{}{Okay, we are ready now. Follow me.}
+{2030}{}{I need you to move, you're blocking my way.}
+{2040}{}{I need you to rotate for me.}
+{2050}{}{Here, I've got something for you.}
+{2060}{}{I want you to dig me some resources.}
+{2070}{}{I want someone else to command you.}
+{2080}{}{[more options]}
+{2090}{}{Drop all items you carry.}
+{2100}{}{Pick up all items from the ground.}
+{2110}{}{Nevermind.}
+{3000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{3010}{}{We need to talk about our distance.}
+{3020}{}{I want to talk about your attack style.}
+{3030}{}{Have some Jet. [Give 1 Jet]}
+{3040}{}{Put down your weapon.}
+{3050}{}{Arm yourself.}
+{3060}{}{[Check stats]}
+{3070}{}{[back to first page]}
+{4000}{}{Sure, how far do you want me to be, master?}
+{4010}{}{Stay close to me.}
+{4020}{}{Stick at medium range.}
+{4030}{}{Keep your distance, try and snipe them.}
+{5000}{}{What is it you want me to do, master?}
+{5010}{}{Protect me. Attack anyone who attacks us, unless it's our friend.}
+{5020}{}{Protect me and my land. We don't take kindly to strangers lurking 'bout.}
+{5030}{}{Stay out of combat. Flee if hostile contacts are spotted.}
+{5040}{}{Kill any NPC you see. (disabled)}
+{5050}{}{Kill everyone, but don't touch me or my friends. (disabled)}
+{5060}{}{Attack enemies of our faction. (disabled)}
+{5070}{}{Attack anyone who isn't a member of our faction (disabled)}
+{6000}{}{Yes, master.@@Yes, my master.}
+{6010}{}{Alright.}
+{7000}{}{I'll wait here, master.@@Yes, I'll wait here, master.}
+{7010}{}{[Exit]}
+{8000}{}{Who will be my new master?}
+{8010}{}{No one, I changed my mind.}
+{9000}{}{Master, I don't feel very good.@@I don't feel very good, master.}
+{9010}{}{You're gonna make it, don't be a whimp!}
+{10000}{}{I don't think that I will make it any longer, master. I am bleeding very much.@@Master, I don't think that I will make it any longer...@@I am bleeding very much, master. I need help.}
+{10010}{}{You're gonna make it, don't be a whimp!}
+{11000}{}{I'm not allowed to speak to you.@@We'll be keeping an eye on you.}
+{12000}{}{Ok, master, I'll do that if you wish me to!}
+{12010}{}{If you don't do your job properly, I'll kill you.}
+{13000}{}{Ok, master, I'll do that if you wish me to!}
+{14000}{}{*Inhales Jet*}
+{15000}{}{Current statistics:
+@lex stats@}
+{15010}{}{[Done]}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{heavy wounded}
+{1020}{}{Wounded}
+{1030}{}{ }
+{1040}{}{Not owner, floats}
+{2000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{2010}{}{You stay here. If you run away, I will find and kill you.}
+{2020}{}{Okay, we are ready now. Follow me.}
+{2030}{}{I need you to move, you're blocking my way.}
+{2040}{}{I need you to rotate for me.}
+{2050}{}{Here, I've got something for you.}
+{2060}{}{I want you to dig me some resources.}
+{2070}{}{I want someone else to command you.}
+{2080}{}{[more options]}
+{2090}{}{Drop all items you carry.}
+{2100}{}{Pick up all items from the ground.}
+{2110}{}{Nevermind.}
+{3000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{3010}{}{We need to talk about our distance.}
+{3020}{}{I want to talk about your attack style.}
+{3030}{}{Have some Jet. [Give 1 Jet]}
+{3040}{}{Put down your weapon.}
+{3050}{}{Arm yourself.}
+{3060}{}{[Check stats]}
+{3070}{}{[back to first page]}
+{4000}{}{Sure, how far do you want me to be, master?}
+{4010}{}{Stay close to me.}
+{4020}{}{Stick at medium range.}
+{4030}{}{Keep your distance, try and snipe them.}
+{5000}{}{What is it you want me to do, master?}
+{5010}{}{Protect me. Attack anyone who attacks us, unless it's our friend.}
+{5020}{}{Protect me and my land. We don't take kindly to strangers lurking 'bout.}
+{5030}{}{Stay out of combat. Flee if hostile contacts are spotted.}
+{5040}{}{Kill any NPC you see. (disabled)}
+{5050}{}{Kill everyone, but don't touch me or my friends. (disabled)}
+{5060}{}{Attack enemies of our faction. (disabled)}
+{5070}{}{Attack anyone who isn't a member of our faction (disabled)}
+{6000}{}{Yes, master.@@Yes, my master.}
+{6010}{}{Alright.}
+{7000}{}{I'll wait here, master.@@Yes, I'll wait here, master.}
+{7010}{}{[Exit]}
+{8000}{}{Who will be my new master?}
+{8010}{}{No one, I changed my mind.}
+{9000}{}{Master, I don't feel very good.@@I don't feel very good, master.}
+{9010}{}{You're gonna make it, don't be a whimp!}
+{10000}{}{I don't think that I will make it any longer, master. I am bleeding very much.@@Master, I don't think that I will make it any longer...@@I am bleeding very much, master. I need help.}
+{10010}{}{You're gonna make it, don't be a whimp!}
+{11000}{}{I'm not allowed to speak to you.@@We'll be keeping an eye on you.}
+{12000}{}{Ok, master, I'll do that if you wish me to!}
+{12010}{}{If you don't do your job properly, I'll kill you.}
+{13000}{}{Ok, master, I'll do that if you wish me to!}
+{14000}{}{*Inhales Jet*}
+{15000}{}{Current statistics:
+@lex stats@}
+{15010}{}{[Done]}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{heavy wounded}
+{1020}{}{Wounded}
+{1030}{}{ }
+{1040}{}{Not owner, floats}
+{2000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{2010}{}{You stay here. If you run away, I will find and kill you.}
+{2020}{}{Okay, we are ready now. Follow me.}
+{2030}{}{I need you to move, you're blocking my way.}
+{2040}{}{I need you to rotate for me.}
+{2050}{}{Here, I've got something for you.}
+{2060}{}{I want you to dig me some resources.}
+{2070}{}{I want someone else to command you.}
+{2080}{}{[more options]}
+{2090}{}{Drop all items you carry.}
+{2100}{}{Pick up all items from the ground.}
+{2110}{}{Nevermind.}
+{3000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{3010}{}{We need to talk about our distance.}
+{3020}{}{I want to talk about your attack style.}
+{3030}{}{Have some Jet. [Give 1 Jet]}
+{3040}{}{Put down your weapon.}
+{3050}{}{Arm yourself.}
+{3060}{}{[Check stats]}
+{3070}{}{[back to first page]}
+{4000}{}{Sure, how far do you want me to be, master?}
+{4010}{}{Stay close to me.}
+{4020}{}{Stick at medium range.}
+{4030}{}{Keep your distance, try and snipe them.}
+{5000}{}{What is it you want me to do, master?}
+{5010}{}{Protect me. Attack anyone who attacks us, unless it's our friend.}
+{5020}{}{Protect me and my land. We don't take kindly to strangers lurking 'bout.}
+{5030}{}{Stay out of combat. Flee if hostile contacts are spotted.}
+{5040}{}{Kill any NPC you see. (disabled)}
+{5050}{}{Kill everyone, but don't touch me or my friends. (disabled)}
+{5060}{}{Attack enemies of our faction. (disabled)}
+{5070}{}{Attack anyone who isn't a member of our faction (disabled)}
+{6000}{}{Yes, master.@@Yes, my master.}
+{6010}{}{Alright.}
+{7000}{}{I'll wait here, master.@@Yes, I'll wait here, master.}
+{7010}{}{[Exit]}
+{8000}{}{Who will be my new master?}
+{8010}{}{No one, I changed my mind.}
+{9000}{}{Master, I don't feel very good.@@I don't feel very good, master.}
+{9010}{}{You're gonna make it, don't be a whimp!}
+{10000}{}{I don't think that I will make it any longer, master. I am bleeding very much.@@Master, I don't think that I will make it any longer...@@I am bleeding very much, master. I need help.}
+{10010}{}{You're gonna make it, don't be a whimp!}
+{11000}{}{I'm not allowed to speak to you.@@We'll be keeping an eye on you.}
+{12000}{}{Ok, master, I'll do that if you wish me to!}
+{12010}{}{If you don't do your job properly, I'll kill you.}
+{13000}{}{Ok, master, I'll do that if you wish me to!}
+{14000}{}{*Inhales Jet*}
+{15000}{}{Current statistics:
+@lex stats@}
+{15010}{}{[Done]}
+
+[russ]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{heavy wounded}
+{1020}{}{Wounded}
+{1030}{}{ }
+{1040}{}{Not owner, floats}
+{2000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{2010}{}{You stay here. If you run away, I will find and kill you.}
+{2020}{}{Okay, we are ready now. Follow me.}
+{2030}{}{I need you to move, you're blocking my way.}
+{2040}{}{I need you to rotate for me.}
+{2050}{}{Here, I've got something for you.}
+{2060}{}{I want you to dig me some resources.}
+{2070}{}{I want someone else to command you.}
+{2080}{}{[more options]}
+{2090}{}{Drop all items you carry.}
+{2100}{}{Pick up all items from the ground.}
+{2110}{}{Nevermind.}
+{3000}{}{Yes, master?@@Yes, my master?@@What can I do for you, master?}
+{3010}{}{We need to talk about our distance.}
+{3020}{}{I want to talk about your attack style.}
+{3030}{}{Have some Jet. [Give 1 Jet]}
+{3040}{}{Put down your weapon.}
+{3050}{}{Arm yourself.}
+{3060}{}{[Check stats]}
+{3070}{}{[back to first page]}
+{4000}{}{Sure, how far do you want me to be, master?}
+{4010}{}{Stay close to me.}
+{4020}{}{Stick at medium range.}
+{4030}{}{Keep your distance, try and snipe them.}
+{5000}{}{What is it you want me to do, master?}
+{5010}{}{Protect me. Attack anyone who attacks us, unless it's our friend.}
+{5020}{}{Protect me and my land. We don't take kindly to strangers lurking 'bout.}
+{5030}{}{Stay out of combat. Flee if hostile contacts are spotted.}
+{5040}{}{Kill any NPC you see. (disabled)}
+{5050}{}{Kill everyone, but don't touch me or my friends. (disabled)}
+{5060}{}{Attack enemies of our faction. (disabled)}
+{5070}{}{Attack anyone who isn't a member of our faction (disabled)}
+{6000}{}{Yes, master.@@Yes, my master.}
+{6010}{}{Alright.}
+{7000}{}{I'll wait here, master.@@Yes, I'll wait here, master.}
+{7010}{}{[Exit]}
+{8000}{}{Who will be my new master?}
+{8010}{}{No one, I changed my mind.}
+{9000}{}{Master, I don't feel very good.@@I don't feel very good, master.}
+{9010}{}{You're gonna make it, don't be a whimp!}
+{10000}{}{I don't think that I will make it any longer, master. I am bleeding very much.@@Master, I don't think that I will make it any longer...@@I am bleeding very much, master. I need help.}
+{10010}{}{You're gonna make it, don't be a whimp!}
+{11000}{}{I'm not allowed to speak to you.@@We'll be keeping an eye on you.}
+{12000}{}{Ok, master, I'll do that if you wish me to!}
+{12010}{}{If you don't do your job properly, I'll kill you.}
+{13000}{}{Ok, master, I'll do that if you wish me to!}
+{14000}{}{*Inhales Jet*}
+{15000}{}{Current statistics:
+@lex stats@}
+{15010}{}{[Done]}
 

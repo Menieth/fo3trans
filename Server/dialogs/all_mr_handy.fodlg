@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -81,6 +81,358 @@ lang=engl
 0 17010 &
 
 [engl]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Robot is Off}
+{2010}{}{Boot}
+{2020}{}{Exit}
+{3000}{}{Booten}
+{3010}{}{Wait...}
+{4000}{}{Is On
+@lex power@
+@lex mode@
+@lex range@
+@lex tools@}
+{4010}{}{Activate working mode}
+{4020}{}{Configurate modes}
+{4030}{}{Set working range}
+{4040}{}{Open inventory}
+{4050}{}{Turn off}
+{4060}{}{Leave}
+{5000}{}{Deactivating working mode...}
+{5010}{}{Continue}
+{5020}{}{Back to work.}
+{6000}{}{Unauthorized User.}
+{7000}{}{Is off but no master}
+{7010}{}{Attempt to hack}
+{7020}{}{Leave}
+{8000}{}{Attempted Hack @lex haxor@}
+{8010}{}{Leave}
+{9000}{}{Choose Mode}
+{9010}{}{Enable Repair mode}
+{9020}{}{Disable Repair mode}
+{9030}{}{Repair mode Config}
+{9040}{}{Enable Dissassemble mode}
+{9050}{}{Disable Dissassemble mode}
+{9060}{}{Dissassemble mode Config}
+{9070}{}{back}
+{10000}{}{Repair Config
+@lex repconf@}
+{10010}{}{Repair randomly}
+{10020}{}{Repair Better stuff with worse stuff}
+{10030}{}{Advanced...}
+{10040}{}{back}
+{11000}{}{Dissassemble Config
+@lex disconf@}
+{11010}{}{Stuff beyond repair}
+{11020}{}{All}
+{11030}{}{Advanced}
+{11040}{}{back}
+{12000}{}{Adv. Repair Config
+@lex itemrep@
+@lex itemres@}
+{12010}{}{Define repaired items}
+{12020}{}{Define resource items}
+{12030}{}{Reset to default}
+{12040}{}{back}
+{13000}{}{Define repaired items
+@lex itemrep@}
+{13010}{}{Condition bellow...}
+{13020}{}{Max. condition bellow...}
+{13030}{}{Condition above...}
+{13040}{}{Max. condition above...}
+{13050}{}{back}
+{14000}{}{Define repair resource items
+@lex itemres@}
+{14010}{}{Condition bellow...}
+{14020}{}{Max condition bellow...}
+{14030}{}{Condition above...}
+{14040}{}{Max condition above...}
+{14050}{}{back}
+{15000}{}{Define disassembled items
+@lex itemdis@
+}
+{15010}{}{Condition bellow...}
+{15020}{}{Max condition bellow...}
+{15030}{}{Condition above...}
+{15040}{}{Max condition above...}
+{15050}{}{Reset to default}
+{15060}{}{back}
+{16000}{}{@lex value@}
+{16010}{}{back}
+{17000}{}{Turning off...}
+{17010}{}{Wait...}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Robot is Off}
+{2010}{}{Boot}
+{2020}{}{Exit}
+{3000}{}{Booten}
+{3010}{}{Wait...}
+{4000}{}{Is On
+@lex power@
+@lex mode@
+@lex range@
+@lex tools@}
+{4010}{}{Activate working mode}
+{4020}{}{Configurate modes}
+{4030}{}{Set working range}
+{4040}{}{Open inventory}
+{4050}{}{Turn off}
+{4060}{}{Leave}
+{5000}{}{Deactivating working mode...}
+{5010}{}{Continue}
+{5020}{}{Back to work.}
+{6000}{}{Unauthorized User.}
+{7000}{}{Is off but no master}
+{7010}{}{Attempt to hack}
+{7020}{}{Leave}
+{8000}{}{Attempted Hack @lex haxor@}
+{8010}{}{Leave}
+{9000}{}{Choose Mode}
+{9010}{}{Enable Repair mode}
+{9020}{}{Disable Repair mode}
+{9030}{}{Repair mode Config}
+{9040}{}{Enable Dissassemble mode}
+{9050}{}{Disable Dissassemble mode}
+{9060}{}{Dissassemble mode Config}
+{9070}{}{back}
+{10000}{}{Repair Config
+@lex repconf@}
+{10010}{}{Repair randomly}
+{10020}{}{Repair Better stuff with worse stuff}
+{10030}{}{Advanced...}
+{10040}{}{back}
+{11000}{}{Dissassemble Config
+@lex disconf@}
+{11010}{}{Stuff beyond repair}
+{11020}{}{All}
+{11030}{}{Advanced}
+{11040}{}{back}
+{12000}{}{Adv. Repair Config
+@lex itemrep@
+@lex itemres@}
+{12010}{}{Define repaired items}
+{12020}{}{Define resource items}
+{12030}{}{Reset to default}
+{12040}{}{back}
+{13000}{}{Define repaired items
+@lex itemrep@}
+{13010}{}{Condition bellow...}
+{13020}{}{Max. condition bellow...}
+{13030}{}{Condition above...}
+{13040}{}{Max. condition above...}
+{13050}{}{back}
+{14000}{}{Define repair resource items
+@lex itemres@}
+{14010}{}{Condition bellow...}
+{14020}{}{Max condition bellow...}
+{14030}{}{Condition above...}
+{14040}{}{Max condition above...}
+{14050}{}{back}
+{15000}{}{Define disassembled items
+@lex itemdis@
+}
+{15010}{}{Condition bellow...}
+{15020}{}{Max condition bellow...}
+{15030}{}{Condition above...}
+{15040}{}{Max condition above...}
+{15050}{}{Reset to default}
+{15060}{}{back}
+{16000}{}{@lex value@}
+{16010}{}{back}
+{17000}{}{Turning off...}
+{17010}{}{Wait...}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Robot is Off}
+{2010}{}{Boot}
+{2020}{}{Exit}
+{3000}{}{Booten}
+{3010}{}{Wait...}
+{4000}{}{Is On
+@lex power@
+@lex mode@
+@lex range@
+@lex tools@}
+{4010}{}{Activate working mode}
+{4020}{}{Configurate modes}
+{4030}{}{Set working range}
+{4040}{}{Open inventory}
+{4050}{}{Turn off}
+{4060}{}{Leave}
+{5000}{}{Deactivating working mode...}
+{5010}{}{Continue}
+{5020}{}{Back to work.}
+{6000}{}{Unauthorized User.}
+{7000}{}{Is off but no master}
+{7010}{}{Attempt to hack}
+{7020}{}{Leave}
+{8000}{}{Attempted Hack @lex haxor@}
+{8010}{}{Leave}
+{9000}{}{Choose Mode}
+{9010}{}{Enable Repair mode}
+{9020}{}{Disable Repair mode}
+{9030}{}{Repair mode Config}
+{9040}{}{Enable Dissassemble mode}
+{9050}{}{Disable Dissassemble mode}
+{9060}{}{Dissassemble mode Config}
+{9070}{}{back}
+{10000}{}{Repair Config
+@lex repconf@}
+{10010}{}{Repair randomly}
+{10020}{}{Repair Better stuff with worse stuff}
+{10030}{}{Advanced...}
+{10040}{}{back}
+{11000}{}{Dissassemble Config
+@lex disconf@}
+{11010}{}{Stuff beyond repair}
+{11020}{}{All}
+{11030}{}{Advanced}
+{11040}{}{back}
+{12000}{}{Adv. Repair Config
+@lex itemrep@
+@lex itemres@}
+{12010}{}{Define repaired items}
+{12020}{}{Define resource items}
+{12030}{}{Reset to default}
+{12040}{}{back}
+{13000}{}{Define repaired items
+@lex itemrep@}
+{13010}{}{Condition bellow...}
+{13020}{}{Max. condition bellow...}
+{13030}{}{Condition above...}
+{13040}{}{Max. condition above...}
+{13050}{}{back}
+{14000}{}{Define repair resource items
+@lex itemres@}
+{14010}{}{Condition bellow...}
+{14020}{}{Max condition bellow...}
+{14030}{}{Condition above...}
+{14040}{}{Max condition above...}
+{14050}{}{back}
+{15000}{}{Define disassembled items
+@lex itemdis@
+}
+{15010}{}{Condition bellow...}
+{15020}{}{Max condition bellow...}
+{15030}{}{Condition above...}
+{15040}{}{Max condition above...}
+{15050}{}{Reset to default}
+{15060}{}{back}
+{16000}{}{@lex value@}
+{16010}{}{back}
+{17000}{}{Turning off...}
+{17010}{}{Wait...}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{1020}{}{-}
+{1030}{}{-}
+{1040}{}{-}
+{1050}{}{-}
+{2000}{}{Robot is Off}
+{2010}{}{Boot}
+{2020}{}{Exit}
+{3000}{}{Booten}
+{3010}{}{Wait...}
+{4000}{}{Is On
+@lex power@
+@lex mode@
+@lex range@
+@lex tools@}
+{4010}{}{Activate working mode}
+{4020}{}{Configurate modes}
+{4030}{}{Set working range}
+{4040}{}{Open inventory}
+{4050}{}{Turn off}
+{4060}{}{Leave}
+{5000}{}{Deactivating working mode...}
+{5010}{}{Continue}
+{5020}{}{Back to work.}
+{6000}{}{Unauthorized User.}
+{7000}{}{Is off but no master}
+{7010}{}{Attempt to hack}
+{7020}{}{Leave}
+{8000}{}{Attempted Hack @lex haxor@}
+{8010}{}{Leave}
+{9000}{}{Choose Mode}
+{9010}{}{Enable Repair mode}
+{9020}{}{Disable Repair mode}
+{9030}{}{Repair mode Config}
+{9040}{}{Enable Dissassemble mode}
+{9050}{}{Disable Dissassemble mode}
+{9060}{}{Dissassemble mode Config}
+{9070}{}{back}
+{10000}{}{Repair Config
+@lex repconf@}
+{10010}{}{Repair randomly}
+{10020}{}{Repair Better stuff with worse stuff}
+{10030}{}{Advanced...}
+{10040}{}{back}
+{11000}{}{Dissassemble Config
+@lex disconf@}
+{11010}{}{Stuff beyond repair}
+{11020}{}{All}
+{11030}{}{Advanced}
+{11040}{}{back}
+{12000}{}{Adv. Repair Config
+@lex itemrep@
+@lex itemres@}
+{12010}{}{Define repaired items}
+{12020}{}{Define resource items}
+{12030}{}{Reset to default}
+{12040}{}{back}
+{13000}{}{Define repaired items
+@lex itemrep@}
+{13010}{}{Condition bellow...}
+{13020}{}{Max. condition bellow...}
+{13030}{}{Condition above...}
+{13040}{}{Max. condition above...}
+{13050}{}{back}
+{14000}{}{Define repair resource items
+@lex itemres@}
+{14010}{}{Condition bellow...}
+{14020}{}{Max condition bellow...}
+{14030}{}{Condition above...}
+{14040}{}{Max condition above...}
+{14050}{}{back}
+{15000}{}{Define disassembled items
+@lex itemdis@
+}
+{15010}{}{Condition bellow...}
+{15020}{}{Max condition bellow...}
+{15030}{}{Condition above...}
+{15040}{}{Max condition above...}
+{15050}{}{Reset to default}
+{15060}{}{back}
+{16000}{}{@lex value@}
+{16010}{}{back}
+{17000}{}{Turning off...}
+{17010}{}{Wait...}
+
+[russ]
 {100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}

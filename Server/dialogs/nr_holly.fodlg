@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -15,6 +16,30 @@ lang=engl
 {200}{}{You see Evan Hollyfeld.}
 {210}{}{You see a squat black man with a thick square jaw. His ears look like they have been horribly savaged.}
 {210}{}{His ears look like they have been horribly savaged.}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hnffff@@Hnrrgggg@@::Whimpers, touches ears::@@::Flexes::}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hnffff@@Hnrrgggg@@::Whimpers, touches ears::@@::Flexes::}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hnffff@@Hnrrgggg@@::Whimpers, touches ears::@@::Flexes::}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{-}
+{2000}{}{Hnffff@@Hnrrgggg@@::Whimpers, touches ears::@@::Flexes::}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hnffff@@Hnrrgggg@@::Whimpers, touches ears::@@::Flexes::}

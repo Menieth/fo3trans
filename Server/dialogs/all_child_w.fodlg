@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,38 @@ lang=engl
 {100}{}{Girl}
 {200}{}{You see a child.}
 {210}{}{You see a little girl, dressed in rags.}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{scary helmet}
+{1020}{}{Answer text}
+{2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
+{3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{scary helmet}
 {1020}{}{Answer text}

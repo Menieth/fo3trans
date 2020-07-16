@@ -1,7 +1,8 @@
 [comment]
 
+
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -14,6 +15,30 @@ lang=engl
 {200}{}{You see a guard.}
 {240}{}{You see a dead police officer.}
 {260}{}{You see a slain Ghoul.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I'm not paid to talk.@@If you want someone to talk to you, rent a hooker. I'm busy.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I'm not paid to talk.@@If you want someone to talk to you, rent a hooker. I'm busy.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I'm not paid to talk.@@If you want someone to talk to you, rent a hooker. I'm busy.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{I'm not paid to talk.@@If you want someone to talk to you, rent a hooker. I'm busy.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I'm not paid to talk.@@If you want someone to talk to you, rent a hooker. I'm busy.}

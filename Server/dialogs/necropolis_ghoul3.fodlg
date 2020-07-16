@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -16,6 +16,30 @@ lang=engl
 {210}{}{The glowing one mumbles something and is then silent. He is drooling uncontrollably}
 {240}{}{You see a dead glowing creature.}
 {260}{}{You see a slain glowing creature.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mmmm . . .@@Ahhh . . .}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mmmm . . .@@Ahhh . . .}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mmmm . . .@@Ahhh . . .}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{Mmmm . . .@@Ahhh . . .}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Mmmm . . .@@Ahhh . . .}

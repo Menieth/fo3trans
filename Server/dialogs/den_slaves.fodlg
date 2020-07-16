@@ -4,7 +4,7 @@
 + Ia?aiaiiay iaiyaony ia oaa ?aiuoa, ?oiau ecaa?aou ae?eia.
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -14,5 +14,21 @@ lang=engl
 {100}{}{Slave}
 {200}{}{You see a slave.}
 {210}{}{No freedom for this person. Not in this place, at least.}
+{1000}{}{Predialogue installations}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 

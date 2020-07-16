@@ -4,7 +4,7 @@
 
 
 # Version info
-{1}{}{FOnline 3 v2.9
+{1}{}{FOnline 3 v3.0
 
 ####################################################################################################################################
 #
@@ -519,7 +519,7 @@
 #
 # SKILLDEX
 #
-{3340}{}{Seznam schopností}
+{3340}{}{Schopnosti}
 {3341}{}{ZRUŠIT}
 
 #
@@ -936,7 +936,7 @@
 
 ##First words
 #For age and conditions
-{11000}{}{Vidíš }
+{11000}{}{Vidíš: }
 {11001}{}{To jsi ty }
 #For special
 {11002}{}{Vypadá, že }
@@ -1048,7 +1048,7 @@
 
 ##First words
 #For age and conditions
-{12000}{}{Vidíš }
+{12000}{}{Vidíš: }
 {12001}{}{To jsi ty }
 #For special
 {12002}{}{Vypadá to, že je }
@@ -1488,7 +1488,7 @@ SK_MELEE_WEAPONS
 # SK_FIRST_AID
 {102061}{}{První pomoc}
 {102062}{}{Obecné léčitelské znalosti, používané k vyléčení drobnějších řezných ran, odřenin a všeobecně lehčích zranění. Vyšší úroveň první pomoci může vyléčit více bodů zdraví.}
-{102063}{}{První pomoc}
+{102063}{}{Pr. pomoc}
 # SK_DOCTOR
 {102071}{}{Doktor}
 {102072}{}{Léčení vážných zranění a polámaných končetin. Bez použití této dovednosti, bude trvat mnohem déle, než se zraněné údy vyléčí natolik, aby byly znovu použitelné.}
@@ -1500,7 +1500,7 @@ SK_MELEE_WEAPONS
 # SK_LOCKPICK
 {102091}{}{Páčení zámků}
 {102092}{}{Dovednost otevírat zámky bez originálního klíče. Použití paklíče nebo elektronického paklíče značně zvyšuje tuto dovednost a tedy šanci na úspěšné otevření zámku.}
-{102093}{}{Páčení zámků}
+{102093}{}{Páč.zám.}
 # SK_STEAL
 {102101}{}{Kradení}
 {102102}{}{Dovednost udělat z cizích věcí věci vlastní. Používá se pro okrádání lidí.}
@@ -1508,7 +1508,7 @@ SK_MELEE_WEAPONS
 # SK_TRAPS
 {102111}{}{Pasti a výbušniny}
 {102112}{}{Dovednost nalézt a odstranit pasti. Zahrnuje rovněž nastavení, deaktivaci a zacházení s výbušninami určených k demoličním účelům.}
-{102113}{}{Pasti a výbušniny}
+{102113}{}{Pasti}
 # SK_SCIENCE
 {102121}{}{Věda}
 {102122}{}{Zahrnuje znalosti celé škály vyspělých technologií, jako např. znalost počítačů, biologie, fyziky a geologie.}
@@ -1516,7 +1516,7 @@ SK_MELEE_WEAPONS
 # SK_REPAIR
 {102131}{}{Opravování}
 {102132}{}{Praktické aplikování technických znalostí pro opravu zničených zařízení, strojů a elektroniky.}
-{102133}{}{Opravování}
+{102133}{}{Oprava}
 # SK_SPEECH
 {102141}{}{Řeč}
 {102142}{}{Dovednost prakticky a efektivně komunikovat. Umění přesvědčit ostatní, že tvůj názor je ten správný. Schopnost lhát a nebýt odhalen. Nezbytná dovednost každého politika.}
@@ -1538,7 +1538,7 @@ SK_MELEE_WEAPONS
 {102271}{}{After Burner gum}
 {102281}{}{Mutie}
 {102291}{}{Voodoo}
-{102301}{}{PRvní pomoc}
+{102301}{}{První pomoc}
 # TO_SK_DOCTOR, timeouts
 {102311}{}{Doktor}
 # TO_SK_REPAIR, timeouts
@@ -1985,17 +1985,17 @@ SK_MELEE_WEAPONS
 {104381}{}{Ještě houževnatější}
 {104382}{}{Jelikoš jsi ještě houževnatější, je méně pravděpodobné, že utrpíš zranění. Získáváš +10% k Odolnosti proti poškození a +3 k prahu poškození.}
 # PE_HEALER_II                (439)
-{104391}{}{Léčitel+}
-{104392}{}{S tímto perkem je léčení ještě snazší. Uzdravíš bonusových 20-40 bodů zdraví při použití schopnosti První pomoc}
+{104391}{}{Zabiják ohnivých geckonů}
+{104392}{}{Způsobuješ vyšší poškození ohnivým geckonům (pouze NPC)}
 # PE_BLESSED_ARE_THE_WEAK     (440)
-{104401}{}{Požehnáni budiž Slabí}
-{104402}{}{Jsi schopen přivést lidi k životu, i když jsou na prahu smrti. Můžeš léčit i Oslabené osoby.}
+{104401}{}{Zabiják floaterů}
+{104402}{}{Způsobuješ vyšší poškození floaterům (pouze NPC)}
 # PE_NIGHT_PERSON             (441)
-{104411}{}{Noční pták}
-{104412}{}{}
+{104411}{}{Třída: Vůdce}
+{104412}{}{Umožňuje ti umístit vlajku, která přidává všem lidem z tvé frakce bonus,ale tento bonus se tobě odečítá.}
 # PE_MELT_INTO_SHADOW         (442)
-{104421}{}{Splynout se stínem}
-{104422}{}{}
+{104421}{}{Ničitel robotů}
+{104422}{}{Způsobuješ vyšší poškození robotům (pouze NPC)}
 # PE_BONUS_HTH_DAMAGE_II      (443)
 {104431}{}{Více kritických úderů v boji zblízka}
 {104432}{}{Mistrovství v boji beze zbraně ti dává výhodu, když příjde na způsobení zranění v boji zblízka. Získáváš +15% šanci na kritický úder při boji beze zbraně nebo v boji s chladnými zbraněmi.}
@@ -2009,26 +2009,26 @@ SK_MELEE_WEAPONS
 {104461}{}{Lepší kritické zásahy v boji zblízka}
 {104462}{}{Kritické údery, které způsobíš při boji z blízka jsou silnější. Získáváš bonus 25 bodů v tabulce kritických zásahů. To neovliňuje tvou šanci na způsobení kritického zásahu.}
 # PE_HEAVE_HO_II              (447)
-{104471}{}{Vrhač+!!}
-{104472}{}{Každý level tohoto perku ti přidá +1 SÍLY (až do výše 10), když použiješ některou z vrhacích zbraní. Perk rovněž navyšuje maximální dosah zbraně.}
+{104471}{}{Zabiják kentaurů}
+{104472}{}{Způsobuješ vyšší poškození kentaurům (pouze NPC)}
 # PE_JUNK_MERCHANT            (448)
-{104481}{}{Obchodník se šrotem}
-{104482}{}{}
+{104481}{}{Zabiják páračů}
+{104482}{}{Způsobuješ vyšší poškození  páračům (pouze NPC)}
 # PE_BULK_TRADER              (449)
-{104491}{}{Velkoobchodník}
-{104492}{}{}
-# PE_SEX_APPEAL               (450)
-{104501}{}{Sex-appeal}
-{104502}{}{Na opačné pohlaví působíš jako magnet, což ovlivňuje vztahy ve tvůj prospěch. Všechna reputace v takových vztazích je zlepšena o 250 bodů.}
+{104491}{}{Vražda}
+{104492}{}{Způsobuješ vyšší poškození lidem (pouze NPC)}
+# PE_PARAMEDIC             (450)
+{104501}{}{Záchranář}
+{104502}{}{Tento perk vypíná časové omezení použití schopností První pomoc a Doktor. Taktéž umožňuje hráči oživit mrtvé postavy. Nicméně způsobuješ pouze poloviční poškození.}
 # PE_BORN_LEADER              (451)
-{104511}{}{Zrozený vůdce}
-{104512}{}{}
+{104511}{}{Zabiják mutantů}
+{104512}{}{Způsobuješ vyšší poškození mutantům (pouze NPC)}
 # PE_TRAPPER                  (452)
-{104521}{}{Zálesák}
-{104522}{}{}
+{104521}{}{Ochránce Země}
+{104522}{}{Způsobuješ vyšší poškození alienům (pouze NPC)}
 # PE_HAND_LOADER              (453)
-{104531}{}{Ruční nakladač}
-{104532}{}{}
+{104531}{}{Polo-průvodce}
+{104532}{}{Jako průvodce jsi přeborník v nalézání zkratek v terénu.S tímto perkem se tvá rychlost cestování po mapě světa zrychluje o 5%.}
 # PE_STEALTH_GIRL             (454)
 {104541}{}{Neviditelná dívka}
 {104542}{}{Tvé intuitivní chápání fungování Stealth Boy ti umožňuje tato zařízení užívat po dvojnásobnou dobu.}
@@ -2039,17 +2039,17 @@ SK_MELEE_WEAPONS
 {104561}{}{Rozebírač}
 {104562}{}{Jsi typem osoby, které vždycky zbudou náhradní šroubky po rozebrání a opětovném složení zařízení. Při rozebrání předmětů získáváš dvojnásobek obvyklého množství surovin.}
 # PE_VIGILANT_RECYCLER        (457)
-{104571}{}{Nemean2}
-{104572}{}{}
+{104571}{}{Mini houževnatost}
+{104572}{}{Zvyšuje tvou odolnost v boji proti NPC}
 # PE_RETENTION                (458)
-{104581}{}{Retention}
-{104582}{}{}
+{104581}{}{Silná záda - mini}
+{104582}{}{Uneseš o 5kg vybavení více.}
 # PE_TREASURE_HUNTER          (459)
 {104591}{}{Lovec pokladů}
 {104592}{}{Jsi neobyčejně schopný, co se týče nálezů dávno ztracených cenností. Při  náhodnýchsetkáních nacházíš ve skříňkách bohatší obsah.}
 # PE_LOCKPICK_PERK_2          (460)
-{104601}{}{reserved}
-{104602}{}{}
+{104601}{}{Malý bonus ke škodě na dálku}
+{104602}{}{Tvé poškození vůči NPC v boji na dálku se zvyšuje o 1}
 # PE_DEAD_MAN_WALKING         (461)
 {104611}{}{Chodící mrtvole}
 {104612}{}{Stejně jako u Rasputina, je horší tě dorazit. Tvé body života mohou dosáhnout dvojité záporné hodnoty než opravdu zemřeš.}
@@ -2188,7 +2188,7 @@ SK_MELEE_WEAPONS
 {105051}{}{Chromá pravá nova}
 {105052}{}{Tvá pravá noha je vážně zraněna.}
 # DAMAGE_LEFT_LEG, damages
-{105061}{}{Hromá levá noha}
+{105061}{}{Chromá levá noha}
 {105062}{}{Tvá levá noha je vážně zraněna.}
 
 
@@ -3218,3 +3218,41 @@ Why hate something that is unending source of amusement.
 |0xff907824 Uncrustify destroyed drugs_data.fos, it looks like space invaders now.
 |0xff706050	-- Atom
 }
+
+{3000000001}{}{Události}
+{3000000002}{}{FRAKCE}
+{3000000003}{}{SEZNAM
+ÚKOLŮ}
+{3000000004}{}{BANKA}
+{3000000005}{}{Nový úkol}
+{3000000006}{}{Úkol doplněn}
+{3000000007}{}{Úkol splněn}
+{3000000008}{}{Prosím zkus to znovu za chvíli.}
+{3000000009}{}{Střílej na pole}
+{3000000010}{}{Musíš být vůdce skupiny}
+{3000000011}{}{Nemůžeš postavit základnu.}
+{3000000012}{}{Základna úspěšně postavena.}
+{3000000013}{}{Tady nemůžeš postavit základnu.}
+{3000000014}{}{Praštil jsi se do hlavy tak silně, že jsi zapomněl cestu na toto místo.}
+{3000000015}{}{RÁDIO}
+{3000000016}{}{ZAVŘÍT}
+{3000000017}{}{JINÉ}
+# Chat
+{3000000200}{}{GLOBÁLNÍ}
+{3000000201}{}{Globální chat}
+{3000000202}{}{PODPORA}
+{3000000203}{}{Chat s podporou}
+{3000000204}{}{FRAKCE}
+{3000000205}{}{Frakční chat}
+{3000000206}{}{SOUKROMÝ}
+{3000000207}{}{Soukromý chat}
+{3000000208}{}{Soukromý chat s}
+{3000000209}{}{                                    Napiš jméno hráče to okna MLUV}
+{3000000210}{}{                                    k zahájení soukromého chatu}
+{3000000211}{}{Mluv}
+{3000000212}{}{Hráč není online.}
+{3000000213}{}{Tomuto zvířeti není možné posílat zprávy.}
+{3000000214}{}{Nemůžeš mluvit sám se sebou (vypadal bys jako blázen)}
+{3000000215}{}{Nejsi členem žádné frakce.}
+{3000000216}{}{Nesprávné jméno hráče.}
+{3000000217}{}{Tento hráč je offline nebo neexistuje.}

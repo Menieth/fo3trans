@@ -2,7 +2,7 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
@@ -12,6 +12,30 @@ lang=engl
 
 [engl]
 {100}{}{Enclave Driver.}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@I have no time to speak with you...@@Get moving.@@I am busy.@@Stop staring at me.}
+
+[czec]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@I have no time to speak with you...@@Get moving.@@I am busy.@@Stop staring at me.}
+
+[pols]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@I have no time to speak with you...@@Get moving.@@I am busy.@@Stop staring at me.}
+
+[span]
+{100}{}{none}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{2000}{}{What is it?@@I have no time to speak with you...@@Get moving.@@I am busy.@@Stop staring at me.}
+
+[russ]
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it?@@I have no time to speak with you...@@Get moving.@@I am busy.@@Stop staring at me.}
