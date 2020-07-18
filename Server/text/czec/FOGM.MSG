@@ -2580,27 +2580,27 @@
 
 # The Den, pid 1, base 101000
 {101000}{}{The Den}
-{101005}{}{A town of junkies and slavers.}
+{101005}{}{Město smažek a otrokářů.}
 {101010}{}{24}
 {101020}{}{art\intrface\twnden.frm}
 {101030}{}{art\intrface\WM_DEN.FRM}
 {101090}{}{4}
-{101101}{}{Downtown}
+{101101}{}{Dolní město}
 {101102}{}{124}
 {101103}{}{293}
-{101111}{}{East Side}
+{101111}{}{Východní strana}
 {101112}{}{262}
 {101113}{}{330}
-{101121}{}{South Side}
+{101121}{}{Jižní strana}
 {101122}{}{205}
 {101123}{}{357}
-{101131}{}{Southwest}
+{101131}{}{Jihozápad}
 {101132}{}{135}
 {101133}{}{347}
 
 # Klamath, pid 2, base 102000
 {102000}{}{Klamath}
-{102005}{}{A small town of trappers. Geckos are the lifeblood of this small community.}
+{102005}{}{Malé lovecké městečko. Lov geckonů je hlavním zdrojem obživy této malé komunity.}
 {102010}{}{24}
 {102020}{}{art\intrface\twnklama.frm}
 {102030}{}{art\intrface\WM_KLAM.FRM}
@@ -2620,24 +2620,24 @@
 
 # Modoc, pid 3, base 103000
 {103000}{}{Modoc}
-{103005}{}{A small farming community.}
+{103005}{}{Malá farmářská komunita.}
 {103010}{}{24}
 {103020}{}{art\intrface\twnmodoc.frm}
 {103030}{}{art\intrface\WM_MODOC.FRM}
 {103090}{}{3}
-{103101}{}{South}
+{103101}{}{Jih}
 {103102}{}{312}
 {103103}{}{212}
-{103111}{}{North}
+{103111}{}{Sever}
 {103112}{}{258}
 {103113}{}{69}
-{103121}{}{East}
+{103121}{}{Východ}
 {103122}{}{360}
 {103123}{}{136}
 
 # Vault City, pid 4, base 104000
 {104000}{}{Vault City}
-{104005}{}{A high-tech settlement. Established by the inhabitants of Vault 8.}
+{104005}{}{Technicky vyspělé osídlení. Město bylo založeno obyvateli Vaultu 8.}
 {104010}{}{24}
 {104020}{}{art\intrface\twnvcity.frm}
 {104030}{}{art\intrface\WM_VLTCT.FRM}
@@ -2648,154 +2648,154 @@
 
 # Gecko, pid 5, base 105000
 {105000}{}{Gecko}
-{105005}{}{A town of ghouls built around a leaking nuclear power plant.}
+{105005}{}{Malé město vybudované okolo netěsnící jaderné elektrárny. Obyvateli jsou převážně ghoulové.}
 {105010}{}{24}
 {105020}{}{art\intrface\twngecko.frm}
 {105030}{}{art\intrface\WM_GECKO.FRM}
 {105090}{}{4}
-{105101}{}{Settlement}
+{105101}{}{Osídlení}
 {105102}{}{155}
 {105103}{}{246}
-{105111}{}{South West}
+{105111}{}{Jihozápad}
 {105112}{}{40}
 {105113}{}{156}
-{105121}{}{Scrapyard}
+{105121}{}{Šrotiště}
 {105122}{}{279}
 {105123}{}{169}
-{105131}{}{Reactor}
+{105131}{}{Reaktor}
 {105132}{}{168}
 {105133}{}{147}
 
 # Broken Hills, pid 6, base 106000
 {106000}{}{Broken Hills}
-{106005}{}{A town of humans, mutants and ghouls. Racism is rampant.}
+{106005}{}{Město lidí, mutantů a ghoulů. Rasismuj je tvrdě trestán.}
 {106010}{}{24}
 {106020}{}{art\intrface\twnbrokn.frm}
 {106030}{}{art\intrface\WM_HILLS.FRM}
 {106090}{}{4}
-{106101}{}{Downtown}
+{106101}{}{Dolní město}
 {106102}{}{125}
 {106103}{}{276}
-{106111}{}{Residental}
+{106111}{}{Obytná čtvrť}
 {106112}{}{367}
 {106113}{}{284}
-{106121}{}{South Side}
+{106121}{}{Jižní strana}
 {106122}{}{246}
 {106123}{}{359}
-{106131}{}{North Side}
+{106131}{}{Severní strana}
 {106132}{}{230}
 {106133}{}{201}
 
 # New Reno, pid 7, base 107000
 {107000}{}{New Reno}
-{107005}{}{A town of casinos, drugs and debauchery.}
+{107005}{}{Město kasín, drog a zhýralostí.}
 {107010}{}{24}
 {107020}{}{art\intrface\twnreno.frm}
 {107030}{}{art\intrface\WM_RENO.FRM}
 {107090}{}{5}
-{107101}{}{Virgin Street}
+{107101}{}{Ulice Panen}
 {107102}{}{250}
 {107103}{}{300}
-{107111}{}{2nd Street}
+{107111}{}{Druhá ulice}
 {107112}{}{250}
 {107113}{}{210}
-{107121}{}{Commercial Row}
+{107121}{}{Obchodní třída}
 {107122}{}{120}
 {107123}{}{210}
-{107131}{}{East side}
+{107131}{}{Východní strana}
 {107132}{}{380}
 {107133}{}{210}
-{107141}{}{Gas station}
+{107141}{}{Benzinka}
 {107142}{}{380}
 {107143}{}{100}
 
 # Sierra, pid 8, base 108000
 {108000}{}{Sierra}
-{108005}{}{An old military warehouse.}
+{108005}{}{Staré vojenské skladiště.}
 {108010}{}{12}
 {108020}{}{art\intrface\twnsad.frm}
 {108030}{}{art\intrface\WM_ARMY.FRM}
 {108090}{}{2}
-{108101}{}{Main}
+{108101}{}{Hlavní vstup}
 {108102}{}{130}
 {108103}{}{150}
-{108201}{}{East}
+{108201}{}{Východ}
 {108202}{}{300}
 {108203}{}{150}
 
 # Vault 15, pid 9, base 109000
 {109000}{}{Vault 15}
-{109005}{}{An old Vault.}
+{109005}{}{Starý vault.}
 {109010}{}{12}
 {109020}{}{art\intrface\twnv15.frm}
 {109030}{}{art\intrface\WM_VLT15.FRM}
 {109090}{}{2}
-{109101}{}{Surface}
+{109101}{}{Povrch}
 {109102}{}{80}
 {109103}{}{256}
-{109111}{}{East Side}
+{109111}{}{Východní strana}
 {109112}{}{360}
 {109113}{}{136}
 
 # NCR, pid 10, base 110000
 {110000}{}{NCR}
-{110005}{}{Shady Sands, the central government of the New California Republic. The most powerful city in the wastes.}
+{110005}{}{Shady Sands, sídlo vlády Nové Kalifornské republiky (NCR). Nejsilnější místo v pustině.}
 {110010}{}{24}
 {110020}{}{art\intrface\twnncr.frm}
 {110030}{}{art\intrface\WM_NCR.FRM}
 {110090}{}{3}
-{110101}{}{Bazaar}
+{110101}{}{Bazar}
 {110102}{}{258}
 {110103}{}{175}
-{110111}{}{Vortis Holding Center}
+{110111}{}{Vortisovo zadržovací centrum}
 {110112}{}{183}
 {110113}{}{134}
-{110121}{}{Residence}
+{110121}{}{Obytná čtvrť}
 {110122}{}{318}
 {110123}{}{241}
 
 # Cathedral, pid 11, base 111000
 {111000}{}{Cathedral}
-{111005}{}{An old Cathedral among city ruins, lighted up by burning barrels. People are wandering outside in a large crowd.}
+{111005}{}{Stará katedrála v ruinách, osvětlená hořícími barely. Lidé potulující se kolem tvoří velký zástup.}
 {111010}{}{6}
 {111020}{}{art\intrface\twnmap11.frm}
 {111030}{}{art\intrface\wm_cathedral.frm}
 {111090}{}{1}
-{111101}{}{Entrance}
+{111101}{}{Vstup}
 {111102}{}{73}
 {111103}{}{341}
 
 # Mariposa Military Base, pid 12, base 112000
 {112000}{}{Mariposa Military Base}
-{112005}{}{A military facility built to house the Forced Evolutionary Virus}
+{112005}{}{Vojenské zařízení vybudované k testování viru FEV (Forced Evolutionary Virus)}
 {112010}{}{12}
 {112020}{}{art\intrface\twnmilbs.frm}
 {112030}{}{art\intrface\WM_MLTRY.FRM}
 {112090}{}{3}
-{112101}{}{South}
+{112101}{}{Jih}
 {112102}{}{280}
 {112103}{}{208}
-{112111}{}{North}
+{112111}{}{Sever}
 {112112}{}{125}
 {112113}{}{158}
-{112121}{}{Cave}
+{112121}{}{Jeskyně}
 {112122}{}{200}
 {112123}{}{58}
 
 # Redding, pid 13, base 113000
 {113000}{}{Redding}
-{113005}{}{A mining town. The primary producer and distributor of gold in the wasteland.}
+{113005}{}{Důlní město. Hlavní producent a distributor zlata v pustině.}
 {113010}{}{24}
 {113020}{}{art\intrface\twnredng.frm}
 {113030}{}{art\intrface\WM_RED.FRM}
 {113090}{}{4}
-{113101}{}{Downtown}
+{113101}{}{Dolní město}
 {113102}{}{160}
 {113103}{}{231}
-{113111}{}{South Side}
+{113111}{}{Jižní strana}
 {113112}{}{82}
 {113113}{}{304}
-{113121}{}{Mine}
+{113121}{}{Důl}
 {113122}{}{115}
 {113123}{}{204}
 {113131}{}{Wanamingo}
@@ -2804,15 +2804,15 @@
 
 # San Francisco, pid 14, base 114000
 {114000}{}{San Francisco}
-{114005}{}{A high-tech city built by the descendants of a Chinese submarine.}
+{114005}{}{Technicky vyspělé město založené potomky posádky čínské ponorky.}
 {114010}{}{24}
 {114020}{}{art\intrface\twnsanfr.frm}
 {114030}{}{art\intrface\WM_SANFN.FRM}
 {114090}{}{3}
-{114101}{}{Downtown}
+{114101}{}{Dolní město}
 {114102}{}{339}
 {114103}{}{147}
-{114111}{}{Ruins}
+{114111}{}{Ruiny}
 {114112}{}{301}
 {114113}{}{164}
 {114121}{}{Tanker}
@@ -2821,62 +2821,62 @@
 
 # Navarro, pid 15, base 115000
 {115000}{}{Navarro}
-{115005}{}{An Enclave military base.}
+{115005}{}{Vojenská základna Enklávy.}
 {115010}{}{12}
 {115020}{}{art\intrface\twnnavro.frm}
 {115030}{}{art\intrface\WM_NAVAR.FRM}
 {115090}{}{1}
-{115101}{}{GAS station}
+{115101}{}{Čerpací stanice}
 {115102}{}{278}
 {115103}{}{233}
 
 # Arroyo, pid 16, base 116000
 {116000}{}{Arroyo}
-{116005}{}{A small, isolated tribal village, founded by Vault 13 exiles.}
+{116005}{}{Malé a isolované kmenové osídlení. Založeno vyhnanci z Vaultu 13.}
 {116010}{}{12}
 {116020}{}{art\intrface\twnarroy.frm}
 {116030}{}{art\intrface\WM_ARROY.FRM}
 {116090}{}{1}
-{116101}{}{Temple}
+{116101}{}{Chrám}
 {116102}{}{200}
 {116103}{}{90}
 
 # Junktown, pid 17, base 117000
 {117000}{}{Junktown}
-{117005}{}{The town was built after the Great War out of random pieces of junk, mostly of broken cars.}
+{117005}{}{Město postavené po skončení Velké Války z všude kolem se povalujících kusů odpadu, převážně nefunkčních automobilů.}
 {117010}{}{24}
 {117020}{}{art\intrface\Twnmap03.frm}
 {117030}{}{art\intrface\Wm_03.frm}
 {117090}{}{2}
-{117101}{}{North Entrance}
+{117101}{}{Severní vstup}
 {117102}{}{154}
 {117103}{}{226}
-{117111}{}{South Entrance}
+{117111}{}{Jižní vstup}
 {117112}{}{412}
 {117113}{}{323}
 
 # Brotherhood of Steel, pid 18, base 118000
 {118000}{}{Brotherhood of Steel}
-{118005}{}{The Lost Hills old government bunker is the headquarters of the Brotherhood of Steel.}
+{118005}{}{Toto místo ve Ztracených Kopcích (Lost Hills) je původně starým vládním bunkrem. Nyní složí jako velitelství Bratrstva Oceli.}
 {118010}{}{12}
 {118020}{}{art\intrface\Twnmap07.frm}
 {118030}{}{art\intrface\Wm_07.frm}
 {118090}{}{1}
-{118101}{}{Entrance}
+{118101}{}{Vstup}
 {118102}{}{184}
 {118103}{}{173}
 
 # The Glow, pid 19, base 119000
 {119000}{}{The Glow}
-{119005}{}{West Tek was destroyed in the nuclear holocaust of 2077 leaving a gaping hole.}
+{119005}{}{West Tek byl zničen při nukleárním holokaustu roku 2077, po kterém zůstal v zemi jen velký kráter.}
 {119010}{}{24}
 {119020}{}{art\intrface\Twnmap09.frm}
 {119030}{}{art\intrface\Wm_09.frm}
 {119090}{}{2}
-{119101}{}{Exterior}
+{119101}{}{Venkovní část}
 {119102}{}{120}
 {119103}{}{220}
-{119111}{}{North}
+{119111}{}{Sever}
 {119112}{}{390}
 {119113}{}{210}
 
@@ -2887,39 +2887,39 @@
 
 # New Reno Stables, pid 21, base 121000
 {121000}{}{New Reno Stables}
-{121005}{}{The New Reno Stables owned and operated by the Mordinos.}
+{121005}{}{Stáje v Novém Renu jsou vlastněny rodinou Mordinů.}
 {121010}{}{6}
 
 # Ghost Farm, pid 22, base 122000
 {122000}{}{Ghost Farm}
-{122005}{}{A small farm created by the Slags above their underground settlement.}
+{122005}{}{Malá farma nacházející se nad podzemním osídlením.}
 {122010}{}{6}
 
 # Vault 13, pid 23, base 123000
 {123000}{}{Vault 13}
-{123005}{}{A Vault very well hidden in the mountains.}
+{123005}{}{Dobře ukrytý Vault v horách.}
 {123010}{}{12}
 {123020}{}{art\intrface\twnv13.frm}
 {123030}{}{art\intrface\WM_VLT13.FRM}
 {123090}{}{3}
-{123101}{}{Cave}
+{123101}{}{Jeskyně}
 {123102}{}{214}
 {123103}{}{309}
-{123111}{}{Rope}
+{123111}{}{Provaz}
 {123112}{}{154}
 {123113}{}{226}
-{123121}{}{East Cave}
+{123121}{}{Východní jeskyně}
 {123122}{}{360}
 {123123}{}{136}
 
 # Necropolis, pid 24, base 124000
 {124000}{}{Necropolis}
-{124005}{}{A town built upon the charred remains of Bakersfield; the grim aftermath of Vault 12.}
+{124005}{}{Město vystavěné v ohořelých zbytcích dřívějšího Bakersfieldu. Je ponurým odkazem Vaultu 12.}
 {124010}{}{24}
 {124020}{}{art\intrface\Twnmap05.frm}
 {124030}{}{art\intrface\Wm_05.frm}
 {124090}{}{4}
-{124101}{}{Hall of the Dead}
+{124101}{}{Síně mrtvých}
 {124102}{}{221}
 {124103}{}{210}
 {124111}{}{Motel}
@@ -2928,152 +2928,152 @@
 {124121}{}{Watershed}
 {124122}{}{350}
 {124123}{}{213}
-{124131}{}{Gas Station}
+{124131}{}{Čerpací stanice}
 {124132}{}{350}
 {124133}{}{113}
 
 # Hub, pid 25, base 125000
 {125000}{}{Hub}
-{125005}{}{A major trading city with a large community of traders, gamblers and various other types of scum.}
+{125005}{}{Hlavní město obchodu s velkou komunitou obchodníků, hazardních hráčů a všemožných dalších pochybných individuí.}
 {125010}{}{24}
 {125020}{}{art\intrface\Twnmap06.frm}
 {125030}{}{art\intrface\Wm_06.frm}
 {125090}{}{5}
-{125101}{}{Entrance}
+{125101}{}{Vstup}
 {125102}{}{211}
 {125103}{}{58}
-{125111}{}{Market}
+{125111}{}{Trh}
 {125112}{}{203}
 {125113}{}{132}
-{125121}{}{Oldtown}
+{125121}{}{Staré město}
 {125122}{}{273}
 {125123}{}{118}
-{125131}{}{The Heights}
+{125131}{}{Výšiny}
 {125132}{}{142}
 {125133}{}{146}
-{125141}{}{Water Merchants}
+{125141}{}{Obchodníci s vodou}
 {125142}{}{198}
 {125143}{}{210}
 
 # New Adytum, pid 26, base 126000
 {126000}{}{New Adytum}
-{126005}{}{Amongst decimated skyscrapers lies the small industrial town named New Adytum.}
+{126005}{}{Malé industriální městěčno Nové Adytum leží mezi zdecimovanými zbytky mrakodrapů.}
 {126010}{}{24}
 {126020}{}{art\intrface\Twnmap10.frm}
 {126030}{}{art\intrface\Wm_10.frm}
 {126090}{}{4}
-{126101}{}{South East Gate}
+{126101}{}{Jihovýchodní brána}
 {126102}{}{195}
 {126103}{}{220}
-{126111}{}{Library}
+{126111}{}{Knihovna}
 {126112}{}{158}
 {126113}{}{120}
-{126121}{}{Salvagers}
+{126121}{}{Sběrači}
 {126122}{}{350}
 {126123}{}{130}
-{126131}{}{Gun Runners's Fortress}
+{126131}{}{Pevnost Gun Runnerů}
 {126132}{}{340}
 {126133}{}{250}
 
 # Raiders, pid 27, base 127000
 {127000}{}{Raiders}
-{127005}{}{Northern Raider hideout.}
+{127005}{}{Severní úkryt Nájezdníků.}
 {127010}{}{12}
 {127020}{}{art\intrface\Twnmap04.frm}
 {127030}{}{art\intrface\Wm_04.frm}
 {127090}{}{2}
-{127101}{}{Cave Entrance}
+{127101}{}{Vstup do jeskyně}
 {127102}{}{210}
 {127103}{}{300}
-{127111}{}{Cave}
+{127111}{}{Jeskyně}
 {127112}{}{287}
 {127113}{}{237}
 
 # Ares Rocket Silo, pid 28, base 128000
 {128000}{}{Ares Rocket Silo}
-{128005}{}{In the distance you can see the remains of an old rocket silo. It seems like someone has pitched his camp there a short while ago.}
+{128005}{}{V dálce vidíš zbytky starého raketového sila. Vypadá to, že se tam nedávno někdo usídlil.}
 {128010}{}{6}
 {128020}{}{art\intrface\twnmap04.frm}
 {128030}{}{art\intrface\Wm_04.frm}
 {128090}{}{4}
-{128101}{}{South}
+{128101}{}{Jih}
 {128102}{}{134}
 {128103}{}{326}
-{128111}{}{East}
+{128111}{}{Východ}
 {128112}{}{138}
 {128113}{}{189}
-{128121}{}{North}
+{128121}{}{Sever}
 {128122}{}{360}
 {128123}{}{136}
-{128131}{}{West}
+{128131}{}{Západ}
 {128132}{}{412}
 {128133}{}{323}
 
 # Raiders South, pid 29, base 129000
 {129000}{}{Raiders South}
-{129005}{}{Southern Raider hideout.}
+{129005}{}{Jižní úkryt Nájezdníků.}
 {129010}{}{12}
 {129020}{}{art\intrface\twnmap04.frm}
 {129030}{}{art\intrface\Wm_04.frm}
 {129090}{}{1}
-{129101}{}{Camp}
+{129101}{}{Kemp}
 {129102}{}{210}
 {129103}{}{300}
 
 # Quarry, pid 30, base 130000
 {130000}{}{Quarry}
-{130005}{}{A well guarded NCR quarry.}
+{130005}{}{Dobře chráněný lom NCR.}
 {130010}{}{6}
 
 # Mining Site, pid 31, base 131000
 {131000}{}{Mining Site}
-{131005}{}{This mining site has been closed many years ago.}
+{131005}{}{Tento důl byl uzavřen už dávno.}
 {131010}{}{6}
 {131020}{}{art\intrface\TWNMAP12.png}
 {131090}{}{2}
-{131101}{}{East}
+{131101}{}{Východ}
 {131102}{}{206}
 {131103}{}{176}
-{131111}{}{West}
+{131111}{}{Západ}
 {131112}{}{138}
 {131113}{}{189}
 
 # Mining Site, pid 32, base 132000
 {132000}{}{Mining Site}
-{132005}{}{This small mining site is run by a bunch of trappers from Klamath.}
+{132005}{}{Tato těžební lokalita je udržována v provozu skupinou lovců z Klamathu.}
 {132010}{}{6}
 
 # Mining Site, pid 33, base 133000
 {133000}{}{Mining Site}
-{133005}{}{A small industrial mining site, run by the San Francisco Communist Party.}
+{133005}{}{Malý mechanizovaný důl provozovaný Komunistickou stranou San Franciska.}
 {133010}{}{6}
 
 # Mining Site, pid 34, base 134000
 {134000}{}{Mining Site}
-{134005}{}{A small private underground mining site.}
+{134005}{}{Malý soukromý důl.}
 {134010}{}{6}
 
 # Crater, pid 35, base 135000
 {135000}{}{Crater}
-{135005}{}{The smell of death lies on this ground.}
+{135005}{}{Je zde všude cítit zápach smrti.}
 {135010}{}{6}
 
 # Warehouse, pid 37, base 137000
 {137000}{}{Warehouse}
-{137005}{}{An old warehouse between the ruins.}
+{137005}{}{Staré skladiště v ruinách města.}
 {137010}{}{6}
 {137020}{}{art\intrface\Twnmap10.frm}
 {137090}{}{4}
-{137101}{}{Main}
+{137101}{}{Hlavní vstup}
 {137102}{}{12}
 {137103}{}{380}
-{137111}{}{North}
+{137111}{}{Sever}
 {137112}{}{170}
 {137113}{}{210}
-{137121}{}{South}
+{137121}{}{Jih}
 {137122}{}{397}
 {137123}{}{380}
-{137131}{}{East}
+{137131}{}{Východ}
 {137132}{}{397}
 {137133}{}{125}
 
@@ -3122,24 +3122,24 @@
 {148005}{}{A small camp for the injured.}
 {148010}{}{6}
 
-# Tesla Tower, pid 49, base 149000
+# Tesla Tower, pid 49, base 149000				
 {149000}{}{Tesla Tower}
-{149005}{}{A wireless  telecommunication tower, in control by the Brotherhood of Steel. Due to this tower, it was possible to greatly increase the general radio reception.}
+{149005}{}{Bezdrátová telekomunikační věž pod kontrolou Bratrstva Oceli. Díky této věži bylo možné výrazně navýšit dosah radiových signálů.}
 {149010}{}{12}
 
 # Hinkley, pid 50, base 150000
 {150000}{}{Hinkley}
-{150005}{}{A recreational area consisting of a few combat arenas for relaxation and training.}
+{150005}{}{Rekreační zařízení vybavené bojovými arénami pro trénink i odpočinek.}
 {150010}{}{10}
 
 # Crashed Hummer, pid 51, base 151000
 {151000}{}{Crashed Hummer}
-{151005}{}{A crashed Hummer and it's crew.}
+{151005}{}{Havarovaný Hummer s posádkou.}
 {151010}{}{6}
 
 # Battleground, pid 52, base 152000
 {152000}{}{Battleground}
-{152005}{}{This place has recently seen a battle between few Brotherhood soldiers and a group of Supermutants.}
+{152005}{}{Na tomto místě se nedávno utkalo pár vojáků Bratrstva se skupinou supermutantů.}
 {152010}{}{6}
 
 # An Old Bunker, pid 53, base 153000
@@ -3149,17 +3149,17 @@
 
 # Prison, pid 54, base 154000
 {154000}{}{Prison}
-{154005}{}{A New California Republic Correctional Facility.}
+{154005}{}{Nápravné zařízení NCR.}
 {154010}{}{10}
 
 # Train Ambush: Rail Raiders, pid 55, base 155000
 {155000}{}{Train Ambush: Rail Raiders}
-{155005}{}{A train ambush!}
+{155005}{}{Přepadení vlaku!}
 {155010}{}{6}
 
 # Train Ambush: Buried Rails, pid 56, base 156000
 {156000}{}{Train Ambush: Buried Rails}
-{156005}{}{The rails have been buried by rubble piles!}
+{156005}{}{Koelje byly pohřbeny pod hromadou harampádí!}
 {156010}{}{24}
 
 # Khan Mountains, pid 57, base 157000
@@ -3184,22 +3184,22 @@
 
 # NCR LA Gold Reserve, pid 61, base 161000
 {161000}{}{NCR LA Gold Reserve}
-{161005}{}{A strash of the NCRs national gold reserve in the Angel's Boneyard.}
+{161005}{}{Skladiště zlatých rezerv NCR v Andělském hřbitově.}
 {161010}{}{6}
 
 # Industrial Park, pid 62, base 162000
 {162000}{}{Industrial Park}
-{162005}{}{Lots of empty and locked warehouses can be found in the industrial park.}
+{162005}{}{Nachází se zde množství prázdných či uzamřených skladišť.}
 {162010}{}{6}
 
 # Cathedral Basement, pid 63, base 163000
 {163000}{}{Cathedral Basement}
-{163005}{}{The cathedral cellar.}
+{163005}{}{Kobky pod katedrálou.}
 {163010}{}{6}
 
 # Mutants Hideout, pid 64, base 164000
 {164000}{}{Mutants Hideout}
-{164005}{}{A cavern hideout in the mountains. It's occupied by a group of Super Mutant Remnants.}
+{164005}{}{Jeskynní úkryt v horách. Je obýván skupinou supermutantů.}
 {164010}{}{6}
 
 # SanFran Subway, pid 65, base 165000
@@ -3224,12 +3224,12 @@
 
 # Tobacco Farm, pid 69, base 169000
 {169000}{}{Tobacco Farm}
-{169005}{}{An abandoned tobacco farm with wild growing plants, occupying the ruined city streets.}
+{169005}{}{Opuštěná tabáková farma s divoce rostoucími rostlinami, založená mezi ruinami ulic dřívějšího města.}
 {169010}{}{6}
 
 # Radscorpion Cave, pid 70, base 170000
 {170000}{}{Radscorpion Cave}
-{170005}{}{Behind a bunch of junked cars you can see a small entrance into the mountain...}
+{170005}{}{Za vraky aut vidíš malý vstup do jeskyně...}
 {170010}{}{6}
 
 # Safe House, pid 71, base 171000
@@ -3269,27 +3269,27 @@
 
 # Brahmin Ranch, pid 78, base 178000
 {178000}{}{Brahmin Ranch}
-{178005}{}{A brahmin ranch waiting for herd to be delivered.}
+{178005}{}{Brahmíní ranč. Očekávají zde dodávku stáda brahmín.}
 {178010}{}{6}
 
 # Ruined Military Base, pid 79, base 179000
 {179000}{}{Ruined Military Base}
-{179005}{}{An abandoned military bunker. You can see the big gates from the distance.}
+{179005}{}{Opuštěná vojenská základna. Z dálky vidíš velké vstupní vrata.}
 {179010}{}{12}
 
 # Dead Body, pid 80, base 180000
 {180000}{}{Dead Body}
-{180005}{}{You see a dead body under a tree.}
+{180005}{}{Vidíš mrtvé tělo ležící pod stromem.}
 {180010}{}{24}
 
 # Ocean 1, pid 81, base 181000
 {181000}{}{Ocean 1}
-{181005}{}{The wide, dirty ocean.}
+{181005}{}{Širý, špinavý oceán.}
 {181010}{}{24}
 
 # Old Warehouse, pid 82, base 182000
 {182000}{}{Old Warehouse}
-{182005}{}{Old warehouse, perhaps there is still something valuable inside.}
+{182005}{}{Staré skladiště, možná je uvnitř něco hodnotného.}
 {182010}{}{6}
 
 # Old Factory, pid 83, base 183000
@@ -3299,7 +3299,7 @@
 
 # Tent in the Wasteland, pid 84, base 184000
 {184000}{}{Tent in the Wasteland}
-{184005}{}{A tent, it seems like some people are living there.}
+{184005}{}{Stan. Zdá se, žev něm bydlí nějací lidé.}
 {184010}{}{6}
 
 # Hospital, pid 85, base 185000
@@ -3309,12 +3309,12 @@
 
 # Abandoned Farmhouse, pid 86, base 186000
 {186000}{}{Abandoned Farmhouse}
-{186005}{}{A small, rat-ridden farm.}
+{186005}{}{Malá farma zamořená krysama.}
 {186010}{}{6}
 
 # Bus Stop, pid 87, base 187000
 {187000}{}{Bus Stop}
-{187005}{}{A bus stop on the highway.}
+{187005}{}{Autobusová zastávka na dálnici.}
 {187010}{}{6}
 
 # Ghost Town, pid 88, base 188000
@@ -3333,7 +3333,7 @@
 
 # Seven Famillies, pid 89, base 189000
 {189000}{}{Seven Famillies}
-{189005}{}{A small village on the desert.}
+{189005}{}{Malá vesnička v poušti.}
 {189010}{}{12}
 {189020}{}{art\intrface\Twnmap02.frm}
 {189030}{}{art\intrface\Wm_02.frm}
@@ -3347,24 +3347,24 @@
 
 # Vault 14, pid 90, base 190000
 {190000}{}{Vault 14}
-{190005}{}{Discovered few years ago. Unfortunately this place is inhabited by remains of Master's army.}
+{190005}{}{Byl objeven před pár lety. Naneštěstí je obsazen pozůstatky Vůdcovy armády.}
 {190010}{}{12}
 {190020}{}{art\intrface\twnv15.frm}
 {190030}{}{art\intrface\WM_VLT15.FRM}
 {190090}{}{3}
-{190101}{}{West Side}
+{190101}{}{Západní strana}
 {190102}{}{138}
 {190103}{}{189}
-{190111}{}{North Side}
+{190111}{}{Severní strana}
 {190112}{}{204}
 {190113}{}{106}
-{190121}{}{East Side}
+{190121}{}{Východní strana}
 {190122}{}{360}
 {190123}{}{136}
 
 # Slavery Vault, pid 91, base 191000
 {191000}{}{Slavery Vault}
-{191005}{}{Little underground slaver guild's storehouse.}
+{191005}{}{Malé podzemní skladiště guildy otřokářů.}
 {191010}{}{12}
 
 # Carson => Valut 32, pid 92, base 192000
@@ -3374,24 +3374,24 @@
 
 # Raiders's Cave, pid 93, base 193000
 {193000}{}{Raiders's Cave}
-{193005}{}{Small hideout of various elements of wasteland. They're not friendly.}
+{193005}{}{Malý úkryt pochybných existencí z pustiny. Nevypadají zrovna přátelsky.}
 {193010}{}{12}
 {193020}{}{art\intrface\Twnmap04.frm}
 {193030}{}{art\intrface\Wm_04.frm}
 {193090}{}{3}
-{193101}{}{Entrance}
+{193101}{}{Vstup}
 {193102}{}{154}
 {193103}{}{276}
-{193111}{}{Exit}
+{193111}{}{Východ}
 {193112}{}{302}
 {193113}{}{203}
-{193121}{}{North}
+{193121}{}{Sever}
 {193122}{}{154}
 {193123}{}{136}
 
 # Las Vegas, pid 94, base 194000
 {194000}{}{Las Vegas}
-{194005}{}{Guarded place with casinos.}
+{194005}{}{Strážené místo s kasíny.}
 {194010}{}{24}
 {194020}{}{art\intrface\twnVegas.frm}
 {194030}{}{art\intrface\wm_lasvegas.frm}
@@ -3405,7 +3405,7 @@
 
 # Salt Lake, pid 95, base 195000
 {195000}{}{Salt Lake}
-{195005}{}{Dangerous place with own Nuka-Cola Factory.}
+{195005}{}{Nebezpečné místo jehož dominantou je předválečná továrna na Nuka-Colu.}
 {195010}{}{24}
 {195020}{}{art\intrface\twnSault.frm}
 {195030}{}{art\intrface\wm_salt.frm}
@@ -3435,35 +3435,35 @@
 
 # Area 51, pid 98, base 198000
 {198000}{}{Area 51}
-{198005}{}{Old facility controlled by some computer system, able to giving orders for things what's living there.}
+{198005}{}{Staré zařízení kontrolované jakýmsi počítačovým systémem, schopným předávat rozkazy všemu živému uvnitř.}
 {198010}{}{12}
 {198020}{}{art\intrface\twnArea51.frm}
 {198030}{}{art\intrface\wm_area51.frm}
 {198090}{}{3}
-{198101}{}{Space Shuttle}
+{198101}{}{Raketoplán}
 {198102}{}{150}
 {198103}{}{400}
-{198111}{}{Airport}
+{198111}{}{Letiště}
 {198112}{}{75}
 {198113}{}{300}
-{198121}{}{North Side}
+{198121}{}{Severní strana}
 {198122}{}{200}
 {198123}{}{150}
 
 # Hawthorne, pid 99, base 199000
 {199000}{}{Hawthorne}
-{199005}{}{An old Military Mase, where an outcast's army is formed.}
+{199005}{}{Stará vojenská základna v níž se formuje armáda vyhnanců.}
 {199010}{}{12}
 {199020}{}{art\intrface\twnHwthr.frm}
 {199030}{}{art\intrface\wm_hwtrn.frm}
 {199090}{}{3}
-{199101}{}{Railway crossing}
+{199101}{}{Železniční přejezd}
 {199102}{}{190}
 {199103}{}{390}
 {199111}{}{El Capitan}
 {199112}{}{50}
 {199113}{}{230}
-{199121}{}{East Side}
+{199121}{}{Východní strana}
 {199122}{}{240}
 {199123}{}{230}
 
@@ -3474,10 +3474,10 @@
 {200020}{}{art\intrface\twnProvo.frm}
 {200030}{}{art\intrface\wm_provo.frm}
 {200090}{}{2}
-{200101}{}{South}
+{200101}{}{Jih}
 {200102}{}{340}
 {200103}{}{330}
-{200111}{}{North}
+{200111}{}{Sever}
 {200112}{}{240}
 {200113}{}{70}
 
@@ -3783,37 +3783,37 @@
 
 # Outpost, pid 202, base 302000
 {302000}{}{Outpost}
-{302005}{}{A big-sized base with a house and temporary walls.}
+{302005}{}{Velká základna s domem a dočasným opevněním.}
 {302010}{}{6}
 
 # Cabin, pid 203, base 303000
 {303000}{}{Cabin}
-{303005}{}{A medium-sized base with a house and a few tents.}
+{303005}{}{Střední základna s domem a několika stany.}
 {303010}{}{6}
 
 # House Ruins, pid 204, base 304000
 {304000}{}{House Ruins}
-{304005}{}{A medium-sized building with smaller buildings around it.}
+{304005}{}{Středně velká budova s několika menšími stavbami okolo.}
 {304010}{}{6}
 
 # Scrapheap, pid 205, base 305000
 {305000}{}{Scrapheap}
-{305005}{}{A medium-sized building with a lot of junk around it.}
+{305005}{}{Středně velká budova s hromadami všemožného odpadu okolo.}
 {305010}{}{6}
 
 # NPC Map, pid 206, base 306000
 {306000}{}{NPC Map}
-{306005}{}{Good luck trying to get out of here.}
+{306005}{}{Přeju ti hodně úspěchů při cestě odsud.}
 {306010}{}{6}
 
 # Secret Cave, pid 207, base 307000
 {307000}{}{Secret Cave}
-{307005}{}{A small secret cave hideout.}
+{307005}{}{Malý jeskynní úkryt.}
 {307010}{}{6}
 
 # Old Bunker, pid 208, base 308000
 {308000}{}{Old Bunker}
-{308005}{}{A abandoned bunker, hidden in the mountains.}
+{308005}{}{Opuštěný bunkr skrytý v horách.}
 {308010}{}{6}
 
 # Caravans, pid 209, base 309000
@@ -3823,62 +3823,62 @@
 
 # Depot, pid 210, base 310000
 {310000}{}{Depot}
-{310005}{}{An old car depot with its own power generator.}
+{310005}{}{Stará garáž s vlastní elektrostanicí.}
 {310010}{}{6}
 
 # Tent, pid 211, base 311000
 {311000}{}{Tent}
-{311005}{}{A small tent in the desert.}
+{311005}{}{Malá stan v poušti.}
 {311010}{}{6}
 
 # Tent, pid 212, base 312000
 {312000}{}{Tent}
-{312005}{}{A small tent between mountains.}
+{312005}{}{Malý stan mezi horami.}
 {312010}{}{6}
 
 # Tent, pid 213, base 313000
 {313000}{}{Tent}
-{313005}{}{A small tent at the coast.}
+{313005}{}{Malý stan na pobřeží.}
 {313010}{}{6}
 
 # Tent, pid 214, base 314000
 {314000}{}{Tent}
-{314005}{}{A small tent in the city.}
+{314005}{}{Malý stan ve městě}
 {314010}{}{6}
 
 # Farmhome, pid 220, base 320000
 {320000}{}{Farmhome}
-{320005}{}{A small farm in the middle of nowhere.}
+{320005}{}{Malá farma uprostřed.. vlastně ničeho.}
 {320010}{}{6}
 
 # Stranded Tanker, pid 221, base 321000
 {321000}{}{Stranded Tanker}
-{321005}{}{A rusty giant stranded at the coastline.}
+{321005}{}{Rezavý obr uvězněný na pobřeží.}
 {321010}{}{6}
 
 # Rail Line Gang, pid 222, base 322000
 {322000}{}{Rail Line Gang}
-{322005}{}{The camping place of the Horatius rail line gang.}
+{322005}{}{Kemp Horáciova železničního gangu.}
 {322010}{}{6}
 
 # Lost Hills Outpost, pid 223, base 323000
 {323000}{}{Lost Hills Outpost}
-{323005}{}{On a edge between the mountains, you can see a small shining light.}
+{323005}{}{V místě, kde se potkávají dvě hory vidíš svítit malé světlo.}
 {323010}{}{6}
 
 # Hideout, pid 224, base 324000
 {324000}{}{Hideout}
-{324005}{}{A small camp fire is burning in the distance.}
+{324005}{}{V dálce hoří malý oheň.}
 {324010}{}{6}
 
 # Secret Shelter, pid 225, base 325000
 {325000}{}{Secret Shelter}
-{325005}{}{A small hidden bomb shelter.}
+{325005}{}{Malý ukrytý protibombový kryt.}
 {325010}{}{6}
 
 # Secret Treasure, pid 226, base 326000
 {326000}{}{Secret Treasure}
-{326005}{}{A family grave.}
+{326005}{}{Rodinný hrob.}
 {326010}{}{6}
 
 # Ambush!, pid 227, base 327000
@@ -3888,7 +3888,7 @@
 
 # Abandoned Howitzer, pid 228, base 328000
 {328000}{}{Abandoned Howitzer}
-{328005}{}{Abandoned Howitzer}
+{328005}{}{Opuštěný Howitzer}
 {328010}{}{6}
 
 # Woods, pid 230, base 330000
@@ -3923,12 +3923,12 @@
 
 # Gasstation Camp, pid 245, base 345000
 {345000}{}{Gasstation Camp}
-{345005}{}{A small-sized base with a house and temporary tents.}
+{345005}{}{Málá základna s domem a dočasnými stany.}
 {345010}{}{6}
 
 # Trapper Camp, pid 246, base 346000
 {346000}{}{Trapper Camp}
-{346005}{}{A small-sized tent camp with fireplaces.}
+{346005}{}{Malý kemp se stany a ohništi.}
 {346010}{}{6}
 
 # Slaverun 1, pid 271, base 371000
@@ -4046,39 +4046,39 @@
 {449005}{}{}
 {449010}{}{6}
 
-# Warzone, pid 350, base 450000
+# Warzone, pid 350, base 450000				#pokračovat
 {450000}{}{Warzone}
-{450005}{}{An old gas station, much junk, dead bodies all around. This ain't be a good place.}
+{450005}{}{Stará čerpací stanice, spousta povalujícího se odpadu a mrtvá těla kam jen se podíváš. To není dobré místo.}
 {450010}{}{12}
 
 # Warzone, pid 351, base 451000
 {451000}{}{Warzone}
-{451005}{}{The ruins of the past, the ash is still in the air. Today, this place will burn again...}
+{451005}{}{Pozůstatky minulosti, ve vzduchu je ještě cítit kouř. Dnes toto místo vzplane znovu...}
 {451010}{}{12}
 
 # San Francisco Train Station, pid 352, base 452000
 {452000}{}{San Francisco Train Station}
-{452005}{}{A busy train station, which can be used for fast traveling to various places.}
+{452005}{}{Vlaková stanice, ze které je možné rychle cestovat na různá místa.}
 {452010}{}{9}
 
 # Boneyard Train Station, pid 353, base 453000
 {453000}{}{Boneyard Train Station}
-{453005}{}{An old train station, controlled by the Regulators of Adytum and Boneyard. The train station can be used for fast traveling to various places.}
+{453005}{}{Stará vlaková stanice pod kontrolou Regulátorů z Adyta a Boneyardu. Je možné odsud rychle cestovat na různá místa.}
 {453010}{}{9}
 
 # NCR Train Station, pid 354, base 454000
 {454000}{}{NCR Train Station}
-{454005}{}{A NCR outpost with active train station that can be used for fast traveling to various places.}
+{454005}{}{Základna NCR s vlakovou stanicí odkud je možné rychle cestovat na různá místa.}
 {454010}{}{9}
 
 # Vault City Train Station, pid 355, base 455000
 {455000}{}{Vault City Train Station}
-{455005}{}{One of the first new train stations in the north. The train station can be used for fast traveling to various places.}
+{455005}{}{Jedno z prvních nádraží na severu. Ze stanice je možné rychle cestovat na různá místa.}
 {455010}{}{9}
 
 # Junkyard, pid 356, base 456000
 {456000}{}{Junkyard}
-{456005}{}{A small and old junkyard. You can see the stacked cars already from far away.}
+{456005}{}{Malé a staré vrakoviště. Hromady vraků automobilů jsou vidět z velké dálky.}
 {456010}{}{6}
 
 # Spawnpoint 1, pid 357, base 457000
@@ -4103,39 +4103,39 @@
 
 # Themepark, pid 361, base 461000
 {461000}{}{Themepark}
-{461005}{}{A part of an old and abandoned themepark.}
+{461005}{}{část starého, opuštěného zábavního parku.}
 {461010}{}{6}
 
 # Waterworks, pid 362, base 462000
 {462000}{}{Waterworks}
-{462005}{}{An abandoned industrial facility for water purification.}
+{462005}{}{Opuštěné zařízení na čištění vody.}
 {462010}{}{6}
 {462020}{}{art\intrface\Twnmap02.frm}
 {462030}{}{art\intrface\Wm_02.frm}
 {462090}{}{3}
-{462101}{}{South}
+{462101}{}{Jih}
 {462102}{}{312}
 {462103}{}{212}
-{462111}{}{Storage}
+{462111}{}{Skladiště}
 {462112}{}{258}
 {462113}{}{69}
-{462121}{}{North}
+{462121}{}{Sever}
 {462122}{}{360}
 {462123}{}{136}
 
 # Klamath Toxic Caves, pid 363, base 463000
 {463000}{}{Klamath Toxic Caves}
-{463005}{}{A radioactive cave inhabited by Geckos.}
+{463005}{}{Radioaktivní jeskyně obývaná geckony.}
 {463010}{}{6}
 
 # Gordon's Gas Station, pid 364, base 464000
 {464000}{}{Gordon's Gas Station}
-{464005}{}{A small gas station in the middle of the desert.}
+{464005}{}{Malá čerpací stanice uprostřed pouště.}
 {464010}{}{6}
 
 # Quarry, pid 365, base 465000
 {465000}{}{Quarry}
-{465005}{}{A well guarded quarry, run by the Junktown town folks.}
+{465005}{}{Dobře opevněný důl provozovaný lidma z Junktownu.}
 {465010}{}{6}
 
 # Mountain Passage, pid 366, base 466000
@@ -4150,14 +4150,14 @@
 
 # Fort Seth, pid 368, base 468000
 {468000}{}{Fort Seth}
-{468005}{}{A military outpost of the NCR, composed of a few barracks and protective walls.}
+{468005}{}{Vojenská základna NCR, kterou tvoří několik budov obehnaných ochrannou zdí.}
 {468010}{}{6}
 {468020}{}{art\intrface\fort.png}
 {468090}{}{2}
-{468101}{}{Main}
+{468101}{}{Hlavní brána}
 {468102}{}{350}
 {468103}{}{200}
-{468111}{}{West}
+{468111}{}{Západ}
 {468112}{}{250}
 {468113}{}{200}
 
@@ -4173,7 +4173,7 @@
 
 # Talchem California HQ, pid 371, base 471000
 {471000}{}{Talchem California HQ}
-{471005}{}{An abandoned compound.}
+{471005}{}{Opuštěné zařízení.}
 {471010}{}{12}
 {471020}{}{art\intrface\Twnmap02.frm}
 {471030}{}{art\intrface\Wm_02.frm}
@@ -4305,21 +4305,21 @@
 
 # The Tunnel, pid 394, base 494000
 {494000}{}{The Tunnel}
-{494005}{}{A pre-war underground fallout shelter located in an underground passageway filled with piles of wrecked cars. The tunnel has mostly collapsed leaving only one entrance accessible.}
+{494005}{}{Předválečný podzemní kryt umístěný v tunetu zaplněném vraky aut. Větší část tunelu se dávno zřítila a přístup je tak možný jen z jedné strany.}
 {494010}{}{12}
 {494020}{}{art\intrface\Twnmap09.frm}
 {494030}{}{art\intrface\Wm_09.frm}
 {494090}{}{2}
-{494101}{}{Entrance}
+{494101}{}{Vstup}
 {494102}{}{270}
 {494103}{}{189}
-{494111}{}{Exit}
+{494111}{}{Východ}
 {494112}{}{138}
 {494113}{}{189}
 
 # Arroyo Temple, pid 395, base 495000
 {495000}{}{The Temple}
-{495005}{}{Possibly a pre-war temple of some sorts that's been built inside of a solid rock. The place is oozing with a musty stench, which added to the constant growls heard from the inside give you an uneasy feeling.}
+{495005}{}{Zřejmě předválečný chrám vytesaný do pevné skály. Ze zápachu linoucího se zevnitř doplněného hlasitým vrčením máš špatný pocit.}
 {495010}{}{12}
 {495020}{}{art\intrface\temple.png}
 {495030}{}{art\intrface\temple.png}
@@ -4330,21 +4330,21 @@
 
 # Abbey, pid 396, base 496000
 {496000}{}{Abbey}
-{496005}{}{A small isolated pre-war monastery located almost at the summit of the Steens Mountain. The nearby area has been hit by a small yield nuclear warhead which slightly irradiated the area.}
+{496005}{}{Malý izolovaný předválečný klášter umístěný na samém úpatí hory Steen. Místo bylo zasaženo malou jadernou hlavicí. Zvýšená radiace je na místě stále patrná.}
 {496010}{}{12}
 {496020}{}{art\intrface\abbey.png}
 {496030}{}{art\intrface\Wm_05.frm}
 {496090}{}{2}
-{496101}{}{North}
+{496101}{}{Sever}
 {496102}{}{154}
 {496103}{}{256}
-{496111}{}{Library}
+{496111}{}{Knihovna}
 {496112}{}{138}
 {496113}{}{189}
 
 # Laboratory X7, pid 397, base 497000
 {497000}{}{Laboratory X7}
-{497005}{}{The military installation hidden among the trees, none of the living do not know what is inside.}
+{497005}{}{Vojenské zařízení skryté mezi stromy, nikdo živý neví, co se nachází uvnitř.}
 {497010}{}{6}
 {497020}{}{art\intrface\Twnmap09.frm}
 {497030}{}{art\intrface\Wm_09.frm}
@@ -4352,16 +4352,16 @@
 {497101}{}{Exterior}
 {497102}{}{120}
 {497103}{}{220}
-{497111}{}{East South}
+{497111}{}{Východní strana}
 {497112}{}{120}
 {497113}{}{136}
-{497121}{}{North}
+{497121}{}{Sever}
 {497122}{}{390}
 {497123}{}{210}
 
 # Strange Farm, pid 398, base 498000
 {498000}{}{Strange Farm}
-{498005}{}{A small abandoned farm located in the hills.}
+{498005}{}{Malá farma v kopcích.}
 {498010}{}{12}
 
 # Zek's map for test
@@ -4443,7 +4443,7 @@
 {552010}{}{12}
 # Crashed Train, pid 441, base 541000
 {553000}{}{Treasure Hunters Club}
-{553005}{}{In the distance you see a large shack. It seems to be occupied by people. A red neon light seems to be the only bright thing that attracts your attention.}
+{553005}{}{V dálce vidíš nějakou budovu. Zdá se, že se kolem ní pohybují nějací lidé. Červený neonový poutač je tím hlavním, co upoutalo tvou pozornost.}
 {553010}{}{12}
 #name=Own Verti 554
 #name=Lost Singal 555
@@ -4474,10 +4474,10 @@
 {572010}{}{6}
 
 {573000}{}{NSA listening post "Bravo"}
-{573005}{}{You can see a big satellite dish on the hill, the place looks as if it's been a battlefield not so long ago.}
+{573005}{}{Vidíš velký satelitní disk na kopci, na místě zřejmě nedávno proběhla nějaká bitva...}
 {573010}{}{12}
 {574000}{}{Amdee Air Force Base}
-{574005}{}{A place hidden from the eyes of seekers for a long time. Somebody once called it "Plane graveyard". Don't fool yourself with the corpses of fighter jets, these things became victims of EMI long time ago and now only remind you about the past.}
+{574005}{}{Místo dlouho skryté před očima hledačů. Někdo jej dřív nazýval "Hřbitovem letadel". Nenech se unést pohledem na torza stíhaček, tyto stroje se staly oběťmi EMP už hrozně dávno a teď jsou jen připomínkou minulosti.}
 {574010}{}{12}
 
 {576000}{}{Controlling Camp}
@@ -4579,54 +4579,54 @@
 #
 
 # message (ugly hack:P)
-{10000000}{}{You encounter: @lex str1@}
-{10000001}{}{You encounter: @lex str1@}
-{10000002}{}{You encounter: @lex str1@@lex str2@}
-{10000003}{}{You encounter: @lex str1@@lex str2@@lex str3@}
-{10000004}{}{You encounter: @lex str1@@lex str2@@lex str3@@lex str4@}
-{10000005}{}{You encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@}
-{10000006}{}{You encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@}
-{10000007}{}{You encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@}
-{10000008}{}{You encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@}
-{10000009}{}{You encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@@lex str9@}
+{10000000}{}{Setkání s: @lex str1@}
+{10000001}{}{Setkání s: @lex str1@}
+{10000002}{}{Setkání s: @lex str1@@lex str2@}
+{10000003}{}{Setkání s: @lex str1@@lex str2@@lex str3@}
+{10000004}{}{Setkání s: @lex str1@@lex str2@@lex str3@@lex str4@}
+{10000005}{}{Setkání s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@}
+{10000006}{}{Setkání s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@}
+{10000007}{}{Setkání s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@}
+{10000008}{}{Setkání s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@}
+{10000009}{}{Setkání s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@@lex str9@}
 
-{10000010}{}{Do you wish to encounter: @lex str1@}
-{10000011}{}{Do you wish to encounter: @lex str1@}
-{10000012}{}{Do you wish to encounter: @lex str1@@lex str2@}
-{10000013}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@}
-{10000014}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@@lex str4@}
-{10000015}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@}
-{10000016}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@}
-{10000017}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@}
-{10000018}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@}
-{10000019}{}{Do you wish to encounter: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@@lex str9@}
+{10000010}{}{Chceš se setkat s: @lex str1@}
+{10000011}{}{Chceš se setkat s: @lex str1@}
+{10000012}{}{Chceš se setkat s: @lex str1@@lex str2@}
+{10000013}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@}
+{10000014}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@@lex str4@}
+{10000015}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@}
+{10000016}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@}
+{10000017}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@}
+{10000018}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@}
+{10000019}{}{Chceš se setkat s: @lex str1@@lex str2@@lex str3@@lex str4@@lex str5@@lex str6@@lex str7@@lex str8@@lex str9@}
 
 
 
 
 # count (prefix) TODO
-{10000020}{}{a small group of }
-{10000021}{}{a group of }
+{10000020}{}{malou skupinou }
+{10000021}{}{skupinou }
 
 
 # brakujace linie powodujace blad nie wbijania w enco w ktorym jest inny gracz (psikus od 2238 ;p)
-{10000022}{}{Do you wish to encounter: @lex who@ and @lex player@ group.}
-{10000023}{}{Do you wish to encounter: @lex player@.}
-{10000024}{}{Do you wish to encounter: @lex player@ group.}
+{10000022}{}{Chceš se setkat s: @lex who@ a skupinou @lex player@ .}
+{10000023}{}{Chceš se setkat s: @lex player@.}
+{10000024}{}{Chceš se setkat s: @lex player@ partou.}
 
 # ostrzezenie o wejsciu do enco, ktore jest w TB (12.04.2014)
-{10000025}{}{Do you wish to encounter: @lex player@. @lex str1@@lex str2@}
-{10000026}{}{Do you wish to encounter: @lex player@ group. @lex str1@@lex str2@}
+{10000025}{}{Chceš se setkat s: @lex player@. @lex str1@@lex str2@}
+{10000026}{}{Chceš se setkat s: @lex player@ partou. @lex str1@@lex str2@}
 
 
 
 # action
-{10000030}{}{fighting }
-{10000131}{}{fending off}
+{10000030}{}{v boji }
+{10000131}{}{bránící se}
 
 
 
-# {10000200}{}{Do you wish to enter to encounter in TURN-BASED mode?}
+# {10000200}{}{Chceš zahájit setkání v tahovém boji?}
 
 #
 # New encounters 20000000 + <group>
