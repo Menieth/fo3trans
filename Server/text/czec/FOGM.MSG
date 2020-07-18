@@ -4305,7 +4305,7 @@
 
 # The Tunnel, pid 394, base 494000
 {494000}{}{The Tunnel}
-{494005}{}{Předválečný podzemní kryt umístěný v tunetu zaplněném vraky aut. Větší část tunelu se dávno zřítila a přístup je tak možný jen z jedné strany.}
+{494005}{}{Předválečný podzemní kryt umístěný v tunelu zaplněném vraky aut. Větší část tunelu se dávno zřítila a přístup je tak možný jen z jedné strany.}
 {494010}{}{12}
 {494020}{}{art\intrface\Twnmap09.frm}
 {494030}{}{art\intrface\Wm_09.frm}

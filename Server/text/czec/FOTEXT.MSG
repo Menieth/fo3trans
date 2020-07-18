@@ -21,71 +21,71 @@
 
 
 
-{400}{}{Your character with your IP is connected to the server already. Dropping the connection, try to login again now.}
+{400}{}{Postava s tvou IP je již připojena k serveru. Ukončuji připojení, zkus se připojit znovu.}
 
 
 # taken from SDK:
-{500}{}{Gets @lex result@ on a die roll} # Dice
-{510}{}{Magic 8-Ball says: Yes} # Magic ball
-{511}{}{Magic 8-Ball says: No} # Magic ball
+{500}{}{Na kostkách jsi hodil @lex result@} # Dice
+{510}{}{Magická 8-Ball říká: Ano} # Magic ball
+{511}{}{Magická 8-Ball říká: Ne} # Magic ball
 {520}{}{Preens @sex@|him||her|self} # Cosmetic
-{530}{}{. Puffs on a cig .oO} # Cigarettes
+{530}{}{. Taháš z cigarety .oO} # Cigarettes
 
 
 # Use
-{1500}{}{The distillation device is out of order.}
-{1501}{}{Firewood needed.}
-{1502}{}{You are watching the wood burning in a stove.}
-{1503}{}{There is fresh-brewed beer in the tank!}
-{1504}{}{A tank with home-distilled alcohol is fulled to the brim.}
+{1500}{}{Destilační zařízení je mimo provoz.}
+{1501}{}{Je potřeba dřevo.}
+{1502}{}{Sleduješ, jak v kamnech hoří pár polen.}
+{1503}{}{V nádrži je čerstvě uvařené pivo!}
+{1504}{}{Nádrž je až po okraj naplněná domácí pálenkou.}
 # Use empty bottles
-{1505}{}{You poured the beer into the bottles.}
-{1506}{}{You poured alcohol into the bottles.}
-{1507}{}{You have not enough tare.}
+{1505}{}{Stočil jsi pivo do lahví.}
+{1506}{}{Stočil jsi do lahví alkohol.}
+{1507}{}{Nemáš dost vikve.}
 # Use firewood
-{1508}{}{This device is broken.}
-{1509}{}{Need more firewood. What you have is probably not enough.}
-{1510}{}{You don't know what ingredients to use and how much.}
-{1511}{}{You prepared and poured in the stuff. You lit a fire in the stove. Distillation has begun.}
-{1512}{}{You lit a fire in the stove and poured in the stuff. Home-distilated vodka has begun to fill in the tank.}
-{1513}{}{There is enough wood there already.} 
-{1514}{}{At first you have to pour out brewed beer.}
-{1515}{}{At first you have to pour out just distilled vodka.}
+{1508}{}{Přístroj je rozbitý.}
+{1509}{}{Potřebuješ víc dřeva, to co máš asi nebude stačit.}
+{1510}{}{Nevíš, jaké přísady použít, ani v jakém množství.}
+{1511}{}{Připravil a nalij jsi směs dovnitř. Zapaluješ oheň pod kotlem. Destilace začala.}
+{1512}{}{Zapálil jsi oheň a nalil směs. Domácí vodka začíná přitékat do nádrže.}
+{1513}{}{Už je tam dřeva dost.} 
+{1514}{}{Nejdřív musíš vylít uvařené pivo.}
+{1515}{}{NEjdřív musíš vylít hotovou vodku.}
 # To broke
-{1516}{}{You have just broken the brewing equipment.}
-{1517}{}{You have just broken the distilling device.} 
-{1518}{}{The boiler did not sustain the pressure and exploded!}
-{1519}{}{Boiling water sprays in to your eyes!.}
+{1516}{}{Rozbil jsi varnu na pivo.}
+{1517}{}{Rozbil jsi destilační zařízení.} 
+{1518}{}{Bojler ten tlak nevydržel a expolodoval!}
+{1519}{}{Do očí ti vytryskla vařící pára!.}
 # Repair
-{1520}{}{Looks like you need some details.}
-{1521}{}{You need tools to fix this.}
-{1522}{}{You have succesfully fixed the device.}
-{1523}{}{You have failed at repairing and broken some parts.}
+{1520}{}{Asi si o tom budeš muset zjistit víc informací.}
+{1521}{}{Budeš na to potřebovat nějaké nářadí.}
+{1522}{}{Úspěšně jsi přístroj opravil.}
+{1523}{}{Oprava selhala a ještě k tomu jsi zničil některé součástky.}
 # Science
-{1524}{}{This device can be fixed, but you need a wrench or something like that.}
-{1525}{}{Your wrench has been broken as well as the device.}
-{1526}{}{During repairing you dismounted half of the device. Now you need to assemble it back somehow.}
-{1527}{}{You fixed something carefully but it has not brought any result.}
-{1528}{}{You have fixed the brewing device. Now you'll need much less firewood.}
-{1529}{}{You have fixed the distillation device. Now you'll need much less firewood.}
-{1530}{}{You have failed to fix the device. Luckily, nothing got broken.}
+{1524}{}{Tohle zařízení je možné opravit, ale budeš potřebovat klíč nebo něco podobného.}
+{1525}{}{Zničil jsi nejen svůj klíč, ale i přístroj.}
+{1526}{}{Během oprav jsi rozebral půlku přístroje. Teď to budeš muset dát nějak zpátky dohromady.}
+{1527}{}{Opatrně jsi něco opravil, ale nepřineslo to žádné zlepšení.}
+{1528}{}{Opravil jsi varnu na pivo. Odteď bude potřeba podstatně méně dřeva.}
+{1529}{}{Opravil jsi pálenici. Odteď bude potřeba podstatně méně dřeva.}
+{1530}{}{Nepodařilo se ti přístroj opravit. Naštěstí jsi ani nic nerozbil.}
 # Scenery
-{1560}{}{Some cereals lay here. They are cleared and dried.}
-{1561}{}{In these tanks fermentation of raw materials for alcohol takes place.}
+{1560}{}{Leží tam nějaké cereálie, čisté a vysušené.}
+{1561}{}{V těchto nádržích probíhá fermentace surovin na výrobu alkoholu.}
 
 # Smart cursor info
 {1800}{}{Error}
-{1801}{}{Extract Iron}
-{1802}{}{Extract HQ Iron}
-{1803}{}{Extract Minerals}
-{1804}{}{Extract HQ minerals}
-{1805}{}{Extract Uranium}
-{1806}{}{Extract Gold}
-{1807}{}{Extract Fibres}
-{1808}{}{Shovel Dung}
-{1809}{}{Chop Wood}
-{1810}{}{Dig Grave}
-{1811}{}{Obtain Meat}
+{1801}{}{Těž železo}
+{1802}{}{Těž vysoce kvalitní železo}
+{1803}{}{Těž minerálů}
+{1804}{}{Těž vysoce kvalitní minerály}
+{1805}{}{Těž uran}
+{1806}{}{Těž zlato}
+{1807}{}{Uřízni vlákna}
+{1808}{}{Vyhaž hnůj}
+{1809}{}{Nasekej dřevo}
+{1810}{}{Vykopat hrob}
+{1811}{}{Získej maso}
 
 #
 # Casino
@@ -102,203 +102,203 @@
 # Car, car.fos
 #
 
-{2100}{}{Number: @lex number@. Fuel: @lex fuel@/@lex fuel_tank@. Damage: @lex wear@%.}
+{2100}{}{SPZ: @lex number@. Palivo: @lex fuel@/@lex fuel_tank@. Poškození: @lex wear@%.}
 
 #
 # Getting firewood from tree (use axe on tree)
 #
 
-{2200}{}{This is a suitable tree. You can cut fire wood... but only with healthy hands.}
-{2201}{}{You need to rest.}
-{2202}{}{You hit your hand instead of the tree!}
-{2203}{}{You've cut some fire wood.}
-{2204}{}{You've cut some fire wood, but can't carry all of it.}
-{2205}{}{You've cut some fire wood, but can't carry any of it.}
+{2200}{}{Toto je vhodný strom, ze kterého by šlo získat nějaké dřevo, ale jen se zdravýma rukama.}
+{2201}{}{Potřebuješ si odpočinout.}
+{2202}{}{Místo do stromu jsi se sekl do ruky!}
+{2203}{}{Nasekal jsi nějaké dřevo.}
+{2204}{}{Nasekal jsi nějaké dřevo, ale všechno ho neuneseš.}
+{2205}{}{Nasekal jsi nějaké dřevo, ale neuneseš ho.}
 
 #
 # Production
 #
-{3000}{}{You can't do this right now.}
-{3001}{}{You are lacking the skills to do that.}
-{3008}{}{You've gathered some seeds from the plant.}
-{3009}{}{You've harvested some tobacco from the plant.}
-{3010}{}{You've butchered some brahmin, and obtained some meat.}
-{3011}{}{You've harvested some fruits from the tree.}
-{3012}{}{You've dug some ore.}
-{3013}{}{You've dug some minerals.}
-{3014}{}{You've found some junk.}
-{3015}{}{You've gathered some high-quality excrements.}
-{3016}{}{You've chopped some wood.}
-{3017}{}{You've distilled a marvellous beverage.}
-{3018}{}{You need to prepare the still first.}
-{3019}{}{Now when you have all the ingredients, you need to start a fire.}
-{3020}{}{You started a fire, now you need to add distilling material.}
-{3021}{}{You've inserted fruit into the still.}
-{3022}{}{Fire already burning.}
-{3023}{}{You started a fire, product will be ready soon.}
-{3024}{}{Everything needed is already there.}
-{3025}{}{Fire is ready, but you need to add distilling material.}
-{3026}{}{Everything is ready to go.}
-{3027}{}{Everything is set up.}
-{3030}{}{The resources have been depleted.}
-{3031}{}{You've dug some uranium ore.}
-{3040}{}{You've found xander root.}
-{3041}{}{You didn't find anything interesting here.}
-{3042}{}{It's better to leave that piece of rock before you get hurt.}
-{3043}{}{You've found piece of flint.}
-{3044}{}{You've found broc flower.}
-{3045}{}{You've obtained some fiber.}
-{3046}{}{To get the fiber, you need to cut the plant.}
-{3047}{}{You'll need a knife to start butchering your brahmin on that table.}
-{3048}{}{There are no fruits on this plant.}
-{3049}{}{There is no fiber left on this plant.}
-{3050}{}{There are no brahmins left to butcher.}
-{3051}{}{There is not much of wood left on this stump.}
-{3052}{}{There is nothing interesting here.}
-{3053}{}{There are no leaves left on this plant.}
-{3054}{}{There are no spikes left on this plant.}
-{3060}{}{You stumbled upon a lost brahmin.}
+{3000}{}{Zrovna teď to udělat nemůžeš.}
+{3001}{}{Na to nemáš potřebné schopnosti.}
+{3008}{}{sebral jsi z rostliny nějaká semena.}
+{3009}{}{Utrhl jsi pár listů tabáku.}
+{3010}{}{Zabil jsi brahmínu a naporcoval z ní nějaké maso.}
+{3011}{}{Sebral jsi ze stromu nějaké ovoce.}
+{3012}{}{Vykopal jsi trochu rudy.}
+{3013}{}{Vykopal jsi nějaké minerály.}
+{3014}{}{Našel jsi nějaké smetí.}
+{3015}{}{Sebral jsi nějaké velmi kvalitní lejna.}
+{3016}{}{Nasekal jsi dřevo}
+{3017}{}{Vydestiloval jsi úžasný nápoj.}
+{3018}{}{Nejdív musíš připravit destilační přístroj.}
+{3019}{}{Teď když máš všechny přísady, měl bys zapálit oheň.}
+{3020}{}{Zapálil jsi oheň, teĎ bys měl přidat přísady.}
+{3021}{}{vložil jsi do destilačního přístroje nějaké ovoce.}
+{3022}{}{Oheň už hoří.}
+{3023}{}{Zapaluješ oheň, výrobek bude hotový za chvíli.}
+{3024}{}{Všechno potřebné už tam je.}
+{3025}{}{Oheň je připraven, ale musíš vložit nějaké věci k destilaci.}
+{3026}{}{Všechno je připraveno.}
+{3027}{}{Už máš vše připraveno.}
+{3030}{}{Suroviny byly vyčerpány.}
+{3031}{}{Vykopal jsi nějaký uran.}
+{3040}{}{Našel jsi kořen xanderu.}
+{3041}{}{Nevidíš tu nic zajímavého.}
+{3042}{}{Raději ten kus skály nech, nebo si ublížíš.}
+{3043}{}{Našel jsi kus pazourku.}
+{3044}{}{Našel jsi kvtinu Broc.}
+{3045}{}{Získal jsi nějaká vlákna.}
+{3046}{}{K získání vláken potřebuješ nůž.}
+{3047}{}{Musíš mít nůž, abys mohl na stole naporcovat brahmínu.}
+{3048}{}{Na této roslině už žádné ovoce není.}
+{3049}{}{Rostlina už nemá žádná použitelná vlákna.}
+{3050}{}{Nemáš žádnou další brahmínu na zabití.}
+{3051}{}{Na pařezu už není dostatek dřeva k nasekání.}
+{3052}{}{Není tu nic zajímavého.}
+{3053}{}{Na rostlině už nezbyly žádné listy.}
+{3054}{}{Rostlina už nemá žádné další trny.}
+{3060}{}{Narazil jsi na ztracenou brahmínu.}
 # Wrecked car
-{3061}{}{No, with this car you won't go far.}
-{3062}{}{You've found something that might be useful.}
+{3061}{}{Ne, s tímhle autem daleko nedojedeš.}
+{3062}{}{Našel jsi něco užitečného.}
 # Campfire
-{3065}{}{You need to toss more wood.}
-{3066}{}{The fire is burning.}
+{3065}{}{Musíš přihodit víc dřeva.}
+{3066}{}{Oheň hoří.}
 # Broken computer
-{3070}{}{You've managed to obtain some electronic parts.}
-{3071}{}{You were unable to obtain anything useful.}
-{3072}{}{Without proper approach, this broken computer isn't of any use.}
-{3073}{}{There are no interesting parts left inside. Looks like it already been scavenged.}
+{3070}{}{Získáváš nějaké elektrické součástky.}
+{3071}{}{Nepodařilo se ti získat nic užitečného.}
+{3072}{}{Bez správného přístupu z tohodle rozbitého počítače nic nezískáš.}
+{3073}{}{Uvnitř nejsou žádné užitečné součástky. Asi už je všechny někdo vybral.}
 # Chemicals
-{3075}{}{You've managed to fetch some chemical compounds.}
-{3076}{}{Without proper approach, you won't obtain anything useful.}
+{3075}{}{Podařilo se ti získat nějaké chemikálie.}
+{3076}{}{Bez správného přístupu nic užitečného nezískáš.}
 # Nuka Cola
-{3077}{}{You've crated a marvellous beverage.}
-{3078}{}{You need to prepare the Nuka Cola machine first.}
-{3079}{}{Now when you have all the ingredients, you need to exchange the machine battery.}
-{3080}{}{You exchanged the battery, now you need to add recipe material.}
-{3081}{}{You've inserted fruit into the Nuka Cola machine.}
-{3082}{}{Battery already exchanged.}
-{3083}{}{You exchanged the battery, product will be ready soon.}
-{3084}{}{Everything needed is already there.}
-{3085}{}{Battery is exchanged, but you need to add recipe material.}
-{3086}{}{Everything is ready to go.}
-{3087}{}{Everything is set up.}
-{3088}{}{Machine is not yet ready.}
+{3077}{}{Vyrobil jsi úžasný nápoj.}
+{3078}{}{Nejdřív musíš připravit přístroj na stáčení Nuka Coly.}
+{3079}{}{Teď když máš všechny suroviny, potřebuješ ve stroji vyměnit baterie.}
+{3080}{}{Vyměnil jsi baterie, teď můžeš vložit dovnitř suroviny.}
+{3081}{}{Vložil jsi do stroje na Nuka Colu nějaké ovoce.}
+{3082}{}{Baterie už byla vyměněna.}
+{3083}{}{Vyměnil jsi baterii, výrobek bude za hotový natotata.}
+{3084}{}{Už jsi udělal a vložil všechno potřebné.}
+{3085}{}{Baterie byla vyměněna, ale ještě musíš přidat suroviny.}
+{3086}{}{Všechno je připraveno na spuštění.}
+{3087}{}{Vše je připraveno.}
+{3088}{}{Stroj ještě není připraven.}
 # Ep+ computer
-{3089}{}{You've managed to obtain some high-quality electronic parts.}
-{3090}{}{You were unable to obtain anything useful.}
+{3089}{}{Získáváš nějaké kvalitní elektrické součástky.}
+{3090}{}{Nepodařilo se ti získat nic užitečného.}
 # Chem+
-{3091}{}{You've managed to fetch some rare, high quality chemical compounds.}
-{3092}{}{You were unable to obtain anything useful.}
+{3091}{}{Podařilo se ti získat vzácné kvalitní  chemikálie.}
+{3092}{}{Nepodařilo se ti získat nic užitečného.}
 
 # Veins
-{3100}{}{You've dug some iron ore.}
-{3101}{}{This iron vein has depleted.}
-{3102}{}{You need a primitive tool, sledgehammer or a super sledge to extract iron.}
-{3103}{}{You've dug some high quality iron ore.}
-{3104}{}{This high quality iron vein has depleted.}
-{3105}{}{You need a sledgehammer or a super sledge to extract high quality iron.}
-{3106}{}{You've dug some minerals.}
-{3107}{}{This source of minerals has depleted.}
-{3108}{}{You need a primitive tool, sledgehammer or a super sledge to extract minerals.}
-{3109}{}{You've dug some high quality minerals.}
-{3110}{}{This source of high quality minerals has depleted.}
-{3111}{}{You need a super sledge to extract high quality minerals.}
-{3112}{}{You've dug some uranium ore.}
-{3113}{}{This uranium vein has depleted.}
-{3114}{}{You need a super sledge to extract uranium.}
-{3115}{}{You've dug a gold nugget.}
-{3116}{}{This gold vein has depleted.}
-{3117}{}{You need a super sledge to extract gold.}
+{3100}{}{Vykopal jsi nějakou železnou rudu.}				#pokračovat
+{3101}{}{Žíla železné rudy byla vyčerpána.}
+{3102}{}{Abys mohl těžit železnou rudu, potřebuješ primitivní nástroj, kladivo nebo super kladivo.}
+{3103}{}{Vykopal jsi nějakou kvalitní železnou rudu}
+{3104}{}{Tato žíla kvalitní železné rudy byla vyčerpána.}
+{3105}{}{potřebuješ super kladivo, abys mohl těžit kvalitní železnou rudu.}
+{3106}{}{Vykopal jsi nějaké minerály.}
+{3107}{}{Tento zdroj minerálů byl vytěžen.}
+{3108}{}{Abys mohl těžit minerály, potřebuješ primitivní nástroj, kladivo nebo super kladivo.}
+{3109}{}{Vytěžil jsi nějaké kvalitní minerály}
+{3110}{}{Tento zdroj kvalitních minerálů byl vytěžen.}
+{3111}{}{Abys mohl těžit kvalitní minerály, potřebuješ super kladivo.}
+{3112}{}{Vytěžil jsi nějaký uran.}
+{3113}{}{Tato žíla uranu byla vyčerpána}
+{3114}{}{Abys mohl těžit uran, potřebuješ super kladivo.}
+{3115}{}{vykopal jsi zlatý nuget.}
+{3116}{}{Tato zlatá žíla byla vyčerpána}
+{3117}{}{Abys mohl těžit zlatou rudu, potřebuješ super kladivo.}
 
 #
 # Radiation
 #
 
-{4000}{}{You've received dose of radiation.}
-{4001}{}{You've received a large dose of radiation.}
-{4002}{}{Your radiation level has been lowered.}
+{4000}{}{Byl jsi zasažen dávkou radiace.}
+{4001}{}{Byl jsi zasažen velkou dávku radiace.}
+{4002}{}{Úroveň ozáření poklesla.}
 # Radiation levels
-{4010}{}{You feel a little nauseous.}
-{4010}{}{You feel some slight tingling in your face.}
-{4011}{}{You feel pretty ill.}
-{4011}{}{A metallic taste fills your mouth.}
-{4012}{}{You feel very nauseous.}
-{4012}{}{Your whole face is tingling.}
-{4013}{}{You feel extremely awful.}
-{4013}{}{Your face feels like it's burning.}
-{4014}{}{You feel like you are slowly dying.}
-{4014}{}{You are extremely dizzy and nauseous, your vision swimming and head throbbing.}
-{4015}{}{Due to radiation, you are dying in intense agony.}
+{4010}{}{Je ti nevolno.}
+{4010}{}{Cítíš lehké šimrání v obličeji.}
+{4011}{}{Cítíš se docela nemocně.}
+{4011}{}{V ústech cítíš kovovou příchuŤ.}
+{4012}{}{Je ti dost špatně.}
+{4012}{}{Svědí tě celý obličej.}
+{4013}{}{Cítíš se hrozně.}
+{4013}{}{Máš pocit, jako bys měl obličej v plamenech.}
+{4014}{}{Připadá ti to, jako bys pomalu umíral.}
+{4014}{}{Trpíš závratěmi a nechutenstvím, máš rozmazané vidění a třeští ti hlava.}
+{4015}{}{V důsledku radiace umíráš příšerně bolestivou smrtí.}
 # Other side effects
-{4030}{}{You find yourself covered in @lex name@'s bile.}
-{4031}{}{Your hair is falling out.}
-{4032}{}{Your skin is peeling off.}
-{4033}{}{You're vomitting.}
-{4034}{}{You're suffering from radiation sickness.}
+{4030}{}{Zjišťuješ, že jsi pokrytý zvratkami @lex name@.}
+{4031}{}{Vypadávají ti vlasy.}
+{4032}{}{Loupe se ti kůže.}
+{4033}{}{Bliješ.}
+{4034}{}{Trpíš nemocí z ozáření.}
 
 # Geiger
-{4050}{}{You've scanned your body with the geiger counter. It reads: @lex rems@.}
+{4050}{}{Přejel sis Geigrovým počítačem po těle. Ukazuje: @lex rems@.}
 
 # Vomits
-{4060}{}{You've cleaned it with your bare hands. Thank you.}
-{4061}{}{Investigating this piece of bile, you come to the conclusion that it's irradiated.}
-{4062}{}{You are unable to determine what diet caused this.}
-{4063}{}{You feel something slippy under your feet.}
+{4060}{}{Vyčistil jsi to holýma rukama, děkujeme.}
+{4061}{}{Přezkoumáním těchto zvratek jsi dospěl k závěru, že jsou ozářené.}
+{4062}{}{NEmůžeš přijít na to typ stravy, která tohle mohla způsobit.}
+{4063}{}{Cítíš pod nohama něco kluzkého.}
 
 # Flare
-{4070}{}{You light up the flare.}
+{4070}{}{Zapaluješ světlici.}
 
 #
 # Drugs and addictions
 #
 
 # Jet
-{4100}{}{Everything is moving so slowly... you need to get some more Jet, right NOW!}
-{4101}{}{You feel better.}
+{4100}{}{Všechno se hýbe tak pomalu... potřebuješ nějaký JET, ale OKAMŽITĚ!}
+{4101}{}{Cítíš se líp.}
 {4102}{}{***Pshhh***}
 # Mentats
-{4110}{}{You feel groggy.}
-{4111}{}{You feel better.}
+{4110}{}{Cítíš se unaveně.}
+{4111}{}{Cítíš se líp.}
 
 #
 # Brahmin dung
 # Proofread!
 #
-{4200}{}{No matter how hard you try, you can't clean it barehanded. Now you just stink.}
-{4201}{}{The diet of that brahmin was rich in cellulose.} # high doc or science
-{4202}{}{Yeah, it's funny to play with it.} # low doc or science
-{4203}{}{Whoops, is it a minefield?} # walked into the shit
-{4204}{}{You've cleaned the dung using your shovel.}
-{4205}{}{Holy shit! Now you REALLY stink.} # slipped on the shit
-{4206}{}{The brahmin around you look agitated.} # brahmin got mad
+{4200}{}{Ať se snažíš, jak se snažíš, nedaří se ti to holýma rukama uklidit. Teď navíc šíleně páchneš.}
+{4201}{}{Strava této brahmíny byla bohatá na vlákninu.} # high doc or science
+{4202}{}{Jóó, hrát si s tímdle je sranda!} # low doc or science
+{4203}{}{Hups, todle je jak minové pole} # walked into the shit
+{4204}{}{Uklidil jsi nějaká lejna lopatou.}
+{4205}{}{Svatá dobroto! Teď ale OPRAVDU páchneš.} # slipped on the shit
+{4206}{}{Brahmíny kolem vypadají rozrušeně.} # brahmin got mad
 
 
 
 #
 # antiblock
 #
-{4300}{}{You better move.}
-{4301}{}{Really.}
+{4300}{}{Měl by ses posunout.}
+{4301}{}{Opravdu!}
 
 #
 # Lock
 #
-{4400}{}{You've locked the container with a lock.}
+{4400}{}{Uzamkl jsi kontejner pomocí zámku.}
 
 #
 # Guards features
 #
 # Taking items while killed in guarded area
-{4500}{}{|4291317840 You've been killed in a guarded area. Your items have been taken by guards.}
-{4501}{}{|4291317840 You've caused troubles in this town, guards will not protect you.}
-{4502}{}{|4291317840 You recognize @lex name@ as troublemaker.} # not used
-{4503}{}{@lex name@, seems like @lex thief@ is interested in your possesions.}
-{4504}{}{|4291317840 @lex name@ has been spotted by guards while stealing.}
+{4500}{}{|4291317840 Byl jsi zabit ve strážené zóně. Tvé předměty byly zabaveny stráží.}
+{4501}{}{|4291317840 Způsobil jsi ve městě problémy. Stráže tě nebudou ochraňovat.}
+{4502}{}{|4291317840 Vidíš @lex name@ známého buřiče.} # not used
+{4503}{}{@lex name@, zdá se, že @lex thief@ zajímá, co máš v batohu.}
+{4504}{}{|4291317840 @lex name@ byl přistihnut stráží při krádeži.}
 
 # Rooms
-{4600}{}{Uhh...my head hurts... How did I end up here?} # Replicate in room
+{4600}{}{ooh...moje hlava... Jak jsem se sem dostal?} # Replicate in room
 
 # Trains
 {4700}{}{San Francisco}
@@ -308,98 +308,98 @@
 {4704}{}{NCR}
 {4705}{}{Boneyard}
 
-{4720}{}{, next day}
-{4721}{}{A train to @lex dest@ leaves in @lex ttl@ minutes!}
-{4721}{}{Attention, a train to @lex dest@ leaves in @lex ttl@ minutes!}
-{4721}{}{The train leaves soon, please get in!}
-{4722}{}{The train has arrived!}
-{4722}{}{The train has arrived, prepare to get on board!}
-{4722}{}{The train has arrived, you may take your seats now.}
+{4720}{}{, další den}
+{4721}{}{Vlak do @lex dest@ odjíždí za @lex ttl@ minut!}
+{4721}{}{Pozor! Vlak jedoucí do stanice @lex dest@ odjíždí za @lex ttl@ minut!}
+{4721}{}{Ukončete nástup, vlak je připraven k odjezdu!}
+{4722}{}{Vlak přijel na nástupiště!}
+{4722}{}{Vlak přijíždí na nástupiště, připravte se k nástupu!}
+{4722}{}{Vlak přijel na nástupiště, nyní můžete nastoupit a usadit se na svá sedadla.}
 
 # Stealth Boy
-{4800}{}{You've used a Stealth Boy. You're more stealthy now.}
-{4801}{}{You've prolonged your increased stealth.}
-{4802}{}{Your Stealth Boy has been used up.}
-{4803}{}{Stealth Boy bug. Please report this.}
+{4800}{}{Použil jsi Stealth Boy. Jsi teď méně nápadný.}
+{4801}{}{Prodloužil jsi dobu zvýšené schopnosti skrývání.}
+{4802}{}{Tvůj Stealth Boy byl spotřebován}
+{4803}{}{Stealth Boy bug. Prosím o nahlášení problému.}
 
 # Motion sensor
-{4900}{}{Motion sensor has no charges left.}
-{4901}{}{Motion sensor is on.}
-{4902}{}{Motion sensor is off.}
-{4903}{}{Motion sensor charged.}
-{4904}{}{Motion sensor charge will last for another @lex time@.}
+{4900}{}{Detektoru pohybu nezbývá žádné nabití.}
+{4901}{}{Detektoru pohybu je zaplý.}
+{4902}{}{Detektoru pohybu je vyplý.}
+{4903}{}{Detektoru pohybu byl dobit.}
+{4904}{}{Nabití detektoru pohybu vydrží ještě @lex time@.}
 
 # Toggle switch
-{4920}{}{*click* *click* Nothing happens. It looks like you are too far away from the explosives.}
+{4920}{}{*klik* *klik* Nic se neděje. Zdá se, že jsi od výbušnin příliš daleko.}
 
 # Geiger counter
-{10350}{}{Geiger counter has no charges left.}
-{10351}{}{Geiger counter is on.}
-{10352}{}{Geiger counter is off.}
-{10353}{}{You pass the Geiger counter over your body. The rem counter reads: @lex rem@.}
-{10354}{}{The rem counter reads: @lex rem@.}
-{10355}{}{Nothing happens.}
-{10356}{}{Geiger counter charged.}
-{10357}{}{Geiger counter charge is @lex cur@/@lex max@.}
+{10350}{}{Geigerův počítač je vybitý.}
+{10351}{}{Geigerův počítač je zaplý.}
+{10352}{}{Geigerův počítač je vyplý.}
+{10353}{}{Projel jsi geigerovým počítačem po tělě, ukazuje: @lex rem@.}
+{10354}{}{Displej počítače ukazuje: @lex rem@.}
+{10355}{}{Nic se nestalo.}
+{10356}{}{Geigerův počítač byl dobit.}
+{10357}{}{Geigerův počítač je dobit na @lex cur@/@lex max@.}
 
 # Throwing
-{10400}{}{You've thrown @lex what@.}
-{10401}{}{You've thrown @lex what@ and missed.}
+{10400}{}{Hodil jsi @lex what@.}
+{10401}{}{Hodil jsi @lex what@ a minul.}
 
 #
 # Production, pt. 2
 #
 
 # rotgut still
-{10500}{}{You need to put some fruits into the still.}
-{10501}{}{You've put the fruits in the still.}
-{10502}{}{You need to prepare some firewood to boil the ingredients.}
-{10503}{}{You've tossed some wood.}
-{10504}{}{You've started the process.}
-{10505}{}{The machine is still working.}
+{10500}{}{Musíš do destilačního přístroje vložit nějaké ovoce.}
+{10501}{}{Vložil jsi do destilačního přístroje ovoce.}
+{10502}{}{Abys dostal suroviny do varu, musíš přiložit nějaké dřevo.}
+{10503}{}{Hodil jsi do ohně trochu dřeva.}
+{10504}{}{Zahajuješ destilaci.}
+{10505}{}{Přístroj pracuje.}
 {10506}{}{|0xFF00FF **Puff**}
 {10506}{}{|0xFF00FF **Sss**}
 # beer
-{10600}{}{You need to put some barley into the still.}
-{10601}{}{You've put some barley in the still.}
-{10602}{}{You need to add water to the ingredients.}
-{10603}{}{You've added some water.}
-{10604}{}{You've started the brewing process.}
-{10605}{}{The machine is still working.}
+{10600}{}{Musíš do destilačního přístroje přidat nějaké ječmen.}
+{10601}{}{Vložil jsi ječmen do destilačního přístroje .}
+{10602}{}{Musíš suroviny zalít vodou.}
+{10603}{}{Přilil jsi vodu.}
+{10604}{}{Začínáš vařit pivo.}
+{10605}{}{Přístroj ještě pracuje.}
 {10606}{}{|0xFF00FF **Puff**}
 {10606}{}{|0xFF00FF **Sss**}
 {10606}{}{|0xFF00FF **Bubbles**}
 # nukacola
-{10700}{}{You need to put some fruits into the machine.}
-{10701}{}{You've put the fruits in the machine.}
-{10702}{}{The process require some water.}
-{10703}{}{You've added some water.}
-{10704}{}{The machine started to work.}
-{10705}{}{The machine is still working.}
+{10700}{}{Musíš do stroje vložit nějaké ovoce.}
+{10701}{}{Vložil jsi ovoce do stroje.}
+{10702}{}{Proces výroby potřebuje vodu.}
+{10703}{}{Přilil jsi trochu vody.}
+{10704}{}{Stroj začal pracovat.}
+{10705}{}{Stroj ještě pracuje.}
 {10706}{}{|0xFF00FF **Beep**}
 {10706}{}{|0xFF00FF **Rrrr**}
 # cigs
-{10800}{}{You need to put some leaves into the bench.}
-{10801}{}{You've put the leaves.}
-{10804}{}{You've started preparing tobacco leaves for cigarettes.}
-{10805}{}{The machine is still working.}
+{10800}{}{Potřebuješ na lavici vložit nějaké listy.}
+{10801}{}{Vložil jsi listy.}
+{10804}{}{Nasekal jsi tabákové listy na potřebnou velikost pro ubalení cigaret.}
+{10805}{}{Stroj ještě pracuje.}
 {10806}{}{}
 # hq fibers
-{10900}{}{You've started refining process.}
-{10901}{}{The machine is still working.}
+{10900}{}{Začal jsi s rafinací.}
+{10901}{}{Přístroj ještě pracuje.}
 {10902}{}{**Rrrrr**}
-{10910}{}{You need to put some fiber to refine.}
-{10911}{}{You've placed the fiber in the machine.}
+{10910}{}{Pro rafinaci musíš vložit nějaká vlákna.}
+{10911}{}{Vložil jsi vlákna do stroje.}
 {12000}{}{Reserved}
 
 # Achievements
 # 20000-22549
 # 20000 + (id*10)    title
 # 20000 + (id*10)+1  description
-{20000}{}{Man of Steel}
-{20001}{}{Slaying every enemy, hiding behind friends back or throwing rocks from safe distance -- you know all ways to survive in harsh wasteland, without visiting a hospital.\nTruly hero you are... or stinking coward.}
+{20000}{}{Muž ze železa}
+{20001}{}{Sejmout každého nepřítele zatímco stojíš za zády přátel nebo házením kamenů z bezpečné vzdálenosti-- znáš každý trik pro přežití v pustině bez návštěvy nemocnice. \nJsi opravdový hrdina, nebo smrdutý zbabělec.}
 {22540}{}{GM ABUSE}
-{22541}{}{You just executed your first cheat-command.\nRemember... Don't fuck up anything.}
+{22541}{}{You just executed your first cheat-command.\nPamatuj... Hlavně nic neposer.}
 
 # Faction names
 #
