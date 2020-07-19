@@ -46,23 +46,23 @@ lang=engl czec pols span russ
 4 7010 #
 0 7020 @
 9 8000 None 0 #
-15 8010 D _item p PID_BOTTLE_CAPS > 2499 R _item p PID_BIG_BOOK_OF_SCIENCE + 1 R _script dialog@r_RemoveMoney 1 2500 #
+15 8010 D _script dialog@d_havepropermoney 1 2499 R _item p PID_BIG_BOOK_OF_SCIENCE + 1 R _script dialog@r_RemoveMoney 1 2500 #
 16 8020 #
 4 8030 @
 10 9000 None 0 #
-15 9010 D _item p PID_BOTTLE_CAPS > 2499 R _item p PID_DEANS_ELECTRONICS + 1 R _script dialog@r_RemoveMoney 1 2500 #
+15 9010 D _script dialog@d_havepropermoney 1 2499 R _item p PID_DEANS_ELECTRONICS + 1 R _script dialog@r_RemoveMoney 1 2500 #
 16 9020 #
 4 9030 @
 11 10000 None 0 #
-15 10010 D _item p PID_BOTTLE_CAPS > 2999 R _item p PID_FIRST_AID_BOOK + 1 R _script dialog@r_RemoveMoney 1 3000 #
+15 10010 D _script dialog@d_havepropermoney 1 2999 R _item p PID_FIRST_AID_BOOK + 1 R _script dialog@r_RemoveMoney 1 3000 #
 16 10020 #
 4 10030 @
 12 11000 None 0 #
-15 11010 D _item p PID_BOTTLE_CAPS > 2999 R _item p PID_GUNS_AND_BULLETS + 1 R _script dialog@r_RemoveMoney 1 3000 #
+15 11010 D _script dialog@d_havepropermoney 1 2999 R _item p PID_GUNS_AND_BULLETS + 1 R _script dialog@r_RemoveMoney 1 3000 #
 16 11020 #
 4 11030 @
 13 12000 None 0 #
-15 12010 D _item p PID_BOTTLE_CAPS > 2499 R _item p PID_SCOUT_HANDBOOK + 1 R _script dialog@r_RemoveMoney 1 2500 #
+15 12010 D _script dialog@d_havepropermoney 1 2499 R _item p PID_SCOUT_HANDBOOK + 1 R _script dialog@r_RemoveMoney 1 2500 #
 16 12020 #
 4 12030 @
 15 13000 None 0 #
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 16 14000 None 0 #
 0 14010 @
 17 15000 None 0 #
-19 15010 D _item p PID_BOTTLE_CAPS > 499 R _script dialog@r_RemoveMoney 1 500 R _item p PID_HOLODISK + 1 R _script dialog@r_QuestTimeout 1 20 #
+19 15010 D _script dialog@d_havepropermoney 1 499 R _script dialog@r_RemoveMoney 1 500 R _item p PID_HOLODISK + 1 R _script dialog@r_QuestTimeout 1 20 #
 18 15020 @
 18 16000 None 0 #
 4 16010 #
@@ -92,43 +92,43 @@ lang=engl czec pols span russ
 23 21000 None 0 #
 0 21010 R _item p PID_DEANS_ELECTRONICS + 1 R _var p q_la_library_book = 2 @
 24 22000 None 0 #
-15 22010 D _item p PID_BOTTLE_CAPS > 2499 R _item p PID_BARTER_BOOK + 1 R _script dialog@r_RemoveMoney 1 2500 #
+15 22010 D _script dialog@d_havepropermoney 1 2499 R _item p PID_BARTER_BOOK + 1 R _script dialog@r_RemoveMoney 1 2500 #
 16 22020 #
 4 22030 @
 25 23000 None 0 #
-15 23010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_BG_BOOK + 1 #
+15 23010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_BG_BOOK + 1 #
 16 23020 #
 4 23030 @
 26 24000 None 0 #
-15 24010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_DOCTOR_BOOK + 1 #
+15 24010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_DOCTOR_BOOK + 1 #
 16 24020 #
 4 24030 @
 27 25000 None 0 #
-15 25010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_EW_BOOK + 1 #
+15 25010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_EW_BOOK + 1 #
 16 25020 #
 4 25030 @
 28 26000 None 0 #
-15 26010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_SNEAK_BOOK + 1 #
+15 26010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_SNEAK_BOOK + 1 #
 16 26020 #
 4 26030 @
 29 27000 None 0 #
-15 27010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_STEAL_BOOK + 1 #
+15 27010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_STEAL_BOOK + 1 #
 16 27020 #
 4 27030 @
 30 28000 None 0 #
-15 28010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_LOCKPICK_BOOK + 1 #
+15 28010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_LOCKPICK_BOOK + 1 #
 16 28020 #
 4 28030 @
 31 29000 None 0 #
-15 29010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_THROWING_BOOK + 1 #
+15 29010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_THROWING_BOOK + 1 #
 16 29020 #
 4 29030 @
 32 30000 None 0 #
-15 30010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_TRAPS_BOOK + 1 #
+15 30010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_TRAPS_BOOK + 1 #
 16 30020 #
 4 30030 @
 33 31000 None 0 #
-15 31010 D _item p PID_BOTTLE_CAPS > 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_CLOSE_COMBAT_BOOK + 1 #
+15 31010 D _script dialog@d_havepropermoney 1 4999 R _script dialog@r_RemoveMoney 1 5000 R _item p PID_CLOSE_COMBAT_BOOK + 1 #
 16 31020 #
 4 31030 &
 

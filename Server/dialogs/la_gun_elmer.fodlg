@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 81 8010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckEnergyExpert0 1 0 #
 0 8020 @
 81 9000 None 0 #
-82 9010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_DEANS_ELECTRONICS + 1 R _param p PE_PROFESSION_ENERGY_EXPERT = 1 R _script dialog@r_RemoveMoney 1 1500 #
+82 9010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_DEANS_ELECTRONICS + 1 R _param p PE_PROFESSION_ENERGY_EXPERT = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 9020 @
 82 10000 None 0 #
 0 10010 @

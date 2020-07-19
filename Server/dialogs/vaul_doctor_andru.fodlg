@@ -63,8 +63,8 @@ lang=engl czec pols span russ
 30 13060 #
 0 13070 @
 30 14000 None 0 #
-31 14010 D _item p PID_BOTTLE_CAPS > 999 R _item p PID_FIRST_AID_KIT + 1 R _script dialog@r_RemoveMoney 1 1000 #
-31 14020 D _item p PID_BOTTLE_CAPS > 1999 R _item p PID_FIELD_MEDIC_KIT + 1 R _script dialog@r_RemoveMoney 1 2000 #
+31 14010 D _script dialog@d_havepropermoney 1 999 R _item p PID_FIRST_AID_KIT + 1 R _script dialog@r_RemoveMoney 1 1000 #
+31 14020 D _script dialog@d_havepropermoney 1 1999 R _item p PID_FIELD_MEDIC_KIT + 1 R _script dialog@r_RemoveMoney 1 2000 #
 0 14030 @
 31 15000 None 0 #
 0 15010 @
@@ -81,8 +81,8 @@ lang=engl czec pols span russ
 81 19020 D _script dialog@d_CheckDoctor1 1 0 #
 0 19030 @
 81 20000 None 0 #
-82 20010 D _script dialog@d_CheckDoctor0 1 1 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_FIRST_AID_BOOK + 1 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DOCTOR = 1 #
-83 20020 D _script dialog@d_CheckDoctor1 1 1 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DOCTOR = 2 #
+82 20010 D _script dialog@d_CheckDoctor0 1 1 D _script dialog@d_havepropermoney 1 1499 R _item p PID_FIRST_AID_BOOK + 1 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DOCTOR = 1 #
+83 20020 D _script dialog@d_CheckDoctor1 1 1 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DOCTOR = 2 #
 0 20030 @
 82 21000 None 0 #
 0 21010 @

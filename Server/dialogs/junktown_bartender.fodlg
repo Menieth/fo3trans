@@ -31,15 +31,15 @@ lang=engl czec pols span russ
 3 7010 #
 0 7020 @
 11 8000 None 0 #
-14 8010 D _item p PID_BOTTLE_CAPS > 1 D _var p bar_drink = 0 R _var p bar_drink = 1 R _script dialog@r_RemoveMoney 1 2 #
-17 8020 D _var p bar_drink = 1 D _item p PID_BOTTLE_CAPS > 1 R _script dialog@r_RemoveMoney 1 2 #
+14 8010 D _script dialog@d_havepropermoney 1 1 D _var p bar_drink = 0 R _var p bar_drink = 1 R _script dialog@r_RemoveMoney 1 2 #
+17 8020 D _var p bar_drink = 1 D _script dialog@d_havepropermoney 1 1 R _script dialog@r_RemoveMoney 1 2 #
 0 8030 D _var p bar_drink = 2 #
 0 8040 @
 12 9000 None 0 #
-15 9010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+15 9010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
 0 9020 @
 13 10000 None 0 #
-16 10010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
+16 10010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
 0 10020 @
 14 11000 None 0 #
 11 11010 #

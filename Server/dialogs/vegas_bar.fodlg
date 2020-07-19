@@ -1,0 +1,26 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 D _item p PID_DOLLAR } 1 #
+3 1020 D _item p PID_DOLLAR = 0 @
+2 2000 None 0 #
+65506 2010 #
+0 2020 @
+3 3000 None 0 &
+
+[engl]
+{100}{}{Barman}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{2000}{}{Welcome to our DELUX Bar. How may I assist you?}
+{2010}{}{Show me what you have.}
+{2020}{}{Later maybe.}
+{3000}{}{Sorry, sir, but we trade only with golden dollars. Caps and other currencies are not allowed here. We are not very much interested in barter either.}
+

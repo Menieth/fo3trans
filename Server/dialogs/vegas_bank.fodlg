@@ -21,10 +21,10 @@ lang=engl czec pols span russ
 5 4010 #
 2 4020 @
 5 5000 None 0 #
-5 5010 D _item p PID_BOTTLE_CAPS } 1100 R _item p PID_BOTTLE_CAPS - 1100 R _item p PID_DOLLAR + 1 #
-5 5020 D _item p PID_BOTTLE_CAPS } 5500 R _item p PID_BOTTLE_CAPS - 5500 R _item p PID_DOLLAR + 5 #
-5 5030 D _item p PID_BOTTLE_CAPS } 11000 R _item p PID_BOTTLE_CAPS - 11000 R _item p PID_DOLLAR + 10 #
-5 5040 D _item p PID_BOTTLE_CAPS } 55000 R _item p PID_BOTTLE_CAPS - 55000 R _item p PID_DOLLAR + 50 #
+5 5010 D _item p PID_BOTTLE_CAPS } 1100 R _script dialog@r_RemoveMoney 1 1100 R _item p PID_DOLLAR + 1 #
+5 5020 D _item p PID_BOTTLE_CAPS } 5500 R _script dialog@r_RemoveMoney 1 5500 R _item p PID_DOLLAR + 5 #
+5 5030 D _item p PID_BOTTLE_CAPS } 11000 R _script dialog@r_RemoveMoney 1 11000 R _item p PID_DOLLAR + 10 #
+5 5040 D _item p PID_BOTTLE_CAPS } 55000 R _script dialog@r_RemoveMoney 1 55000 R _item p PID_DOLLAR + 50 #
 0 5050 &
 
 [engl]

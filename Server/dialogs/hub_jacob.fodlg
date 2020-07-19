@@ -36,10 +36,10 @@ lang=engl czec pols span russ
 82 6020 D _script dialog@d_CheckGunsmithB1 1 0 #
 0 6030 @
 81 7000 None 0 #
-83 7010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
+83 7010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 7020 @
 82 8000 None 0 #
-84 8010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_GUNSMITH_B = 2 R _script dialog@r_RemoveMoney 1 3000 #
+84 8010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_B = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 8020 @
 83 9000 None 0 #
 0 9010 @

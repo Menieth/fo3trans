@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 11 13000 None 0 #
 0 13010 @
 12 14000 dialog@dlg_SayBuyLighter 0 #
-0 14010 D _item p PID_BOTTLE_CAPS > 99 R _item p PID_LIGHTER + 1 R _script dialog@r_RemoveMoney 1 100 #
+0 14010 D _script dialog@d_havepropermoney 1 99 R _item p PID_LIGHTER + 1 R _script dialog@r_RemoveMoney 1 100 #
 0 14020 @
 20 15000 None 0 #
 0 15010 &

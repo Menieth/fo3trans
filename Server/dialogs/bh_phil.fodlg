@@ -50,10 +50,10 @@ lang=engl czec pols span russ
 10 10000 None 0 #
 0 10010 @
 11 11000 None 0 #
-11 11010 D _item p PID_BOTTLE_CAPS > 10 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 11 #
+11 11010 D _script dialog@d_havepropermoney 1 10 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 11 #
 0 11020 @
 13 12000 None 0 #
-2 12010 D _item p PID_BOTTLE_CAPS > 99 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 #
+2 12010 D _script dialog@d_havepropermoney 1 99 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 #
 0 12020 @
 15 13000 None 0 #
 9 13010 #
@@ -62,14 +62,14 @@ lang=engl czec pols span russ
 9 14010 #
 0 14020 @
 17 15000 dialog@dlg_SayBuyNuka 0 #
-21 15010 D _item p PID_BOTTLE_CAPS > 99 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 #
-24 15020 D _item p PID_BOTTLE_CAPS > 100 R _var p loyality + 1 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 101 #
-25 15030 D _item p PID_BOTTLE_CAPS > 101 R _var p loyality + 2 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 102 #
+21 15010 D _script dialog@d_havepropermoney 1 99 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 #
+24 15020 D _script dialog@d_havepropermoney 1 100 R _var p loyality + 1 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 101 #
+25 15030 D _script dialog@d_havepropermoney 1 101 R _var p loyality + 2 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 102 #
 20 15040 @
 18 16000 dialog@dlg_SayBuyBeer 0 #
-21 16010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
-24 16020 D _item p PID_BOTTLE_CAPS > 10 R _var p loyality + 1 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 11 #
-25 16030 D _item p PID_BOTTLE_CAPS > 11 R _var p loyality + 2 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 12 #
+21 16010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+24 16020 D _script dialog@d_havepropermoney 1 10 R _var p loyality + 1 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 11 #
+25 16030 D _script dialog@d_havepropermoney 1 11 R _var p loyality + 2 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 12 #
 20 16040 @
 20 17000 None 0 #
 0 17010 @

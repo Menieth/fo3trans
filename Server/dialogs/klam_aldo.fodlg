@@ -18,7 +18,7 @@ lang=engl czec pols span russ
 26 2040 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
 3 3000 None 0 #
 8 3010 #
-6 3020 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
+6 3020 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
 8 3030 #
 23 3040 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 3050 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
@@ -44,12 +44,12 @@ lang=engl czec pols span russ
 15 9010 #
 7 9020 @
 12 10000 None 0 #
-6 10010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
+6 10010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
 16 10020 #
 23 10030 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 10040 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
 13 11000 None 0 #
-6 11010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 R _var p loyality = 10 #
+6 11010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 R _var p loyality = 10 #
 16 11020 #
 23 11030 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 11040 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 14 17020 @
 20 18000 None 0 #
 14 18010 #
-21 18020 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 @
+21 18020 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 @
 21 19000 None 0 @
 22 20000 None 0 @
 23 21000 None 0 #

@@ -14,7 +14,7 @@ lang=engl czec pols span russ
 3 2010 #
 0 2020 @
 3 3000 None 0 #
-4 3010 D _item p PID_BOTTLE_CAPS > 59 R _script dialog@r_RemoveMoney 1 60 #
+4 3010 D _script dialog@d_havepropermoney 1 59 R _script dialog@r_RemoveMoney 1 60 #
 0 3020 #
 0 3030 @
 4 4000 None 0 #
@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 9 6020 #
 0 6030 @
 7 7000 None 0 #
-8 7010 D _item p PID_BOTTLE_CAPS > 199 R _script dialog@r_RemoveMoney 1 200 #
+8 7010 D _script dialog@d_havepropermoney 1 199 R _script dialog@r_RemoveMoney 1 200 #
 0 7020 @
 8 8000 None 0 #
 10 8010 #
@@ -38,14 +38,14 @@ lang=engl czec pols span russ
 0 10010 @
 12 11000 None 0 #
 13 11010 #
-20 11020 D _item p PID_BOTTLE_CAPS > 59 R _script dialog@r_RemoveMoney 1 60 #
+20 11020 D _script dialog@d_havepropermoney 1 59 R _script dialog@r_RemoveMoney 1 60 #
 0 11030 #
 0 11040 @
 13 12000 None 0 #
 14 12010 #
 0 12020 @
 14 13000 None 0 #
-8 13010 D _item p PID_BOTTLE_CAPS > 149 R _script dialog@r_RemoveMoney 1 150 #
+8 13010 D _script dialog@d_havepropermoney 1 149 R _script dialog@r_RemoveMoney 1 150 #
 0 13020 @
 15 14000 None 0 @
 20 15000 None 0 #

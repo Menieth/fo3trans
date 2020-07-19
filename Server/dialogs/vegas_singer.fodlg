@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 4 4000 None 0 #
 7 4010 #
 8 4020 #
-5 4030 D _item p PID_BOTTLE_CAPS > 99 R _script dialog@r_RemoveMoney 1 100 R _item p PID_IGUANA_ON_A_STICK + 1 #
+5 4030 D _script dialog@d_havepropermoney 1 99 R _script dialog@r_RemoveMoney 1 100 R _item p PID_IGUANA_ON_A_STICK + 1 #
 0 4040 @
 5 5000 None 0 #
 0 5010 #
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 0 7020 @
 8 8000 None 0 #
 0 8010 #
-4 8020 D _item p PID_BOTTLE_CAPS > 99 @
+4 8020 D _script dialog@d_havepropermoney 1 99 @
 9 9000 None 0 #
 0 9010 #
 0 9020 #

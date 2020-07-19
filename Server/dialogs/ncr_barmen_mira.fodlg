@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 12 6020 #
 11 6030 @
 7 7000 dialog@dlg_SayBuyBeer 0 #
-6 7010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+6 7010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
 8 7020 #
 5 7030 #
 0 7040 @

@@ -53,8 +53,8 @@ lang=engl czec pols span russ
 12 12000 None 0 #
 0 12010 @
 15 13000 None 0 #
-3 13010 D _item p PID_BOTTLE_CAPS > 9999 D _script dialog@d_NotMemberOfAnyFaction 0  #
-40 13020 D _item p PID_BOTTLE_CAPS > 9999 D _script dialog@d_IsMemberOfSomeFaction 0  #
+3 13010 D _script dialog@d_havepropermoney 1 9999 D _script dialog@d_NotMemberOfAnyFaction 0  #
+40 13020 D _script dialog@d_havepropermoney 1 9999 D _script dialog@d_IsMemberOfSomeFaction 0  #
 7 13030 @
 30 14000 None 0 #
 0 14010 #

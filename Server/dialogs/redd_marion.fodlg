@@ -30,9 +30,9 @@ lang=engl czec pols span russ
 101 4010 R _script bounties@r_PlayerChosen 1 100 #
 0 4020 @
 101 5000 None 0 #
-102 5010 D _item p PID_BOTTLE_CAPS > 999 R _script bounties@r_SetBounty 1 1000 R _script dialog@r_RemoveMoney 1 1000 #
-102 5020 D _item p PID_BOTTLE_CAPS > 4999 R _script bounties@r_SetBounty 1 5000 R _script dialog@r_RemoveMoney 1 5000 #
-102 5030 D _item p PID_BOTTLE_CAPS > 9999 R _script bounties@r_SetBounty 1 10000 R _script dialog@r_RemoveMoney 1 10000 #
+102 5010 D _script dialog@d_havepropermoney 1 999 R _script bounties@r_SetBounty 1 1000 R _script dialog@r_RemoveMoney 1 1000 #
+102 5020 D _script dialog@d_havepropermoney 1 4999 R _script bounties@r_SetBounty 1 5000 R _script dialog@r_RemoveMoney 1 5000 #
+102 5030 D _script dialog@d_havepropermoney 1 9999 R _script bounties@r_SetBounty 1 10000 R _script dialog@r_RemoveMoney 1 10000 #
 0 5040 @
 102 6000 None 0 #
 0 6010 @

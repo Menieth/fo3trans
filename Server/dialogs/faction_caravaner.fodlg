@@ -16,8 +16,8 @@ lang=engl czec pols span russ
 5 2040 @
 100 3000 None 0 @
 5 4000 None 0 #
-0 4010 D _item p PID_BOTTLE_CAPS } 200000 D _item p PID_FIREWOOD } 500 R _item p PID_BOTTLE_CAPS - 200000 R _item p PID_FIREWOOD - 500 R _script factions_terminal@r_recruit 3 1 0 10 #
-0 4020 D _item p PID_BOTTLE_CAPS } 150000 R _item p PID_BOTTLE_CAPS - 150000 R _script factions_terminal@r_recruit 3 2 0 20 @
+0 4010 D _item p PID_BOTTLE_CAPS } 200000 D _item p PID_FIREWOOD } 500 R _script dialog@r_RemoveMoney 1 200000 R _item p PID_FIREWOOD - 500 R _script factions_terminal@r_recruit 3 1 0 10 #
+0 4020 D _item p PID_BOTTLE_CAPS } 150000 R _script dialog@r_RemoveMoney 1 150000 R _script factions_terminal@r_recruit 3 2 0 20 @
 6 5000 None 0 #
 7 5010 #
 8 5020 #
@@ -25,34 +25,34 @@ lang=engl czec pols span russ
 10 5040 #
 11 5050 @
 7 6000 None 0 #
-12 6010 D _item p PID_BOTTLE_CAPS } 100000 R _script factions_terminal@r_recruit 3 3 12 5 R _item p PID_BOTTLE_CAPS - 100000 #
-12 6020 D _item p PID_BOTTLE_CAPS } 150000 R _script factions_terminal@r_recruit 3 3 12 15 R _item p PID_BOTTLE_CAPS - 150000 #
-12 6030 D _item p PID_BOTTLE_CAPS } 250000 R _script factions_terminal@r_recruit 3 3 12 30 R _item p PID_BOTTLE_CAPS - 250000 #
-12 6040 D _item p PID_BOTTLE_CAPS } 500000 R _script factions_terminal@r_recruit 3 3 12 50 R _item p PID_BOTTLE_CAPS - 500000 #
+12 6010 D _item p PID_BOTTLE_CAPS } 100000 R _script factions_terminal@r_recruit 3 3 12 5 R _script dialog@r_RemoveMoney 1 100000 #
+12 6020 D _item p PID_BOTTLE_CAPS } 150000 R _script factions_terminal@r_recruit 3 3 12 15 R _script dialog@r_RemoveMoney 1 150000 #
+12 6030 D _item p PID_BOTTLE_CAPS } 250000 R _script factions_terminal@r_recruit 3 3 12 30 R _script dialog@r_RemoveMoney 1 250000 #
+12 6040 D _item p PID_BOTTLE_CAPS } 500000 R _script factions_terminal@r_recruit 3 3 12 50 R _script dialog@r_RemoveMoney 1 500000 #
 6 6050 @
 8 7000 None 0 #
-12 7010 D _item p PID_BOTTLE_CAPS } 125000 R _script factions_terminal@r_recruit 3 3 14 5 R _item p PID_BOTTLE_CAPS - 125000 #
-12 7020 D _item p PID_BOTTLE_CAPS } 175000 R _script factions_terminal@r_recruit 3 3 14 15 R _item p PID_BOTTLE_CAPS - 175000 #
-12 7030 D _item p PID_BOTTLE_CAPS } 275000 R _script factions_terminal@r_recruit 3 3 14 30 R _item p PID_BOTTLE_CAPS - 275000 #
-12 7040 D _item p PID_BOTTLE_CAPS } 525000 R _script factions_terminal@r_recruit 3 3 14 50 R _item p PID_BOTTLE_CAPS - 525000 #
+12 7010 D _item p PID_BOTTLE_CAPS } 125000 R _script factions_terminal@r_recruit 3 3 14 5 R _script dialog@r_RemoveMoney 1 125000 #
+12 7020 D _item p PID_BOTTLE_CAPS } 175000 R _script factions_terminal@r_recruit 3 3 14 15 R _script dialog@r_RemoveMoney 1 175000 #
+12 7030 D _item p PID_BOTTLE_CAPS } 275000 R _script factions_terminal@r_recruit 3 3 14 30 R _script dialog@r_RemoveMoney 1 275000 #
+12 7040 D _item p PID_BOTTLE_CAPS } 525000 R _script factions_terminal@r_recruit 3 3 14 50 R _script dialog@r_RemoveMoney 1 525000 #
 6 7050 @
 9 8000 None 0 #
-12 8010 D _item p PID_BOTTLE_CAPS } 150000 R _script factions_terminal@r_recruit 3 3 140 5 R _item p PID_BOTTLE_CAPS - 150000 #
-12 8020 D _item p PID_BOTTLE_CAPS } 200000 R _script factions_terminal@r_recruit 3 3 140 15 R _item p PID_BOTTLE_CAPS - 200000 #
-12 8030 D _item p PID_BOTTLE_CAPS } 300000 R _script factions_terminal@r_recruit 3 3 140 30 R _item p PID_BOTTLE_CAPS - 300000 #
-12 8040 D _item p PID_BOTTLE_CAPS } 550000 R _script factions_terminal@r_recruit 3 3 140 50 R _item p PID_BOTTLE_CAPS - 550000 #
+12 8010 D _item p PID_BOTTLE_CAPS } 150000 R _script factions_terminal@r_recruit 3 3 140 5 R _script dialog@r_RemoveMoney 1 150000 #
+12 8020 D _item p PID_BOTTLE_CAPS } 200000 R _script factions_terminal@r_recruit 3 3 140 15 R _script dialog@r_RemoveMoney 1 200000 #
+12 8030 D _item p PID_BOTTLE_CAPS } 300000 R _script factions_terminal@r_recruit 3 3 140 30 R _script dialog@r_RemoveMoney 1 300000 #
+12 8040 D _item p PID_BOTTLE_CAPS } 550000 R _script factions_terminal@r_recruit 3 3 140 50 R _script dialog@r_RemoveMoney 1 550000 #
 6 8050 @
 10 9000 None 0 #
-12 9010 D _item p PID_BOTTLE_CAPS } 600000 R _script factions_terminal@r_recruit 3 3 1 5 R _item p PID_BOTTLE_CAPS - 600000 #
-12 9020 D _item p PID_BOTTLE_CAPS } 650000 R _script factions_terminal@r_recruit 3 3 1 15 R _item p PID_BOTTLE_CAPS - 650000 #
-12 9030 D _item p PID_BOTTLE_CAPS } 750000 R _script factions_terminal@r_recruit 3 3 1 30 R _item p PID_BOTTLE_CAPS - 750000 #
-12 9040 D _item p PID_BOTTLE_CAPS } 1000000 R _script factions_terminal@r_recruit 3 3 1 50 R _item p PID_BOTTLE_CAPS - 1000000 #
+12 9010 D _item p PID_BOTTLE_CAPS } 600000 R _script factions_terminal@r_recruit 3 3 1 5 R _script dialog@r_RemoveMoney 1 600000 #
+12 9020 D _item p PID_BOTTLE_CAPS } 650000 R _script factions_terminal@r_recruit 3 3 1 15 R _script dialog@r_RemoveMoney 1 650000 #
+12 9030 D _item p PID_BOTTLE_CAPS } 750000 R _script factions_terminal@r_recruit 3 3 1 30 R _script dialog@r_RemoveMoney 1 750000 #
+12 9040 D _item p PID_BOTTLE_CAPS } 1000000 R _script factions_terminal@r_recruit 3 3 1 50 R _script dialog@r_RemoveMoney 1 1000000 #
 6 9050 @
 11 10000 None 0 #
-12 10010 D _item p PID_BOTTLE_CAPS } 1100000 R _script factions_terminal@r_recruit 3 3 71 5 R _item p PID_BOTTLE_CAPS - 1100000 #
-12 10020 D _item p PID_BOTTLE_CAPS } 1150000 R _script factions_terminal@r_recruit 3 3 71 15 R _item p PID_BOTTLE_CAPS - 1150000 #
-12 10030 D _item p PID_BOTTLE_CAPS } 1250000 R _script factions_terminal@r_recruit 3 3 71 30 R _item p PID_BOTTLE_CAPS - 1250000 #
-12 10040 R _script factions_terminal@r_recruit 3 3 71 50 R _script factions_terminal@r_recruit 3 3 71 50 R _item p PID_BOTTLE_CAPS - 1500000 #
+12 10010 D _item p PID_BOTTLE_CAPS } 1100000 R _script factions_terminal@r_recruit 3 3 71 5 R _script dialog@r_RemoveMoney 1 1100000 #
+12 10020 D _item p PID_BOTTLE_CAPS } 1150000 R _script factions_terminal@r_recruit 3 3 71 15 R _script dialog@r_RemoveMoney 1 1150000 #
+12 10030 D _item p PID_BOTTLE_CAPS } 1250000 R _script factions_terminal@r_recruit 3 3 71 30 R _script dialog@r_RemoveMoney 1 1250000 #
+12 10040 R _script factions_terminal@r_recruit 3 3 71 50 R _script factions_terminal@r_recruit 3 3 71 50 R _script dialog@r_RemoveMoney 1 1500000 #
 6 10050 @
 12 11000 None 0 @
 200 12000 None 0 #

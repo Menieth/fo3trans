@@ -46,10 +46,10 @@ lang=engl czec pols span russ
 9 8020 #
 0 8030 @
 9 9000 None 0 #
-10 9010 D _item p PID_BOTTLE_CAPS > 24 D _param p SK_BARTER > 99 R _script dialog@r_RemoveMoney 1 25 #
-10 9020 D _param p SK_BARTER > 74 D _item p PID_BOTTLE_CAPS > 49 R _script dialog@r_RemoveMoney 1 50 #
-10 9030 D _param p SK_BARTER > 30 D _item p PID_BOTTLE_CAPS > 74 R _script dialog@r_RemoveMoney 1 75 #
-10 9040 D _item p PID_BOTTLE_CAPS > 99 R _script dialog@r_RemoveMoney 1 100 #
+10 9010 D _script dialog@d_havepropermoney 1 24 D _param p SK_BARTER > 99 R _script dialog@r_RemoveMoney 1 25 #
+10 9020 D _param p SK_BARTER > 74 D _script dialog@d_havepropermoney 1 49 R _script dialog@r_RemoveMoney 1 50 #
+10 9030 D _param p SK_BARTER > 30 D _script dialog@d_havepropermoney 1 74 R _script dialog@r_RemoveMoney 1 75 #
+10 9040 D _script dialog@d_havepropermoney 1 99 R _script dialog@r_RemoveMoney 1 100 #
 4 9050 #
 0 9060 #
 0 9070 @
@@ -199,16 +199,16 @@ lang=engl czec pols span russ
 58 58000 None 0 #
 0 58010 R _var p q_mordinos_induction_doctor + 50 R _var n acquaintance = 1 @
 60 59000 None 0 #
-61 59010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_HYPODERMIC_NEEDLE + 1 R _script dialog@r_RemoveMoney 1 10 #
-62 59020 D _item p PID_BOTTLE_CAPS > 179 R _item p PID_HYPODERMIC_NEEDLE + 20 R _script dialog@r_RemoveMoney 1 180 #
+61 59010 D _script dialog@d_havepropermoney 1 9 R _item p PID_HYPODERMIC_NEEDLE + 1 R _script dialog@r_RemoveMoney 1 10 #
+62 59020 D _script dialog@d_havepropermoney 1 179 R _item p PID_HYPODERMIC_NEEDLE + 20 R _script dialog@r_RemoveMoney 1 180 #
 0 59030 @
 61 60000 None 0 #
 0 60010 @
 62 61000 None 0 #
 0 61010 @
 70 62000 None 0 #
-71 62010 D _item p PID_BOTTLE_CAPS > 19 R _item p PID_EMPTY_JET + 1 R _script dialog@r_RemoveMoney 1 20 #
-72 62020 D _item p PID_BOTTLE_CAPS > 359 R _item p PID_EMPTY_JET + 20 R _script dialog@r_RemoveMoney 1 360 #
+71 62010 D _script dialog@d_havepropermoney 1 19 R _item p PID_EMPTY_JET + 1 R _script dialog@r_RemoveMoney 1 20 #
+72 62020 D _script dialog@d_havepropermoney 1 359 R _item p PID_EMPTY_JET + 20 R _script dialog@r_RemoveMoney 1 360 #
 0 62030 @
 71 63000 None 0 #
 0 63010 @

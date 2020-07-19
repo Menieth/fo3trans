@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 8 4030 #
 22 4040 D _var p q_klam_bob_thehole = 0 @
 5 5000 None 0 #
-7 5010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 #
+7 5010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
 8 5020 #
 9 5030 #
 0 5040 @

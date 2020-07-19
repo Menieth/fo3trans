@@ -46,8 +46,8 @@ lang=engl czec pols span russ
 3 12010 @
 15 13000 None 0 @
 16 14000 None 0 #
-7 14010 D _item p PID_BOTTLE_CAPS } 35 R _item p PID_BOTTLE_CAPS - 35 R _item p PID_STIMPAK + 1 #
-7 14020 D _item p PID_BOTTLE_CAPS } 175 R _item p PID_BOTTLE_CAPS - 175 R _item p PID_STIMPAK + 5 @
+7 14010 D _item p PID_BOTTLE_CAPS } 35 R _script dialog@r_RemoveMoney 1 35 R _item p PID_STIMPAK + 1 #
+7 14020 D _item p PID_BOTTLE_CAPS } 175 R _script dialog@r_RemoveMoney 1 175 R _item p PID_STIMPAK + 5 @
 17 15000 None 0 #
 18 15010 @
 18 16000 None 0 #

@@ -17,7 +17,7 @@ lang=engl czec pols span russ
 10 3010 #
 4 3020 D _var n acquaintance = 0 R _var n acquaintance = 1 #
 500 3030 D _var n acquaintance = 1 D _script perks@d_PerkCheck 1 459 #
-0 3040 D _var n acquaintance = 2 D _item p PID_BOTTLE_CAPS > 49 R _script dialog@r_RemoveMoney 1 50 #
+0 3040 D _var n acquaintance = 2 D _script dialog@d_havepropermoney 1 49 R _script dialog@r_RemoveMoney 1 50 #
 0 3050 D _var n acquaintance = 3 #
 0 3060 D _var n name_mem_npc_player < 3 @
 4 4000 None 0 #

@@ -24,8 +24,8 @@ lang=engl czec pols span russ
 0 2040 #
 15 2050 D _var p mod_q_meat_jerky = 1 D _item p PID_MEAT_BAG > 0 @
 3 3000 dialog@dlg_SayBuyBeer 0 #
-8 3010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
-8 3020 D _item p PID_BOTTLE_CAPS > 29 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 30 #
+8 3010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+8 3020 D _script dialog@d_havepropermoney 1 29 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 30 #
 4 3030 #
 0 3040 @
 4 4000 None 0 #

@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 65 21040 D _script car_seller@d_CanAffordTruck 0  D _item p PID_CAR_FUEL_CELL_CONTROLLER > 0 R _item p PID_CAR_FUEL_CELL_CONTROLLER - 1 R _script car_seller@r_BuyTruck 1 0 R _var p q_cock_fuelcontroller = 2 #
 0 21050 @
 66 22000 None 0 #
-67 22010 D _item p PID_BOTTLE_CAPS > 9999999 R _item p PID_BOTTLE_CAPS - 10000000 R _script map_verti@r_BuyVerti 0  #
+67 22010 D _script dialog@d_havepropermoney 1 9999999 R _script dialog@r_RemoveMoney 1 10000000 R _script map_verti@r_BuyVerti 0  #
 0 22020 #
 65505 22030 @
 67 23000 None 0 &

@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 7 7000 None 0 #
 8 7010 R _var p q_iguana_pete_message = 2 @
 8 8000 None 0 #
-9 8010 D _item p PID_BOTTLE_CAPS > 0 R _script dialog@r_RemoveMoney 1 1 #
+9 8010 D _script dialog@d_havepropermoney 1 0 R _script dialog@r_RemoveMoney 1 1 #
 11 8020 @
 9 9000 None 0 @
 10 10000 None 0 #

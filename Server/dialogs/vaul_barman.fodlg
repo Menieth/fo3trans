@@ -22,17 +22,17 @@ lang=engl czec pols span russ
 0 3050 @
 4 4000 None 0 #
 5 4010 #
-10 4020 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 #
+10 4020 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 13 4030 #
 12 4040 #
 14 4050 #
 0 4060 D _item p PID_BOTTLE_CAPS < 20 #
-0 4070 D _item p PID_BOTTLE_CAPS > 19 @
+0 4070 D _script dialog@d_havepropermoney 1 19 @
 5 5000 None 0 #
 6 5010 #
 13 5020 #
 12 5030 #
-10 5040 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 #
+10 5040 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 14 5050 #
 0 5060 @
 6 6000 None 0 #
@@ -53,22 +53,22 @@ lang=engl czec pols span russ
 0 9020 D _param p SK_SPEECH < 80 @
 10 10000 None 0 #
 12 10010 #
-11 10020 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 #
+11 10020 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 5 10030 #
 14 10040 #
 0 10050 @
 11 11000 None 0 #
-10 11010 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 #
+10 11010 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 14 11020 #
 0 11030 @
 12 12000 None 0 #
-10 12010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 #
-10 12020 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 #
-10 12030 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 #
+10 12010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
+10 12020 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
+10 12030 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
 4 12040 #
 14 12050 #
 0 12060 D _item p PID_BOTTLE_CAPS < 5 #
-0 12070 D _item p PID_BOTTLE_CAPS > 4 @
+0 12070 D _script dialog@d_havepropermoney 1 4 @
 13 13000 None 0 #
 12 13010 #
 4 13020 #

@@ -25,13 +25,13 @@ lang=engl czec pols span russ
 82 5020 D _script dialog@d_CheckEnergyExpert1 1 0 #
 0 5030 @
 81 6000 None 0 #
-84 6010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_DEANS_ELECTRONICS + 1 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_ENERGY_EXPERT = 1 #
+84 6010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_DEANS_ELECTRONICS + 1 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_ENERGY_EXPERT = 1 #
 0 6020 @
 82 7000 None 0 #
-84 7010 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_ENERGY_EXPERT = 2 #
+84 7010 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_ENERGY_EXPERT = 2 #
 0 7020 @
 83 8000 None 0 #
-84 8010 D _item p PID_BOTTLE_CAPS > 4499 R _script dialog@r_RemoveMoney 1 4500 R _param p PE_PROFESSION_ENERGY_EXPERT = 3 #
+84 8010 D _script dialog@d_havepropermoney 1 4499 R _script dialog@r_RemoveMoney 1 4500 R _param p PE_PROFESSION_ENERGY_EXPERT = 3 #
 0 8020 @
 84 9000 None 0 #
 0 9010 &

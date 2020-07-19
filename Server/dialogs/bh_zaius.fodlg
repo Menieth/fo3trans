@@ -72,18 +72,18 @@ lang=engl czec pols span russ
 82 16020 D _script dialog@d_CheckDemolitionExpert1 1 0 #
 0 16030 @
 81 17000 None 0 #
-83 17010 D _item p PID_BOTTLE_CAPS > 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
+83 17010 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
 0 17020 @
 82 18000 None 0 #
-83 18010 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
+83 18010 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
 0 18020 @
 83 19000 None 0 #
 0 19010 @
 200 20000 None 0 @
 60 21000 None 0 #
-61 21010 D _item p PID_BOTTLE_CAPS > 499 R _script dialog@r_RemoveMoney 1 500 R _item p PID_URANIUM_ORE + 1 #
-61 21020 D _item p PID_BOTTLE_CAPS > 2499 R _script dialog@r_RemoveMoney 1 2500 R _item p PID_URANIUM_ORE + 5 #
-61 21030 D _item p PID_BOTTLE_CAPS > 9999 R _script dialog@r_RemoveMoney 1 10000 R _item p PID_URANIUM_ORE + 20 #
+61 21010 D _script dialog@d_havepropermoney 1 499 R _script dialog@r_RemoveMoney 1 500 R _item p PID_URANIUM_ORE + 1 #
+61 21020 D _script dialog@d_havepropermoney 1 2499 R _script dialog@r_RemoveMoney 1 2500 R _item p PID_URANIUM_ORE + 5 #
+61 21030 D _script dialog@d_havepropermoney 1 9999 R _script dialog@r_RemoveMoney 1 10000 R _item p PID_URANIUM_ORE + 20 #
 0 21040 @
 61 22000 None 0 #
 0 22010 &

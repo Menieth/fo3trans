@@ -27,11 +27,11 @@ lang=engl czec pols span russ
 81 6020 D _script dialog@d_CheckDoctor1 1 0 #
 0 6030 @
 81 7000 None 0 #
-83 7010 D _script dialog@d_CheckDoctor0 1 1 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_FIRST_AID_BOOK + 1 R _param p PE_PROFESSION_DOCTOR = 1 R _script dialog@r_RemoveMoney 1 1500 #
-84 7020 D _script dialog@d_CheckDoctor1 1 1 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_DOCTOR = 2 R _script dialog@r_RemoveMoney 1 3000 #
+83 7010 D _script dialog@d_CheckDoctor0 1 1 D _script dialog@d_havepropermoney 1 1499 R _item p PID_FIRST_AID_BOOK + 1 R _param p PE_PROFESSION_DOCTOR = 1 R _script dialog@r_RemoveMoney 1 1500 #
+84 7020 D _script dialog@d_CheckDoctor1 1 1 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_DOCTOR = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 7030 @
 82 8000 None 0 #
-85 8010 D _item p PID_BOTTLE_CAPS > 4499 R _param p PE_PROFESSION_DOCTOR = 3 R _script dialog@r_RemoveMoney 1 4500 #
+85 8010 D _script dialog@d_havepropermoney 1 4499 R _param p PE_PROFESSION_DOCTOR = 3 R _script dialog@r_RemoveMoney 1 4500 #
 0 8020 @
 83 9000 None 0 #
 0 9010 @

@@ -52,10 +52,10 @@ lang=engl czec pols span russ
 0 13020 @
 16 14000 None 0 #
 20 14010 #
-20 14020 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 @
+20 14020 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 @
 17 15000 None 0 #
 20 15010 #
-20 15020 D _item p PID_BOTTLE_CAPS > 199 R _item n PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 200 @
+20 15020 D _script dialog@d_havepropermoney 1 199 R _item n PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 200 @
 18 16000 None 0 #
 9 16010 @
 19 17000 None 0 @

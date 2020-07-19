@@ -18,9 +18,9 @@ lang=engl czec pols span russ
 12 2050 D _var p cath_job_flowers > 0 D _var p cath_job_flowers < 13 #
 0 2060 @
 4 3000 None 0 #
-5 3010 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_LHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_LHD_JUMPSUIT #
-5 3020 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_MALE_DEFAULT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_MALE_DEFAULT #
-5 3030 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_BHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_BHD_JUMPSUIT #
+5 3010 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_LHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_LHD_JUMPSUIT #
+5 3020 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_MALE_DEFAULT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_MALE_DEFAULT #
+5 3030 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_BHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_BHD_JUMPSUIT #
 6 3040 D _item p PID_BOTTLE_CAPS < 50 #
 0 3050 @
 5 4000 None 0 #

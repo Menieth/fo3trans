@@ -12,8 +12,8 @@ lang=engl czec pols span russ
 7 2010 #
 0 2020 @
 7 3000 None 0 #
-8 3010 D _item p PID_COMBAT_ARMOR } 1 D _item p PID_BOTTLE_CAPS } 550 R _item p PID_BOTTLE_CAPS - 550 R _item p PID_COMBAT_ARMOR - 1 R _item p PID_NCR_ARMOR + 1 #
-8 3020 D _item p PID_COMBAT_HELMET } 1 D _item p PID_BOTTLE_CAPS } 350 R _item p PID_BOTTLE_CAPS - 350 R _item p PID_COMBAT_HELMET - 1 R _item p PID_NCR_HELMET + 1 #
+8 3010 D _item p PID_COMBAT_ARMOR } 1 D _item p PID_BOTTLE_CAPS } 550 R _script dialog@r_RemoveMoney 1 550 R _item p PID_COMBAT_ARMOR - 1 R _item p PID_NCR_ARMOR + 1 #
+8 3020 D _item p PID_COMBAT_HELMET } 1 D _item p PID_BOTTLE_CAPS } 350 R _script dialog@r_RemoveMoney 1 350 R _item p PID_COMBAT_HELMET - 1 R _item p PID_NCR_HELMET + 1 #
 0 3030 @
 8 4000 None 0 &
 

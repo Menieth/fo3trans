@@ -29,14 +29,14 @@ lang=engl czec pols span russ
 0 7040 #
 13 7050 D _var p q_rockside_francis2 = 2 @
 8 8000 None 0 #
-6 8010 D _item p PID_BOTTLE_CAPS } 10 R _item p PID_BOTTLE_CAPS - 10 R _item p PID_9MM_AMMO + 10 #
-6 8020 D _item p PID_BOTTLE_CAPS } 20 R _item p PID_BOTTLE_CAPS - 20 R _item p PID_9MM_AMMO + 20 #
-6 8030 D _item p PID_BOTTLE_CAPS } 30 R _item p PID_BOTTLE_CAPS - 30 R _item p PID_9MM_AMMO + 30 #
+6 8010 D _item p PID_BOTTLE_CAPS } 10 R _script dialog@r_RemoveMoney 1 10 R _item p PID_9MM_AMMO + 10 #
+6 8020 D _item p PID_BOTTLE_CAPS } 20 R _script dialog@r_RemoveMoney 1 20 R _item p PID_9MM_AMMO + 20 #
+6 8030 D _item p PID_BOTTLE_CAPS } 30 R _script dialog@r_RemoveMoney 1 30 R _item p PID_9MM_AMMO + 30 #
 0 8040 @
 9 9000 None 0 #
-6 9010 D _item p PID_BOTTLE_CAPS } 10 R _item p PID_BOTTLE_CAPS - 10 R _item p PID_10MM_JHP + 10 #
-6 9020 D _item p PID_BOTTLE_CAPS } 20 R _item p PID_BOTTLE_CAPS - 20 R _item p PID_10MM_JHP + 20 #
-6 9030 D _item p PID_BOTTLE_CAPS } 30 R _item p PID_BOTTLE_CAPS - 30 R _item p PID_10MM_JHP + 30 #
+6 9010 D _item p PID_BOTTLE_CAPS } 10 R _script dialog@r_RemoveMoney 1 10 R _item p PID_10MM_JHP + 10 #
+6 9020 D _item p PID_BOTTLE_CAPS } 20 R _script dialog@r_RemoveMoney 1 20 R _item p PID_10MM_JHP + 20 #
+6 9030 D _item p PID_BOTTLE_CAPS } 30 R _script dialog@r_RemoveMoney 1 30 R _item p PID_10MM_JHP + 30 #
 0 9040 @
 10 10000 None 0 #
 0 10010 R _var p q_v99_radios = 1 R _item p PID_RADIO + 3 #
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 14 13010 #
 0 13020 @
 14 14000 None 0 #
-0 14010 D _item p PID_BOTTLE_CAPS } 5 R _var p q_rockside_francis2 = 3 R _item p PID_BOTTLE_CAPS - 5 R _item p PID_OIL_CAN + 1 #
+0 14010 D _item p PID_BOTTLE_CAPS } 5 R _var p q_rockside_francis2 = 3 R _script dialog@r_RemoveMoney 1 5 R _item p PID_OIL_CAN + 1 #
 15 14020 D _var p q_v99_radios = 3 R _var p q_rockside_francis2 = 3 R _item p PID_OIL_CAN + 1 #
 0 14030 @
 15 15000 None 0 &

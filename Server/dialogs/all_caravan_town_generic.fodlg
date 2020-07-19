@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 14 13010 #
 0 13020 @
 14 14000 None 0 #
-4 14010 D _item p PID_BOTTLE_CAPS } 15000 R _script caravans@r_ResetReputation 0  R _item p PID_BOTTLE_CAPS - 15000 #
+4 14010 D _item p PID_BOTTLE_CAPS } 15000 R _script caravans@r_ResetReputation 0  R _script dialog@r_RemoveMoney 1 15000 #
 0 14020 @
 15 15000 caravans@dlg_CaravanName 0 &
 

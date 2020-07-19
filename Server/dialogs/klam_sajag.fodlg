@@ -44,12 +44,12 @@ lang=engl czec pols span russ
 8 7000 None 0 #
 10 7010 #
 11 7020 D _item p PID_BOTTLE_CAPS < 10 #
-7 7030 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+7 7030 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
 0 7040 @
 9 8000 None 0 #
 10 8010 #
 11 8020 D _item p PID_BOTTLE_CAPS < 30 #
-7 8030 D _item p PID_BOTTLE_CAPS > 29 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 30 #
+7 8030 D _script dialog@d_havepropermoney 1 29 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 30 #
 0 8040 @
 10 9000 None 0 #
 12 9010 #
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 14 13000 None 0 #
 0 13010 R _script rooms@r_ShowRoom 1 1 @
 15 14000 None 0 #
-16 14010 D _item p PID_BOTTLE_CAPS > 49 R _var p klam_gold_beer = 1 R _script dialog@r_RemoveMoney 1 50 #
+16 14010 D _script dialog@d_havepropermoney 1 49 R _var p klam_gold_beer = 1 R _script dialog@r_RemoveMoney 1 50 #
 11 14020 D _item p PID_BOTTLE_CAPS < 50 #
 4 14030 @
 16 15000 None 0 #

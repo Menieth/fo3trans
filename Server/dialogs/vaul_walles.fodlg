@@ -31,8 +31,8 @@ lang=engl czec pols span russ
 8 4020 #
 0 4030 @
 5 5000 None 0 #
-6 5010 D _item p PID_BOTTLE_CAPS > 499 D _param p ST_CHARISMA > 4 D _script dialog@d_IsNotMember 0  R _var n acquaintance = 1 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 500 #
-6 5020 D _item p PID_BOTTLE_CAPS > 2999 R _var n acquaintance = 1 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 500 #
+6 5010 D _script dialog@d_havepropermoney 1 499 D _param p ST_CHARISMA > 4 D _script dialog@d_IsNotMember 0  R _var n acquaintance = 1 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 500 #
+6 5020 D _script dialog@d_havepropermoney 1 2999 R _var n acquaintance = 1 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 500 #
 45 5030 D _item p PID_BOTTLE_CAPS < 3000 #
 0 5040 D _item p PID_BOTTLE_CAPS < 500 #
 65507 5050 #
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 14 13010 #
 0 13020 @
 14 14000 None 0 #
-15 14010 D _item p PID_BOTTLE_CAPS > 149 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 150 #
+15 14010 D _script dialog@d_havepropermoney 1 149 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 150 #
 0 14020 @
 15 15000 None 0 #
 16 15010 #

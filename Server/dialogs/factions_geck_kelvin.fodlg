@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 8 6030 D _param p ST_STRENGTH > 7 R _item p PID_HY_MAG_PART + 1 R _var p factions_q_vc_parts = 11 R _var p faction_ghoul_hymag = 1 #
 0 6040 @
 7 7000 None 0 #
-9 7010 D _item p PID_BOTTLE_CAPS > 2999 R _item p PID_HY_MAG_PART + 1 R _var p factions_q_vc_parts = 11 R _var p faction_ghoul_hymag = 1 R _script dialog@r_RemoveMoney 1 3000 #
+9 7010 D _script dialog@d_havepropermoney 1 2999 R _item p PID_HY_MAG_PART + 1 R _var p factions_q_vc_parts = 11 R _var p faction_ghoul_hymag = 1 R _script dialog@r_RemoveMoney 1 3000 #
 65507 7020 R _item n PID_HY_MAG_PART + 1 R _var p factions_q_vc_parts = 11 #
 10 7030 D _param p ST_GENDER = 1 #
 0 7040 #

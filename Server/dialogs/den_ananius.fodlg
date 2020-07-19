@@ -20,7 +20,7 @@ lang=engl czec pols span russ
 6 4010 #
 0 4020 @
 6 5000 None 0 #
-7 5010 D _item p PID_BOTTLE_CAPS > 24 R _script dialog@r_RemoveMoney 1 25 #
+7 5010 D _script dialog@d_havepropermoney 1 24 R _script dialog@r_RemoveMoney 1 25 #
 0 5020 @
 7 6000 None 0 #
 0 6010 #

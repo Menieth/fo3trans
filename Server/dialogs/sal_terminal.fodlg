@@ -16,7 +16,7 @@ lang=engl czec pols span russ
 4 4000 None 0 #
 5 4010 #
 0 4020 #
-6 4030 D _item p PID_BOTTLE_CAPS } 900000 R _item p PID_BOTTLE_CAPS - 900000 R _script dialog@r_OpenDoor 2 33 245 @
+6 4030 D _item p PID_BOTTLE_CAPS } 900000 R _script dialog@r_RemoveMoney 1 900000 R _script dialog@r_OpenDoor 2 33 245 @
 5 5000 None 0 #
 4 5010 @
 6 6000 None 0 &

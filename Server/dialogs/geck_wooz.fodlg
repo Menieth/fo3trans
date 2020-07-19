@@ -37,8 +37,8 @@ lang=engl czec pols span russ
 20 6010 #
 0 6020 @
 7 7000 None 0 #
-31 7010 D _item p PID_BOTTLE_CAPS > 4 R _item p PID_GAMMA_GULP_BEER + 1 R _script dialog@r_RemoveMoney 1 5 #
-31 7020 D _item p PID_BOTTLE_CAPS > 11 R _item p PID_ROENTGEN_RUM + 1 R _script dialog@r_RemoveMoney 1 12 #
+31 7010 D _script dialog@d_havepropermoney 1 4 R _item p PID_GAMMA_GULP_BEER + 1 R _script dialog@r_RemoveMoney 1 5 #
+31 7020 D _script dialog@d_havepropermoney 1 11 R _item p PID_ROENTGEN_RUM + 1 R _script dialog@r_RemoveMoney 1 12 #
 4 7030 #
 0 7040 @
 8 8000 None 0 #

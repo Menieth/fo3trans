@@ -61,8 +61,8 @@ lang=engl czec pols span russ
 101 16000 None 0 #
 0 16010 @
 102 17000 None 0 #
-104 17010 D _item p PID_BOTTLE_CAPS } 500 R _item p PID_BOTTLE_CAPS - 500 R _script quest_bos_initiate@r_GiveKey 0  #
-105 17020 D _param p SK_BARTER } 50 D _item p PID_BOTTLE_CAPS } 300 R _item p PID_BOTTLE_CAPS - 300 R _script quest_bos_initiate@r_GiveKey 0  #
+104 17010 D _item p PID_BOTTLE_CAPS } 500 R _script dialog@r_RemoveMoney 1 500 R _script quest_bos_initiate@r_GiveKey 0  #
+105 17020 D _param p SK_BARTER } 50 D _item p PID_BOTTLE_CAPS } 300 R _script dialog@r_RemoveMoney 1 300 R _script quest_bos_initiate@r_GiveKey 0  #
 0 17030 @
 103 18000 None 0 #
 0 18010 @

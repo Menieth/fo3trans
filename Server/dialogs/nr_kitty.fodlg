@@ -53,11 +53,11 @@ lang=engl czec pols span russ
 11 9040 #
 15 9050 @
 10 10000 None 0 #
-17 10010 D _item p PID_BOTTLE_CAPS > 49 R _var p sex_exp + 5 R _script dialog@r_RemoveMoney 1 50 #
+17 10010 D _script dialog@d_havepropermoney 1 49 R _var p sex_exp + 5 R _script dialog@r_RemoveMoney 1 50 #
 12 10020 #
 0 10030 @
 11 11000 None 0 #
-24 11010 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 #
+24 11010 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 12 11020 @
 12 12000 None 0 #
 6 12010 #
@@ -65,11 +65,11 @@ lang=engl czec pols span russ
 500 12030 #
 0 12040 @
 13 13000 None 0 #
-17 13010 D _item p PID_BOTTLE_CAPS > 149 R _var p sex_exp + 10 R _script dialog@r_RemoveMoney 1 150 #
+17 13010 D _script dialog@d_havepropermoney 1 149 R _var p sex_exp + 10 R _script dialog@r_RemoveMoney 1 150 #
 12 13020 #
 0 13030 @
 14 14000 None 0 #
-17 14010 D _item p PID_BOTTLE_CAPS > 299 R _var p sex_exp + 15 R _script dialog@r_RemoveMoney 1 300 #
+17 14010 D _script dialog@d_havepropermoney 1 299 R _var p sex_exp + 15 R _script dialog@r_RemoveMoney 1 300 #
 12 14020 #
 0 14030 @
 15 15000 None 0 #
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 12 15060 #
 0 15070 @
 16 16000 None 0 #
-17 16010 D _item p PID_BOTTLE_CAPS > 999 R _var p nr_catspaw_paid = 5 R _var p sex_exp + 30 R _script dialog@r_RemoveMoney 1 1000 #
+17 16010 D _script dialog@d_havepropermoney 1 999 R _var p nr_catspaw_paid = 5 R _var p sex_exp + 30 R _script dialog@r_RemoveMoney 1 1000 #
 12 16020 #
 0 16030 @
 17 17000 None 0 #

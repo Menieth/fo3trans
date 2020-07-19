@@ -47,12 +47,12 @@ lang=engl czec pols span russ
 8 11010 #
 0 11020 @
 15 12000 None 0 #
-16 12010 D _item p PID_BOTTLE_CAPS > 14999 R _script trader_container@r_BuyContainer 1 0 #
-16 12020 D _item p PID_BOTTLE_CAPS > 14999 R _script trader_container@r_BuyContainer 1 1 #
-16 12030 D _item p PID_BOTTLE_CAPS > 14999 R _script trader_container@r_BuyContainer 1 2 #
-16 12040 D _item p PID_BOTTLE_CAPS > 14999 R _script trader_container@r_BuyContainer 1 3 #
-16 12050 D _item p PID_BOTTLE_CAPS > 14999 R _script trader_container@r_BuyContainer 1 4 #
-16 12060 D _item p PID_BOTTLE_CAPS > 14999 R _script trader_container@r_BuyContainer 1 5 #
+16 12010 D _script dialog@d_havepropermoney 1 14999 R _script trader_container@r_BuyContainer 1 0 #
+16 12020 D _script dialog@d_havepropermoney 1 14999 R _script trader_container@r_BuyContainer 1 1 #
+16 12030 D _script dialog@d_havepropermoney 1 14999 R _script trader_container@r_BuyContainer 1 2 #
+16 12040 D _script dialog@d_havepropermoney 1 14999 R _script trader_container@r_BuyContainer 1 3 #
+16 12050 D _script dialog@d_havepropermoney 1 14999 R _script trader_container@r_BuyContainer 1 4 #
+16 12060 D _script dialog@d_havepropermoney 1 14999 R _script trader_container@r_BuyContainer 1 5 #
 0 12070 @
 14 13000 None 0 @
 16 14000 None 0 #

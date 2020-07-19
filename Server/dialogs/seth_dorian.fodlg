@@ -42,10 +42,10 @@ lang=engl czec pols span russ
 10 8010 #
 0 8020 @
 10 9000 None 0 #
-9 9010 D _item p PID_BOTTLE_CAPS } 80 R _item p PID_BOTTLE_CAPS - 80 R _item p PID_GECKO_PELT + 1 #
-9 9020 D _item p PID_BOTTLE_CAPS } 400 R _item p PID_BOTTLE_CAPS - 400 R _item p PID_GECKO_PELT + 5 #
-9 9030 D _item p PID_BOTTLE_CAPS } 130 R _item p PID_BOTTLE_CAPS - 130 R _item p PID_GOLDEN_GECKO_PELT + 1 #
-9 9040 D _item p PID_BOTTLE_CAPS } 650 R _item p PID_BOTTLE_CAPS - 650 R _item p PID_GOLDEN_GECKO_PELT + 5 #
+9 9010 D _item p PID_BOTTLE_CAPS } 80 R _script dialog@r_RemoveMoney 1 80 R _item p PID_GECKO_PELT + 1 #
+9 9020 D _item p PID_BOTTLE_CAPS } 400 R _script dialog@r_RemoveMoney 1 400 R _item p PID_GECKO_PELT + 5 #
+9 9030 D _item p PID_BOTTLE_CAPS } 130 R _script dialog@r_RemoveMoney 1 130 R _item p PID_GOLDEN_GECKO_PELT + 1 #
+9 9040 D _item p PID_BOTTLE_CAPS } 650 R _script dialog@r_RemoveMoney 1 650 R _item p PID_GOLDEN_GECKO_PELT + 5 #
 2 9050 #
 0 9060 &
 

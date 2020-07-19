@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 7 14020 @
 17 15000 None 0 #
 25 15010 #
-2 15020 D _item p PID_BOTTLE_CAPS > 4 R _var n name_mem_npc_player = 1 R _script dialog@r_RemoveMoney 1 5 #
+2 15020 D _script dialog@d_havepropermoney 1 4 R _var n name_mem_npc_player = 1 R _script dialog@r_RemoveMoney 1 5 #
 0 15030 @
 18 16000 None 0 #
 19 16010 #

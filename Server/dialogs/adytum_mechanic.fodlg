@@ -12,7 +12,7 @@ lang=engl czec pols span russ
 3 2010 D _var p q_adytum_nick = 1 #
 0 2020 @
 3 3000 None 0 #
-4 3010 D _var p q_adytum_nick = 1 D _item p PID_BOTTLE_CAPS } 1700 R _var p q_adytum_nick = 2 R _item p PID_BOTTLE_CAPS - 1700 #
+4 3010 D _var p q_adytum_nick = 1 D _item p PID_BOTTLE_CAPS } 1700 R _var p q_adytum_nick = 2 R _script dialog@r_RemoveMoney 1 1700 #
 0 3020 @
 4 4000 None 0 &
 

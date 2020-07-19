@@ -89,10 +89,10 @@ lang=engl czec pols span russ
 82 22020 D _script dialog@d_CheckDemolitionExpert1 1 0 #
 0 22030 @
 81 23000 None 0 #
-83 23010 D _item p PID_BOTTLE_CAPS > 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
+83 23010 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
 0 23020 @
 82 24000 None 0 #
-83 24010 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
+83 24010 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
 0 24020 @
 83 25000 None 0 #
 0 25010 @
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 26 31000 None 0 #
 0 31010 R _item p PID_LEATHER_ARMOR + 1 R _item p PID_FRAG_GRENADE + 10 R _item p PID_JET + 1 @
 30 32000 None 0 #
-31 32010 D _item p PID_BOTTLE_CAPS > 19999 R _item p PID_DETONATOR_PARTS + 1 R _script dialog@r_RemoveMoney 1 20000 #
+31 32010 D _script dialog@d_havepropermoney 1 19999 R _item p PID_DETONATOR_PARTS + 1 R _script dialog@r_RemoveMoney 1 20000 #
 0 32020 @
 31 33000 None 0 #
 0 33010 @

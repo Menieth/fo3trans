@@ -2573,6 +2573,11 @@
 {9035}{}{15shady}
 {9036}{}{gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal:10}
 
+# Map 908, base 9090
+{9090}{}{Hoover Dam}
+{9095}{}{07desert}
+{9096}{}{gntlwin1:20, gntlwind:20, dogbark:20, dogbark:20, gustwin1:10, gustwind:10}
+
 #
 # Global map
 #

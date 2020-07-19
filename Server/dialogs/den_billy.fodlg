@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 5 4010 #
 0 4020 @
 5 5000 None 0 #
-6 5010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
+6 5010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
 3 5020 #
 7 5030 #
 0 5040 @
@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 3 6010 #
 0 6020 @
 7 7000 None 0 #
-6 7010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
+6 7010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
 3 7020 #
 0 7030 @
 8 8000 None 0 #

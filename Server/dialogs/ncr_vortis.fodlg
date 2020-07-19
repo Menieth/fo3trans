@@ -32,8 +32,8 @@ lang=engl czec pols span russ
 9 8000 None 0 #
 0 8010 @
 14 9000 merc_dialog@dlg_ShowMaleSlavesPrices 0 #
-5 9010 D _item p PID_BOTTLE_CAPS > 699 R _script merc_dialog@r_HireMerc 1 12 #
-5 9020 D _item p PID_BOTTLE_CAPS > 999 R _script merc_dialog@r_HireMerc 1 13 #
+5 9010 D _script dialog@d_havepropermoney 1 699 R _script merc_dialog@r_HireMerc 1 12 #
+5 9020 D _script dialog@d_havepropermoney 1 999 R _script merc_dialog@r_HireMerc 1 13 #
 0 9030 @
 15 10000 merc_dialog@dlg_ShowFemaleSlavesPrices 0 #
 5 10010 D _script merc_dialog@d_CanAffordMerc 1 15 R _script merc_dialog@r_HireMerc 1 15 #

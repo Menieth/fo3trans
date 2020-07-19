@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 32 3080 @
 4 4000 None 0 #
 12 4010 #
-18 4020 D _item p PID_BOTTLE_CAPS > 39 R _script dialog@r_RemoveMoney 1 40 #
+18 4020 D _script dialog@d_havepropermoney 1 39 R _script dialog@r_RemoveMoney 1 40 #
 12 4030 D _item p PID_BOTTLE_CAPS < 40 @
 5 5000 None 0 #
 6 5010 #
@@ -65,13 +65,13 @@ lang=engl czec pols span russ
 21 12060 D _script rooms@d_NoFreeRooms 1 0 D _script rooms@d_NotRentingHere 1 0 R _var p name_mem_npc_player = 1 #
 0 12070 @
 13 13000 None 0 #
-14 13010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+14 13010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
 15 13020 #
 0 13030 @
 14 14000 None 0 #
 0 14010 @
 15 15000 None 0 #
-0 15010 D _item p PID_BOTTLE_CAPS > 49 R _script dialog@r_RemoveMoney 1 50 #
+0 15010 D _script dialog@d_havepropermoney 1 49 R _script dialog@r_RemoveMoney 1 50 #
 13 15020 #
 0 15030 @
 16 16000 None 0 #
@@ -94,10 +94,10 @@ lang=engl czec pols span russ
 0 22010 @
 25 23000 None 0 @
 31 24000 dialog@dlg_SayBuyNuka 0 #
-3 24010 D _item p PID_BOTTLE_CAPS > 99 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 #
+3 24010 D _script dialog@d_havepropermoney 1 99 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 #
 0 24020 @
 32 25000 dialog@dlg_SayBuyCigarettes 0 #
-3 25010 D _item p PID_BOTTLE_CAPS > 99 R _item p PID_CIGARETTES + 1 R _script dialog@r_RemoveMoney 1 100 #
+3 25010 D _script dialog@d_havepropermoney 1 99 R _item p PID_CIGARETTES + 1 R _script dialog@r_RemoveMoney 1 100 #
 0 25020 &
 
 [engl]

@@ -47,10 +47,10 @@ lang=engl
 82 10020 D _script dialog@d_CheckGunsmithS1 1 0 #
 0 10030 @
 81 11000 None 0 #
-83 11010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
+83 11010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 11020 @
 82 12000 None 0 #
-83 12010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
+83 12010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 12020 @
 83 13000 None 0 #
 0 13010 @
@@ -59,10 +59,10 @@ lang=engl
 87 16020 D _script dialog@d_CheckBarman1 1 0 #
 0 16030 @
 86 17000 None 0 #
-88 17010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_BARMAN = 1 R _script dialog@r_RemoveMoney 1 1500 #
+88 17010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_BARMAN = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 17020 @
 87 18000 None 0 #
-88 18010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_BARMAN = 2 R _script dialog@r_RemoveMoney 1 3000 #
+88 18010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_BARMAN = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 18020 @
 88 19000 None 0 #
 0 19010 @
@@ -71,10 +71,10 @@ lang=engl
 92 20020 D _script dialog@d_CheckIronmaster1 1 0 #
 0 20030 @
 91 21000 None 0 #
-93 21010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_IRONMASTER = 1 R _script dialog@r_RemoveMoney 1 1500 #
+93 21010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_IRONMASTER = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 21020 @
 92 22000 None 0 #
-93 22010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_IRONMASTER = 2 R _script dialog@r_RemoveMoney 1 3000 #
+93 22010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_IRONMASTER = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 22020 @
 93 23000 None 0 #
 0 23010 @
@@ -83,10 +83,10 @@ lang=engl
 97 24020 D _script dialog@d_CheckIronworker1 1 0 #
 0 24030 @
 96 25000 None 0 #
-98 25010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_IRONWORKER = 1 R _script dialog@r_RemoveMoney 1 1500 #
+98 25010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_IRONWORKER = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 25020 @
 97 26000 None 0 #
-98 26010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_IRONWORKER = 2 R _script dialog@r_RemoveMoney 1 3000 #
+98 26010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_IRONWORKER = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 26020 @
 98 27000 None 0 #
 0 27010 @

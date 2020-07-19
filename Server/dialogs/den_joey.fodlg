@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 6 6000 None 0 #
 0 6010 @
 7 7000 dialog@dlg_SayBuyJet 0 #
-8 7010 D _item p PID_BOTTLE_CAPS > 499 R _item p PID_JET + 1 R _script dialog@r_RemoveMoney 1 500 #
+8 7010 D _script dialog@d_havepropermoney 1 499 R _item p PID_JET + 1 R _script dialog@r_RemoveMoney 1 500 #
 5 7020 #
 0 7030 @
 8 8000 None 0 #

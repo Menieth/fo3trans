@@ -13,7 +13,7 @@ lang=engl czec pols span russ
 0 2020 @
 4 3000 None 0 #
 0 3010 #
-0 3020 D _item p PID_BOTTLE_CAPS } 700 R _script dialog@r_FlushScreen 0  R _item p PID_BOTTLE_CAPS - 700 R _param p ST_EXPERIENCE + 150 &
+0 3020 D _item p PID_BOTTLE_CAPS } 700 R _script dialog@r_FlushScreen 0  R _script dialog@r_RemoveMoney 1 700 R _param p ST_EXPERIENCE + 150 &
 
 [engl]
 {100}{}{Whore}

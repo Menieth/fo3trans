@@ -43,9 +43,9 @@ lang=engl czec pols span russ
 0 12010 @
 18 13000 None 0 @
 19 14000 None 0 #
-20 14010 D _item p PID_BOTTLE_CAPS } 40 R _item p PID_BOTTLE_CAPS - 40 R _item p PID_LASER_PISTOL + 1 #
-20 14020 D _item p PID_BOTTLE_CAPS } 15 R _item p PID_BOTTLE_CAPS - 15 R _item p PID_SMALL_ENERGY_CELL + 12 #
-20 14030 D _item p PID_BOTTLE_CAPS } 55 R _item p PID_BOTTLE_CAPS - 55 R _item p PID_SMALL_ENERGY_CELL + 12 R _item p PID_LASER_PISTOL + 1 #
+20 14010 D _item p PID_BOTTLE_CAPS } 40 R _script dialog@r_RemoveMoney 1 40 R _item p PID_LASER_PISTOL + 1 #
+20 14020 D _item p PID_BOTTLE_CAPS } 15 R _script dialog@r_RemoveMoney 1 15 R _item p PID_SMALL_ENERGY_CELL + 12 #
+20 14030 D _item p PID_BOTTLE_CAPS } 55 R _script dialog@r_RemoveMoney 1 55 R _item p PID_SMALL_ENERGY_CELL + 12 R _item p PID_LASER_PISTOL + 1 #
 0 14040 @
 20 15000 None 0 @
 21 16000 None 0 @

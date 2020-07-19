@@ -16,9 +16,9 @@ lang=engl czec pols span russ
 4 4000 None 0 #
 0 4010 @
 5 5000 dialog@dlg_SayBuyMedGel 0 #
-6 5010 D _item p PID_BOTTLE_CAPS > 24 R _item p PID_BIO_GEL + 1 R _script dialog@r_RemoveMoney 1 25 #
-6 5020 D _item p PID_BOTTLE_CAPS > 124 R _item p PID_BIO_GEL + 5 R _script dialog@r_RemoveMoney 1 125 #
-6 5030 D _item p PID_BOTTLE_CAPS > 499 R _item p PID_BIO_GEL + 20 R _script dialog@r_RemoveMoney 1 500 #
+6 5010 D _script dialog@d_havepropermoney 1 24 R _item p PID_BIO_GEL + 1 R _script dialog@r_RemoveMoney 1 25 #
+6 5020 D _script dialog@d_havepropermoney 1 124 R _item p PID_BIO_GEL + 5 R _script dialog@r_RemoveMoney 1 125 #
+6 5030 D _script dialog@d_havepropermoney 1 499 R _item p PID_BIO_GEL + 20 R _script dialog@r_RemoveMoney 1 500 #
 0 5040 @
 6 6000 None 0 #
 0 6010 &

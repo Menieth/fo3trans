@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 214 32020 D _param p ST_STRENGTH > 7 #
 216 32030 R _script vaul_guard@r_CancelQuest 1 0 @
 214 33000 None 0 #
-12 33010 D _item p PID_BOTTLE_CAPS > 3999 D _script vaul_guard@d_QuestInProgress 1 0 R _var p factions_q_vc_exam = 11 R _script dialog@r_RemoveMoney 1 4000 R _script vaul_guard@r_FinishQuest 1 0 R _script dialog@r_AddMember 0  #
+12 33010 D _script dialog@d_havepropermoney 1 3999 D _script vaul_guard@d_QuestInProgress 1 0 R _var p factions_q_vc_exam = 11 R _script dialog@r_RemoveMoney 1 4000 R _script vaul_guard@r_FinishQuest 1 0 R _script dialog@r_AddMember 0  #
 0 33020 D _item p PID_BOTTLE_CAPS < 4000 R _script vaul_guard@r_CancelQuest 1 0 #
 0 33030 R _script vaul_guard@r_CancelQuest 1 0 @
 215 34000 None 0 #
@@ -168,7 +168,7 @@ lang=engl czec pols span russ
 65507 47010 #
 0 47020 @
 409 48000 None 0 #
-411 48010 D _item p PID_BOTTLE_CAPS > 999 R _param p ST_EXPERIENCE + 1000 R _var p q_vc_collectrent = 0 R _script dialog@r_RemoveMoney 1 1000 #
+411 48010 D _script dialog@d_havepropermoney 1 999 R _param p ST_EXPERIENCE + 1000 R _var p q_vc_collectrent = 0 R _script dialog@r_RemoveMoney 1 1000 #
 0 48020 @
 411 49000 None 0 #
 412 49010 D _param p ST_CHARISMA > 7 D _param p SK_SPEECH > 55 R _var p q_vc_collectrent = 0 R _script dialog@r_AddMoney 1 300 #

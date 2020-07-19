@@ -36,13 +36,13 @@ lang=engl czec pols span russ
 82 8020 D _script dialog@d_CheckArmorer1 1 0 #
 0 8030 @
 81 9000 None 0 #
-84 9010 D _item p PID_BOTTLE_CAPS > 499 R _param p PE_PROFESSION_ARMORER = 1 R _script dialog@r_RemoveMoney 1 500 #
+84 9010 D _script dialog@d_havepropermoney 1 499 R _param p PE_PROFESSION_ARMORER = 1 R _script dialog@r_RemoveMoney 1 500 #
 0 9020 @
 82 10000 None 0 #
-84 10010 D _item p PID_BOTTLE_CAPS > 999 R _param p PE_PROFESSION_ARMORER = 2 R _script dialog@r_RemoveMoney 1 1000 #
+84 10010 D _script dialog@d_havepropermoney 1 999 R _param p PE_PROFESSION_ARMORER = 2 R _script dialog@r_RemoveMoney 1 1000 #
 0 10020 @
 83 11000 None 0 #
-84 11010 D _item p PID_BOTTLE_CAPS > 2499 R _param p PE_PROFESSION_ARMORER = 3 R _script dialog@r_RemoveMoney 1 2500 #
+84 11010 D _script dialog@d_havepropermoney 1 2499 R _param p PE_PROFESSION_ARMORER = 3 R _script dialog@r_RemoveMoney 1 2500 #
 0 11020 @
 84 12000 None 0 #
 0 12010 &

@@ -8,7 +8,7 @@ lang=engl czec pols span russ
 &
 1 1000 None 0 #
 62 1010 D _param p ST_CHARISMA > 99 #
-41 1020 D _param p ST_INTELLECT < 4 D _item p PID_BOTTLE_CAPS > 1999 #
+41 1020 D _param p ST_INTELLECT < 4 D _script dialog@d_havepropermoney 1 1999 #
 40 1030 D _param p ST_INTELLECT < 4 #
 50 1040 D _script dialog@d_CheckNight 0  #
 2 1050 D _script dialog@d_IsNotMember 0  #
@@ -23,9 +23,9 @@ lang=engl czec pols span russ
 10 3030 #
 0 3040 @
 4 4000 None 0 #
-5 4010 D _param p SK_BARTER > 99 D _item p PID_BOTTLE_CAPS > 49 R _var n acquaintance = 1 R _script dialog@r_RemoveMoney 1 50 #
-5 4020 D _param p SK_BARTER > 69 D _item p PID_BOTTLE_CAPS > 99 R _var n acquaintance = 1 R _script dialog@r_RemoveMoney 1 100 #
-5 4030 D _item p PID_BOTTLE_CAPS > 199 R _var n acquaintance = 1 R _script dialog@r_RemoveMoney 1 200 #
+5 4010 D _param p SK_BARTER > 99 D _script dialog@d_havepropermoney 1 49 R _var n acquaintance = 1 R _script dialog@r_RemoveMoney 1 50 #
+5 4020 D _param p SK_BARTER > 69 D _script dialog@d_havepropermoney 1 99 R _var n acquaintance = 1 R _script dialog@r_RemoveMoney 1 100 #
+5 4030 D _script dialog@d_havepropermoney 1 199 R _var n acquaintance = 1 R _script dialog@r_RemoveMoney 1 200 #
 0 4040 @
 5 5000 None 0 #
 6 5010 #
@@ -58,10 +58,10 @@ lang=engl czec pols span russ
 13 13010 #
 0 13020 @
 13 14000 None 0 #
-14 14010 D _var p factions_player_rank < 3 D _param p SK_BARTER > 89 D _item p PID_BOTTLE_CAPS > 699 #
-15 14020 D _var p factions_player_rank < 3 D _param p SK_BARTER > 59 D _item p PID_BOTTLE_CAPS > 1199 D _param p SK_BARTER < 90 #
-16 14030 D _var p factions_player_rank < 3 D _param p SK_BARTER < 60 D _item p PID_BOTTLE_CAPS > 1999 #
-14 14040 D _var p factions_player_rank > 2 D _item p PID_BOTTLE_CAPS > 699 #
+14 14010 D _var p factions_player_rank < 3 D _param p SK_BARTER > 89 D _script dialog@d_havepropermoney 1 699 #
+15 14020 D _var p factions_player_rank < 3 D _param p SK_BARTER > 59 D _script dialog@d_havepropermoney 1 1199 D _param p SK_BARTER < 90 #
+16 14030 D _var p factions_player_rank < 3 D _param p SK_BARTER < 60 D _script dialog@d_havepropermoney 1 1999 #
+14 14040 D _var p factions_player_rank > 2 D _script dialog@d_havepropermoney 1 699 #
 0 14050 @
 14 15000 None 0 #
 17 15010 D _item p PID_BOTTLE_CAPS } 700 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 700 #
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 17 16010 D _item p PID_BOTTLE_CAPS } 1200 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 1200 #
 0 16020 @
 16 17000 None 0 #
-17 17010 D _item p PID_BOTTLE_CAPS > 1999 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 2000 #
+17 17010 D _script dialog@d_havepropermoney 1 1999 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 2000 #
 0 17020 @
 17 18000 None 0 #
 0 18010 @
