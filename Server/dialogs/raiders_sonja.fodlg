@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Sonja}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{standard khan chatter}
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{standard khan chatter}
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{standard khan chatter}
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{standard khan chatter}
 {2000}{}{Where did I put the Recipe Book?@@I hate rats. I can't get it how Amis can enjoy them.@@I need a sharper knife, dammit!@@What are you staring at? Gimme the salt, quickly!}

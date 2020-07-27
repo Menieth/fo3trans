@@ -6,56 +6,56 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 10 1010 D _param p KARMA_SLAVER > 0 #
 11 1020 D _param p ST_CHARISMA > 99 #
 2 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 4 2030 #
 0 2040 #
 12 2050 D _var p q_klam_bob_thehole = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 9 3020 #
 8 3030 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
-6 5010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
+5 5000 main@dlg_Caps 0 #
+6 5010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
 3 5020 #
 7 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 3 6010 #
 0 6020 @
-7 7000 None 0 #
-6 7010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
+7 7000 main@dlg_Caps 0 #
+6 7010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
 3 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 7 8010 #
 3 8020 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 3 10010 #
 0 10020 @
-11 11000 None 0 @
-12 12000 None 0 #
+11 11000 main@dlg_Caps 0 @
+12 12000 main@dlg_Caps 0 #
 13 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 R _item p PID_BOTTLE_CAPS + 20 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 0 16010 R _var p q_klam_bob_thehole = 2 &
 
 [engl]
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -279,7 +279,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}

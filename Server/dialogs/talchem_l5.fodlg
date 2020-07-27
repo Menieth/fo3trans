@@ -6,28 +6,28 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p talchem_l5 = 0 #
 5 2020 D _var p talchem_l5 = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 R _script talchem@r_HackDoorOpen 1 20 #
 0 3020 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 6 4010 #
 7 4020 D _param p SK_SCIENCE } 120 #
 9 4030 D _param p SK_SCIENCE < 120 #
 0 4040 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 5 5010 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 2 6010 R _var p talchem_l5 = 0 @
-9 7000 None 0 &
+9 7000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Talchem laboratories 5,6 control - emergency control
@@ -60,7 +60,7 @@ status: Laboratory 5 under local quarantine lockdown.}
 {7000}{}{Unauthorized access.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Talchem laboratories 5,6 control - emergency control
@@ -93,7 +93,7 @@ status: Laboratory 5 under local quarantine lockdown.}
 {7000}{}{Unauthorized access.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Talchem laboratories 5,6 control - emergency control
@@ -126,7 +126,7 @@ status: Laboratory 5 under local quarantine lockdown.}
 {7000}{}{Unauthorized access.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Talchem laboratories 5,6 control - emergency control
@@ -159,7 +159,7 @@ status: Laboratory 5 under local quarantine lockdown.}
 {7000}{}{Unauthorized access.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Talchem laboratories 5,6 control - emergency control

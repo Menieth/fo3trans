@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p KARMA_SLAVER > 0 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Citizen}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{known}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{known}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{known}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Can't you bother some other village?@@We don't want your sin.@@Please leave.@@You people aren't good for Modoc.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{known}

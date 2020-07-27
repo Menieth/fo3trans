@@ -6,34 +6,34 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 40 1010 D _script dialog@d_CheckNight 0  #
 50 1020 D _param p ST_INTELLECT < 4 #
 20 1030 D _var p factions_player_faction = 6 #
 2 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var n name_mem_npc_player = 1 #
 4 2020 D _var n name_mem_npc_player = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65506 4010 #
 0 4020 #
 0 4030 @
-20 5000 None 0 #
+20 5000 main@dlg_Caps 0 #
 21 5010 R _var n name_mem_npc_player = 1 #
 65506 5020 D _var n name_mem_npc_player = 1 #
 0 5030 @
-21 6000 None 0 #
+21 6000 main@dlg_Caps 0 #
 65506 6010 #
 0 6020 @
-40 7000 None 0 @
-50 8000 None 0 #
+40 7000 main@dlg_Caps 0 @
+50 8000 main@dlg_Caps 0 #
 51 8010 #
 0 8020 @
-51 9000 None 0 #
+51 9000 main@dlg_Caps 0 #
 65507 9010 #
 0 9020 &
 
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {9020}{}{*Sigh* Ok-ee Me GO}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {9020}{}{*Sigh* Ok-ee Me GO}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {9020}{}{*Sigh* Ok-ee Me GO}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {9020}{}{*Sigh* Ok-ee Me GO}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}

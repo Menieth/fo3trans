@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 52 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 4 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 53 2030 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 49 3020 #
 49 3030 #
 0 3040 #
 53 3050 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 40 4020 #
 45 4030 #
@@ -31,188 +31,188 @@ lang=engl czec pols span russ
 60 4080 #
 70 4090 #
 0 4100 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 9 5010 #
 6 5020 #
 4 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 4 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 4 8010 #
 9 8020 #
 0 8030 @
-9 9000 None 0 #
-10 9010 D _item p PID_BOTTLE_CAPS > 24 D _param p SK_BARTER > 99 R _script dialog@r_RemoveMoney 1 25 #
-10 9020 D _param p SK_BARTER > 74 D _item p PID_BOTTLE_CAPS > 49 R _script dialog@r_RemoveMoney 1 50 #
-10 9030 D _param p SK_BARTER > 30 D _item p PID_BOTTLE_CAPS > 74 R _script dialog@r_RemoveMoney 1 75 #
-10 9040 D _item p PID_BOTTLE_CAPS > 99 R _script dialog@r_RemoveMoney 1 100 #
+9 9000 main@dlg_Caps 0 #
+10 9010 D _script dialog@d_havepropermoney 1 24 D _param p SK_BARTER > 99 R _script dialog@r_RemoveMoney 1 25 #
+10 9020 D _param p SK_BARTER > 74 D _script dialog@d_havepropermoney 1 49 R _script dialog@r_RemoveMoney 1 50 #
+10 9030 D _param p SK_BARTER > 30 D _script dialog@d_havepropermoney 1 74 R _script dialog@r_RemoveMoney 1 75 #
+10 9040 D _script dialog@d_havepropermoney 1 99 R _script dialog@r_RemoveMoney 1 100 #
 4 9050 #
 0 9060 #
 0 9070 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 19 10020 #
 33 10030 #
 37 10040 #
 4 10050 #
 0 10060 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 12 11020 #
 9 11030 #
 0 11040 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 40 13010 #
 14 13020 #
 9 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 #
 43 14020 #
 17 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 65506 15010 #
 16 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 9 18010 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 #
 21 20020 #
 0 20030 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 22 21010 #
 9 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 26 22010 D _param p SK_SCIENCE > 75 #
 23 22020 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 24 23010 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 26 24010 D _param p SK_SCIENCE > 75 #
 25 24020 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 45 25010 #
 9 25020 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 27 26010 @
-27 27000 None 0 #
+27 27000 main@dlg_Caps 0 #
 28 27010 @
-28 28000 None 0 #
+28 28000 main@dlg_Caps 0 #
 30 28010 #
 29 28020 #
 32 28030 @
-29 29000 None 0 #
+29 29000 main@dlg_Caps 0 #
 31 29010 #
 30 29020 @
-30 30000 None 0 #
+30 30000 main@dlg_Caps 0 #
 29 30010 #
 31 30020 @
-31 31000 None 0 #
+31 31000 main@dlg_Caps 0 #
 32 31010 #
 0 31020 @
-32 32000 None 0 #
+32 32000 main@dlg_Caps 0 #
 9 32010 #
 0 32020 @
-33 33000 None 0 #
+33 33000 main@dlg_Caps 0 #
 34 33010 #
 34 33020 @
-34 34000 None 0 #
+34 34000 main@dlg_Caps 0 #
 35 34010 D _param p ST_GENDER = 0 #
 36 34020 D _param p ST_GENDER = 1 @
-35 35000 None 0 #
+35 35000 main@dlg_Caps 0 #
 9 35010 #
 0 35020 @
-36 36000 None 0 #
+36 36000 main@dlg_Caps 0 #
 9 36010 #
 0 36020 @
-37 37000 None 0 #
+37 37000 main@dlg_Caps 0 #
 38 37010 @
-38 38000 None 0 #
+38 38000 main@dlg_Caps 0 #
 39 38010 @
-39 39000 None 0 #
+39 39000 main@dlg_Caps 0 #
 9 39010 @
-40 40000 None 0 #
+40 40000 main@dlg_Caps 0 #
 65506 40010 #
 41 40020 #
 4 40030 #
 0 40040 @
-41 41000 None 0 #
+41 41000 main@dlg_Caps 0 #
 42 41010 @
-42 42000 None 0 #
+42 42000 main@dlg_Caps 0 #
 65506 42010 #
 43 42020 @
-43 43000 None 0 #
+43 43000 main@dlg_Caps 0 #
 44 43010 @
-44 44000 None 0 #
+44 44000 main@dlg_Caps 0 #
 4 44010 @
-45 45000 None 0 #
+45 45000 main@dlg_Caps 0 #
 4 45010 #
 0 45020 @
-46 46000 None 0 #
+46 46000 main@dlg_Caps 0 #
 4 46010 #
 0 46020 @
-47 47000 None 0 #
+47 47000 main@dlg_Caps 0 #
 4 47010 #
 0 47020 @
-48 48000 None 0 #
+48 48000 main@dlg_Caps 0 #
 51 48010 #
 50 48020 #
 4 48030 @
-49 49000 None 0 #
+49 49000 main@dlg_Caps 0 #
 4 49010 #
 0 49020 @
-50 50000 None 0 #
+50 50000 main@dlg_Caps 0 #
 51 50010 #
 4 50020 @
-51 51000 None 0 #
+51 51000 main@dlg_Caps 0 #
 50 51010 #
 4 51020 @
-52 52000 None 0 @
-53 53000 None 0 #
+52 52000 main@dlg_Caps 0 @
+53 53000 main@dlg_Caps 0 #
 54 53010 #
 0 53020 @
-54 54000 None 0 #
+54 54000 main@dlg_Caps 0 #
 57 54010 #
 55 54020 #
 55 54030 #
 55 54040 @
-55 55000 None 0 #
+55 55000 main@dlg_Caps 0 #
 58 55010 #
 0 55020 @
-56 56000 None 0 #
+56 56000 main@dlg_Caps 0 #
 65507 56010 #
 0 56020 @
-57 57000 None 0 #
+57 57000 main@dlg_Caps 0 #
 58 57010 #
 0 57020 @
-58 58000 None 0 #
+58 58000 main@dlg_Caps 0 #
 0 58010 R _var p q_mordinos_induction_doctor + 50 R _var n acquaintance = 1 @
-60 59000 None 0 #
-61 59010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_HYPODERMIC_NEEDLE + 1 R _script dialog@r_RemoveMoney 1 10 #
-62 59020 D _item p PID_BOTTLE_CAPS > 179 R _item p PID_HYPODERMIC_NEEDLE + 20 R _script dialog@r_RemoveMoney 1 180 #
+60 59000 main@dlg_Caps 0 #
+61 59010 D _script dialog@d_havepropermoney 1 9 R _item p PID_HYPODERMIC_NEEDLE + 1 R _script dialog@r_RemoveMoney 1 10 #
+62 59020 D _script dialog@d_havepropermoney 1 179 R _item p PID_HYPODERMIC_NEEDLE + 20 R _script dialog@r_RemoveMoney 1 180 #
 0 59030 @
-61 60000 None 0 #
+61 60000 main@dlg_Caps 0 #
 0 60010 @
-62 61000 None 0 #
+62 61000 main@dlg_Caps 0 #
 0 61010 @
-70 62000 None 0 #
-71 62010 D _item p PID_BOTTLE_CAPS > 19 R _item p PID_EMPTY_JET + 1 R _script dialog@r_RemoveMoney 1 20 #
-72 62020 D _item p PID_BOTTLE_CAPS > 359 R _item p PID_EMPTY_JET + 20 R _script dialog@r_RemoveMoney 1 360 #
+70 62000 main@dlg_Caps 0 #
+71 62010 D _script dialog@d_havepropermoney 1 19 R _item p PID_EMPTY_JET + 1 R _script dialog@r_RemoveMoney 1 20 #
+72 62020 D _script dialog@d_havepropermoney 1 359 R _item p PID_EMPTY_JET + 20 R _script dialog@r_RemoveMoney 1 360 #
 0 62030 @
-71 63000 None 0 #
+71 63000 main@dlg_Caps 0 #
 0 63010 @
-72 64000 None 0 #
+72 64000 main@dlg_Caps 0 #
 0 64010 &
 
 [engl]
@@ -295,7 +295,7 @@ lang=engl czec pols span russ
 {15020}{}{Back to the Mordinos and Jet...}
 {16000}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him...see, he MADE jet.}
 {16010}{}{What about distribution?}
-{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse none.}
+{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse main@dlg_Caps.}
 {17010}{}{Tell me about Redding.}
 {18000}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of that Redding GOLD they dig up. So he ships them jet, they ship back gold, everybody happy.}
 {18010}{}{Interesting. Tell me something about the other families.}
@@ -400,10 +400,10 @@ lang=engl czec pols span russ
 {53010}{}{Nobody will ever know. It's straight from The Family anyway. Wholesale rate. How about...}
 {53020}{}{I've changed my mind. I gotta go.}
 {54000}{}{Yeah?}
-{54010}{}{50 bottles of jet?}
-{54020}{}{100 bottles of jet?}
-{54030}{}{150 bottles of jet?}
-{54040}{}{200 bottles of jet?}
+{54010}{}{50 @lex prefix@s of jet?}
+{54020}{}{100 @lex prefix@s of jet?}
+{54030}{}{150 @lex prefix@s of jet?}
+{54040}{}{200 @lex prefix@s of jet?}
 {55000}{}{You gotta be kiddin' me! From YOU I'll take 50. Jules don't have the muscle to hold down a bigger package.}
 {55010}{}{Sounds good.}
 {55020}{}{I've changed my mind. I gotta go.}
@@ -413,7 +413,7 @@ lang=engl czec pols span russ
 {57000}{}{You got yourself a deal!}
 {57010}{}{Pleasure doing business with you.}
 {57020}{}{I've changed my mind. I gotta go.}
-{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of caps, which you quickly count and place  back in the case.]}
+{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of @lex money@, which you quickly count and place  back in the case.]}
 {58010}{}{[END]}
 {59000}{}{Sure I do, these addicts are always leavin' 'em around. Lucky for me I know theres a roarin' trade in 'em with you Doctor types! You can have one for $10 or the special offer: 20 for 180$ only!}
 {59010}{}{I'll take one, here's your money.}
@@ -433,7 +433,7 @@ lang=engl czec pols span russ
 {64010}{}{See you later, Jules.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -510,7 +510,7 @@ lang=engl czec pols span russ
 {15020}{}{Back to the Mordinos and Jet...}
 {16000}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him...see, he MADE jet.}
 {16010}{}{What about distribution?}
-{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse none.}
+{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse main@dlg_Caps.}
 {17010}{}{Tell me about Redding.}
 {18000}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of that Redding GOLD they dig up. So he ships them jet, they ship back gold, everybody happy.}
 {18010}{}{Interesting. Tell me something about the other families.}
@@ -615,10 +615,10 @@ lang=engl czec pols span russ
 {53010}{}{Nobody will ever know. It's straight from The Family anyway. Wholesale rate. How about...}
 {53020}{}{I've changed my mind. I gotta go.}
 {54000}{}{Yeah?}
-{54010}{}{50 bottles of jet?}
-{54020}{}{100 bottles of jet?}
-{54030}{}{150 bottles of jet?}
-{54040}{}{200 bottles of jet?}
+{54010}{}{50 @lex prefix@s of jet?}
+{54020}{}{100 @lex prefix@s of jet?}
+{54030}{}{150 @lex prefix@s of jet?}
+{54040}{}{200 @lex prefix@s of jet?}
 {55000}{}{You gotta be kiddin' me! From YOU I'll take 50. Jules don't have the muscle to hold down a bigger package.}
 {55010}{}{Sounds good.}
 {55020}{}{I've changed my mind. I gotta go.}
@@ -628,7 +628,7 @@ lang=engl czec pols span russ
 {57000}{}{You got yourself a deal!}
 {57010}{}{Pleasure doing business with you.}
 {57020}{}{I've changed my mind. I gotta go.}
-{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of caps, which you quickly count and place  back in the case.]}
+{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of @lex money@, which you quickly count and place  back in the case.]}
 {58010}{}{[END]}
 {59000}{}{Sure I do, these addicts are always leavin' 'em around. Lucky for me I know theres a roarin' trade in 'em with you Doctor types! You can have one for $10 or the special offer: 20 for 180$ only!}
 {59010}{}{I'll take one, here's your money.}
@@ -648,7 +648,7 @@ lang=engl czec pols span russ
 {64010}{}{See you later, Jules.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -725,7 +725,7 @@ lang=engl czec pols span russ
 {15020}{}{Back to the Mordinos and Jet...}
 {16000}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him...see, he MADE jet.}
 {16010}{}{What about distribution?}
-{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse none.}
+{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse main@dlg_Caps.}
 {17010}{}{Tell me about Redding.}
 {18000}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of that Redding GOLD they dig up. So he ships them jet, they ship back gold, everybody happy.}
 {18010}{}{Interesting. Tell me something about the other families.}
@@ -830,10 +830,10 @@ lang=engl czec pols span russ
 {53010}{}{Nobody will ever know. It's straight from The Family anyway. Wholesale rate. How about...}
 {53020}{}{I've changed my mind. I gotta go.}
 {54000}{}{Yeah?}
-{54010}{}{50 bottles of jet?}
-{54020}{}{100 bottles of jet?}
-{54030}{}{150 bottles of jet?}
-{54040}{}{200 bottles of jet?}
+{54010}{}{50 @lex prefix@s of jet?}
+{54020}{}{100 @lex prefix@s of jet?}
+{54030}{}{150 @lex prefix@s of jet?}
+{54040}{}{200 @lex prefix@s of jet?}
 {55000}{}{You gotta be kiddin' me! From YOU I'll take 50. Jules don't have the muscle to hold down a bigger package.}
 {55010}{}{Sounds good.}
 {55020}{}{I've changed my mind. I gotta go.}
@@ -843,7 +843,7 @@ lang=engl czec pols span russ
 {57000}{}{You got yourself a deal!}
 {57010}{}{Pleasure doing business with you.}
 {57020}{}{I've changed my mind. I gotta go.}
-{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of caps, which you quickly count and place  back in the case.]}
+{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of @lex money@, which you quickly count and place  back in the case.]}
 {58010}{}{[END]}
 {59000}{}{Sure I do, these addicts are always leavin' 'em around. Lucky for me I know theres a roarin' trade in 'em with you Doctor types! You can have one for $10 or the special offer: 20 for 180$ only!}
 {59010}{}{I'll take one, here's your money.}
@@ -863,7 +863,7 @@ lang=engl czec pols span russ
 {64010}{}{See you later, Jules.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -940,7 +940,7 @@ lang=engl czec pols span russ
 {15020}{}{Back to the Mordinos and Jet...}
 {16000}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him...see, he MADE jet.}
 {16010}{}{What about distribution?}
-{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse none.}
+{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse main@dlg_Caps.}
 {17010}{}{Tell me about Redding.}
 {18000}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of that Redding GOLD they dig up. So he ships them jet, they ship back gold, everybody happy.}
 {18010}{}{Interesting. Tell me something about the other families.}
@@ -1045,10 +1045,10 @@ lang=engl czec pols span russ
 {53010}{}{Nobody will ever know. It's straight from The Family anyway. Wholesale rate. How about...}
 {53020}{}{I've changed my mind. I gotta go.}
 {54000}{}{Yeah?}
-{54010}{}{50 bottles of jet?}
-{54020}{}{100 bottles of jet?}
-{54030}{}{150 bottles of jet?}
-{54040}{}{200 bottles of jet?}
+{54010}{}{50 @lex prefix@s of jet?}
+{54020}{}{100 @lex prefix@s of jet?}
+{54030}{}{150 @lex prefix@s of jet?}
+{54040}{}{200 @lex prefix@s of jet?}
 {55000}{}{You gotta be kiddin' me! From YOU I'll take 50. Jules don't have the muscle to hold down a bigger package.}
 {55010}{}{Sounds good.}
 {55020}{}{I've changed my mind. I gotta go.}
@@ -1058,7 +1058,7 @@ lang=engl czec pols span russ
 {57000}{}{You got yourself a deal!}
 {57010}{}{Pleasure doing business with you.}
 {57020}{}{I've changed my mind. I gotta go.}
-{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of caps, which you quickly count and place  back in the case.]}
+{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of @lex money@, which you quickly count and place  back in the case.]}
 {58010}{}{[END]}
 {59000}{}{Sure I do, these addicts are always leavin' 'em around. Lucky for me I know theres a roarin' trade in 'em with you Doctor types! You can have one for $10 or the special offer: 20 for 180$ only!}
 {59010}{}{I'll take one, here's your money.}
@@ -1078,7 +1078,7 @@ lang=engl czec pols span russ
 {64010}{}{See you later, Jules.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -1155,7 +1155,7 @@ lang=engl czec pols span russ
 {15020}{}{Back to the Mordinos and Jet...}
 {16000}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him...see, he MADE jet.}
 {16010}{}{What about distribution?}
-{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse none.}
+{17000}{}{They pump it all over New Reno, for starters. Up north to the Den, and also...uh... (Catches himself, then shrugs and continues.) ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse main@dlg_Caps.}
 {17010}{}{Tell me about Redding.}
 {18000}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of that Redding GOLD they dig up. So he ships them jet, they ship back gold, everybody happy.}
 {18010}{}{Interesting. Tell me something about the other families.}
@@ -1260,10 +1260,10 @@ lang=engl czec pols span russ
 {53010}{}{Nobody will ever know. It's straight from The Family anyway. Wholesale rate. How about...}
 {53020}{}{I've changed my mind. I gotta go.}
 {54000}{}{Yeah?}
-{54010}{}{50 bottles of jet?}
-{54020}{}{100 bottles of jet?}
-{54030}{}{150 bottles of jet?}
-{54040}{}{200 bottles of jet?}
+{54010}{}{50 @lex prefix@s of jet?}
+{54020}{}{100 @lex prefix@s of jet?}
+{54030}{}{150 @lex prefix@s of jet?}
+{54040}{}{200 @lex prefix@s of jet?}
 {55000}{}{You gotta be kiddin' me! From YOU I'll take 50. Jules don't have the muscle to hold down a bigger package.}
 {55010}{}{Sounds good.}
 {55020}{}{I've changed my mind. I gotta go.}
@@ -1273,7 +1273,7 @@ lang=engl czec pols span russ
 {57000}{}{You got yourself a deal!}
 {57010}{}{Pleasure doing business with you.}
 {57020}{}{I've changed my mind. I gotta go.}
-{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of caps, which you quickly count and place  back in the case.]}
+{58000}{}{[You hand Jules 50 vials from the case, and he gives you a bag of @lex money@, which you quickly count and place  back in the case.]}
 {58010}{}{[END]}
 {59000}{}{Sure I do, these addicts are always leavin' 'em around. Lucky for me I know theres a roarin' trade in 'em with you Doctor types! You can have one for $10 or the special offer: 20 for 180$ only!}
 {59010}{}{I'll take one, here's your money.}

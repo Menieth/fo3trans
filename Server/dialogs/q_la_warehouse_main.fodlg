@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 13 1010 D _var p q_la_warehouse_dialog_status = 1 #
 20 1020 D _var p q_la_warehouse_dialog_status = 2 #
 30 1030 D _var p q_la_warehouse_dialog_status = 3 #
@@ -15,83 +15,83 @@ lang=engl czec pols span russ
 60 1060 D _var p q_la_warehouse_dialog_status = 6 #
 61 1070 D _var p q_la_warehouse_dialog_status = 7 #
 9 1080 @
-9 2000 None 0 #
+9 2000 main@dlg_Caps 0 #
 10 2010 D _param p ST_CHARISMA > 3 #
 11 2020 D _param p ST_CHARISMA < 4 D _param p ST_GENDER = 1 #
 12 2030 D _param p ST_CHARISMA < 4 D _param p ST_GENDER = 0 @
-10 3000 None 0 #
+10 3000 main@dlg_Caps 0 #
 13 3010 D _item p PID_Q_LA_WAREHOUSE_LETTER > 0 D _script dialog@d_WeaponInHand 0  R _item p PID_Q_LA_WAREHOUSE_LETTER - 1 #
 13 3020 D _script dialog@d_WeaponInHand 0  #
 15 3030 D _item p PID_Q_LA_WAREHOUSE_LETTER > 0 D _script dialog@d_NoWeaponInHand 0  R _item p PID_Q_LA_WAREHOUSE_LETTER - 1 #
 15 3040 D _script dialog@d_NoWeaponInHand 0  #
 14 3050 @
-11 4000 None 0 #
+11 4000 main@dlg_Caps 0 #
 13 4010 D _item p PID_Q_LA_WAREHOUSE_LETTER > 0 D _script dialog@d_WeaponInHand 0  R _item p PID_Q_LA_WAREHOUSE_LETTER - 1 #
 13 4020 D _script dialog@d_WeaponInHand 0  #
 15 4030 D _item p PID_Q_LA_WAREHOUSE_LETTER > 0 D _script dialog@d_NoWeaponInHand 0  R _item p PID_Q_LA_WAREHOUSE_LETTER - 1 #
 15 4040 D _script dialog@d_NoWeaponInHand 0  #
 14 4050 @
-12 5000 None 0 #
+12 5000 main@dlg_Caps 0 #
 80 5010 @
-13 6000 None 0 #
+13 6000 main@dlg_Caps 0 #
 20 6010 R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 2 @
-14 7000 None 0 #
+14 7000 main@dlg_Caps 0 #
 13 7010 #
 13 7020 @
-15 8000 None 0 #
+15 8000 main@dlg_Caps 0 #
 20 8010 R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 2 @
-20 9000 None 0 #
+20 9000 main@dlg_Caps 0 #
 21 9010 R _var p q_la_warehouse_rape_points + 5 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 22 9020 R _var p q_la_warehouse_rape_points + 10 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 30 9030 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 3 @
-21 10000 None 0 #
+21 10000 main@dlg_Caps 0 #
 30 10010 R _var p q_la_warehouse_dialog_status = 3 @
-22 11000 None 0 #
+22 11000 main@dlg_Caps 0 #
 30 11010 R _var p q_la_warehouse_dialog_status = 3 @
-30 12000 None 0 #
+30 12000 main@dlg_Caps 0 #
 31 12010 R _script dialog@r_RemoveArmor 0  R _var p q_la_warehouse_rape_points + 2 R _script dialog@r_RemoveWeapon 0  #
 32 12020 R _var p q_la_warehouse_rape_points + 5 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 33 12030 R _var p q_la_warehouse_rape_points + 2 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 34 12040 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  @
-31 13000 None 0 #
+31 13000 main@dlg_Caps 0 #
 40 13010 R _script dialog@r_RemoveArmor 0  R _var p q_la_warehouse_dialog_status = 4 @
-32 14000 None 0 #
+32 14000 main@dlg_Caps 0 #
 40 14010 R _script dialog@r_RemoveArmor 0  R _var p q_la_warehouse_dialog_status = 4 @
-33 15000 None 0 #
+33 15000 main@dlg_Caps 0 #
 40 15010 R _script dialog@r_RemoveArmor 0  R _var p q_la_warehouse_dialog_status = 4 @
-34 16000 None 0 #
+34 16000 main@dlg_Caps 0 #
 40 16010 R _script dialog@r_RemoveArmor 0  R _var p q_la_warehouse_dialog_status = 4 @
-40 17000 None 0 #
+40 17000 main@dlg_Caps 0 #
 41 17010 R _var p q_la_warehouse_rape_points + 10 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 42 17020 R _var p q_la_warehouse_rape_points + 5 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 50 17030 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 5 @
-41 18000 None 0 #
+41 18000 main@dlg_Caps 0 #
 50 18010 R _var p q_la_warehouse_dialog_status = 5 @
-42 19000 None 0 #
+42 19000 main@dlg_Caps 0 #
 50 19010 R _var p q_la_warehouse_dialog_status = 5 @
-50 20000 None 0 #
+50 20000 main@dlg_Caps 0 #
 60 20010 R _var p q_la_warehouse_rape_points + 5 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 6 #
 60 20020 R _var p q_la_warehouse_rape_points + 2 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 6 #
 61 20030 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse_dialog_status = 7 @
-60 21000 None 0 #
+60 21000 main@dlg_Caps 0 #
 70 21010 D _var p q_la_warehouse_rape_points } 30 R _script quest_la_warehouse@r_FlushScreen 0  R _param p ST_EXPERIENCE + 250 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 71 21020 D _var p q_la_warehouse_rape_points > 15 D _var p q_la_warehouse_rape_points < 30 R _script quest_la_warehouse@r_FlushScreen 0  R _param p ST_EXPERIENCE + 250 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 72 21030 D _var p q_la_warehouse_rape_points < 15 R _script quest_la_warehouse@r_FlushScreen 0  R _param p ST_EXPERIENCE + 250 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  @
-61 22000 None 0 #
+61 22000 main@dlg_Caps 0 #
 70 22010 D _var p q_la_warehouse_rape_points } 30 R _script quest_la_warehouse@r_FlushScreen 0  R _param p ST_EXPERIENCE + 250 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 71 22020 D _var p q_la_warehouse_rape_points > 15 D _var p q_la_warehouse_rape_points < 30 R _script quest_la_warehouse@r_FlushScreen 0  R _param p ST_EXPERIENCE + 250 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  #
 72 22030 D _var p q_la_warehouse_rape_points < 15 R _script quest_la_warehouse@r_FlushScreen 0  R _param p ST_EXPERIENCE + 250 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  @
-70 23000 None 0 #
+70 23000 main@dlg_Caps 0 #
 65507 23010 R _script dialog@r_RemoveArmor 0  R _script dialog@r_RemoveWeapon 0  R _var p q_la_warehouse = 4 R _var p player_is_raped = 1 @
-71 24000 None 0 #
+71 24000 main@dlg_Caps 0 #
 0 24010 R _var p q_la_warehouse = 4 R _script quest_la_warehouse@r_RemovePunks 0  R _var p player_is_raped = 1 @
-72 25000 None 0 #
+72 25000 main@dlg_Caps 0 #
 0 25010 R _var p q_la_warehouse = 4 R _script quest_la_warehouse@r_RemovePunks 0  R _var p player_is_raped = 1 @
-80 26000 None 0 #
+80 26000 main@dlg_Caps 0 #
 81 26010 #
 81 26020 #
 81 26030 @
-81 27000 None 0 #
+81 27000 main@dlg_Caps 0 #
 0 27010 R _var p q_la_warehouse = 6 R _script quest_la_warehouse@r_RemovePunks 0  &
 
 [engl]
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}
@@ -277,7 +277,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}
@@ -367,7 +367,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}
@@ -457,7 +457,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}

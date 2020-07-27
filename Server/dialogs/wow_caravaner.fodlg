@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Caravaner}
@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Current routs are getting more and more dangerous.@@I heard Van Graffs are going to buy Stockman's.@@Once you are in Boneyard - watch your pockets. Just a friendly advice.@@At least this one was lucky...@@Sorry, I am busy now.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Current routs are getting more and more dangerous.@@I heard Van Graffs are going to buy Stockman's.@@Once you are in Boneyard - watch your pockets. Just a friendly advice.@@At least this one was lucky...@@Sorry, I am busy now.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Current routs are getting more and more dangerous.@@I heard Van Graffs are going to buy Stockman's.@@Once you are in Boneyard - watch your pockets. Just a friendly advice.@@At least this one was lucky...@@Sorry, I am busy now.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Current routs are getting more and more dangerous.@@I heard Van Graffs are going to buy Stockman's.@@Once you are in Boneyard - watch your pockets. Just a friendly advice.@@At least this one was lucky...@@Sorry, I am busy now.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Current routs are getting more and more dangerous.@@I heard Van Graffs are going to buy Stockman's.@@Once you are in Boneyard - watch your pockets. Just a friendly advice.@@At least this one was lucky...@@Sorry, I am busy now.}

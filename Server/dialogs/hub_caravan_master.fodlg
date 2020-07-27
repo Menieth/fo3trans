@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 10 2010 #
 3 2020 #
 4 2030 #
@@ -18,7 +18,7 @@ lang=engl czec pols span russ
 8 2070 #
 9 2080 #
 0 2090 @
-10 3000 None 0 #
+10 3000 main@dlg_Caps 0 #
 2 3010 #
 0 3020 @
 3 4000 caravans@dlg_CaravanLocation1 0 #
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {10030}{}{|4291297280 [GM] Reset caravan (kill driver).}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{[They flash you a quick glance, but don't take their eyes away from their electronic clipboard] Howdy stranger, I'm the caravan master around these parts. If you're looking for work you'll have to ask one of the drivers. But if you're looking for the location of a specifc caravan I can help you out.}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {10030}{}{|4291297280 [GM] Reset caravan (kill driver).}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{[They flash you a quick glance, but don't take their eyes away from their electronic clipboard] Howdy stranger, I'm the caravan master around these parts. If you're looking for work you'll have to ask one of the drivers. But if you're looking for the location of a specifc caravan I can help you out.}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {10030}{}{|4291297280 [GM] Reset caravan (kill driver).}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{[They flash you a quick glance, but don't take their eyes away from their electronic clipboard] Howdy stranger, I'm the caravan master around these parts. If you're looking for work you'll have to ask one of the drivers. But if you're looking for the location of a specifc caravan I can help you out.}
@@ -239,7 +239,7 @@ lang=engl czec pols span russ
 {10030}{}{|4291297280 [GM] Reset caravan (kill driver).}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{[They flash you a quick glance, but don't take their eyes away from their electronic clipboard] Howdy stranger, I'm the caravan master around these parts. If you're looking for work you'll have to ask one of the drivers. But if you're looking for the location of a specifc caravan I can help you out.}

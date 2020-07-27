@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 3 1020 D _param p ST_KARMA < -100 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Farmer}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Get out of here.@@We don't like folks like you around here.@@Don't make me get the sheriff.@@Go on, git!@@No good troublemaking... (mumbles)@@What the fuck are you looking at?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}

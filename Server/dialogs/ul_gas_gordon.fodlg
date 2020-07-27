@@ -6,35 +6,35 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 #
 65506 2020 #
 4 2030 #
 9 2040 D _var p q_bos_initiatequest_start = 21 D _var p name_mem_npc_player = 0 D _var p q_bos_hummer = 1 #
 0 2050 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 8 3010 #
 0 3020 #
 0 3030 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 65506 4010 #
 0 4020 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 7 5010 #
 0 5020 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 5 7010 #
 0 7020 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 10 8010 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 11 9010 R _var p name_mem_npc_player = 1 R _var p q_bos_hummer = 2 R _item p PID_CAR_REPLACEMENT_PARTS + 1 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 0 10010 &
 
 [engl]
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}

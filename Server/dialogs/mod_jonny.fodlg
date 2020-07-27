@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Johnny}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello, I haven’t seen you around here before.@@My name is Jonny. What’s yours?@@Hello again.@@You know, I'm not afraid of the dark anymore!@@I’m not supposed to talk to strangers. Bye.@@No. I’m going to go play with my friends now. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{generic}
 {2000}{}{Hello, I haven’t seen you around here before.@@My name is Jonny. What’s yours?@@Hello again.@@You know, I'm not afraid of the dark anymore!@@I’m not supposed to talk to strangers. Bye.@@No. I’m going to go play with my friends now. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{generic}
 {2000}{}{Hello, I haven’t seen you around here before.@@My name is Jonny. What’s yours?@@Hello again.@@You know, I'm not afraid of the dark anymore!@@I’m not supposed to talk to strangers. Bye.@@No. I’m going to go play with my friends now. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{generic}
 {2000}{}{Hello, I haven’t seen you around here before.@@My name is Jonny. What’s yours?@@Hello again.@@You know, I'm not afraid of the dark anymore!@@I’m not supposed to talk to strangers. Bye.@@No. I’m going to go play with my friends now. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{generic}
 {2000}{}{Hello, I haven’t seen you around here before.@@My name is Jonny. What’s yours?@@Hello again.@@You know, I'm not afraid of the dark anymore!@@I’m not supposed to talk to strangers. Bye.@@No. I’m going to go play with my friends now. Bye.}

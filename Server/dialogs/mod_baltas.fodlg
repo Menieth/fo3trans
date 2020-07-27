@@ -6,42 +6,42 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 8 1010 D _var p q_modoc_balthas_fetcher = 3 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 80 2020 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckArmorer0 1 0 #
 81 2030 D _script dialog@d_CheckArmorer1 1 0 #
 5 2040 D _var n acquaintance = 0 D _var p q_modoc_balthas_fetcher = 0 D _script dialog@d_QuestTimeoutReady 0  #
 7 2050 D _var n acquaintance = 1 D _var p q_modoc_balthas_fetcher = 0 D _script dialog@d_QuestTimeoutReady 0  #
 0 2060 @
-3 3000 None 0 @
-4 4000 None 0 @
-5 5000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 D _param p ST_CHARISMA < 11 R _var p q_modoc_balthas_fetcher = 1 #
 2 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 D _param p ST_CHARISMA < 11 R _var p q_modoc_balthas_fetcher = 1 #
 2 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 R _param p ST_EXPERIENCE + 900 R _item p PID_CURED_LEATHER_ARMOR + 1 R _var p q_modoc_balthas_fetcher = 0 R _var n acquaintance = 1 R _script dialog@r_QuestTimeout 1 5 @
-80 11000 None 0 #
-82 11010 D _item p PID_BOTTLE_CAPS > 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_ARMORER = 1 #
+80 11000 main@dlg_Caps 0 #
+82 11010 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_ARMORER = 1 #
 0 11020 @
-81 12000 None 0 #
-83 12010 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_ARMORER = 2 #
+81 12000 main@dlg_Caps 0 #
+83 12010 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_ARMORER = 2 #
 0 12020 @
-82 13000 None 0 #
+82 13000 main@dlg_Caps 0 #
 0 13010 @
-83 14000 None 0 #
+83 14000 main@dlg_Caps 0 #
 0 14010 &
 
 [engl]
@@ -75,8 +75,8 @@ lang=engl czec pols span russ
 {9010}{}{Well, I'm glad to help out.}
 {10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
 {10010}{}{Thanks man, really. I appreciate your candour.}
-{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
-{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred @lex money@.}
+{11010}{}{Fifteen hundred @lex money@? Here, it better be worth it!}
 {11020}{}{Sorry, that's too much for me. I might be back later, though.}
 {12000}{}{Well, I think there is something I could show you... For three grand.}
 {12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -115,8 +115,8 @@ lang=engl czec pols span russ
 {9010}{}{Well, I'm glad to help out.}
 {10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
 {10010}{}{Thanks man, really. I appreciate your candour.}
-{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
-{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred @lex money@.}
+{11010}{}{Fifteen hundred @lex money@? Here, it better be worth it!}
 {11020}{}{Sorry, that's too much for me. I might be back later, though.}
 {12000}{}{Well, I think there is something I could show you... For three grand.}
 {12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -155,8 +155,8 @@ lang=engl czec pols span russ
 {9010}{}{Well, I'm glad to help out.}
 {10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
 {10010}{}{Thanks man, really. I appreciate your candour.}
-{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
-{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred @lex money@.}
+{11010}{}{Fifteen hundred @lex money@? Here, it better be worth it!}
 {11020}{}{Sorry, that's too much for me. I might be back later, though.}
 {12000}{}{Well, I think there is something I could show you... For three grand.}
 {12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -195,8 +195,8 @@ lang=engl czec pols span russ
 {9010}{}{Well, I'm glad to help out.}
 {10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
 {10010}{}{Thanks man, really. I appreciate your candour.}
-{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
-{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred @lex money@.}
+{11010}{}{Fifteen hundred @lex money@? Here, it better be worth it!}
 {11020}{}{Sorry, that's too much for me. I might be back later, though.}
 {12000}{}{Well, I think there is something I could show you... For three grand.}
 {12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -235,8 +235,8 @@ lang=engl czec pols span russ
 {9010}{}{Well, I'm glad to help out.}
 {10000}{}{Say, now that I've got a bit more material to work with, I think I can spare an old jacket for you, since I can't really offer you much else.}
 {10010}{}{Thanks man, really. I appreciate your candour.}
-{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred caps.}
-{11010}{}{Fifteen hundred caps? Here, it better be worth it!}
+{11000}{}{Of course I can, that's exactly what I do to earn a living. [Looking carefully at you] Hmmm, interested in expanding your skills, eh? OK, you look like you know some of the basics already... I can show you some tips, but it'll cost you fifteen hundred @lex money@.}
+{11010}{}{Fifteen hundred @lex money@? Here, it better be worth it!}
 {11020}{}{Sorry, that's too much for me. I might be back later, though.}
 {12000}{}{Well, I think there is something I could show you... For three grand.}
 {12010}{}{I just happen to have $3000 ready for you... [You give him the money] Let's get to it.}

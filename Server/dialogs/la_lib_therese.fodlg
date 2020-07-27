@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 10 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _var p name_mem_npc_player = 0 D _param p ST_INTELLECT > 3 R _var p name_mem_npc_player + 1 #
 4 1030 D _param p ST_INTELLECT > 3 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p q_la_library_book = 2 R _var p q_la_library_book = 3 R _item p PID_DEANS_ELECTRONICS - 1 R _param p ST_EXPERIENCE + 500 R _param p REPUTATION_FOLLOWERS + 5 #
 500 2020 D _script perks@d_PerkCheck 1 319 R _param p PE_EDUCATED = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 3 4010 D _var p q_la_library_book = 2 R _var p q_la_library_book = 3 R _param p ST_EXPERIENCE + 500 R _param p REPUTATION_FOLLOWERS + 5 R _item p PID_DEANS_ELECTRONICS - 1 #
 500 4020 D _script perks@d_PerkCheck 1 319 R _param p PE_EDUCATED = 1 #
 0 4030 @
-10 5000 None 0 @
-500 6000 None 0 #
+10 5000 main@dlg_Caps 0 @
+500 6000 main@dlg_Caps 0 #
 501 6010 @
-501 7000 None 0 &
+501 7000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Therese}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {7000}{}{You're welcome. Have a nice day, wanderer.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {7000}{}{You're welcome. Have a nice day, wanderer.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {7000}{}{You're welcome. Have a nice day, wanderer.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {7000}{}{You're welcome. Have a nice day, wanderer.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}

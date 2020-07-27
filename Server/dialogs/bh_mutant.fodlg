@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 3 1020 D _param p ST_KARMA < -100 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mutant}
@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3000}{}{Why do you hurt us?@@Humans never trust me.@@Leave me alone.@@Why don’t you die already?@@Why is it that humans always crush what they fear?@@You are scum.@@Your life is worthless.@@You… I remember a person like you…@@I’m too old even to hate you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -34,7 +34,7 @@ lang=engl czec pols span russ
 {3000}{}{Why do you hurt us?@@Humans never trust me.@@Leave me alone.@@Why don’t you die already?@@Why is it that humans always crush what they fear?@@You are scum.@@Your life is worthless.@@You… I remember a person like you…@@I’m too old even to hate you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {3000}{}{Why do you hurt us?@@Humans never trust me.@@Leave me alone.@@Why don’t you die already?@@Why is it that humans always crush what they fear?@@You are scum.@@Your life is worthless.@@You… I remember a person like you…@@I’m too old even to hate you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {3000}{}{Why do you hurt us?@@Humans never trust me.@@Leave me alone.@@Why don’t you die already?@@Why is it that humans always crush what they fear?@@You are scum.@@Your life is worthless.@@You… I remember a person like you…@@I’m too old even to hate you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}

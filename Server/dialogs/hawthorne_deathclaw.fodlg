@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 1 &
+2 2000 main@dlg_Caps 1 &
 
 [engl]
 {100}{}{Deathclaw}
@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrrr@@Yeah?@@*growls*@@Do you need something?@@Yes, I am a talking Deathclaw, are you surprised?@@You better pay some respect to the mayor.@@Behave.}

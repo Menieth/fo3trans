@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p factions_player_faction = 6 #
 3 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Servant}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}

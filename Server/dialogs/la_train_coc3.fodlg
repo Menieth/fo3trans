@@ -6,85 +6,85 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 14 1010 D _var p train_coc_mad = 1 #
 15 1020 D _var p name_mem_npc_player = 1 D _script dialog@d_CheckNight 0  #
 13 1030 D _var p name_mem_npc_player = 1 #
 4 1040 D _var p name_mem_npc_player = 0 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 R _param p REPUTATION_CHILDREN + 100 R _var p name_mem_npc_player = 1 R _item p PID_FLOWER + 1 #
 12 4030 R _item p PID_FLOWER + 1 R _var p name_mem_npc_player = 1 R _param p REPUTATION_CHILDREN + 100 #
 16 4040 R _var p train_coc_mad = 1 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 9 5010 #
 7 5020 #
 10 5030 R _item p PID_FLOWER + 1 R _var p name_mem_npc_player = 1 R _param p REPUTATION_CHILDREN + 100 #
 16 5040 R _var p train_coc_mad = 1 #
 0 5050 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _var p name_mem_npc_player = 0 #
 11 7020 D _var p name_mem_npc_player = 1 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 10 8010 #
 16 8020 R _var p train_coc_mad = 1 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 R _item p PID_FLOWER + 1 R _var p name_mem_npc_player = 1 R _param p REPUTATION_CHILDREN + 100 #
 16 9020 R _var p train_coc_mad = 1 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 17 12010 #
 17 12020 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 0 13010 @
-13 14000 None 0 #
+13 14000 main@dlg_Caps 0 #
 17 14010 #
 0 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 17 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 0 16010 R _var p train_coc_mad = 1 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 #
 19 17020 #
 21 17030 #
 0 17040 @
-19 18000 None 0 #
+19 18000 main@dlg_Caps 0 #
 20 18010 D _param p ST_CHARISMA > 3 D _var p q_coc_train = 0 R _var p q_coc_train = 1 #
 17 18020 #
 0 18030 @
-20 19000 None 0 #
+20 19000 main@dlg_Caps 0 #
 0 19010 #
 17 19020 @
-21 20000 None 0 #
+21 20000 main@dlg_Caps 0 #
 17 20010 #
 0 20020 @
-18 21000 None 0 #
+18 21000 main@dlg_Caps 0 #
 23 21010 #
 22 21020 #
 0 21030 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 18 22010 #
 25 22020 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 24 23010 #
 25 23020 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 25 24010 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 22 25010 #
 24 25020 #
 21 25030 #
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {25040}{}{Enough of all this talking. I have to go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{talked already - bad mood}
 {1020}{}{talked already - good mood // night}
@@ -265,7 +265,7 @@ lang=engl czec pols span russ
 {25040}{}{Enough of all this talking. I have to go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{talked already - bad mood}
 {1020}{}{talked already - good mood // night}
@@ -351,7 +351,7 @@ lang=engl czec pols span russ
 {25040}{}{Enough of all this talking. I have to go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{talked already - bad mood}
 {1020}{}{talked already - good mood // night}
@@ -437,7 +437,7 @@ lang=engl czec pols span russ
 {25040}{}{Enough of all this talking. I have to go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{talked already - bad mood}
 {1020}{}{talked already - good mood // night}

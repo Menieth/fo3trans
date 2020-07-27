@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _item p PID_V15_KEYCARD < 1 #
 3 1020 D _item p PID_V15_KEYCARD } 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65507 2010 #
 65507 2020 #
 65507 2030 @
-3 3000 None 0 @
-4 4000 None 0 &
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Vault 32 Guard}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {4000}{}{ALARM! INTRUDERS IN THE VAULT!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{ALARM! INTRUDERS IN THE VAULT!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {4000}{}{ALARM! INTRUDERS IN THE VAULT!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4000}{}{ALARM! INTRUDERS IN THE VAULT!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

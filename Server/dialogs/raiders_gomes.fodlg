@@ -6,54 +6,54 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 41 1010 D _var n acquaintance > 2 #
 40 1020 D _param p ST_KARMA > 99 R _var n acquaintance + 1 #
 2 1030 D _var n name_mem_npc_player = 0 D _param p ST_KARMA < 100 #
 50 1040 D _item p PID_DOGTAGS > 0 D _script item_dogtags@d_HasFactionDogtags 2 FACTION_NCR_RANGERS 1 #
 8 1050 D _var n name_mem_npc_player = 1 D _param p ST_KARMA < 100 #
 0 1060 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var n name_mem_npc_player = 1 #
 65507 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 4 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 4 8010 #
 5 8020 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 8 9010 #
 0 9020 @
-40 10000 None 0 @
+40 10000 main@dlg_Caps 0 @
 41 11000 Attack 0 @
-50 12000 None 0 #
+50 12000 main@dlg_Caps 0 #
 51 12010 #
 0 12020 @
-51 13000 None 0 #
+51 13000 main@dlg_Caps 0 #
 52 13010 D _item p PID_DOGTAGS } 1 D _script item_dogtags@d_HasFactionDogtags 2 FACTION_NCR_RANGERS 1 R _script item_dogtags@r_RemoveFactionDogtags 2 FACTION_NCR_RANGERS 1 R _script dialog@r_AddReputationDogtags 2 FACTION_RAIDERS 1 #
 53 13020 D _item p PID_DOGTAGS } 3 D _script item_dogtags@d_HasFactionDogtags 2 FACTION_NCR_RANGERS 3 R _script item_dogtags@r_RemoveFactionDogtags 2 FACTION_NCR_RANGERS 3 R _script dialog@r_AddReputationDogtags 2 FACTION_RAIDERS 3 #
 54 13030 D _item p PID_DOGTAGS } 5 D _script item_dogtags@d_HasFactionDogtags 2 FACTION_NCR_RANGERS 5 R _script item_dogtags@r_RemoveFactionDogtags 2 FACTION_NCR_RANGERS 5 R _script dialog@r_AddReputationDogtags 2 FACTION_RAIDERS 5 #
 55 13040 D _item p PID_DOGTAGS } 10 D _script item_dogtags@d_HasFactionDogtags 2 FACTION_NCR_RANGERS 10 R _script item_dogtags@r_RemoveFactionDogtags 2 FACTION_NCR_RANGERS 10 R _script dialog@r_AddReputationDogtags 2 FACTION_RAIDERS 10 #
 56 13050 @
-52 14000 None 0 @
-53 15000 None 0 @
-54 16000 None 0 @
-55 17000 None 0 @
-56 18000 None 0 &
+52 14000 main@dlg_Caps 0 @
+53 15000 main@dlg_Caps 0 @
+54 16000 main@dlg_Caps 0 @
+55 17000 main@dlg_Caps 0 @
+56 18000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Heurelho Gomes}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -214,7 +214,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -265,7 +265,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}

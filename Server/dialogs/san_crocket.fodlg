@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 2 2010 #
 2 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 2 4020 #
 5 4030 #
 6 4040 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 2 6010 #
 0 6020 &
 
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {6020}{}{Hmm. Gotta go. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah? Whaddya want?}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {6020}{}{Hmm. Gotta go. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah? Whaddya want?}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {6020}{}{Hmm. Gotta go. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah? Whaddya want?}
@@ -128,7 +128,7 @@ lang=engl czec pols span russ
 {6020}{}{Hmm. Gotta go. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah? Whaddya want?}

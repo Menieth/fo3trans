@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 10 2020 R _script car_seller@r_CheckCar 1 0 #
 30 2030 #
@@ -24,17 +24,17 @@ lang=engl czec pols span russ
 7 3050 R _script car_seller@r_BuyCorvega 1 0 #
 2 3060 #
 0 3070 @
-5 4000 None 0 @
-6 5000 None 0 @
-7 6000 None 0 #
+5 4000 main@dlg_Caps 0 @
+6 5000 main@dlg_Caps 0 @
+7 6000 main@dlg_Caps 0 #
 0 6010 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 0 7010 @
 10 8000 car_seller@dlg_SellCar 0 #
 11 8010 R _script car_seller@r_SellCar 1 0 #
 0 8020 @
-11 9000 None 0 @
-30 10000 None 0 #
+11 9000 main@dlg_Caps 0 @
+30 10000 main@dlg_Caps 0 #
 31 10010 R _script car_seller@r_CheckCar 1 0 #
 32 10020 R _script car_seller@r_CheckCar 1 0 #
 33 10030 R _script car_seller@r_CheckCar 1 0 #
@@ -51,38 +51,38 @@ lang=engl czec pols span russ
 39 13010 R _script car_seller@r_DoBio 1 0 #
 37 13020 #
 65505 13030 @
-37 14000 None 0 @
-38 15000 None 0 @
-39 16000 None 0 @
-40 17000 None 0 @
-100 18000 None 0 @
-101 19000 None 0 @
-102 20000 None 0 @
-103 21000 None 0 @
-50 22000 None 0 @
-51 23000 None 0 #
+37 14000 main@dlg_Caps 0 @
+38 15000 main@dlg_Caps 0 @
+39 16000 main@dlg_Caps 0 @
+40 17000 main@dlg_Caps 0 @
+100 18000 main@dlg_Caps 0 @
+101 19000 main@dlg_Caps 0 @
+102 20000 main@dlg_Caps 0 @
+103 21000 main@dlg_Caps 0 @
+50 22000 main@dlg_Caps 0 @
+51 23000 main@dlg_Caps 0 #
 52 23010 D _param p ST_CHARISMA > 4 #
 54 23020 D _param p ST_CHARISMA < 5 R _var p acquaintance = 1 #
 0 23030 @
-52 24000 None 0 #
+52 24000 main@dlg_Caps 0 #
 53 24010 #
 0 24020 @
-53 25000 None 0 #
+53 25000 main@dlg_Caps 0 #
 56 25010 @
-54 26000 None 0 #
+54 26000 main@dlg_Caps 0 #
 55 26010 #
 0 26020 @
-55 27000 None 0 #
+55 27000 main@dlg_Caps 0 #
 65507 27010 #
 65507 27020 #
 65507 27030 @
-56 28000 None 0 #
+56 28000 main@dlg_Caps 0 #
 57 28010 #
 0 28020 @
-57 29000 None 0 #
+57 29000 main@dlg_Caps 0 #
 0 29010 R _var p q_mordinos_induction_doctor + 100 R _var p acquaintance = 1 @
-58 30000 None 0 @
-500 31000 None 0 #
+58 30000 main@dlg_Caps 0 @
+500 31000 main@dlg_Caps 0 #
 2 31010 #
 0 31020 &
 
@@ -174,7 +174,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}
@@ -256,7 +256,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}
@@ -338,7 +338,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}
@@ -420,7 +420,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}

@@ -6,29 +6,29 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p q_ncr_westin_inside = 0 D or D _var p q_ncr_westin_quest1_billboard = 0 #
 5 1020 D _var p name_mem_npc_player = 1 #
 2 1030 R _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 8 2010 D _var p q_ncr_westin_quest1_billboard ! 0 D _var p q_ncr_westin_quest1 = 0 #
 6 2020 D _var p q_ncr_westin_quest1 = 1 #
 4 2030 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _var p q_ncr_westin_quest1 = 1 #
 7 5020 D _var p q_ncr_westin_quest1 = 2 D or D _var p q_ncr_westin_quest1 = 3 D or D _var p q_ncr_westin_quest1 = 4 #
 4 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 R _script quest_ncr_brahmin@r_SpawnMap 0  R _var p q_ncr_westin_quest1 = 2 R _var p q_ncr_westin_inside = 0 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 &
 
 [engl]
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {9010}{}{[End]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{everything else}
 {1020}{}{known}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {9010}{}{[End]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{everything else}
 {1020}{}{known}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {9010}{}{[End]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{everything else}
 {1020}{}{known}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {9010}{}{[End]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{everything else}
 {1020}{}{known}

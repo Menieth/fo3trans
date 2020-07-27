@@ -6,36 +6,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 7 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 3 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 5 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 8 7020 #
 8 7030 #
 0 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 9 8020 #
 9 8030 #
 0 8040 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 65507 9010 #
 65507 9020 #
 65507 9030 #
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}
@@ -124,7 +124,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}
@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}

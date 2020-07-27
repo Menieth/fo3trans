@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 8 3010 R _script dialog@r_ChangeLightGroupParam 3 5 0 117440767 #
 8 3020 R _script dialog@r_ChangeLightGroupParam 3 5 0 127290112 #
 8 3030 R _script dialog@r_ChangeLightGroupParam 3 5 0 131863612 #
@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 8 3100 R _script dialog@r_ChangeLightGroupParam 3 5 0 134152447 #
 9 3110 #
 4 3120 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 8 4010 R _script dialog@r_SwtichLightGroup 2 5 1 #
 8 4020 R _script dialog@r_SwtichLightGroup 2 5 0 #
 3 4030 #
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 6 4050 #
 7 4060 #
 0 4070 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 8 5010 R _script dialog@r_ChangeLightGroupParam 3 5 2 1 #
 8 5020 R _script dialog@r_ChangeLightGroupParam 3 5 2 2 #
 8 5030 R _script dialog@r_ChangeLightGroupParam 3 5 2 4 #
@@ -41,17 +41,17 @@ lang=engl czec pols span russ
 8 5060 R _script dialog@r_ChangeLightGroupParam 3 5 2 32 #
 8 5070 R _script dialog@r_ChangeLightGroupParam 3 5 2 64 #
 4 5080 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 8 6010 R _script dialog@r_ChangeLightGroupParam 3 5 1 10 #
 8 6020 R _script dialog@r_ChangeLightGroupParam 3 5 1 25 #
 8 6030 R _script dialog@r_ChangeLightGroupParam 3 5 1 50 #
 8 6040 R _script dialog@r_ChangeLightGroupParam 3 5 1 75 #
 8 6050 R _script dialog@r_ChangeLightGroupParam 3 5 1 100 #
 4 6060 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 4 7010 @
-8 8000 None 0 @
-9 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 3 9010 #
 8 9020 R _script dialog@r_ChangeLightGroupParam 3 5 0 117440640 #
 8 9030 R _script dialog@r_ChangeLightGroupParam 3 5 0 125861888 #
@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 4 9120 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -249,7 +249,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -310,7 +310,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}

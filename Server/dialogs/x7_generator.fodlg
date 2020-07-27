@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 D _item p PID_MICRO_FUSION_CELL } 70 R _item p PID_MICRO_FUSION_CELL - 70 #
 0 2030 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 5 4020 D _item p PID_MICRO_FUSION_CELL = 0 R _var p x7_generator = 1 #
 0 4030 R _script dialog@r_ToDead 1 Anim2DeadPulse @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}

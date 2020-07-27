@@ -6,10 +6,10 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p KARMA_SLAVER > 0 #
 24 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 22 2020 #
 20 2030 #
@@ -17,50 +17,50 @@ lang=engl czec pols span russ
 23 2050 #
 13 2060 R _script merc_dialog@r_GetSlaveTypes 1 0 #
 0 2070 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 D _param p KARMA_SLAVER > 0 #
 24 3020 D _param p KARMA_SLAVER = 0 #
 0 3030 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 0 4010 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 0 5010 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 0 6010 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 0 7010 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 0 8010 @
 14 9000 merc_dialog@dlg_ShowMaleSlavesPrices 0 #
-5 9010 D _item p PID_BOTTLE_CAPS > 699 R _script merc_dialog@r_HireMerc 1 12 #
-5 9020 D _item p PID_BOTTLE_CAPS > 999 R _script merc_dialog@r_HireMerc 1 13 #
+5 9010 D _script dialog@d_havepropermoney 1 699 R _script merc_dialog@r_HireMerc 1 12 #
+5 9020 D _script dialog@d_havepropermoney 1 999 R _script merc_dialog@r_HireMerc 1 13 #
 0 9030 @
 15 10000 merc_dialog@dlg_ShowFemaleSlavesPrices 0 #
 5 10010 D _script merc_dialog@d_CanAffordMerc 1 15 R _script merc_dialog@r_HireMerc 1 15 #
 5 10020 D _script merc_dialog@d_CanAffordMerc 1 16 R _script merc_dialog@r_HireMerc 1 16 #
 0 10030 @
-13 11000 None 0 #
+13 11000 main@dlg_Caps 0 #
 25 11010 #
 26 11020 #
 27 11030 #
 0 11040 @
-20 12000 None 0 #
+20 12000 main@dlg_Caps 0 #
 2 12010 D _param p KARMA_SLAVER > 0 #
 24 12020 D _param p KARMA_SLAVER = 0 #
 0 12030 @
-21 13000 None 0 #
+21 13000 main@dlg_Caps 0 #
 2 13010 D _param p KARMA_SLAVER > 0 #
 24 13020 D _param p KARMA_SLAVER = 0 #
 0 13030 @
-22 14000 None 0 #
+22 14000 main@dlg_Caps 0 #
 2 14010 D _param p KARMA_SLAVER > 0 #
 24 14020 D _param p KARMA_SLAVER = 0 #
 0 14030 @
-23 15000 None 0 #
+23 15000 main@dlg_Caps 0 #
 14 15010 #
 15 15020 #
 0 15030 @
-24 16000 None 0 #
+24 16000 main@dlg_Caps 0 #
 3 16010 #
 22 16020 #
 20 16030 #
@@ -68,30 +68,30 @@ lang=engl czec pols span russ
 30 16050 #
 30 16060 #
 0 16070 @
-25 17000 None 0 #
+25 17000 main@dlg_Caps 0 #
 28 17010 D _script merc_dialog@d_IsSlavePresent 1 14 R _script merc_dialog@r_SetMerc 1 14 #
 28 17020 D _script merc_dialog@d_IsSlavePresent 1 13 R _script merc_dialog@r_SetMerc 1 13 #
 28 17030 D _script merc_dialog@d_IsSlavePresent 1 12 R _script merc_dialog@r_SetMerc 1 12 #
 28 17040 D _script merc_dialog@d_IsSlavePresent 1 21 R _script merc_dialog@r_SetMerc 1 21 #
 65505 17050 @
-26 18000 None 0 #
+26 18000 main@dlg_Caps 0 #
 28 18010 D _script merc_dialog@d_IsSlavePresent 1 17 R _script merc_dialog@r_SetMerc 1 17 #
 28 18020 D _script merc_dialog@d_IsSlavePresent 1 16 R _script merc_dialog@r_SetMerc 1 16 #
 28 18030 D _script merc_dialog@d_IsSlavePresent 1 15 R _script merc_dialog@r_SetMerc 1 15 #
 28 18040 D _script merc_dialog@d_IsSlavePresent 1 22 R _script merc_dialog@r_SetMerc 1 22 #
 65505 18050 @
-27 19000 None 0 #
+27 19000 main@dlg_Caps 0 #
 28 19010 D _script merc_dialog@d_IsSlavePresent 1 20 R _script merc_dialog@r_SetMerc 1 20 #
 65505 19020 @
 28 20000 merc_dialog@dlg_ShowMercSellPrice 0 #
 11 20010 R _script merc_dialog@r_SellCurrentMerc 1 0 #
 0 20020 @
-11 21000 None 0 #
+11 21000 main@dlg_Caps 0 #
 13 21010 R _script merc_dialog@r_GetSlaveTypes 1 0 #
 0 21020 @
-30 22000 None 0 #
+30 22000 main@dlg_Caps 0 #
 0 22010 @
-10 23000 None 0 #
+10 23000 main@dlg_Caps 0 #
 0 23010 &
 
 [engl]
@@ -124,13 +124,13 @@ lang=engl czec pols span russ
 {7010}{}{You're right...}
 {8000}{}{Get out you tard, you're clearly not in the right shape to handle these slaves.}
 {8010}{}{Whatever.}
-{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ caps and the normals costs @lex price1@ caps What do you want? }
-{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ caps.]}
-{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ caps.]}
+{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ @lex money@ and the normals costs @lex price1@ @lex money@ What do you want? }
+{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ @lex money@.]}
+{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ @lex money@.]}
 {9030}{}{Nah, I have no money at the moment. Bye.}
-{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ caps, @lex price1@ caps for the marginally better ones. What do you want? }
-{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ caps.]}
-{10020}{}{One of the normal ones, please. [You pay him @lex price1@ caps.]}
+{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ @lex money@, @lex price1@ @lex money@ for the marginally better ones. What do you want? }
+{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ @lex money@.]}
+{10020}{}{One of the normal ones, please. [You pay him @lex price1@ @lex money@.]}
 {10030}{}{Nah, I have no money at the moment. Bye.}
 {11000}{}{Okay, show me what you've got.}
 {11010}{}{Got some men to spare.}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -214,13 +214,13 @@ lang=engl czec pols span russ
 {7010}{}{You're right...}
 {8000}{}{Get out you tard, you're clearly not in the right shape to handle these slaves.}
 {8010}{}{Whatever.}
-{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ caps and the normals costs @lex price1@ caps What do you want? }
-{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ caps.]}
-{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ caps.]}
+{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ @lex money@ and the normals costs @lex price1@ @lex money@ What do you want? }
+{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ @lex money@.]}
+{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ @lex money@.]}
 {9030}{}{Nah, I have no money at the moment. Bye.}
-{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ caps, @lex price1@ caps for the marginally better ones. What do you want? }
-{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ caps.]}
-{10020}{}{One of the normal ones, please. [You pay him @lex price1@ caps.]}
+{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ @lex money@, @lex price1@ @lex money@ for the marginally better ones. What do you want? }
+{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ @lex money@.]}
+{10020}{}{One of the normal ones, please. [You pay him @lex price1@ @lex money@.]}
 {10030}{}{Nah, I have no money at the moment. Bye.}
 {11000}{}{Okay, show me what you've got.}
 {11010}{}{Got some men to spare.}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -304,13 +304,13 @@ lang=engl czec pols span russ
 {7010}{}{You're right...}
 {8000}{}{Get out you tard, you're clearly not in the right shape to handle these slaves.}
 {8010}{}{Whatever.}
-{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ caps and the normals costs @lex price1@ caps What do you want? }
-{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ caps.]}
-{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ caps.]}
+{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ @lex money@ and the normals costs @lex price1@ @lex money@ What do you want? }
+{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ @lex money@.]}
+{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ @lex money@.]}
 {9030}{}{Nah, I have no money at the moment. Bye.}
-{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ caps, @lex price1@ caps for the marginally better ones. What do you want? }
-{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ caps.]}
-{10020}{}{One of the normal ones, please. [You pay him @lex price1@ caps.]}
+{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ @lex money@, @lex price1@ @lex money@ for the marginally better ones. What do you want? }
+{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ @lex money@.]}
+{10020}{}{One of the normal ones, please. [You pay him @lex price1@ @lex money@.]}
 {10030}{}{Nah, I have no money at the moment. Bye.}
 {11000}{}{Okay, show me what you've got.}
 {11010}{}{Got some men to spare.}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -394,13 +394,13 @@ lang=engl czec pols span russ
 {7010}{}{You're right...}
 {8000}{}{Get out you tard, you're clearly not in the right shape to handle these slaves.}
 {8010}{}{Whatever.}
-{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ caps and the normals costs @lex price1@ caps What do you want? }
-{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ caps.]}
-{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ caps.]}
+{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ @lex money@ and the normals costs @lex price1@ @lex money@ What do you want? }
+{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ @lex money@.]}
+{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ @lex money@.]}
 {9030}{}{Nah, I have no money at the moment. Bye.}
-{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ caps, @lex price1@ caps for the marginally better ones. What do you want? }
-{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ caps.]}
-{10020}{}{One of the normal ones, please. [You pay him @lex price1@ caps.]}
+{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ @lex money@, @lex price1@ @lex money@ for the marginally better ones. What do you want? }
+{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ @lex money@.]}
+{10020}{}{One of the normal ones, please. [You pay him @lex price1@ @lex money@.]}
 {10030}{}{Nah, I have no money at the moment. Bye.}
 {11000}{}{Okay, show me what you've got.}
 {11010}{}{Got some men to spare.}
@@ -458,7 +458,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -484,13 +484,13 @@ lang=engl czec pols span russ
 {7010}{}{You're right...}
 {8000}{}{Get out you tard, you're clearly not in the right shape to handle these slaves.}
 {8010}{}{Whatever.}
-{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ caps and the normals costs @lex price1@ caps What do you want? }
-{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ caps.]}
-{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ caps.]}
+{9000}{}{Males, very well. I have some good slaves. The dumbest cost you @lex price0@ @lex money@ and the normals costs @lex price1@ @lex money@ What do you want? }
+{9010}{}{I am searching for the dumbest you have. [You pay him @lex price0@ @lex money@.]}
+{9020}{}{"Normals"? You're a fucking charmer, Vortis. Well, guess I don't want a stupid one. I'll take a, uh 'Normal'. [You pay him @lex price1@ @lex money@.]}
 {9030}{}{Nah, I have no money at the moment. Bye.}
-{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ caps, @lex price1@ caps for the marginally better ones. What do you want? }
-{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ caps.]}
-{10020}{}{One of the normal ones, please. [You pay him @lex price1@ caps.]}
+{10000}{}{Females, very well. I have some good slaves. Shit ones are @lex price0@ @lex money@, @lex price1@ @lex money@ for the marginally better ones. What do you want? }
+{10010}{}{Guess I'll take a shit one.. [You pay him @lex price0@ @lex money@.]}
+{10020}{}{One of the normal ones, please. [You pay him @lex price1@ @lex money@.]}
 {10030}{}{Nah, I have no money at the moment. Bye.}
 {11000}{}{Okay, show me what you've got.}
 {11010}{}{Got some men to spare.}

@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_player_npc = 0 R _var n name_mem_player_npc = 1 #
 3 1020 D _var n name_mem_player_npc = 1 #
 4 1030 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 6 2020 D _script dialog@d_IsToHeal 0  #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 6 3020 D _script dialog@d_IsToHeal 0  #
 0 3030 @
-4 4000 None 0 @
-5 5000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 5 5010 #
 7 5020 #
 6 5030 D _script dialog@d_IsToHeal 0  #
@@ -27,25 +27,25 @@ lang=engl czec pols span russ
 6 6000 dialog@dlg_ShowHealingPrice 0 #
 13 6010 D _script dialog@d_HealingMoney 0  #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 3 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 R _script dialog@r_DocHeal 0  &
 
 [engl]
@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -184,7 +184,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -228,7 +228,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

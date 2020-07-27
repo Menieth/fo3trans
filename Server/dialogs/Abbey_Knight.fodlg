@@ -6,8 +6,8 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 @
-2 2000 None 0 &
+1 1000 main@dlg_Caps 1 @
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Brotherhood Knight}
@@ -16,22 +16,22 @@ lang=engl czec pols span russ
 {2000}{}{...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{...}
 

@@ -6,49 +6,49 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 15 1010 D _param p ST_STRENGTH > 99 D _param p ST_STRENGTH > 10 D _script dialog@d_CheckNight 0  #
 5 1020 D _script dialog@d_WeaponInHand 0  #
 2 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 9 2010 D _param p ST_INTELLECT > 3 #
 4 2020 D _param p ST_INTELLECT > 3 #
 11 2030 D _param p ST_INTELLECT > 3 #
 0 2040 D _param p ST_INTELLECT > 3 #
 0 2050 D _param p ST_INTELLECT < 4 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 12 3010 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 6 4010 #
 0 4020 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 0 5010 #
 7 5020 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 8 6010 #
 8 6020 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 65507 7010 #
 0 7020 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 10 8010 #
 0 8020 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 0 9010 #
 0 9020 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 0 10010 #
 14 10020 D _param p ST_GENDER = 1 #
 12 10030 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 9 11010 #
 4 11020 #
 0 11030 @
-13 12000 None 0 @
-14 13000 None 0 #
+13 12000 main@dlg_Caps 0 @
+14 13000 main@dlg_Caps 0 #
 0 13010 #
 12 13020 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 16 14010 D _param p ST_INTELLECT > 3 #
 0 14020 D _param p ST_INTELLECT > 3 #
 12 14030 D _param p ST_INTELLECT > 3 #
@@ -56,14 +56,14 @@ lang=engl czec pols span russ
 17 14050 D _param p ST_INTELLECT < 4 #
 19 14060 D _param p REPUTATION_JUNKTOWN < 500 D or D _script dialog@d_IsGangMember 0  #
 19 14070 D _param p REPUTATION_JUNKTOWN } 500 D or D _script dialog@d_NotMemberOfAnyFaction 0  @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 0 15010 @
-17 16000 None 0 #
+17 16000 main@dlg_Caps 0 #
 0 16010 @
-18 17000 None 0 #
+18 17000 main@dlg_Caps 0 #
 0 17010 #
 12 17020 @
-19 18000 None 0 #
+19 18000 main@dlg_Caps 0 #
 0 18010 R _script dialog@r_TeleportToMap 2 70 4 R _script dialog@r_TeleportToMapFollowers 2 70 4 #
 0 18020 &
 
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {18020}{}{I have changed my mind. Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {18020}{}{I have changed my mind. Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}
@@ -326,7 +326,7 @@ lang=engl czec pols span russ
 {18020}{}{I have changed my mind. Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}

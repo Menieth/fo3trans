@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 #
 4 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _param p ST_INTELLECT } 4 D _var p q_first_tent < 2 #
 3 2020 D _param p ST_INTELLECT < 4 D _var p q_first_tent < 2 #
 4 2030 D _param p ST_INTELLECT } 4 D _var p q_first_tent = 2 #
 4 2040 D _param p ST_INTELLECT < 4 D _var p q_first_tent = 2 #
 4 2050 D _param p ST_INTELLECT } 4 D _var p q_first_tent > 2 #
 4 2060 D _param p ST_INTELLECT < 4 D _var p q_first_tent > 2 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 D _param p ST_INTELLECT } 4 #
 0 3020 D _param p ST_INTELLECT < 4 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Sally}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}

@@ -6,59 +6,59 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 15 1010 D _var p q_cath_basement = 5 #
 14 1020 D _var p q_cath_basement = 4 #
 13 1030 D _var p q_cath_basement } 1 #
 2 1040 @
-2 2000 None 1 #
+2 2000 main@dlg_Caps 1 #
 3 2010 #
 11 2020 D _var p name_mem_npc_player = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _param p ST_LEVEL < 5 #
 7 4020 D _param p ST_LEVEL } 5 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 R _var p name_mem_npc_player = 1 #
 0 7020 R _var p name_mem_npc_player = 1 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 10 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 12 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 9 10010 #
 12 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 9 11010 #
 10 11020 #
 0 11030 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 R _script quest_cath_basement@r_SpawnMap 0  R _var p q_cath_basement = 1 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 18 13010 D _var p q_cath_basement = 3 #
 16 13020 R _script quest_cath_basement@r_TeleportToBasement 0  #
 17 13030 @
-14 14000 None 1 @
-15 15000 None 1 @
-16 16000 None 0 #
+14 14000 main@dlg_Caps 1 @
+15 15000 main@dlg_Caps 1 @
+16 16000 main@dlg_Caps 0 #
 0 16010 @
-17 17000 None 0 @
-18 18000 None 0 #
+17 17000 main@dlg_Caps 0 @
+18 18000 main@dlg_Caps 0 #
 19 18010 R _item p PID_LEATHER_ARMOR_MK_II + 1 R _item p PID_ROPE + 1 R _param p REPUTATION_CATHEDRAL + 500 R _var p q_cath_basement = 4 R _script quest_cath_basement@r_DeleteMap 0  R _param p ST_EXPERIENCE + 1500 #
 19 18020 R _item p PID_STIMPAK + 5 R _item p PID_DOCTORS_BAG + 1 R _param p REPUTATION_CATHEDRAL + 500 R _var p q_cath_basement = 4 R _script quest_cath_basement@r_DeleteMap 0  R _param p ST_EXPERIENCE + 1500 #
 19 18030 R _item p PID_SCOPED_HUNTING_RIFLE + 1 R _item p PID_223_FMJ + 50 R _param p REPUTATION_CATHEDRAL + 500 R _var p q_cath_basement = 4 R _script quest_cath_basement@r_DeleteMap 0  R _param p ST_EXPERIENCE + 1500 #
 20 18040 R _var p q_cath_basement = 4 R _param p REPUTATION_CATHEDRAL + 1000 R _item p PID_LASER_PISTOL + 1 R _script quest_cath_basement@r_DeleteMap 0  R _param p ST_EXPERIENCE + 1500 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 0 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 &
 
 [engl]
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}
@@ -236,7 +236,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}
@@ -293,7 +293,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}

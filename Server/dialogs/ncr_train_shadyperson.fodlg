@@ -6,43 +6,43 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 6 1010 D _var p q_la_train_caesar = 2 #
 4 1020 D _var p q_la_train_caesar > 0 D _var p q_la_train3 < 3 D _var n name_mem_player_npc = 0 #
 3 1030 D _script dialog@d_CheckNight 0  #
 2 1040 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var p q_la_train3 + 1 R _var p q_la_train_count + 1 R _var n name_mem_player_npc + 1 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _var n name_mem_npc_player = 1 #
 7 6020 D _var n name_mem_npc_player = 0 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 D _param p ST_CHARISMA > 4 #
 9 7020 D _param p SK_SMALL_GUNS > 89 #
 9 7030 D _param p ST_INTELLECT > 6 #
 9 7040 D _param p ST_CHARISMA < 4 D _param p ST_INTELLECT > 3 D _script dialog@d_WeaponInHand 0  #
 8 7050 #
 0 7060 @
-8 8000 None 0 @
-9 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 12 10010 #
 11 10020 #
 13 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 R _var p q_la_train_caesar = 3 R _script quest_caesar_train@r_SpawnCamp 0  @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 #
 11 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 11 13010 &
 
 [engl]
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}
@@ -129,7 +129,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}

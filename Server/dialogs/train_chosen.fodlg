@@ -6,44 +6,42 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 10 2020 D _param p ST_NPC_ROLE = 5 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 #
 10 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p ST_LEVEL } 30 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 D _param p PE_LEADER = 0 D _param p PE_PARAMEDIC = 0 R _param p PE_CHOSEN = 1 R _script perks@czosnek 0  R _param p ST_NPC_ROLE = 5 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 6 4010 #
 0 4020 #
 9 4030 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 7 5010 D _param p ST_LEVEL { 20 #
 8 5020 D _param p ST_LEVEL < 100 D _param p ST_LEVEL > 20 #
 8 5030 D _param p ST_LEVEL < 100 D _param p ST_LEVEL > 50 #
 4 5040 #
 0 5050 @
-7 6000 None 0 @
-8 7000 None 0 @
-9 8000 None 0 @
-10 9000 None 0 #
+7 6000 main@dlg_Caps 0 @
+8 7000 main@dlg_Caps 0 @
+9 8000 main@dlg_Caps 0 @
+10 9000 main@dlg_Caps 0 #
 0 9010 D _param p TRAIT_BLOODY_MESS = 0 R _param p TRAIT_BLOODY_MESS = 1 R _param p ST_NPC_ROLE = 0 #
-0 9020 D _param p TRAIT_BONEHEAD = 0 R _param p TRAIT_BONEHEAD = 1 R _param p ST_NPC_ROLE = 0 #
-0 9030 D _param p TRAIT_BRUISER = 0 R _param p TRAIT_BRUISER = 1 R _param p ST_NPC_ROLE = 0 #
-0 9040 D _param p TRAIT_CHEM_RELIANT = 0 R _param p TRAIT_CHEM_RELIANT = 1 R _param p ST_NPC_ROLE = 0 #
-0 9050 D _param p TRAIT_FAST_METABOLISM = 0 R _param p TRAIT_FAST_METABOLISM = 1 R _param p ST_NPC_ROLE = 0 #
-0 9060 D _param p TRAIT_FAST_SHOT = 0 R _param p TRAIT_FAST_SHOT = 1 R _param p ST_NPC_ROLE = 0 #
-0 9070 D _param p TRAIT_FINESSE = 0 R _param p TRAIT_FINESSE = 1 R _param p ST_NPC_ROLE = 0 #
-0 9080 D _param p TRAIT_GOOD_NATURED = 0 R _param p TRAIT_GOOD_NATURED = 1 R _param p ST_NPC_ROLE = 0 #
-0 9090 D _param p TRAIT_HEAVY_HANDED = 0 R _param p TRAIT_HEAVY_HANDED = 1 R _param p ST_NPC_ROLE = 0 #
-0 9100 D _param p TRAIT_JINXED = 0 R _param p TRAIT_JINXED = 1 R _param p ST_NPC_ROLE = 0 #
-0 9110 D _param p TRAIT_KAMIKAZE = 0 R _param p TRAIT_KAMIKAZE = 1 R _param p ST_NPC_ROLE = 0 #
-0 9120 D _param p TRAIT_LONER = 0 R _param p TRAIT_LONER = 1 R _param p ST_NPC_ROLE = 0 #
-0 9130 D _param p TRAIT_ONE_HANDER = 0 R _param p TRAIT_ONE_HANDER = 1 R _param p ST_NPC_ROLE = 0 #
-0 9140 D _param p TRAIT_SMALL_FRAME = 0 R _param p TRAIT_SMALL_FRAME = 1 R _param p ST_NPC_ROLE = 0 #
-0 9150 D _param p TRAIT_SKILLED = 0 R _param p TRAIT_SKILLED = 1 R _param p ST_NPC_ROLE = 0 #
-0 9160 D _param p TRAIT_CHEM_RESISTANT = 0 R _param p TRAIT_CHEM_RESISTANT = 1 R _param p ST_NPC_ROLE = 0 &
+0 9020 D _param p TRAIT_BRUISER = 0 R _param p TRAIT_BRUISER = 1 R _param p ST_NPC_ROLE = 0 R _param p ST_STRENGTH + 4 #
+0 9030 D _param p TRAIT_CHEM_RELIANT = 0 R _param p TRAIT_CHEM_RELIANT = 1 R _param p ST_NPC_ROLE = 0 #
+0 9040 D _param p TRAIT_FAST_METABOLISM = 0 R _param p TRAIT_FAST_METABOLISM = 1 R _param p ST_NPC_ROLE = 0 R _param p ST_HEALING_RATE + 10 #
+0 9050 D _param p TRAIT_FAST_SHOT = 0 R _param p TRAIT_FAST_SHOT = 1 R _param p ST_NPC_ROLE = 0 #
+0 9060 D _param p TRAIT_FINESSE = 0 R _param p TRAIT_FINESSE = 1 R _param p ST_NPC_ROLE = 0 R _param p ST_MAX_CRITICAL + 15 #
+0 9070 D _param p TRAIT_GOOD_NATURED = 0 R _param p TRAIT_GOOD_NATURED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9080 D _param p TRAIT_HEAVY_HANDED = 0 R _param p TRAIT_HEAVY_HANDED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9090 D _param p TRAIT_JINXED = 0 R _param p TRAIT_JINXED = 1 R _param p ST_NPC_ROLE = 0 #
+0 9100 D _param p TRAIT_KAMIKAZE = 0 R _param p TRAIT_KAMIKAZE = 1 R _param p ST_NPC_ROLE = 0 R _param p ST_NORMAL_RESIST - 10 R _param p ST_LASER_RESIST - 10 R _param p ST_FIRE_RESIST - 10 R _param p ST_PLASMA_RESIST - 10 R _param p ST_ELECTRO_RESIST - 10 R _param p ST_EXPLODE_RESIST - 10 #
+0 9110 D _param p TRAIT_LONER = 0 R _param p TRAIT_LONER = 1 R _param p ST_NPC_ROLE = 0 #
+0 9120 D _param p TRAIT_ONE_HANDER = 0 R _param p TRAIT_ONE_HANDER = 1 R _param p ST_NPC_ROLE = 0 #
+0 9130 D _param p TRAIT_SMALL_FRAME = 0 R _param p TRAIT_SMALL_FRAME = 1 R _param p ST_NPC_ROLE = 0 R _param p ST_AGILITY + 1 #
+0 9140 D _param p TRAIT_CHEM_RESISTANT = 0 R _param p TRAIT_CHEM_RESISTANT = 1 R _param p ST_NPC_ROLE = 0 &
 
 [engl]
 {100}{}{Vic}
@@ -70,24 +68,22 @@ lang=engl czec pols span russ
 {8000}{}{Scum...}
 {9000}{}{Choose Trait!}
 {9010}{}{BloodyMess}
-{9020}{}{Bonehead}
-{9030}{}{Bruiser}
-{9040}{}{Chem Reliant}
-{9050}{}{Fast Metabolism}
-{9060}{}{Fast Shot}
-{9070}{}{Finesse}
-{9080}{}{Good Natured}
-{9090}{}{Heavy Handed}
-{9100}{}{Jinxed}
-{9110}{}{Kamikaze}
-{9120}{}{Loner}
-{9130}{}{One Hander}
-{9140}{}{Small Frame}
-{9150}{}{Gifted}
-{9160}{}{Cannibal}
+{9020}{}{Bruiser}
+{9030}{}{Chem Reliant}
+{9040}{}{Fast Metabolism}
+{9050}{}{Fast Shot}
+{9060}{}{Finesse}
+{9070}{}{Good Natured}
+{9080}{}{Heavy Handed}
+{9090}{}{Jinxed}
+{9100}{}{Kamikaze}
+{9110}{}{Loner}
+{9120}{}{One Hander}
+{9130}{}{Small Frame}
+{9140}{}{Cannibal}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -111,24 +107,22 @@ lang=engl czec pols span russ
 {8000}{}{Scum...}
 {9000}{}{Choose Trait!}
 {9010}{}{BloodyMess}
-{9020}{}{Bonehead}
-{9030}{}{Bruiser}
-{9040}{}{Chem Reliant}
-{9050}{}{Fast Metabolism}
-{9060}{}{Fast Shot}
-{9070}{}{Finesse}
-{9080}{}{Good Natured}
-{9090}{}{Heavy Handed}
-{9100}{}{Jinxed}
-{9110}{}{Kamikaze}
-{9120}{}{Loner}
-{9130}{}{One Hander}
-{9140}{}{Small Frame}
-{9150}{}{Gifted}
-{9160}{}{Cannibal}
+{9020}{}{Bruiser}
+{9030}{}{Chem Reliant}
+{9040}{}{Fast Metabolism}
+{9050}{}{Fast Shot}
+{9060}{}{Finesse}
+{9070}{}{Good Natured}
+{9080}{}{Heavy Handed}
+{9090}{}{Jinxed}
+{9100}{}{Kamikaze}
+{9110}{}{Loner}
+{9120}{}{One Hander}
+{9130}{}{Small Frame}
+{9140}{}{Cannibal}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -152,24 +146,22 @@ lang=engl czec pols span russ
 {8000}{}{Scum...}
 {9000}{}{Choose Trait!}
 {9010}{}{BloodyMess}
-{9020}{}{Bonehead}
-{9030}{}{Bruiser}
-{9040}{}{Chem Reliant}
-{9050}{}{Fast Metabolism}
-{9060}{}{Fast Shot}
-{9070}{}{Finesse}
-{9080}{}{Good Natured}
-{9090}{}{Heavy Handed}
-{9100}{}{Jinxed}
-{9110}{}{Kamikaze}
-{9120}{}{Loner}
-{9130}{}{One Hander}
-{9140}{}{Small Frame}
-{9150}{}{Gifted}
-{9160}{}{Cannibal}
+{9020}{}{Bruiser}
+{9030}{}{Chem Reliant}
+{9040}{}{Fast Metabolism}
+{9050}{}{Fast Shot}
+{9060}{}{Finesse}
+{9070}{}{Good Natured}
+{9080}{}{Heavy Handed}
+{9090}{}{Jinxed}
+{9100}{}{Kamikaze}
+{9110}{}{Loner}
+{9120}{}{One Hander}
+{9130}{}{Small Frame}
+{9140}{}{Cannibal}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -193,24 +185,22 @@ lang=engl czec pols span russ
 {8000}{}{Scum...}
 {9000}{}{Choose Trait!}
 {9010}{}{BloodyMess}
-{9020}{}{Bonehead}
-{9030}{}{Bruiser}
-{9040}{}{Chem Reliant}
-{9050}{}{Fast Metabolism}
-{9060}{}{Fast Shot}
-{9070}{}{Finesse}
-{9080}{}{Good Natured}
-{9090}{}{Heavy Handed}
-{9100}{}{Jinxed}
-{9110}{}{Kamikaze}
-{9120}{}{Loner}
-{9130}{}{One Hander}
-{9140}{}{Small Frame}
-{9150}{}{Gifted}
-{9160}{}{Cannibal}
+{9020}{}{Bruiser}
+{9030}{}{Chem Reliant}
+{9040}{}{Fast Metabolism}
+{9050}{}{Fast Shot}
+{9060}{}{Finesse}
+{9070}{}{Good Natured}
+{9080}{}{Heavy Handed}
+{9090}{}{Jinxed}
+{9100}{}{Kamikaze}
+{9110}{}{Loner}
+{9120}{}{One Hander}
+{9130}{}{Small Frame}
+{9140}{}{Cannibal}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -234,19 +224,17 @@ lang=engl czec pols span russ
 {8000}{}{Scum...}
 {9000}{}{Choose Trait!}
 {9010}{}{BloodyMess}
-{9020}{}{Bonehead}
-{9030}{}{Bruiser}
-{9040}{}{Chem Reliant}
-{9050}{}{Fast Metabolism}
-{9060}{}{Fast Shot}
-{9070}{}{Finesse}
-{9080}{}{Good Natured}
-{9090}{}{Heavy Handed}
-{9100}{}{Jinxed}
-{9110}{}{Kamikaze}
-{9120}{}{Loner}
-{9130}{}{One Hander}
-{9140}{}{Small Frame}
-{9150}{}{Gifted}
-{9160}{}{Cannibal}
+{9020}{}{Bruiser}
+{9030}{}{Chem Reliant}
+{9040}{}{Fast Metabolism}
+{9050}{}{Fast Shot}
+{9060}{}{Finesse}
+{9070}{}{Good Natured}
+{9080}{}{Heavy Handed}
+{9090}{}{Jinxed}
+{9100}{}{Kamikaze}
+{9110}{}{Loner}
+{9120}{}{One Hander}
+{9130}{}{Small Frame}
+{9140}{}{Cannibal}
 

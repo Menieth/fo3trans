@@ -6,35 +6,35 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p factions_player_faction = 3 D _var p factions_player_rank < 3 #
 3 1020 D _var p factions_player_faction = 3 #
 2 1030 D _script dialog@d_IsDisguised 0  #
 10 1040 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65505 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 3 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _param p SK_SCIENCE > 119 #
 3 6020 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 3 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 3 8010 #
 0 8020 @
-10 9000 None 0 &
+10 9000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Dr. Schreber}
@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}

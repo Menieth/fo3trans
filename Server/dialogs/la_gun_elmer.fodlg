@@ -6,40 +6,40 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 7 1010 D _param p ST_CHARISMA > 99 #
 20 1020 D _param p ST_INTELLECT < 4 #
 2 1030 D _var n name_mem_npc_player = 0 #
 4 1040 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _var n name_mem_npc_player = 1 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 D _var n acquaintance = 0 R _var n acquaintance = 1 #
 80 4030 D _var n acquaintance = 1 D _param p PE_PROFESSION_ENERGY_EXPERT < 1 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 65505 5010 #
 6 5020 D _var n acquaintance = 0 R _var n acquaintance = 1 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 80 6010 D _param p PE_PROFESSION_ENERGY_EXPERT < 1 #
 0 6020 @
-20 7000 None 0 @
-80 8000 None 0 #
+20 7000 main@dlg_Caps 0 @
+80 8000 main@dlg_Caps 0 #
 81 8010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckEnergyExpert0 1 0 #
 0 8020 @
-81 9000 None 0 #
-82 9010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_DEANS_ELECTRONICS + 1 R _param p PE_PROFESSION_ENERGY_EXPERT = 1 R _script dialog@r_RemoveMoney 1 1500 #
+81 9000 main@dlg_Caps 0 #
+82 9010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_DEANS_ELECTRONICS + 1 R _param p PE_PROFESSION_ENERGY_EXPERT = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 9020 @
-82 10000 None 0 #
+82 10000 main@dlg_Caps 0 #
 0 10010 @
-7 11000 None 0 &
+7 11000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Elmer}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {8000}{}{Energy production and storage? You hit the right place. Anyway, what did you want to know exactly?}
 {8010}{}{I'm currently interested in energy cells and... [You explain everything to Elmer]}
 {8020}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
+{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 @lex money@ should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
 {9010}{}{Alright. I've got that much here. [Give him $1500]}
 {9020}{}{Okay, let me fetch it for you... Be right back.}
 {10000}{}{Well, glad to see you got everything we need! Okay, let's start with it then. [Elmer explains you everything you wanted to know. It takes a while.]}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {11000}{}{Who let the freak in here?@@Boys, we got a uh... something on our hands.@@Sheeee-it.@@::spits::}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {8000}{}{Energy production and storage? You hit the right place. Anyway, what did you want to know exactly?}
 {8010}{}{I'm currently interested in energy cells and... [You explain everything to Elmer]}
 {8020}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
+{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 @lex money@ should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
 {9010}{}{Alright. I've got that much here. [Give him $1500]}
 {9020}{}{Okay, let me fetch it for you... Be right back.}
 {10000}{}{Well, glad to see you got everything we need! Okay, let's start with it then. [Elmer explains you everything you wanted to know. It takes a while.]}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {11000}{}{Who let the freak in here?@@Boys, we got a uh... something on our hands.@@Sheeee-it.@@::spits::}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {8000}{}{Energy production and storage? You hit the right place. Anyway, what did you want to know exactly?}
 {8010}{}{I'm currently interested in energy cells and... [You explain everything to Elmer]}
 {8020}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
+{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 @lex money@ should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
 {9010}{}{Alright. I've got that much here. [Give him $1500]}
 {9020}{}{Okay, let me fetch it for you... Be right back.}
 {10000}{}{Well, glad to see you got everything we need! Okay, let's start with it then. [Elmer explains you everything you wanted to know. It takes a while.]}
@@ -156,7 +156,7 @@ lang=engl czec pols span russ
 {11000}{}{Who let the freak in here?@@Boys, we got a uh... something on our hands.@@Sheeee-it.@@::spits::}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -185,7 +185,7 @@ lang=engl czec pols span russ
 {8000}{}{Energy production and storage? You hit the right place. Anyway, what did you want to know exactly?}
 {8010}{}{I'm currently interested in energy cells and... [You explain everything to Elmer]}
 {8020}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
+{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 @lex money@ should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
 {9010}{}{Alright. I've got that much here. [Give him $1500]}
 {9020}{}{Okay, let me fetch it for you... Be right back.}
 {10000}{}{Well, glad to see you got everything we need! Okay, let's start with it then. [Elmer explains you everything you wanted to know. It takes a while.]}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {11000}{}{Who let the freak in here?@@Boys, we got a uh... something on our hands.@@Sheeee-it.@@::spits::}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {8000}{}{Energy production and storage? You hit the right place. Anyway, what did you want to know exactly?}
 {8010}{}{I'm currently interested in energy cells and... [You explain everything to Elmer]}
 {8020}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 caps should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
+{9000}{}{I see... Well, if you want me to teach you something about it, you better bring me ... 1500 @lex money@ should do the trick. Hell, for that money you'll even get one of these Deans Electronics manuals for free!}
 {9010}{}{Alright. I've got that much here. [Give him $1500]}
 {9020}{}{Okay, let me fetch it for you... Be right back.}
 {10000}{}{Well, glad to see you got everything we need! Okay, let's start with it then. [Elmer explains you everything you wanted to know. It takes a while.]}

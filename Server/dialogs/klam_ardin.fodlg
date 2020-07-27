@@ -6,34 +6,34 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 10 1010 D _param p KARMA_SLAVER > 0 #
 2 1020 D _param p ST_INTELLECT < 4 #
 4 1030 D _param p ST_INTELLECT > 3 #
 10 1040 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 #
 8 5020 #
 9 5030 #
 0 5040 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 5 6010 #
 0 6020 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 5 7010 #
 0 7020 #
 0 7030 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 5 8010 #
 0 8020 @
-10 9000 None 0 &
+10 9000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Ardin Buckner}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}

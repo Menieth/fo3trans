@@ -6,48 +6,48 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 #
 3 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 3 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 6 3010 #
 7 3020 #
 8 3030 #
 0 3040 @
-4 4000 None 0 @
-6 5000 None 0 #
+4 4000 main@dlg_Caps 0 @
+6 5000 main@dlg_Caps 0 #
 7 5010 #
 9 5020 #
 10 5030 #
 11 5040 #
 0 5050 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 8 6010 #
 0 6020 #
 0 6030 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 13 7010 #
 15 7020 #
 12 7030 #
 10 7040 #
 9 7050 #
 0 7060 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 3 8010 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 3 9010 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 3 10010 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 3 11010 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 3 12010 @
-15 13000 None 0 #
+15 13000 main@dlg_Caps 0 #
 3 13010 &
 
 [engl]
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}
@@ -204,7 +204,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}
@@ -254,7 +254,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}

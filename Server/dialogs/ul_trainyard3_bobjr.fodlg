@@ -16,60 +16,60 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 3 1010 D _var p name_mem_npc_player = 0 D _var p q_iguana_pete_message = 5 #
 3 1020 D _var p name_mem_npc_player = 0 D _var p q_iguana_pete_message = 3 #
 8 1030 D _var p q_iguana_pete_message = 6 D _var p name_mem_npc_player = 1 #
 2 1040 D _var p name_mem_npc_player = 0 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 7 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 R _item p PID_DESERT_EAGLE + 1 R _item p PID_44_MAGNUM_JHP + 20 R _var p q_iguana_pete_message = 6 R _var p name_mem_npc_player = 1 R _script dialog@r_AddMoney 1 500 R _param p ST_EXPERIENCE + 2000 R _item p PID_COMBAT_ARMOR_MK_II + 1 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 5 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 #
 9 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 #
 11 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 18 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 0 13020 #
 17 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 20 14010 #
 0 14020 @
-20 15000 None 0 #
+20 15000 main@dlg_Caps 0 #
 15 15010 @
-15 16000 None 0 #
+15 16000 main@dlg_Caps 0 #
 16 16010 #
 0 16020 @
-16 17000 None 0 #
+16 17000 main@dlg_Caps 0 #
 0 17010 @
-17 18000 None 0 #
+17 18000 main@dlg_Caps 0 #
 14 18010 #
 19 18020 @
-18 19000 None 0 #
+18 19000 main@dlg_Caps 0 #
 13 19010 @
-19 20000 None 0 #
+19 20000 main@dlg_Caps 0 #
 14 20010 &
 
 [engl]
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {3010}{}{I'm looking for the son of a man named Pete that sells iguanas in the Hub. Have you overheard anything from your men that might help me?}
 {3020}{}{Are you Iguana Pete's son?}
 {4000}{}{Why do you want to know?}
-{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some caps out of it.}
+{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some @lex money@ out of it.}
 {4020}{}{Just trying to re-unite a couple lost lovers. This big green mutant was blubbering into his drink about losing his special friend, and right before he puked, he said he might be here.}
 {5000}{}{Dad misses me? He told me he never wanted to see me again. Thank you stranger.}
 {5010}{}{Hey I haven't delivered the message... he says...}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {3010}{}{I'm looking for the son of a man named Pete that sells iguanas in the Hub. Have you overheard anything from your men that might help me?}
 {3020}{}{Are you Iguana Pete's son?}
 {4000}{}{Why do you want to know?}
-{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some caps out of it.}
+{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some @lex money@ out of it.}
 {4020}{}{Just trying to re-unite a couple lost lovers. This big green mutant was blubbering into his drink about losing his special friend, and right before he puked, he said he might be here.}
 {5000}{}{Dad misses me? He told me he never wanted to see me again. Thank you stranger.}
 {5010}{}{Hey I haven't delivered the message... he says...}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {3010}{}{I'm looking for the son of a man named Pete that sells iguanas in the Hub. Have you overheard anything from your men that might help me?}
 {3020}{}{Are you Iguana Pete's son?}
 {4000}{}{Why do you want to know?}
-{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some caps out of it.}
+{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some @lex money@ out of it.}
 {4020}{}{Just trying to re-unite a couple lost lovers. This big green mutant was blubbering into his drink about losing his special friend, and right before he puked, he said he might be here.}
 {5000}{}{Dad misses me? He told me he never wanted to see me again. Thank you stranger.}
 {5010}{}{Hey I haven't delivered the message... he says...}
@@ -249,7 +249,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -260,7 +260,7 @@ lang=engl czec pols span russ
 {3010}{}{I'm looking for the son of a man named Pete that sells iguanas in the Hub. Have you overheard anything from your men that might help me?}
 {3020}{}{Are you Iguana Pete's son?}
 {4000}{}{Why do you want to know?}
-{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some caps out of it.}
+{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some @lex money@ out of it.}
 {4020}{}{Just trying to re-unite a couple lost lovers. This big green mutant was blubbering into his drink about losing his special friend, and right before he puked, he said he might be here.}
 {5000}{}{Dad misses me? He told me he never wanted to see me again. Thank you stranger.}
 {5010}{}{Hey I haven't delivered the message... he says...}
@@ -307,7 +307,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -318,7 +318,7 @@ lang=engl czec pols span russ
 {3010}{}{I'm looking for the son of a man named Pete that sells iguanas in the Hub. Have you overheard anything from your men that might help me?}
 {3020}{}{Are you Iguana Pete's son?}
 {4000}{}{Why do you want to know?}
-{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some caps out of it.}
+{4010}{}{This guy from the hub went all weepy on me when he heard his son might be alive. The trail led me here and I honestly don't care, I just want to get some @lex money@ out of it.}
 {4020}{}{Just trying to re-unite a couple lost lovers. This big green mutant was blubbering into his drink about losing his special friend, and right before he puked, he said he might be here.}
 {5000}{}{Dad misses me? He told me he never wanted to see me again. Thank you stranger.}
 {5010}{}{Hey I haven't delivered the message... he says...}

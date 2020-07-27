@@ -6,36 +6,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 200 1010 D _script dialog@d_IsBusy 0  #
 50 1020 D _param p ST_INTELLECT < 4 #
 2 1030 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 7 1040 D _var n name_mem_npc_player = 1 #
 10 1050 D _var p loyality < 0 #
 15 1060 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 8 2030 #
 6 2040 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 6 3030 #
 11 3040 D _var n acquaintance = 0 R _var n acquaintance = 1 #
 80 3050 D _param p PE_PROFESSION_DEMOLITION_EXPERT < 2 #
 0 3060 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 7 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 4 7010 #
 5 7020 #
 6 7030 #
@@ -43,49 +43,49 @@ lang=engl czec pols span russ
 60 7050 #
 80 7060 D _param p PE_PROFESSION_DEMOLITION_EXPERT < 2 #
 0 7070 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 7 8010 #
 9 8020 R _var p loyality - 10 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 @
-11 11000 None 0 #
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 #
 65506 11010 #
 12 11020 #
 7 11030 #
 0 11040 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 65506 12010 #
 7 12020 #
 0 12030 @
-15 13000 None 0 #
+15 13000 main@dlg_Caps 0 #
 65507 13010 #
 0 13020 @
-50 14000 None 0 #
+50 14000 main@dlg_Caps 0 #
 51 14010 #
 51 14020 @
-51 15000 None 0 #
+51 15000 main@dlg_Caps 0 #
 0 15010 @
-80 16000 None 0 #
+80 16000 main@dlg_Caps 0 #
 81 16010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckDemolitionExpert0 1 0 #
 82 16020 D _script dialog@d_CheckDemolitionExpert1 1 0 #
 0 16030 @
-81 17000 None 0 #
-83 17010 D _item p PID_BOTTLE_CAPS > 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
+81 17000 main@dlg_Caps 0 #
+83 17010 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
 0 17020 @
-82 18000 None 0 #
-83 18010 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
+82 18000 main@dlg_Caps 0 #
+83 18010 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
 0 18020 @
-83 19000 None 0 #
+83 19000 main@dlg_Caps 0 #
 0 19010 @
-200 20000 None 0 @
-60 21000 None 0 #
-61 21010 D _item p PID_BOTTLE_CAPS > 499 R _script dialog@r_RemoveMoney 1 500 R _item p PID_URANIUM_ORE + 1 #
-61 21020 D _item p PID_BOTTLE_CAPS > 2499 R _script dialog@r_RemoveMoney 1 2500 R _item p PID_URANIUM_ORE + 5 #
-61 21030 D _item p PID_BOTTLE_CAPS > 9999 R _script dialog@r_RemoveMoney 1 10000 R _item p PID_URANIUM_ORE + 20 #
+200 20000 main@dlg_Caps 0 @
+60 21000 main@dlg_Caps 0 #
+61 21010 D _script dialog@d_havepropermoney 1 499 R _script dialog@r_RemoveMoney 1 500 R _item p PID_URANIUM_ORE + 1 #
+61 21020 D _script dialog@d_havepropermoney 1 2499 R _script dialog@r_RemoveMoney 1 2500 R _item p PID_URANIUM_ORE + 5 #
+61 21030 D _script dialog@d_havepropermoney 1 9999 R _script dialog@r_RemoveMoney 1 10000 R _item p PID_URANIUM_ORE + 20 #
 0 21040 @
-61 22000 None 0 #
+61 22000 main@dlg_Caps 0 #
 0 22010 &
 
 [engl]
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {17000}{}{That will be no problem, but I need something in return. You see, my miners are a pretty hungry bunch of fellas. How about you bring me $1500 so we can stock up on brahmin meat rations? You bring me that and then we can talk explosives, okay?}
 {17010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {17020}{}{Got it. I'll be on my way then.}
-{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the caps and I show you some tricks right away?}
+{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the @lex money@ and I show you some tricks right away?}
 {18010}{}{They go as they come... Here you go. [You give him $3000]}
 {18020}{}{Got it. I'll be on my way then.}
 {19000}{}{Ah, nice! Let me just put this over there -- okay, you have earned your lesson, now listen carefully... [Zaius explains to you everything you wanted to know]}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {22010}{}{Yeah, sure.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Busy}
 {1020}{}{Idiot}
@@ -247,7 +247,7 @@ lang=engl czec pols span russ
 {17000}{}{That will be no problem, but I need something in return. You see, my miners are a pretty hungry bunch of fellas. How about you bring me $1500 so we can stock up on brahmin meat rations? You bring me that and then we can talk explosives, okay?}
 {17010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {17020}{}{Got it. I'll be on my way then.}
-{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the caps and I show you some tricks right away?}
+{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the @lex money@ and I show you some tricks right away?}
 {18010}{}{They go as they come... Here you go. [You give him $3000]}
 {18020}{}{Got it. I'll be on my way then.}
 {19000}{}{Ah, nice! Let me just put this over there -- okay, you have earned your lesson, now listen carefully... [Zaius explains to you everything you wanted to know]}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {22010}{}{Yeah, sure.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Busy}
 {1020}{}{Idiot}
@@ -332,7 +332,7 @@ lang=engl czec pols span russ
 {17000}{}{That will be no problem, but I need something in return. You see, my miners are a pretty hungry bunch of fellas. How about you bring me $1500 so we can stock up on brahmin meat rations? You bring me that and then we can talk explosives, okay?}
 {17010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {17020}{}{Got it. I'll be on my way then.}
-{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the caps and I show you some tricks right away?}
+{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the @lex money@ and I show you some tricks right away?}
 {18010}{}{They go as they come... Here you go. [You give him $3000]}
 {18020}{}{Got it. I'll be on my way then.}
 {19000}{}{Ah, nice! Let me just put this over there -- okay, you have earned your lesson, now listen carefully... [Zaius explains to you everything you wanted to know]}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {22010}{}{Yeah, sure.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Busy}
 {1020}{}{Idiot}
@@ -417,7 +417,7 @@ lang=engl czec pols span russ
 {17000}{}{That will be no problem, but I need something in return. You see, my miners are a pretty hungry bunch of fellas. How about you bring me $1500 so we can stock up on brahmin meat rations? You bring me that and then we can talk explosives, okay?}
 {17010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {17020}{}{Got it. I'll be on my way then.}
-{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the caps and I show you some tricks right away?}
+{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the @lex money@ and I show you some tricks right away?}
 {18010}{}{They go as they come... Here you go. [You give him $3000]}
 {18020}{}{Got it. I'll be on my way then.}
 {19000}{}{Ah, nice! Let me just put this over there -- okay, you have earned your lesson, now listen carefully... [Zaius explains to you everything you wanted to know]}
@@ -432,7 +432,7 @@ lang=engl czec pols span russ
 {22010}{}{Yeah, sure.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Busy}
 {1020}{}{Idiot}
@@ -502,7 +502,7 @@ lang=engl czec pols span russ
 {17000}{}{That will be no problem, but I need something in return. You see, my miners are a pretty hungry bunch of fellas. How about you bring me $1500 so we can stock up on brahmin meat rations? You bring me that and then we can talk explosives, okay?}
 {17010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {17020}{}{Got it. I'll be on my way then.}
-{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the caps and I show you some tricks right away?}
+{18000}{}{That can be arranged, I guess... But, you see, my miners really like to have a party after they finish their shift. I think $3000 should be enough to manage a small budget for these kinds of things -- how about you bring me the @lex money@ and I show you some tricks right away?}
 {18010}{}{They go as they come... Here you go. [You give him $3000]}
 {18020}{}{Got it. I'll be on my way then.}
 {19000}{}{Ah, nice! Let me just put this over there -- okay, you have earned your lesson, now listen carefully... [Zaius explains to you everything you wanted to know]}

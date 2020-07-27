@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Convict}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{You're wasting your time. I ain't got word one to say to you or anybody else.@@Go away and leave me alone, pig.@@What are you gonna do?@@You don't scare me.@@Why don't you just kiss my boots?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You're wasting your time. I ain't got word one to say to you or anybody else.@@Go away and leave me alone, pig.@@What are you gonna do?@@You don't scare me.@@Why don't you just kiss my boots?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You're wasting your time. I ain't got word one to say to you or anybody else.@@Go away and leave me alone, pig.@@What are you gonna do?@@You don't scare me.@@Why don't you just kiss my boots?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You're wasting your time. I ain't got word one to say to you or anybody else.@@Go away and leave me alone, pig.@@What are you gonna do?@@You don't scare me.@@Why don't you just kiss my boots?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You're wasting your time. I ain't got word one to say to you or anybody else.@@Go away and leave me alone, pig.@@What are you gonna do?@@You don't scare me.@@Why don't you just kiss my boots?}

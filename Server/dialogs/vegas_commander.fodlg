@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 #
 7 2030 D _var p mayor_citizenship = 0 #
@@ -16,37 +16,37 @@ lang=engl czec pols span russ
 6 2050 D _var p christine = 2 D _item p PID_BRIEFCASE } 1 R _var p christine = 4 R _item p PID_BRIEFCASE - 1 R _item p PID_DOLLAR + 10 R _param p ST_EXPERIENCE + 1000 R _param p ST_KARMA - 15 #
 9 2060 D _var p mayor_citizenship = 3 R _var p mayor_citizenship = 4 R _param p ST_KARMA + 20 R _param p ST_EXPERIENCE + 3000 R _item p PID_DOLLAR + 5 #
 12 2070 D _var p mayor_citizenship = 4 D _var p citizenship = 0 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 7 3010 D _var p mayor_citizenship = 0 #
 10 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 2 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 #
 65507 5020 @
-6 6000 None 0 @
-7 7000 None 0 #
+6 6000 main@dlg_Caps 0 @
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 D _var p mayor_citizenship = 0 R _var p mayor_citizenship = 1 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 11 9010 #
 0 9020 @
-10 10000 None 0 @
-11 11000 None 0 @
-12 12000 None 0 #
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 @
+12 12000 main@dlg_Caps 0 #
 0 12010 #
 14 12020 D _var p citizenship = 0 D _item p PID_DOLLAR } 60 R _var p citizenship = 1 R _item p PID_DOLLAR - 60 R _script dialog@r_location_quest 4 475 2041 1585 0 #
 13 12030 D _var p christine = 4 D _var p citizenship = 0 #
 0 12040 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 D _var p citizenship = 0 D _item p PID_DOLLAR } 50 R _var p citizenship = 1 R _item p PID_DOLLAR - 50 R _script dialog@r_location_quest 4 475 2041 1585 0 #
 0 13020 @
-14 14000 None 0 &
+14 14000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mayor}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}

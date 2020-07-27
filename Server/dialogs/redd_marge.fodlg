@@ -6,35 +6,35 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 20 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 9 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 6 2020 #
 7 2030 #
 80 2040 D _param p PE_PROFESSION_DEMOLITION_EXPERT < 2 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 9 3030 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 9 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 3 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 9 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 30 7010 D _var p q_redd_rats = 0 #
 9 7020 #
 0 7030 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 3 8010 #
 6 8020 #
 7 8030 #
@@ -46,52 +46,52 @@ lang=engl czec pols span russ
 39 8090 D _param p ST_STRENGTH > 100 #
 39 8100 D _param p ST_STRENGTH > 100 #
 0 8110 @
-20 9000 None 0 @
-80 10000 None 0 #
+20 9000 main@dlg_Caps 0 @
+80 10000 main@dlg_Caps 0 #
 81 10010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckDemolitionExpert0 1 0 #
 82 10020 D _script dialog@d_CheckDemolitionExpert1 1 0 #
 0 10030 @
-81 11000 None 0 #
-83 11010 D _item p PID_BOTTLE_CAPS > 1499 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 R _script dialog@r_RemoveMoney 1 1500 #
+81 11000 main@dlg_Caps 0 #
+83 11010 D _script dialog@d_havepropermoney 1 1499 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 11020 @
-82 12000 None 0 #
-83 12010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 R _script dialog@r_RemoveMoney 1 3000 #
+82 12000 main@dlg_Caps 0 #
+83 12010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 12020 @
-83 13000 None 0 #
+83 13000 main@dlg_Caps 0 #
 0 13010 @
-30 14000 None 0 #
+30 14000 main@dlg_Caps 0 #
 31 14010 D _var p q_redd_rats < 4 #
 0 14020 D _var p q_redd_rats < 4 #
 37 14030 D _var p q_redd_rats = 9 D _script dialog@d_QuestTimeoutNotReady 0  #
 36 14040 D _var p q_redd_rats = 9 D _script dialog@d_QuestTimeoutReady 0  #
 39 14050 @
-31 15000 None 0 #
+31 15000 main@dlg_Caps 0 #
 32 15010 #
 0 15020 @
-32 16000 None 0 #
+32 16000 main@dlg_Caps 0 #
 33 16010 #
 0 16020 @
-33 17000 None 0 #
+33 17000 main@dlg_Caps 0 #
 0 17010 R _var p q_redd_rats = 1 #
 0 17020 @
-34 18000 None 0 #
+34 18000 main@dlg_Caps 0 #
 37 18010 #
 36 18020 #
 34 18030 @
-37 19000 None 0 #
+37 19000 main@dlg_Caps 0 #
 0 19010 @
-36 20000 None 0 #
+36 20000 main@dlg_Caps 0 #
 0 20010 R _var p q_redd_rats = 4 @
-38 21000 None 0 #
+38 21000 main@dlg_Caps 0 #
 0 21010 R _var p q_redd_rats2 = 1 @
-39 22000 None 0 #
+39 22000 main@dlg_Caps 0 #
 0 22010 @
-40 23000 None 0 #
+40 23000 main@dlg_Caps 0 #
 0 23010 R _var p q_redd_rats2 = 1 @
-41 24000 None 0 #
+41 24000 main@dlg_Caps 0 #
 42 24010 #
 0 24020 @
-42 25000 None 0 #
+42 25000 main@dlg_Caps 0 #
 0 25010 R _script dialog@r_AddMoney 1 100 R _var p q_redd_rats = 4 #
 0 25020 &
 
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {11000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {11010}{}{It's already taken care of, here you go. [You give her $1500]}
 {11020}{}{Roger that, on my way.}
-{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {12010}{}{It's already taken care of, here you go. [You give her $3000]}
 {12020}{}{Roger that, on my way.}
 {13000}{}{Excellent, we can start right after I put this to a safe place. [After hiding the money, Marge explains everything you wanted to know]}
@@ -159,7 +159,7 @@ lang=engl czec pols span russ
 {14030}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once) (Cooldown)}
 {14040}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once)}
 {14050}{}{Maybe a little later. I've got a couple more questions.}
-{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 caps for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
+{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 @lex money@ for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
 {15010}{}{Hurt killing rats? Are you serious? }
 {15020}{}{Well... Fuck you. You don't look very tough neither<end> }
 {16000}{}{You see... Those aren't just ordinary rats. Those are some kind of mutated freaky half-moles half-rats. Their claws can tear even through a thick armor. }
@@ -187,10 +187,10 @@ lang=engl czec pols span russ
 {24020}{}{I need no payments, and your babbling bores me to death already. Forget everything I said. [Leave]}
 {25000}{}{Oh, c'mon, don't you think if there even were rats of some sort that the miners wouldn't take care of them already? I just needed someone to take care of that Caminetto job, that's all. Since two of us gotta deal, he pays me $200 for the radscorpion tails, and I give a cut to the providers. So, here you go, $100 for your work. Hope you're happy with it.}
 {25010}{}{Well, money has always been welcomed by these hands, you know what I mean? [Take the money] See you around, Marge!}
-{25020}{}{I need none of your stinking money! [Leave]}
+{25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -239,7 +239,7 @@ lang=engl czec pols span russ
 {11000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {11010}{}{It's already taken care of, here you go. [You give her $1500]}
 {11020}{}{Roger that, on my way.}
-{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {12010}{}{It's already taken care of, here you go. [You give her $3000]}
 {12020}{}{Roger that, on my way.}
 {13000}{}{Excellent, we can start right after I put this to a safe place. [After hiding the money, Marge explains everything you wanted to know]}
@@ -250,7 +250,7 @@ lang=engl czec pols span russ
 {14030}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once) (Cooldown)}
 {14040}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once)}
 {14050}{}{Maybe a little later. I've got a couple more questions.}
-{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 caps for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
+{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 @lex money@ for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
 {15010}{}{Hurt killing rats? Are you serious? }
 {15020}{}{Well... Fuck you. You don't look very tough neither<end> }
 {16000}{}{You see... Those aren't just ordinary rats. Those are some kind of mutated freaky half-moles half-rats. Their claws can tear even through a thick armor. }
@@ -278,10 +278,10 @@ lang=engl czec pols span russ
 {24020}{}{I need no payments, and your babbling bores me to death already. Forget everything I said. [Leave]}
 {25000}{}{Oh, c'mon, don't you think if there even were rats of some sort that the miners wouldn't take care of them already? I just needed someone to take care of that Caminetto job, that's all. Since two of us gotta deal, he pays me $200 for the radscorpion tails, and I give a cut to the providers. So, here you go, $100 for your work. Hope you're happy with it.}
 {25010}{}{Well, money has always been welcomed by these hands, you know what I mean? [Take the money] See you around, Marge!}
-{25020}{}{I need none of your stinking money! [Leave]}
+{25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -330,7 +330,7 @@ lang=engl czec pols span russ
 {11000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {11010}{}{It's already taken care of, here you go. [You give her $1500]}
 {11020}{}{Roger that, on my way.}
-{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {12010}{}{It's already taken care of, here you go. [You give her $3000]}
 {12020}{}{Roger that, on my way.}
 {13000}{}{Excellent, we can start right after I put this to a safe place. [After hiding the money, Marge explains everything you wanted to know]}
@@ -341,7 +341,7 @@ lang=engl czec pols span russ
 {14030}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once) (Cooldown)}
 {14040}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once)}
 {14050}{}{Maybe a little later. I've got a couple more questions.}
-{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 caps for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
+{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 @lex money@ for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
 {15010}{}{Hurt killing rats? Are you serious? }
 {15020}{}{Well... Fuck you. You don't look very tough neither<end> }
 {16000}{}{You see... Those aren't just ordinary rats. Those are some kind of mutated freaky half-moles half-rats. Their claws can tear even through a thick armor. }
@@ -369,10 +369,10 @@ lang=engl czec pols span russ
 {24020}{}{I need no payments, and your babbling bores me to death already. Forget everything I said. [Leave]}
 {25000}{}{Oh, c'mon, don't you think if there even were rats of some sort that the miners wouldn't take care of them already? I just needed someone to take care of that Caminetto job, that's all. Since two of us gotta deal, he pays me $200 for the radscorpion tails, and I give a cut to the providers. So, here you go, $100 for your work. Hope you're happy with it.}
 {25010}{}{Well, money has always been welcomed by these hands, you know what I mean? [Take the money] See you around, Marge!}
-{25020}{}{I need none of your stinking money! [Leave]}
+{25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -421,7 +421,7 @@ lang=engl czec pols span russ
 {11000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {11010}{}{It's already taken care of, here you go. [You give her $1500]}
 {11020}{}{Roger that, on my way.}
-{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {12010}{}{It's already taken care of, here you go. [You give her $3000]}
 {12020}{}{Roger that, on my way.}
 {13000}{}{Excellent, we can start right after I put this to a safe place. [After hiding the money, Marge explains everything you wanted to know]}
@@ -432,7 +432,7 @@ lang=engl czec pols span russ
 {14030}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once) (Cooldown)}
 {14040}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once)}
 {14050}{}{Maybe a little later. I've got a couple more questions.}
-{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 caps for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
+{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 @lex money@ for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
 {15010}{}{Hurt killing rats? Are you serious? }
 {15020}{}{Well... Fuck you. You don't look very tough neither<end> }
 {16000}{}{You see... Those aren't just ordinary rats. Those are some kind of mutated freaky half-moles half-rats. Their claws can tear even through a thick armor. }
@@ -460,10 +460,10 @@ lang=engl czec pols span russ
 {24020}{}{I need no payments, and your babbling bores me to death already. Forget everything I said. [Leave]}
 {25000}{}{Oh, c'mon, don't you think if there even were rats of some sort that the miners wouldn't take care of them already? I just needed someone to take care of that Caminetto job, that's all. Since two of us gotta deal, he pays me $200 for the radscorpion tails, and I give a cut to the providers. So, here you go, $100 for your work. Hope you're happy with it.}
 {25010}{}{Well, money has always been welcomed by these hands, you know what I mean? [Take the money] See you around, Marge!}
-{25020}{}{I need none of your stinking money! [Leave]}
+{25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -512,7 +512,7 @@ lang=engl czec pols span russ
 {11000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {11010}{}{It's already taken care of, here you go. [You give her $1500]}
 {11020}{}{Roger that, on my way.}
-{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{12000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {12010}{}{It's already taken care of, here you go. [You give her $3000]}
 {12020}{}{Roger that, on my way.}
 {13000}{}{Excellent, we can start right after I put this to a safe place. [After hiding the money, Marge explains everything you wanted to know]}
@@ -523,7 +523,7 @@ lang=engl czec pols span russ
 {14030}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once) (Cooldown)}
 {14040}{}{Can you take me to the mines then? I'm up for smashing some rats!  (Quest completed at least once)}
 {14050}{}{Maybe a little later. I've got a couple more questions.}
-{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 caps for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
+{15000}{}{Ah of course! If you would manage to clean the mines I'll gladly pay you 800 @lex money@ for the job. But... Uh forget it. I doubt you can help here. You just don't look very tough, honey and I'm afraid you would just get yourself hurt.}
 {15010}{}{Hurt killing rats? Are you serious? }
 {15020}{}{Well... Fuck you. You don't look very tough neither<end> }
 {16000}{}{You see... Those aren't just ordinary rats. Those are some kind of mutated freaky half-moles half-rats. Their claws can tear even through a thick armor. }
@@ -551,5 +551,5 @@ lang=engl czec pols span russ
 {24020}{}{I need no payments, and your babbling bores me to death already. Forget everything I said. [Leave]}
 {25000}{}{Oh, c'mon, don't you think if there even were rats of some sort that the miners wouldn't take care of them already? I just needed someone to take care of that Caminetto job, that's all. Since two of us gotta deal, he pays me $200 for the radscorpion tails, and I give a cut to the providers. So, here you go, $100 for your work. Hope you're happy with it.}
 {25010}{}{Well, money has always been welcomed by these hands, you know what I mean? [Take the money] See you around, Marge!}
-{25020}{}{I need none of your stinking money! [Leave]}
+{25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 

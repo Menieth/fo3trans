@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 5 1010 @
-5 2000 None 0 &
+5 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Ferndown}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{I'm Ferndaun, the representative for Vault City's caravans. We're not looking for help right now.}

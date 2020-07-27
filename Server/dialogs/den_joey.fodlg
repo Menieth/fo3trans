@@ -6,30 +6,30 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 5 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 7 3010 #
 5 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 0 4020 #
 5 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
 7 7000 dialog@dlg_SayBuyJet 0 #
-8 7010 D _item p PID_BOTTLE_CAPS > 499 R _item p PID_JET + 1 R _script dialog@r_RemoveMoney 1 500 #
+8 7010 D _script dialog@d_havepropermoney 1 499 R _item p PID_JET + 1 R _script dialog@r_RemoveMoney 1 500 #
 5 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 &
 
 [engl]
@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}

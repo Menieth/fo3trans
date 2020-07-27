@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _param p ST_INTELLECT < 4 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{error}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {4000}{}{Get outta here, idiot.@@This ain't your place, dummy.@@Scoot, moron.@@The hell are you looking at, retard?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {4000}{}{Get outta here, idiot.@@This ain't your place, dummy.@@Scoot, moron.@@The hell are you looking at, retard?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {4000}{}{Get outta here, idiot.@@This ain't your place, dummy.@@Scoot, moron.@@The hell are you looking at, retard?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {4000}{}{Get outta here, idiot.@@This ain't your place, dummy.@@Scoot, moron.@@The hell are you looking at, retard?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}

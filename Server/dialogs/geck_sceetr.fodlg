@@ -6,40 +6,40 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 4 1020 R _var n name_mem_npc_player = 1 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 5 3010 R _var n acquaintance = 1 #
 90 3020 D _var p q_necro_gecko = 1 D _script dialog@d_HasHoloInfo 1 43 D or D _var p q_necro_gecko = 1 D _script dialog@d_HasHolodisk 1 43 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var n acquaintance = 1 #
 80 4020 D _param p PE_PROFESSION_GUNSMITH_S < 2 D _var n acquaintance = 1 #
 90 4030 D _var p q_necro_gecko = 1 D _script dialog@d_HasHolodisk 1 43 D or D _var p q_necro_gecko = 1 D _script dialog@d_HasHoloInfo 1 43 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 80 5020 D _param p PE_PROFESSION_GUNSMITH_S < 2 #
 0 5030 @
-80 6000 None 0 #
+80 6000 main@dlg_Caps 0 #
 81 6010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckGunsmithS0 1 0 #
 82 6020 D _script dialog@d_CheckGunsmithS1 1 0 #
 0 6030 @
-81 7000 None 0 #
-83 7010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
+81 7000 main@dlg_Caps 0 #
+83 7010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 7020 @
-82 8000 None 0 #
-83 8010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
+82 8000 main@dlg_Caps 0 #
+83 8010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 8020 @
-83 9000 None 0 #
+83 9000 main@dlg_Caps 0 #
 0 9010 @
-90 10000 None 0 #
+90 10000 main@dlg_Caps 0 #
 91 10010 @
-91 11000 None 0 #
+91 11000 main@dlg_Caps 0 #
 92 11010 R _var p q_necro_gecko = 2 R _script dialog@r_GiveHolodisk 1 44 @
-92 12000 None 0 &
+92 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Skeeter}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {7000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, you might need it later.}
 {7010}{}{To hell with the money! Knowledge is precious! [You give him $1500]}
 {7020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 caps. Whaddya say?}
+{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 @lex money@. Whaddya say?}
 {8010}{}{If the preaching justifies the price, then let's start with it, ol' ghoul! [Give him $3000]}
 {8020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {9000}{}{Well, that's the best investement you ever made @sex@|boy||girl|. Come with me... [Skeeter takes you aside and starts explaining some things about guns]}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {12000}{}{Good luck.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {7000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, you might need it later.}
 {7010}{}{To hell with the money! Knowledge is precious! [You give him $1500]}
 {7020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 caps. Whaddya say?}
+{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 @lex money@. Whaddya say?}
 {8010}{}{If the preaching justifies the price, then let's start with it, ol' ghoul! [Give him $3000]}
 {8020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {9000}{}{Well, that's the best investement you ever made @sex@|boy||girl|. Come with me... [Skeeter takes you aside and starts explaining some things about guns]}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {12000}{}{Good luck.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {7000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, you might need it later.}
 {7010}{}{To hell with the money! Knowledge is precious! [You give him $1500]}
 {7020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 caps. Whaddya say?}
+{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 @lex money@. Whaddya say?}
 {8010}{}{If the preaching justifies the price, then let's start with it, ol' ghoul! [Give him $3000]}
 {8020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {9000}{}{Well, that's the best investement you ever made @sex@|boy||girl|. Come with me... [Skeeter takes you aside and starts explaining some things about guns]}
@@ -156,7 +156,7 @@ lang=engl czec pols span russ
 {12000}{}{Good luck.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {7000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, you might need it later.}
 {7010}{}{To hell with the money! Knowledge is precious! [You give him $1500]}
 {7020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 caps. Whaddya say?}
+{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 @lex money@. Whaddya say?}
 {8010}{}{If the preaching justifies the price, then let's start with it, ol' ghoul! [Give him $3000]}
 {8020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {9000}{}{Well, that's the best investement you ever made @sex@|boy||girl|. Come with me... [Skeeter takes you aside and starts explaining some things about guns]}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {12000}{}{Good luck.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -218,7 +218,7 @@ lang=engl czec pols span russ
 {7000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, you might need it later.}
 {7010}{}{To hell with the money! Knowledge is precious! [You give him $1500]}
 {7020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 caps. Whaddya say?}
+{8000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you something really special for a mere sum of 3000 @lex money@. Whaddya say?}
 {8010}{}{If the preaching justifies the price, then let's start with it, ol' ghoul! [Give him $3000]}
 {8020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {9000}{}{Well, that's the best investement you ever made @sex@|boy||girl|. Come with me... [Skeeter takes you aside and starts explaining some things about guns]}

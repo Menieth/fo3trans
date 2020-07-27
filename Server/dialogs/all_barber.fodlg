@@ -6,120 +6,120 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_GENDER > 1 #
 0 1020 D _param p PE_DEATHCLAW > 0 #
 0 1030 D _param p PE_MUTANT > 0 #
 3 1040 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 D _script dialog@d_IsHuman 0  #
 7 3020 #
 0 3030 #
 10 3040 D _script dialog@d_IsMutant 0  #
 11 3050 D _script dialog@d_IsDeathclaw 0  @
-4 4000 None 0 #
-5 4010 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_LHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_LHD_JUMPSUIT #
-5 4020 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_MALE_DEFAULT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_MALE_DEFAULT #
-5 4030 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_BHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_BHD_JUMPSUIT #
-5 4040 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 1 D _script npc_barber@d_IsNotCrType 1 137 R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 137 #
-5 4050 D _item p PID_BOTTLE_CAPS > 49 D _param p ST_GENDER = 1 D _script npc_barber@d_IsNotCrType 1 4 R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 4 #
+4 4000 main@dlg_Caps 0 #
+5 4010 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_LHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_LHD_JUMPSUIT #
+5 4020 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_MALE_DEFAULT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_MALE_DEFAULT #
+5 4030 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 0 D _script npc_barber@d_IsNotCrType 1 CRTYPE_BHD_JUMPSUIT R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 CRTYPE_BHD_JUMPSUIT #
+5 4040 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 1 D _script npc_barber@d_IsNotCrType 1 137 R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 137 #
+5 4050 D _script dialog@d_havepropermoney 1 49 D _param p ST_GENDER = 1 D _script npc_barber@d_IsNotCrType 1 4 R _script dialog@r_RemoveMoney 1 50 R _script npc_barber@r_Haircut 1 4 #
 6 4060 D _item p PID_BOTTLE_CAPS < 50 #
 0 4070 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 4 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 #
-9 8020 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 8 R _script dialog@r_RemoveMoney 1 2500 #
-9 8030 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 9 R _script dialog@r_RemoveMoney 1 2500 #
-9 8040 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 15 R _script dialog@r_RemoveMoney 1 2500 #
-9 8050 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 16 R _script dialog@r_RemoveMoney 1 2500 #
-9 8060 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 17 R _script dialog@r_RemoveMoney 1 2500 #
-9 8070 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 19 R _script dialog@r_RemoveMoney 1 2500 #
-9 8080 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 20 R _script dialog@r_RemoveMoney 1 2500 #
-9 8090 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 21 R _script dialog@r_RemoveMoney 1 2500 #
-9 8100 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 22 R _script dialog@r_RemoveMoney 1 2500 #
-9 8110 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 23 R _script dialog@r_RemoveMoney 1 2500 #
-9 8120 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 24 R _script dialog@r_RemoveMoney 1 2500 #
-9 8130 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 26 R _script dialog@r_RemoveMoney 1 2500 #
-9 8140 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 27 R _script dialog@r_RemoveMoney 1 2500 #
-9 8150 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 28 R _script dialog@r_RemoveMoney 1 2500 #
-9 8160 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 29 R _script dialog@r_RemoveMoney 1 2500 #
-9 8170 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 31 R _script dialog@r_RemoveMoney 1 2500 #
-9 8180 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 33 R _script dialog@r_RemoveMoney 1 2500 #
-9 8190 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 35 R _script dialog@r_RemoveMoney 1 2500 #
-9 8200 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 36 R _script dialog@r_RemoveMoney 1 2500 #
-9 8210 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 37 R _script dialog@r_RemoveMoney 1 2500 #
-9 8220 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 38 R _script dialog@r_RemoveMoney 1 2500 #
-9 8230 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 39 R _script dialog@r_RemoveMoney 1 2500 #
-9 8240 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 40 R _script dialog@r_RemoveMoney 1 2500 #
-9 8250 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 41 R _script dialog@r_RemoveMoney 1 2500 #
-9 8260 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 42 R _script dialog@r_RemoveMoney 1 2500 #
-9 8270 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 43 R _script dialog@r_RemoveMoney 1 2500 #
-9 8280 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 44 R _script dialog@r_RemoveMoney 1 2500 #
-9 8290 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 45 R _script dialog@r_RemoveMoney 1 2500 #
-9 8300 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 48 R _script dialog@r_RemoveMoney 1 2500 #
-9 8310 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 51 R _script dialog@r_RemoveMoney 1 2500 #
-9 8320 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 52 R _script dialog@r_RemoveMoney 1 2500 #
-9 8330 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 53 R _script dialog@r_RemoveMoney 1 2500 #
-9 8340 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 54 R _script dialog@r_RemoveMoney 1 2500 #
-9 8350 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 55 R _script dialog@r_RemoveMoney 1 2500 #
-9 8360 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 56 R _script dialog@r_RemoveMoney 1 2500 #
-9 8370 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 57 R _script dialog@r_RemoveMoney 1 2500 #
-9 8380 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 59 R _script dialog@r_RemoveMoney 1 2500 #
-9 8390 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 60 R _script dialog@r_RemoveMoney 1 2500 #
-9 8400 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 61 R _script dialog@r_RemoveMoney 1 2500 #
-9 8410 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 62 R _script dialog@r_RemoveMoney 1 2500 #
-9 8420 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 63 R _script dialog@r_RemoveMoney 1 2500 #
-9 8430 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 64 R _script dialog@r_RemoveMoney 1 2500 #
-9 8440 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 66 R _script dialog@r_RemoveMoney 1 2500 #
-9 8450 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 67 R _script dialog@r_RemoveMoney 1 2500 #
-9 8460 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 68 R _script dialog@r_RemoveMoney 1 2500 #
-9 8470 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 70 R _script dialog@r_RemoveMoney 1 2500 #
-9 8480 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 72 R _script dialog@r_RemoveMoney 1 2500 #
-9 8490 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 73 R _script dialog@r_RemoveMoney 1 2500 #
-9 8500 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 75 R _script dialog@r_RemoveMoney 1 2500 #
-9 8510 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 76 R _script dialog@r_RemoveMoney 1 2500 #
-9 8520 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 77 R _script dialog@r_RemoveMoney 1 2500 #
-9 8530 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 78 R _script dialog@r_RemoveMoney 1 2500 #
-9 8540 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 79 R _script dialog@r_RemoveMoney 1 2500 #
-9 8550 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 80 R _script dialog@r_RemoveMoney 1 2500 #
-9 8560 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 81 R _script dialog@r_RemoveMoney 1 2500 #
-9 8570 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 82 R _script dialog@r_RemoveMoney 1 2500 #
-9 8580 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 83 R _script dialog@r_RemoveMoney 1 2500 #
-9 8590 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 84 R _script dialog@r_RemoveMoney 1 2500 #
-9 8600 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 86 R _script dialog@r_RemoveMoney 1 2500 #
-9 8610 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 87 R _script dialog@r_RemoveMoney 1 2500 #
-9 8620 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 88 R _script dialog@r_RemoveMoney 1 2500 #
-9 8630 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 89 R _script dialog@r_RemoveMoney 1 2500 #
-9 8640 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 91 R _script dialog@r_RemoveMoney 1 2500 #
-9 8650 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 92 R _script dialog@r_RemoveMoney 1 2500 #
-9 8660 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 93 R _script dialog@r_RemoveMoney 1 2500 #
-9 8670 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 94 R _script dialog@r_RemoveMoney 1 2500 #
-9 8680 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 95 R _script dialog@r_RemoveMoney 1 2500 #
-9 8690 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 96 R _script dialog@r_RemoveMoney 1 2500 #
-9 8700 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 97 R _script dialog@r_RemoveMoney 1 2500 #
-9 8710 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 98 R _script dialog@r_RemoveMoney 1 2500 #
-9 8720 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 99 R _script dialog@r_RemoveMoney 1 2500 #
-9 8730 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 100 R _script dialog@r_RemoveMoney 1 2500 #
-9 8740 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 103 R _script dialog@r_RemoveMoney 1 2500 #
-9 8750 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 104 R _script dialog@r_RemoveMoney 1 2500 #
-9 8760 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 110 R _script dialog@r_RemoveMoney 1 2500 #
-9 8770 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 119 R _script dialog@r_RemoveMoney 1 2500 #
-9 8780 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 120 R _script dialog@r_RemoveMoney 1 2500 #
-9 8790 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 126 R _script dialog@r_RemoveMoney 1 2500 #
-9 8800 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 128 R _script dialog@r_RemoveMoney 1 2500 #
-9 8810 D _item p PID_BOTTLE_CAPS > 2499 R _script npc_barber@r_Haircut 1 130 R _script dialog@r_RemoveMoney 1 2500 @
-9 9000 None 0 #
+9 8020 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 8 R _script dialog@r_RemoveMoney 1 2500 #
+9 8030 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 9 R _script dialog@r_RemoveMoney 1 2500 #
+9 8040 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 15 R _script dialog@r_RemoveMoney 1 2500 #
+9 8050 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 16 R _script dialog@r_RemoveMoney 1 2500 #
+9 8060 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 17 R _script dialog@r_RemoveMoney 1 2500 #
+9 8070 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 19 R _script dialog@r_RemoveMoney 1 2500 #
+9 8080 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 20 R _script dialog@r_RemoveMoney 1 2500 #
+9 8090 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 21 R _script dialog@r_RemoveMoney 1 2500 #
+9 8100 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 22 R _script dialog@r_RemoveMoney 1 2500 #
+9 8110 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 23 R _script dialog@r_RemoveMoney 1 2500 #
+9 8120 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 24 R _script dialog@r_RemoveMoney 1 2500 #
+9 8130 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 26 R _script dialog@r_RemoveMoney 1 2500 #
+9 8140 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 27 R _script dialog@r_RemoveMoney 1 2500 #
+9 8150 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 28 R _script dialog@r_RemoveMoney 1 2500 #
+9 8160 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 29 R _script dialog@r_RemoveMoney 1 2500 #
+9 8170 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 31 R _script dialog@r_RemoveMoney 1 2500 #
+9 8180 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 33 R _script dialog@r_RemoveMoney 1 2500 #
+9 8190 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 35 R _script dialog@r_RemoveMoney 1 2500 #
+9 8200 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 36 R _script dialog@r_RemoveMoney 1 2500 #
+9 8210 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 37 R _script dialog@r_RemoveMoney 1 2500 #
+9 8220 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 38 R _script dialog@r_RemoveMoney 1 2500 #
+9 8230 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 39 R _script dialog@r_RemoveMoney 1 2500 #
+9 8240 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 40 R _script dialog@r_RemoveMoney 1 2500 #
+9 8250 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 41 R _script dialog@r_RemoveMoney 1 2500 #
+9 8260 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 42 R _script dialog@r_RemoveMoney 1 2500 #
+9 8270 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 43 R _script dialog@r_RemoveMoney 1 2500 #
+9 8280 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 44 R _script dialog@r_RemoveMoney 1 2500 #
+9 8290 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 45 R _script dialog@r_RemoveMoney 1 2500 #
+9 8300 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 48 R _script dialog@r_RemoveMoney 1 2500 #
+9 8310 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 51 R _script dialog@r_RemoveMoney 1 2500 #
+9 8320 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 52 R _script dialog@r_RemoveMoney 1 2500 #
+9 8330 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 53 R _script dialog@r_RemoveMoney 1 2500 #
+9 8340 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 54 R _script dialog@r_RemoveMoney 1 2500 #
+9 8350 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 55 R _script dialog@r_RemoveMoney 1 2500 #
+9 8360 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 56 R _script dialog@r_RemoveMoney 1 2500 #
+9 8370 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 57 R _script dialog@r_RemoveMoney 1 2500 #
+9 8380 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 59 R _script dialog@r_RemoveMoney 1 2500 #
+9 8390 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 60 R _script dialog@r_RemoveMoney 1 2500 #
+9 8400 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 61 R _script dialog@r_RemoveMoney 1 2500 #
+9 8410 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 62 R _script dialog@r_RemoveMoney 1 2500 #
+9 8420 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 63 R _script dialog@r_RemoveMoney 1 2500 #
+9 8430 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 64 R _script dialog@r_RemoveMoney 1 2500 #
+9 8440 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 66 R _script dialog@r_RemoveMoney 1 2500 #
+9 8450 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 67 R _script dialog@r_RemoveMoney 1 2500 #
+9 8460 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 68 R _script dialog@r_RemoveMoney 1 2500 #
+9 8470 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 70 R _script dialog@r_RemoveMoney 1 2500 #
+9 8480 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 72 R _script dialog@r_RemoveMoney 1 2500 #
+9 8490 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 73 R _script dialog@r_RemoveMoney 1 2500 #
+9 8500 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 75 R _script dialog@r_RemoveMoney 1 2500 #
+9 8510 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 76 R _script dialog@r_RemoveMoney 1 2500 #
+9 8520 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 77 R _script dialog@r_RemoveMoney 1 2500 #
+9 8530 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 78 R _script dialog@r_RemoveMoney 1 2500 #
+9 8540 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 79 R _script dialog@r_RemoveMoney 1 2500 #
+9 8550 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 80 R _script dialog@r_RemoveMoney 1 2500 #
+9 8560 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 81 R _script dialog@r_RemoveMoney 1 2500 #
+9 8570 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 82 R _script dialog@r_RemoveMoney 1 2500 #
+9 8580 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 83 R _script dialog@r_RemoveMoney 1 2500 #
+9 8590 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 84 R _script dialog@r_RemoveMoney 1 2500 #
+9 8600 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 86 R _script dialog@r_RemoveMoney 1 2500 #
+9 8610 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 87 R _script dialog@r_RemoveMoney 1 2500 #
+9 8620 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 88 R _script dialog@r_RemoveMoney 1 2500 #
+9 8630 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 89 R _script dialog@r_RemoveMoney 1 2500 #
+9 8640 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 91 R _script dialog@r_RemoveMoney 1 2500 #
+9 8650 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 92 R _script dialog@r_RemoveMoney 1 2500 #
+9 8660 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 93 R _script dialog@r_RemoveMoney 1 2500 #
+9 8670 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 94 R _script dialog@r_RemoveMoney 1 2500 #
+9 8680 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 95 R _script dialog@r_RemoveMoney 1 2500 #
+9 8690 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 96 R _script dialog@r_RemoveMoney 1 2500 #
+9 8700 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 97 R _script dialog@r_RemoveMoney 1 2500 #
+9 8710 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 98 R _script dialog@r_RemoveMoney 1 2500 #
+9 8720 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 99 R _script dialog@r_RemoveMoney 1 2500 #
+9 8730 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 100 R _script dialog@r_RemoveMoney 1 2500 #
+9 8740 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 103 R _script dialog@r_RemoveMoney 1 2500 #
+9 8750 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 104 R _script dialog@r_RemoveMoney 1 2500 #
+9 8760 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 110 R _script dialog@r_RemoveMoney 1 2500 #
+9 8770 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 119 R _script dialog@r_RemoveMoney 1 2500 #
+9 8780 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 120 R _script dialog@r_RemoveMoney 1 2500 #
+9 8790 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 126 R _script dialog@r_RemoveMoney 1 2500 #
+9 8800 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 128 R _script dialog@r_RemoveMoney 1 2500 #
+9 8810 D _script dialog@d_havepropermoney 1 2499 R _script npc_barber@r_Haircut 1 130 R _script dialog@r_RemoveMoney 1 2500 @
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 @
-11 11000 None 0 &
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Barber}
@@ -136,12 +136,12 @@ lang=engl czec pols span russ
 {3030}{}{In no kind of way. Bye.}
 {3040}{}{Human, can you make me a good haircut?}
 {3050}{}{Can I get some fancy looking haircut?}
-{4000}{}{Of course. This will cost you 50 caps. }
-{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
-{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
-{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
-{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
-{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4000}{}{Of course. This will cost you 50 @lex money@. }
+{4010}{}{[You give him the 50 @lex money@.] I want to have longer hair!@@Fine. [You give him the 50 @lex money@.] I want to have longer hair!}
+{4020}{}{[You give him the 50 @lex money@.] I want to have shorter hair!@@Fine. [You give him the 50 @lex money@.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 @lex money@.] I want to have a bald head!@@Fine. [You give him the 50 @lex money@.] I want to have a bald head!}
+{4040}{}{[You give him 50 @lex money@.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 @lex money@.] I want a typical female haircut!}
 {4060}{}{I don't have enough money.}
 {4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
 {5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {7000}{}{Er... Uh... I am sorry, but I can't do this.}
 {7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
 {7020}{}{This sucks! I am going!}
-{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8000}{}{Something special...sure, but it will cost you 2500 @lex prefix@ @lex money@.}
 {8010}{}{I've changed my mind. Bye.}
 {8020}{}{Black man in bluesuit (8)}
 {8030}{}{Black man in metal armor (9)}
@@ -240,7 +240,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -253,12 +253,12 @@ lang=engl czec pols span russ
 {3030}{}{In no kind of way. Bye.}
 {3040}{}{Human, can you make me a good haircut?}
 {3050}{}{Can I get some fancy looking haircut?}
-{4000}{}{Of course. This will cost you 50 caps. }
-{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
-{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
-{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
-{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
-{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4000}{}{Of course. This will cost you 50 @lex money@. }
+{4010}{}{[You give him the 50 @lex money@.] I want to have longer hair!@@Fine. [You give him the 50 @lex money@.] I want to have longer hair!}
+{4020}{}{[You give him the 50 @lex money@.] I want to have shorter hair!@@Fine. [You give him the 50 @lex money@.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 @lex money@.] I want to have a bald head!@@Fine. [You give him the 50 @lex money@.] I want to have a bald head!}
+{4040}{}{[You give him 50 @lex money@.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 @lex money@.] I want a typical female haircut!}
 {4060}{}{I don't have enough money.}
 {4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
 {5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
@@ -269,7 +269,7 @@ lang=engl czec pols span russ
 {7000}{}{Er... Uh... I am sorry, but I can't do this.}
 {7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
 {7020}{}{This sucks! I am going!}
-{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8000}{}{Something special...sure, but it will cost you 2500 @lex prefix@ @lex money@.}
 {8010}{}{I've changed my mind. Bye.}
 {8020}{}{Black man in bluesuit (8)}
 {8030}{}{Black man in metal armor (9)}
@@ -357,7 +357,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -370,12 +370,12 @@ lang=engl czec pols span russ
 {3030}{}{In no kind of way. Bye.}
 {3040}{}{Human, can you make me a good haircut?}
 {3050}{}{Can I get some fancy looking haircut?}
-{4000}{}{Of course. This will cost you 50 caps. }
-{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
-{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
-{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
-{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
-{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4000}{}{Of course. This will cost you 50 @lex money@. }
+{4010}{}{[You give him the 50 @lex money@.] I want to have longer hair!@@Fine. [You give him the 50 @lex money@.] I want to have longer hair!}
+{4020}{}{[You give him the 50 @lex money@.] I want to have shorter hair!@@Fine. [You give him the 50 @lex money@.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 @lex money@.] I want to have a bald head!@@Fine. [You give him the 50 @lex money@.] I want to have a bald head!}
+{4040}{}{[You give him 50 @lex money@.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 @lex money@.] I want a typical female haircut!}
 {4060}{}{I don't have enough money.}
 {4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
 {5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
@@ -386,7 +386,7 @@ lang=engl czec pols span russ
 {7000}{}{Er... Uh... I am sorry, but I can't do this.}
 {7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
 {7020}{}{This sucks! I am going!}
-{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8000}{}{Something special...sure, but it will cost you 2500 @lex prefix@ @lex money@.}
 {8010}{}{I've changed my mind. Bye.}
 {8020}{}{Black man in bluesuit (8)}
 {8030}{}{Black man in metal armor (9)}
@@ -474,7 +474,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -487,12 +487,12 @@ lang=engl czec pols span russ
 {3030}{}{In no kind of way. Bye.}
 {3040}{}{Human, can you make me a good haircut?}
 {3050}{}{Can I get some fancy looking haircut?}
-{4000}{}{Of course. This will cost you 50 caps. }
-{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
-{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
-{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
-{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
-{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4000}{}{Of course. This will cost you 50 @lex money@. }
+{4010}{}{[You give him the 50 @lex money@.] I want to have longer hair!@@Fine. [You give him the 50 @lex money@.] I want to have longer hair!}
+{4020}{}{[You give him the 50 @lex money@.] I want to have shorter hair!@@Fine. [You give him the 50 @lex money@.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 @lex money@.] I want to have a bald head!@@Fine. [You give him the 50 @lex money@.] I want to have a bald head!}
+{4040}{}{[You give him 50 @lex money@.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 @lex money@.] I want a typical female haircut!}
 {4060}{}{I don't have enough money.}
 {4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
 {5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
@@ -503,7 +503,7 @@ lang=engl czec pols span russ
 {7000}{}{Er... Uh... I am sorry, but I can't do this.}
 {7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
 {7020}{}{This sucks! I am going!}
-{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8000}{}{Something special...sure, but it will cost you 2500 @lex prefix@ @lex money@.}
 {8010}{}{I've changed my mind. Bye.}
 {8020}{}{Black man in bluesuit (8)}
 {8030}{}{Black man in metal armor (9)}
@@ -591,7 +591,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -604,12 +604,12 @@ lang=engl czec pols span russ
 {3030}{}{In no kind of way. Bye.}
 {3040}{}{Human, can you make me a good haircut?}
 {3050}{}{Can I get some fancy looking haircut?}
-{4000}{}{Of course. This will cost you 50 caps. }
-{4010}{}{[You give him the 50 caps.] I want to have longer hair!@@Fine. [You give him the 50 caps.] I want to have longer hair!}
-{4020}{}{[You give him the 50 caps.] I want to have shorter hair!@@Fine. [You give him the 50 caps.] I want to have shorter hair!}
-{4030}{}{[You give him the 50 caps.] I want to have a bald head!@@Fine. [You give him the 50 caps.] I want to have a bald head!}
-{4040}{}{[You give him 50 caps.] I want to have a green mohawk!}
-{4050}{}{[You give him 50 caps.] I want a typical female haircut!}
+{4000}{}{Of course. This will cost you 50 @lex money@. }
+{4010}{}{[You give him the 50 @lex money@.] I want to have longer hair!@@Fine. [You give him the 50 @lex money@.] I want to have longer hair!}
+{4020}{}{[You give him the 50 @lex money@.] I want to have shorter hair!@@Fine. [You give him the 50 @lex money@.] I want to have shorter hair!}
+{4030}{}{[You give him the 50 @lex money@.] I want to have a bald head!@@Fine. [You give him the 50 @lex money@.] I want to have a bald head!}
+{4040}{}{[You give him 50 @lex money@.] I want to have a green mohawk!}
+{4050}{}{[You give him 50 @lex money@.] I want a typical female haircut!}
 {4060}{}{I don't have enough money.}
 {4070}{}{I totally changed my mind. Your presence interrupts my aura. Bye.}
 {5000}{}{That's exactly what I like to do! [He is fiddleing around in your hair. You have absolutly no clue what happens right now. After a few minutes, he seems to be done.] }
@@ -620,7 +620,7 @@ lang=engl czec pols span russ
 {7000}{}{Er... Uh... I am sorry, but I can't do this.}
 {7010}{}{Okay... Can you use your fabulous magick on my head hair then?}
 {7020}{}{This sucks! I am going!}
-{8000}{}{Something special...sure, but it will cost you 2500 bottle caps.}
+{8000}{}{Something special...sure, but it will cost you 2500 @lex prefix@ @lex money@.}
 {8010}{}{I've changed my mind. Bye.}
 {8020}{}{Black man in bluesuit (8)}
 {8030}{}{Black man in metal armor (9)}

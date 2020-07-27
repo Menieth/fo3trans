@@ -86,11 +86,11 @@ lang=engl czec pols span russ
 {8020}{}{No way.}
 {9000}{}{Why don't you go grab me a bunch of nuka colas, I'm thirsty. I want @lex num@ to be exact.}
 {9010}{}{Sure thing. I'll grab you a bunch of cold ones on my way back.}
-{9020}{}{I'm a nuka cola collector, I ain't giving you even one bottle. Consider this a big no!}
+{9020}{}{I'm a nuka cola collector, I ain't giving you even one @lex prefix@. Consider this a big no!}
 {10000}{}{Why don't you go grab me a bunch of beers, I'm thirsty. I want @lex num@ to be exact.}
 {10010}{}{Okay, pal, but only for you.}
 {10020}{}{My dad was killed by a drunk driver, I hate alcohol. I'm outta here.}
-{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ bottles. Will you please?}
+{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ @lex prefix@s. Will you please?}
 {11010}{}{Shouldn't be a problem, I'll be back.}
 {11020}{}{I think I'll have to decline, no offense, but it sounds like a big waste of time. I gotta go farm some more XP...}
 {12000}{}{I'm nearly outta smokes. Bring me @lex num@ packs of cigarettes and you're fine in my book.}
@@ -134,11 +134,11 @@ lang=engl czec pols span russ
 {8020}{}{No way.}
 {9000}{}{Why don't you go grab me a bunch of nuka colas, I'm thirsty. I want @lex num@ to be exact.}
 {9010}{}{Sure thing. I'll grab you a bunch of cold ones on my way back.}
-{9020}{}{I'm a nuka cola collector, I ain't giving you even one bottle. Consider this a big no!}
+{9020}{}{I'm a nuka cola collector, I ain't giving you even one @lex prefix@. Consider this a big no!}
 {10000}{}{Why don't you go grab me a bunch of beers, I'm thirsty. I want @lex num@ to be exact.}
 {10010}{}{Okay, pal, but only for you.}
 {10020}{}{My dad was killed by a drunk driver, I hate alcohol. I'm outta here.}
-{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ bottles. Will you please?}
+{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ @lex prefix@s. Will you please?}
 {11010}{}{Shouldn't be a problem, I'll be back.}
 {11020}{}{I think I'll have to decline, no offense, but it sounds like a big waste of time. I gotta go farm some more XP...}
 {12000}{}{I'm nearly outta smokes. Bring me @lex num@ packs of cigarettes and you're fine in my book.}
@@ -182,11 +182,11 @@ lang=engl czec pols span russ
 {8020}{}{No way.}
 {9000}{}{Why don't you go grab me a bunch of nuka colas, I'm thirsty. I want @lex num@ to be exact.}
 {9010}{}{Sure thing. I'll grab you a bunch of cold ones on my way back.}
-{9020}{}{I'm a nuka cola collector, I ain't giving you even one bottle. Consider this a big no!}
+{9020}{}{I'm a nuka cola collector, I ain't giving you even one @lex prefix@. Consider this a big no!}
 {10000}{}{Why don't you go grab me a bunch of beers, I'm thirsty. I want @lex num@ to be exact.}
 {10010}{}{Okay, pal, but only for you.}
 {10020}{}{My dad was killed by a drunk driver, I hate alcohol. I'm outta here.}
-{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ bottles. Will you please?}
+{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ @lex prefix@s. Will you please?}
 {11010}{}{Shouldn't be a problem, I'll be back.}
 {11020}{}{I think I'll have to decline, no offense, but it sounds like a big waste of time. I gotta go farm some more XP...}
 {12000}{}{I'm nearly outta smokes. Bring me @lex num@ packs of cigarettes and you're fine in my book.}
@@ -230,11 +230,11 @@ lang=engl czec pols span russ
 {8020}{}{No way.}
 {9000}{}{Why don't you go grab me a bunch of nuka colas, I'm thirsty. I want @lex num@ to be exact.}
 {9010}{}{Sure thing. I'll grab you a bunch of cold ones on my way back.}
-{9020}{}{I'm a nuka cola collector, I ain't giving you even one bottle. Consider this a big no!}
+{9020}{}{I'm a nuka cola collector, I ain't giving you even one @lex prefix@. Consider this a big no!}
 {10000}{}{Why don't you go grab me a bunch of beers, I'm thirsty. I want @lex num@ to be exact.}
 {10010}{}{Okay, pal, but only for you.}
 {10020}{}{My dad was killed by a drunk driver, I hate alcohol. I'm outta here.}
-{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ bottles. Will you please?}
+{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ @lex prefix@s. Will you please?}
 {11010}{}{Shouldn't be a problem, I'll be back.}
 {11020}{}{I think I'll have to decline, no offense, but it sounds like a big waste of time. I gotta go farm some more XP...}
 {12000}{}{I'm nearly outta smokes. Bring me @lex num@ packs of cigarettes and you're fine in my book.}
@@ -278,11 +278,11 @@ lang=engl czec pols span russ
 {8020}{}{No way.}
 {9000}{}{Why don't you go grab me a bunch of nuka colas, I'm thirsty. I want @lex num@ to be exact.}
 {9010}{}{Sure thing. I'll grab you a bunch of cold ones on my way back.}
-{9020}{}{I'm a nuka cola collector, I ain't giving you even one bottle. Consider this a big no!}
+{9020}{}{I'm a nuka cola collector, I ain't giving you even one @lex prefix@. Consider this a big no!}
 {10000}{}{Why don't you go grab me a bunch of beers, I'm thirsty. I want @lex num@ to be exact.}
 {10010}{}{Okay, pal, but only for you.}
 {10020}{}{My dad was killed by a drunk driver, I hate alcohol. I'm outta here.}
-{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ bottles. Will you please?}
+{11000}{}{I could use a few rotguts for an experiment I'm conducting. Bring me @lex num@ @lex prefix@s. Will you please?}
 {11010}{}{Shouldn't be a problem, I'll be back.}
 {11020}{}{I think I'll have to decline, no offense, but it sounds like a big waste of time. I gotta go farm some more XP...}
 {12000}{}{I'm nearly outta smokes. Bring me @lex num@ packs of cigarettes and you're fine in my book.}

@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 51 1010 D _var p q_nr_corsican_execution > 9 #
 2 1020 @
-2 2000 None 0 @
-10 3000 None 0 @
-50 4000 None 0 @
-51 5000 None 0 #
+2 2000 main@dlg_Caps 0 @
+10 3000 main@dlg_Caps 0 @
+50 4000 main@dlg_Caps 0 @
+51 5000 main@dlg_Caps 0 #
 52 5010 D _var p q_nr_corsican_execution = 16 #
 10 5020 D _var p q_nr_corsican_execution ! 16 #
 0 5030 @
-52 6000 None 0 #
+52 6000 main@dlg_Caps 0 #
 53 6010 R _var p q_nr_corsican_execution = 2 #
 0 6020 @
-53 7000 None 0 #
+53 7000 main@dlg_Caps 0 #
 0 7010 @
-54 8000 None 0 &
+54 8000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Citizen}
@@ -45,12 +45,12 @@ lang=engl czec pols span russ
 {6000}{}{Hm, why would *you* need to know where he is?}
 {6010}{}{I'd like to have a chat with him regarding his bad habits.}
 {6020}{}{Maybe you're right... after all, it's not my business.}
-{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those caps back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
+{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those @lex money@ back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
 {7010}{}{You don't have to do anything. Just enjoy the show, I'm going in.}
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{-}
@@ -64,12 +64,12 @@ lang=engl czec pols span russ
 {6000}{}{Hm, why would *you* need to know where he is?}
 {6010}{}{I'd like to have a chat with him regarding his bad habits.}
 {6020}{}{Maybe you're right... after all, it's not my business.}
-{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those caps back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
+{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those @lex money@ back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
 {7010}{}{You don't have to do anything. Just enjoy the show, I'm going in.}
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{-}
@@ -83,12 +83,12 @@ lang=engl czec pols span russ
 {6000}{}{Hm, why would *you* need to know where he is?}
 {6010}{}{I'd like to have a chat with him regarding his bad habits.}
 {6020}{}{Maybe you're right... after all, it's not my business.}
-{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those caps back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
+{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those @lex money@ back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
 {7010}{}{You don't have to do anything. Just enjoy the show, I'm going in.}
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{-}
@@ -102,12 +102,12 @@ lang=engl czec pols span russ
 {6000}{}{Hm, why would *you* need to know where he is?}
 {6010}{}{I'd like to have a chat with him regarding his bad habits.}
 {6020}{}{Maybe you're right... after all, it's not my business.}
-{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those caps back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
+{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those @lex money@ back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
 {7010}{}{You don't have to do anything. Just enjoy the show, I'm going in.}
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{-}
@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {6000}{}{Hm, why would *you* need to know where he is?}
 {6010}{}{I'd like to have a chat with him regarding his bad habits.}
 {6020}{}{Maybe you're right... after all, it's not my business.}
-{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those caps back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
+{7000}{}{[It looks like you hit the right spot] Damn right he's gotta bad habits, a lot of them! The old codger borrowed some money from me a while ago, I never got those @lex money@ back. Now he's sitting in the Shark Club, gambling and scoping the waitresses, and honest people like me can't do jack about it.}
 {7010}{}{You don't have to do anything. Just enjoy the show, I'm going in.}
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 

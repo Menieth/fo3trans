@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 11 1010 D _param p KARMA_SLAVER > 0 #
 12 1020 D _param p ST_CHARISMA > 99 #
 2 1030 D _param p ST_GENDER = 0 #
 3 1040 D _param p ST_GENDER = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 8 2010 D _script rooms@d_CanPayRent 0  R _script rooms@r_PayRent 0  #
 65506 2020 #
 6 2030 D _param p ST_INTELLECT > 3 D _script rooms@d_NotRentingHere 1 0 D _script rooms@d_IsFreeRoom 1 0 R _var n name_mem_npc_player = 1 #
 9 2040 D _param p ST_INTELLECT > 3 D _script rooms@d_NoFreeRooms 1 0 D _script rooms@d_NotRentingHere 1 0 R _var n name_mem_npc_player = 1 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 8 3010 D _script rooms@d_CanPayRent 0  R _script rooms@r_PayRent 0  #
 65506 3020 #
 6 3030 D _script rooms@d_IsFreeRoom 1 0 D _script rooms@d_NotRentingHere 1 0 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 9 3040 D _script rooms@d_NoFreeRooms 1 0 D _script rooms@d_NotRentingHere 1 0 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 4 4010 #
 4 4020 #
 4 4030 #
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 0 4050 #
 0 4060 #
 0 4070 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 4 5020 #
 4 5030 #
@@ -43,16 +43,16 @@ lang=engl czec pols span russ
 7 6010 D _script rooms@d_HasMoneyForRent 1 0 R _script rooms@r_RentRoom 1 25 #
 10 6020 D _script rooms@d_NoMoneyForRent 1 0 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 R _script rooms@r_ShowRoom 1 1 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 @
-12 12000 None 0 &
+11 11000 main@dlg_Caps 0 @
+12 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Rose}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {5050}{}{Canis burgers. [$7]}
 {5060}{}{Shepherd’s stew. [$3]}
 {5070}{}{No thank you; I’m not hungry right now.}
-{6000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{6000}{}{We still have a room free and this will cost you @lex price@ @lex money@ for @lex time@ days. You want it?}
 {6010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
 {6020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
 {6030}{}{No thanks, I've changed my mind.}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm going to have to ask you to leave.@@We don't serve your, uh... whatever you are around here.@@I... what happened to your face?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -141,7 +141,7 @@ lang=engl czec pols span russ
 {5050}{}{Canis burgers. [$7]}
 {5060}{}{Shepherd’s stew. [$3]}
 {5070}{}{No thank you; I’m not hungry right now.}
-{6000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{6000}{}{We still have a room free and this will cost you @lex price@ @lex money@ for @lex time@ days. You want it?}
 {6010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
 {6020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
 {6030}{}{No thanks, I've changed my mind.}
@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm going to have to ask you to leave.@@We don't serve your, uh... whatever you are around here.@@I... what happened to your face?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {5050}{}{Canis burgers. [$7]}
 {5060}{}{Shepherd’s stew. [$3]}
 {5070}{}{No thank you; I’m not hungry right now.}
-{6000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{6000}{}{We still have a room free and this will cost you @lex price@ @lex money@ for @lex time@ days. You want it?}
 {6010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
 {6020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
 {6030}{}{No thanks, I've changed my mind.}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm going to have to ask you to leave.@@We don't serve your, uh... whatever you are around here.@@I... what happened to your face?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -241,7 +241,7 @@ lang=engl czec pols span russ
 {5050}{}{Canis burgers. [$7]}
 {5060}{}{Shepherd’s stew. [$3]}
 {5070}{}{No thank you; I’m not hungry right now.}
-{6000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{6000}{}{We still have a room free and this will cost you @lex price@ @lex money@ for @lex time@ days. You want it?}
 {6010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
 {6020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
 {6030}{}{No thanks, I've changed my mind.}
@@ -257,7 +257,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm going to have to ask you to leave.@@We don't serve your, uh... whatever you are around here.@@I... what happened to your face?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -291,7 +291,7 @@ lang=engl czec pols span russ
 {5050}{}{Canis burgers. [$7]}
 {5060}{}{Shepherd’s stew. [$3]}
 {5070}{}{No thank you; I’m not hungry right now.}
-{6000}{}{We still have a room free and this will cost you @lex price@ caps for @lex time@ days. You want it?}
+{6000}{}{We still have a room free and this will cost you @lex price@ @lex money@ for @lex time@ days. You want it?}
 {6010}{}{Sounds like a fair price to me. I’ll take it.@@Yes, I'll take the room.}
 {6020}{}{Uh, this is a little rich for me. You couldn't let me sleep there on the house, could ya?}
 {6030}{}{No thanks, I've changed my mind.}

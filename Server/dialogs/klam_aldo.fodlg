@@ -6,85 +6,85 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 22 1010 D _param p KARMA_SLAVER > 0 #
 24 1020 D _param p ST_CHARISMA > 99 #
 13 1030 D _var p name_mem_npc_player = 1 #
 2 1040 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var n loyality = 7 #
 8 2020 R _var n loyality = 7 #
 23 2030 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 2040 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 8 3010 #
-6 3020 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
+6 3020 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
 8 3030 #
 23 3040 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 3050 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
-6 4000 None 0 #
+6 4000 main@dlg_Caps 0 #
 15 4010 #
 7 4020 @
-7 5000 None 0 #
+7 5000 main@dlg_Caps 0 #
 9 5010 #
 11 5020 #
 17 5030 #
 15 5040 #
 25 5050 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 5060 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
-8 6000 None 0 @
-9 7000 None 0 #
+8 6000 main@dlg_Caps 0 @
+9 7000 main@dlg_Caps 0 #
 10 7010 #
 15 7020 #
 7 7030 @
-10 8000 None 0 #
+10 8000 main@dlg_Caps 0 #
 15 8010 #
 7 8020 @
-11 9000 None 0 #
+11 9000 main@dlg_Caps 0 #
 15 9010 #
 7 9020 @
-12 10000 None 0 #
-6 10010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
+12 10000 main@dlg_Caps 0 #
+6 10010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 R _var n loyality = 10 #
 16 10020 #
 23 10030 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 10040 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
-13 11000 None 0 #
-6 11010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 R _var p loyality = 10 #
+13 11000 main@dlg_Caps 0 #
+6 11010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 R _var p loyality = 10 #
 16 11020 #
 23 11030 D _var p q_klam_aldobooze = 0 D _script dialog@d_QuestTimeoutReady 0  #
 26 11040 D _var p q_klam_aldobooze = 1 D _script dialog@d_QuestTimeoutReady 0  @
-14 12000 None 0 @
-15 13000 None 0 @
-16 14000 None 0 @
-17 15000 None 0 #
+14 12000 main@dlg_Caps 0 @
+15 13000 main@dlg_Caps 0 @
+16 14000 main@dlg_Caps 0 @
+17 15000 main@dlg_Caps 0 #
 15 15010 #
 18 15020 #
 7 15030 @
-18 16000 None 0 #
+18 16000 main@dlg_Caps 0 #
 15 16010 #
 7 16020 @
-19 17000 None 0 #
+19 17000 main@dlg_Caps 0 #
 20 17010 #
 14 17020 @
-20 18000 None 0 #
+20 18000 main@dlg_Caps 0 #
 14 18010 #
-21 18020 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 @
-21 19000 None 0 @
-22 20000 None 0 @
-23 21000 None 0 #
+21 18020 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 @
+21 19000 main@dlg_Caps 0 @
+22 20000 main@dlg_Caps 0 @
+23 21000 main@dlg_Caps 0 #
 25 21010 @
-24 22000 None 0 @
-25 23000 None 0 #
+24 22000 main@dlg_Caps 0 @
+25 23000 main@dlg_Caps 0 #
 0 23010 R _var p q_klam_aldobooze = 1 #
 0 23020 @
-26 24000 None 0 #
+26 24000 main@dlg_Caps 0 #
 28 24010 D _item p PID_BEER > 4 R _item p PID_BEER - 5 R _script dialog@r_QuestTimeout 1 20 R _script town@r_ModifyInfluenceBuffer 1 5 #
 28 24020 D _item p PID_BOOZE > 4 R _item p PID_BOOZE - 5 R _script dialog@r_QuestTimeout 1 20 R _script town@r_ModifyInfluenceBuffer 1 5 #
 28 24030 D _item p PID_ROT_GUT > 4 R _item p PID_ROT_GUT - 5 R _script dialog@r_QuestTimeout 1 20 R _script town@r_ModifyInfluenceBuffer 1 5 #
 27 24040 @
-27 25000 None 0 #
+27 25000 main@dlg_Caps 0 #
 0 25010 @
-28 26000 None 0 #
+28 26000 main@dlg_Caps 0 #
 0 26010 D _item p PID_10MM_JHP < 75 R _script dialog@r_AddMoney 1 85 R _param p ST_EXPERIENCE + 250 R _item p PID_KNIFE + 1 R _item p PID_SPRINGER_RIFLE + 1 R _item p PID_10MM_JHP + 25 #
 0 26020 D _item p PID_10MM_JHP > 74 R _script dialog@r_AddMoney 1 85 R _param p ST_EXPERIENCE + 250 R _item p PID_KNIFE + 1 R _item p PID_SPRINGER_RIFLE + 1 &
 
@@ -161,22 +161,22 @@ lang=engl czec pols span russ
 {21000}{}{Work? Sure thing! (hic) I'm alwaysh... on the lookout fer shum more medicine. (hic) The barsh kicked me out. Get a little behind on your (hic) tab and out you go, into the cold and rain.}
 {21010}{}{Medicine, huh? How much of this 'medicine' are you looking for?}
 {22000}{}{Get the fuck outta mah... mah town, freak.@@::spits::@@Yeh's... yeh's hideous.}
-{23000}{}{Only a couple-a... couple bottles. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
-{23010}{}{Five bottles of beer, booze, or rotgut. I got it. You take care Aldo.}
+{23000}{}{Only a couple-a... couple @lex prefix@s. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
+{23010}{}{Five @lex prefix@s of beer, booze, or rotgut. I got it. You take care Aldo.}
 {23020}{}{Forget it. I'm not getting booze for you, you filthy drunk.}
 {24000}{}{Yeh did? You're a saint. What do you got fer ol' Aldo? I need my (hic) medicine.}
 {24010}{}{Just a few beers, Aldo.}
 {24020}{}{Some booze.}
-{24030}{}{Five bottles of rotgut.}
-{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five bottles, right? I better get going.}
+{24030}{}{Five @lex prefix@s of rotgut.}
+{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five @lex prefix@s, right? I better get going.}
 {25000}{}{What're you (hic) doing? Mocking someone with my (cough, cough) condition. Go get me some. If I'm still (cough) around by then.}
 {25010}{}{Yeah, sure Aldo. Bye.}
-{26000}{}{Yeh're a saint. (He drains a bottle in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few caps) Be sure to come back. I'm always lookin' fer more medicine.}
+{26000}{}{Yeh're a saint. (He drains a @lex prefix@ in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few @lex money@) Be sure to come back. I'm always lookin' fer more medicine.}
 {26010}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -246,22 +246,22 @@ lang=engl czec pols span russ
 {21000}{}{Work? Sure thing! (hic) I'm alwaysh... on the lookout fer shum more medicine. (hic) The barsh kicked me out. Get a little behind on your (hic) tab and out you go, into the cold and rain.}
 {21010}{}{Medicine, huh? How much of this 'medicine' are you looking for?}
 {22000}{}{Get the fuck outta mah... mah town, freak.@@::spits::@@Yeh's... yeh's hideous.}
-{23000}{}{Only a couple-a... couple bottles. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
-{23010}{}{Five bottles of beer, booze, or rotgut. I got it. You take care Aldo.}
+{23000}{}{Only a couple-a... couple @lex prefix@s. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
+{23010}{}{Five @lex prefix@s of beer, booze, or rotgut. I got it. You take care Aldo.}
 {23020}{}{Forget it. I'm not getting booze for you, you filthy drunk.}
 {24000}{}{Yeh did? You're a saint. What do you got fer ol' Aldo? I need my (hic) medicine.}
 {24010}{}{Just a few beers, Aldo.}
 {24020}{}{Some booze.}
-{24030}{}{Five bottles of rotgut.}
-{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five bottles, right? I better get going.}
+{24030}{}{Five @lex prefix@s of rotgut.}
+{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five @lex prefix@s, right? I better get going.}
 {25000}{}{What're you (hic) doing? Mocking someone with my (cough, cough) condition. Go get me some. If I'm still (cough) around by then.}
 {25010}{}{Yeah, sure Aldo. Bye.}
-{26000}{}{Yeh're a saint. (He drains a bottle in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few caps) Be sure to come back. I'm always lookin' fer more medicine.}
+{26000}{}{Yeh're a saint. (He drains a @lex prefix@ in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few @lex money@) Be sure to come back. I'm always lookin' fer more medicine.}
 {26010}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -331,22 +331,22 @@ lang=engl czec pols span russ
 {21000}{}{Work? Sure thing! (hic) I'm alwaysh... on the lookout fer shum more medicine. (hic) The barsh kicked me out. Get a little behind on your (hic) tab and out you go, into the cold and rain.}
 {21010}{}{Medicine, huh? How much of this 'medicine' are you looking for?}
 {22000}{}{Get the fuck outta mah... mah town, freak.@@::spits::@@Yeh's... yeh's hideous.}
-{23000}{}{Only a couple-a... couple bottles. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
-{23010}{}{Five bottles of beer, booze, or rotgut. I got it. You take care Aldo.}
+{23000}{}{Only a couple-a... couple @lex prefix@s. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
+{23010}{}{Five @lex prefix@s of beer, booze, or rotgut. I got it. You take care Aldo.}
 {23020}{}{Forget it. I'm not getting booze for you, you filthy drunk.}
 {24000}{}{Yeh did? You're a saint. What do you got fer ol' Aldo? I need my (hic) medicine.}
 {24010}{}{Just a few beers, Aldo.}
 {24020}{}{Some booze.}
-{24030}{}{Five bottles of rotgut.}
-{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five bottles, right? I better get going.}
+{24030}{}{Five @lex prefix@s of rotgut.}
+{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five @lex prefix@s, right? I better get going.}
 {25000}{}{What're you (hic) doing? Mocking someone with my (cough, cough) condition. Go get me some. If I'm still (cough) around by then.}
 {25010}{}{Yeah, sure Aldo. Bye.}
-{26000}{}{Yeh're a saint. (He drains a bottle in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few caps) Be sure to come back. I'm always lookin' fer more medicine.}
+{26000}{}{Yeh're a saint. (He drains a @lex prefix@ in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few @lex money@) Be sure to come back. I'm always lookin' fer more medicine.}
 {26010}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -416,22 +416,22 @@ lang=engl czec pols span russ
 {21000}{}{Work? Sure thing! (hic) I'm alwaysh... on the lookout fer shum more medicine. (hic) The barsh kicked me out. Get a little behind on your (hic) tab and out you go, into the cold and rain.}
 {21010}{}{Medicine, huh? How much of this 'medicine' are you looking for?}
 {22000}{}{Get the fuck outta mah... mah town, freak.@@::spits::@@Yeh's... yeh's hideous.}
-{23000}{}{Only a couple-a... couple bottles. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
-{23010}{}{Five bottles of beer, booze, or rotgut. I got it. You take care Aldo.}
+{23000}{}{Only a couple-a... couple @lex prefix@s. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
+{23010}{}{Five @lex prefix@s of beer, booze, or rotgut. I got it. You take care Aldo.}
 {23020}{}{Forget it. I'm not getting booze for you, you filthy drunk.}
 {24000}{}{Yeh did? You're a saint. What do you got fer ol' Aldo? I need my (hic) medicine.}
 {24010}{}{Just a few beers, Aldo.}
 {24020}{}{Some booze.}
-{24030}{}{Five bottles of rotgut.}
-{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five bottles, right? I better get going.}
+{24030}{}{Five @lex prefix@s of rotgut.}
+{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five @lex prefix@s, right? I better get going.}
 {25000}{}{What're you (hic) doing? Mocking someone with my (cough, cough) condition. Go get me some. If I'm still (cough) around by then.}
 {25010}{}{Yeah, sure Aldo. Bye.}
-{26000}{}{Yeh're a saint. (He drains a bottle in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few caps) Be sure to come back. I'm always lookin' fer more medicine.}
+{26000}{}{Yeh're a saint. (He drains a @lex prefix@ in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few @lex money@) Be sure to come back. I'm always lookin' fer more medicine.}
 {26010}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -501,17 +501,17 @@ lang=engl czec pols span russ
 {21000}{}{Work? Sure thing! (hic) I'm alwaysh... on the lookout fer shum more medicine. (hic) The barsh kicked me out. Get a little behind on your (hic) tab and out you go, into the cold and rain.}
 {21010}{}{Medicine, huh? How much of this 'medicine' are you looking for?}
 {22000}{}{Get the fuck outta mah... mah town, freak.@@::spits::@@Yeh's... yeh's hideous.}
-{23000}{}{Only a couple-a... couple bottles. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
-{23010}{}{Five bottles of beer, booze, or rotgut. I got it. You take care Aldo.}
+{23000}{}{Only a couple-a... couple @lex prefix@s. (Urp) Five should do it. Beers, booze or... some of that rotgut. Bring 'em back here and I'll... (hic) reward yeh handsomely.}
+{23010}{}{Five @lex prefix@s of beer, booze, or rotgut. I got it. You take care Aldo.}
 {23020}{}{Forget it. I'm not getting booze for you, you filthy drunk.}
 {24000}{}{Yeh did? You're a saint. What do you got fer ol' Aldo? I need my (hic) medicine.}
 {24010}{}{Just a few beers, Aldo.}
 {24020}{}{Some booze.}
-{24030}{}{Five bottles of rotgut.}
-{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five bottles, right? I better get going.}
+{24030}{}{Five @lex prefix@s of rotgut.}
+{24040}{}{Oh, I guess I didn't have quite as much as I thought. Five @lex prefix@s, right? I better get going.}
 {25000}{}{What're you (hic) doing? Mocking someone with my (cough, cough) condition. Go get me some. If I'm still (cough) around by then.}
 {25010}{}{Yeah, sure Aldo. Bye.}
-{26000}{}{Yeh're a saint. (He drains a bottle in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few caps) Be sure to come back. I'm always lookin' fer more medicine.}
+{26000}{}{Yeh're a saint. (He drains a @lex prefix@ in one gulp) Ahhh. My (hic) throat is soothed. Now, I figure I owe yeh your dues. I won't be needing any of this (hic) shit. (Aldo hands you some filth encrusted gear, and a few @lex money@) Be sure to come back. I'm always lookin' fer more medicine.}
 {26010}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 

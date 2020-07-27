@@ -6,33 +6,33 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 1000 1010 D _script map_tent@d_IsTentOwner 0  D _param p ST_VAR9 = 1 #
 5 1020 @
-5 2000 None 0 #
+5 2000 main@dlg_Caps 0 #
 10 2010 D _script map_tent@d_IsTentOwner 0  #
 5 2020 R _script map_tent@r_ThrowSomething 0  #
 20 2030 D _script map_tent@d_KnowLocation 0  D _script map_tent@d_IsNotTentOwner 0  R _script map_tent@r_ForgetLocation 0  #
 0 2040 @
-10 3000 None 1 #
+10 3000 main@dlg_Caps 1 #
 10 3010 D _script map_tent@d_IsTentOwner 0  R _script map_tent@r_TentName 0  #
 11 3020 D _script map_tent@d_IsUpgradeAvailable 1 571 #
 10 3030 D _script map_tent@d_IsTentOwner 0  R _script map_tent@r_CreateMap 0  #
 0 3040 D _script map_tent@d_IsTentOwner 0  R _script map_tent@r_AbandonTent 0  #
 0 3050 @
-20 4000 None 0 @
-11 5000 None 0 #
+20 4000 main@dlg_Caps 0 @
+11 5000 main@dlg_Caps 0 #
 110 5010 D _script map_tent@d_IsTentOwner 0  D _script map_tent@d_IsUpgradeAvailable 1 571 #
 10 5020 @
-110 6000 None 1 #
+110 6000 main@dlg_Caps 1 #
 10 6010 D _script map_tent@d_IsTentOwner 0  D _script map_tent@d_IsUpgradeAvailable 1 571 D _item p PID_FIREWOOD } 2 D _item p PID_MULTI_TOOL } 1 R _script map_tent@r_InstallUpgrade 1 571 R _item p PID_FIREWOOD - 2 R _item p PID_MULTI_TOOL - 1 #
 11 6020 @
-1000 7000 None 1 #
+1000 7000 main@dlg_Caps 1 #
 0 7010 D _script map_tent@d_IsTentOwner 0  R _script map_tent@r_AbandonTent 0  #
 0 7020 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -66,7 +66,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -100,7 +100,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -134,7 +134,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -168,7 +168,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}

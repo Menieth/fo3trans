@@ -6,48 +6,48 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 7 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 5 2020 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 5 3010 #
 7 3020 #
 8 3030 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 7 4010 @
-6 5000 None 0 @
-7 6000 None 0 #
+6 5000 main@dlg_Caps 0 @
+7 6000 main@dlg_Caps 0 #
 2 6010 #
 9 6020 #
 5 6030 #
 0 6040 #
 6 6050 D _item p PID_ELECTRONIC_PARTS } 110 R _item p PID_KOKOWEEF_MINE_SCRIP + 1 R _item p PID_ELECTRONIC_PARTS - 110 R _param p ST_EXPERIENCE + 900 @
-8 7000 None 0 @
-9 8000 None 0 #
+8 7000 main@dlg_Caps 0 @
+9 8000 main@dlg_Caps 0 #
 16 8010 #
 7 8020 #
 0 8030 #
 10 8040 #
 11 8050 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 17 9010 D _item p PID_KOKOWEEF_MINE_SCRIP } 3 R _item p PID_ENCLAVE_COMBAT_HELMET_MK2 + 1 R _item p PID_KOKOWEEF_MINE_SCRIP - 3 #
 0 9020 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 17 10010 D _item p PID_KOKOWEEF_MINE_SCRIP } 1 R _item p PID_KOKOWEEF_MINE_SCRIP - 1 R _item p PID_RED_RYDER_BB_GUN + 1 #
 17 10020 D _item p PID_KOKOWEEF_MINE_SCRIP } 2 R _item p PID_KOKOWEEF_MINE_SCRIP - 2 R _item p PID_RED_RYDER_LE_BB_GUN + 1 #
 17 10030 D _item p PID_KOKOWEEF_MINE_SCRIP } 1 R _item p PID_KOKOWEEF_MINE_SCRIP - 1 R _item p PID_BBS + 100 R _item p PID_RED_RYDER_LE_BB_GUN + 1 #
 0 10040 @
-12 11000 None 0 @
-13 12000 None 0 @
-14 13000 None 0 @
-15 14000 None 0 @
-16 15000 None 0 #
+12 11000 main@dlg_Caps 0 @
+13 12000 main@dlg_Caps 0 @
+14 13000 main@dlg_Caps 0 @
+15 14000 main@dlg_Caps 0 @
+16 15000 main@dlg_Caps 0 #
 17 15010 D _item p PID_KOKOWEEF_MINE_SCRIP } 4 R _item p PID_KOKOWEEF_MINE_SCRIP - 4 R _item p PID_PLASTIC_EXPLOSIVES + 2 #
 17 15020 D _item p PID_KOKOWEEF_MINE_SCRIP } 3 R _item p PID_KOKOWEEF_MINE_SCRIP - 3 R _item p PID_DYNAMITE + 4 #
 0 15030 @
-17 16000 None 0 &
+17 16000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Weffer}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
 {2010}{}{From where do you get all these items?}
 {2020}{}{Do you have any job for me?}
-{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take @lex money@, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
 {3010}{}{Do you have any job for me?}
 {3020}{}{Wanted to ask you about something else.}
 {3030}{}{Why don't you operate in Redding then?}
@@ -95,13 +95,13 @@ lang=engl czec pols span russ
 {16000}{}{Here you go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
 {2010}{}{From where do you get all these items?}
 {2020}{}{Do you have any job for me?}
-{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take @lex money@, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
 {3010}{}{Do you have any job for me?}
 {3020}{}{Wanted to ask you about something else.}
 {3030}{}{Why don't you operate in Redding then?}
@@ -140,13 +140,13 @@ lang=engl czec pols span russ
 {16000}{}{Here you go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
 {2010}{}{From where do you get all these items?}
 {2020}{}{Do you have any job for me?}
-{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take @lex money@, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
 {3010}{}{Do you have any job for me?}
 {3020}{}{Wanted to ask you about something else.}
 {3030}{}{Why don't you operate in Redding then?}
@@ -185,13 +185,13 @@ lang=engl czec pols span russ
 {16000}{}{Here you go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
 {2010}{}{From where do you get all these items?}
 {2020}{}{Do you have any job for me?}
-{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take @lex money@, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
 {3010}{}{Do you have any job for me?}
 {3020}{}{Wanted to ask you about something else.}
 {3030}{}{Why don't you operate in Redding then?}
@@ -230,13 +230,13 @@ lang=engl czec pols span russ
 {16000}{}{Here you go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lets call it a Black Market. Here we sell different things which you won't be able to buy anywhere else. Some of them might seem useless to you... Some may not. Name's Weffer by the way.}
 {2010}{}{From where do you get all these items?}
 {2020}{}{Do you have any job for me?}
-{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take caps, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
+{3000}{}{It is a secret... But we sell it for Redding's currency, because of fucking Redding's mayor. The guy doesn't take @lex money@, he wishes to "rise the town's economy" by investing goods into local papers... That's why we use these chips.}
 {3010}{}{Do you have any job for me?}
 {3020}{}{Wanted to ask you about something else.}
 {3030}{}{Why don't you operate in Redding then?}

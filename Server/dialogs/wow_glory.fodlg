@@ -6,34 +6,34 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 5 2020 #
 6 2030 D _var p wow_glory = 0 #
 0 2040 #
 0 2050 #
 9 2060 D _var p wow_glory = 2 D _item p PID_WATER_CHIP } 1 R _var p wow_glory = 3 R _item p PID_WATER_CHIP - 1 R _script dialog@r_cd_quest 2 800 535 R _item p PID_HYPO + 5 R _item p PID_HIFLO + 1 R _item p PID_BOTTLE_CAPS + 9500 R _param p ST_EXPERIENCE + 15000 R _item p PID_FLARE + 1 R _item p PID_FLOWER + 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 2 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 2 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 10 6010 D _var p wow_glory = 0 #
 0 6020 @
-7 7000 None 0 @
-9 8000 None 0 @
-10 9000 None 0 #
+7 7000 main@dlg_Caps 0 @
+9 8000 main@dlg_Caps 0 @
+10 9000 main@dlg_Caps 0 #
 11 9010 D _var p wow_glory = 0 R _var p wow_glory = 1 #
 7 9020 D _var p wow_glory = 0 R _var p wow_glory = 1 #
 0 9030 @
-11 10000 None 0 &
+11 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Glory}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
@@ -129,7 +129,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
@@ -160,7 +160,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}

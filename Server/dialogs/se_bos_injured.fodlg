@@ -6,39 +6,39 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 14 1010 D _script dialog@d_IsNotLocationOwner 0  #
 13 1020 D _var p q_bos_injured = 4 #
 10 1030 D _var p q_bos_injured = 3 D _item p PID_SUPER_STIMPAK } 1 #
 12 1040 D _var p q_bos_injured = 3 D _item p PID_SUPER_STIMPAK = 0 #
 9 1050 D _var p q_bos_injured = 1 #
 2 1060 D _var p q_bos_initiatequest_start = 21 D _script dialog@d_IsLocationOwner 0  D _var p q_bos_injured = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 R _var p q_bos_injured = 3 #
 6 4030 D _param p SK_DOCTOR } 75 D or D _param p SK_FIRST_AID } 115 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 R _var p q_bos_injured = 3 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 R _var p q_bos_injured = 1 R _script quest_bos_initiate@r_HealSoldier 1 80 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 R _var p q_bos_initiatequest_start = 25 R _var p q_bos_injured = 4 R _script quest_bos_initiate@r_RetireMap 0  @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 D _item p PID_SUPER_STIMPAK } 1 R _item p PID_SUPER_STIMPAK - 1 R _script quest_bos_initiate@r_HealSoldier 1 40 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 R _var p q_bos_injured = 4 R _var p q_bos_initiatequest_start = 24 R _script quest_bos_initiate@r_RetireMap 0  @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 @
-13 13000 None 0 @
-14 14000 None 0 &
+13 13000 main@dlg_Caps 0 @
+14 14000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Snyder}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}

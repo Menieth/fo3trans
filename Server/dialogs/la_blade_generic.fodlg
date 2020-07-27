@@ -6,34 +6,34 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p q_bunker_base > 0 D _var n name_mem_npc_player = 0 D _var p q_bunker_base < 5 R _var n name_mem_npc_player = 1 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 D _var p q_bunker_base < 4 #
 5 3020 D _var p q_bunker_base = 4 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 R _var p q_bunker_base + 1 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 9 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 12 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 R _var p q_bunker_base = 5 R _param p REPUTATION_SCAVENGERS + 25 R _param p ST_EXPERIENCE + 1000 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 9 12010 &
 
 [engl]
@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}

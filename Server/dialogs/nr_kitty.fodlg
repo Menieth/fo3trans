@@ -6,73 +6,73 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _param p ST_INTELLECT < 1 #
 27 1020 D _param p ST_CHARISMA < 1 D _param p ST_AGILITY = 11 #
 28 1030 D _param p ST_CHARISMA < 1 D _param p ST_ENDURANCE = 11 #
 3 1040 D _var p name_mem_npc_player = 1 #
 2 1050 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 #
 12 2020 #
 22 2030 D _item p PID_CATS_PAW > 0 #
 29 2040 D _var p nr_wright_boozequest = 3 #
 30 2050 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 R _var n acquaintance = 1 #
 0 2060 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 6 3010 #
 12 3020 #
 22 3030 D _item p PID_CATS_PAW > 0 #
 29 3040 D _var p nr_wright_boozequest = 3 #
 30 3050 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 R _var n acquaintance = 1 #
 0 3060 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 5 4020 #
 5 4030 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 9 6020 #
 12 6030 #
 0 6040 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _param p ST_GENDER = 0 #
 8 7020 D _param p ST_GENDER = 1 #
 12 7030 #
 0 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 12 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 13 9020 #
 14 9030 #
 11 9040 #
 15 9050 @
-10 10000 None 0 #
-17 10010 D _item p PID_BOTTLE_CAPS > 49 R _var p sex_exp + 5 R _script dialog@r_RemoveMoney 1 50 #
+10 10000 main@dlg_Caps 0 #
+17 10010 D _script dialog@d_havepropermoney 1 49 R _var p sex_exp + 5 R _script dialog@r_RemoveMoney 1 50 #
 12 10020 #
 0 10030 @
-11 11000 None 0 #
-24 11010 D _item p PID_BOTTLE_CAPS > 19 R _script dialog@r_RemoveMoney 1 20 #
+11 11000 main@dlg_Caps 0 #
+24 11010 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 6 12010 #
 22 12020 D _item p PID_CATS_PAW > 0 #
 500 12030 #
 0 12040 @
-13 13000 None 0 #
-17 13010 D _item p PID_BOTTLE_CAPS > 149 R _var p sex_exp + 10 R _script dialog@r_RemoveMoney 1 150 #
+13 13000 main@dlg_Caps 0 #
+17 13010 D _script dialog@d_havepropermoney 1 149 R _var p sex_exp + 10 R _script dialog@r_RemoveMoney 1 150 #
 12 13020 #
 0 13030 @
-14 14000 None 0 #
-17 14010 D _item p PID_BOTTLE_CAPS > 299 R _var p sex_exp + 15 R _script dialog@r_RemoveMoney 1 300 #
+14 14000 main@dlg_Caps 0 #
+17 14010 D _script dialog@d_havepropermoney 1 299 R _var p sex_exp + 15 R _script dialog@r_RemoveMoney 1 300 #
 12 14020 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 16 15020 D _param p ST_GENDER = 0 #
 16 15030 D _param p ST_GENDER = 0 #
@@ -80,59 +80,59 @@ lang=engl czec pols span russ
 16 15050 #
 12 15060 #
 0 15070 @
-16 16000 None 0 #
-17 16010 D _item p PID_BOTTLE_CAPS > 999 R _var p nr_catspaw_paid = 5 R _var p sex_exp + 30 R _script dialog@r_RemoveMoney 1 1000 #
+16 16000 main@dlg_Caps 0 #
+17 16010 D _script dialog@d_havepropermoney 1 999 R _var p nr_catspaw_paid = 5 R _var p sex_exp + 30 R _script dialog@r_RemoveMoney 1 1000 #
 12 16020 #
 0 16030 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 D _param p ST_GENDER = 0 #
 19 18020 D _param p ST_GENDER = 1 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 D _var p sex_exp > 99 #
 21 19020 D _var p sex_exp < 100 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 0 21010 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 D _param p ST_INTELLECT < 6 #
 23 22020 D _param p ST_INTELLECT > 5 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 12 23010 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 25 24010 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 26 25010 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 0 26010 @
-27 27000 None 0 #
+27 27000 main@dlg_Caps 0 #
 0 27010 @
-28 28000 None 0 #
+28 28000 main@dlg_Caps 0 #
 0 28010 @
-29 29000 None 0 #
+29 29000 main@dlg_Caps 0 #
 0 29010 R _var p nr_wright_boozequest = 4 @
-30 30000 None 0 #
+30 30000 main@dlg_Caps 0 #
 31 30010 @
-31 31000 None 0 #
+31 31000 main@dlg_Caps 0 #
 32 31010 @
-32 32000 None 0 #
+32 32000 main@dlg_Caps 0 #
 33 32010 @
-33 33000 None 0 #
+33 33000 main@dlg_Caps 0 #
 34 33010 #
 35 33020 @
-34 34000 None 0 #
+34 34000 main@dlg_Caps 0 #
 0 34010 @
-35 35000 None 0 #
+35 35000 main@dlg_Caps 0 #
 36 35010 R _var p q_mordinos_induction_doctor + 50 @
-36 36000 None 0 #
+36 36000 main@dlg_Caps 0 #
 0 36010 @
-500 37000 None 0 #
+500 37000 main@dlg_Caps 0 #
 501 37010 D _script perks@d_PerkCheck 1 399 R _param p PE_MAGNETIC_PERSONALITY = 1 #
 501 37020 D _script perks@d_PerkCheck 1 392 R _param p PE_HARMLESS = 1 #
 12 37030 @
-501 38000 None 0 #
+501 38000 main@dlg_Caps 0 #
 12 38010 #
 0 38020 &
 
@@ -246,14 +246,14 @@ lang=engl czec pols span russ
 {27010}{}{[Shamble off, blubbering.]}
 {28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
 {28010}{}{[Shamble off, blubbering.]}
-{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few @lex prefix@s.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
 {29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
 {30000}{}{I might be, why?}
 {30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
 {31000}{}{I can't lie. [She pauses.] How much can you offer me?}
 {31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
 {32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
-{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 @lex money@ per dose.}
 {33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
 {33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
 {33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
@@ -272,7 +272,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -379,14 +379,14 @@ lang=engl czec pols span russ
 {27010}{}{[Shamble off, blubbering.]}
 {28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
 {28010}{}{[Shamble off, blubbering.]}
-{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few @lex prefix@s.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
 {29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
 {30000}{}{I might be, why?}
 {30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
 {31000}{}{I can't lie. [She pauses.] How much can you offer me?}
 {31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
 {32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
-{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 @lex money@ per dose.}
 {33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
 {33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
 {33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
@@ -405,7 +405,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -512,14 +512,14 @@ lang=engl czec pols span russ
 {27010}{}{[Shamble off, blubbering.]}
 {28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
 {28010}{}{[Shamble off, blubbering.]}
-{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few @lex prefix@s.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
 {29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
 {30000}{}{I might be, why?}
 {30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
 {31000}{}{I can't lie. [She pauses.] How much can you offer me?}
 {31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
 {32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
-{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 @lex money@ per dose.}
 {33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
 {33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
 {33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
@@ -538,7 +538,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -645,14 +645,14 @@ lang=engl czec pols span russ
 {27010}{}{[Shamble off, blubbering.]}
 {28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
 {28010}{}{[Shamble off, blubbering.]}
-{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few @lex prefix@s.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
 {29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
 {30000}{}{I might be, why?}
 {30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
 {31000}{}{I can't lie. [She pauses.] How much can you offer me?}
 {31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
 {32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
-{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 @lex money@ per dose.}
 {33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
 {33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
 {33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}
@@ -671,7 +671,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -778,14 +778,14 @@ lang=engl czec pols span russ
 {27010}{}{[Shamble off, blubbering.]}
 {28000}{}{[Upon sight of your hideous appearance, Miss Kitty gasps and avoids your gaze. A single tear drips down your ravaged face as you wonder if 10 Endurance was really worth it.]}
 {28010}{}{[Shamble off, blubbering.]}
-{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few bottles.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
+{29000}{}{[She looks concerned and bites her lip.] Well, I.. I guess I you could put me down for a few @lex prefix@s.  Strictly personal. I don't like to see my girls drinking on the job, and the girls don't want drunks  pawing at them all night. Tell Orville I said hi.}
 {29010}{}{Mr. Wright appreciates your business, Miss Kitty.}
 {30000}{}{I might be, why?}
 {30010}{}{Well, because I can offer it to you for a very good price. I'm guessing your customers and possibly your girls get through a fair amount of this stuff.}
 {31000}{}{I can't lie. [She pauses.] How much can you offer me?}
 {31010}{}{As much as you want, Miss Kitty. I really do have an awful lot of it.}
 {32000}{}{Well I'm not some drug dealer. 50 will do me just fine. What's the price?}
-{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 caps per dose.}
+{32010}{}{Real cheap. I'm the only middle-man and I'm not taking any cuts today. Wholesale prices. 5 @lex money@ per dose.}
 {33000}{}{Okay, that's very low...this isn't shady or anything is it? It feels wrong.}
 {33010}{}{I'm just a simple wanderer with a briefcase full of jet who wants to give you some of it for a little money.}
 {33020}{}{I'm working for the Mordinos. But I'm not one of them. Just helping them distribute today.}

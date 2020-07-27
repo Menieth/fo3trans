@@ -6,80 +6,80 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 #
 3 1020 D _param p ST_INTELLECT < 4 #
 22 1030 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 #
 4 3030 #
 4 3040 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65507 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 8 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 65507 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 23 8020 D _param p ST_CHARISMA > 6 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 D _param p SK_SCIENCE > 80 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 14 12010 #
 13 12020 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 15 13010 #
 0 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 24 14010 D _param p SK_SPEECH > 70 D _var p loyality < 5 R _var p loyality + 5 #
 9 14020 D _param p SK_SPEECH < 71 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 0 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 D _param p SK_SCIENCE > 80 #
 21 18020 #
 0 18030 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 #
 0 19020 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 12 21010 #
 0 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 8 22010 #
 0 22020 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 18 23010 #
 0 23020 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 0 24010 &
 
 [engl]
@@ -165,7 +165,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}
@@ -323,7 +323,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}
@@ -402,7 +402,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}

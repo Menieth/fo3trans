@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _param p ST_INTELLECT < 4 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 65506 2020 #
 0 2030 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 65506 3010 #
 0 3020 &
 
@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}

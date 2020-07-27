@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Police officer}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{I am rather busy, please don't waste my time.@@ Could you come back next time?@@ All these investigation cases...@@I need to finish this report.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I am rather busy, please don't waste my time.@@ Could you come back next time?@@ All these investigation cases...@@I need to finish this report.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I am rather busy, please don't waste my time.@@ Could you come back next time?@@ All these investigation cases...@@I need to finish this report.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I am rather busy, please don't waste my time.@@ Could you come back next time?@@ All these investigation cases...@@I need to finish this report.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I am rather busy, please don't waste my time.@@ Could you come back next time?@@ All these investigation cases...@@I need to finish this report.}

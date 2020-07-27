@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _script dialog@d_CheckNight 0  #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Train Station Peasant}
@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}

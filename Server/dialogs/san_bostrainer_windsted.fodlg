@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 75 1010 D _var p q_bos_initiatequest_start } 27 #
 70 1020 D _var p q_bos_initiatequest_start = 26 #
 60 1030 D _var p q_bos_initiatequest_start = 20 #
@@ -19,40 +19,40 @@ lang=engl czec pols span russ
 6 1100 D _var p q_bos_initiatequest_start ! 0 D _var p q_bos_initiatequest_start ! 11 #
 12 1110 D _var p q_bos_initiatequest_start = 11 #
 3 1120 D _var p faction_bos_home ! 1 D _var p faction_bos_home ! 2 R _var p q_bos_initiatequest_start = 0 R _var p faction_bos_home = 3 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 4 2010 #
 5 2020 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 R _var p q_bos_initiatequest_start = 1 #
 5 3020 @
-5 4000 None 0 @
-6 5000 None 0 #
+5 4000 main@dlg_Caps 0 @
+6 5000 main@dlg_Caps 0 #
 7 5010 D _item p PID_SCORPION_TAIL } 10 R _param p REPUTATION_BOS + 300 R _param p ST_EXPERIENCE + 300 R _var p q_bos_initiatequest_start = 11 R _item p PID_SCORPION_TAIL - 10 #
 10 5020 D _var p q_bos_initiatequest_start { 10 D _item p PID_SCORPION_TAIL } 1 R _var p q_bos_initiatequest_start + 1 R _item p PID_SCORPION_TAIL - 1 #
 10 5030 D _var p q_bos_initiatequest_start { 6 D _item p PID_SCORPION_TAIL } 5 R _var p q_bos_initiatequest_start + 5 R _item p PID_SCORPION_TAIL - 5 #
 11 5040 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 13 6010 @
-8 7000 None 0 @
+8 7000 main@dlg_Caps 0 @
 9 8000 Attack 0 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 7 9010 D _var p q_bos_initiatequest_start = 11 R _param p REPUTATION_BOS + 300 R _param p ST_EXPERIENCE + 300 #
 11 9020 D _var p q_bos_initiatequest_start < 11 @
-11 10000 None 0 @
-12 11000 None 0 #
+11 10000 main@dlg_Caps 0 @
+12 11000 main@dlg_Caps 0 #
 13 11010 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 14 12010 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 15 13010 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 16 14010 #
 16 14020 #
 0 14030 R _var p q_bos_initiatequest_start = 12 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 17 15010 R _var p q_bos_initiatequest_start = 12 @
-17 16000 None 0 @
-18 17000 None 0 #
+17 16000 main@dlg_Caps 0 @
+18 17000 main@dlg_Caps 0 #
 19 17010 D _var p q_bos_initiatequest_start = 13 R _var p q_bos_initiatequest_start = 14 R _param p REPUTATION_BOS + 500 R _param p ST_EXPERIENCE + 750 #
 54 17020 D _var p q_bos_initiatequest_start = 16 #
 55 17030 D _var p q_bos_initiatequest_start = 17 #
@@ -63,69 +63,69 @@ lang=engl czec pols span russ
 66 17080 D _var p q_bos_initiatequest_start = 24 #
 67 17090 D _var p q_bos_initiatequest_start = 25 #
 22 17100 @
-19 18000 None 0 #
+19 18000 main@dlg_Caps 0 #
 0 18010 @
-20 19000 None 0 #
+20 19000 main@dlg_Caps 0 #
 23 19010 R _var p q_bos_initiatequest_start = 14 R _param p REPUTATION_BOS + 500 R _param p ST_EXPERIENCE + 750 @
-22 20000 None 0 @
-23 21000 None 0 #
+22 20000 main@dlg_Caps 0 @
+23 21000 main@dlg_Caps 0 #
 0 21010 @
-24 22000 None 0 #
+24 22000 main@dlg_Caps 0 #
 0 22010 @
-50 23000 None 0 #
+50 23000 main@dlg_Caps 0 #
 51 23010 @
-51 24000 None 0 #
+51 24000 main@dlg_Caps 0 #
 52 24010 @
-52 25000 None 0 #
+52 25000 main@dlg_Caps 0 #
 53 25010 @
-53 26000 None 0 #
+53 26000 main@dlg_Caps 0 #
 0 26010 R _var p q_bos_initiatequest_start = 15 @
-54 27000 None 0 #
+54 27000 main@dlg_Caps 0 #
 58 27010 R _var p q_bos_initiatequest_start = 20 R _var p factions_points_bos + 200 @
-55 28000 None 0 #
+55 28000 main@dlg_Caps 0 #
 59 28010 R _var p q_bos_initiatequest_start = 20 R _var p factions_points_bos + 300 @
-56 29000 None 0 #
+56 29000 main@dlg_Caps 0 #
 58 29010 R _var p q_bos_initiatequest_start = 20 R _var p factions_points_bos + 200 R _param p REPUTATION_BOS + 300 @
-57 30000 None 0 #
+57 30000 main@dlg_Caps 0 #
 59 30010 R _var p q_bos_initiatequest_start = 20 R _var p factions_points_bos + 300 R _param p REPUTATION_BOS + 300 @
-58 31000 None 0 #
+58 31000 main@dlg_Caps 0 #
 61 31010 #
 0 31020 @
-59 32000 None 0 #
+59 32000 main@dlg_Caps 0 #
 61 32010 #
 0 32020 @
-60 33000 None 0 #
+60 33000 main@dlg_Caps 0 #
 61 33010 @
-61 34000 None 0 #
+61 34000 main@dlg_Caps 0 #
 62 34010 @
-62 35000 None 0 #
+62 35000 main@dlg_Caps 0 #
 63 35010 @
-63 36000 None 0 #
+63 36000 main@dlg_Caps 0 #
 0 36010 R _var p q_bos_initiatequest_start = 21 @
-64 37000 None 0 #
+64 37000 main@dlg_Caps 0 #
 68 37010 @
-65 38000 None 0 #
+65 38000 main@dlg_Caps 0 #
 69 38010 @
-66 39000 None 0 #
+66 39000 main@dlg_Caps 0 #
 68 39010 @
-67 40000 None 0 #
+67 40000 main@dlg_Caps 0 #
 69 40010 @
-68 41000 None 0 #
+68 41000 main@dlg_Caps 0 #
 70 41010 R _var p factions_points_bos + 500 R _var p q_bos_initiatequest_start = 26 R _param p ST_EXPERIENCE + 750 R _param p REPUTATION_BOS + 500 @
-69 42000 None 0 #
+69 42000 main@dlg_Caps 0 #
 70 42010 R _var p factions_points_bos + 750 R _var p q_bos_initiatequest_start = 26 R _param p ST_EXPERIENCE + 1000 R _param p REPUTATION_BOS + 750 @
-70 43000 None 0 #
+70 43000 main@dlg_Caps 0 #
 71 43010 #
 0 43020 @
-71 44000 None 0 #
+71 44000 main@dlg_Caps 0 #
 72 44010 @
-72 45000 None 0 #
+72 45000 main@dlg_Caps 0 #
 73 45010 @
-73 46000 None 0 #
+73 46000 main@dlg_Caps 0 #
 74 46010 R _var p q_bos_initiatequest_start = 27 R _item p PID_PULSE_GRENADE + 2 R _script quest_bos_initiate@r_SpawnBunker 0  @
-74 47000 None 0 #
+74 47000 main@dlg_Caps 0 #
 0 47010 @
-75 48000 None 0 &
+75 48000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Paladin Windsted}
@@ -205,7 +205,7 @@ lang=engl czec pols span russ
 {24010}{}{What are my missions, sir?}
 {25000}{}{There's an area northeast of Modoc that the locals call the Ghost Farm. I want you to go up there and collect any information you can about the area.}
 {25010}{}{And the other mission, sir?}
-{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our caps back.}
+{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our @lex money@ back.}
 {26010}{}{I won't let you down, sir.}
 {27000}{}{I guess those locals must be drinking irradiated water. Mission accomplished.}
 {27010}{}{Thank you, sir.}
@@ -255,7 +255,7 @@ lang=engl czec pols span russ
 {48000}{}{I don't have any more work for you. Carry on, brother.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Done here}
 {1020}{}{Final senior initiate mission}
@@ -328,7 +328,7 @@ lang=engl czec pols span russ
 {24010}{}{What are my missions, sir?}
 {25000}{}{There's an area northeast of Modoc that the locals call the Ghost Farm. I want you to go up there and collect any information you can about the area.}
 {25010}{}{And the other mission, sir?}
-{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our caps back.}
+{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our @lex money@ back.}
 {26010}{}{I won't let you down, sir.}
 {27000}{}{I guess those locals must be drinking irradiated water. Mission accomplished.}
 {27010}{}{Thank you, sir.}
@@ -378,7 +378,7 @@ lang=engl czec pols span russ
 {48000}{}{I don't have any more work for you. Carry on, brother.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Done here}
 {1020}{}{Final senior initiate mission}
@@ -451,7 +451,7 @@ lang=engl czec pols span russ
 {24010}{}{What are my missions, sir?}
 {25000}{}{There's an area northeast of Modoc that the locals call the Ghost Farm. I want you to go up there and collect any information you can about the area.}
 {25010}{}{And the other mission, sir?}
-{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our caps back.}
+{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our @lex money@ back.}
 {26010}{}{I won't let you down, sir.}
 {27000}{}{I guess those locals must be drinking irradiated water. Mission accomplished.}
 {27010}{}{Thank you, sir.}
@@ -501,7 +501,7 @@ lang=engl czec pols span russ
 {48000}{}{I don't have any more work for you. Carry on, brother.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Done here}
 {1020}{}{Final senior initiate mission}
@@ -574,7 +574,7 @@ lang=engl czec pols span russ
 {24010}{}{What are my missions, sir?}
 {25000}{}{There's an area northeast of Modoc that the locals call the Ghost Farm. I want you to go up there and collect any information you can about the area.}
 {25010}{}{And the other mission, sir?}
-{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our caps back.}
+{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our @lex money@ back.}
 {26010}{}{I won't let you down, sir.}
 {27000}{}{I guess those locals must be drinking irradiated water. Mission accomplished.}
 {27010}{}{Thank you, sir.}
@@ -624,7 +624,7 @@ lang=engl czec pols span russ
 {48000}{}{I don't have any more work for you. Carry on, brother.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Done here}
 {1020}{}{Final senior initiate mission}
@@ -697,7 +697,7 @@ lang=engl czec pols span russ
 {24010}{}{What are my missions, sir?}
 {25000}{}{There's an area northeast of Modoc that the locals call the Ghost Farm. I want you to go up there and collect any information you can about the area.}
 {25010}{}{And the other mission, sir?}
-{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our caps back.}
+{26000}{}{The quartermaster has informed me that our latest shipment of weapons hasn't arrived on time, and we'd like to know why not. Visit the gun shop in New Reno and either return with his word that they're coming, or bring our @lex money@ back.}
 {26010}{}{I won't let you down, sir.}
 {27000}{}{I guess those locals must be drinking irradiated water. Mission accomplished.}
 {27010}{}{Thank you, sir.}

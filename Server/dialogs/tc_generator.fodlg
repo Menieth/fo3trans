@@ -6,27 +6,27 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p q_klamath_felix = 2 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _param p ST_LUCK } 7 R _var p q_klamath_felix = 3 #
 7 2020 D _param p ST_LUCK < 7 #
 4 2030 D _param p SK_REPAIR } 120 R _var p q_klamath_felix = 3 #
 5 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _item p PID_ELECTRONIC_PARTS } 10 R _var p q_klamath_felix = 3 R _item p PID_ELECTRONIC_PARTS - 10 #
 2 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 2 7010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}

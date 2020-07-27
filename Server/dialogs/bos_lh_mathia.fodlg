@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mathia}
@@ -21,25 +21,25 @@ lang=engl czec pols span russ
 {2000}{}{Talk to Maxson@@You look a little lost@@Are you sure you didn't go to the wrong floor?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Talk to Maxson@@You look a little lost@@Are you sure you didn't go to the wrong floor?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Talk to Maxson@@You look a little lost@@Are you sure you didn't go to the wrong floor?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Talk to Maxson@@You look a little lost@@Are you sure you didn't go to the wrong floor?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Talk to Maxson@@You look a little lost@@Are you sure you didn't go to the wrong floor?}

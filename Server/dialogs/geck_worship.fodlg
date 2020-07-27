@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Renewal Cultist}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{Hello. You just better be careful.@@We’re watching you.@@Seek enlightenment in the Brain’s wisdom.@@I don’t know why we let smoothskins down here.@@You better go directly to him.@@You’re here to see the Brain?}

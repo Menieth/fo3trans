@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param n ST_NPC_ROLE = 1 #
 4 1020 D _param n ST_NPC_ROLE = 2 #
 5 1030 D _param n ST_NPC_ROLE = 3 #
@@ -18,26 +18,26 @@ lang=engl czec pols span russ
 11 1090 D _param n ST_NPC_ROLE = 9 #
 12 1100 D _param n ST_NPC_ROLE = 10 #
 2 1110 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 &
 
 [engl]
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}

@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 60 1010 D _script dialog@d_CheckNight 0  D _script dialog@d_IsNotMember 0  R _script dialog@r_Alert 0  #
 50 1020 D _var p factions_player_faction = 6 D _script dialog@d_CheckNight 0  #
 40 1030 D _param p ST_INTELLECT < 4 #
@@ -14,78 +14,78 @@ lang=engl czec pols span russ
 29 1050 D _var n name_mem_npc_player = 1 D _var p factions_player_faction = 6 #
 2 1060 D _var n name_mem_npc_player = 0 #
 9 1070 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var n name_mem_npc_player = 1 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 8 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 7 4020 #
 9 4030 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 9 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 #
 500 7020 D _script perks@d_PerkCheck 1 346 R _param p PE_SCOUT = 1 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 4 9010 #
 8 9020 #
 0 9030 @
-22 10000 None 0 #
+22 10000 main@dlg_Caps 0 #
 23 10010 R _var n name_mem_npc_player = 1 #
 0 10020 @
-23 11000 None 0 #
+23 11000 main@dlg_Caps 0 #
 24 11010 #
 28 11020 #
 0 11030 @
-24 12000 None 0 #
+24 12000 main@dlg_Caps 0 #
 25 12010 #
 27 12020 #
 29 12030 #
 0 12040 @
-25 13000 None 0 #
+25 13000 main@dlg_Caps 0 #
 26 13010 #
 0 13020 @
-26 14000 None 0 #
+26 14000 main@dlg_Caps 0 #
 29 14010 #
 0 14020 @
-27 15000 None 0 #
+27 15000 main@dlg_Caps 0 #
 29 15010 #
 520 15020 D _script perks@d_PerkCheck 1 346 R _param p PE_SCOUT = 1 #
 0 15030 @
-28 16000 None 0 #
+28 16000 main@dlg_Caps 0 #
 29 16010 #
 0 16020 @
-29 17000 None 0 #
+29 17000 main@dlg_Caps 0 #
 24 17010 #
 28 17020 #
 0 17030 @
-40 18000 None 0 #
+40 18000 main@dlg_Caps 0 #
 41 18010 #
 41 18020 @
-41 19000 None 0 #
+41 19000 main@dlg_Caps 0 #
 42 19010 #
 0 19020 @
-42 20000 None 0 #
+42 20000 main@dlg_Caps 0 #
 65507 20010 @
-50 21000 None 0 @
-60 22000 None 0 @
-500 23000 None 0 #
+50 21000 main@dlg_Caps 0 @
+60 22000 main@dlg_Caps 0 @
+500 23000 main@dlg_Caps 0 #
 9 23010 #
 0 23020 @
-520 24000 None 0 #
+520 24000 main@dlg_Caps 0 #
 29 24010 #
 0 24020 &
 
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}
@@ -432,7 +432,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}

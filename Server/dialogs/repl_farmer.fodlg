@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 #
 9 5020 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 8 6010 #
 10 6020 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 0 7010 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 7 8010 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 0 9010 &
 
 [engl]
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}

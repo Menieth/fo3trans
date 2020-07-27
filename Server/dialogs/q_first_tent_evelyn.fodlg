@@ -6,59 +6,59 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 10 1010 D _var p q_first_tent = 1 D _var p acquaintance = 0 D _script dialog@d_IsLocationOwner 0  #
 30 1020 D _var p q_first_tent = 1 D _var p acquaintance > 0 D _script dialog@d_IsLocationOwner 0  #
 50 1030 D _var p q_first_tent = 2 D _script dialog@d_IsLocationOwner 0  #
 60 1040 D _var p q_first_tent = 3 D _script dialog@d_IsLocationOwner 0  #
 2 1050 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 @
-10 3000 None 0 #
+10 3000 main@dlg_Caps 0 #
 11 3010 D _param p ST_INTELLECT } 4 #
 11 3020 D _param p ST_INTELLECT < 4 @
-11 4000 None 0 #
+11 4000 main@dlg_Caps 0 #
 12 4010 D _param p ST_INTELLECT } 4 #
 65507 4020 D _param p ST_INTELLECT } 4 #
 13 4030 D _param p ST_INTELLECT < 4 #
 65507 4040 D _param p ST_INTELLECT < 4 @
-12 5000 None 0 #
+12 5000 main@dlg_Caps 0 #
 14 5010 R _var p acquaintance = 1 @
-13 6000 None 0 #
+13 6000 main@dlg_Caps 0 #
 15 6010 R _var p acquaintance = 1 @
-14 7000 None 0 #
+14 7000 main@dlg_Caps 0 #
 16 7010 @
-15 8000 None 0 #
+15 8000 main@dlg_Caps 0 #
 17 8010 @
-16 9000 None 0 #
+16 9000 main@dlg_Caps 0 #
 18 9010 #
 65507 9020 #
 0 9030 @
-17 10000 None 0 #
+17 10000 main@dlg_Caps 0 #
 19 10010 #
 65507 10020 #
 0 10030 @
-18 11000 None 0 #
+18 11000 main@dlg_Caps 0 #
 20 11010 R _script quest_first_tent@r_SpawnFarmhouse 0  R _item p PID_HEALING_POWDER + 2 #
 0 11020 @
-19 12000 None 0 #
+19 12000 main@dlg_Caps 0 #
 20 12010 R _script quest_first_tent@r_SpawnFarmhouse 0  R _item p PID_HEALING_POWDER + 2 #
 0 12020 @
-20 13000 None 0 #
+20 13000 main@dlg_Caps 0 #
 0 13010 D _param p ST_INTELLECT } 4 #
 0 13020 D _param p ST_INTELLECT < 4 @
-30 14000 None 0 #
+30 14000 main@dlg_Caps 0 #
 14 14010 D _param p ST_INTELLECT } 4 #
 15 14020 D _param p ST_INTELLECT < 4 @
-50 15000 None 0 #
+50 15000 main@dlg_Caps 0 #
 0 15010 D _param p ST_INTELLECT } 4 #
 0 15020 D _param p ST_INTELLECT < 4 @
-60 16000 None 0 #
+60 16000 main@dlg_Caps 0 #
 61 16010 D _param p ST_INTELLECT } 4 #
 62 16020 D _param p ST_INTELLECT < 4 @
-61 17000 None 0 #
+61 17000 main@dlg_Caps 0 #
 0 17010 R _script quest_first_tent@r_FamilyLeave 0  @
-62 18000 None 0 #
+62 18000 main@dlg_Caps 0 #
 0 18010 R _script quest_first_tent@r_FamilyLeave 0  &
 
 [engl]
@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}
@@ -178,7 +178,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}
@@ -235,7 +235,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}
@@ -292,7 +292,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}

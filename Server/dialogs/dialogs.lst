@@ -759,6 +759,8 @@ $ 6669 train_killer
 $ 6670 train_asa
 $ 6680 cyborg
 $ 6681 leader
+$ 6682 train_medic
+$ 6683 train_lead
 
 $ 7000 skintest
 	8100	trib_sulik
@@ -1279,7 +1281,25 @@ $   22374   cit3
 $   22375   cit_term
 $   22377   vegas_magazine1
 $   22378   vegas_magazine2
-
+$   22385   vegas_sandra
+$   22386   vegas_bath
+$   22387   vegas_stephan
+$   22388   vegas_machine
+$   22389   vegas_bar
+$   22390   vegas_manager
+$   22391   vegas_memorial
+$   22392   vegas_ranger
+$   22393   vegas_chaz
+$   22394   vegas_gaz
+$   22395   vegas_gary
+$   22396   vegas_ronald
+$   22397   vegas_liza
+$   22398   vegas_exchange
+$   22399   rockside_bank
+$   22400   ranger_terminal
+$   22401   vegas_gross
+$   22402   vegas_douglas
+   22403   talchem_computer
 
 
 $   40004   all_exploding_barrel

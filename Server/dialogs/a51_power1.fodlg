@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p a51_power = 0 #
 4 2020 #
 6 2030 D _var p a51_power = 1 #
 7 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 D _var p a51_power = 0 D _param p SK_SCIENCE } 90 R _var p a51_power = 1 #
 0 3020 #
 5 3030 D _param p SK_SCIENCE < 90 @
-4 4000 None 0 @
-5 5000 None 0 @
-6 6000 None 0 @
-7 7000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 @
+7 7000 main@dlg_Caps 0 #
 2 7010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL 1. ]}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {7010}{}{[ BACK ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL 1. ]}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {7010}{}{[ BACK ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL 1. ]}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {7010}{}{[ BACK ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL 1. ]}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {7010}{}{[ BACK ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL 1. ]}

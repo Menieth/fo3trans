@@ -6,59 +6,59 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 50 1010 D _param p ST_KARMA < -99 R _item n PID_DEANS_ELECTRONICS - 1 #
 2 1020 D _var n name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 50 1030 D _var n acquaintance = -1 R _item n PID_DEANS_ELECTRONICS - 1 #
 3 1040 D _var n name_mem_npc_player = 1 R _item n PID_DEANS_ELECTRONICS - 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 R _var n name_mem_npc_player = 1 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 20 4020 #
 100 4030 D _var p factions_q_vc_kohl_books = 11 D _var n acquaintance = 0 D _param p ST_KARMA > -1 #
 110 4040 D _var n acquaintance = 0 D _var p factions_q_vc_kohl_books = 11 D _param p ST_KARMA < 0 R _var n acquaintance = -1 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 #
 9 5030 #
 4 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 9 6020 #
 4 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 6 7020 #
 9 7030 #
 4 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 4 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 6 9010 #
 7 9020 #
 4 9030 @
-20 10000 None 0 #
+20 10000 main@dlg_Caps 0 #
 21 10010 #
 4 10020 @
-21 11000 None 0 #
+21 11000 main@dlg_Caps 0 #
 4 11010 #
 0 11020 @
-50 12000 None 0 @
-100 13000 None 0 #
+50 12000 main@dlg_Caps 0 @
+100 13000 main@dlg_Caps 0 #
 101 13010 R _var n acquaintance = 1 R _item p PID_DEANS_ELECTRONICS + 1 #
 4 13020 @
-101 14000 None 0 #
+101 14000 main@dlg_Caps 0 #
 0 14010 #
 0 14020 #
 0 14030 #
 4 14040 @
-110 15000 None 0 #
+110 15000 main@dlg_Caps 0 #
 65507 15010 R _item n PID_DEANS_ELECTRONICS + 1 #
 0 15020 &
 
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}
@@ -239,7 +239,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}
@@ -297,7 +297,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}

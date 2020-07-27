@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _script dialog@d_IsNotMember 0  #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 5 2020 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 0 4010 @
 5 5000 dialog@dlg_SayBuyMedGel 0 #
-6 5010 D _item p PID_BOTTLE_CAPS > 24 R _item p PID_BIO_GEL + 1 R _script dialog@r_RemoveMoney 1 25 #
-6 5020 D _item p PID_BOTTLE_CAPS > 124 R _item p PID_BIO_GEL + 5 R _script dialog@r_RemoveMoney 1 125 #
-6 5030 D _item p PID_BOTTLE_CAPS > 499 R _item p PID_BIO_GEL + 20 R _script dialog@r_RemoveMoney 1 500 #
+6 5010 D _script dialog@d_havepropermoney 1 24 R _item p PID_BIO_GEL + 1 R _script dialog@r_RemoveMoney 1 25 #
+6 5020 D _script dialog@d_havepropermoney 1 124 R _item p PID_BIO_GEL + 5 R _script dialog@r_RemoveMoney 1 125 #
+6 5030 D _script dialog@d_havepropermoney 1 499 R _item p PID_BIO_GEL + 20 R _script dialog@r_RemoveMoney 1 500 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 &
 
 [engl]
@@ -38,8 +38,8 @@ lang=engl czec pols span russ
 {4000}{}{Doctor Troy is next door in his office.}
 {4010}{}{Thanks for your help.
 }
-{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 caps. [You can use SAY to enter number of items you want to buy]}
-{5010}{}{Ok, I have that with me, here you go. [Give her 25 caps]
+{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 @lex money@. [You can use SAY to enter number of items you want to buy]}
+{5010}{}{Ok, I have that with me, here you go. [Give her 25 @lex money@]
 }
 {5020}{}{I think I'll take 5 of those right away.}
 {5030}{}{I need quite a bunch... 20 doses, actually.}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 }
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -62,8 +62,8 @@ lang=engl czec pols span russ
 {4000}{}{Doctor Troy is next door in his office.}
 {4010}{}{Thanks for your help.
 }
-{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 caps. [You can use SAY to enter number of items you want to buy]}
-{5010}{}{Ok, I have that with me, here you go. [Give her 25 caps]
+{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 @lex money@. [You can use SAY to enter number of items you want to buy]}
+{5010}{}{Ok, I have that with me, here you go. [Give her 25 @lex money@]
 }
 {5020}{}{I think I'll take 5 of those right away.}
 {5030}{}{I need quite a bunch... 20 doses, actually.}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 }
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -86,8 +86,8 @@ lang=engl czec pols span russ
 {4000}{}{Doctor Troy is next door in his office.}
 {4010}{}{Thanks for your help.
 }
-{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 caps. [You can use SAY to enter number of items you want to buy]}
-{5010}{}{Ok, I have that with me, here you go. [Give her 25 caps]
+{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 @lex money@. [You can use SAY to enter number of items you want to buy]}
+{5010}{}{Ok, I have that with me, here you go. [Give her 25 @lex money@]
 }
 {5020}{}{I think I'll take 5 of those right away.}
 {5030}{}{I need quite a bunch... 20 doses, actually.}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 }
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -110,8 +110,8 @@ lang=engl czec pols span russ
 {4000}{}{Doctor Troy is next door in his office.}
 {4010}{}{Thanks for your help.
 }
-{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 caps. [You can use SAY to enter number of items you want to buy]}
-{5010}{}{Ok, I have that with me, here you go. [Give her 25 caps]
+{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 @lex money@. [You can use SAY to enter number of items you want to buy]}
+{5010}{}{Ok, I have that with me, here you go. [Give her 25 @lex money@]
 }
 {5020}{}{I think I'll take 5 of those right away.}
 {5030}{}{I need quite a bunch... 20 doses, actually.}
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 }
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -134,8 +134,8 @@ lang=engl czec pols span russ
 {4000}{}{Doctor Troy is next door in his office.}
 {4010}{}{Thanks for your help.
 }
-{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 caps. [You can use SAY to enter number of items you want to buy]}
-{5010}{}{Ok, I have that with me, here you go. [Give her 25 caps]
+{5000}{}{Of course Citizen, but unfortunatly we can't hand this stuff out for free. Each dose will cost 25 @lex money@. [You can use SAY to enter number of items you want to buy]}
+{5010}{}{Ok, I have that with me, here you go. [Give her 25 @lex money@]
 }
 {5020}{}{I think I'll take 5 of those right away.}
 {5030}{}{I need quite a bunch... 20 doses, actually.}

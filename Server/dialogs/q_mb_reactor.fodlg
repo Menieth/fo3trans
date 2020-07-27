@@ -6,43 +6,43 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 15 1010 D _var p q_mb_location_state > 5 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 5 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _param p SK_SCIENCE } 110 #
 0 6020 D _param p SK_SCIENCE < 110 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 D _var p q_mb_location_state = 5 R _var p q_mb_location_state = 6 @
-15 15000 None 0 &
+15 15000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -60,7 +60,7 @@ error: N/A}
 {3010}{}{back}
 {4000}{}{Reactor 2: Shut down
 status: reactor off-line
-error:  none
+error:  main@dlg_Caps
 2153 July 18. 4:42
 Structural colapse at reactor room detected. Safety shut down of Reactor 2
 Damage: no damage.}
@@ -76,7 +76,7 @@ reaction chamber OK}
 {6010}{}{check reactor chamber fuel status}
 {6020}{}{hmm, is there eh manual somewhere ?}
 {7000}{}{reactor chamber
-fuel: none
+fuel: main@dlg_Caps
 store: 10/20 units}
 {7010}{}{Insert fuel cartridge}
 {8000}{}{Fuel cartridge A21. . . . . . . . . .
@@ -123,7 +123,7 @@ Reactor in self control mode.
 }
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -141,7 +141,7 @@ error: N/A}
 {3010}{}{back}
 {4000}{}{Reactor 2: Shut down
 status: reactor off-line
-error:  none
+error:  main@dlg_Caps
 2153 July 18. 4:42
 Structural colapse at reactor room detected. Safety shut down of Reactor 2
 Damage: no damage.}
@@ -157,7 +157,7 @@ reaction chamber OK}
 {6010}{}{check reactor chamber fuel status}
 {6020}{}{hmm, is there eh manual somewhere ?}
 {7000}{}{reactor chamber
-fuel: none
+fuel: main@dlg_Caps
 store: 10/20 units}
 {7010}{}{Insert fuel cartridge}
 {8000}{}{Fuel cartridge A21. . . . . . . . . .
@@ -204,7 +204,7 @@ Reactor in self control mode.
 }
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -222,7 +222,7 @@ error: N/A}
 {3010}{}{back}
 {4000}{}{Reactor 2: Shut down
 status: reactor off-line
-error:  none
+error:  main@dlg_Caps
 2153 July 18. 4:42
 Structural colapse at reactor room detected. Safety shut down of Reactor 2
 Damage: no damage.}
@@ -238,7 +238,7 @@ reaction chamber OK}
 {6010}{}{check reactor chamber fuel status}
 {6020}{}{hmm, is there eh manual somewhere ?}
 {7000}{}{reactor chamber
-fuel: none
+fuel: main@dlg_Caps
 store: 10/20 units}
 {7010}{}{Insert fuel cartridge}
 {8000}{}{Fuel cartridge A21. . . . . . . . . .
@@ -285,7 +285,7 @@ Reactor in self control mode.
 }
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -303,7 +303,7 @@ error: N/A}
 {3010}{}{back}
 {4000}{}{Reactor 2: Shut down
 status: reactor off-line
-error:  none
+error:  main@dlg_Caps
 2153 July 18. 4:42
 Structural colapse at reactor room detected. Safety shut down of Reactor 2
 Damage: no damage.}
@@ -319,7 +319,7 @@ reaction chamber OK}
 {6010}{}{check reactor chamber fuel status}
 {6020}{}{hmm, is there eh manual somewhere ?}
 {7000}{}{reactor chamber
-fuel: none
+fuel: main@dlg_Caps
 store: 10/20 units}
 {7010}{}{Insert fuel cartridge}
 {8000}{}{Fuel cartridge A21. . . . . . . . . .
@@ -366,7 +366,7 @@ Reactor in self control mode.
 }
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -384,7 +384,7 @@ error: N/A}
 {3010}{}{back}
 {4000}{}{Reactor 2: Shut down
 status: reactor off-line
-error:  none
+error:  main@dlg_Caps
 2153 July 18. 4:42
 Structural colapse at reactor room detected. Safety shut down of Reactor 2
 Damage: no damage.}
@@ -400,7 +400,7 @@ reaction chamber OK}
 {6010}{}{check reactor chamber fuel status}
 {6020}{}{hmm, is there eh manual somewhere ?}
 {7000}{}{reactor chamber
-fuel: none
+fuel: main@dlg_Caps
 store: 10/20 units}
 {7010}{}{Insert fuel cartridge}
 {8000}{}{Fuel cartridge A21. . . . . . . . . .

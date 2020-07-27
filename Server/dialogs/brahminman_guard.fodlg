@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _param p ST_INTELLECT > 3 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Brahmin Guard}
@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}

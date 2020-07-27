@@ -6,13 +6,13 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 15 1010 D _var p crimson_caravan_job > 0 #
 22 1020 D _var n name_mem_npc_player = 2 #
 2 1030 D _var n name_mem_npc_player = 0 #
 3 1040 D _var n name_mem_npc_player = 1 #
 14 1050 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 26 2010 D _param p ST_INTELLECT > 3 D _script dialog@d_IsAddict 0  #
 21 2020 D _param p ST_STRENGTH < 5 D _param p ST_INTELLECT > 3 D _script dialog@d_IsNotAddict 0  R _var n name_mem_npc_player = 1 #
 4 2030 D _param p ST_STRENGTH = 5 D _param p ST_INTELLECT > 3 D _script dialog@d_IsNotAddict 0  R _var n name_mem_npc_player = 1 #
@@ -20,7 +20,7 @@ lang=engl czec pols span russ
 5 2050 D _param p ST_STRENGTH > 6 D _param p ST_INTELLECT > 3 D _script dialog@d_IsNotAddict 0  R _var n name_mem_npc_player = 1 #
 0 2060 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 22 2070 D _param p ST_INTELLECT < 4 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 26 3010 D _script dialog@d_IsAddict 0  D _param p ST_INTELLECT > 3 D _script dialog@d_IsAddict 0  #
 21 3020 D _param p ST_INTELLECT > 3 D _param p ST_STRENGTH < 5 D _script dialog@d_IsNotAddict 0  #
 4 3030 D _param p ST_INTELLECT > 3 D _param p ST_STRENGTH = 5 D _script dialog@d_IsNotAddict 0  #
@@ -28,66 +28,66 @@ lang=engl czec pols span russ
 5 3050 D _param p ST_INTELLECT > 3 D _param p ST_STRENGTH > 6 D _script dialog@d_IsNotAddict 0  #
 0 3060 D _param p ST_INTELLECT > 3 #
 22 3070 D _param p ST_INTELLECT < 4 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 7 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 19 7010 #
 8 7020 #
 8 7030 #
 16 7040 D _var p give_grenade = 0 R _var p give_grenade = 1 #
 9 7050 D _var p give_grenade = 1 #
 11 7060 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 R _var p crimson_caravan_job = 1 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 20 9010 #
 7 9020 @
-10 10000 None 0 @
-11 11000 None 0 #
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 20 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 R _var p crimson_caravan_job = 1 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 17 13010 #
 18 13020 #
 0 13030 R _var p crimson_caravan_job = 1 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 0 15010 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 0 16010 R _item p PID_FRAG_GRENADE + 1 #
 7 16020 R _item p PID_FRAG_GRENADE + 1 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 7 17010 #
 0 17020 R _var p crimson_caravan_job = 1 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 12 18010 #
 23 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 25 19010 #
 12 19020 #
 20 19030 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 0 21010 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 0 22010 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 0 23010 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 0 24010 R _var n name_mem_npc_player = 2 #
 0 24020 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 12 25010 #
 20 25020 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 0 26010 &
 
 [engl]
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}
@@ -353,7 +353,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}
@@ -439,7 +439,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}

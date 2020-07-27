@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 2 1020 D _var n name_mem_npc_player = 1 #
 3 1030 D _param p ST_INTELLECT < 4 #
 4 1040 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Widow Rooney}
@@ -34,7 +34,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't want any trouble@@Don't be coming after a poor old lady.@@I'll go get the sheriff if I have to.@@Get your kicks hassling old women, do you?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}

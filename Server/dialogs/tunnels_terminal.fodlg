@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 5 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 #
 2 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 2 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 #
 2 5020 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Guard Terminal #77. Welcome back, Mr. Goresam. ]}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {5020}{}{[ Back ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Guard Terminal #77. Welcome back, Mr. Goresam. ]}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {5020}{}{[ Back ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Guard Terminal #77. Welcome back, Mr. Goresam. ]}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {5020}{}{[ Back ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Guard Terminal #77. Welcome back, Mr. Goresam. ]}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {5020}{}{[ Back ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Guard Terminal #77. Welcome back, Mr. Goresam. ]}

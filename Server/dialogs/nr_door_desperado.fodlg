@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p newr_incasino = 0 #
 3 1020 D _var p newr_incasino = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 R _var p newr_incasino = 1 R _script dialog@r_TeleportToMap 2 54 6 R _script dialog@r_TeleportToMapFollowers 2 54 6 R _script map_newreno@r_TransferWeapons 1 1 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 R _var p newr_incasino = 0 R _script dialog@r_TeleportToMap 2 54 5 R _script dialog@r_TeleportToMapFollowers 2 54 5 R _script map_newreno@r_TransferWeapons 1 0 #
 0 3020 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}

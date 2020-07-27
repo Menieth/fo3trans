@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 6 1010 @
-6 2000 None 0 &
+6 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Robot}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{*Bee-ooop*}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{*Bee-ooop*}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{*Bee-ooop*}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{*Bee-ooop*}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{*Bee-ooop*}

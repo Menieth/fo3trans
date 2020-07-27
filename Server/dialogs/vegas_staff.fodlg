@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Police staff}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{What if we install another security perimeter there?@@Please, you're interrupting my work.@@ LVPD database is up and running.@@Team Bravo 2, your task has been updated. Please check your intercom.@@ Team Alpha, please report.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What if we install another security perimeter there?@@Please, you're interrupting my work.@@ LVPD database is up and running.@@Team Bravo 2, your task has been updated. Please check your intercom.@@ Team Alpha, please report.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What if we install another security perimeter there?@@Please, you're interrupting my work.@@ LVPD database is up and running.@@Team Bravo 2, your task has been updated. Please check your intercom.@@ Team Alpha, please report.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What if we install another security perimeter there?@@Please, you're interrupting my work.@@ LVPD database is up and running.@@Team Bravo 2, your task has been updated. Please check your intercom.@@ Team Alpha, please report.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What if we install another security perimeter there?@@Please, you're interrupting my work.@@ LVPD database is up and running.@@Team Bravo 2, your task has been updated. Please check your intercom.@@ Team Alpha, please report.}

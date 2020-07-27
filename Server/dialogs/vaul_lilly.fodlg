@@ -6,91 +6,91 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 50 1010 D _param p ST_INTELLECT < 4 R _script dialog@r_Alert 0  #
 9 1020 D _var n name_mem_npc_player = 0 #
 10 1030 D _var n name_mem_npc_player > 0 D _param p ST_INTELLECT > 3 @
-9 2000 None 0 #
+9 2000 main@dlg_Caps 0 #
 12 2010 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 0 2020 D _param p ST_INTELLECT > 3 @
-10 3000 None 0 #
+10 3000 main@dlg_Caps 0 #
 12 3010 #
 0 3020 @
-12 4000 None 0 #
+12 4000 main@dlg_Caps 0 #
 13 4010 R _var n acquaintance + 1 #
 14 4020 R _var n acquaintance + 1 #
 15 4030 R _var n acquaintance + 1 #
 99 4040 D _script vaul_guard@d_NoQuestActive 1 0 D _var n acquaintance > 1 R _script vaul_guard@r_ChooseQuest 1 0 #
 0 4050 D _script vaul_guard@d_QuestInProgress 1 0 R _script vaul_guard@r_AboutQuest 1 0 #
 0 4060 @
-13 5000 None 0 #
+13 5000 main@dlg_Caps 0 #
 12 5010 R _var n acquaintance + 1 @
-14 6000 None 0 #
+14 6000 main@dlg_Caps 0 #
 12 6010 R _var n acquaintance + 1 @
-15 7000 None 0 #
+15 7000 main@dlg_Caps 0 #
 12 7010 R _var n acquaintance + 1 @
-50 8000 None 0 @
-98 9000 None 0 #
+50 8000 main@dlg_Caps 0 @
+98 9000 main@dlg_Caps 0 #
 0 9010 @
-99 10000 None 0 #
+99 10000 main@dlg_Caps 0 #
 98 10010 @
-100 11000 None 0 #
+100 11000 main@dlg_Caps 0 #
 101 11010 R _script vaul_guard@r_AssignQuest 1 0 #
 98 11020 R _var p factions_player_score - 1 R _script vaul_guard@r_CancelQuest 1 0 #
 111 11030 #
 65507 11040 @
-101 12000 None 0 #
+101 12000 main@dlg_Caps 0 #
 102 12010 #
 0 12020 @
-102 13000 None 0 #
+102 13000 main@dlg_Caps 0 #
 0 13010 #
 12 13020 @
-111 14000 None 0 #
+111 14000 main@dlg_Caps 0 #
 0 14010 R _script vaul_guard@r_AssignQuest 1 0 #
 65507 14020 @
-120 15000 None 0 #
+120 15000 main@dlg_Caps 0 #
 121 15010 D _var p factions_q_vc_scoutsf = 111 D _param p SK_OUTDOORSMAN < 51 #
 121 15020 D _var p factions_q_vc_scoutsf = 111 D _param p SK_OUTDOORSMAN > 50 #
 98 15030 D _script vaul_guard@d_QuestInProgress 1 0 R _var p factions_player_score - 1 R _script vaul_guard@r_CancelQuest 1 0 #
 0 15040 @
-121 16000 None 0 #
+121 16000 main@dlg_Caps 0 #
 0 16010 R _param p ST_EXPERIENCE + 600 R _script vaul_guard@r_FinishQuest 1 0 R _var p factions_player_score + 3 #
 65507 16020 @
-200 17000 None 0 #
+200 17000 main@dlg_Caps 0 #
 201 17010 R _script vaul_guard@r_AssignQuest 1 0 R _item p PID_QUESTIONNAIRE + 15 #
 98 17020 R _var p factions_player_score - 1 R _script vaul_guard@r_CancelQuest 1 0 #
 65507 17030 @
-201 18000 None 0 #
+201 18000 main@dlg_Caps 0 #
 0 18010 #
 202 18020 D _param p SK_SPEECH > 50 @
-202 19000 None 0 #
+202 19000 main@dlg_Caps 0 #
 0 19010 R _var p factions_player_score + 1 R _param p ST_EXPERIENCE + 200 @
-220 20000 None 0 #
+220 20000 main@dlg_Caps 0 #
 221 20010 D _var p factions_q_vc_questionnaire = 151 R _script vaul_guard@r_FinishQuest 1 0 R _param p ST_EXPERIENCE + 500 R _var p factions_player_score + 2 #
 222 20020 D _var p factions_q_vc_questionnaire < 151 D _item p PID_QUESTIONNAIRE = 0 R _script vaul_guard@r_FinishQuest 1 0 R _param p ST_EXPERIENCE + 200 R _var p factions_player_score + 1 #
 98 20030 D _script vaul_guard@d_QuestInProgress 1 0 R _var p factions_player_score - 1 R _script vaul_guard@r_CancelQuest 1 0 #
 0 20040 @
-221 21000 None 0 #
+221 21000 main@dlg_Caps 0 #
 0 21010 #
 0 21020 @
-222 22000 None 0 #
+222 22000 main@dlg_Caps 0 #
 0 22010 #
 65507 22020 @
-300 23000 None 0 #
+300 23000 main@dlg_Caps 0 #
 301 23010 R _script vaul_guard@r_AssignQuest 1 0 #
 98 23020 R _var p factions_player_score - 1 R _script vaul_guard@r_CancelQuest 1 0 #
 65507 23030 @
-301 24000 None 0 #
+301 24000 main@dlg_Caps 0 #
 0 24010 #
 302 24020 @
-302 25000 None 0 #
+302 25000 main@dlg_Caps 0 #
 0 25010 #
 0 25020 @
-320 26000 None 0 #
+320 26000 main@dlg_Caps 0 #
 321 26010 D _var p factions_q_vc_kohl_books = 11111 R _var p factions_player_score + 4 R _param p ST_EXPERIENCE + 1000 R _script vaul_guard@r_FinishQuest 1 0 #
 98 26020 D _script vaul_guard@d_QuestInProgress 1 0 R _var p factions_player_score - 1 R _script vaul_guard@r_CancelQuest 1 0 #
 0 26030 @
-321 27000 None 0 #
+321 27000 main@dlg_Caps 0 #
 0 27010 #
 65507 27020 &
 
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}
@@ -458,7 +458,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}

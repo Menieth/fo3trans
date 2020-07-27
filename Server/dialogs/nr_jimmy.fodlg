@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 18 1010 D _param p ST_INTELLECT < 4 #
 17 1020 D _var n name_mem_npc_player = 1 #
 2 1030 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 3 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 5 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 6 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 48 6010 #
 19 6020 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 #
 65506 6030 #
@@ -31,50 +31,50 @@ lang=engl czec pols span russ
 15 6050 #
 14 6060 #
 0 6070 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 8 7020 #
 17 7030 #
 65506 7040 #
 0 7050 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 9 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 #
 17 9030 #
 65506 9040 #
 0 9050 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 65506 10010 #
 17 10020 #
 0 10030 #
 0 10040 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 17 11020 #
 0 11030 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 #
 17 12020 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 65506 13010 #
 17 13020 #
 0 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 16 14010 #
 17 14020 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 17 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 65506 16010 #
 17 16020 #
 0 16030 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 48 17010 #
 19 17020 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 R _var n acquaintance = 1 #
 65506 17030 #
@@ -82,64 +82,64 @@ lang=engl czec pols span russ
 15 17050 #
 16 17060 #
 0 17070 @
-18 18000 None 0 @
-19 19000 None 0 #
+18 18000 main@dlg_Caps 0 @
+19 19000 main@dlg_Caps 0 #
 20 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 22 21010 #
 24 21020 #
 25 21030 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 R _var p q_mordinos_induction_doctor + 150 R _var p acquaintance = 1 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 0 23010 #
 0 23020 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 22 24010 #
 25 24020 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 26 25010 D _item p PID_MORDINOS_CASE } 1 R _param p ST_EXPERIENCE + 1000 R _var p q_mordinos_joining_quest = 3 R _param p REPUTATION_MORDINOS - 900 R _item p PID_MORDINOS_CASE - 1 R _var p acquaintance = 1 R _script dialog@r_AddMoney 1 2000 #
 22 25020 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 0 26010 @
-48 27000 None 0 #
+48 27000 main@dlg_Caps 0 #
 50 27010 D _var p q_nr_corsican_execution = 1 #
 0 27020 @
-49 28000 None 0 @
-50 29000 None 0 #
+49 28000 main@dlg_Caps 0 @
+50 29000 main@dlg_Caps 0 #
 60 29010 R _script dialog@r_StatRoll 2 Charisma 51 #
 0 29020 @
-51 30000 None 0 #
+51 30000 main@dlg_Caps 0 #
 52 30010 #
 0 30020 @
-52 31000 None 0 #
+52 31000 main@dlg_Caps 0 #
 53 31010 #
 0 31020 @
-53 32000 None 0 #
+53 32000 main@dlg_Caps 0 #
 54 32010 #
 0 32020 @
-54 33000 None 0 #
+54 33000 main@dlg_Caps 0 #
 55 33010 #
 0 33020 @
-55 34000 None 0 #
+55 34000 main@dlg_Caps 0 #
 56 34010 #
 0 34020 @
-56 35000 None 0 #
+56 35000 main@dlg_Caps 0 #
 57 35010 R _script quest_corsican_brothers@r_QuestVarRandom 3 7302 10 17 #
 0 35020 @
-57 36000 None 0 #
+57 36000 main@dlg_Caps 0 #
 58 36010 #
 0 36020 @
-58 37000 None 0 #
+58 37000 main@dlg_Caps 0 #
 59 37010 #
 0 37020 @
-59 38000 None 0 #
+59 38000 main@dlg_Caps 0 #
 0 38010 @
-60 39000 None 0 #
+60 39000 main@dlg_Caps 0 #
 61 39010 R _script quest_corsican_brothers@r_QuestVarRandom 3 7302 10 17 @
-61 40000 None 0 &
+61 40000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Jimmy}
@@ -230,7 +230,7 @@ lang=engl czec pols span russ
 {19010}{}{You know it!}
 {20000}{}{How much are we talking here?}
 {20010}{}{This whole case is full of the best jet in the wastes.}
-{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 caps, and we both win?}
+{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 @lex money@, and we both win?}
 {21010}{}{You think I'm stupid? I know who I work for. Now you want to pay me straight up or what?}
 {21020}{}{2000 chips and the Mordinos on my ass for the rest of my life? Doesn't sound so hot, Jimmy.}
 {21030}{}{Haha, you know what, fuck it, I can do that if I want!}
@@ -243,7 +243,7 @@ lang=engl czec pols span russ
 {24010}{}{Yeah I'm a wimp, alright. Or smart, as I like to call it. Now are you going to trade for real or keep offering me this disloyal shit?}
 {24020}{}{Whoaaa I'm not a fucking wimp! I can handle some fucking Mordino punks!}
 {25000}{}{Yeah that's right! You a big boy and you can make decisions on your own! Come on, I got the two thou right here. Trade it for the case and let's go our seperate ways.}
-{25010}{}{[Trade Jimmy the case full of jet for 2,000 caps,]}
+{25010}{}{[Trade Jimmy the case full of jet for 2,000 @lex money@,]}
 {25020}{}{Uh, yeah, I'm still not going to give you this case for that. I'll sell you some like anybody else, no bullshit.}
 {26000}{}{Heh heh, what a deal! Later friend.}
 {26010}{}{Money in my pocket.}
@@ -285,7 +285,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {19010}{}{You know it!}
 {20000}{}{How much are we talking here?}
 {20010}{}{This whole case is full of the best jet in the wastes.}
-{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 caps, and we both win?}
+{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 @lex money@, and we both win?}
 {21010}{}{You think I'm stupid? I know who I work for. Now you want to pay me straight up or what?}
 {21020}{}{2000 chips and the Mordinos on my ass for the rest of my life? Doesn't sound so hot, Jimmy.}
 {21030}{}{Haha, you know what, fuck it, I can do that if I want!}
@@ -381,7 +381,7 @@ lang=engl czec pols span russ
 {24010}{}{Yeah I'm a wimp, alright. Or smart, as I like to call it. Now are you going to trade for real or keep offering me this disloyal shit?}
 {24020}{}{Whoaaa I'm not a fucking wimp! I can handle some fucking Mordino punks!}
 {25000}{}{Yeah that's right! You a big boy and you can make decisions on your own! Come on, I got the two thou right here. Trade it for the case and let's go our seperate ways.}
-{25010}{}{[Trade Jimmy the case full of jet for 2,000 caps,]}
+{25010}{}{[Trade Jimmy the case full of jet for 2,000 @lex money@,]}
 {25020}{}{Uh, yeah, I'm still not going to give you this case for that. I'll sell you some like anybody else, no bullshit.}
 {26000}{}{Heh heh, what a deal! Later friend.}
 {26010}{}{Money in my pocket.}
@@ -423,7 +423,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -506,7 +506,7 @@ lang=engl czec pols span russ
 {19010}{}{You know it!}
 {20000}{}{How much are we talking here?}
 {20010}{}{This whole case is full of the best jet in the wastes.}
-{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 caps, and we both win?}
+{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 @lex money@, and we both win?}
 {21010}{}{You think I'm stupid? I know who I work for. Now you want to pay me straight up or what?}
 {21020}{}{2000 chips and the Mordinos on my ass for the rest of my life? Doesn't sound so hot, Jimmy.}
 {21030}{}{Haha, you know what, fuck it, I can do that if I want!}
@@ -519,7 +519,7 @@ lang=engl czec pols span russ
 {24010}{}{Yeah I'm a wimp, alright. Or smart, as I like to call it. Now are you going to trade for real or keep offering me this disloyal shit?}
 {24020}{}{Whoaaa I'm not a fucking wimp! I can handle some fucking Mordino punks!}
 {25000}{}{Yeah that's right! You a big boy and you can make decisions on your own! Come on, I got the two thou right here. Trade it for the case and let's go our seperate ways.}
-{25010}{}{[Trade Jimmy the case full of jet for 2,000 caps,]}
+{25010}{}{[Trade Jimmy the case full of jet for 2,000 @lex money@,]}
 {25020}{}{Uh, yeah, I'm still not going to give you this case for that. I'll sell you some like anybody else, no bullshit.}
 {26000}{}{Heh heh, what a deal! Later friend.}
 {26010}{}{Money in my pocket.}
@@ -561,7 +561,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -644,7 +644,7 @@ lang=engl czec pols span russ
 {19010}{}{You know it!}
 {20000}{}{How much are we talking here?}
 {20010}{}{This whole case is full of the best jet in the wastes.}
-{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 caps, and we both win?}
+{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 @lex money@, and we both win?}
 {21010}{}{You think I'm stupid? I know who I work for. Now you want to pay me straight up or what?}
 {21020}{}{2000 chips and the Mordinos on my ass for the rest of my life? Doesn't sound so hot, Jimmy.}
 {21030}{}{Haha, you know what, fuck it, I can do that if I want!}
@@ -657,7 +657,7 @@ lang=engl czec pols span russ
 {24010}{}{Yeah I'm a wimp, alright. Or smart, as I like to call it. Now are you going to trade for real or keep offering me this disloyal shit?}
 {24020}{}{Whoaaa I'm not a fucking wimp! I can handle some fucking Mordino punks!}
 {25000}{}{Yeah that's right! You a big boy and you can make decisions on your own! Come on, I got the two thou right here. Trade it for the case and let's go our seperate ways.}
-{25010}{}{[Trade Jimmy the case full of jet for 2,000 caps,]}
+{25010}{}{[Trade Jimmy the case full of jet for 2,000 @lex money@,]}
 {25020}{}{Uh, yeah, I'm still not going to give you this case for that. I'll sell you some like anybody else, no bullshit.}
 {26000}{}{Heh heh, what a deal! Later friend.}
 {26010}{}{Money in my pocket.}
@@ -699,7 +699,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -782,7 +782,7 @@ lang=engl czec pols span russ
 {19010}{}{You know it!}
 {20000}{}{How much are we talking here?}
 {20010}{}{This whole case is full of the best jet in the wastes.}
-{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 caps, and we both win?}
+{21000}{}{That's a lot...say...how about you just give me that case, I give you 2,000 @lex money@, and we both win?}
 {21010}{}{You think I'm stupid? I know who I work for. Now you want to pay me straight up or what?}
 {21020}{}{2000 chips and the Mordinos on my ass for the rest of my life? Doesn't sound so hot, Jimmy.}
 {21030}{}{Haha, you know what, fuck it, I can do that if I want!}
@@ -795,7 +795,7 @@ lang=engl czec pols span russ
 {24010}{}{Yeah I'm a wimp, alright. Or smart, as I like to call it. Now are you going to trade for real or keep offering me this disloyal shit?}
 {24020}{}{Whoaaa I'm not a fucking wimp! I can handle some fucking Mordino punks!}
 {25000}{}{Yeah that's right! You a big boy and you can make decisions on your own! Come on, I got the two thou right here. Trade it for the case and let's go our seperate ways.}
-{25010}{}{[Trade Jimmy the case full of jet for 2,000 caps,]}
+{25010}{}{[Trade Jimmy the case full of jet for 2,000 @lex money@,]}
 {25020}{}{Uh, yeah, I'm still not going to give you this case for that. I'll sell you some like anybody else, no bullshit.}
 {26000}{}{Heh heh, what a deal! Later friend.}
 {26010}{}{Money in my pocket.}

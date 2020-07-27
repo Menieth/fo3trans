@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _script dialog@d_CheckNight 0  #
 3 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Fish merchant}
@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {100000001}{}{They taste better than they smell, I promise!}
 {100000001}{}{Today's special offer: Fish.}
 {100000001}{}{All types of fish! Radiated, rotting, disgusting, and even small.}
-{100000001}{}{A handful of caps for a handful of fish!}
+{100000001}{}{A handful of @lex money@ for a handful of fish!}
 {100000001}{}{Proud fisherman's wares for sale to outsiders!}
 {100000001}{}{It's okay, you don't have to buy any really, We are provided for regardless.}
 {100000001}{}{Look at our incredible economic and fishing might! Fish and fruits of the sea, c'mon!}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {100000001}{}{I've got eight healthy children! They all eat fish!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Go str8 2 da floats bitch}
@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {3000}{}{Fiiiiiiiiiiiiiiiiiiiiiiiiish!@@Fresh fish for sale!@@Fishy-Wishy@@Who wants some fish?@@Less radiated than that guy's fish!@@The finest fish available on this entire dock!@@Come on up and purchase some fish!@@Good fish, good price.@@Also selling ancient chinese fish recipes, 3 for 2.@@They taste better than they smell!@@5 for 4, get your fish!@@Caught just today, in the disgusting black sea!@@Three types: Disgusting, Mutated and Small!@@Goes well with instant noodles!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Go str8 2 da floats bitch}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {3000}{}{Fiiiiiiiiiiiiiiiiiiiiiiiiish!@@Fresh fish for sale!@@Fishy-Wishy@@Who wants some fish?@@Less radiated than that guy's fish!@@The finest fish available on this entire dock!@@Come on up and purchase some fish!@@Good fish, good price.@@Also selling ancient chinese fish recipes, 3 for 2.@@They taste better than they smell!@@5 for 4, get your fish!@@Caught just today, in the disgusting black sea!@@Three types: Disgusting, Mutated and Small!@@Goes well with instant noodles!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Go str8 2 da floats bitch}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {3000}{}{Fiiiiiiiiiiiiiiiiiiiiiiiiish!@@Fresh fish for sale!@@Fishy-Wishy@@Who wants some fish?@@Less radiated than that guy's fish!@@The finest fish available on this entire dock!@@Come on up and purchase some fish!@@Good fish, good price.@@Also selling ancient chinese fish recipes, 3 for 2.@@They taste better than they smell!@@5 for 4, get your fish!@@Caught just today, in the disgusting black sea!@@Three types: Disgusting, Mutated and Small!@@Goes well with instant noodles!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Go str8 2 da floats bitch}

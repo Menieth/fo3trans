@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 6 1010 D _param p ST_CHARISMA > 99 #
 2 1020 D _param p ST_INTELLECT < 4 #
 3 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 65506 3010 #
 4 3020 #
 7 3030 D _var p q_hub_gunrunner_supplies = 0 #
@@ -22,74 +22,74 @@ lang=engl czec pols span russ
 80 3060 D _var n name_mem_npc_player = 1 D _param p PE_PROFESSION_GUNSMITH_B < 2 #
 30 3070 D _item p PID_Q_GUNRUNNER_COURIER_BOX > 0 D _var p q_la_gunr_courier = 2 R _param p REPUTATION_HUB + 2 R _var p q_la_gunr_courier = 7 R _item p PID_Q_GUNRUNNER_COURIER_BOX - 1 #
 0 3080 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65506 4010 #
 5 4020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 80 4030 D _var n name_mem_npc_player = 1 D _param p PE_PROFESSION_GUNSMITH_B < 2 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 80 5010 #
 65506 5020 #
 0 5030 @
-80 6000 None 0 #
+80 6000 main@dlg_Caps 0 #
 81 6010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckGunsmithB0 1 0 #
 82 6020 D _script dialog@d_CheckGunsmithB1 1 0 #
 0 6030 @
-81 7000 None 0 #
-83 7010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
+81 7000 main@dlg_Caps 0 #
+83 7010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 7020 @
-82 8000 None 0 #
-84 8010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_GUNSMITH_B = 2 R _script dialog@r_RemoveMoney 1 3000 #
+82 8000 main@dlg_Caps 0 #
+84 8010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_B = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 8020 @
-83 9000 None 0 #
+83 9000 main@dlg_Caps 0 #
 0 9010 @
-84 10000 None 0 #
+84 10000 main@dlg_Caps 0 #
 0 10010 @
-6 11000 None 0 @
-7 12000 None 0 #
+6 11000 main@dlg_Caps 0 @
+7 12000 main@dlg_Caps 0 #
 65506 12010 #
 8 12020 @
-8 13000 None 0 #
+8 13000 main@dlg_Caps 0 #
 9 13010 @
-9 14000 None 0 #
+9 14000 main@dlg_Caps 0 #
 10 14010 @
-10 15000 None 0 #
+10 15000 main@dlg_Caps 0 #
 11 15010 #
 11 15020 @
-11 16000 None 0 #
+11 16000 main@dlg_Caps 0 #
 12 16010 D _script dialog@d_IsLocationNotVisible 1 39 R _script dialog@r_ShowLocation 1 39 #
 0 16020 R _var p q_hub_gunrunner_supplies = 1 @
-12 17000 None 0 #
+12 17000 main@dlg_Caps 0 #
 0 17010 R _var p q_hub_gunrunner_supplies = 1 @
-13 18000 None 0 #
+13 18000 main@dlg_Caps 0 #
 12 18010 D _script dialog@d_IsLocationNotVisible 1 39 R _script dialog@r_ShowLocation 1 39 #
 18 18020 D _var p q_hub_gunrunner_supplies = 5 D _var p q_hub_gunrunner_supplies_deal = 2 R _var p q_hub_gunrunner_supplies = 6 R _script dialog@r_AddMoney 1 400 R _param p REPUTATION_HUB + 50 R _item p PID_10MM_AP + 50 R _param p ST_EXPERIENCE + 750 R _item p PID_10MM_JHP + 150 #
 19 18030 D _var p q_hub_gunrunner_supplies_deal = 3 D _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies = 6 R _script dialog@r_AddMoney 1 600 R _param p REPUTATION_HUB + 50 R _item p PID_10MM_AP + 100 R _item p PID_BLUEPRINT_METAL_ARMOR_MK_II + 1 R _param p ST_EXPERIENCE + 1000 #
 17 18040 D _var p q_hub_gunrunner_supplies_deal = 4 D _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies = 6 R _script dialog@r_AddMoney 1 400 R _param p REPUTATION_HUB + 50 R _item p PID_10MM_AP + 100 R _item p PID_BLUEPRINT_METAL_ARMOR_MK_II + 1 R _param p ST_EXPERIENCE + 500 #
 14 18050 D _var p q_hub_gunrunner_supplies = 2 #
 0 18060 @
-14 19000 None 0 #
+14 19000 main@dlg_Caps 0 #
 15 19010 R _script dialog@r_SkillRoll 3 Speech -60 16 #
 0 19020 R _var p q_hub_gunrunner_supplies = 3 @
-15 20000 None 0 #
+15 20000 main@dlg_Caps 0 #
 0 20010 R _var p q_hub_gunrunner_supplies = 3 @
-16 21000 None 0 #
+16 21000 main@dlg_Caps 0 #
 20 21010 R _var p q_hub_gunrunner_supplies = 6 R _param p REPUTATION_HUB + 50 R _script dialog@r_AddMoney 1 300 R _item p PID_BLUEPRINT_METAL_ARMOR_MK_II + 1 R _item p PID_10MM_AP + 30 R _param p ST_EXPERIENCE + 750 @
-17 22000 None 0 #
+17 22000 main@dlg_Caps 0 #
 0 22010 @
-18 23000 None 0 #
+18 23000 main@dlg_Caps 0 #
 0 23010 @
-19 24000 None 0 #
+19 24000 main@dlg_Caps 0 #
 0 24010 @
-20 25000 None 0 #
+20 25000 main@dlg_Caps 0 #
 0 25010 #
 21 25020 D _param p SK_BARTER < 55 #
 22 25030 D _param p SK_BARTER } 55 R _script dialog@r_AddMoney 1 100 @
-21 26000 None 0 #
+21 26000 main@dlg_Caps 0 #
 0 26010 @
-22 27000 None 0 #
+22 27000 main@dlg_Caps 0 #
 0 27010 @
-30 28000 None 0 #
+30 28000 main@dlg_Caps 0 #
 0 28010 &
 
 [engl]
@@ -126,11 +126,11 @@ lang=engl czec pols span russ
 {6010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {6030}{}{Erhm... Actually, nothing right now. I better be going.}
-{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {9000}{}{Very well, it's a deal then. [Jacob starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {9010}{}{Thanks for everything Jacob, that's exectly what I wanted to know. See you!}
@@ -184,7 +184,7 @@ lang=engl czec pols span russ
 {28010}{}{Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -214,11 +214,11 @@ lang=engl czec pols span russ
 {6010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {6030}{}{Erhm... Actually, nothing right now. I better be going.}
-{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {9000}{}{Very well, it's a deal then. [Jacob starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {9010}{}{Thanks for everything Jacob, that's exectly what I wanted to know. See you!}
@@ -272,7 +272,7 @@ lang=engl czec pols span russ
 {28010}{}{Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -302,11 +302,11 @@ lang=engl czec pols span russ
 {6010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {6030}{}{Erhm... Actually, nothing right now. I better be going.}
-{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {9000}{}{Very well, it's a deal then. [Jacob starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {9010}{}{Thanks for everything Jacob, that's exectly what I wanted to know. See you!}
@@ -360,7 +360,7 @@ lang=engl czec pols span russ
 {28010}{}{Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -390,11 +390,11 @@ lang=engl czec pols span russ
 {6010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {6030}{}{Erhm... Actually, nothing right now. I better be going.}
-{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {9000}{}{Very well, it's a deal then. [Jacob starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {9010}{}{Thanks for everything Jacob, that's exectly what I wanted to know. See you!}
@@ -448,7 +448,7 @@ lang=engl czec pols span russ
 {28010}{}{Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Dumb}
@@ -478,11 +478,11 @@ lang=engl czec pols span russ
 {6010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {6020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {6030}{}{Erhm... Actually, nothing right now. I better be going.}
-{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{7000}{}{I really hope you know what you're talking about, otherwise it'll be a waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {7010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {7020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {8000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{8010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{8010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {9000}{}{Very well, it's a deal then. [Jacob starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {9010}{}{Thanks for everything Jacob, that's exectly what I wanted to know. See you!}

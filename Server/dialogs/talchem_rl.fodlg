@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p talchem_rl = 0 #
 3 1020 D _var p talchem_rl = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 D _var p talchem_rl = 0 R _script talchem@r_HackDoorOpen 1 21 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 0 3020 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 0 4010 #
 7 4020 D _param p SK_SCIENCE } 200 #
 9 4030 D _param p SK_SCIENCE < 200 @
-7 5000 None 0 #
+7 5000 main@dlg_Caps 0 #
 2 5010 R _var p talchem_rl = 0 @
-9 6000 None 0 &
+9 6000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -53,7 +53,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -82,7 +82,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -111,7 +111,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -140,7 +140,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }

@@ -6,26 +6,26 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 90 1010 D _script mob_dynamic@d_DoesHeHaveReward 0  R _script mob_dynamic@r_GiveRewardToPlayer 0  #
 9 1020 D _param p ST_CHARISMA > 99 #
 10 1030 D _param p SK_SMALL_GUNS < 50 D _param p SK_BIG_GUNS < 50 D _param p SK_ENERGY_WEAPONS < 50 #
 4 1040 D _param p ST_INTELLECT < 4 #
 2 1050 D _var n name_mem_npc_player = 0 #
 7 1060 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_INTELLECT < 4 #
 6 2020 D _param p ST_INTELLECT > 3 #
 5 2030 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 3 2040 D _param p ST_INTELLECT > 3 @
-3 3000 None 0 @
-4 4000 None 0 @
-5 5000 None 0 @
-6 6000 None 0 @
-7 7000 None 0 @
-9 8000 None 0 @
-10 9000 None 0 @
-90 10000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 @
+7 7000 main@dlg_Caps 0 @
+9 8000 main@dlg_Caps 0 @
+10 9000 main@dlg_Caps 0 @
+90 10000 main@dlg_Caps 0 #
 0 10010 &
 
 [engl]
@@ -51,11 +51,11 @@ lang=engl czec pols span russ
 {7000}{}{Yeah, I remember you.  Go on in.}
 {8000}{}{What the hell is wrong with your face? You look worse than a mutant! Get the fuck out of here you freak!}
 {9000}{}{I can tell just by looking at you that you've no skill whatsoever, come back when you've trained some.}
-{10000}{}{Thank you for helping us. I can't pay caps for it, but I will give you some stuff dropped by them.}
+{10000}{}{Thank you for helping us. I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {10010}{}{Hey thanks! See you later!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -75,11 +75,11 @@ lang=engl czec pols span russ
 {7000}{}{Yeah, I remember you.  Go on in.}
 {8000}{}{What the hell is wrong with your face? You look worse than a mutant! Get the fuck out of here you freak!}
 {9000}{}{I can tell just by looking at you that you've no skill whatsoever, come back when you've trained some.}
-{10000}{}{Thank you for helping us. I can't pay caps for it, but I will give you some stuff dropped by them.}
+{10000}{}{Thank you for helping us. I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {10010}{}{Hey thanks! See you later!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -99,11 +99,11 @@ lang=engl czec pols span russ
 {7000}{}{Yeah, I remember you.  Go on in.}
 {8000}{}{What the hell is wrong with your face? You look worse than a mutant! Get the fuck out of here you freak!}
 {9000}{}{I can tell just by looking at you that you've no skill whatsoever, come back when you've trained some.}
-{10000}{}{Thank you for helping us. I can't pay caps for it, but I will give you some stuff dropped by them.}
+{10000}{}{Thank you for helping us. I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {10010}{}{Hey thanks! See you later!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -123,11 +123,11 @@ lang=engl czec pols span russ
 {7000}{}{Yeah, I remember you.  Go on in.}
 {8000}{}{What the hell is wrong with your face? You look worse than a mutant! Get the fuck out of here you freak!}
 {9000}{}{I can tell just by looking at you that you've no skill whatsoever, come back when you've trained some.}
-{10000}{}{Thank you for helping us. I can't pay caps for it, but I will give you some stuff dropped by them.}
+{10000}{}{Thank you for helping us. I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {10010}{}{Hey thanks! See you later!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -147,6 +147,6 @@ lang=engl czec pols span russ
 {7000}{}{Yeah, I remember you.  Go on in.}
 {8000}{}{What the hell is wrong with your face? You look worse than a mutant! Get the fuck out of here you freak!}
 {9000}{}{I can tell just by looking at you that you've no skill whatsoever, come back when you've trained some.}
-{10000}{}{Thank you for helping us. I can't pay caps for it, but I will give you some stuff dropped by them.}
+{10000}{}{Thank you for helping us. I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {10010}{}{Hey thanks! See you later!}
 

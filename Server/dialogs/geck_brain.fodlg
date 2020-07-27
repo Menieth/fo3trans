@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p ST_INTELLECT < 4 #
 2 1020 @
 2 2000 Attack 0 @
-3 3000 None 0 &
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{The Brain}
@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Normal}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Normal}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Normal}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{I don’t know how you got in here -- but you must be able to find your way out the same way.@@I don’t have time for your pestering. I’m planning a way to take over the world. Go away.@@Don’t bother me. I won’t warn you again.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Normal}

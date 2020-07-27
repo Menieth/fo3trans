@@ -6,52 +6,52 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 50 1010 D _script dialog@d_CheckNight 0  #
 40 1020 D _param p ST_INTELLECT < 4 #
 2 1030 D _var p factions_player_faction = 6 #
 20 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var n name_mem_npc_player = 1 #
 80 2020 D _var n name_mem_npc_player > 0 #
 7 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 80 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 #
 80 4030 #
 2 4040 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 80 5020 #
 2 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 5 6010 #
 80 6020 #
 2 6030 #
 0 6040 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 2 7010 #
 0 7020 @
-20 8000 None 0 #
+20 8000 main@dlg_Caps 0 #
 80 8010 #
 0 8020 @
-40 9000 None 0 #
+40 9000 main@dlg_Caps 0 #
 41 9010 #
 0 9020 @
-41 10000 None 0 #
+41 10000 main@dlg_Caps 0 #
 42 10010 #
 0 10020 @
-42 11000 None 0 #
+42 11000 main@dlg_Caps 0 #
 0 11010 @
-50 12000 None 0 @
-80 13000 None 0 #
+50 12000 main@dlg_Caps 0 @
+80 13000 main@dlg_Caps 0 #
 2 13010 D _var p factions_player_faction = 6 #
 0 13020 &
 
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -160,7 +160,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}

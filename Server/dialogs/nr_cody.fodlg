@@ -6,44 +6,44 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 10 1020 D _param p ST_KARMA < -100 #
 3 1030 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 8 2010 #
 7 2020 #
 6 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 6 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 D _item p PID_NUKA_COLA > 0 R _item p PID_NUKA_COLA - 1 R _param p ST_KARMA + 2 #
 5 7020 D _item p PID_BEER > 0 #
 5 7030 D _item p PID_JET > 0 #
 5 7040 D _item p PID_BUFFOUT > 0 #
 0 7050 #
 0 7060 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 D _item p PID_COOKIE > 0 R _item p PID_COOKIE - 1 R _param p ST_KARMA + 2 #
 9 8020 D _item p PID_IGUANA_ON_A_STICK > 0 R _item p PID_IGUANA_ON_A_STICK - 1 R _param p ST_KARMA + 2 #
 9 8030 D _item p PID_MUTATED_FRUIT > 0 R _item p PID_MUTATED_FRUIT - 1 R _param p ST_KARMA + 2 #
 0 8040 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 R _param p ST_KARMA + 5 #
 0 9020 R _param p ST_KARMA + 5 #
 0 9030 R _param p ST_KARMA + 5 @
-10 10000 None 0 &
+10 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Cody}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}

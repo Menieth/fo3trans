@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 8 1010 D _param p SK_BARTER > 99 D _var p perk_junk_merchant = 0 D _var p q_la_junk_merchant > 9 D _param p ST_STRENGTH > 10 R _var p perk_junk_merchant = 1 R _param p PE_JUNK_MERCHANT = 1 #
 2 1020 D _var p name_mem_npc_player = 0 #
 3 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 R _var p name_mem_npc_player + 1 #
 90 2020 D _script mob_dynamic@d_DoesHeHaveReward 0  R _script mob_dynamic@r_GiveRewardToPlayer 0  #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 6 3010 #
 90 3020 D _script mob_dynamic@d_DoesHeHaveReward 0  R _script mob_dynamic@r_GiveRewardToPlayer 0  #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _item p PID_PUMP_PARTS > 0 R _script dialog@r_AddMoney 1 40 R _item p PID_PUMP_PARTS - 1 R _param p REPUTATION_SCAVENGERS + 1 R _var p q_la_junk_merchant + 1 #
 7 6020 D _item p PID_ELECTRONIC_PARTS > 0 R _script dialog@r_AddMoney 1 50 R _item p PID_ELECTRONIC_PARTS - 1 R _param p REPUTATION_SCAVENGERS + 1 R _var p q_la_junk_merchant + 1 #
 7 6030 D _item p PID_GOLD_LOCKET > 0 R _script dialog@r_AddMoney 1 100 R _item p PID_GOLD_LOCKET - 1 R _param p REPUTATION_SCAVENGERS + 1 R _var p q_la_junk_merchant + 1 #
@@ -38,13 +38,13 @@ lang=engl czec pols span russ
 7 6110 D _item p PID_MOTIVATOR > 0 R _script dialog@r_AddMoney 1 250 R _item p PID_ROBOT_MOTIVATOR - 1 R _param p REPUTATION_SCAVENGERS + 20 R _var p q_la_junk_merchant + 1 #
 7 6120 D _item p PID_EXCAVATOR_CHIP > 0 R _script dialog@r_AddMoney 1 250 R _item p PID_EXCAVATOR_CHIP - 1 R _param p REPUTATION_SCAVENGERS + 20 R _var p q_la_junk_merchant + 1 #
 0 6130 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 6 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 6 8010 #
 0 8020 @
-90 9000 None 0 #
+90 9000 main@dlg_Caps 0 #
 0 9010 &
 
 [engl]
@@ -70,30 +70,30 @@ lang=engl czec pols span russ
 {5010}{}{Interesting. This is what I have with me right now...}
 {5020}{}{That's all I wanted to know. Bye.}
 {6000}{}{[She takes a look.]}
-{6010}{}{I've got some junk. 40 caps.@@Here is some junk. 40 caps.@@Some junk for you. 40 caps.}
-{6020}{}{I've got some electronic parts. 50 caps.@@Here are some electronic parts. 50 caps.@@I've found some electronic parts. 50 caps.@@Take the electronic parts. 50 caps.}
-{6030}{}{I've found this gold locket. 100 caps.}
-{6040}{}{Do you have any use for a waterchip? 200 caps.@@I found this waterchip. 200 caps.}
-{6050}{}{You can have this tape recorder. 30 caps.@@Take this tape recorder. 30 caps.@@This tape recorder here. 30 caps.}
-{6060}{}{I've found a small piece of machinery. 50 caps.}
-{6070}{}{You can have the holodisk. 100 caps.@@Take the holodisk. 100 caps.@@Here is a holodisk. 100 caps.}
-{6080}{}{I've got some car fuel cell controller for you. 500 caps.}
-{6090}{}{You can take the car fuel cell regulator. 100 caps.}
-{6100}{}{I have this robot parts. 50 caps.@@The robot parts, that's what you can have. 50 caps.@@I am selling this robot parts. 50 caps.}
-{6110}{}{I am selling this robot motivator. 250 caps.}
-{6120}{}{This excavator chip has any use for you? 250 caps.}
+{6010}{}{I've got some junk. 40 @lex money@.@@Here is some junk. 40 @lex money@.@@Some junk for you. 40 @lex money@.}
+{6020}{}{I've got some electronic parts. 50 @lex money@.@@Here are some electronic parts. 50 @lex money@.@@I've found some electronic parts. 50 @lex money@.@@Take the electronic parts. 50 @lex money@.}
+{6030}{}{I've found this gold locket. 100 @lex money@.}
+{6040}{}{Do you have any use for a waterchip? 200 @lex money@.@@I found this waterchip. 200 @lex money@.}
+{6050}{}{You can have this tape recorder. 30 @lex money@.@@Take this tape recorder. 30 @lex money@.@@This tape recorder here. 30 @lex money@.}
+{6060}{}{I've found a small piece of machinery. 50 @lex money@.}
+{6070}{}{You can have the holodisk. 100 @lex money@.@@Take the holodisk. 100 @lex money@.@@Here is a holodisk. 100 @lex money@.}
+{6080}{}{I've got some car fuel cell controller for you. 500 @lex money@.}
+{6090}{}{You can take the car fuel cell regulator. 100 @lex money@.}
+{6100}{}{I have this robot parts. 50 @lex money@.@@The robot parts, that's what you can have. 50 @lex money@.@@I am selling this robot parts. 50 @lex money@.}
+{6110}{}{I am selling this robot motivator. 250 @lex money@.}
+{6120}{}{This excavator chip has any use for you? 250 @lex money@.}
 {6130}{}{I changed my mind. Don't have anything valuable right now. Bye.}
-{7000}{}{Good, here are your caps. Anything else?}
+{7000}{}{Good, here are your @lex money@. Anything else?}
 {7010}{}{Yes, take a look...}
 {7020}{}{Nothing. Bye.}
 {8000}{}{We've got a real junk merchant here, eh boys? Don't tell me, you want to trade, do you? Ah, wait! Cut the talking and show me what you've got with you...}
 {8010}{}{This is what I have with me right now...}
 {8020}{}{Goodbye.}
-{9000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{9000}{}{I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {9010}{}{Hey thanks! See you later!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -113,30 +113,30 @@ lang=engl czec pols span russ
 {5010}{}{Interesting. This is what I have with me right now...}
 {5020}{}{That's all I wanted to know. Bye.}
 {6000}{}{[She takes a look.]}
-{6010}{}{I've got some junk. 40 caps.@@Here is some junk. 40 caps.@@Some junk for you. 40 caps.}
-{6020}{}{I've got some electronic parts. 50 caps.@@Here are some electronic parts. 50 caps.@@I've found some electronic parts. 50 caps.@@Take the electronic parts. 50 caps.}
-{6030}{}{I've found this gold locket. 100 caps.}
-{6040}{}{Do you have any use for a waterchip? 200 caps.@@I found this waterchip. 200 caps.}
-{6050}{}{You can have this tape recorder. 30 caps.@@Take this tape recorder. 30 caps.@@This tape recorder here. 30 caps.}
-{6060}{}{I've found a small piece of machinery. 50 caps.}
-{6070}{}{You can have the holodisk. 100 caps.@@Take the holodisk. 100 caps.@@Here is a holodisk. 100 caps.}
-{6080}{}{I've got some car fuel cell controller for you. 500 caps.}
-{6090}{}{You can take the car fuel cell regulator. 100 caps.}
-{6100}{}{I have this robot parts. 50 caps.@@The robot parts, that's what you can have. 50 caps.@@I am selling this robot parts. 50 caps.}
-{6110}{}{I am selling this robot motivator. 250 caps.}
-{6120}{}{This excavator chip has any use for you? 250 caps.}
+{6010}{}{I've got some junk. 40 @lex money@.@@Here is some junk. 40 @lex money@.@@Some junk for you. 40 @lex money@.}
+{6020}{}{I've got some electronic parts. 50 @lex money@.@@Here are some electronic parts. 50 @lex money@.@@I've found some electronic parts. 50 @lex money@.@@Take the electronic parts. 50 @lex money@.}
+{6030}{}{I've found this gold locket. 100 @lex money@.}
+{6040}{}{Do you have any use for a waterchip? 200 @lex money@.@@I found this waterchip. 200 @lex money@.}
+{6050}{}{You can have this tape recorder. 30 @lex money@.@@Take this tape recorder. 30 @lex money@.@@This tape recorder here. 30 @lex money@.}
+{6060}{}{I've found a small piece of machinery. 50 @lex money@.}
+{6070}{}{You can have the holodisk. 100 @lex money@.@@Take the holodisk. 100 @lex money@.@@Here is a holodisk. 100 @lex money@.}
+{6080}{}{I've got some car fuel cell controller for you. 500 @lex money@.}
+{6090}{}{You can take the car fuel cell regulator. 100 @lex money@.}
+{6100}{}{I have this robot parts. 50 @lex money@.@@The robot parts, that's what you can have. 50 @lex money@.@@I am selling this robot parts. 50 @lex money@.}
+{6110}{}{I am selling this robot motivator. 250 @lex money@.}
+{6120}{}{This excavator chip has any use for you? 250 @lex money@.}
 {6130}{}{I changed my mind. Don't have anything valuable right now. Bye.}
-{7000}{}{Good, here are your caps. Anything else?}
+{7000}{}{Good, here are your @lex money@. Anything else?}
 {7010}{}{Yes, take a look...}
 {7020}{}{Nothing. Bye.}
 {8000}{}{We've got a real junk merchant here, eh boys? Don't tell me, you want to trade, do you? Ah, wait! Cut the talking and show me what you've got with you...}
 {8010}{}{This is what I have with me right now...}
 {8020}{}{Goodbye.}
-{9000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{9000}{}{I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {9010}{}{Hey thanks! See you later!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -156,30 +156,30 @@ lang=engl czec pols span russ
 {5010}{}{Interesting. This is what I have with me right now...}
 {5020}{}{That's all I wanted to know. Bye.}
 {6000}{}{[She takes a look.]}
-{6010}{}{I've got some junk. 40 caps.@@Here is some junk. 40 caps.@@Some junk for you. 40 caps.}
-{6020}{}{I've got some electronic parts. 50 caps.@@Here are some electronic parts. 50 caps.@@I've found some electronic parts. 50 caps.@@Take the electronic parts. 50 caps.}
-{6030}{}{I've found this gold locket. 100 caps.}
-{6040}{}{Do you have any use for a waterchip? 200 caps.@@I found this waterchip. 200 caps.}
-{6050}{}{You can have this tape recorder. 30 caps.@@Take this tape recorder. 30 caps.@@This tape recorder here. 30 caps.}
-{6060}{}{I've found a small piece of machinery. 50 caps.}
-{6070}{}{You can have the holodisk. 100 caps.@@Take the holodisk. 100 caps.@@Here is a holodisk. 100 caps.}
-{6080}{}{I've got some car fuel cell controller for you. 500 caps.}
-{6090}{}{You can take the car fuel cell regulator. 100 caps.}
-{6100}{}{I have this robot parts. 50 caps.@@The robot parts, that's what you can have. 50 caps.@@I am selling this robot parts. 50 caps.}
-{6110}{}{I am selling this robot motivator. 250 caps.}
-{6120}{}{This excavator chip has any use for you? 250 caps.}
+{6010}{}{I've got some junk. 40 @lex money@.@@Here is some junk. 40 @lex money@.@@Some junk for you. 40 @lex money@.}
+{6020}{}{I've got some electronic parts. 50 @lex money@.@@Here are some electronic parts. 50 @lex money@.@@I've found some electronic parts. 50 @lex money@.@@Take the electronic parts. 50 @lex money@.}
+{6030}{}{I've found this gold locket. 100 @lex money@.}
+{6040}{}{Do you have any use for a waterchip? 200 @lex money@.@@I found this waterchip. 200 @lex money@.}
+{6050}{}{You can have this tape recorder. 30 @lex money@.@@Take this tape recorder. 30 @lex money@.@@This tape recorder here. 30 @lex money@.}
+{6060}{}{I've found a small piece of machinery. 50 @lex money@.}
+{6070}{}{You can have the holodisk. 100 @lex money@.@@Take the holodisk. 100 @lex money@.@@Here is a holodisk. 100 @lex money@.}
+{6080}{}{I've got some car fuel cell controller for you. 500 @lex money@.}
+{6090}{}{You can take the car fuel cell regulator. 100 @lex money@.}
+{6100}{}{I have this robot parts. 50 @lex money@.@@The robot parts, that's what you can have. 50 @lex money@.@@I am selling this robot parts. 50 @lex money@.}
+{6110}{}{I am selling this robot motivator. 250 @lex money@.}
+{6120}{}{This excavator chip has any use for you? 250 @lex money@.}
 {6130}{}{I changed my mind. Don't have anything valuable right now. Bye.}
-{7000}{}{Good, here are your caps. Anything else?}
+{7000}{}{Good, here are your @lex money@. Anything else?}
 {7010}{}{Yes, take a look...}
 {7020}{}{Nothing. Bye.}
 {8000}{}{We've got a real junk merchant here, eh boys? Don't tell me, you want to trade, do you? Ah, wait! Cut the talking and show me what you've got with you...}
 {8010}{}{This is what I have with me right now...}
 {8020}{}{Goodbye.}
-{9000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{9000}{}{I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {9010}{}{Hey thanks! See you later!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -199,30 +199,30 @@ lang=engl czec pols span russ
 {5010}{}{Interesting. This is what I have with me right now...}
 {5020}{}{That's all I wanted to know. Bye.}
 {6000}{}{[She takes a look.]}
-{6010}{}{I've got some junk. 40 caps.@@Here is some junk. 40 caps.@@Some junk for you. 40 caps.}
-{6020}{}{I've got some electronic parts. 50 caps.@@Here are some electronic parts. 50 caps.@@I've found some electronic parts. 50 caps.@@Take the electronic parts. 50 caps.}
-{6030}{}{I've found this gold locket. 100 caps.}
-{6040}{}{Do you have any use for a waterchip? 200 caps.@@I found this waterchip. 200 caps.}
-{6050}{}{You can have this tape recorder. 30 caps.@@Take this tape recorder. 30 caps.@@This tape recorder here. 30 caps.}
-{6060}{}{I've found a small piece of machinery. 50 caps.}
-{6070}{}{You can have the holodisk. 100 caps.@@Take the holodisk. 100 caps.@@Here is a holodisk. 100 caps.}
-{6080}{}{I've got some car fuel cell controller for you. 500 caps.}
-{6090}{}{You can take the car fuel cell regulator. 100 caps.}
-{6100}{}{I have this robot parts. 50 caps.@@The robot parts, that's what you can have. 50 caps.@@I am selling this robot parts. 50 caps.}
-{6110}{}{I am selling this robot motivator. 250 caps.}
-{6120}{}{This excavator chip has any use for you? 250 caps.}
+{6010}{}{I've got some junk. 40 @lex money@.@@Here is some junk. 40 @lex money@.@@Some junk for you. 40 @lex money@.}
+{6020}{}{I've got some electronic parts. 50 @lex money@.@@Here are some electronic parts. 50 @lex money@.@@I've found some electronic parts. 50 @lex money@.@@Take the electronic parts. 50 @lex money@.}
+{6030}{}{I've found this gold locket. 100 @lex money@.}
+{6040}{}{Do you have any use for a waterchip? 200 @lex money@.@@I found this waterchip. 200 @lex money@.}
+{6050}{}{You can have this tape recorder. 30 @lex money@.@@Take this tape recorder. 30 @lex money@.@@This tape recorder here. 30 @lex money@.}
+{6060}{}{I've found a small piece of machinery. 50 @lex money@.}
+{6070}{}{You can have the holodisk. 100 @lex money@.@@Take the holodisk. 100 @lex money@.@@Here is a holodisk. 100 @lex money@.}
+{6080}{}{I've got some car fuel cell controller for you. 500 @lex money@.}
+{6090}{}{You can take the car fuel cell regulator. 100 @lex money@.}
+{6100}{}{I have this robot parts. 50 @lex money@.@@The robot parts, that's what you can have. 50 @lex money@.@@I am selling this robot parts. 50 @lex money@.}
+{6110}{}{I am selling this robot motivator. 250 @lex money@.}
+{6120}{}{This excavator chip has any use for you? 250 @lex money@.}
 {6130}{}{I changed my mind. Don't have anything valuable right now. Bye.}
-{7000}{}{Good, here are your caps. Anything else?}
+{7000}{}{Good, here are your @lex money@. Anything else?}
 {7010}{}{Yes, take a look...}
 {7020}{}{Nothing. Bye.}
 {8000}{}{We've got a real junk merchant here, eh boys? Don't tell me, you want to trade, do you? Ah, wait! Cut the talking and show me what you've got with you...}
 {8010}{}{This is what I have with me right now...}
 {8020}{}{Goodbye.}
-{9000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{9000}{}{I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {9010}{}{Hey thanks! See you later!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -242,25 +242,25 @@ lang=engl czec pols span russ
 {5010}{}{Interesting. This is what I have with me right now...}
 {5020}{}{That's all I wanted to know. Bye.}
 {6000}{}{[She takes a look.]}
-{6010}{}{I've got some junk. 40 caps.@@Here is some junk. 40 caps.@@Some junk for you. 40 caps.}
-{6020}{}{I've got some electronic parts. 50 caps.@@Here are some electronic parts. 50 caps.@@I've found some electronic parts. 50 caps.@@Take the electronic parts. 50 caps.}
-{6030}{}{I've found this gold locket. 100 caps.}
-{6040}{}{Do you have any use for a waterchip? 200 caps.@@I found this waterchip. 200 caps.}
-{6050}{}{You can have this tape recorder. 30 caps.@@Take this tape recorder. 30 caps.@@This tape recorder here. 30 caps.}
-{6060}{}{I've found a small piece of machinery. 50 caps.}
-{6070}{}{You can have the holodisk. 100 caps.@@Take the holodisk. 100 caps.@@Here is a holodisk. 100 caps.}
-{6080}{}{I've got some car fuel cell controller for you. 500 caps.}
-{6090}{}{You can take the car fuel cell regulator. 100 caps.}
-{6100}{}{I have this robot parts. 50 caps.@@The robot parts, that's what you can have. 50 caps.@@I am selling this robot parts. 50 caps.}
-{6110}{}{I am selling this robot motivator. 250 caps.}
-{6120}{}{This excavator chip has any use for you? 250 caps.}
+{6010}{}{I've got some junk. 40 @lex money@.@@Here is some junk. 40 @lex money@.@@Some junk for you. 40 @lex money@.}
+{6020}{}{I've got some electronic parts. 50 @lex money@.@@Here are some electronic parts. 50 @lex money@.@@I've found some electronic parts. 50 @lex money@.@@Take the electronic parts. 50 @lex money@.}
+{6030}{}{I've found this gold locket. 100 @lex money@.}
+{6040}{}{Do you have any use for a waterchip? 200 @lex money@.@@I found this waterchip. 200 @lex money@.}
+{6050}{}{You can have this tape recorder. 30 @lex money@.@@Take this tape recorder. 30 @lex money@.@@This tape recorder here. 30 @lex money@.}
+{6060}{}{I've found a small piece of machinery. 50 @lex money@.}
+{6070}{}{You can have the holodisk. 100 @lex money@.@@Take the holodisk. 100 @lex money@.@@Here is a holodisk. 100 @lex money@.}
+{6080}{}{I've got some car fuel cell controller for you. 500 @lex money@.}
+{6090}{}{You can take the car fuel cell regulator. 100 @lex money@.}
+{6100}{}{I have this robot parts. 50 @lex money@.@@The robot parts, that's what you can have. 50 @lex money@.@@I am selling this robot parts. 50 @lex money@.}
+{6110}{}{I am selling this robot motivator. 250 @lex money@.}
+{6120}{}{This excavator chip has any use for you? 250 @lex money@.}
 {6130}{}{I changed my mind. Don't have anything valuable right now. Bye.}
-{7000}{}{Good, here are your caps. Anything else?}
+{7000}{}{Good, here are your @lex money@. Anything else?}
 {7010}{}{Yes, take a look...}
 {7020}{}{Nothing. Bye.}
 {8000}{}{We've got a real junk merchant here, eh boys? Don't tell me, you want to trade, do you? Ah, wait! Cut the talking and show me what you've got with you...}
 {8010}{}{This is what I have with me right now...}
 {8020}{}{Goodbye.}
-{9000}{}{I can't pay caps for it, but I will give you some stuff dropped by them.}
+{9000}{}{I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {9010}{}{Hey thanks! See you later!}
 

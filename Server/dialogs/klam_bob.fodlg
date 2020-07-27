@@ -6,79 +6,79 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 21 1010 D _param p KARMA_SLAVER > 0 #
 2 1020 D _param p ST_INTELLECT < 4 #
 6 1030 D _var n name_mem_npc_player = 1 #
 4 1040 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 3 2030 #
 0 2040 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 14 4010 #
 5 4020 #
 8 4030 #
 22 4040 D _var p q_klam_bob_thehole = 0 @
-5 5000 None 0 #
-7 5010 D _item p PID_BOTTLE_CAPS > 4 R _script dialog@r_RemoveMoney 1 5 #
+5 5000 main@dlg_Caps 0 #
+7 5010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
 8 5020 #
 9 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 5 6010 #
 8 6020 #
 22 6030 D _var p q_klam_bob_thehole = 0 #
 26 6040 D _var p q_klam_bob_thehole = 2 #
 27 6050 D _var p q_klam_bob_thehole = 3 D _script dialog@d_QuestTimeoutReady 0  @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 14 7010 #
 12 7020 #
 8 7030 #
 22 7040 D _var p q_klam_bob_thehole = 0 #
 27 7050 D _var p q_klam_bob_thehole = 3 D _script dialog@d_QuestTimeoutReady 0  @
-8 8000 None 0 @
-9 9000 None 0 @
-12 10000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 @
+12 10000 main@dlg_Caps 0 #
 13 10010 @
-13 11000 None 0 #
+13 11000 main@dlg_Caps 0 #
 14 11010 #
 0 11020 @
-14 12000 None 0 #
+14 12000 main@dlg_Caps 0 #
 17 12010 #
 18 12020 #
 0 12030 @
-17 13000 None 0 #
+17 13000 main@dlg_Caps 0 #
 14 13010 #
 0 13020 @
-18 14000 None 0 #
+18 14000 main@dlg_Caps 0 #
 14 14010 #
 0 14020 @
-19 15000 None 0 #
+19 15000 main@dlg_Caps 0 #
 14 15010 #
 0 15020 @
-20 16000 None 0 #
+20 16000 main@dlg_Caps 0 #
 14 16010 #
 0 16020 @
-21 17000 None 0 @
-22 18000 None 0 #
+21 17000 main@dlg_Caps 0 @
+22 18000 main@dlg_Caps 0 #
 23 18010 #
 23 18020 @
-23 19000 None 0 #
+23 19000 main@dlg_Caps 0 #
 24 19010 #
 0 19020 @
-24 20000 None 0 #
+24 20000 main@dlg_Caps 0 #
 25 20010 #
 0 20020 @
-25 21000 None 0 #
+25 21000 main@dlg_Caps 0 #
 0 21010 R _var p q_klam_bob_thehole = 1 @
-26 22000 None 0 #
+26 22000 main@dlg_Caps 0 #
 0 22010 D _param p ST_CHARISMA < 6 R _param p ST_EXPERIENCE + 750 R _item p PID_BEER + 2 R _var p q_klam_bob_thehole = 3 R _script dialog@r_QuestTimeout 1 144 R _script dialog@r_AddMoney 1 275 #
 0 22020 D _param p ST_CHARISMA < 8 D _param p ST_CHARISMA > 5 R _param p ST_EXPERIENCE + 750 R _item p PID_BOOZE + 2 R _item p PID_ROT_GUT + 2 R _var p q_klam_bob_thehole = 3 R _script dialog@r_QuestTimeout 1 144 R _script dialog@r_AddMoney 1 275 #
 0 22030 D _param p ST_CHARISMA > 7 R _param p ST_EXPERIENCE + 750 R _item p PID_ROT_GUT + 5 R _var p q_klam_bob_thehole = 3 R _script dialog@r_QuestTimeout 1 144 R _script dialog@r_AddMoney 1 275 @
-27 23000 None 0 #
+27 23000 main@dlg_Caps 0 #
 0 23010 R _var p q_klam_bob_thehole = 1 &
 
 [engl]
@@ -148,12 +148,12 @@ lang=engl czec pols span russ
 {19000}{}{Well, heck, it don't matter, 'cause that's where you're goin'. It's a ways southeast of here. I want you to head to a bar called The Hole. Find a fella named Frankie.}
 {19010}{}{Frankie, huh? Who's he?}
 {19020}{}{This doesn't really sound my style. Later, Bob.}
-{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple caps my way. Nice little arrangement.}
+{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple @lex money@ my way. Nice little arrangement.}
 {20010}{}{And this involves me how?}
 {20020}{}{Forget it, I don't care. Goodbye, Bob.}
 {21000}{}{Heck, I'm gettin' to that. Hold your dang horses. I want ya to tell him my latest batch all ready to be picked up, and I'm expectin' him to pay double! (He chuckles) Times are hard for poor ol' Bob.}
 {21010}{}{Alright Bob, I'll go tell him. Frankie at the Hole. The hooch is ready. I can remember that. See you later.}
-{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some caps and a couple drinks on me. Much obliged, friend.}
+{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some @lex money@ and a couple drinks on me. Much obliged, friend.}
 {22010}{}{Thanks a lot, Bob. See you around.}
 {22020}{}{Thanks a lot, Bob. See you around.}
 {22030}{}{Thanks a lot, Bob. See you around.}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks Bob, see you later.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Idiot}
@@ -225,12 +225,12 @@ lang=engl czec pols span russ
 {19000}{}{Well, heck, it don't matter, 'cause that's where you're goin'. It's a ways southeast of here. I want you to head to a bar called The Hole. Find a fella named Frankie.}
 {19010}{}{Frankie, huh? Who's he?}
 {19020}{}{This doesn't really sound my style. Later, Bob.}
-{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple caps my way. Nice little arrangement.}
+{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple @lex money@ my way. Nice little arrangement.}
 {20010}{}{And this involves me how?}
 {20020}{}{Forget it, I don't care. Goodbye, Bob.}
 {21000}{}{Heck, I'm gettin' to that. Hold your dang horses. I want ya to tell him my latest batch all ready to be picked up, and I'm expectin' him to pay double! (He chuckles) Times are hard for poor ol' Bob.}
 {21010}{}{Alright Bob, I'll go tell him. Frankie at the Hole. The hooch is ready. I can remember that. See you later.}
-{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some caps and a couple drinks on me. Much obliged, friend.}
+{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some @lex money@ and a couple drinks on me. Much obliged, friend.}
 {22010}{}{Thanks a lot, Bob. See you around.}
 {22020}{}{Thanks a lot, Bob. See you around.}
 {22030}{}{Thanks a lot, Bob. See you around.}
@@ -238,7 +238,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks Bob, see you later.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Idiot}
@@ -302,12 +302,12 @@ lang=engl czec pols span russ
 {19000}{}{Well, heck, it don't matter, 'cause that's where you're goin'. It's a ways southeast of here. I want you to head to a bar called The Hole. Find a fella named Frankie.}
 {19010}{}{Frankie, huh? Who's he?}
 {19020}{}{This doesn't really sound my style. Later, Bob.}
-{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple caps my way. Nice little arrangement.}
+{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple @lex money@ my way. Nice little arrangement.}
 {20010}{}{And this involves me how?}
 {20020}{}{Forget it, I don't care. Goodbye, Bob.}
 {21000}{}{Heck, I'm gettin' to that. Hold your dang horses. I want ya to tell him my latest batch all ready to be picked up, and I'm expectin' him to pay double! (He chuckles) Times are hard for poor ol' Bob.}
 {21010}{}{Alright Bob, I'll go tell him. Frankie at the Hole. The hooch is ready. I can remember that. See you later.}
-{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some caps and a couple drinks on me. Much obliged, friend.}
+{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some @lex money@ and a couple drinks on me. Much obliged, friend.}
 {22010}{}{Thanks a lot, Bob. See you around.}
 {22020}{}{Thanks a lot, Bob. See you around.}
 {22030}{}{Thanks a lot, Bob. See you around.}
@@ -315,7 +315,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks Bob, see you later.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Idiot}
@@ -379,12 +379,12 @@ lang=engl czec pols span russ
 {19000}{}{Well, heck, it don't matter, 'cause that's where you're goin'. It's a ways southeast of here. I want you to head to a bar called The Hole. Find a fella named Frankie.}
 {19010}{}{Frankie, huh? Who's he?}
 {19020}{}{This doesn't really sound my style. Later, Bob.}
-{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple caps my way. Nice little arrangement.}
+{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple @lex money@ my way. Nice little arrangement.}
 {20010}{}{And this involves me how?}
 {20020}{}{Forget it, I don't care. Goodbye, Bob.}
 {21000}{}{Heck, I'm gettin' to that. Hold your dang horses. I want ya to tell him my latest batch all ready to be picked up, and I'm expectin' him to pay double! (He chuckles) Times are hard for poor ol' Bob.}
 {21010}{}{Alright Bob, I'll go tell him. Frankie at the Hole. The hooch is ready. I can remember that. See you later.}
-{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some caps and a couple drinks on me. Much obliged, friend.}
+{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some @lex money@ and a couple drinks on me. Much obliged, friend.}
 {22010}{}{Thanks a lot, Bob. See you around.}
 {22020}{}{Thanks a lot, Bob. See you around.}
 {22030}{}{Thanks a lot, Bob. See you around.}
@@ -392,7 +392,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks Bob, see you later.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Idiot}
@@ -456,12 +456,12 @@ lang=engl czec pols span russ
 {19000}{}{Well, heck, it don't matter, 'cause that's where you're goin'. It's a ways southeast of here. I want you to head to a bar called The Hole. Find a fella named Frankie.}
 {19010}{}{Frankie, huh? Who's he?}
 {19020}{}{This doesn't really sound my style. Later, Bob.}
-{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple caps my way. Nice little arrangement.}
+{20000}{}{He's an ol' drinkin' buddy. I brew him up a couple batches of hooch, he tosses a couple @lex money@ my way. Nice little arrangement.}
 {20010}{}{And this involves me how?}
 {20020}{}{Forget it, I don't care. Goodbye, Bob.}
 {21000}{}{Heck, I'm gettin' to that. Hold your dang horses. I want ya to tell him my latest batch all ready to be picked up, and I'm expectin' him to pay double! (He chuckles) Times are hard for poor ol' Bob.}
 {21010}{}{Alright Bob, I'll go tell him. Frankie at the Hole. The hooch is ready. I can remember that. See you later.}
-{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some caps and a couple drinks on me. Much obliged, friend.}
+{22000}{}{(He cackles) Didn't expect that skinflint bastard to pay a cap more than what we agreed. I just like remindin' him what a good deal he's gettin'. Awright, I figure I owe you some @lex money@ and a couple drinks on me. Much obliged, friend.}
 {22010}{}{Thanks a lot, Bob. See you around.}
 {22020}{}{Thanks a lot, Bob. See you around.}
 {22030}{}{Thanks a lot, Bob. See you around.}

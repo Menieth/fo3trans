@@ -6,23 +6,23 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 8 1010 D _param p ST_INTELLECT < 4 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 #
 7 2020 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 @
-6 4000 None 0 #
+6 4000 main@dlg_Caps 0 #
 9 4010 @
-7 5000 None 0 #
+7 5000 main@dlg_Caps 0 #
 0 5010 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 4 6010 @
-9 7000 None 0 #
+9 7000 main@dlg_Caps 0 #
 0 7010 @
-11 8000 None 0 &
+11 8000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Chuck Stodgers}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {8000}{}{Zzzzzzzzzzz.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ooiie}
 {1020}{}{Normal}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {8000}{}{Zzzzzzzzzzz.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ooiie}
 {1020}{}{Normal}
@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {8000}{}{Zzzzzzzzzzz.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ooiie}
 {1020}{}{Normal}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {8000}{}{Zzzzzzzzzzz.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ooiie}
 {1020}{}{Normal}

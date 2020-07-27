@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 4 1010 D _var p name_mem_npc_player = 1 #
 2 1020 D _var p name_mem_npc_player = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var p name_mem_npc_player = 1 #
 3 2020 R _var p name_mem_npc_player = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 #
 4 3030 #
 13 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 13 4020 #
 8 4030 D _var p q_rockside_francis = 1 R _item p PID_BEER + 1 R _var p q_rockside_francis = 2 #
@@ -30,49 +30,49 @@ lang=engl czec pols span russ
 14 4090 D _var p q_v99_judith_beer = 1 R _var p q_v99_judith_beer = 2 #
 15 4100 D _var p q_v99_judith_beer = 2 #
 28 4110 D _var p q_rockside_breakit = 1 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 13 5020 #
 4 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 4 6010 #
 12 6020 @
-7 7000 None 0 @
-8 8000 None 0 #
+7 7000 main@dlg_Caps 0 @
+8 8000 main@dlg_Caps 0 #
 4 8010 #
 0 8020 @
-9 9000 None 0 #
-4 9010 D _item p PID_BOTTLE_CAPS } 5 R _item p PID_BEER + 1 R _item p PID_BOTTLE_CAPS - 5 #
-4 9020 D _item p PID_BOTTLE_CAPS } 10 R _item p PID_BEER + 2 R _item p PID_BOTTLE_CAPS - 10 #
-4 9030 D _item p PID_BOTTLE_CAPS } 25 R _item p PID_BEER + 5 R _item p PID_BOTTLE_CAPS - 25 #
+9 9000 main@dlg_Caps 0 #
+4 9010 D _script dialog@d_havepropermoney 1 5 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 5 #
+4 9020 D _script dialog@d_havepropermoney 1 10 R _item p PID_BEER + 2 R _script dialog@r_RemoveMoney 1 10 #
+4 9030 D _script dialog@d_havepropermoney 1 25 R _item p PID_BEER + 5 R _script dialog@r_RemoveMoney 1 25 #
 4 9040 @
-10 10000 None 0 #
-4 10010 D _item p PID_BOTTLE_CAPS } 10 R _item p PID_NUKA_COLA + 1 R _item p PID_BOTTLE_CAPS - 10 #
-4 10020 D _item p PID_BOTTLE_CAPS } 20 R _item p PID_NUKA_COLA + 2 R _item p PID_BOTTLE_CAPS - 20 #
-4 10030 D _item p PID_BOTTLE_CAPS } 50 R _item p PID_NUKA_COLA + 5 R _item p PID_BOTTLE_CAPS - 50 #
+10 10000 main@dlg_Caps 0 #
+4 10010 D _script dialog@d_havepropermoney 1 10 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 10 #
+4 10020 D _script dialog@d_havepropermoney 1 20 R _item p PID_NUKA_COLA + 2 R _script dialog@r_RemoveMoney 1 20 #
+4 10030 D _script dialog@d_havepropermoney 1 50 R _item p PID_NUKA_COLA + 5 R _script dialog@r_RemoveMoney 1 50 #
 4 10040 @
-11 11000 None 0 #
-4 11010 D _item p PID_BOTTLE_CAPS } 7 R _item p PID_IGUANA_ON_A_STICK + 1 R _item p PID_BOTTLE_CAPS - 7 #
-4 11020 D _item p PID_BOTTLE_CAPS } 14 R _item p PID_IGUANA_ON_A_STICK + 2 R _item p PID_BOTTLE_CAPS - 14 #
-4 11030 D _item p PID_BOTTLE_CAPS } 35 R _item p PID_IGUANA_ON_A_STICK + 5 R _item p PID_BOTTLE_CAPS - 35 #
+11 11000 main@dlg_Caps 0 #
+4 11010 D _script dialog@d_havepropermoney 1 7 R _item p PID_IGUANA_ON_A_STICK + 1 R _script dialog@r_RemoveMoney 1 7 #
+4 11020 D _script dialog@d_havepropermoney 1 14 R _item p PID_IGUANA_ON_A_STICK + 2 R _script dialog@r_RemoveMoney 1 14 #
+4 11030 D _script dialog@d_havepropermoney 1 35 R _item p PID_IGUANA_ON_A_STICK + 5 R _script dialog@r_RemoveMoney 1 35 #
 4 11040 @
-12 12000 None 0 @
-13 13000 None 0 @
-14 14000 None 0 @
-15 15000 None 0 #
+12 12000 main@dlg_Caps 0 @
+13 13000 main@dlg_Caps 0 @
+14 14000 main@dlg_Caps 0 @
+15 15000 main@dlg_Caps 0 #
 12 15010 #
-16 15020 D _item p PID_BOTTLE_CAPS } 25 R _item p PID_ROENTGEN_RUM + 1 R _item p PID_BOTTLE_CAPS - 25 R _var p q_v99_judith_beer = 3 @
-16 16000 None 0 @
-20 17000 None 0 @
-21 18000 None 0 @
-22 19000 None 0 @
-24 20000 None 0 @
-26 21000 None 0 #
+16 15020 D _script dialog@d_havepropermoney 1 25 R _item p PID_ROENTGEN_RUM + 1 R _script dialog@r_RemoveMoney 1 25 R _var p q_v99_judith_beer = 3 @
+16 16000 main@dlg_Caps 0 @
+20 17000 main@dlg_Caps 0 @
+21 18000 main@dlg_Caps 0 @
+22 19000 main@dlg_Caps 0 @
+24 20000 main@dlg_Caps 0 @
+26 21000 main@dlg_Caps 0 #
 27 21010 @
-27 22000 None 0 @
-28 23000 None 0 #
-0 23010 D _item p PID_BOTTLE_CAPS } 3 R _var p q_rockside_breakit = 3 R _item p PID_BEER + 1 R _item p PID_BOTTLE_CAPS - 3 #
+27 22000 main@dlg_Caps 0 @
+28 23000 main@dlg_Caps 0 #
+0 23010 D _script dialog@d_havepropermoney 1 3 R _var p q_rockside_breakit = 3 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 3 #
 0 23020 &
 
 [engl]
@@ -93,15 +93,15 @@ lang=engl czec pols span russ
 {4000}{}{Is there something else you want?}
 {4010}{}{Tell me about yourself.}
 {4020}{}{Really, man, whom did you eat?}
-{4030}{}{I am from Francis. He asks for a bottle of beer.}
+{4030}{}{I am from Francis. He asks for a @lex prefix@ of beer.}
 {4040}{}{I'd like to buy some beer.}
 {4050}{}{I'd like to buy some nuka,}
 {4060}{}{I'd like to buy some iguana,}
 {4070}{}{Wanna trade?}
 {4080}{}{Need to go.}
-{4090}{}{I am from Judith, she asks for a bottle of rum.}
-{4100}{}{About that bottle of rum for Judith...}
-{4110}{}{Can you give me a bottle of spoiled beer?}
+{4090}{}{I am from Judith, she asks for a @lex prefix@ of rum.}
+{4100}{}{About that @lex prefix@ of rum for Judith...}
+{4110}{}{Can you give me a @lex prefix@ of spoiled beer?}
 {5000}{}{Well, I was born in small village on South of California. I don't remember my parents but I remember the fact that I trully hated everyone in that trash pit, so I ran away from there. Served a small raider party, but then decided to retire and ended up here.}
 {5010}{}{What happened to your village?}
 {5020}{}{Sad story... Were they all eating people?}
@@ -114,25 +114,25 @@ lang=engl czec pols span russ
 {8000}{}{Francis? Ah yeah, yeah... sure... [he takes something from the fridge] Here it is, give it to him.}
 {8010}{}{I want to ask you about one thing...}
 {8020}{}{Thanks,see ya.}
-{9000}{}{It is 5 bottle caps per bottle.}
+{9000}{}{It is 5 @lex prefix@ @lex money@ per @lex prefix@.}
 {9010}{}{I will take 1.}
 {9020}{}{I will take 2.}
 {9030}{}{I will take 5.}
 {9040}{}{Nevermind...}
-{10000}{}{It is 10 bottle caps per bottle.}
+{10000}{}{It is 10 @lex prefix@ @lex money@ per @lex prefix@.}
 {10010}{}{I will take 1.}
 {10020}{}{I will take 2.}
 {10030}{}{I will take 5.}
 {10040}{}{Nevermind...}
-{11000}{}{It will cost you 7 bottle caps.}
+{11000}{}{It will cost you 7 @lex prefix@ @lex money@.}
 {11010}{}{I will take 1.}
 {11020}{}{I will take 2.}
 {11030}{}{I will take 5.}
 {11040}{}{Nevermind...}
 {12000}{}{Don't waste my time then.}
 {13000}{}{SHUT UP!}
-{14000}{}{Judith, huh? I will not give a single bottle to that bitch because she didn't pay me for the last time.}
-{15000}{}{It costs 25 caps as it is the only bottle left so far.}
+{14000}{}{Judith, huh? I will not give a single @lex prefix@ to that bitch because she didn't pay me for the last time.}
+{15000}{}{It costs 25 @lex money@ as it is the only @lex prefix@ left so far.}
 {15010}{}{Nevermind...}
 {15020}{}{I take it.}
 {16000}{}{Here you are. Now get lost, I have tonns of things to do.}
@@ -143,12 +143,12 @@ lang=engl czec pols span russ
 {21000}{}{Great... Thanks for help. Here, take this.}
 {21010}{}{As for surroundings... What do you think about making everything in post modern style?}
 {22000}{}{What is "post modern"?}
-{23000}{}{It will cost you 3 caps.}
+{23000}{}{It will cost you 3 @lex money@.}
 {23010}{}{Here you are.}
 {23020}{}{I will be back later.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -164,15 +164,15 @@ lang=engl czec pols span russ
 {4000}{}{Is there something else you want?}
 {4010}{}{Tell me about yourself.}
 {4020}{}{Really, man, whom did you eat?}
-{4030}{}{I am from Francis. He asks for a bottle of beer.}
+{4030}{}{I am from Francis. He asks for a @lex prefix@ of beer.}
 {4040}{}{I'd like to buy some beer.}
 {4050}{}{I'd like to buy some nuka,}
 {4060}{}{I'd like to buy some iguana,}
 {4070}{}{Wanna trade?}
 {4080}{}{Need to go.}
-{4090}{}{I am from Judith, she asks for a bottle of rum.}
-{4100}{}{About that bottle of rum for Judith...}
-{4110}{}{Can you give me a bottle of spoiled beer?}
+{4090}{}{I am from Judith, she asks for a @lex prefix@ of rum.}
+{4100}{}{About that @lex prefix@ of rum for Judith...}
+{4110}{}{Can you give me a @lex prefix@ of spoiled beer?}
 {5000}{}{Well, I was born in small village on South of California. I don't remember my parents but I remember the fact that I trully hated everyone in that trash pit, so I ran away from there. Served a small raider party, but then decided to retire and ended up here.}
 {5010}{}{What happened to your village?}
 {5020}{}{Sad story... Were they all eating people?}
@@ -185,25 +185,25 @@ lang=engl czec pols span russ
 {8000}{}{Francis? Ah yeah, yeah... sure... [he takes something from the fridge] Here it is, give it to him.}
 {8010}{}{I want to ask you about one thing...}
 {8020}{}{Thanks,see ya.}
-{9000}{}{It is 5 bottle caps per bottle.}
+{9000}{}{It is 5 @lex prefix@ @lex money@ per @lex prefix@.}
 {9010}{}{I will take 1.}
 {9020}{}{I will take 2.}
 {9030}{}{I will take 5.}
 {9040}{}{Nevermind...}
-{10000}{}{It is 10 bottle caps per bottle.}
+{10000}{}{It is 10 @lex prefix@ @lex money@ per @lex prefix@.}
 {10010}{}{I will take 1.}
 {10020}{}{I will take 2.}
 {10030}{}{I will take 5.}
 {10040}{}{Nevermind...}
-{11000}{}{It will cost you 7 bottle caps.}
+{11000}{}{It will cost you 7 @lex prefix@ @lex money@.}
 {11010}{}{I will take 1.}
 {11020}{}{I will take 2.}
 {11030}{}{I will take 5.}
 {11040}{}{Nevermind...}
 {12000}{}{Don't waste my time then.}
 {13000}{}{SHUT UP!}
-{14000}{}{Judith, huh? I will not give a single bottle to that bitch because she didn't pay me for the last time.}
-{15000}{}{It costs 25 caps as it is the only bottle left so far.}
+{14000}{}{Judith, huh? I will not give a single @lex prefix@ to that bitch because she didn't pay me for the last time.}
+{15000}{}{It costs 25 @lex money@ as it is the only @lex prefix@ left so far.}
 {15010}{}{Nevermind...}
 {15020}{}{I take it.}
 {16000}{}{Here you are. Now get lost, I have tonns of things to do.}
@@ -214,12 +214,12 @@ lang=engl czec pols span russ
 {21000}{}{Great... Thanks for help. Here, take this.}
 {21010}{}{As for surroundings... What do you think about making everything in post modern style?}
 {22000}{}{What is "post modern"?}
-{23000}{}{It will cost you 3 caps.}
+{23000}{}{It will cost you 3 @lex money@.}
 {23010}{}{Here you are.}
 {23020}{}{I will be back later.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -235,15 +235,15 @@ lang=engl czec pols span russ
 {4000}{}{Is there something else you want?}
 {4010}{}{Tell me about yourself.}
 {4020}{}{Really, man, whom did you eat?}
-{4030}{}{I am from Francis. He asks for a bottle of beer.}
+{4030}{}{I am from Francis. He asks for a @lex prefix@ of beer.}
 {4040}{}{I'd like to buy some beer.}
 {4050}{}{I'd like to buy some nuka,}
 {4060}{}{I'd like to buy some iguana,}
 {4070}{}{Wanna trade?}
 {4080}{}{Need to go.}
-{4090}{}{I am from Judith, she asks for a bottle of rum.}
-{4100}{}{About that bottle of rum for Judith...}
-{4110}{}{Can you give me a bottle of spoiled beer?}
+{4090}{}{I am from Judith, she asks for a @lex prefix@ of rum.}
+{4100}{}{About that @lex prefix@ of rum for Judith...}
+{4110}{}{Can you give me a @lex prefix@ of spoiled beer?}
 {5000}{}{Well, I was born in small village on South of California. I don't remember my parents but I remember the fact that I trully hated everyone in that trash pit, so I ran away from there. Served a small raider party, but then decided to retire and ended up here.}
 {5010}{}{What happened to your village?}
 {5020}{}{Sad story... Were they all eating people?}
@@ -256,25 +256,25 @@ lang=engl czec pols span russ
 {8000}{}{Francis? Ah yeah, yeah... sure... [he takes something from the fridge] Here it is, give it to him.}
 {8010}{}{I want to ask you about one thing...}
 {8020}{}{Thanks,see ya.}
-{9000}{}{It is 5 bottle caps per bottle.}
+{9000}{}{It is 5 @lex prefix@ @lex money@ per @lex prefix@.}
 {9010}{}{I will take 1.}
 {9020}{}{I will take 2.}
 {9030}{}{I will take 5.}
 {9040}{}{Nevermind...}
-{10000}{}{It is 10 bottle caps per bottle.}
+{10000}{}{It is 10 @lex prefix@ @lex money@ per @lex prefix@.}
 {10010}{}{I will take 1.}
 {10020}{}{I will take 2.}
 {10030}{}{I will take 5.}
 {10040}{}{Nevermind...}
-{11000}{}{It will cost you 7 bottle caps.}
+{11000}{}{It will cost you 7 @lex prefix@ @lex money@.}
 {11010}{}{I will take 1.}
 {11020}{}{I will take 2.}
 {11030}{}{I will take 5.}
 {11040}{}{Nevermind...}
 {12000}{}{Don't waste my time then.}
 {13000}{}{SHUT UP!}
-{14000}{}{Judith, huh? I will not give a single bottle to that bitch because she didn't pay me for the last time.}
-{15000}{}{It costs 25 caps as it is the only bottle left so far.}
+{14000}{}{Judith, huh? I will not give a single @lex prefix@ to that bitch because she didn't pay me for the last time.}
+{15000}{}{It costs 25 @lex money@ as it is the only @lex prefix@ left so far.}
 {15010}{}{Nevermind...}
 {15020}{}{I take it.}
 {16000}{}{Here you are. Now get lost, I have tonns of things to do.}
@@ -285,12 +285,12 @@ lang=engl czec pols span russ
 {21000}{}{Great... Thanks for help. Here, take this.}
 {21010}{}{As for surroundings... What do you think about making everything in post modern style?}
 {22000}{}{What is "post modern"?}
-{23000}{}{It will cost you 3 caps.}
+{23000}{}{It will cost you 3 @lex money@.}
 {23010}{}{Here you are.}
 {23020}{}{I will be back later.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -306,15 +306,15 @@ lang=engl czec pols span russ
 {4000}{}{Is there something else you want?}
 {4010}{}{Tell me about yourself.}
 {4020}{}{Really, man, whom did you eat?}
-{4030}{}{I am from Francis. He asks for a bottle of beer.}
+{4030}{}{I am from Francis. He asks for a @lex prefix@ of beer.}
 {4040}{}{I'd like to buy some beer.}
 {4050}{}{I'd like to buy some nuka,}
 {4060}{}{I'd like to buy some iguana,}
 {4070}{}{Wanna trade?}
 {4080}{}{Need to go.}
-{4090}{}{I am from Judith, she asks for a bottle of rum.}
-{4100}{}{About that bottle of rum for Judith...}
-{4110}{}{Can you give me a bottle of spoiled beer?}
+{4090}{}{I am from Judith, she asks for a @lex prefix@ of rum.}
+{4100}{}{About that @lex prefix@ of rum for Judith...}
+{4110}{}{Can you give me a @lex prefix@ of spoiled beer?}
 {5000}{}{Well, I was born in small village on South of California. I don't remember my parents but I remember the fact that I trully hated everyone in that trash pit, so I ran away from there. Served a small raider party, but then decided to retire and ended up here.}
 {5010}{}{What happened to your village?}
 {5020}{}{Sad story... Were they all eating people?}
@@ -327,25 +327,25 @@ lang=engl czec pols span russ
 {8000}{}{Francis? Ah yeah, yeah... sure... [he takes something from the fridge] Here it is, give it to him.}
 {8010}{}{I want to ask you about one thing...}
 {8020}{}{Thanks,see ya.}
-{9000}{}{It is 5 bottle caps per bottle.}
+{9000}{}{It is 5 @lex prefix@ @lex money@ per @lex prefix@.}
 {9010}{}{I will take 1.}
 {9020}{}{I will take 2.}
 {9030}{}{I will take 5.}
 {9040}{}{Nevermind...}
-{10000}{}{It is 10 bottle caps per bottle.}
+{10000}{}{It is 10 @lex prefix@ @lex money@ per @lex prefix@.}
 {10010}{}{I will take 1.}
 {10020}{}{I will take 2.}
 {10030}{}{I will take 5.}
 {10040}{}{Nevermind...}
-{11000}{}{It will cost you 7 bottle caps.}
+{11000}{}{It will cost you 7 @lex prefix@ @lex money@.}
 {11010}{}{I will take 1.}
 {11020}{}{I will take 2.}
 {11030}{}{I will take 5.}
 {11040}{}{Nevermind...}
 {12000}{}{Don't waste my time then.}
 {13000}{}{SHUT UP!}
-{14000}{}{Judith, huh? I will not give a single bottle to that bitch because she didn't pay me for the last time.}
-{15000}{}{It costs 25 caps as it is the only bottle left so far.}
+{14000}{}{Judith, huh? I will not give a single @lex prefix@ to that bitch because she didn't pay me for the last time.}
+{15000}{}{It costs 25 @lex money@ as it is the only @lex prefix@ left so far.}
 {15010}{}{Nevermind...}
 {15020}{}{I take it.}
 {16000}{}{Here you are. Now get lost, I have tonns of things to do.}
@@ -356,12 +356,12 @@ lang=engl czec pols span russ
 {21000}{}{Great... Thanks for help. Here, take this.}
 {21010}{}{As for surroundings... What do you think about making everything in post modern style?}
 {22000}{}{What is "post modern"?}
-{23000}{}{It will cost you 3 caps.}
+{23000}{}{It will cost you 3 @lex money@.}
 {23010}{}{Here you are.}
 {23020}{}{I will be back later.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -377,15 +377,15 @@ lang=engl czec pols span russ
 {4000}{}{Is there something else you want?}
 {4010}{}{Tell me about yourself.}
 {4020}{}{Really, man, whom did you eat?}
-{4030}{}{I am from Francis. He asks for a bottle of beer.}
+{4030}{}{I am from Francis. He asks for a @lex prefix@ of beer.}
 {4040}{}{I'd like to buy some beer.}
 {4050}{}{I'd like to buy some nuka,}
 {4060}{}{I'd like to buy some iguana,}
 {4070}{}{Wanna trade?}
 {4080}{}{Need to go.}
-{4090}{}{I am from Judith, she asks for a bottle of rum.}
-{4100}{}{About that bottle of rum for Judith...}
-{4110}{}{Can you give me a bottle of spoiled beer?}
+{4090}{}{I am from Judith, she asks for a @lex prefix@ of rum.}
+{4100}{}{About that @lex prefix@ of rum for Judith...}
+{4110}{}{Can you give me a @lex prefix@ of spoiled beer?}
 {5000}{}{Well, I was born in small village on South of California. I don't remember my parents but I remember the fact that I trully hated everyone in that trash pit, so I ran away from there. Served a small raider party, but then decided to retire and ended up here.}
 {5010}{}{What happened to your village?}
 {5020}{}{Sad story... Were they all eating people?}
@@ -398,25 +398,25 @@ lang=engl czec pols span russ
 {8000}{}{Francis? Ah yeah, yeah... sure... [he takes something from the fridge] Here it is, give it to him.}
 {8010}{}{I want to ask you about one thing...}
 {8020}{}{Thanks,see ya.}
-{9000}{}{It is 5 bottle caps per bottle.}
+{9000}{}{It is 5 @lex prefix@ @lex money@ per @lex prefix@.}
 {9010}{}{I will take 1.}
 {9020}{}{I will take 2.}
 {9030}{}{I will take 5.}
 {9040}{}{Nevermind...}
-{10000}{}{It is 10 bottle caps per bottle.}
+{10000}{}{It is 10 @lex prefix@ @lex money@ per @lex prefix@.}
 {10010}{}{I will take 1.}
 {10020}{}{I will take 2.}
 {10030}{}{I will take 5.}
 {10040}{}{Nevermind...}
-{11000}{}{It will cost you 7 bottle caps.}
+{11000}{}{It will cost you 7 @lex prefix@ @lex money@.}
 {11010}{}{I will take 1.}
 {11020}{}{I will take 2.}
 {11030}{}{I will take 5.}
 {11040}{}{Nevermind...}
 {12000}{}{Don't waste my time then.}
 {13000}{}{SHUT UP!}
-{14000}{}{Judith, huh? I will not give a single bottle to that bitch because she didn't pay me for the last time.}
-{15000}{}{It costs 25 caps as it is the only bottle left so far.}
+{14000}{}{Judith, huh? I will not give a single @lex prefix@ to that bitch because she didn't pay me for the last time.}
+{15000}{}{It costs 25 @lex money@ as it is the only @lex prefix@ left so far.}
 {15010}{}{Nevermind...}
 {15020}{}{I take it.}
 {16000}{}{Here you are. Now get lost, I have tonns of things to do.}
@@ -427,7 +427,7 @@ lang=engl czec pols span russ
 {21000}{}{Great... Thanks for help. Here, take this.}
 {21010}{}{As for surroundings... What do you think about making everything in post modern style?}
 {22000}{}{What is "post modern"?}
-{23000}{}{It will cost you 3 caps.}
+{23000}{}{It will cost you 3 @lex money@.}
 {23010}{}{Here you are.}
 {23020}{}{I will be back later.}
 

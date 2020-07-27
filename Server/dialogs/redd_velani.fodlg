@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 @
-3 2000 None 0 &
+3 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Velani}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Caravans ain't running, kid. Scram.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Caravans ain't running, kid. Scram.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Caravans ain't running, kid. Scram.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Caravans ain't running, kid. Scram.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Caravans ain't running, kid. Scram.}

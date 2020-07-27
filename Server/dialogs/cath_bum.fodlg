@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Bum}
@@ -29,25 +29,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Hello.@@Ehh . . . ehh . . . yeh?@@You gotta be gone soon?@@The caves are evil! EVIL!@@Wanna bring me some . . . uhm . . . alcohol?@@Can you hear that? CAN-YOU-HEAR-THAT?@@Who is this JDA anyway . . .}

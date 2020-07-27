@@ -6,13 +6,13 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 3 1020 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 0 2020 @
-3 3000 None 0 &
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Drug dealer}
@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}

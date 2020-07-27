@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 R _script map_events@dlg_toenclave 0  #
 7 2020 R _script map_events@dlg_tobos 0  #
 8 2030 R _script map_events@dlg_toncr 0  #
@@ -18,10 +18,10 @@ lang=engl czec pols span russ
 9 2070 D _var p name_mem_npc_player = 0 #
 8 2080 R _script map_events@dlg_tounity 0  #
 0 2090 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 4 4010 R _script map_events@dlg_disenclave 0  #
 4 4020 R _script map_events@dlg_disbos 0  #
 4 4030 R _script map_events@dlg_disncr 0  #
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 4 4050 R _script map_events@dlg_disdef 0  #
 4 4060 R _script map_events@dlg_disunity 0  #
 5 4070 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 5 5010 R _script map_events@dlg_addenclave 0  #
 5 5020 R _script map_events@dlg_addbos 0  #
 5 5030 R _script map_events@dlg_addncr 0  #
@@ -37,10 +37,10 @@ lang=engl czec pols span russ
 5 5050 R _script map_events@dlg_adddef 0  #
 5 5060 R _script map_events@dlg_addunity 0  #
 4 5070 @
-6 6000 None 0 @
-7 7000 None 0 @
-8 8000 None 0 @
-9 9000 None 0 #
+6 6000 main@dlg_Caps 0 @
+7 7000 main@dlg_Caps 0 @
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 2 9010 R _var p name_mem_npc_player = 1 &
 
 [engl]
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}
@@ -203,7 +203,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}

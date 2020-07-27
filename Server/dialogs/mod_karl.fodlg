@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 5 1010 D _param p ST_INTELLECT < 4 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
-6 3010 D _item p PID_BOTTLE_CAPS > 999 R _script dialog@r_RemoveMoney 1 1000 R _param p ST_KARMA + 50 #
-6 3020 D _item p PID_BOTTLE_CAPS > 24 R _script dialog@r_RemoveMoney 1 25 #
-6 3030 D _item p PID_BOTTLE_CAPS > 0 R _script dialog@r_RemoveMoney 1 1 #
+3 3000 main@dlg_Caps 0 #
+6 3010 D _script dialog@d_havepropermoney 1 999 R _script dialog@r_RemoveMoney 1 1000 R _param p ST_KARMA + 50 #
+6 3020 D _script dialog@d_havepropermoney 1 24 R _script dialog@r_RemoveMoney 1 25 #
+6 3030 D _script dialog@d_havepropermoney 1 0 R _script dialog@r_RemoveMoney 1 1 #
 4 3040 @
-4 4000 None 0 @
-5 5000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 0 5010 #
 0 5020 #
 0 5030 @
-6 6000 None 0 &
+6 6000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Karl}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}

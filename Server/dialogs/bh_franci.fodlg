@@ -6,47 +6,47 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 #
 13 1020 D _var p loyality < 0 #
 14 1030 D _param p ST_KARMA < -50 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 5 2010 #
 6 2020 #
 500 2030 D _script perks@d_PerkCheck 1 314 R _param p PE_STRONG_BACK = 1 #
 0 2040 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 3 4010 D _param p ST_INTELLECT > 4 #
 10 4020 D _param p ST_INTELLECT < 4 #
 0 4030 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 9 5010 #
 3 5020 @
-9 6000 None 0 #
+9 6000 main@dlg_Caps 0 #
 0 6010 #
 0 6020 @
-10 7000 None 0 #
+10 7000 main@dlg_Caps 0 #
 11 7010 #
 12 7020 R _var p loyality - 10 #
 0 7030 @
-11 8000 None 0 #
+11 8000 main@dlg_Caps 0 #
 3 8010 #
 0 8020 @
-12 9000 None 0 #
+12 9000 main@dlg_Caps 0 #
 0 9010 @
-13 10000 None 0 @
-14 11000 None 0 @
-15 12000 None 0 #
+13 10000 main@dlg_Caps 0 @
+14 11000 main@dlg_Caps 0 @
+15 12000 main@dlg_Caps 0 #
 15 12010 #
 0 12020 @
-16 13000 None 0 #
+16 13000 main@dlg_Caps 0 #
 16 13010 @
-17 14000 None 0 #
+17 14000 main@dlg_Caps 0 #
 3 14010 #
 0 14020 @
-500 15000 None 0 #
+500 15000 main@dlg_Caps 0 #
 0 15010 &
 
 [engl]
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -233,7 +233,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}

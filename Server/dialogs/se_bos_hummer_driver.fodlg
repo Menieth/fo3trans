@@ -6,31 +6,31 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 11 1010 D _script dialog@d_IsNotLocationOwner 0  #
 10 1020 D _var p q_bos_hummer = 4 #
 6 1030 D _var p name_mem_npc_player = 1 D _var p q_bos_hummer = 1 D or D _var p q_bos_hummer = 2 #
 2 1040 D _var p name_mem_npc_player = 0 D _var p q_bos_initiatequest_start = 21 D _script dialog@d_IsLocationOwner 0  @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var p name_mem_npc_player = 1 #
 9 2020 R _var p name_mem_npc_player = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 D _param p SK_SCIENCE > 85 D _param p SK_REPAIR < 75 D or D _param p ST_INTELLECT > 6 D _param p SK_REPAIR < 75 #
 4 3020 D _param p SK_REPAIR } 75 #
 0 3030 R _var p q_bos_hummer = 1 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 R _var p q_bos_initiatequest_start = 23 R _param p ST_EXPERIENCE + 350 R _script quest_bos_initiate@r_RetireMap 0  R _var p q_bos_hummer = 4 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _var p q_bos_hummer = 2 D _item p PID_CAR_REPLACEMENT_PARTS = 1 R _item p PID_CAR_REPLACEMENT_PARTS - 1 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 R _var p q_bos_initiatequest_start = 22 R _param p ST_EXPERIENCE + 250 R _script quest_bos_initiate@r_RetireMap 0  R _var p q_bos_hummer = 4 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 3 8010 @
-10 9000 None 0 @
-11 10000 None 0 &
+10 9000 main@dlg_Caps 0 @
+11 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Paladin Driver}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}

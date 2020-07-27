@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 5 4020 D _item p PID_TANKER_FOB } 1 R _item p PID_TANKER_FOB - 1 R _item p PID_ENCLAVE_COMBAT_ARMOR + 1 R _item p PID_ENCLAVE_COMBAT_HELMET + 1 #
 5 4030 D _item p PID_TANKER_FOB } 1 R _item p PID_TANKER_FOB - 1 R _item p PID_ENCLAVE_COMBAT_HELMET_MK2 + 1 #
@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 5 4110 D _item p PID_TANKER_FOB } 1 R _item p PID_TANKER_FOB - 1 R _item p PID_V13_KEY + 1 #
 5 4120 D _item p PID_TANKER_FOB } 1 R _item p PID_TANKER_FOB - 1 R _item p PID_HOWITZER_SHELL + 1 #
 5 4130 D _item p PID_TANKER_FOB } 1 R _item p PID_TANKER_FOB - 1 R _item p PID_4_7MM_CASELESS + 100 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Quartermaster}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {5000}{}{Here you go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it soldier?}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {5000}{}{Here you go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it soldier?}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {5000}{}{Here you go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it soldier?}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {5000}{}{Here you go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it soldier?}

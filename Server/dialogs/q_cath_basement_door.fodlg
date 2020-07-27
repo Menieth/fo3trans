@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 2 2010 R _script dialog@r_TeleportToMap 2 76 5 #
 0 2020 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to check if all is fine. See you later...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to check if all is fine. See you later...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to check if all is fine. See you later...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to check if all is fine. See you later...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[At the end of the brittle old wooden stairs is the blocked trap door. You hammer against it with your first three times, then it opens and Patrick is looking through a small gap.] ... }

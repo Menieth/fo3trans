@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p wow_ryan = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 D _param p SK_REPAIR } 120 R _var p wow_ryan = 2 R _param p ST_EXPERIENCE + 400 #
 0 2020 D _item p PID_SUPER_TOOL_KIT } 1 R _var p wow_ryan = 2 R _item p PID_SUPER_TOOL_KIT - 1 R _param p ST_EXPERIENCE + 400 #
 0 2030 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This express city liner seems totally out of shape. The repair will require a fine set of tools. ]}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Leave ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This express city liner seems totally out of shape. The repair will require a fine set of tools. ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Leave ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This express city liner seems totally out of shape. The repair will require a fine set of tools. ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Leave ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This express city liner seems totally out of shape. The repair will require a fine set of tools. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Leave ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This express city liner seems totally out of shape. The repair will require a fine set of tools. ]}

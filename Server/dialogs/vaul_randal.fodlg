@@ -8,64 +8,64 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 24 1010 D _param p ST_CHARISMA > 99 #
 50 1020 D _script dialog@d_CheckNight 0  #
 40 1030 D _param p ST_INTELLECT < 4 #
 2 1040 D _var n name_mem_npc_player = 0 #
 10 1050 D _var n name_mem_npc_player > 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p factions_player_faction = 6 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 20 2020 D _script dialog@d_IsNotMember 0  #
 100 2030 D _var p factions_q_vc_kohl_books > 9 D _var p factions_q_vc_kohl_books < 11111 D _var n name_mem_npc_player < 3 R _var n name_mem_npc_player = 2 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 65506 3010 #
 4 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-10 6000 None 0 #
+10 6000 main@dlg_Caps 0 #
 3 6010 #
 4 6020 #
 100 6030 D _var p factions_q_vc_kohl_books > 9 D _var p factions_q_vc_kohl_books < 11111 D _var n acquaintance = 0 #
 0 6040 @
-20 7000 None 0 #
+20 7000 main@dlg_Caps 0 #
 21 7010 #
 23 7020 #
 0 7030 @
-21 8000 None 0 #
+21 8000 main@dlg_Caps 0 #
 22 8010 #
 0 8020 @
-22 9000 None 0 #
+22 9000 main@dlg_Caps 0 #
 23 9010 #
 65507 9020 #
 0 9030 @
-23 10000 None 0 #
+23 10000 main@dlg_Caps 0 #
 65507 10010 #
 0 10020 @
-40 11000 None 0 #
+40 11000 main@dlg_Caps 0 #
 41 11010 #
 0 11020 #
 0 11030 @
-41 12000 None 0 #
+41 12000 main@dlg_Caps 0 #
 0 12010 #
 0 12020 @
-50 13000 None 0 @
-100 14000 None 0 #
+50 13000 main@dlg_Caps 0 @
+100 14000 main@dlg_Caps 0 #
 101 14010 #
 0 14020 @
-101 15000 None 0 #
+101 15000 main@dlg_Caps 0 #
 102 15010 R _var n acquaintance = 1 R _item p PID_SCOUT_HANDBOOK + 1 #
 0 15020 @
-102 16000 None 0 #
+102 16000 main@dlg_Caps 0 #
 103 16010 D _param p ST_CHARISMA > 4 R _var p factions_q_vc_kohl_books = 11 #
 0 16020 @
-103 17000 None 0 #
+103 17000 main@dlg_Caps 0 #
 0 17010 @
-24 18000 None 0 &
+24 18000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Randal}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}
@@ -253,7 +253,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}
@@ -314,7 +314,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}

@@ -6,17 +6,17 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p x7_generator = 0 #
 3 1020 D _var p x7_generator = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 R _script dialog@r_OpenDoor 2 48 600 R _var p x7_generator = 0 #
 0 3020 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
