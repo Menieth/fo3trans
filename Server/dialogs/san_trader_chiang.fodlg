@@ -6,35 +6,35 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 5 1020 D _var p name_mem_npc_player = 1 #
 8 1030 D _param p ST_CHARISMA > 99 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 3 2020 #
 20 2030 D _item p PID_Q_GUNRUNNER_COURIER_BOX > 0 D _var p q_la_gunr_courier = 3 R _param p REPUTATION_COMMUNISTS + 2 R _var p q_la_gunr_courier = 7 R _item p PID_Q_GUNRUNNER_COURIER_BOX - 1 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 #
 7 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 65506 5010 #
 3 5020 #
 20 5030 D _var p q_la_gunr_courier = 3 D _item p PID_Q_GUNRUNNER_COURIER_BOX > 0 R _param p REPUTATION_COMMUNISTS + 2 R _var p q_la_gunr_courier = 7 R _item p PID_Q_GUNRUNNER_COURIER_BOX - 1 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 5 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 5 7010 #
 0 7020 @
-8 8000 None 0 @
-20 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+20 9000 main@dlg_Caps 0 #
 0 9010 &
 
 [engl]
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}

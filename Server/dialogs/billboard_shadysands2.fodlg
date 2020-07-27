@@ -6,43 +6,43 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 D _param p ST_INTELLECT } 4 #
 0 2030 D _param p ST_INTELLECT < 4 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 2 3020 #
 0 3030 D _param p ST_INTELLECT } 4 #
 0 3040 D _param p ST_INTELLECT < 4 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 3 4020 #
 0 4030 D _param p ST_INTELLECT } 4 #
 0 4040 D _param p ST_INTELLECT < 4 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 4 5020 #
 0 5030 D _param p ST_INTELLECT } 4 #
 0 5040 D _param p ST_INTELLECT < 4 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 5 6020 #
 0 6030 D _param p ST_INTELLECT } 4 #
 0 6040 D _param p ST_INTELLECT < 4 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 6 7020 #
 0 7030 D _param p ST_INTELLECT } 4 #
 0 7040 D _param p ST_INTELLECT < 4 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 7 8020 #
 0 8030 D _param p ST_INTELLECT } 4 #
 0 8040 D _param p ST_INTELLECT < 4 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 8 9010 #
 0 9020 D _param p ST_INTELLECT } 4 #
 0 9030 D _param p ST_INTELLECT < 4 &
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}
@@ -138,7 +138,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}
@@ -224,7 +224,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}

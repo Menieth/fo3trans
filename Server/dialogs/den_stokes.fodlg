@@ -6,99 +6,99 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p q_raiders_induction = 0 #
 3 1020 D _var p q_raiders_induction = 1 #
 35 1030 D _var p q_raiders_induction = 4 D _var p acquaintance = 0 #
 29 1040 D _var p q_raiders_induction > 1 D _var n acquaintance = 0 #
 38 1050 D _var n acquaintance = 1 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 D _param p REPUTATION_RAIDERS < -200 #
 7 4020 D _param p REPUTATION_RAIDERS > -199 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 65507 5010 #
 3 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 65507 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 10 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 11 9010 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 #
 15 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 0 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 16 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 #
 20 17020 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 20 18010 #
 19 18020 D _param p ST_GENDER = 0 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 65507 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 #
 22 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 23 21010 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 25 23010 #
 24 23020 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 0 24010 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 26 25010 R _script dialog@r_ShowLocation 1 29 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 27 26010 @
-27 27000 None 0 #
+27 27000 main@dlg_Caps 0 #
 28 27010 @
-28 28000 None 0 #
+28 28000 main@dlg_Caps 0 #
 0 28010 R _var p q_raiders_induction = 2 @
-29 29000 None 0 #
+29 29000 main@dlg_Caps 0 #
 0 29010 D _var p q_raiders_induction = 2 #
 30 29020 D _var p q_raiders_induction = 2 #
 35 29030 D _var p q_raiders_induction = 4 @
-30 30000 None 0 #
+30 30000 main@dlg_Caps 0 #
 31 30010 @
-31 31000 None 0 #
+31 31000 main@dlg_Caps 0 #
 32 31010 @
-32 32000 None 0 #
+32 32000 main@dlg_Caps 0 #
 33 32010 @
-33 33000 None 0 #
+33 33000 main@dlg_Caps 0 #
 34 33010 @
-34 34000 None 0 #
+34 34000 main@dlg_Caps 0 #
 0 34010 @
-35 35000 None 0 #
+35 35000 main@dlg_Caps 0 #
 36 35010 @
-36 36000 None 0 #
+36 36000 main@dlg_Caps 0 #
 37 36010 R _script dialog@r_AddMoney 1 500 R _item p PID_7_62MM_AMMO + 100 R _item p PID_FN_FAL_HPFA + 1 R _item p PID_BEER + 2 R _item p PID_JET + 2 R _var p acquaintance = 1 R _var p q_raiders_induction = 5 @
-37 37000 None 0 #
+37 37000 main@dlg_Caps 0 #
 0 37010 @
-38 38000 None 0 &
+38 38000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Stokes}
@@ -203,7 +203,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}
@@ -299,7 +299,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}
@@ -395,7 +395,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}
@@ -491,7 +491,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}

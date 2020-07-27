@@ -6,41 +6,41 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 2020 #
 0 2030 #
 9 2040 D _var p radio_alice = 2 R _var p radio_alice = 3 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 2 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _var p radio_alice = 0 #
 65507 5020 #
 13 5030 #
 2 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 #
 7 6020 D _var p radio_alice = 0 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _var p radio_alice = 0 R _var p radio_alice = 1 R _item p PID_PLASTIC_EXPLOSIVES + 1 #
 0 7020 @
-8 8000 None 0 @
-9 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 0 9010 R _item p PID_BOTTLE_CAPS + 1300 R _param p ST_EXPERIENCE + 3000 #
 10 9020 D _param p SK_BARTER } 70 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 D _param p SK_BARTER } 100 R _item p PID_BOTTLE_CAPS + 2100 R _param p ST_EXPERIENCE + 4000 #
 0 10020 R _param p ST_EXPERIENCE + 3500 R _item p PID_BOTTLE_CAPS + 1700 @
-11 11000 None 0 @
-13 12000 None 0 &
+11 11000 main@dlg_Caps 0 @
+13 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Alice}
@@ -71,17 +71,17 @@ lang=engl czec pols span russ
 {7010}{}{Fine, I am on it.}
 {7020}{}{On the second thought... I don't want to get into this. Later.}
 {8000}{}{Alright. Just place the explosives, my man there will do the rest.}
-{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 @lex money@?}
 {9010}{}{Deal.}
 {9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
-{10000}{}{You get a point. 1700 caps.}
+{10000}{}{You get a point. 1700 @lex money@.}
 {10010}{}{Ah come on. Do you really call it a fine payment?}
 {10020}{}{Deal.}
-{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 @lex money@. But don't ask for a single cap more.}
 {12000}{}{Well, beat it, jerk.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.}
@@ -109,17 +109,17 @@ lang=engl czec pols span russ
 {7010}{}{Fine, I am on it.}
 {7020}{}{On the second thought... I don't want to get into this. Later.}
 {8000}{}{Alright. Just place the explosives, my man there will do the rest.}
-{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 @lex money@?}
 {9010}{}{Deal.}
 {9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
-{10000}{}{You get a point. 1700 caps.}
+{10000}{}{You get a point. 1700 @lex money@.}
 {10010}{}{Ah come on. Do you really call it a fine payment?}
 {10020}{}{Deal.}
-{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 @lex money@. But don't ask for a single cap more.}
 {12000}{}{Well, beat it, jerk.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.}
@@ -147,17 +147,17 @@ lang=engl czec pols span russ
 {7010}{}{Fine, I am on it.}
 {7020}{}{On the second thought... I don't want to get into this. Later.}
 {8000}{}{Alright. Just place the explosives, my man there will do the rest.}
-{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 @lex money@?}
 {9010}{}{Deal.}
 {9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
-{10000}{}{You get a point. 1700 caps.}
+{10000}{}{You get a point. 1700 @lex money@.}
 {10010}{}{Ah come on. Do you really call it a fine payment?}
 {10020}{}{Deal.}
-{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 @lex money@. But don't ask for a single cap more.}
 {12000}{}{Well, beat it, jerk.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.}
@@ -185,17 +185,17 @@ lang=engl czec pols span russ
 {7010}{}{Fine, I am on it.}
 {7020}{}{On the second thought... I don't want to get into this. Later.}
 {8000}{}{Alright. Just place the explosives, my man there will do the rest.}
-{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 @lex money@?}
 {9010}{}{Deal.}
 {9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
-{10000}{}{You get a point. 1700 caps.}
+{10000}{}{You get a point. 1700 @lex money@.}
 {10010}{}{Ah come on. Do you really call it a fine payment?}
 {10020}{}{Deal.}
-{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 @lex money@. But don't ask for a single cap more.}
 {12000}{}{Well, beat it, jerk.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.}
@@ -223,12 +223,12 @@ lang=engl czec pols span russ
 {7010}{}{Fine, I am on it.}
 {7020}{}{On the second thought... I don't want to get into this. Later.}
 {8000}{}{Alright. Just place the explosives, my man there will do the rest.}
-{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 caps?}
+{9000}{}{My man has already told me about it. Good job. So... What do you think about 1300 @lex money@?}
 {9010}{}{Deal.}
 {9020}{}{Getting in some restricted area... Passing through guards... Risking my life... I think you get the idea.}
-{10000}{}{You get a point. 1700 caps.}
+{10000}{}{You get a point. 1700 @lex money@.}
 {10010}{}{Ah come on. Do you really call it a fine payment?}
 {10020}{}{Deal.}
-{11000}{}{Argh... Fine! Damn you, here are your 2100 caps. But don't ask for a single cap more.}
+{11000}{}{Argh... Fine! Damn you, here are your 2100 @lex money@. But don't ask for a single cap more.}
 {12000}{}{Well, beat it, jerk.}
 

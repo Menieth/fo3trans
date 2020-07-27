@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 1 &
+2 2000 main@dlg_Caps 1 &
 
 [engl]
 {100}{}{Christofer}
@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, welcome in Hawthorne.@@Just don't cause problems and we will be fine.@@Have you seen my brother Christian already?@@Hello.@@Hey there. What is it?}

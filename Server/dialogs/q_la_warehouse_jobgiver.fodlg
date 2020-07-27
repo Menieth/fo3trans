@@ -6,44 +6,44 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p q_la_warehouse } 2 #
 15 1020 D _var p q_la_warehouse = 1 #
 8 1030 D _param p ST_CHARISMA < 4 D _param p ST_GENDER = 1 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 8 1040 D _param p ST_CHARISMA < 4 D _param p ST_GENDER = 0 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 2 1050 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 6 1060 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 11 2010 #
 12 2020 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 0 4010 R _script quest_la_warehouse@r_SpawnMap 0  R _var p q_la_warehouse = 1 R _item p PID_Q_LA_WAREHOUSE_LETTER + 1 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 11 5010 #
 12 5020 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 10 6010 #
 9 6020 R _var p name_mem_npc_player = 0 @
-9 7000 None 0 #
+9 7000 main@dlg_Caps 0 #
 9 7010 R _var p q_la_warehouse_fuck_loop + 1 #
 0 7020 D _var p q_la_warehouse_fuck_loop > 2 #
 0 7030 D _var p q_la_warehouse_fuck_loop { 2 @
-10 8000 None 0 #
+10 8000 main@dlg_Caps 0 #
 11 8010 #
 12 8020 @
-11 9000 None 0 #
+11 9000 main@dlg_Caps 0 #
 4 9010 #
 13 9020 D _param p SK_BARTER < 55 #
 14 9030 D _param p SK_BARTER } 55 #
 12 9040 @
-12 10000 None 0 @
-13 11000 None 0 #
+12 10000 main@dlg_Caps 0 @
+13 11000 main@dlg_Caps 0 #
 4 11010 #
 12 11020 @
-14 12000 None 0 #
+14 12000 main@dlg_Caps 0 #
 4 12010 R _script dialog@r_AddMoney 1 25 @
-15 13000 None 0 &
+15 13000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Punk}
@@ -77,19 +77,19 @@ lang=engl czec pols span russ
 {8020}{}{Not interested, bye...}
 {9000}{}{I need yeh to deliver a message to a friend of me in te industrial park. It is in te west of here. Yeh want to do it?}
 {9010}{}{Sure, give it to me and I'll do it.}
-{9020}{}{Give me some caps and I'll do it.}
-{9030}{}{Give me some caps and I'll do it.}
+{9020}{}{Give me some @lex money@ and I'll do it.}
+{9030}{}{Give me some @lex money@ and I'll do it.}
 {9040}{}{Doesn't looks like I will hit the road into that direction anytime soon. Maybe later. So long, see you.}
 {10000}{}{Ma'be later, yeh?}
-{11000}{}{Yeh get 100 caps if yeh have done te job. Not before.}
+{11000}{}{Yeh get 100 @lex money@ if yeh have done te job. Not before.}
 {11010}{}{Okay, I'll do the job.}
 {11020}{}{Not going to do this then, bye.}
-{12000}{}{Yeh get 100 caps if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 caps now, later more.}
+{12000}{}{Yeh get 100 @lex money@ if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 @lex money@ now, later more.}
 {12010}{}{I am on my way.}
-{13000}{}{Do te job and yeh get yeh bottle caps.}
+{13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -118,19 +118,19 @@ lang=engl czec pols span russ
 {8020}{}{Not interested, bye...}
 {9000}{}{I need yeh to deliver a message to a friend of me in te industrial park. It is in te west of here. Yeh want to do it?}
 {9010}{}{Sure, give it to me and I'll do it.}
-{9020}{}{Give me some caps and I'll do it.}
-{9030}{}{Give me some caps and I'll do it.}
+{9020}{}{Give me some @lex money@ and I'll do it.}
+{9030}{}{Give me some @lex money@ and I'll do it.}
 {9040}{}{Doesn't looks like I will hit the road into that direction anytime soon. Maybe later. So long, see you.}
 {10000}{}{Ma'be later, yeh?}
-{11000}{}{Yeh get 100 caps if yeh have done te job. Not before.}
+{11000}{}{Yeh get 100 @lex money@ if yeh have done te job. Not before.}
 {11010}{}{Okay, I'll do the job.}
 {11020}{}{Not going to do this then, bye.}
-{12000}{}{Yeh get 100 caps if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 caps now, later more.}
+{12000}{}{Yeh get 100 @lex money@ if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 @lex money@ now, later more.}
 {12010}{}{I am on my way.}
-{13000}{}{Do te job and yeh get yeh bottle caps.}
+{13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -159,19 +159,19 @@ lang=engl czec pols span russ
 {8020}{}{Not interested, bye...}
 {9000}{}{I need yeh to deliver a message to a friend of me in te industrial park. It is in te west of here. Yeh want to do it?}
 {9010}{}{Sure, give it to me and I'll do it.}
-{9020}{}{Give me some caps and I'll do it.}
-{9030}{}{Give me some caps and I'll do it.}
+{9020}{}{Give me some @lex money@ and I'll do it.}
+{9030}{}{Give me some @lex money@ and I'll do it.}
 {9040}{}{Doesn't looks like I will hit the road into that direction anytime soon. Maybe later. So long, see you.}
 {10000}{}{Ma'be later, yeh?}
-{11000}{}{Yeh get 100 caps if yeh have done te job. Not before.}
+{11000}{}{Yeh get 100 @lex money@ if yeh have done te job. Not before.}
 {11010}{}{Okay, I'll do the job.}
 {11020}{}{Not going to do this then, bye.}
-{12000}{}{Yeh get 100 caps if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 caps now, later more.}
+{12000}{}{Yeh get 100 @lex money@ if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 @lex money@ now, later more.}
 {12010}{}{I am on my way.}
-{13000}{}{Do te job and yeh get yeh bottle caps.}
+{13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -200,19 +200,19 @@ lang=engl czec pols span russ
 {8020}{}{Not interested, bye...}
 {9000}{}{I need yeh to deliver a message to a friend of me in te industrial park. It is in te west of here. Yeh want to do it?}
 {9010}{}{Sure, give it to me and I'll do it.}
-{9020}{}{Give me some caps and I'll do it.}
-{9030}{}{Give me some caps and I'll do it.}
+{9020}{}{Give me some @lex money@ and I'll do it.}
+{9030}{}{Give me some @lex money@ and I'll do it.}
 {9040}{}{Doesn't looks like I will hit the road into that direction anytime soon. Maybe later. So long, see you.}
 {10000}{}{Ma'be later, yeh?}
-{11000}{}{Yeh get 100 caps if yeh have done te job. Not before.}
+{11000}{}{Yeh get 100 @lex money@ if yeh have done te job. Not before.}
 {11010}{}{Okay, I'll do the job.}
 {11020}{}{Not going to do this then, bye.}
-{12000}{}{Yeh get 100 caps if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 caps now, later more.}
+{12000}{}{Yeh get 100 @lex money@ if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 @lex money@ now, later more.}
 {12010}{}{I am on my way.}
-{13000}{}{Do te job and yeh get yeh bottle caps.}
+{13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -241,14 +241,14 @@ lang=engl czec pols span russ
 {8020}{}{Not interested, bye...}
 {9000}{}{I need yeh to deliver a message to a friend of me in te industrial park. It is in te west of here. Yeh want to do it?}
 {9010}{}{Sure, give it to me and I'll do it.}
-{9020}{}{Give me some caps and I'll do it.}
-{9030}{}{Give me some caps and I'll do it.}
+{9020}{}{Give me some @lex money@ and I'll do it.}
+{9030}{}{Give me some @lex money@ and I'll do it.}
 {9040}{}{Doesn't looks like I will hit the road into that direction anytime soon. Maybe later. So long, see you.}
 {10000}{}{Ma'be later, yeh?}
-{11000}{}{Yeh get 100 caps if yeh have done te job. Not before.}
+{11000}{}{Yeh get 100 @lex money@ if yeh have done te job. Not before.}
 {11010}{}{Okay, I'll do the job.}
 {11020}{}{Not going to do this then, bye.}
-{12000}{}{Yeh get 100 caps if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 caps now, later more.}
+{12000}{}{Yeh get 100 @lex money@ if yeh have done te job. But yeh seem to be trusty. Here, yeh get 25 @lex money@ now, later more.}
 {12010}{}{I am on my way.}
-{13000}{}{Do te job and yeh get yeh bottle caps.}
+{13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 

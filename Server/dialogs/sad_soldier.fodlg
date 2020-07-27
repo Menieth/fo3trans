@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Soldier from Sierra}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}

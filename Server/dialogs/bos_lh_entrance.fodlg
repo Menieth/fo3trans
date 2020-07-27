@@ -6,68 +6,68 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _script dialog@d_IsMember 0  #
 20 1020 D _var p acquaintance = 1 #
 21 1030 D _var p acquaintance = 2 #
 3 1040 D _script dialog@d_IsDisguised 0  #
 2 1050 @
-3 2000 None 0 @
-2 3000 None 0 #
+3 2000 main@dlg_Caps 0 @
+2 3000 main@dlg_Caps 0 #
 4 3010 #
 50 3020 D _var p q_la_gunrunners_caravan > 0 D _item p PID_Q_GUNRUNNER_BOX > 0 D _var p q_la_gunrunners_caravan ! 3 D _var p q_la_gunrunners_caravan ! 4 D _var p q_la_gunrunners_caravan ! 5 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 5 6020 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 9 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 #
 65507 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 D _script dialog@d_NotMemberOfAnyFaction 0  D _var p acquaintance = 0 #
 0 9020 @
-10 10000 None 0 @
-11 11000 None 0 #
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 D _param p ST_CHARISMA > 5 #
 14 12020 D _param p ST_CHARISMA < 6 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 R _var p acquaintance = 1 #
 30 13020 D _item p PID_5MM_AP > 119 R _item p PID_5MM_AP - 120 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 R _var p acquaintance = 2 #
 30 14020 D _item p PID_ROCKET_AP > 19 R _item p PID_ROCKET_AP - 20 @
-20 15000 None 0 #
+20 15000 main@dlg_Caps 0 #
 30 15010 D _item p PID_5MM_AP > 119 R _item p PID_5MM_AP - 120 #
 0 15020 @
-21 16000 None 0 #
+21 16000 main@dlg_Caps 0 #
 30 16010 D _item p PID_ROCKET_AP > 19 R _item p PID_ROCKET_AP - 20 #
 0 16020 @
-30 17000 None 0 #
+30 17000 main@dlg_Caps 0 #
 31 17010 R _script dialog@r_AddMember 0  @
-31 18000 None 0 #
+31 18000 main@dlg_Caps 0 #
 0 18010 @
-50 19000 None 0 #
+50 19000 main@dlg_Caps 0 #
 51 19010 #
 0 19020 @
-51 20000 None 0 #
+51 20000 main@dlg_Caps 0 #
 0 20010 D _item p PID_Q_GUNRUNNER_BOX > 0 R _item p PID_Q_GUNRUNNER_BOX - 1 R _var p q_la_gunrunners_caravan = 4 R _param p REPUTATION_BOS + 300 R _param p REPUTATION_GUNRUNNERS - 50 R _item p PID_BLUEPRINT_MINIGUN + 1 R _item p PID_BLUEPRINT_SUPER_SLEDGE + 1 R _item p PID_BLUEPRINT_ASSAULT_RIFLE + 1 &
 
 [engl]
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {100000007}{}{You've been warned. . .}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Member}
 {1020}{}{Coming back with 5mm}
@@ -214,7 +214,7 @@ lang=engl czec pols span russ
 {20010}{}{Thanks and goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Member}
 {1020}{}{Coming back with 5mm}
@@ -280,7 +280,7 @@ lang=engl czec pols span russ
 {20010}{}{Thanks and goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Member}
 {1020}{}{Coming back with 5mm}
@@ -346,7 +346,7 @@ lang=engl czec pols span russ
 {20010}{}{Thanks and goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Member}
 {1020}{}{Coming back with 5mm}

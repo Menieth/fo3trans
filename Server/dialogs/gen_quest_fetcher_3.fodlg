@@ -6,36 +6,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n acquaintance = 0 #
 6 1020 D _var n acquaintance = 1 D _item p PID_OLD_SHOVEL = 0 D _item p PID_SHOVEL = 0 #
 7 1030 D _var n acquaintance = 1 D _item p PID_SHOVEL > 0 #
 8 1040 D _var n acquaintance = 1 D _item p PID_OLD_SHOVEL > 0 #
 9 1050 D _var n acquaintance = 2 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var n acquaintance = 1 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 D _item p PID_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_SLEDGEHAMMER + 1 R _item p PID_SHOVEL - 1 R _param p ST_EXPERIENCE + 100 #
 0 7020 D _item p PID_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_KNIFE + 1 R _item p PID_SHOVEL - 1 R _param p ST_EXPERIENCE + 100 #
 0 7030 D _item p PID_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_AXE + 1 R _item p PID_SHOVEL - 1 R _param p ST_EXPERIENCE + 100 #
 0 7040 D _item p PID_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_SHOVEL - 1 R _param p ST_EXPERIENCE + 300 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 D _item p PID_OLD_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_SLEDGEHAMMER + 1 R _item p PID_OLD_SHOVEL - 1 R _param p ST_EXPERIENCE + 100 #
 0 8020 D _item p PID_OLD_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_KNIFE + 1 R _item p PID_OLD_SHOVEL - 1 R _param p ST_EXPERIENCE + 100 #
 0 8030 D _item p PID_OLD_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_AXE + 1 R _item p PID_OLD_SHOVEL - 1 R _param p ST_EXPERIENCE + 100 #
 0 8040 D _item p PID_OLD_SHOVEL } 1 R _var n acquaintance = 2 R _item p PID_OLD_SHOVEL - 1 R _param p ST_EXPERIENCE + 300 @
-9 9000 None 0 &
+9 9000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Dan}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}

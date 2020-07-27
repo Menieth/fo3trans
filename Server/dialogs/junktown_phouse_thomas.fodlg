@@ -6,119 +6,119 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 3 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _var p q_jt_power_house = 0 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 D _var p q_jt_power_house = 0 #
 10 3020 D _var p q_jt_power_house > 0 D _var p q_jt_power_house < 5 #
 15 3030 D _var p q_jt_power_house_handy > 0 D _var p q_jt_power_house_handy_talk = 0 #
 30 3040 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 30 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 27 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _param p ST_LEVEL } 4 #
 37 7020 D _param p ST_LEVEL < 4 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 24 8010 #
 9 8020 R _var p q_jt_power_house = 1 #
 28 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 30 9010 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 26 10010 D _var p q_jt_power_house = 4 D _var p q_jt_power_house_mp ! 2 #
 11 10020 D _var p q_jt_power_house = 4 D _var p q_jt_power_house_mp = 2 #
 17 10030 D _item p PID_TANKER_PUMPPART > 0 D _var p q_jt_power_house_mp ! 2 R _item p PID_TANKER_PUMPPART - 1 R _var p q_jt_power_house_mp = 2 #
 0 10040 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 12 11020 #
 12 11030 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 14 12010 D _param p SK_BARTER } 150 D or D _param p SK_SCIENCE } 125 R _script dialog@r_AddMoney 1 3000 R _var p q_jt_power_house = 5 R _param p ST_EXPERIENCE + 1000 R _param p REPUTATION_JUNKTOWN + 150 #
 13 12020 D _param p SK_SCIENCE < 125 D _param p SK_BARTER < 150 #
 14 12030 D _param p SK_BARTER } 100 D or D _param p SK_SCIENCE } 100 R _script dialog@r_AddMoney 1 2000 R _var p q_jt_power_house = 5 R _param p ST_EXPERIENCE + 1000 R _param p REPUTATION_JUNKTOWN + 300 #
 13 12040 D _param p SK_SCIENCE < 100 D _param p SK_BARTER < 100 #
 14 12050 R _script dialog@r_AddMoney 1 1000 R _var p q_jt_power_house = 5 R _param p ST_EXPERIENCE + 1000 R _param p REPUTATION_JUNKTOWN + 500 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 12 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 30 14010 #
 0 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 D _var p q_jt_power_house_handy = 3 R _var p q_jt_power_house_handy_talk = 1 R _param p REPUTATION_JUNKTOWN + 100 R _param p ST_EXPERIENCE + 500 R _script dialog@r_AddMoney 1 400 R _item p PID_BLUEPRINT_SUPER_SLEDGE + 1 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 30 16010 #
 0 16020 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 10 17010 D _var p q_jt_power_house > 0 D _var p q_jt_power_house < 5 #
 15 17020 D _var p q_jt_power_house_handy > 0 D _var p q_jt_power_house_handy_talk = 0 #
 0 17030 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 #
 20 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 #
 25 20020 D _param p ST_INTELLECT > 7 R _param p ST_EXPERIENCE + 25 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 22 21010 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 R _var p q_jt_power_house_handy = 1 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 30 23010 #
 0 23020 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 9 24010 R _var p q_jt_power_house = 1 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 23 25010 R _var p q_jt_power_house_handy = 1 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 17 26010 D _item p PID_TANKER_PUMPPART > 0 R _item p PID_TANKER_PUMPPART - 1 R _var p q_jt_power_house_mp = 2 #
 0 26020 @
-27 27000 None 0 #
+27 27000 main@dlg_Caps 0 #
 8 27010 @
-28 28000 None 0 #
+28 28000 main@dlg_Caps 0 #
 30 28010 #
 0 28020 @
-30 29000 None 0 #
+30 29000 main@dlg_Caps 0 #
 33 29010 #
 35 29020 #
 31 29030 D _var p q_jt_power_house ! 5 #
 32 29040 D _var p q_jt_power_house = 5 #
 18 29050 D _var p q_jt_power_house_handy = 0 #
 0 29060 @
-31 30000 None 0 #
+31 30000 main@dlg_Caps 0 #
 30 30010 #
 0 30020 @
-32 31000 None 0 #
+32 31000 main@dlg_Caps 0 #
 30 31010 #
 0 31020 @
-33 32000 None 0 #
+33 32000 main@dlg_Caps 0 #
 34 32010 #
 0 32020 @
-34 33000 None 0 #
+34 33000 main@dlg_Caps 0 #
 30 33010 #
 0 33020 @
-35 34000 None 0 #
+35 34000 main@dlg_Caps 0 #
 36 34010 #
 0 34020 @
-36 35000 None 0 #
+36 35000 main@dlg_Caps 0 #
 30 35010 #
 0 35020 @
-37 36000 None 0 #
+37 36000 main@dlg_Caps 0 #
 30 36010 #
 0 36020 &
 
@@ -167,15 +167,15 @@ lang=engl czec pols span russ
 {11010}{}{I am not working for free. What's my pay?}
 {11020}{}{Good work requires good payment.}
 {11030}{}{Let's come to the *payment* part.}
-{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some bottle caps? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
-{12010}{}{My work is worth 3.000 caps.}
-{12020}{}{My work is worth 3.000 caps.}
-{12030}{}{Give me 2.000 caps.@@I want to have 2.000 caps. }
-{12040}{}{Give me 2.000 caps.@@I want to have 2.000 caps.}
-{12050}{}{Give me 1.000 caps and we are even.}
+{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some @lex prefix@ @lex money@? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
+{12010}{}{My work is worth 3.000 @lex money@.}
+{12020}{}{My work is worth 3.000 @lex money@.}
+{12030}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@. }
+{12040}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@.}
+{12050}{}{Give me 1.000 @lex money@ and we are even.}
 {13000}{}{I... I can't do that. No, sorry, but that's far too much money.}
 {13010}{}{Then maybe something else...}
-{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of bottle caps.]}
+{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of @lex prefix@ @lex money@.]}
 {14010}{}{There is still something I want to ask, before I go.}
 {14020}{}{Thanks. Goodbye.}
 {15000}{}{You've got anything new about that robot?@@News about the robot?@@Could you fix my robot?@@The Mr. Handy robot is a good machine. Heard they have been produced en mass before the war.}
@@ -249,7 +249,7 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -289,15 +289,15 @@ lang=engl czec pols span russ
 {11010}{}{I am not working for free. What's my pay?}
 {11020}{}{Good work requires good payment.}
 {11030}{}{Let's come to the *payment* part.}
-{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some bottle caps? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
-{12010}{}{My work is worth 3.000 caps.}
-{12020}{}{My work is worth 3.000 caps.}
-{12030}{}{Give me 2.000 caps.@@I want to have 2.000 caps. }
-{12040}{}{Give me 2.000 caps.@@I want to have 2.000 caps.}
-{12050}{}{Give me 1.000 caps and we are even.}
+{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some @lex prefix@ @lex money@? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
+{12010}{}{My work is worth 3.000 @lex money@.}
+{12020}{}{My work is worth 3.000 @lex money@.}
+{12030}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@. }
+{12040}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@.}
+{12050}{}{Give me 1.000 @lex money@ and we are even.}
 {13000}{}{I... I can't do that. No, sorry, but that's far too much money.}
 {13010}{}{Then maybe something else...}
-{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of bottle caps.]}
+{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of @lex prefix@ @lex money@.]}
 {14010}{}{There is still something I want to ask, before I go.}
 {14020}{}{Thanks. Goodbye.}
 {15000}{}{You've got anything new about that robot?@@News about the robot?@@Could you fix my robot?@@The Mr. Handy robot is a good machine. Heard they have been produced en mass before the war.}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {36020}{}{Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -408,15 +408,15 @@ lang=engl czec pols span russ
 {11010}{}{I am not working for free. What's my pay?}
 {11020}{}{Good work requires good payment.}
 {11030}{}{Let's come to the *payment* part.}
-{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some bottle caps? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
-{12010}{}{My work is worth 3.000 caps.}
-{12020}{}{My work is worth 3.000 caps.}
-{12030}{}{Give me 2.000 caps.@@I want to have 2.000 caps. }
-{12040}{}{Give me 2.000 caps.@@I want to have 2.000 caps.}
-{12050}{}{Give me 1.000 caps and we are even.}
+{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some @lex prefix@ @lex money@? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
+{12010}{}{My work is worth 3.000 @lex money@.}
+{12020}{}{My work is worth 3.000 @lex money@.}
+{12030}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@. }
+{12040}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@.}
+{12050}{}{Give me 1.000 @lex money@ and we are even.}
 {13000}{}{I... I can't do that. No, sorry, but that's far too much money.}
 {13010}{}{Then maybe something else...}
-{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of bottle caps.]}
+{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of @lex prefix@ @lex money@.]}
 {14010}{}{There is still something I want to ask, before I go.}
 {14020}{}{Thanks. Goodbye.}
 {15000}{}{You've got anything new about that robot?@@News about the robot?@@Could you fix my robot?@@The Mr. Handy robot is a good machine. Heard they have been produced en mass before the war.}
@@ -487,7 +487,7 @@ lang=engl czec pols span russ
 {36020}{}{Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -527,15 +527,15 @@ lang=engl czec pols span russ
 {11010}{}{I am not working for free. What's my pay?}
 {11020}{}{Good work requires good payment.}
 {11030}{}{Let's come to the *payment* part.}
-{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some bottle caps? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
-{12010}{}{My work is worth 3.000 caps.}
-{12020}{}{My work is worth 3.000 caps.}
-{12030}{}{Give me 2.000 caps.@@I want to have 2.000 caps. }
-{12040}{}{Give me 2.000 caps.@@I want to have 2.000 caps.}
-{12050}{}{Give me 1.000 caps and we are even.}
+{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some @lex prefix@ @lex money@? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
+{12010}{}{My work is worth 3.000 @lex money@.}
+{12020}{}{My work is worth 3.000 @lex money@.}
+{12030}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@. }
+{12040}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@.}
+{12050}{}{Give me 1.000 @lex money@ and we are even.}
 {13000}{}{I... I can't do that. No, sorry, but that's far too much money.}
 {13010}{}{Then maybe something else...}
-{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of bottle caps.]}
+{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of @lex prefix@ @lex money@.]}
 {14010}{}{There is still something I want to ask, before I go.}
 {14020}{}{Thanks. Goodbye.}
 {15000}{}{You've got anything new about that robot?@@News about the robot?@@Could you fix my robot?@@The Mr. Handy robot is a good machine. Heard they have been produced en mass before the war.}
@@ -606,7 +606,7 @@ lang=engl czec pols span russ
 {36020}{}{Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -646,15 +646,15 @@ lang=engl czec pols span russ
 {11010}{}{I am not working for free. What's my pay?}
 {11020}{}{Good work requires good payment.}
 {11030}{}{Let's come to the *payment* part.}
-{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some bottle caps? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
-{12010}{}{My work is worth 3.000 caps.}
-{12020}{}{My work is worth 3.000 caps.}
-{12030}{}{Give me 2.000 caps.@@I want to have 2.000 caps. }
-{12040}{}{Give me 2.000 caps.@@I want to have 2.000 caps.}
-{12050}{}{Give me 1.000 caps and we are even.}
+{12000}{}{We are in Junktown. Here we get lot's of junk everywhere... But I'll guess you don't want junk as a reward. How about some @lex prefix@ @lex money@? The Water Merchants are spreading them like crazy since years and you can buy everything with them. Huh, why do I say that? ... You most probably know.}
+{12010}{}{My work is worth 3.000 @lex money@.}
+{12020}{}{My work is worth 3.000 @lex money@.}
+{12030}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@. }
+{12040}{}{Give me 2.000 @lex money@.@@I want to have 2.000 @lex money@.}
+{12050}{}{Give me 1.000 @lex money@ and we are even.}
 {13000}{}{I... I can't do that. No, sorry, but that's far too much money.}
 {13010}{}{Then maybe something else...}
-{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of bottle caps.]}
+{14000}{}{Doubtful the generators would have run longer than the next one or two years without some major overhaul. So I'll guess the pay is just fair. [He hands you a bag of @lex prefix@ @lex money@.]}
 {14010}{}{There is still something I want to ask, before I go.}
 {14020}{}{Thanks. Goodbye.}
 {15000}{}{You've got anything new about that robot?@@News about the robot?@@Could you fix my robot?@@The Mr. Handy robot is a good machine. Heard they have been produced en mass before the war.}

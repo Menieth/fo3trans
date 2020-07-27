@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 60 1010 D _var p factions_player_faction = 6 D _var p factions_player_rank > 2 D _script dialog@d_CheckNight 0  #
 61 1020 D _script dialog@d_CheckNight 0  R _script dialog@r_Alert 0  #
 2 1030 D _var p factions_player_faction = 6 D _var p factions_player_rank > 2 #
 61 1040 R _script dialog@r_Alert 0  @
-2 2000 None 0 @
-60 3000 None 0 @
-61 4000 None 0 @
-62 5000 None 0 &
+2 2000 main@dlg_Caps 0 @
+60 3000 main@dlg_Caps 0 @
+61 4000 main@dlg_Caps 0 @
+62 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Gregory}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}

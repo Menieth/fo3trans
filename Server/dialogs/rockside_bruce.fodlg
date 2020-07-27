@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 #
 3 2020 D _var p q_rockside_scorpio2 = 1 R _var p q_rockside_scorpio2 = 2 @
-3 3000 None 0 &
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Bruce}
@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3000}{}{*hisses*}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a rad scorpio wearing glasses. ]}
@@ -34,7 +34,7 @@ lang=engl czec pols span russ
 {3000}{}{*hisses*}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a rad scorpio wearing glasses. ]}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {3000}{}{*hisses*}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a rad scorpio wearing glasses. ]}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {3000}{}{*hisses*}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a rad scorpio wearing glasses. ]}

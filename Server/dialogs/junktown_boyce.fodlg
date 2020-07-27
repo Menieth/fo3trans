@@ -6,53 +6,53 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 #
 7 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 8 2020 D _var p q_jt_power_house > 0 D _var p q_jt_power_house < 5 D _var p q_jt_power_house_mp = 0 R _item p PID_TANKER_PUMPPART + 1 R _var p q_jt_power_house_mp = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var n name_mem_npc_player = 1 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 500 6010 #
 80 6020 D _param p PE_PROFESSION_GUNSMITH_S < 2 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 500 7010 #
 80 7020 D _param p PE_PROFESSION_GUNSMITH_S < 2 #
 8 7030 D _var p q_jt_power_house > 0 D _var p q_jt_power_house < 5 D _var p q_jt_power_house_mp = 0 R _var p q_jt_power_house_mp = 1 R _item p PID_TANKER_PUMPPART + 1 #
 0 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-80 10000 None 0 #
+80 10000 main@dlg_Caps 0 #
 81 10010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckGunsmithS0 1 0 #
 82 10020 D _script dialog@d_CheckGunsmithS1 1 0 #
 0 10030 @
-81 11000 None 0 #
-83 11010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
+81 11000 main@dlg_Caps 0 #
+83 11010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 11020 @
-82 12000 None 0 #
-83 12010 D _item p PID_BOTTLE_CAPS > 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
+82 12000 main@dlg_Caps 0 #
+83 12010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 12020 @
-83 13000 None 0 #
+83 13000 main@dlg_Caps 0 #
 0 13010 @
-500 14000 None 0 #
+500 14000 main@dlg_Caps 0 #
 501 14010 D _script perks@d_PerkCheck 1 455 D _param p ST_STRENGTH > 11 R _param p PE_BEST_OF_A_BAD_LOT = 1 #
 501 14020 D _script perks@d_PerkCheck 1 456 R _param p PE_DISMANTLER = 1 #
 0 14030 @
-501 15000 None 0 #
+501 15000 main@dlg_Caps 0 #
 7 15010 #
 0 15020 &
 
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {5000}{}{That sounds like a question already. Well, I used to repair and sell cars before, but in the meantime everything useful that could be found around here is already scavenged and turned into cars. I can't sell anything more, except junk. Not that I really care, as long as I've gotta costumer, hehe.}
 {5010}{}{So, you still repair things?}
 {5020}{}{I see. Gotta go now, bye!}
-{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of caps, and there's always enough guns to repair, with all these thugs running through the town...}
+{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of @lex money@, and there's always enough guns to repair, with all these thugs running through the town...}
 {6010}{}{Hey, then you probably *are* the best person to talk about repairing antique stuff and salvaging all kind of junk.}
 {6020}{}{That's exactly what I wanted to hear, because I had some questions about firearms...}
 {6030}{}{Yes, that makes sense already. I have to go now, bye!}
@@ -97,7 +97,7 @@ lang=engl czec pols span russ
 {11000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {11010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {11020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {12010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {12020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {13000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -128,7 +128,7 @@ lang=engl czec pols span russ
 {5000}{}{That sounds like a question already. Well, I used to repair and sell cars before, but in the meantime everything useful that could be found around here is already scavenged and turned into cars. I can't sell anything more, except junk. Not that I really care, as long as I've gotta costumer, hehe.}
 {5010}{}{So, you still repair things?}
 {5020}{}{I see. Gotta go now, bye!}
-{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of caps, and there's always enough guns to repair, with all these thugs running through the town...}
+{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of @lex money@, and there's always enough guns to repair, with all these thugs running through the town...}
 {6010}{}{Hey, then you probably *are* the best person to talk about repairing antique stuff and salvaging all kind of junk.}
 {6020}{}{That's exactly what I wanted to hear, because I had some questions about firearms...}
 {6030}{}{Yes, that makes sense already. I have to go now, bye!}
@@ -149,7 +149,7 @@ lang=engl czec pols span russ
 {11000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {11010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {11020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {12010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {12020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {13000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {5000}{}{That sounds like a question already. Well, I used to repair and sell cars before, but in the meantime everything useful that could be found around here is already scavenged and turned into cars. I can't sell anything more, except junk. Not that I really care, as long as I've gotta costumer, hehe.}
 {5010}{}{So, you still repair things?}
 {5020}{}{I see. Gotta go now, bye!}
-{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of caps, and there's always enough guns to repair, with all these thugs running through the town...}
+{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of @lex money@, and there's always enough guns to repair, with all these thugs running through the town...}
 {6010}{}{Hey, then you probably *are* the best person to talk about repairing antique stuff and salvaging all kind of junk.}
 {6020}{}{That's exactly what I wanted to hear, because I had some questions about firearms...}
 {6030}{}{Yes, that makes sense already. I have to go now, bye!}
@@ -201,7 +201,7 @@ lang=engl czec pols span russ
 {11000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {11010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {11020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {12010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {12020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {13000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -215,7 +215,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -232,7 +232,7 @@ lang=engl czec pols span russ
 {5000}{}{That sounds like a question already. Well, I used to repair and sell cars before, but in the meantime everything useful that could be found around here is already scavenged and turned into cars. I can't sell anything more, except junk. Not that I really care, as long as I've gotta costumer, hehe.}
 {5010}{}{So, you still repair things?}
 {5020}{}{I see. Gotta go now, bye!}
-{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of caps, and there's always enough guns to repair, with all these thugs running through the town...}
+{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of @lex money@, and there's always enough guns to repair, with all these thugs running through the town...}
 {6010}{}{Hey, then you probably *are* the best person to talk about repairing antique stuff and salvaging all kind of junk.}
 {6020}{}{That's exactly what I wanted to hear, because I had some questions about firearms...}
 {6030}{}{Yes, that makes sense already. I have to go now, bye!}
@@ -253,7 +253,7 @@ lang=engl czec pols span russ
 {11000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {11010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {11020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {12010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {12020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {13000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -284,7 +284,7 @@ lang=engl czec pols span russ
 {5000}{}{That sounds like a question already. Well, I used to repair and sell cars before, but in the meantime everything useful that could be found around here is already scavenged and turned into cars. I can't sell anything more, except junk. Not that I really care, as long as I've gotta costumer, hehe.}
 {5010}{}{So, you still repair things?}
 {5020}{}{I see. Gotta go now, bye!}
-{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of caps, and there's always enough guns to repair, with all these thugs running through the town...}
+{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of @lex money@, and there's always enough guns to repair, with all these thugs running through the town...}
 {6010}{}{Hey, then you probably *are* the best person to talk about repairing antique stuff and salvaging all kind of junk.}
 {6020}{}{That's exactly what I wanted to hear, because I had some questions about firearms...}
 {6030}{}{Yes, that makes sense already. I have to go now, bye!}
@@ -305,7 +305,7 @@ lang=engl czec pols span russ
 {11000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {11010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {11020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {12010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {12020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {13000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}

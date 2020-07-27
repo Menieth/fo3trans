@@ -6,37 +6,37 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT > 3 #
 4 1020 D _param p ST_INTELLECT < 4 #
 10 1030 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 #
 8 5030 #
 9 5040 #
 0 5050 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 5 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 #
 5 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 5 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 5 9010 #
 0 9020 @
-10 10000 None 0 &
+10 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Torr}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}

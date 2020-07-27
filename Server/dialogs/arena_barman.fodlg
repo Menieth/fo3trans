@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 5 1010 D _script arena@d_HasTooMuchStuff 0  #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 6 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 3 3010 R _item n PID_JET + 1 R _script arena@r_TransferItems 0  #
 3 3020 R _item n PID_CIGARETTES + 1 R _item n PID_LIGHTER + 1 R _script arena@r_TransferItems 0  #
 3 3030 R _item n PID_PSYCHO + 1 R _script arena@r_TransferItems 0  #
@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 3 3070 R _item n PID_VOODOO + 1 R _script arena@r_TransferItems 0  #
 3 3080 R _item n PID_HEALING_POWDER + 1 R _script arena@r_TransferItems 0  #
 4 3090 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 4 4010 R _item n PID_NUKA_COLA + 1 R _script arena@r_TransferItems 0  #
 4 4020 R _item n PID_BEER + 1 R _script arena@r_TransferItems 0  #
 4 4030 R _item n PID_BOOZE + 1 R _script arena@r_TransferItems 0  #
@@ -33,8 +33,8 @@ lang=engl czec pols span russ
 4 4060 R _item n PID_ROT_GUT + 1 R _script arena@r_TransferItems 0  #
 3 4070 R _item n PID_JET_ANTIDOTE + 1 R _script arena@r_TransferItems 0  #
 3 4080 @
-5 5000 None 0 @
-6 6000 None 0 #
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 6 6010 R _item n PID_HEART + 1 R _script arena@r_TransferItems 0  #
 6 6020 R _item n PID_LIVER + 1 R _script arena@r_TransferItems 0  #
 6 6030 R _item n PID_BRAIN + 1 R _script arena@r_TransferItems 0  #
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}

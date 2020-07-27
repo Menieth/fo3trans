@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 #
 5 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 D _item p PID_SECURITY_CARD } 1 R _script dialog@r_OpenDoor 2 67 600 R _item p PID_SECURITY_CARD - 1 #
 0 3020 @
-4 4000 None 0 @
-5 5000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 2 5010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Back ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Back ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Back ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Vault Tec terminal 1416. Welcome User ]}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Back ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Vault Tec terminal 1416. Welcome User ]}

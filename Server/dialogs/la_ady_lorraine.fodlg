@@ -6,27 +6,27 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 98 1010 D _param p ST_INTELLECT < 3 #
 99 1020 D _param p ST_CHARISMA > 99 #
 7 1030 D _var p name_mem_npc_player = 1 #
 2 1040 D _var p name_mem_npc_player = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 #
 5 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 #
 65507 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 8 6010 R _var p name_mem_npc_player = 1 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _var p q_la_ady_lorraine_pistol = 0 #
 80 7020 #
 50 7030 #
@@ -36,129 +36,129 @@ lang=engl czec pols span russ
 103 7070 D _var p q_la_ady_lorraine_fornication = 1 #
 24 7080 D _var p q_la_ady_lorraine_pistol = 2 D _item p PID_10MM_PISTOL } 2 #
 0 7090 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 7 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 13 10010 #
 11 10020 #
 0 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 D _param p ST_INTELLECT } 6 D _var p q_la_ady_lorraine_magazine = 0 R _param p ST_EXPERIENCE + 150 R _var p q_la_ady_lorraine_magazine = 1 #
 13 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 7 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 #
 21 14020 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 #
 15 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 0 21010 R _var p q_la_ady_lorraine_pistol = 1 #
 7 21020 R _var p q_la_ady_lorraine_pistol = 1 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 15 22010 #
 23 22020 D _var p q_la_ady_lorraine_pistol = 1 D _item p PID_FIREWOOD } 2 D _item p PID_PUMP_PARTS } 6 @
-98 23000 None 0 @
-99 24000 None 0 @
-50 25000 None 0 #
+98 23000 main@dlg_Caps 0 @
+99 24000 main@dlg_Caps 0 @
+50 25000 main@dlg_Caps 0 #
 60 25010 #
 65 25020 #
 7 25030 @
-100 26000 None 0 #
+100 26000 main@dlg_Caps 0 #
 65505 26010 #
 65507 26020 @
-101 27000 None 0 #
+101 27000 main@dlg_Caps 0 #
 65505 27010 #
 102 27020 D _param p ST_ENDURANCE } 6 D _param p ST_GENDER = 0 R _param p ST_EXPERIENCE + 150 R _var p q_la_ady_lorraine_fornication = 1 #
 102 27030 D _param p ST_GENDER = 1 D _param p ST_AGILITY } 6 R _param p ST_EXPERIENCE + 150 R _var p q_la_ady_lorraine_fornication = 1 @
-102 28000 None 0 #
+102 28000 main@dlg_Caps 0 #
 0 28010 #
 65507 28020 @
-60 29000 None 0 #
+60 29000 main@dlg_Caps 0 #
 61 29010 #
 7 29020 @
-61 30000 None 0 #
+61 30000 main@dlg_Caps 0 #
 62 30010 @
-62 31000 None 0 #
+62 31000 main@dlg_Caps 0 #
 63 31010 @
-63 32000 None 0 #
+63 32000 main@dlg_Caps 0 #
 64 32010 @
-64 33000 None 0 #
+64 33000 main@dlg_Caps 0 #
 65 33010 #
 7 33020 @
-65 34000 None 0 #
+65 34000 main@dlg_Caps 0 #
 66 34010 #
 7 34020 @
-66 35000 None 0 #
+66 35000 main@dlg_Caps 0 #
 67 35010 #
 7 35020 @
-67 36000 None 0 #
+67 36000 main@dlg_Caps 0 #
 68 36010 #
 7 36020 @
-68 37000 None 0 #
+68 37000 main@dlg_Caps 0 #
 69 37010 D _var p q_la_ady_lorraine_science = 0 #
 7 37020 @
-69 38000 None 0 #
+69 38000 main@dlg_Caps 0 #
 70 38010 R _var p q_la_ady_lorraine_science = 1 @
-70 39000 None 0 #
+70 39000 main@dlg_Caps 0 #
 71 39010 #
 0 39020 @
-71 40000 None 0 #
+71 40000 main@dlg_Caps 0 #
 72 40010 D _param p SK_SCIENCE } 60 #
 7 40020 #
 72 40030 D _param p ST_INTELLECT > 5 D _param p ST_PERCEPTION > 6 @
-72 41000 None 0 #
+72 41000 main@dlg_Caps 0 #
 7 41010 R _param p ST_EXPERIENCE + 275 @
-80 42000 None 0 #
+80 42000 main@dlg_Caps 0 #
 81 42010 #
 7 42020 @
-81 43000 None 0 #
+81 43000 main@dlg_Caps 0 #
 82 43010 @
-82 44000 None 0 #
+82 44000 main@dlg_Caps 0 #
 85 44010 #
 83 44020 #
 7 44030 @
-83 45000 None 0 #
+83 45000 main@dlg_Caps 0 #
 84 45010 #
 7 45020 @
-84 46000 None 0 #
+84 46000 main@dlg_Caps 0 #
 7 46010 #
 0 46020 @
-85 47000 None 0 #
+85 47000 main@dlg_Caps 0 #
 86 47010 #
 0 47020 @
-86 48000 None 0 #
+86 48000 main@dlg_Caps 0 #
 87 48010 #
 7 48020 @
-87 49000 None 0 #
+87 49000 main@dlg_Caps 0 #
 7 49010 #
 0 49020 @
-103 50000 None 0 #
+103 50000 main@dlg_Caps 0 #
 104 50010 @
-104 51000 None 0 #
+104 51000 main@dlg_Caps 0 #
 0 51010 @
-23 52000 None 0 #
+23 52000 main@dlg_Caps 0 #
 0 52010 R _var p q_la_ady_lorraine_pistol = 2 #
 7 52020 R _var p q_la_ady_lorraine_pistol = 2 @
-24 53000 None 0 #
+24 53000 main@dlg_Caps 0 #
 65505 53010 D _item p PID_10MM_PISTOL } 1 R _var p q_la_ady_lorraine_pistol = 3 R _item p PID_10MM_PISTOL - 1 R _item p PID_10MM_JHP + 350 R _param p ST_EXPERIENCE + 1350 #
 65505 53020 &
 
@@ -323,7 +323,7 @@ lang=engl czec pols span russ
 {53020}{}{Let me think about it and get back to you with that.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Ugly}
@@ -481,7 +481,7 @@ lang=engl czec pols span russ
 {53020}{}{Let me think about it and get back to you with that.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Ugly}
@@ -639,7 +639,7 @@ lang=engl czec pols span russ
 {53020}{}{Let me think about it and get back to you with that.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Ugly}
@@ -797,7 +797,7 @@ lang=engl czec pols span russ
 {53020}{}{Let me think about it and get back to you with that.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Ugly}

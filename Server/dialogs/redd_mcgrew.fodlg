@@ -6,60 +6,60 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 26 1010 D _var p q_redding_mcgrew_runner = 4 R _var p q_redding_mcgrew_runner = 5 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 15 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 16 2020 #
 14 2030 #
 80 2040 D _param p PE_PROFESSION_DEMOLITION_EXPERT < 2 #
 30 2050 #
 0 2060 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 15 3010 #
 4 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 0 10020 #
 0 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 65507 11010 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 15 13020 #
 0 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 21 14010 D _param p ST_CHARISMA > 4 D _var p q_redding_mcgrew_runner = 0 #
 25 14020 D _param p ST_CHARISMA < 5 D _var p q_redding_mcgrew_runner = 0 #
 15 14030 #
 0 14040 #
 19 14050 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 3 15010 #
 16 15020 #
 14 15030 #
@@ -67,55 +67,55 @@ lang=engl czec pols span russ
 0 15050 #
 30 15060 D _script trader_mcgrew@d_HasStock 0  #
 32 15070 D _script trader_mcgrew@d_HasNotStock 0  @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 #
 500 16020 D _script perks@d_PerkCheck 1 401 R _param p PE_PACK_RAT = 1 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 65507 17010 #
 18 17020 #
 18 17030 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 65507 18010 #
 0 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 #
 0 19020 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 15 20010 #
 0 20020 @
-50 21000 None 0 @
-80 22000 None 0 #
+50 21000 main@dlg_Caps 0 @
+80 22000 main@dlg_Caps 0 #
 81 22010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckDemolitionExpert0 1 0 #
 82 22020 D _script dialog@d_CheckDemolitionExpert1 1 0 #
 0 22030 @
-81 23000 None 0 #
-83 23010 D _item p PID_BOTTLE_CAPS > 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
+81 23000 main@dlg_Caps 0 #
+83 23010 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 1 #
 0 23020 @
-82 24000 None 0 #
-83 24010 D _item p PID_BOTTLE_CAPS > 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
+82 24000 main@dlg_Caps 0 #
+83 24010 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DEMOLITION_EXPERT = 2 #
 0 24020 @
-83 25000 None 0 #
+83 25000 main@dlg_Caps 0 #
 0 25010 @
-21 26000 None 0 #
+21 26000 main@dlg_Caps 0 #
 22 26010 @
-22 27000 None 0 #
+22 27000 main@dlg_Caps 0 #
 23 27010 @
-23 28000 None 0 #
+23 28000 main@dlg_Caps 0 #
 24 28010 @
-24 29000 None 0 #
+24 29000 main@dlg_Caps 0 #
 0 29010 R _var p q_redding_mcgrew_runner = 1 @
-25 30000 None 0 #
+25 30000 main@dlg_Caps 0 #
 0 30010 R _var p q_redding_mcgrew_runner = -1 @
-26 31000 None 0 #
+26 31000 main@dlg_Caps 0 #
 0 31010 R _item p PID_LEATHER_ARMOR + 1 R _item p PID_FRAG_GRENADE + 10 R _item p PID_JET + 1 @
-30 32000 None 0 #
-31 32010 D _item p PID_BOTTLE_CAPS > 19999 R _item p PID_DETONATOR_PARTS + 1 R _script dialog@r_RemoveMoney 1 20000 #
+30 32000 main@dlg_Caps 0 #
+31 32010 D _script dialog@d_havepropermoney 1 19999 R _item p PID_DETONATOR_PARTS + 1 R _script dialog@r_RemoveMoney 1 20000 #
 0 32020 @
-31 33000 None 0 #
+31 33000 main@dlg_Caps 0 #
 0 33010 @
-32 34000 None 0 #
+32 34000 main@dlg_Caps 0 #
 0 34010 @
-500 35000 None 0 #
+500 35000 main@dlg_Caps 0 #
 15 35010 #
 0 35020 &
 
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {23000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {23010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {23020}{}{Roger that, on my way.}
-{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {24010}{}{It's already taken care of, here you go. [You give him the $3000]}
 {24020}{}{Roger that, on my way.}
 {25000}{}{Man, that's great! Wait, we're gonna start right after I put this to a safe place. [After counting the money and putting it to a safe place, Dan explains everything you wanted to know]}
@@ -240,7 +240,7 @@ lang=engl czec pols span russ
 {35020}{}{That's what I wanted to know. I've got to go, bye!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his more jet quest.}
 {1020}{}{Unknown}
@@ -328,7 +328,7 @@ lang=engl czec pols span russ
 {23000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {23010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {23020}{}{Roger that, on my way.}
-{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {24010}{}{It's already taken care of, here you go. [You give him the $3000]}
 {24020}{}{Roger that, on my way.}
 {25000}{}{Man, that's great! Wait, we're gonna start right after I put this to a safe place. [After counting the money and putting it to a safe place, Dan explains everything you wanted to know]}
@@ -357,7 +357,7 @@ lang=engl czec pols span russ
 {35020}{}{That's what I wanted to know. I've got to go, bye!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his more jet quest.}
 {1020}{}{Unknown}
@@ -445,7 +445,7 @@ lang=engl czec pols span russ
 {23000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {23010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {23020}{}{Roger that, on my way.}
-{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {24010}{}{It's already taken care of, here you go. [You give him the $3000]}
 {24020}{}{Roger that, on my way.}
 {25000}{}{Man, that's great! Wait, we're gonna start right after I put this to a safe place. [After counting the money and putting it to a safe place, Dan explains everything you wanted to know]}
@@ -474,7 +474,7 @@ lang=engl czec pols span russ
 {35020}{}{That's what I wanted to know. I've got to go, bye!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his more jet quest.}
 {1020}{}{Unknown}
@@ -562,7 +562,7 @@ lang=engl czec pols span russ
 {23000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {23010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {23020}{}{Roger that, on my way.}
-{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {24010}{}{It's already taken care of, here you go. [You give him the $3000]}
 {24020}{}{Roger that, on my way.}
 {25000}{}{Man, that's great! Wait, we're gonna start right after I put this to a safe place. [After counting the money and putting it to a safe place, Dan explains everything you wanted to know]}
@@ -591,7 +591,7 @@ lang=engl czec pols span russ
 {35020}{}{That's what I wanted to know. I've got to go, bye!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his more jet quest.}
 {1020}{}{Unknown}
@@ -679,7 +679,7 @@ lang=engl czec pols span russ
 {23000}{}{Yeah, yeah, got ya -- but I need something in return. You see, my miners are pretty addicted to that new drug - the Jet. If they're out of it, the gold flow suffers, that's all there is to it. You bring me $1500 to buy some and then we can talk explosives, okay?}
 {23010}{}{It's already taken care of, here you go. [You give him the $1500]}
 {23020}{}{Roger that, on my way.}
-{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some caps to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
+{24000}{}{That can be arranged, I guess... But, you see, my miners need Jet badly, so you could do me a favor and give me some @lex money@ to buy some. Let me see -- $3000 should be enough to keep them working for a while.}
 {24010}{}{It's already taken care of, here you go. [You give him the $3000]}
 {24020}{}{Roger that, on my way.}
 {25000}{}{Man, that's great! Wait, we're gonna start right after I put this to a safe place. [After counting the money and putting it to a safe place, Dan explains everything you wanted to know]}

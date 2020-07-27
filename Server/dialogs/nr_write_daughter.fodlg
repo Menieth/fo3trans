@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_KARMA < -200 #
 3 1020 #
 2 1030 D _param p ST_CHARISMA < 6 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Wright Daughter}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}

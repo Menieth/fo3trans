@@ -6,45 +6,45 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 D _param p ST_STRENGTH > 99 #
 3 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 11 2010 #
 5 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 10 3010 #
 4 3020 D _var n acquaintance = 0 R _var n acquaintance = 1 #
 500 3030 D _var n acquaintance = 1 D _script perks@d_PerkCheck 1 459 #
-0 3040 D _var n acquaintance = 2 D _item p PID_BOTTLE_CAPS > 49 R _script dialog@r_RemoveMoney 1 50 #
+0 3040 D _var n acquaintance = 2 D _script dialog@d_havepropermoney 1 49 R _script dialog@r_RemoveMoney 1 50 #
 0 3050 D _var n acquaintance = 3 #
 0 3060 D _var n name_mem_npc_player < 3 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 8 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 500 8010 D _script perks@d_PerkCheck 1 459 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-500 12000 None 0 #
+500 12000 main@dlg_Caps 0 #
 501 12010 R _var n acquaintance = 2 R _param p PE_TREASURE_HUNTER = 1 #
 501 12020 R _var n acquaintance = 3 R _param p PE_TREASURE_HUNTER = 1 #
 0 12030 @
-501 13000 None 0 #
+501 13000 main@dlg_Caps 0 #
 0 13010 &
 
 [engl]
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}

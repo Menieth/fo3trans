@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
 2 2000 event_utils@dlg_TeleportToVarMap 0 #
 0 2010 R _script minigames@r_SetMinigame 4 0 0 0 0 R _script event_utils@r_TeleportToVarMap 0  #
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2020}{}{[Close Terminal]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Nothing.}
 {2000}{}{[Choose your action]}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2020}{}{[Close Terminal]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Nothing.}
 {2000}{}{[Choose your action]}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2020}{}{[Close Terminal]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Nothing.}
 {2000}{}{[Choose your action]}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2020}{}{[Close Terminal]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Nothing.}
 {2000}{}{[Choose your action]}

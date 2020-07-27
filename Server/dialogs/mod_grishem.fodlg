@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 6 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 D _item p PID_MEAT > 1 R _item p PID_MEAT_JERKY + 1 R _item p PID_MEAT - 2 #
 5 3020 D _item p PID_MEAT > 9 R _item p PID_MEAT_JERKY + 5 R _item p PID_MEAT - 10 #
 5 3030 D _item p PID_MEAT > 39 R _item p PID_MEAT_JERKY + 20 R _item p PID_MEAT - 40 #
 6 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 3 5010 #
 4 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 11 6010 D _var p q_modoc_balthas_fetcher = 1 #
 4 6020 #
 7 6030 D _var p mod_q_meat_jerky = 2 #
@@ -32,20 +32,20 @@ lang=engl czec pols span russ
 10 6050 D _var p mod_q_meat_jerky = 1 D _item p PID_MEAT_BAG < 1 D _script dialog@d_QuestTimeoutReady 0  R _script dialog@r_QuestTimeout 1 20 #
 3 6060 #
 0 6070 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 R _var p mod_q_meat_jerky = 1 R _item p PID_MEAT_BAG + 1 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 R _var p mod_q_meat_jerky = 1 R _item p PID_MEAT_BAG + 1 R _script town@r_ModifyInfluenceBuffer 1 5 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 R _item p PID_MEAT_BAG + 1 #
 0 10020 R _var p mod_q_meat_jerky = 0 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 R _var p q_modoc_balthas_fetcher = 2 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 R _var p q_modoc_balthas_fetcher = 2 &
 
 [engl]
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {6010}{}{Well, I've come to be a bit of a bother really. Balthas has been complaining about his lack of hides...}
 {6020}{}{Can you tell me a little bit about the slaughterhouse?}
 {6030}{}{Do you think I might be able to do another delivery?}
-{6040}{}{Do you have any work for me? I'd like to earn a few caps.}
+{6040}{}{Do you have any work for me? I'd like to earn a few @lex money@.}
 {6050}{}{I lost your meat jerkys on my way.}
 {6060}{}{I would like you to make me some of your famous jerky.}
 {6070}{}{I have to go now.}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {6010}{}{Well, I've come to be a bit of a bother really. Balthas has been complaining about his lack of hides...}
 {6020}{}{Can you tell me a little bit about the slaughterhouse?}
 {6030}{}{Do you think I might be able to do another delivery?}
-{6040}{}{Do you have any work for me? I'd like to earn a few caps.}
+{6040}{}{Do you have any work for me? I'd like to earn a few @lex money@.}
 {6050}{}{I lost your meat jerkys on my way.}
 {6060}{}{I would like you to make me some of your famous jerky.}
 {6070}{}{I have to go now.}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {6010}{}{Well, I've come to be a bit of a bother really. Balthas has been complaining about his lack of hides...}
 {6020}{}{Can you tell me a little bit about the slaughterhouse?}
 {6030}{}{Do you think I might be able to do another delivery?}
-{6040}{}{Do you have any work for me? I'd like to earn a few caps.}
+{6040}{}{Do you have any work for me? I'd like to earn a few @lex money@.}
 {6050}{}{I lost your meat jerkys on my way.}
 {6060}{}{I would like you to make me some of your famous jerky.}
 {6070}{}{I have to go now.}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -206,7 +206,7 @@ lang=engl czec pols span russ
 {6010}{}{Well, I've come to be a bit of a bother really. Balthas has been complaining about his lack of hides...}
 {6020}{}{Can you tell me a little bit about the slaughterhouse?}
 {6030}{}{Do you think I might be able to do another delivery?}
-{6040}{}{Do you have any work for me? I'd like to earn a few caps.}
+{6040}{}{Do you have any work for me? I'd like to earn a few @lex money@.}
 {6050}{}{I lost your meat jerkys on my way.}
 {6060}{}{I would like you to make me some of your famous jerky.}
 {6070}{}{I have to go now.}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -250,7 +250,7 @@ lang=engl czec pols span russ
 {6010}{}{Well, I've come to be a bit of a bother really. Balthas has been complaining about his lack of hides...}
 {6020}{}{Can you tell me a little bit about the slaughterhouse?}
 {6030}{}{Do you think I might be able to do another delivery?}
-{6040}{}{Do you have any work for me? I'd like to earn a few caps.}
+{6040}{}{Do you have any work for me? I'd like to earn a few @lex money@.}
 {6050}{}{I lost your meat jerkys on my way.}
 {6060}{}{I would like you to make me some of your famous jerky.}
 {6070}{}{I have to go now.}

@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p KARMA_SLAVER > 0 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 4 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 1 &
+5 5000 main@dlg_Caps 1 &
 
 [engl]
 {100}{}{Elise}
@@ -39,12 +39,12 @@ lang=engl czec pols span russ
 {3010}{}{You don't look like a charity or a church.}
 {3020}{}{Sounds interesting. Right in what way?}
 {3030}{}{Good for you. Bye.}
-{4000}{}{It's none of your business. Just get yourself out of here. Saloon's back on main street.}
+{4000}{}{It's main@dlg_Caps of your business. Just get yourself out of here. Saloon's back on main street.}
 {4010}{}{Fine.}
 {5000}{}{Get out of here slaver scum!@@Get out of here, NOW!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver no-homo}
 {1020}{}{Answer text}
@@ -57,12 +57,12 @@ lang=engl czec pols span russ
 {3010}{}{You don't look like a charity or a church.}
 {3020}{}{Sounds interesting. Right in what way?}
 {3030}{}{Good for you. Bye.}
-{4000}{}{It's none of your business. Just get yourself out of here. Saloon's back on main street.}
+{4000}{}{It's main@dlg_Caps of your business. Just get yourself out of here. Saloon's back on main street.}
 {4010}{}{Fine.}
 {5000}{}{Get out of here slaver scum!@@Get out of here, NOW!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver no-homo}
 {1020}{}{Answer text}
@@ -75,12 +75,12 @@ lang=engl czec pols span russ
 {3010}{}{You don't look like a charity or a church.}
 {3020}{}{Sounds interesting. Right in what way?}
 {3030}{}{Good for you. Bye.}
-{4000}{}{It's none of your business. Just get yourself out of here. Saloon's back on main street.}
+{4000}{}{It's main@dlg_Caps of your business. Just get yourself out of here. Saloon's back on main street.}
 {4010}{}{Fine.}
 {5000}{}{Get out of here slaver scum!@@Get out of here, NOW!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver no-homo}
 {1020}{}{Answer text}
@@ -93,12 +93,12 @@ lang=engl czec pols span russ
 {3010}{}{You don't look like a charity or a church.}
 {3020}{}{Sounds interesting. Right in what way?}
 {3030}{}{Good for you. Bye.}
-{4000}{}{It's none of your business. Just get yourself out of here. Saloon's back on main street.}
+{4000}{}{It's main@dlg_Caps of your business. Just get yourself out of here. Saloon's back on main street.}
 {4010}{}{Fine.}
 {5000}{}{Get out of here slaver scum!@@Get out of here, NOW!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver no-homo}
 {1020}{}{Answer text}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {3010}{}{You don't look like a charity or a church.}
 {3020}{}{Sounds interesting. Right in what way?}
 {3030}{}{Good for you. Bye.}
-{4000}{}{It's none of your business. Just get yourself out of here. Saloon's back on main street.}
+{4000}{}{It's main@dlg_Caps of your business. Just get yourself out of here. Saloon's back on main street.}
 {4010}{}{Fine.}
 {5000}{}{Get out of here slaver scum!@@Get out of here, NOW!}
 

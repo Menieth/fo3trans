@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D no_recheck _script arena@d_HasContract 0  R _script arena@r_DirectToContractNode 0  #
 22 1020 D no_recheck _script arena@d_IsRoomBusy 0  #
 2 1030 @
-2 2000 None 1 #
+2 2000 main@dlg_Caps 1 #
 5 2010 R _script arena@r_ContractCreate 0  #
 8 2020 D no_recheck _script arena@d_ClosedContractExists 0  #
 0 2030 @
-3 3000 None 1 #
+3 3000 main@dlg_Caps 1 #
 0 3010 #
 10 3020 R _script arena@r_ContractCancel 0  @
-4 4000 None 1 #
+4 4000 main@dlg_Caps 1 #
 0 4010 #
 10 4020 R _script arena@r_ContractCancel 0  @
-5 5000 None 1 #
+5 5000 main@dlg_Caps 1 #
 6 5010 R _script arena@r_ContractSetType 1 0 #
 6 5020 D _script dialog@d_IsMemberOfSomeFaction 0  R _script arena@r_ContractSetType 1 1 #
 65505 5030 R _script arena@r_ContractCancel 0  @
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 24 9030 R _script arena@r_ContractSetRule 2 1 2 #
 24 9040 R _script arena@r_ContractSetRule 2 1 3 #
 7 9050 @
-8 10000 None 1 #
+8 10000 main@dlg_Caps 1 #
 9 10010 D no_recheck _script arena@d_ClosedContractExists 1 0 R _script arena@r_PrepareContractList 1 0 #
 16 10020 D _script dialog@d_IsMemberOfSomeFaction 0  D no_recheck _script arena@d_ClosedContractExists 1 1 R _script arena@r_PrepareContractList 1 1 #
 65505 10030 @
@@ -55,18 +55,18 @@ lang=engl czec pols span russ
 12 11030 D no_recheck _script arena@d_IsContract 2 0 2 R _script arena@r_ContractAccept 2 0 2 #
 12 11040 D no_recheck _script arena@d_IsContract 2 0 3 R _script arena@r_ContractAccept 2 0 3 #
 65505 11050 @
-10 12000 None 0 #
+10 12000 main@dlg_Caps 0 #
 0 12010 @
-11 13000 None 0 #
+11 13000 main@dlg_Caps 0 #
 0 13010 @
 12 14000 arena@dlg_ContractRule2 0 #
 2 14010 #
 0 14020 R _script arena@r_StartCombat 0  @
-13 15000 None 0 #
+13 15000 main@dlg_Caps 0 #
 0 15010 @
-14 16000 None 0 #
+14 16000 main@dlg_Caps 0 #
 0 16010 @
-15 17000 None 0 #
+15 17000 main@dlg_Caps 0 #
 2 17010 @
 16 18000 arena@dlg_FvFName 0 #
 17 18010 D no_recheck _script arena@d_IsContract 2 1 0 R _script arena@r_ContractAccept 2 1 0 #
@@ -76,22 +76,22 @@ lang=engl czec pols span russ
 17 19000 arena@dlg_ContractRule2 0 #
 2 19010 #
 0 19020 R _script arena@r_StartCombat 0  @
-18 20000 None 0 #
+18 20000 main@dlg_Caps 0 #
 2 20010 @
-19 21000 None 0 #
+19 21000 main@dlg_Caps 0 #
 2 21010 @
-20 22000 None 0 #
+20 22000 main@dlg_Caps 0 #
 2 22010 @
-21 23000 None 0 #
+21 23000 main@dlg_Caps 0 #
 0 23010 @
-22 24000 None 0 #
+22 24000 main@dlg_Caps 0 #
 0 24010 @
-100 25000 None 0 @
-30 26000 None 0 #
+100 25000 main@dlg_Caps 0 @
+30 26000 main@dlg_Caps 0 #
 0 26010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -349,7 +349,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -435,7 +435,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}

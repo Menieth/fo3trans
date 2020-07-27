@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 5 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 &
 
 [engl]
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {5010}{}{[Back]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Various unimportant and useless messages are attached to this bulleting board. Some might be at least a bit useful.}
@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {5010}{}{[Back]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Various unimportant and useless messages are attached to this bulleting board. Some might be at least a bit useful.}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {5010}{}{[Back]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Various unimportant and useless messages are attached to this bulleting board. Some might be at least a bit useful.}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {5010}{}{[Back]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Various unimportant and useless messages are attached to this bulleting board. Some might be at least a bit useful.}

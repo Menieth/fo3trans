@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _var p q_bh_max = 0 #
 5 2020 #
 0 2030 #
 7 2040 D _var p q_bh_max = 3 R _item p PID_BOTTLE_CAPS + 2600 R _param p ST_EXPERIENCE + 3000 R _script dialog@r_cd_quest 2 500 526 R _var p q_bh_max = 4 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 #
 0 3020 R _var p q_bh_max = 1 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 2 4010 @
-6 5000 None 0 @
-7 6000 None 0 #
+6 5000 main@dlg_Caps 0 @
+7 6000 main@dlg_Caps 0 #
 0 6010 #
 0 6020 &
 
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}

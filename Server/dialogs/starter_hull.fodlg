@@ -6,50 +6,50 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p starter_hullquest = 0 #
 14 1020 D _var p starter_hullquest = 3 #
 15 1030 D _var p starter_hullquest = 2 #
 5 1040 D _var p starter_hullquest = 1 #
 14 1050 D _param p ST_CHARISMA < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var p starter_hullquest = 1 #
 0 2020 R _var p starter_hullquest = 3 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 #
 4 3020 #
 0 3030 R _var p starter_hullquest = 3 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 0 4020 R _var p starter_hullquest = 3 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 D _item p PID_SPRINGER_RIFLE = 1 R _item p PID_SPRINGER_RIFLE - 1 R _var p starter_hullquest = 2 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 R _param p ST_EXPERIENCE + 180 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 9 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 12 12010 #
 12 12020 #
 12 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 R _var p loyality + 5 @
-14 14000 None 0 @
-15 15000 None 0 &
+14 14000 main@dlg_Caps 0 @
+15 15000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Hull}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {15000}{}{You take care of yourself, now.@@Be careful out there.@@Make sure you train up before you leave town.@@Once you leave, you ain't coming back.@@The Captain don't let in anyone from the outside.@@Hope you've said your goodbyes.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Start}
 {1020}{}{Refused}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {15000}{}{You take care of yourself, now.@@Be careful out there.@@Make sure you train up before you leave town.@@Once you leave, you ain't coming back.@@The Captain don't let in anyone from the outside.@@Hope you've said your goodbyes.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Start}
 {1020}{}{Refused}
@@ -195,7 +195,7 @@ lang=engl czec pols span russ
 {15000}{}{You take care of yourself, now.@@Be careful out there.@@Make sure you train up before you leave town.@@Once you leave, you ain't coming back.@@The Captain don't let in anyone from the outside.@@Hope you've said your goodbyes.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Start}
 {1020}{}{Refused}
@@ -242,7 +242,7 @@ lang=engl czec pols span russ
 {15000}{}{You take care of yourself, now.@@Be careful out there.@@Make sure you train up before you leave town.@@Once you leave, you ain't coming back.@@The Captain don't let in anyone from the outside.@@Hope you've said your goodbyes.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Start}
 {1020}{}{Refused}

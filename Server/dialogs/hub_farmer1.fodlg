@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p hub_job_waterboy { 10 D _script dialog@d_QuestTimeoutReady 0  D _var p hub_job_waterboy } 1 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 D _item p PID_WATERBAG > 0 R _var p hub_job_waterboy + 1 R _script dialog@r_QuestTimeout 1 15 R _item p PID_WATERBAG_EMPTY + 1 R _item p PID_WATERBAG - 1 #
 0 3020 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Hub Farmer}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}

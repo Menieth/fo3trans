@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 50 1010 D _var p q_nr_corsican_execution > 9 #
 2 1020 @
-2 2000 None 0 @
-10 3000 None 0 @
-50 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+10 3000 main@dlg_Caps 0 @
+50 4000 main@dlg_Caps 0 #
 52 4010 D _var p q_nr_corsican_execution = 14 R _var p q_nr_corsican_execution = 2 #
 10 4020 D _var p q_nr_corsican_execution ! 14 #
 0 4030 @
-51 5000 None 0 @
-52 6000 None 0 #
+51 5000 main@dlg_Caps 0 @
+52 6000 main@dlg_Caps 0 #
 53 6010 #
 0 6020 @
-53 7000 None 0 #
+53 7000 main@dlg_Caps 0 #
 0 7010 @
-54 8000 None 0 &
+54 8000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mechanic}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{2}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{2}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{2}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {8000}{}{- - - - - - - - - - - - - - - - - - - - QUEST END - - - - - - - - - - - - - - - - - - - -}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{2}

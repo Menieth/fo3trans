@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _script bounties@d_HasInfo 1 0 #
 2 1020 D _var p name_mem_npc_player = 1 #
 5 1030 D _param p ST_INTELLECT < 4 D _param p ST_INTELLECT > 4 #
 6 1040 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 100 2010 D _param p ST_INTELLECT > 1000 #
 110 2020 D _param p ST_INTELLECT > 1000 R _script bounties@r_ShowFirstBounty 1 111 #
 120 2030 D _script bounties@d_HasProof 1 0 D _param p ST_INTELLECT > 1000 R _script bounties@r_CheckBounty 1 121 #
@@ -29,57 +29,57 @@ lang=engl czec pols span russ
 100 4000 bounties@dlg_ChoosePlayer 0 #
 101 4010 R _script bounties@r_PlayerChosen 1 100 #
 0 4020 @
-101 5000 None 0 #
-102 5010 D _item p PID_BOTTLE_CAPS > 999 R _script bounties@r_SetBounty 1 1000 R _script dialog@r_RemoveMoney 1 1000 #
-102 5020 D _item p PID_BOTTLE_CAPS > 4999 R _script bounties@r_SetBounty 1 5000 R _script dialog@r_RemoveMoney 1 5000 #
-102 5030 D _item p PID_BOTTLE_CAPS > 9999 R _script bounties@r_SetBounty 1 10000 R _script dialog@r_RemoveMoney 1 10000 #
+101 5000 main@dlg_Caps 0 #
+102 5010 D _script dialog@d_havepropermoney 1 999 R _script bounties@r_SetBounty 1 1000 R _script dialog@r_RemoveMoney 1 1000 #
+102 5020 D _script dialog@d_havepropermoney 1 4999 R _script bounties@r_SetBounty 1 5000 R _script dialog@r_RemoveMoney 1 5000 #
+102 5030 D _script dialog@d_havepropermoney 1 9999 R _script bounties@r_SetBounty 1 10000 R _script dialog@r_RemoveMoney 1 10000 #
 0 5040 @
-102 6000 None 0 #
+102 6000 main@dlg_Caps 0 #
 0 6010 @
 110 7000 bounties@dlg_ShowBounty 0 #
 110 7010 R _script bounties@r_ShowNextBounty 1 111 #
 0 7020 @
-111 8000 None 0 #
+111 8000 main@dlg_Caps 0 #
 0 8010 @
-120 9000 None 0 #
+120 9000 main@dlg_Caps 0 #
 0 9010 R _script bounties@r_FetchBounty 1 1 @
-121 10000 None 0 #
+121 10000 main@dlg_Caps 0 #
 0 10010 @
-201 11000 None 0 #
+201 11000 main@dlg_Caps 0 #
 202 11010 #
 2 11020 @
-5 12000 None 0 @
-6 13000 None 0 #
+5 12000 main@dlg_Caps 0 @
+6 13000 main@dlg_Caps 0 #
 7 13010 #
 2 13020 #
 0 13030 @
-7 14000 None 0 #
+7 14000 main@dlg_Caps 0 #
 8 14010 #
 2 14020 @
-8 15000 None 0 #
+8 15000 main@dlg_Caps 0 #
 9 15010 #
 2 15020 #
 0 15030 #
 201 15040 @
-9 16000 None 0 #
+9 16000 main@dlg_Caps 0 #
 2 16010 #
 0 16020 @
-4 17000 None 0 #
+4 17000 main@dlg_Caps 0 #
 10 17010 @
-10 18000 None 0 #
+10 18000 main@dlg_Caps 0 #
 11 18010 @
-11 19000 None 0 #
+11 19000 main@dlg_Caps 0 #
 12 19010 @
-12 20000 None 0 #
+12 20000 main@dlg_Caps 0 #
 13 20010 #
 0 20020 @
-13 21000 None 0 #
+13 21000 main@dlg_Caps 0 #
 2 21010 #
 0 21020 @
 50 22000 town@dlg_ShowMilitiaCost 0 #
 50 22010 R _script town@r_RecruitMilitia 0  #
 2 22020 @
-75 23000 None 0 #
+75 23000 main@dlg_Caps 0 #
 76 23010 #
 77 23020 R _script town@r_SetFriendlyFactionsMode 1 1 #
 77 23030 R _script town@r_SetFriendlyFactionsMode 1 0 @
@@ -89,26 +89,26 @@ lang=engl czec pols span russ
 2 24030 @
 77 25000 town@dlg_ManipulateFriendlyFactions 0 #
 2 25010 @
-202 26000 None 0 #
+202 26000 main@dlg_Caps 0 #
 2 26010 #
 0 26020 D _param p SK_SCIENCE > 80 #
 0 26030 @
-302 27000 None 0 #
+302 27000 main@dlg_Caps 0 #
 0 27010 #
 130 27020 D _script town@d_MembersAlmost 1 1 R _script town@r_TakeoverCheck 1 0 @
-301 28000 None 0 #
+301 28000 main@dlg_Caps 0 #
 0 28010 #
 130 28020 D _script town@d_PresentAlmost 1 1 R _script town@r_TakeoverCheck 1 0 @
-130 29000 None 0 #
+130 29000 main@dlg_Caps 0 #
 0 29010 #
 65507 29020 @
-310 30000 None 0 #
+310 30000 main@dlg_Caps 0 #
 0 30010 R _script town@r_GainControl 1 0 #
 0 30020 @
-320 31000 None 0 #
+320 31000 main@dlg_Caps 0 #
 0 31010 R _script town@r_GainControl 1 0 #
 0 31020 @
-220 32000 None 0 #
+220 32000 main@dlg_Caps 0 #
 2 32010 @
 500 33000 town@dlg_ShowPolicies 0 #
 500 33010 D _script town@d_IsPolicy 1 2 R _script town@r_SetPolicy 2 2 0 #
@@ -118,16 +118,16 @@ lang=engl czec pols span russ
 500 33050 D _script town@d_IsNotPolicy 1 3 R _script town@r_SetPolicy 2 3 1 #
 500 33060 D _script town@d_IsPolicy 1 3 R _script town@r_SetPolicy 2 3 0 #
 2 33070 @
-410 34000 None 0 #
+410 34000 main@dlg_Caps 0 #
 0 34010 @
-420 35000 None 0 #
+420 35000 main@dlg_Caps 0 #
 0 35010 @
-430 36000 None 0 #
+430 36000 main@dlg_Caps 0 #
 0 36010 @
-440 37000 None 0 @
-450 38000 None 0 #
+440 37000 main@dlg_Caps 0 @
+450 38000 main@dlg_Caps 0 #
 0 38010 @
-330 39000 None 0 &
+330 39000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Sheriff}
@@ -204,8 +204,8 @@ lang=engl czec pols span russ
 {21000}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to count on when push comes to shove. That's enough�for now.}
 {21010}{}{Interesting. Let me ask you something else.}
 {21020}{}{Hmm, something to think about, anyhow. Goodbye.}
-{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{22010}{}{Sounds good, here's @lex cost@ caps.}
+{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{22010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {22020}{}{Nah, I think we're doing fine as it is now.}
 {23000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {23010}{}{Show me the friendly factions.}
@@ -253,7 +253,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {34010}{}{Right.}
 {35000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {35010}{}{Ok.}
-{36000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{36000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {36010}{}{Yeah, yeah...}
 {37000}{}{Error. Report this.}
 {38000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -261,7 +261,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {39000}{}{Guards, get those retards!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{info}
 {1020}{}{default}
@@ -332,8 +332,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {21000}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to count on when push comes to shove. That's enough�for now.}
 {21010}{}{Interesting. Let me ask you something else.}
 {21020}{}{Hmm, something to think about, anyhow. Goodbye.}
-{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{22010}{}{Sounds good, here's @lex cost@ caps.}
+{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{22010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {22020}{}{Nah, I think we're doing fine as it is now.}
 {23000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {23010}{}{Show me the friendly factions.}
@@ -381,7 +381,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {34010}{}{Right.}
 {35000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {35010}{}{Ok.}
-{36000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{36000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {36010}{}{Yeah, yeah...}
 {37000}{}{Error. Report this.}
 {38000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -389,7 +389,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {39000}{}{Guards, get those retards!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{info}
 {1020}{}{default}
@@ -460,8 +460,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {21000}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to count on when push comes to shove. That's enough�for now.}
 {21010}{}{Interesting. Let me ask you something else.}
 {21020}{}{Hmm, something to think about, anyhow. Goodbye.}
-{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{22010}{}{Sounds good, here's @lex cost@ caps.}
+{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{22010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {22020}{}{Nah, I think we're doing fine as it is now.}
 {23000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {23010}{}{Show me the friendly factions.}
@@ -509,7 +509,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {34010}{}{Right.}
 {35000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {35010}{}{Ok.}
-{36000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{36000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {36010}{}{Yeah, yeah...}
 {37000}{}{Error. Report this.}
 {38000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -517,7 +517,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {39000}{}{Guards, get those retards!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{info}
 {1020}{}{default}
@@ -588,8 +588,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {21000}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to count on when push comes to shove. That's enough�for now.}
 {21010}{}{Interesting. Let me ask you something else.}
 {21020}{}{Hmm, something to think about, anyhow. Goodbye.}
-{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{22010}{}{Sounds good, here's @lex cost@ caps.}
+{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{22010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {22020}{}{Nah, I think we're doing fine as it is now.}
 {23000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {23010}{}{Show me the friendly factions.}
@@ -637,7 +637,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {34010}{}{Right.}
 {35000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {35010}{}{Ok.}
-{36000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{36000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {36010}{}{Yeah, yeah...}
 {37000}{}{Error. Report this.}
 {38000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -645,7 +645,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {39000}{}{Guards, get those retards!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{info}
 {1020}{}{default}
@@ -716,8 +716,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {21000}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to count on when push comes to shove. That's enough�for now.}
 {21010}{}{Interesting. Let me ask you something else.}
 {21020}{}{Hmm, something to think about, anyhow. Goodbye.}
-{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{22010}{}{Sounds good, here's @lex cost@ caps.}
+{22000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{22010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {22020}{}{Nah, I think we're doing fine as it is now.}
 {23000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {23010}{}{Show me the friendly factions.}
@@ -765,7 +765,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {34010}{}{Right.}
 {35000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {35010}{}{Ok.}
-{36000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{36000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {36010}{}{Yeah, yeah...}
 {37000}{}{Error. Report this.}
 {38000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}

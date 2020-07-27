@@ -6,43 +6,44 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var p name_mem_npc_player = 1 #
 8 2020 D _var p name_mem_npc_player = 1 #
 9 2030 #
-0 2040 @
-3 3000 None 0 #
+0 2040 #
+13 2050 D _var p citizenship = 1 R _script dialog@r_OpenDoor 2 33 40 @
+3 3000 main@dlg_Caps 0 #
 8 3010 #
 4 3020 #
 6 3030 #
 9 3040 #
 0 3050 #
 13 3060 D _var p citizenship = 1 R _script dialog@r_OpenDoor 2 33 60 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 #
 7 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 3 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 3 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 3 7020 @
-8 8000 None 0 #
-13 8010 D _item p PID_DOLLAR } 2 R _script dialog@r_OpenDoor 2 33 60 R _item p PID_DOLLAR - 2 #
+8 8000 main@dlg_Caps 0 #
+13 8010 D _item p PID_DOLLAR } 2 D _item p PID_ENCLAVE_MONEY = 0 D _item p PID_BOS_MONEY = 0 D _item p PID_VC_MONEY = 0 D _item p PID_NCR_MONEY = 0 D _item p PID_MA_MONEY = 0 D _item p PID_BOTTLE_CAPS = 0 R _script dialog@r_OpenDoor 2 33 60 R _item p PID_DOLLAR - 2 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 #
 8 10020 #
 12 10030 @
-12 11000 None 0 @
-13 12000 None 0 &
+12 11000 main@dlg_Caps 0 @
+13 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Guard}
@@ -53,18 +54,19 @@ lang=engl czec pols span russ
 {2020}{}{I want to buy a pass.}
 {2030}{}{Who are these people near the gate?}
 {2040}{}{Nothing.}
+{2050}{}{I am a citizen. Open the gate.}
 {3000}{}{The entrance is closed, if you wish to get in - buy a day pass. Day pass costs 2 golden dollars.}
 {3010}{}{I want to buy a pass.}
 {3020}{}{Closed? How come?}
-{3030}{}{What are these golden dollars? I have only caps on me.}
+{3030}{}{What are these golden dollars? I have only @lex money@ on me.}
 {3040}{}{Who are these people near the gate?}
 {3050}{}{Alright, see you then.}
 {3060}{}{I am a citizen. Here is my passport.}
 {4000}{}{Yes, access to Strip is restricted. You need to buy a pass if you wish to get in. Only Vegas citizens can get a free pass.}
-{4010}{}{What are these golden dollars? I have only caps on me.}
+{4010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {4020}{}{How can I become a citizen?}
 {5000}{}{Because Bosses don't wish to see Strips' streets flooding with beggars. Now... If you have no more questions - please back off, I have a lot of things to do.}
-{5010}{}{What are these golden dollars? I have only caps on me.}
+{5010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {5020}{}{One more thing.}
 {6000}{}{Visit FLC unit. They are in the motel, there you can get all explanations.}
 {6010}{}{Can I become a citizen?}
@@ -72,8 +74,8 @@ lang=engl czec pols span russ
 {7000}{}{Citizenship can be given only by our Mayor. You can visit him with your noisy problems. But to pass in you will have to buy a pass anyway.}
 {7010}{}{How much for a pass?}
 {7020}{}{I want to switch topic.}
-{8000}{}{A day pass costs 2 dollars.}
-{8010}{}{Here are 2 dollars. Can I get in?}
+{8000}{}{A day pass costs 2 dollars. Also make sure that any currency except the golden dollar is illegal here. We won't let you in as far as you have other currencies with you.}
+{8010}{}{Here are 2 dollars. I have nothing illegal on me. Can I get in?}
 {8020}{}{Nevermind.}
 {9000}{}{Who?... Ah, these... these are unlucky souls who didn't get their place in the city. Vegas has no mercy, once you lose your money, you are getting kicked out of the city. However, you shall not care about these idiots. Most of them lost their fortune in casinos or on booze.}
 {9010}{}{I see...}
@@ -85,7 +87,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -93,18 +95,19 @@ lang=engl czec pols span russ
 {2020}{}{I want to buy a pass.}
 {2030}{}{Who are these people near the gate?}
 {2040}{}{Nothing.}
+{2050}{}{I am a citizen. Open the gate.}
 {3000}{}{The entrance is closed, if you wish to get in - buy a day pass. Day pass costs 2 golden dollars.}
 {3010}{}{I want to buy a pass.}
 {3020}{}{Closed? How come?}
-{3030}{}{What are these golden dollars? I have only caps on me.}
+{3030}{}{What are these golden dollars? I have only @lex money@ on me.}
 {3040}{}{Who are these people near the gate?}
 {3050}{}{Alright, see you then.}
 {3060}{}{I am a citizen. Here is my passport.}
 {4000}{}{Yes, access to Strip is restricted. You need to buy a pass if you wish to get in. Only Vegas citizens can get a free pass.}
-{4010}{}{What are these golden dollars? I have only caps on me.}
+{4010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {4020}{}{How can I become a citizen?}
 {5000}{}{Because Bosses don't wish to see Strips' streets flooding with beggars. Now... If you have no more questions - please back off, I have a lot of things to do.}
-{5010}{}{What are these golden dollars? I have only caps on me.}
+{5010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {5020}{}{One more thing.}
 {6000}{}{Visit FLC unit. They are in the motel, there you can get all explanations.}
 {6010}{}{Can I become a citizen?}
@@ -112,8 +115,8 @@ lang=engl czec pols span russ
 {7000}{}{Citizenship can be given only by our Mayor. You can visit him with your noisy problems. But to pass in you will have to buy a pass anyway.}
 {7010}{}{How much for a pass?}
 {7020}{}{I want to switch topic.}
-{8000}{}{A day pass costs 2 dollars.}
-{8010}{}{Here are 2 dollars. Can I get in?}
+{8000}{}{A day pass costs 2 dollars. Also make sure that any currency except the golden dollar is illegal here. We won't let you in as far as you have other currencies with you.}
+{8010}{}{Here are 2 dollars. I have nothing illegal on me. Can I get in?}
 {8020}{}{Nevermind.}
 {9000}{}{Who?... Ah, these... these are unlucky souls who didn't get their place in the city. Vegas has no mercy, once you lose your money, you are getting kicked out of the city. However, you shall not care about these idiots. Most of them lost their fortune in casinos or on booze.}
 {9010}{}{I see...}
@@ -125,7 +128,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -133,18 +136,19 @@ lang=engl czec pols span russ
 {2020}{}{I want to buy a pass.}
 {2030}{}{Who are these people near the gate?}
 {2040}{}{Nothing.}
+{2050}{}{I am a citizen. Open the gate.}
 {3000}{}{The entrance is closed, if you wish to get in - buy a day pass. Day pass costs 2 golden dollars.}
 {3010}{}{I want to buy a pass.}
 {3020}{}{Closed? How come?}
-{3030}{}{What are these golden dollars? I have only caps on me.}
+{3030}{}{What are these golden dollars? I have only @lex money@ on me.}
 {3040}{}{Who are these people near the gate?}
 {3050}{}{Alright, see you then.}
 {3060}{}{I am a citizen. Here is my passport.}
 {4000}{}{Yes, access to Strip is restricted. You need to buy a pass if you wish to get in. Only Vegas citizens can get a free pass.}
-{4010}{}{What are these golden dollars? I have only caps on me.}
+{4010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {4020}{}{How can I become a citizen?}
 {5000}{}{Because Bosses don't wish to see Strips' streets flooding with beggars. Now... If you have no more questions - please back off, I have a lot of things to do.}
-{5010}{}{What are these golden dollars? I have only caps on me.}
+{5010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {5020}{}{One more thing.}
 {6000}{}{Visit FLC unit. They are in the motel, there you can get all explanations.}
 {6010}{}{Can I become a citizen?}
@@ -152,8 +156,8 @@ lang=engl czec pols span russ
 {7000}{}{Citizenship can be given only by our Mayor. You can visit him with your noisy problems. But to pass in you will have to buy a pass anyway.}
 {7010}{}{How much for a pass?}
 {7020}{}{I want to switch topic.}
-{8000}{}{A day pass costs 2 dollars.}
-{8010}{}{Here are 2 dollars. Can I get in?}
+{8000}{}{A day pass costs 2 dollars. Also make sure that any currency except the golden dollar is illegal here. We won't let you in as far as you have other currencies with you.}
+{8010}{}{Here are 2 dollars. I have nothing illegal on me. Can I get in?}
 {8020}{}{Nevermind.}
 {9000}{}{Who?... Ah, these... these are unlucky souls who didn't get their place in the city. Vegas has no mercy, once you lose your money, you are getting kicked out of the city. However, you shall not care about these idiots. Most of them lost their fortune in casinos or on booze.}
 {9010}{}{I see...}
@@ -165,7 +169,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -173,18 +177,19 @@ lang=engl czec pols span russ
 {2020}{}{I want to buy a pass.}
 {2030}{}{Who are these people near the gate?}
 {2040}{}{Nothing.}
+{2050}{}{I am a citizen. Open the gate.}
 {3000}{}{The entrance is closed, if you wish to get in - buy a day pass. Day pass costs 2 golden dollars.}
 {3010}{}{I want to buy a pass.}
 {3020}{}{Closed? How come?}
-{3030}{}{What are these golden dollars? I have only caps on me.}
+{3030}{}{What are these golden dollars? I have only @lex money@ on me.}
 {3040}{}{Who are these people near the gate?}
 {3050}{}{Alright, see you then.}
 {3060}{}{I am a citizen. Here is my passport.}
 {4000}{}{Yes, access to Strip is restricted. You need to buy a pass if you wish to get in. Only Vegas citizens can get a free pass.}
-{4010}{}{What are these golden dollars? I have only caps on me.}
+{4010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {4020}{}{How can I become a citizen?}
 {5000}{}{Because Bosses don't wish to see Strips' streets flooding with beggars. Now... If you have no more questions - please back off, I have a lot of things to do.}
-{5010}{}{What are these golden dollars? I have only caps on me.}
+{5010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {5020}{}{One more thing.}
 {6000}{}{Visit FLC unit. They are in the motel, there you can get all explanations.}
 {6010}{}{Can I become a citizen?}
@@ -192,8 +197,8 @@ lang=engl czec pols span russ
 {7000}{}{Citizenship can be given only by our Mayor. You can visit him with your noisy problems. But to pass in you will have to buy a pass anyway.}
 {7010}{}{How much for a pass?}
 {7020}{}{I want to switch topic.}
-{8000}{}{A day pass costs 2 dollars.}
-{8010}{}{Here are 2 dollars. Can I get in?}
+{8000}{}{A day pass costs 2 dollars. Also make sure that any currency except the golden dollar is illegal here. We won't let you in as far as you have other currencies with you.}
+{8010}{}{Here are 2 dollars. I have nothing illegal on me. Can I get in?}
 {8020}{}{Nevermind.}
 {9000}{}{Who?... Ah, these... these are unlucky souls who didn't get their place in the city. Vegas has no mercy, once you lose your money, you are getting kicked out of the city. However, you shall not care about these idiots. Most of them lost their fortune in casinos or on booze.}
 {9010}{}{I see...}
@@ -205,7 +210,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -213,18 +218,19 @@ lang=engl czec pols span russ
 {2020}{}{I want to buy a pass.}
 {2030}{}{Who are these people near the gate?}
 {2040}{}{Nothing.}
+{2050}{}{I am a citizen. Open the gate.}
 {3000}{}{The entrance is closed, if you wish to get in - buy a day pass. Day pass costs 2 golden dollars.}
 {3010}{}{I want to buy a pass.}
 {3020}{}{Closed? How come?}
-{3030}{}{What are these golden dollars? I have only caps on me.}
+{3030}{}{What are these golden dollars? I have only @lex money@ on me.}
 {3040}{}{Who are these people near the gate?}
 {3050}{}{Alright, see you then.}
 {3060}{}{I am a citizen. Here is my passport.}
 {4000}{}{Yes, access to Strip is restricted. You need to buy a pass if you wish to get in. Only Vegas citizens can get a free pass.}
-{4010}{}{What are these golden dollars? I have only caps on me.}
+{4010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {4020}{}{How can I become a citizen?}
 {5000}{}{Because Bosses don't wish to see Strips' streets flooding with beggars. Now... If you have no more questions - please back off, I have a lot of things to do.}
-{5010}{}{What are these golden dollars? I have only caps on me.}
+{5010}{}{What are these golden dollars? I have only @lex money@ on me.}
 {5020}{}{One more thing.}
 {6000}{}{Visit FLC unit. They are in the motel, there you can get all explanations.}
 {6010}{}{Can I become a citizen?}
@@ -232,8 +238,8 @@ lang=engl czec pols span russ
 {7000}{}{Citizenship can be given only by our Mayor. You can visit him with your noisy problems. But to pass in you will have to buy a pass anyway.}
 {7010}{}{How much for a pass?}
 {7020}{}{I want to switch topic.}
-{8000}{}{A day pass costs 2 dollars.}
-{8010}{}{Here are 2 dollars. Can I get in?}
+{8000}{}{A day pass costs 2 dollars. Also make sure that any currency except the golden dollar is illegal here. We won't let you in as far as you have other currencies with you.}
+{8010}{}{Here are 2 dollars. I have nothing illegal on me. Can I get in?}
 {8020}{}{Nevermind.}
 {9000}{}{Who?... Ah, these... these are unlucky souls who didn't get their place in the city. Vegas has no mercy, once you lose your money, you are getting kicked out of the city. However, you shall not care about these idiots. Most of them lost their fortune in casinos or on booze.}
 {9010}{}{I see...}

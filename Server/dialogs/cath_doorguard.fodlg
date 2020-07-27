@@ -6,35 +6,35 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _script dialog@d_WeaponInHand 0  #
 3 1020 @
-2 2000 None 0 @
-3 3000 None 1 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 1 #
 4 3010 D _var p q_cath_entrance_paid = 1 #
 5 3020 #
 9 3030 #
 8 3040 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 R _script dialog@r_TeleportToMap 2 76 0 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _var p q_cath_entrance_paid = 0 #
 4 5020 D _var p q_cath_entrance_paid = 1 #
 0 5030 @
-6 6000 None 0 #
-4 6010 D _item p PID_BOTTLE_CAPS } 10 R _var p q_cath_entrance_paid = 1 R _script dialog@r_RemoveMoney 1 10 #
+6 6000 main@dlg_Caps 0 #
+4 6010 D _script dialog@d_havepropermoney 1 10 R _var p q_cath_entrance_paid = 1 R _script dialog@r_RemoveMoney 1 10 #
 7 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 3 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 6 8010 D _var p q_cath_entrance_paid = 0 #
 4 8020 D _var p q_cath_entrance_paid = 1 #
 3 8030 #
 0 8040 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 3 9010 #
 0 9020 &
 
@@ -59,8 +59,8 @@ lang=engl czec pols span russ
 {5010}{}{Am I allowed to enter the place?}
 {5020}{}{Am I allowed to enter the place?}
 {5030}{}{Goodbye.}
-{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
-{6010}{}{Here are 10 caps.}
+{6000}{}{For a small obolus of 10 @lex prefix@ @lex money@, you may be allowed to enter the place. }
+{6010}{}{Here are 10 @lex money@.}
 {6020}{}{I don't have the money.}
 {7000}{}{Then I cannot allow you to pass, wastelander.}
 {7010}{}{I have a question.}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -93,8 +93,8 @@ lang=engl czec pols span russ
 {5010}{}{Am I allowed to enter the place?}
 {5020}{}{Am I allowed to enter the place?}
 {5030}{}{Goodbye.}
-{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
-{6010}{}{Here are 10 caps.}
+{6000}{}{For a small obolus of 10 @lex prefix@ @lex money@, you may be allowed to enter the place. }
+{6010}{}{Here are 10 @lex money@.}
 {6020}{}{I don't have the money.}
 {7000}{}{Then I cannot allow you to pass, wastelander.}
 {7010}{}{I have a question.}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -127,8 +127,8 @@ lang=engl czec pols span russ
 {5010}{}{Am I allowed to enter the place?}
 {5020}{}{Am I allowed to enter the place?}
 {5030}{}{Goodbye.}
-{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
-{6010}{}{Here are 10 caps.}
+{6000}{}{For a small obolus of 10 @lex prefix@ @lex money@, you may be allowed to enter the place. }
+{6010}{}{Here are 10 @lex money@.}
 {6020}{}{I don't have the money.}
 {7000}{}{Then I cannot allow you to pass, wastelander.}
 {7010}{}{I have a question.}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -161,8 +161,8 @@ lang=engl czec pols span russ
 {5010}{}{Am I allowed to enter the place?}
 {5020}{}{Am I allowed to enter the place?}
 {5030}{}{Goodbye.}
-{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
-{6010}{}{Here are 10 caps.}
+{6000}{}{For a small obolus of 10 @lex prefix@ @lex money@, you may be allowed to enter the place. }
+{6010}{}{Here are 10 @lex money@.}
 {6020}{}{I don't have the money.}
 {7000}{}{Then I cannot allow you to pass, wastelander.}
 {7010}{}{I have a question.}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -195,8 +195,8 @@ lang=engl czec pols span russ
 {5010}{}{Am I allowed to enter the place?}
 {5020}{}{Am I allowed to enter the place?}
 {5030}{}{Goodbye.}
-{6000}{}{For a small obolus of 10 bottle caps, you may be allowed to enter the place. }
-{6010}{}{Here are 10 caps.}
+{6000}{}{For a small obolus of 10 @lex prefix@ @lex money@, you may be allowed to enter the place. }
+{6010}{}{Here are 10 @lex money@.}
 {6020}{}{I don't have the money.}
 {7000}{}{Then I cannot allow you to pass, wastelander.}
 {7010}{}{I have a question.}

@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Slave}
@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{::Looks blankly at you::@@::Cries silently::@@::Stares at you blankly::@@::Blinks at you stupidly::@@::Gives a wheezing cough::@@::Mumbles something that you can't make out.::@@Hnnnnh….hnnn@@::Wipes nose::@@Hunnnnnh@@Rrrurrr..rr..::Coughs::}

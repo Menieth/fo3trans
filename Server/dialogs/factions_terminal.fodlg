@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _script factions_terminal@d_Terminal_IsMember 1 0 R _script factions_terminal@r_UpdateLastUsed 0  #
 60 1020 D _script factions_terminal@d_IsInvited 1 0 D _script dialog@d_NotMemberOfAnyFaction 0  #
 70 1030 D _script dialog@d_IsMemberOfSomeFaction 0  D _script factions_terminal@d_IsInvited 1 0 #
 100 1040 D _script factions_terminal@d_Terminal_NotMember 1 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 @
 4 3000 factions_terminal@dlg_FactionName 0 #
 118 3010 R _script factions_terminal@r_GoToNews 1 0 #
@@ -20,7 +20,7 @@ lang=engl czec pols span russ
 6 3040 #
 200 3050 D _script dialog@d_IsLeader 0  R _script factions_terminal@r_SelectBase 1 0 #
 0 3060 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 10 4010 D _var p factions_player_rank > 2 #
 40 4020 D _var p factions_player_rank > 2 #
 41 4030 D _var p factions_player_rank > 3 #
@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 44 4050 R _script factions_terminal@r_SelectMember 1 0 #
 4 4060 #
 0 4070 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 81 5010 D _script factions_terminal@d_CanConfirmLeadership 1 0 R _script factions_terminal@r_ConfirmLeadership 1 0 #
 31 5020 D _var p factions_player_rank < 4 #
 32 5030 D _var p factions_player_rank > 3 #
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 4 5070 #
 400 5080 D _var p factions_player_rank = 5 #
 0 5090 @
-9 6000 None 0 #
+9 6000 main@dlg_Caps 0 #
 16 6010 #
 17 6020 #
 18 6030 R _script factions_terminal@r_SelectRecord 1 0 #
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 10 7000 factions_terminal@dlg_Invite 0 #
 65505 7010 #
 0 7020 @
-15 8000 None 0 #
+15 8000 main@dlg_Caps 0 #
 18 8010 @
 16 9000 factions_terminal@dlg_AddPlayer 0 #
 65505 9010 #
@@ -66,13 +66,13 @@ lang=engl czec pols span russ
 9 11070 #
 4 11080 #
 0 11090 @
-19 12000 None 0 #
+19 12000 main@dlg_Caps 0 #
 22 12010 R _script factions_terminal@r_ModifyStatus 1 1 #
 22 12020 R _script factions_terminal@r_ModifyStatus 1 2 #
 22 12030 R _script factions_terminal@r_ModifyStatus 1 3 #
 65505 12040 #
 0 12050 @
-20 13000 None 0 #
+20 13000 main@dlg_Caps 0 #
 22 13010 R _script factions_terminal@r_ModifyRank 1 1 #
 22 13020 R _script factions_terminal@r_ModifyRank 1 2 #
 22 13030 R _script factions_terminal@r_ModifyRank 1 3 #
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 22 13050 R _script factions_terminal@r_ModifyRank 1 5 #
 65505 13060 #
 0 13070 @
-21 14000 None 0 #
+21 14000 main@dlg_Caps 0 #
 22 14010 R _script factions_terminal@r_ModifyFaction 1 2 #
 22 14020 R _script factions_terminal@r_ModifyFaction 1 3 #
 22 14030 R _script factions_terminal@r_ModifyFaction 1 4 #
@@ -92,13 +92,13 @@ lang=engl czec pols span russ
 23 15000 factions_terminal@dlg_ModifyFactionByName 0 #
 65505 15010 #
 0 15020 @
-22 16000 None 0 #
+22 16000 main@dlg_Caps 0 #
 18 16010 #
 0 16020 @
-29 17000 None 0 #
+29 17000 main@dlg_Caps 0 #
 65505 17010 #
 0 17020 @
-30 18000 None 0 #
+30 18000 main@dlg_Caps 0 #
 18 18010 #
 0 18020 @
 31 19000 factions_terminal@dlg_RadioChannel 0 #
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 32 20000 factions_terminal@dlg_RadioChannel 0 #
 65505 20010 #
 0 20020 @
-35 21000 None 0 #
+35 21000 main@dlg_Caps 0 #
 18 21010 R _script factions_terminal@r_ModifyReputation 1 1 #
 18 21020 R _script factions_terminal@r_ModifyReputation 1 0 #
 18 21030 R _script factions_terminal@r_ModifyReputation 1 -1 #
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 42 24000 factions_terminal@dlg_ExpelMember 0 #
 65505 24010 #
 0 24020 @
-43 25000 None 0 #
+43 25000 main@dlg_Caps 0 #
 5 25010 #
 0 25020 @
 44 26000 factions_terminal@dlg_ShowRecord 0 #
@@ -134,39 +134,39 @@ lang=engl czec pols span russ
 43 26060 D _var p factions_player_rank > 4 R _script factions_terminal@r_ExpelMember 1 0 #
 4 26070 #
 0 26080 @
-45 27000 None 0 #
+45 27000 main@dlg_Caps 0 #
 44 27010 #
 0 27020 @
-46 28000 None 0 #
+46 28000 main@dlg_Caps 0 #
 44 28010 R _script factions_terminal@r_ModifyReputation 1 1 #
 44 28020 R _script factions_terminal@r_ModifyReputation 1 0 #
 44 28030 R _script factions_terminal@r_ModifyReputation 1 -1 #
 44 28040 #
 0 28050 @
-50 29000 None 0 #
+50 29000 main@dlg_Caps 0 #
 51 29010 #
 6 29020 @
-51 30000 None 0 #
+51 30000 main@dlg_Caps 0 #
 0 30010 R _script factions_terminal@r_Resign 1 0 #
 0 30020 @
-59 31000 None 0 #
+59 31000 main@dlg_Caps 0 #
 60 31010 @
 60 32000 factions_terminal@dlg_FactionName 0 #
 4 32010 R _script factions_terminal@r_ConfirmInvitation 1 0 #
 0 32020 @
-69 33000 None 0 #
+69 33000 main@dlg_Caps 0 #
 70 33010 @
 70 34000 factions_terminal@dlg_FactionName 0 #
 0 34010 @
-80 35000 None 0 #
+80 35000 main@dlg_Caps 0 #
 0 35010 @
-81 36000 None 0 #
+81 36000 main@dlg_Caps 0 #
 0 36010 @
-82 37000 None 0 #
+82 37000 main@dlg_Caps 0 #
 6 37010 R _script factions_terminal@r_CancelClaim 1 0 #
 6 37020 #
 0 37030 @
-100 38000 None 0 #
+100 38000 main@dlg_Caps 0 #
 0 38010 @
 110 39000 factions_terminal@dlg_ShowNews 0 #
 117 39010 R _script factions_terminal@r_PreviousNews 1 0 #
@@ -208,7 +208,7 @@ lang=engl czec pols span russ
 117 46020 R _script factions_terminal@r_NextNews 1 0 #
 4 46030 #
 0 46040 @
-118 47000 None 0 #
+118 47000 main@dlg_Caps 0 #
 4 47010 #
 0 47020 @
 200 48000 factions_terminal@dlg_ShowBase 0 #
@@ -238,10 +238,10 @@ lang=engl czec pols span russ
 301 50000 factions_terminal@dlg_AddKnownFaction 0 #
 4 50010 #
 300 50020 R _script factions_terminal@r_SelectFaction 1 0 @
-400 51000 None 0 #
+400 51000 main@dlg_Caps 0 #
 401 51010 #
 0 51020 @
-401 52000 None 0 #
+401 52000 main@dlg_Caps 0 #
 0 52010 #
 0 52020 R _script factions_terminal@r_DeleteBase 0  &
 
@@ -507,7 +507,7 @@ Friends: @lex friends_allowed@
 {52010}{}{No}
 {52020}{}{Yes}
 {100000000}{}{Unknown}
-{100000001}{}{None}
+{100000001}{}{main@dlg_Caps}
 {100000002}{}{Brotherhood of Steel}
 {100000003}{}{Enclave}
 {100000004}{}{The Unity}
@@ -533,7 +533,7 @@ Friends: @lex friends_allowed@
 {100000042}{}{Choose the action you want to perform:}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}
@@ -795,7 +795,7 @@ Friends: @lex friends_allowed@
 {52020}{}{Yes}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}
@@ -1057,7 +1057,7 @@ Friends: @lex friends_allowed@
 {52020}{}{Yes}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}
@@ -1319,7 +1319,7 @@ Friends: @lex friends_allowed@
 {52020}{}{Yes}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}

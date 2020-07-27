@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 1 &
+2 2000 main@dlg_Caps 1 &
 
 [engl]
 {100}{}{Civil}
@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}

@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Caravan Guard}
@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Today’s going to be a long day!@@Hey, pinky!@@What's up?@@Our caravan is full already.@@Sorry, we can't take you with us.@@Talk to Newton, if you want to talk.}

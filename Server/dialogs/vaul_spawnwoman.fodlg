@@ -6,39 +6,39 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p q_spawn_gecko = 1 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 0 3010 #
 13 3020 #
 11 3030 @
-11 4000 None 0 #
+11 4000 main@dlg_Caps 0 #
 12 4010 #
 13 4020 @
-12 5000 None 0 #
+12 5000 main@dlg_Caps 0 #
 0 5010 #
 13 5020 @
-13 6000 None 0 #
+13 6000 main@dlg_Caps 0 #
 17 6010 #
 14 6020 D _param p ST_STRENGTH < 8 #
 15 6030 D _param p ST_STRENGTH > 7 @
-14 7000 None 0 #
+14 7000 main@dlg_Caps 0 #
 65507 7010 #
 15 7020 @
-15 8000 None 0 #
+15 8000 main@dlg_Caps 0 #
 13 8010 #
 0 8020 @
-16 9000 None 0 #
+16 9000 main@dlg_Caps 0 #
 13 9010 #
 0 9020 @
-17 10000 None 0 #
+17 10000 main@dlg_Caps 0 #
 18 10010 R _var p q_spawn_gecko = 2 R _param p ST_EXPERIENCE + 400 #
 19 10020 R _param p ST_EXPERIENCE + 400 R _var p q_spawn_gecko = 2 @
-18 11000 None 0 #
+18 11000 main@dlg_Caps 0 #
 0 11010 @
-19 12000 None 0 #
+19 12000 main@dlg_Caps 0 #
 0 12010 &
 
 [engl]
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{ }
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{ }
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{ }
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{ }

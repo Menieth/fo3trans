@@ -6,10 +6,10 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _script arena@d_HasTooMuchStuff 0  #
 2 1020 @
-2 2000 None 1 #
+2 2000 main@dlg_Caps 1 #
 5 2010 #
 6 2020 #
 7 2030 #
@@ -19,9 +19,9 @@ lang=engl czec pols span russ
 12 2070 #
 3 2080 R _item n PID_COMBAT_HELMET_MK_II + 1 R _item n PID_GAS_MASK_PVP + 1 R _item n PID_METAL_HELMET_MK2 + 1 R _item n PID_VC_HELMET + 1 R _script arena@r_TransferItems 0  #
 0 2090 @
-3 3000 None 0 @
-4 4000 None 0 @
-5 5000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 3 5010 R _item n PID_14MM_PISTOL + 1 R _script arena@r_TransferItems 0  #
 3 5020 R _item n PID_223_PISTOL + 1 R _script arena@r_TransferItems 0  #
 3 5030 R _item n PID_HK_P90C + 1 R _script arena@r_TransferItems 0  #
@@ -33,13 +33,13 @@ lang=engl czec pols span russ
 3 5090 R _item n PID_GRENADE_LAUNCHER + 1 R _script arena@r_TransferItems 0  #
 3 5100 R _item n PID_M16 + 1 R _script arena@r_TransferItems 0  #
 3 5110 R _item n PID_HK_CAWS + 1 R _script arena@r_TransferItems 0  @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 3 6010 R _item n PID_AVENGER_MINIGUN + 1 R _script arena@r_TransferItems 0  #
 3 6020 R _item n PID_LIGHT_SUPPORT_WEAPON + 1 R _script arena@r_TransferItems 0  #
 3 6030 R _item n PID_IMPROVED_FLAMETHROWER + 1 R _script arena@r_TransferItems 0  #
 3 6040 R _item n PID_M60 + 1 R _script arena@r_TransferItems 0  #
 3 6050 R _item n PID_ROCKET_LAUNCHER + 1 R _script arena@r_TransferItems 0  @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 3 7010 R _item n PID_LASER_RIFLE_EXT_CAP + 1 R _script arena@r_TransferItems 0  #
 3 7020 R _item n PID_PLASMA_RIFLE + 1 R _script arena@r_TransferItems 0  #
 3 7030 R _item n PID_GATLING_LASER + 1 R _script arena@r_TransferItems 0  #
@@ -48,45 +48,45 @@ lang=engl czec pols span russ
 3 7060 R _item n PID_EL_ROCKET_LAUNCHER + 1 R _script arena@r_TransferItems 0  #
 3 7070 R _item n PID_YK32_PULSE_PISTOL + 1 R _script arena@r_TransferItems 0  #
 3 7080 R _item n PID_PLASMA_SMG + 1 R _script arena@r_TransferItems 0  @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 3 8010 R _item n PID_SUPER_CATTLE_PROD + 1 R _script arena@r_TransferItems 0  #
 3 8020 R _item n PID_MEGA_POWER_FIST + 1 R _script arena@r_TransferItems 0  #
 3 8030 R _item n PID_RIPPER + 1 R _script arena@r_TransferItems 0  #
 3 8040 R _item n PID_SUPER_SLEDGE + 1 R _script arena@r_TransferItems 0  #
 3 8050 R _item n PID_WAKIZASHI_BLADE + 1 R _script arena@r_TransferItems 0  @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 3 9010 R _item n PID_FAKE_FRAG_GRENADE + 8 R _script arena@r_TransferItems 0  #
 3 9020 R _item n PID_FAKE_PLASMA_GRENADE + 8 R _script arena@r_TransferItems 0  #
 3 9030 R _item n PID_FAKE_SPEAR + 5 R _script arena@r_TransferItems 0  #
 3 9040 R _item n PID_FAKE_THROWING_KNIFE + 8 R _script arena@r_TransferItems 0  @
-13 10000 None 0 #
+13 10000 main@dlg_Caps 0 #
 3 10010 R _item n PID_COMBAT_ARMOR_MK_II + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  #
 3 10020 R _item n PID_DESERT_COMBAT_ARMOR + 1 R _item n PID_DESERT_COMBAT_HELMET + 1 R _script arena@r_TransferItems 0  #
 3 10030 R _item n PID_NCR_ARMOR + 1 R _item n PID_NCR_HELMET + 1 R _script arena@r_TransferItems 0  #
 3 10040 R _item n PID_CLOTHES_POLICE + 1 R _item n PID_ENCLAVE_COMBAT_HELMET + 1 R _script arena@r_TransferItems 0  #
 3 10050 R _item n PID_BROTHERHOOD_COMBAT_ARMOR + 1 R _item n PID_BROTHERHOOD_HELMET + 1 R _script arena@r_TransferItems 0  #
 3 10060 R _item n PID_ENCLAVE_COMBAT_ARMOR + 1 R _item n PID_ENCLAVE_COMBAT_HELMET + 1 R _script arena@r_TransferItems 0  @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 2 12010 #
 0 12020 @
-10 13000 None 0 #
+10 13000 main@dlg_Caps 0 #
 13 13010 #
 14 13020 #
 15 13030 #
 16 13040 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 3 14010 R _item n PID_METAL_HELMET_MK2 + 1 R _item n PID_METAL_ARMOR_MK_II + 1 R _script arena@r_TransferItems 0  #
 3 14020 R _item n PID_METAL_HELMET_MK2 + 1 R _item n PID_METAL_ARMOR_MK_III + 1 R _script arena@r_TransferItems 0  #
 3 14030 R _item n PID_METAL_HELMET_MK2 + 1 R _item n PID_TESLA_ARMOR + 1 R _script arena@r_TransferItems 0  #
 3 14040 R _item n PID_METAL_HELMET_MK2 + 1 R _item n PID_MUT_METAL + 1 R _script arena@r_TransferItems 0  #
 3 14050 R _item n PID_METAL_HELMET_MK2 + 1 R _item n PID_INFERNO_ARMOR + 1 R _script arena@r_TransferItems 0  @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 3 15010 R _item n PID_KEEPBRIGE_ROBE + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  #
 3 15020 R _item n PID_HUBO_ROBE + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  #
 3 15030 R _item n PID_FOLLOWER_ROBE + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 3 16010 R _item n PID_CURED_LEATHER_ARMOR + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  #
 3 16020 R _item n PID_LEATHER_ARMOR_MK_II + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  #
 3 16030 R _item n PID_FIREGECKO_JACKET + 1 R _item n PID_COMBAT_HELMET_MK_II + 1 R _script arena@r_TransferItems 0  &
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }
@@ -266,7 +266,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }
@@ -353,7 +353,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }
@@ -440,7 +440,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }

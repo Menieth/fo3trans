@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _script dialog@d_IsNotMember 0  #
 3 1020 D _var n name_mem_npc_player = 0 #
 4 1030 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 5 3010 R _var n name_mem_npc_player = 1 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 65505 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 65505 7010 #
 0 7020 &
 
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}

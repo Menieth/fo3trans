@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 3 3010 D _item p PID_BLACK_COC_BADGE } 1 R _item p PID_SECURITY_CARD + 1 R _item p PID_BLACK_COC_BADGE - 1 #
 0 3020 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error.... Error... Error... ]}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error.... Error... Error... ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error.... Error... Error... ]}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error.... Error... Error... ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error.... Error... Error... ]}

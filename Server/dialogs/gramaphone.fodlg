@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 D _item p PID_VYNIL2 } 1 R _script dialog@r_PlaySound 1 29 #
 0 2020 D _item p PID_VYNIL3 } 1 R _script dialog@r_PlaySound 1 30 #
 0 2030 D _item p PID_VYNIL1 } 1 R _script dialog@r_PlaySound 1 31 &
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Play "1812 Overture" - Yellow Record ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Play "1812 Overture" - Yellow Record ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Play "1812 Overture" - Yellow Record ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {2030}{}{[ Play "1812 Overture" - Yellow Record ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a very old looking rusty music mechanism. The sign on it says - "Insert the record." ]}

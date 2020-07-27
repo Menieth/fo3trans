@@ -6,43 +6,43 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 16 1010 D _script quest_raiders@d_WrongPlayer 0  #
 2 1020 D _var n acquaintance = 0 #
 15 1030 D _var n acquaintance = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 65507 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 65507 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 65507 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 65507 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 R _script quest_raiders@r_MapDataFree 0  @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 65507 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 R _item p PID_44_MAGNUM_SPEEDLOADER + 1 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 R _param p ST_EXPERIENCE + 2500 R _param p ST_KARMA + 2000 R _var n acquaintance + 1 @
-15 15000 None 0 @
-16 16000 None 0 &
+15 15000 main@dlg_Caps 0 @
+16 16000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Cooper}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}

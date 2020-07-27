@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Unity Patrolman}
@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}

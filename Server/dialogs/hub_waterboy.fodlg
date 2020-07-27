@@ -6,46 +6,46 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 5 1010 D _var p hub_job_waterboy > 0 D _var p hub_job_waterboy < 11 #
 6 1020 D _var p hub_job_waterboy = 11 #
 2 1030 D _var p hub_job_waterboy = 0 #
 9 1040 D _var p hub_job_waterboy = 12 D _script dialog@d_QuestTimeoutReady 0  #
 8 1050 D _var p hub_job_waterboy = 12 D _script dialog@d_QuestTimeoutNotReady 0  @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 12 2020 D _var p q_hub_watertaxes = 0 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _var p hub_job_waterboy = 1 #
 10 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 @
-6 6000 None 0 #
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 7 6010 R _script dialog@r_QuestTimeout 1 5 R _param p ST_EXPERIENCE + 150 R _var p hub_job_waterboy = 12 R _script dialog@r_AddMoney 1 100 @
-7 7000 None 0 @
-8 8000 None 0 #
+7 7000 main@dlg_Caps 0 @
+8 8000 main@dlg_Caps 0 #
 12 8010 D _var p q_hub_watertaxes = 0 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 12 9020 D _var p q_hub_watertaxes = 0 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 4 10010 R _var p hub_job_waterboy = 1 #
 11 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 4 11010 R _var p hub_job_waterboy = 1 #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 14 12010 D _param p SK_BARTER } 55 D or D _param p SK_SPEECH } 60 R _var p q_hub_watertaxes = 1 #
 13 12020 D _param p SK_BARTER < 55 D or D _param p SK_SPEECH < 59 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 &
 
 [engl]
@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}
@@ -184,7 +184,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}
@@ -228,7 +228,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}

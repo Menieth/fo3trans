@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p acquaintance = 0 D _var p q_vc_collectrent = 1 #
 50 1020 @
-50 2000 None 0 @
-2 3000 None 0 #
+50 2000 main@dlg_Caps 0 @
+2 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65507 4010 R _var p acquaintance = 1 R _script dialog@r_AddMoney 1 200 #
 0 4020 R _var p acquaintance = 1 R _script dialog@r_AddMoney 1 200 &
 
@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}

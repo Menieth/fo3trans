@@ -6,44 +6,44 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p ST_INTELLECT < 4 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 7 1030 D _var n name_mem_npc_player = 1 #
 13 1040 D _var p name_mem_npc_player = 1 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 8 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 5 6010 #
 8 6020 #
 0 6030 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 9 7010 #
 65507 7020 #
 0 7030 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 10 8010 #
 65507 8020 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 12 9010 #
 11 9020 #
 12 9030 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 65507 10010 #
 0 10020 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 0 11010 @
-13 12000 None 0 &
+13 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Prison guard}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}
@@ -213,7 +213,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}

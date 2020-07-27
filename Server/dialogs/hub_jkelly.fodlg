@@ -6,60 +6,60 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 14 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 14 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 #
 7 4030 #
 15 4040 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 8 5020 #
 12 5030 #
 9 5040 #
 11 5050 #
 0 5060 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 14 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 14 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 14 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 14 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 14 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 14 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 14 12010 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 5 13010 #
 6 13020 #
 7 13030 #
 15 13040 #
 16 13050 #
 0 13060 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 0 14010 #
 14 14020 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 8 15010 #
 12 15020 #
 9 15030 #
 11 15040 #
 17 15050 #
 0 15060 @
-17 16000 None 0 #
+17 16000 main@dlg_Caps 0 #
 0 16010 &
 
 [engl]
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}
@@ -185,7 +185,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}
@@ -243,7 +243,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}
@@ -301,7 +301,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}

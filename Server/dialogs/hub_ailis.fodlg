@@ -6,37 +6,37 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT > 3 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 22 1020 D _param p ST_INTELLECT > 3 D _var p crimson_caravan_job = 2 #
 2 1030 D _param p ST_INTELLECT > 3 D _var p name_mem_npc_player = 1 D _var p crimson_caravan_job = 1 #
 2 1040 D _param p ST_INTELLECT > 3 D _var p name_mem_npc_player = 1 D _var p crimson_caravan_job = 1 #
 23 1050 D _param p ST_INTELLECT > 3 D _var n name_mem_npc_player = 1 #
 3 1060 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _var p crimson_caravan_job = 1 #
 0 2020 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 R _var p crimson_caravan_job = 1 #
 8 5020 R _var p crimson_caravan_job = 1 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 19 6010 #
 8 6020 #
 7 6030 #
 0 6040 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 10 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 #
 0 8020 @
-9 9000 None 0 @
-10 10000 None 0 #
+9 9000 main@dlg_Caps 0 @
+10 10000 main@dlg_Caps 0 #
 13 10010 #
 15 10020 #
 16 10030 #
@@ -45,41 +45,41 @@ lang=engl czec pols span russ
 18 10060 #
 14 10070 #
 0 10080 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 14 11010 #
 18 11020 #
 14 11030 #
 0 11040 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 12 13010 #
 20 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 12 14010 #
 20 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 12 15010 #
 20 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 12 16010 #
 20 16020 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 12 17010 #
 20 17020 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 12 18010 #
 20 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 12 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 10 21010 #
 0 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 0 22010 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 4 23010 D _var p crimson_caravan_job = 1 #
 0 23020 &
 
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {4000}{}{So, my mother gave you the okay to work for us, eh? Well you must be one tough bitch. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: The Brotherhood of Steel, Junktown, Necropolis, Reno, Frisco, Redding and the Boneyard.}
 {4010}{}{And the pay?}
 {4020}{}{Eh, nevermind. 'Changed my mind.}
-{5000}{}{Our pay's the best, 600 caps, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
+{5000}{}{Our pay's the best, 600 @lex money@, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
 {5010}{}{Sounds good to me.@@Count on me, I'm in. // job today}
 {5020}{}{Sounds good to me.@@Count on me, I'm in. // job in future}
 {5030}{}{Not with me!}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {6020}{}{I want another job. // if next job is in the future}
 {6030}{}{I want another job. // if job today}
 {6040}{}{Nothing.}
-{7000}{}{We're all heading out today and the pay is 600 caps. So..?@@We're going out on today and the pay is 600 caps. So..?}
+{7000}{}{We're all heading out today and the pay is 600 @lex money@. So..?@@We're going out on today and the pay is 600 @lex money@. So..?}
 {7010}{}{Sounds good to me.@@Sounds fair to me.}
 {7020}{}{Never mind.  I have something I forgot to do.}
 {8000}{}{We're going out on the 3rd and 17th every month. Come back then and I'll put you on a caravan. As always, it pays 600 scripts.}
@@ -165,7 +165,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {4000}{}{So, my mother gave you the okay to work for us, eh? Well you must be one tough bitch. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: The Brotherhood of Steel, Junktown, Necropolis, Reno, Frisco, Redding and the Boneyard.}
 {4010}{}{And the pay?}
 {4020}{}{Eh, nevermind. 'Changed my mind.}
-{5000}{}{Our pay's the best, 600 caps, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
+{5000}{}{Our pay's the best, 600 @lex money@, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
 {5010}{}{Sounds good to me.@@Count on me, I'm in. // job today}
 {5020}{}{Sounds good to me.@@Count on me, I'm in. // job in future}
 {5030}{}{Not with me!}
@@ -189,7 +189,7 @@ lang=engl czec pols span russ
 {6020}{}{I want another job. // if next job is in the future}
 {6030}{}{I want another job. // if job today}
 {6040}{}{Nothing.}
-{7000}{}{We're all heading out today and the pay is 600 caps. So..?@@We're going out on today and the pay is 600 caps. So..?}
+{7000}{}{We're all heading out today and the pay is 600 @lex money@. So..?@@We're going out on today and the pay is 600 @lex money@. So..?}
 {7010}{}{Sounds good to me.@@Sounds fair to me.}
 {7020}{}{Never mind.  I have something I forgot to do.}
 {8000}{}{We're going out on the 3rd and 17th every month. Come back then and I'll put you on a caravan. As always, it pays 600 scripts.}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -259,7 +259,7 @@ lang=engl czec pols span russ
 {4000}{}{So, my mother gave you the okay to work for us, eh? Well you must be one tough bitch. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: The Brotherhood of Steel, Junktown, Necropolis, Reno, Frisco, Redding and the Boneyard.}
 {4010}{}{And the pay?}
 {4020}{}{Eh, nevermind. 'Changed my mind.}
-{5000}{}{Our pay's the best, 600 caps, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
+{5000}{}{Our pay's the best, 600 @lex money@, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
 {5010}{}{Sounds good to me.@@Count on me, I'm in. // job today}
 {5020}{}{Sounds good to me.@@Count on me, I'm in. // job in future}
 {5030}{}{Not with me!}
@@ -268,7 +268,7 @@ lang=engl czec pols span russ
 {6020}{}{I want another job. // if next job is in the future}
 {6030}{}{I want another job. // if job today}
 {6040}{}{Nothing.}
-{7000}{}{We're all heading out today and the pay is 600 caps. So..?@@We're going out on today and the pay is 600 caps. So..?}
+{7000}{}{We're all heading out today and the pay is 600 @lex money@. So..?@@We're going out on today and the pay is 600 @lex money@. So..?}
 {7010}{}{Sounds good to me.@@Sounds fair to me.}
 {7020}{}{Never mind.  I have something I forgot to do.}
 {8000}{}{We're going out on the 3rd and 17th every month. Come back then and I'll put you on a caravan. As always, it pays 600 scripts.}
@@ -323,7 +323,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -338,7 +338,7 @@ lang=engl czec pols span russ
 {4000}{}{So, my mother gave you the okay to work for us, eh? Well you must be one tough bitch. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: The Brotherhood of Steel, Junktown, Necropolis, Reno, Frisco, Redding and the Boneyard.}
 {4010}{}{And the pay?}
 {4020}{}{Eh, nevermind. 'Changed my mind.}
-{5000}{}{Our pay's the best, 600 caps, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
+{5000}{}{Our pay's the best, 600 @lex money@, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
 {5010}{}{Sounds good to me.@@Count on me, I'm in. // job today}
 {5020}{}{Sounds good to me.@@Count on me, I'm in. // job in future}
 {5030}{}{Not with me!}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {6020}{}{I want another job. // if next job is in the future}
 {6030}{}{I want another job. // if job today}
 {6040}{}{Nothing.}
-{7000}{}{We're all heading out today and the pay is 600 caps. So..?@@We're going out on today and the pay is 600 caps. So..?}
+{7000}{}{We're all heading out today and the pay is 600 @lex money@. So..?@@We're going out on today and the pay is 600 @lex money@. So..?}
 {7010}{}{Sounds good to me.@@Sounds fair to me.}
 {7020}{}{Never mind.  I have something I forgot to do.}
 {8000}{}{We're going out on the 3rd and 17th every month. Come back then and I'll put you on a caravan. As always, it pays 600 scripts.}
@@ -402,7 +402,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -417,7 +417,7 @@ lang=engl czec pols span russ
 {4000}{}{So, my mother gave you the okay to work for us, eh? Well you must be one tough bitch. I'm impressed, but we'll see how you do. We leave only twice a month, on the 3rd and 17th. Can you handle that? We go to all the local hot spots: The Brotherhood of Steel, Junktown, Necropolis, Reno, Frisco, Redding and the Boneyard.}
 {4010}{}{And the pay?}
 {4020}{}{Eh, nevermind. 'Changed my mind.}
-{5000}{}{Our pay's the best, 600 caps, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
+{5000}{}{Our pay's the best, 600 @lex money@, and yes, that is for each way and yes, that is for each way but you don't have to do both. This is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders or worse. We'll have no sissies on my caravans and you better have plenty of ammo.}
 {5010}{}{Sounds good to me.@@Count on me, I'm in. // job today}
 {5020}{}{Sounds good to me.@@Count on me, I'm in. // job in future}
 {5030}{}{Not with me!}
@@ -426,7 +426,7 @@ lang=engl czec pols span russ
 {6020}{}{I want another job. // if next job is in the future}
 {6030}{}{I want another job. // if job today}
 {6040}{}{Nothing.}
-{7000}{}{We're all heading out today and the pay is 600 caps. So..?@@We're going out on today and the pay is 600 caps. So..?}
+{7000}{}{We're all heading out today and the pay is 600 @lex money@. So..?@@We're going out on today and the pay is 600 @lex money@. So..?}
 {7010}{}{Sounds good to me.@@Sounds fair to me.}
 {7020}{}{Never mind.  I have something I forgot to do.}
 {8000}{}{We're going out on the 3rd and 17th every month. Come back then and I'll put you on a caravan. As always, it pays 600 scripts.}

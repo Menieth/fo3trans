@@ -6,52 +6,52 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 5 1010 D _param p ST_CHARISMA > 99 #
 2 1020 D _var n name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 2 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_INTELLECT > 3 #
 6 2020 D _var p q_jt_power_house_handy = 1 #
 0 2030 D _param p ST_INTELLECT > 3 #
 3 2040 D _param p ST_INTELLECT < 4 #
 0 2050 D _param p ST_INTELLECT < 4 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65506 4010 D _param p ST_INTELLECT > 3 #
 0 4020 D _param p ST_INTELLECT > 3 #
 65506 4030 D _param p ST_INTELLECT < 4 #
 0 4040 D _param p ST_INTELLECT < 4 @
-5 5000 None 0 @
-6 6000 None 0 #
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 9 6010 #
 7 6020 R _script dialog@r_SkillRoll 3 Barter -50 8 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 #
 0 7020 @
-8 8000 None 0 #
-15 8010 D _item p PID_BOTTLE_CAPS } 400 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 400 #
-11 8020 D _item p PID_BOTTLE_CAPS } 300 R _script dialog@r_SkillRoll 3 Barter -75 13 #
+8 8000 main@dlg_Caps 0 #
+15 8010 D _script dialog@d_havepropermoney 1 400 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 400 #
+11 8020 D _script dialog@d_havepropermoney 1 300 R _script dialog@r_SkillRoll 3 Barter -75 13 #
 0 8030 @
-9 9000 None 0 #
-15 9010 D _item p PID_BOTTLE_CAPS } 800 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 800 #
-12 9020 D _item p PID_BOTTLE_CAPS } 700 R _script dialog@r_SkillRoll 3 Barter -75 14 #
+9 9000 main@dlg_Caps 0 #
+15 9010 D _script dialog@d_havepropermoney 1 800 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 800 #
+12 9020 D _script dialog@d_havepropermoney 1 700 R _script dialog@r_SkillRoll 3 Barter -75 14 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 #
-15 11010 D _item p PID_BOTTLE_CAPS } 400 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 400 #
+11 11000 main@dlg_Caps 0 #
+15 11010 D _script dialog@d_havepropermoney 1 400 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 400 #
 10 11020 @
-12 12000 None 0 #
-15 12010 D _item p PID_BOTTLE_CAPS } 800 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 800 #
+12 12000 main@dlg_Caps 0 #
+15 12010 D _script dialog@d_havepropermoney 1 800 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _script dialog@r_RemoveMoney 1 800 #
 10 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _param p ST_EXPERIENCE + 100 R _script dialog@r_RemoveMoney 1 300 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 R _var p q_jt_power_house_handy = 2 R _item p PID_ROBOT_MOTIVATOR + 1 R _param p ST_EXPERIENCE + 100 R _script dialog@r_RemoveMoney 1 700 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 0 15010 &
 
 [engl]
@@ -82,31 +82,31 @@ lang=engl czec pols span russ
 {7000}{}{No, not at all. }
 {7010}{}{What's the price? I will double it!}
 {7020}{}{That's a shame, really. See you later then.}
-{8000}{}{Damnit, you are right! The original price has been 400 caps. Deal?}
-{8010}{}{Deal! [You give him the 400 caps.]}
-{8020}{}{Let's make 300 caps out of it and we call it a deal!}
+{8000}{}{Damnit, you are right! The original price has been 400 @lex money@. Deal?}
+{8010}{}{Deal! [You give him the 400 @lex money@.]}
+{8020}{}{Let's make 300 @lex money@ out of it and we call it a deal!}
 {8030}{}{No, that's too expensive for me.}
-{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 caps, deal?}
-{9010}{}{Deal. [You give him the 800 caps.]}
-{9020}{}{Let's make 700 caps out of it and we call it a deal!}
+{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 @lex money@, deal?}
+{9010}{}{Deal. [You give him the 800 @lex money@.]}
+{9020}{}{Let's make 700 @lex money@ out of it and we call it a deal!}
 {9030}{}{No, that's too expensive for me. }
 {10000}{}{Don't wait for too long.}
 {10010}{}{I'll come back later.}
-{11000}{}{No, 400 caps or nothing.}
-{11010}{}{Deal. [You give him the 400 caps.]}
+{11000}{}{No, 400 @lex money@ or nothing.}
+{11010}{}{Deal. [You give him the 400 @lex money@.]}
 {11020}{}{No, that's too expensive for me. }
-{12000}{}{No, 800 caps or nothing.}
-{12010}{}{Deal. [You give him the 800 caps.]}
+{12000}{}{No, 800 @lex money@ or nothing.}
+{12010}{}{Deal. [You give him the 800 @lex money@.]}
 {12020}{}{No, that's too expensive for me. }
-{13000}{}{Mah... you are robbing me! [He takes the 300 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{13000}{}{Mah... you are robbing me! [He takes the 300 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {13010}{}{Goodbye.}
-{14000}{}{Mah... you are robbing me! [He takes the 700 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{14000}{}{Mah... you are robbing me! [He takes the 700 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {14010}{}{Goodbye.}
-{15000}{}{[He takes the caps and gives you the motivator unit.] }
+{15000}{}{[He takes the @lex money@ and gives you the motivator unit.] }
 {15010}{}{Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -132,31 +132,31 @@ lang=engl czec pols span russ
 {7000}{}{No, not at all. }
 {7010}{}{What's the price? I will double it!}
 {7020}{}{That's a shame, really. See you later then.}
-{8000}{}{Damnit, you are right! The original price has been 400 caps. Deal?}
-{8010}{}{Deal! [You give him the 400 caps.]}
-{8020}{}{Let's make 300 caps out of it and we call it a deal!}
+{8000}{}{Damnit, you are right! The original price has been 400 @lex money@. Deal?}
+{8010}{}{Deal! [You give him the 400 @lex money@.]}
+{8020}{}{Let's make 300 @lex money@ out of it and we call it a deal!}
 {8030}{}{No, that's too expensive for me.}
-{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 caps, deal?}
-{9010}{}{Deal. [You give him the 800 caps.]}
-{9020}{}{Let's make 700 caps out of it and we call it a deal!}
+{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 @lex money@, deal?}
+{9010}{}{Deal. [You give him the 800 @lex money@.]}
+{9020}{}{Let's make 700 @lex money@ out of it and we call it a deal!}
 {9030}{}{No, that's too expensive for me. }
 {10000}{}{Don't wait for too long.}
 {10010}{}{I'll come back later.}
-{11000}{}{No, 400 caps or nothing.}
-{11010}{}{Deal. [You give him the 400 caps.]}
+{11000}{}{No, 400 @lex money@ or nothing.}
+{11010}{}{Deal. [You give him the 400 @lex money@.]}
 {11020}{}{No, that's too expensive for me. }
-{12000}{}{No, 800 caps or nothing.}
-{12010}{}{Deal. [You give him the 800 caps.]}
+{12000}{}{No, 800 @lex money@ or nothing.}
+{12010}{}{Deal. [You give him the 800 @lex money@.]}
 {12020}{}{No, that's too expensive for me. }
-{13000}{}{Mah... you are robbing me! [He takes the 300 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{13000}{}{Mah... you are robbing me! [He takes the 300 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {13010}{}{Goodbye.}
-{14000}{}{Mah... you are robbing me! [He takes the 700 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{14000}{}{Mah... you are robbing me! [He takes the 700 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {14010}{}{Goodbye.}
-{15000}{}{[He takes the caps and gives you the motivator unit.] }
+{15000}{}{[He takes the @lex money@ and gives you the motivator unit.] }
 {15010}{}{Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -182,31 +182,31 @@ lang=engl czec pols span russ
 {7000}{}{No, not at all. }
 {7010}{}{What's the price? I will double it!}
 {7020}{}{That's a shame, really. See you later then.}
-{8000}{}{Damnit, you are right! The original price has been 400 caps. Deal?}
-{8010}{}{Deal! [You give him the 400 caps.]}
-{8020}{}{Let's make 300 caps out of it and we call it a deal!}
+{8000}{}{Damnit, you are right! The original price has been 400 @lex money@. Deal?}
+{8010}{}{Deal! [You give him the 400 @lex money@.]}
+{8020}{}{Let's make 300 @lex money@ out of it and we call it a deal!}
 {8030}{}{No, that's too expensive for me.}
-{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 caps, deal?}
-{9010}{}{Deal. [You give him the 800 caps.]}
-{9020}{}{Let's make 700 caps out of it and we call it a deal!}
+{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 @lex money@, deal?}
+{9010}{}{Deal. [You give him the 800 @lex money@.]}
+{9020}{}{Let's make 700 @lex money@ out of it and we call it a deal!}
 {9030}{}{No, that's too expensive for me. }
 {10000}{}{Don't wait for too long.}
 {10010}{}{I'll come back later.}
-{11000}{}{No, 400 caps or nothing.}
-{11010}{}{Deal. [You give him the 400 caps.]}
+{11000}{}{No, 400 @lex money@ or nothing.}
+{11010}{}{Deal. [You give him the 400 @lex money@.]}
 {11020}{}{No, that's too expensive for me. }
-{12000}{}{No, 800 caps or nothing.}
-{12010}{}{Deal. [You give him the 800 caps.]}
+{12000}{}{No, 800 @lex money@ or nothing.}
+{12010}{}{Deal. [You give him the 800 @lex money@.]}
 {12020}{}{No, that's too expensive for me. }
-{13000}{}{Mah... you are robbing me! [He takes the 300 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{13000}{}{Mah... you are robbing me! [He takes the 300 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {13010}{}{Goodbye.}
-{14000}{}{Mah... you are robbing me! [He takes the 700 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{14000}{}{Mah... you are robbing me! [He takes the 700 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {14010}{}{Goodbye.}
-{15000}{}{[He takes the caps and gives you the motivator unit.] }
+{15000}{}{[He takes the @lex money@ and gives you the motivator unit.] }
 {15010}{}{Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -232,31 +232,31 @@ lang=engl czec pols span russ
 {7000}{}{No, not at all. }
 {7010}{}{What's the price? I will double it!}
 {7020}{}{That's a shame, really. See you later then.}
-{8000}{}{Damnit, you are right! The original price has been 400 caps. Deal?}
-{8010}{}{Deal! [You give him the 400 caps.]}
-{8020}{}{Let's make 300 caps out of it and we call it a deal!}
+{8000}{}{Damnit, you are right! The original price has been 400 @lex money@. Deal?}
+{8010}{}{Deal! [You give him the 400 @lex money@.]}
+{8020}{}{Let's make 300 @lex money@ out of it and we call it a deal!}
 {8030}{}{No, that's too expensive for me.}
-{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 caps, deal?}
-{9010}{}{Deal. [You give him the 800 caps.]}
-{9020}{}{Let's make 700 caps out of it and we call it a deal!}
+{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 @lex money@, deal?}
+{9010}{}{Deal. [You give him the 800 @lex money@.]}
+{9020}{}{Let's make 700 @lex money@ out of it and we call it a deal!}
 {9030}{}{No, that's too expensive for me. }
 {10000}{}{Don't wait for too long.}
 {10010}{}{I'll come back later.}
-{11000}{}{No, 400 caps or nothing.}
-{11010}{}{Deal. [You give him the 400 caps.]}
+{11000}{}{No, 400 @lex money@ or nothing.}
+{11010}{}{Deal. [You give him the 400 @lex money@.]}
 {11020}{}{No, that's too expensive for me. }
-{12000}{}{No, 800 caps or nothing.}
-{12010}{}{Deal. [You give him the 800 caps.]}
+{12000}{}{No, 800 @lex money@ or nothing.}
+{12010}{}{Deal. [You give him the 800 @lex money@.]}
 {12020}{}{No, that's too expensive for me. }
-{13000}{}{Mah... you are robbing me! [He takes the 300 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{13000}{}{Mah... you are robbing me! [He takes the 300 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {13010}{}{Goodbye.}
-{14000}{}{Mah... you are robbing me! [He takes the 700 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{14000}{}{Mah... you are robbing me! [He takes the 700 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {14010}{}{Goodbye.}
-{15000}{}{[He takes the caps and gives you the motivator unit.] }
+{15000}{}{[He takes the @lex money@ and gives you the motivator unit.] }
 {15010}{}{Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -282,26 +282,26 @@ lang=engl czec pols span russ
 {7000}{}{No, not at all. }
 {7010}{}{What's the price? I will double it!}
 {7020}{}{That's a shame, really. See you later then.}
-{8000}{}{Damnit, you are right! The original price has been 400 caps. Deal?}
-{8010}{}{Deal! [You give him the 400 caps.]}
-{8020}{}{Let's make 300 caps out of it and we call it a deal!}
+{8000}{}{Damnit, you are right! The original price has been 400 @lex money@. Deal?}
+{8010}{}{Deal! [You give him the 400 @lex money@.]}
+{8020}{}{Let's make 300 @lex money@ out of it and we call it a deal!}
 {8030}{}{No, that's too expensive for me.}
-{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 caps, deal?}
-{9010}{}{Deal. [You give him the 800 caps.]}
-{9020}{}{Let's make 700 caps out of it and we call it a deal!}
+{9000}{}{That doesn't sound that bad to me. Damnit, okay. 800 @lex money@, deal?}
+{9010}{}{Deal. [You give him the 800 @lex money@.]}
+{9020}{}{Let's make 700 @lex money@ out of it and we call it a deal!}
 {9030}{}{No, that's too expensive for me. }
 {10000}{}{Don't wait for too long.}
 {10010}{}{I'll come back later.}
-{11000}{}{No, 400 caps or nothing.}
-{11010}{}{Deal. [You give him the 400 caps.]}
+{11000}{}{No, 400 @lex money@ or nothing.}
+{11010}{}{Deal. [You give him the 400 @lex money@.]}
 {11020}{}{No, that's too expensive for me. }
-{12000}{}{No, 800 caps or nothing.}
-{12010}{}{Deal. [You give him the 800 caps.]}
+{12000}{}{No, 800 @lex money@ or nothing.}
+{12010}{}{Deal. [You give him the 800 @lex money@.]}
 {12020}{}{No, that's too expensive for me. }
-{13000}{}{Mah... you are robbing me! [He takes the 300 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{13000}{}{Mah... you are robbing me! [He takes the 300 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {13010}{}{Goodbye.}
-{14000}{}{Mah... you are robbing me! [He takes the 700 caps and gives you the motivator unit.] But you better pay more the next time we meet!}
+{14000}{}{Mah... you are robbing me! [He takes the 700 @lex money@ and gives you the motivator unit.] But you better pay more the next time we meet!}
 {14010}{}{Goodbye.}
-{15000}{}{[He takes the caps and gives you the motivator unit.] }
+{15000}{}{[He takes the @lex money@ and gives you the motivator unit.] }
 {15010}{}{Goodbye.}
 

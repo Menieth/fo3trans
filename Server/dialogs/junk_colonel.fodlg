@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 #
 4 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65507 4010 #
 5 4020 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Colonel Fertprah}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {5000}{}{Get the fuck out of here!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it?}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {5000}{}{Get the fuck out of here!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it?}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {5000}{}{Get the fuck out of here!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it?}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {5000}{}{Get the fuck out of here!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it?}

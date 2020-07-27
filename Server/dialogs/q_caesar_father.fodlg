@@ -6,97 +6,97 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 17 1010 D _var p q_la_train_caesar = 7 #
 16 1020 D _var n name_mem_npc_player = 1 #
 2 1030 R _var n name_mem_npc_player = 1 @
-17 2000 None 0 #
+17 2000 main@dlg_Caps 0 #
 0 2010 #
 65507 2020 @
-16 3000 None 0 #
+16 3000 main@dlg_Caps 0 #
 65507 3010 #
 3 3020 #
 18 3030 R _var p q_la_train_caesar = 7 @
-2 4000 None 0 #
+2 4000 main@dlg_Caps 0 #
 65507 4010 #
 3 4020 @
-3 5000 None 0 #
+3 5000 main@dlg_Caps 0 #
 15 5010 #
 4 5020 #
 65507 5030 @
-4 6000 None 0 #
+4 6000 main@dlg_Caps 0 #
 5 6010 @
-5 7000 None 0 #
+5 7000 main@dlg_Caps 0 #
 6 7010 @
-6 8000 None 0 #
+6 8000 main@dlg_Caps 0 #
 7 8010 #
 9 8020 #
 10 8030 #
 65507 8040 @
-7 9000 None 0 #
+7 9000 main@dlg_Caps 0 #
 8 9010 #
 19 9020 D _param p ST_INTELLECT > 5 #
 19 9030 D _param p ST_STRENGTH > 7 @
-8 10000 None 0 #
+8 10000 main@dlg_Caps 0 #
 9 10010 #
 10 10020 D _var p q_la_train_caesar < 7 R _var p q_la_train_caesar = 7 @
-9 11000 None 0 #
+9 11000 main@dlg_Caps 0 #
 65507 11010 #
 10 11020 D _var p q_la_train_caesar < 7 R _var p q_la_train_caesar = 7 #
 14 11030 #
 0 11040 D _var p q_la_train_caesar > 6 #
 25 11050 D _var p q_la_train_caesar < 7 @
-10 12000 None 0 #
+10 12000 main@dlg_Caps 0 #
 11 12010 D _param p SK_DOCTOR > 79 D _var p q_la_train_caesar_leg = 0 #
 0 12020 D _var p q_la_train_caesar < 7 R _var p q_la_train_caesar = 7 #
 0 12030 D _var p q_la_train_caesar > 6 #
 25 12040 D _var p q_la_train_caesar < 7 @
-11 13000 None 0 #
+11 13000 main@dlg_Caps 0 #
 12 13010 R _param p ST_EXPERIENCE + 250 R _var p q_la_train_caesar_leg = 1 @
-12 14000 None 0 #
+12 14000 main@dlg_Caps 0 #
 13 14010 @
-13 15000 None 0 #
+13 15000 main@dlg_Caps 0 #
 0 15010 @
-14 16000 None 0 #
+14 16000 main@dlg_Caps 0 #
 18 16010 D _var p q_la_train_caesar < 7 R _var p q_la_train_caesar = 7 #
 0 16020 D _var p q_la_train_caesar > 6 #
 19 16030 D _param p ST_INTELLECT > 5 @
-15 17000 None 0 #
+15 17000 main@dlg_Caps 0 #
 65507 17010 #
 4 17020 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 0 18010 #
 9 18020 #
 4 18030 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 21 19010 #
 20 19020 #
 18 19030 D _var p q_la_train_caesar < 7 R _var p q_la_train_caesar = 7 #
 0 19040 D _var p q_la_train_caesar > 6 #
 25 19050 D _var p q_la_train_caesar < 7 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 22 20010 #
 21 20020 #
 23 20030 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 24 21010 #
 22 21020 #
 23 21030 #
 0 21040 D _var p q_la_train_caesar > 6 #
 25 21050 D _var p q_la_train_caesar < 7 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 #
 24 22020 #
 0 22030 D _var p q_la_train_caesar > 6 #
 25 22040 D _var p q_la_train_caesar < 7 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 24 23010 #
 0 23020 D _var p q_la_train_caesar > 6 #
 25 23030 D _var p q_la_train_caesar < 7 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 22 24010 #
 9 24020 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 65507 25010 #
 18 25020 R _var p q_la_train_caesar = 7 #
 0 25030 &
@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {100000001}{}{Get him, boys!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}
@@ -299,7 +299,7 @@ lang=engl czec pols span russ
 {25030}{}{I will think about it and come back later again...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}
@@ -396,7 +396,7 @@ lang=engl czec pols span russ
 {25030}{}{I will think about it and come back later again...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}
@@ -493,7 +493,7 @@ lang=engl czec pols span russ
 {25030}{}{I will think about it and come back later again...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}

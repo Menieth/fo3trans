@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _script map_saltlake@d_IsInCafeteria 0  #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Nuka Cola Worker}
-{200}{}{You see a worker of Nuka Cola Bottle Plant.}
+{200}{}{You see a worker of Nuka Cola @lex prefix@ Plant.}
 {210}{}{This is just another ordinary laborer in the factory.}
 {1000}{}{Predialogue installations}
 {1010}{}{Is on cafeteria}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{I'm not used talking with my mouth full.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Is on cafeteria}
 {1020}{}{Is on production line}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{I'm not used talking with my mouth full.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Is on cafeteria}
 {1020}{}{Is on production line}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{I'm not used talking with my mouth full.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Is on cafeteria}
 {1020}{}{Is on production line}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{I'm not used talking with my mouth full.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Is on cafeteria}
 {1020}{}{Is on production line}

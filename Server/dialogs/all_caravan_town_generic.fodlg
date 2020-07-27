@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 15 1010 D _script caravans@d_IsFull 0  #
 13 1020 D _script caravans@d_CheckReputationTooLow 1 0 #
 3 1030 D _param p ST_LEVEL > 19 #
 2 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 0 2020 @
 3 3000 caravans@dlg_CaravanName 0 #
@@ -29,14 +29,14 @@ lang=engl czec pols span russ
 7 5030 #
 8 5040 #
 0 5050 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 6 7010 D _param p ST_LEVEL { 9 #
 4 7020 D _param p ST_LEVEL > 9 #
 8 7030 #
 0 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 6 8010 D _param p ST_LEVEL { 9 #
 4 8020 D _param p ST_LEVEL > 9 #
 0 8030 @
@@ -50,16 +50,16 @@ lang=engl czec pols span russ
 12 10020 D _script caravans@d_IsNotPreparing 0  #
 9 10030 #
 0 10040 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 11 11010 R _script caravans@r_JoinCaravan 0  #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 0 13020 @
-14 14000 None 0 #
-4 14010 D _item p PID_BOTTLE_CAPS } 15000 R _script caravans@r_ResetReputation 0  R _item p PID_BOTTLE_CAPS - 15000 #
+14 14000 main@dlg_Caps 0 #
+4 14010 D _script dialog@d_havepropermoney 1 15000 R _script caravans@r_ResetReputation 0  R _script dialog@r_RemoveMoney 1 15000 #
 0 14020 @
 15 15000 caravans@dlg_CaravanName 0 &
 
@@ -115,15 +115,15 @@ lang=engl czec pols span russ
 {12000}{}{We usually start loading an hour before departure. So if you're really interested get prepared and come back later.}
 {12010}{}{Alright.}
 {13000}{}{I don't talk with people like you.}
-{13010}{}{What if I pay some caps?}
+{13010}{}{What if I pay some @lex money@?}
 {13020}{}{Whatever, bye.}
-{14000}{}{I might change my mind for 15000 bottle caps.}
-{14010}{}{Here you go [you pay 15000 caps]}
+{14000}{}{I might change my mind for 15000 @lex prefix@ @lex money@.}
+{14010}{}{Here you go [you pay 15000 @lex money@]}
 {14020}{}{Nevermind.}
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -174,15 +174,15 @@ lang=engl czec pols span russ
 {12000}{}{We usually start loading an hour before departure. So if you're really interested get prepared and come back later.}
 {12010}{}{Alright.}
 {13000}{}{I don't talk with people like you.}
-{13010}{}{What if I pay some caps?}
+{13010}{}{What if I pay some @lex money@?}
 {13020}{}{Whatever, bye.}
-{14000}{}{I might change my mind for 15000 bottle caps.}
-{14010}{}{Here you go [you pay 15000 caps]}
+{14000}{}{I might change my mind for 15000 @lex prefix@ @lex money@.}
+{14010}{}{Here you go [you pay 15000 @lex money@]}
 {14020}{}{Nevermind.}
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -233,15 +233,15 @@ lang=engl czec pols span russ
 {12000}{}{We usually start loading an hour before departure. So if you're really interested get prepared and come back later.}
 {12010}{}{Alright.}
 {13000}{}{I don't talk with people like you.}
-{13010}{}{What if I pay some caps?}
+{13010}{}{What if I pay some @lex money@?}
 {13020}{}{Whatever, bye.}
-{14000}{}{I might change my mind for 15000 bottle caps.}
-{14010}{}{Here you go [you pay 15000 caps]}
+{14000}{}{I might change my mind for 15000 @lex prefix@ @lex money@.}
+{14010}{}{Here you go [you pay 15000 @lex money@]}
 {14020}{}{Nevermind.}
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -292,15 +292,15 @@ lang=engl czec pols span russ
 {12000}{}{We usually start loading an hour before departure. So if you're really interested get prepared and come back later.}
 {12010}{}{Alright.}
 {13000}{}{I don't talk with people like you.}
-{13010}{}{What if I pay some caps?}
+{13010}{}{What if I pay some @lex money@?}
 {13020}{}{Whatever, bye.}
-{14000}{}{I might change my mind for 15000 bottle caps.}
-{14010}{}{Here you go [you pay 15000 caps]}
+{14000}{}{I might change my mind for 15000 @lex prefix@ @lex money@.}
+{14010}{}{Here you go [you pay 15000 @lex money@]}
 {14020}{}{Nevermind.}
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -351,10 +351,10 @@ lang=engl czec pols span russ
 {12000}{}{We usually start loading an hour before departure. So if you're really interested get prepared and come back later.}
 {12010}{}{Alright.}
 {13000}{}{I don't talk with people like you.}
-{13010}{}{What if I pay some caps?}
+{13010}{}{What if I pay some @lex money@?}
 {13020}{}{Whatever, bye.}
-{14000}{}{I might change my mind for 15000 bottle caps.}
-{14010}{}{Here you go [you pay 15000 caps]}
+{14000}{}{I might change my mind for 15000 @lex prefix@ @lex money@.}
+{14010}{}{Here you go [you pay 15000 @lex money@]}
 {14020}{}{Nevermind.}
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 

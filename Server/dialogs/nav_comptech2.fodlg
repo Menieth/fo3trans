@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p factions_player_faction = 3 #
 2 1020 D _script dialog@d_IsDisguised 0  @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 &
 
 [engl]
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

@@ -6,45 +6,45 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 20 1020 @
-20 2000 None 0 #
+20 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 D _param p ST_INTELLECT > 3 #
 0 2030 D _param p ST_INTELLECT < 4 @
-2 3000 None 0 #
+2 3000 main@dlg_Caps 0 #
 3 3010 #
 0 3020 D _param p ST_INTELLECT > 3 #
 0 3030 D _param p ST_INTELLECT < 4 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 65506 4010 D _param p ST_INTELLECT > 3 #
 4 4020 D _param p ST_INTELLECT > 3 #
 0 4030 D _param p ST_INTELLECT > 3 #
 65506 4040 D _param p ST_INTELLECT < 4 #
 4 4050 D _param p ST_INTELLECT < 4 #
 0 4060 D _param p ST_INTELLECT < 4 @
-4 5000 None 0 #
+4 5000 main@dlg_Caps 0 #
 5 5010 D _param p ST_INTELLECT > 3 #
 65506 5020 D _param p ST_INTELLECT > 3 #
 0 5030 D _param p ST_INTELLECT > 3 #
 5 5040 D _param p ST_INTELLECT < 4 #
 65506 5050 D _param p ST_INTELLECT < 4 #
 0 5060 D _param p ST_INTELLECT < 4 @
-5 6000 None 0 #
+5 6000 main@dlg_Caps 0 #
 6 6010 D _param p ST_INTELLECT > 3 D _param p SK_SPEECH > 79 #
 6 6020 D _param p ST_INTELLECT > 3 D _param p SK_SPEECH < 80 #
 0 6030 D _param p ST_INTELLECT > 3 #
 6 6040 D _param p ST_INTELLECT < 4 #
 0 6050 D _param p ST_INTELLECT < 4 @
-6 7000 None 0 #
+6 7000 main@dlg_Caps 0 #
 7 7010 D _param p ST_INTELLECT > 3 R _script dialog@r_ShowLocation 1 8 #
 65506 7020 D _param p ST_INTELLECT > 3 #
 0 7030 D _param p ST_INTELLECT > 3 #
 7 7040 D _param p ST_INTELLECT < 4 R _script dialog@r_ShowLocation 1 8 #
 65506 7050 D _param p ST_INTELLECT < 4 #
 0 7060 D _param p ST_INTELLECT < 4 @
-7 8000 None 0 #
+7 8000 main@dlg_Caps 0 #
 0 8010 D _param p ST_INTELLECT > 3 #
 65506 8020 D _param p ST_INTELLECT > 3 #
 0 8030 D _param p ST_INTELLECT < 4 #
@@ -99,7 +99,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -237,7 +237,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}

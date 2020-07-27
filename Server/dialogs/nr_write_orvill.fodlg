@@ -6,55 +6,55 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p ST_CHARISMA > 99 #
 12 1020 D _var p nr_wright_boozequest > 0 #
 8 1030 #
 2 1040 D _var p name_mem_npc_player = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 7 2010 D _script dialog@d_QuestTimeoutReady 0  R _var p name_mem_npc_player = 1 #
 5 2020 R _var p name_mem_npc_player = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65507 4010 #
 65507 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 65507 6010 #
 65507 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 D _script dialog@d_QuestTimeoutReady 0  #
 17 8020 D _script dialog@d_QuestTimeoutNotReady 0  #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 R _var p nr_wright_boozequest = 1 R _script dialog@r_QuestTimeout 1 20 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 D _var p nr_wright_boozequest = 4 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 R _var p nr_wright_boozequest = 0 R _script dialog@r_QuestTimeout 1 168 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 0 16010 D _param p SK_SPEECH > 81 D _item p PID_SAWED_OFF_SHOTGUN < 1 R _item p PID_SAWED_OFF_SHOTGUN + 1 R _item p PID_SHOTGUN_SHELLS + 24 R _param p ST_EXPERIENCE + 1000 R _script dialog@r_AddMoney 1 495 #
 0 16020 D _param p SK_SPEECH < 80 D _param p SK_SPEECH > 51 D _item p PID_10MM_PISTOL < 1 R _item p PID_10MM_PISTOL + 1 R _item p PID_10MM_JHP + 24 R _param p ST_EXPERIENCE + 800 R _script dialog@r_AddMoney 1 395 #
 0 16030 D _param p SK_SPEECH < 50 D _item p PID_9MM_MAUSER < 1 R _item p PID_9MM_AMMO + 20 R _item p PID_9MM_MAUSER + 1 R _param p ST_EXPERIENCE + 600 R _script dialog@r_AddMoney 1 295 #
 2 16040 D _param p SK_SPEECH > 81 D _item p PID_SAWED_OFF_SHOTGUN > 0 R _item p PID_SHOTGUN_SHELLS + 24 R _param p ST_EXPERIENCE + 1000 R _script dialog@r_AddMoney 1 495 #
 2 16050 D _param p SK_SPEECH < 80 D _param p SK_SPEECH > 51 D _item p PID_10MM_PISTOL > 0 R _item p PID_10MM_JHP + 24 R _param p ST_EXPERIENCE + 800 R _script dialog@r_AddMoney 1 395 #
 2 16060 D _param p SK_SPEECH < 50 D _item p PID_9MM_MAUSER > 0 R _item p PID_9MM_AMMO + 20 R _param p ST_EXPERIENCE + 600 R _script dialog@r_AddMoney 1 295 @
-17 17000 None 0 &
+17 17000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Orville Wright}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
 {14010}{}{Kitty, uh..}
 {15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
-{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{15010}{}{She, uh... Kitty said she only wanted a couple @lex prefix@s. For, uh, personal use.}
 {16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
 {16010}{}{Thank you, Mister Wright. You're a gentleman.}
 {16020}{}{Thank you, Mister Wright.}
@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {100000004}{}{I have the best Iguana in the WHOOOOOLE Hub! }
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
 {14010}{}{Kitty, uh..}
 {15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
-{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{15010}{}{She, uh... Kitty said she only wanted a couple @lex prefix@s. For, uh, personal use.}
 {16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
 {16010}{}{Thank you, Mister Wright. You're a gentleman.}
 {16020}{}{Thank you, Mister Wright.}
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
 {14010}{}{Kitty, uh..}
 {15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
-{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{15010}{}{She, uh... Kitty said she only wanted a couple @lex prefix@s. For, uh, personal use.}
 {16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
 {16010}{}{Thank you, Mister Wright. You're a gentleman.}
 {16020}{}{Thank you, Mister Wright.}
@@ -218,7 +218,7 @@ lang=engl czec pols span russ
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -259,7 +259,7 @@ lang=engl czec pols span russ
 {14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
 {14010}{}{Kitty, uh..}
 {15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
-{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{15010}{}{She, uh... Kitty said she only wanted a couple @lex prefix@s. For, uh, personal use.}
 {16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
 {16010}{}{Thank you, Mister Wright. You're a gentleman.}
 {16020}{}{Thank you, Mister Wright.}
@@ -270,7 +270,7 @@ lang=engl czec pols span russ
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -311,7 +311,7 @@ lang=engl czec pols span russ
 {14000}{}{(Grin fades into a scowl) Figures. Folks don't like drinkin' in no mobster bar, and I don't blame 'em one bit. Could've used the chips, though. What about Kitty? You better have some damn good news for me.}
 {14010}{}{Kitty, uh..}
 {15000}{}{(Orville glares so hard it feels like he's searing a hole in your face)}
-{15010}{}{She, uh... Kitty said she only wanted a couple bottles. For, uh, personal use.}
+{15010}{}{She, uh... Kitty said she only wanted a couple @lex prefix@s. For, uh, personal use.}
 {16000}{}{(He crumbles) Shit. I was hoping business would pick up. (Sighs) We'll live. The Wrights have made it through harder times. Let's settle accounts. Here's a little something for your trouble. Come back anytime, I always need someone to keep an eye on those bastards.}
 {16010}{}{Thank you, Mister Wright. You're a gentleman.}
 {16020}{}{Thank you, Mister Wright.}

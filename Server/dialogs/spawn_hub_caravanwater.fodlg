@@ -6,56 +6,56 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 20 1020 @
-20 2000 None 0 #
+20 2000 main@dlg_Caps 0 #
 11 2010 @
-2 3000 None 0 #
+2 3000 main@dlg_Caps 0 #
 5 3010 #
 3 3020 #
 0 3030 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 4 4010 D _var p q_spawn_hub_water = 0 #
 0 4020 @
-4 5000 None 0 #
+4 5000 main@dlg_Caps 0 #
 7 5010 #
 4 5020 @
-5 6000 None 0 #
+5 6000 main@dlg_Caps 0 #
 6 6010 @
-6 7000 None 0 #
+6 7000 main@dlg_Caps 0 #
 11 7010 #
 0 7020 @
-7 8000 None 0 #
+7 8000 main@dlg_Caps 0 #
 8 8010 #
 0 8020 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 9 9010 R _param p ST_EXPERIENCE + 50 R _var p q_spawn_hub_water = 1 #
 10 9020 R _param p ST_EXPERIENCE + 50 R _var p q_spawn_hub_water = 1 @
-9 10000 None 0 #
+9 10000 main@dlg_Caps 0 #
 11 10010 #
 0 10020 @
-10 11000 None 0 #
+10 11000 main@dlg_Caps 0 #
 11 11010 #
 0 11020 @
-11 12000 None 0 #
+11 12000 main@dlg_Caps 0 #
 7 12010 D _var p q_spawn_hub_water = 0 #
 3 12020 #
 12 12030 #
 0 12040 @
-12 13000 None 0 #
+12 13000 main@dlg_Caps 0 #
 13 13010 #
 11 13020 #
 14 13030 #
 0 13040 @
-13 14000 None 0 #
+13 14000 main@dlg_Caps 0 #
 0 14010 #
 11 14020 @
-14 15000 None 0 #
+14 15000 main@dlg_Caps 0 #
 15 15010 #
 11 15020 #
 0 15030 @
-15 16000 None 0 #
+15 16000 main@dlg_Caps 0 #
 0 16010 #
 11 16020 &
 
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -282,7 +282,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}

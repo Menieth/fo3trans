@@ -6,44 +6,44 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p factions_player_faction = 6 D _param p ST_INTELLECT > 3 #
 20 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 6 3020 #
 10 3030 D _var n factions_q_vc_questionnaire_u = 0 D _item p PID_QUESTIONNAIRE > 0 D _script dialog@d_LillyCheckQuest 1 4203 D _param n ST_GENDER = 0 R _var p factions_q_vc_questionnaire + 10 R _item p PID_QUESTIONNAIRE - 1 R _var n factions_q_vc_questionnaire_u = 1 #
 11 3040 D _var n factions_q_vc_questionnaire_u = 0 D _item p PID_QUESTIONNAIRE > 0 D _script dialog@d_LillyCheckQuest 1 4203 D _param n ST_GENDER = 1 R _var p factions_q_vc_questionnaire + 10 R _item p PID_QUESTIONNAIRE - 1 R _var n factions_q_vc_questionnaire_u = 1 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 3 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 8 6020 #
 9 6030 #
 3 6040 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 9 7020 #
 3 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 7 8010 #
 9 8020 #
 3 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 7 9010 #
 8 9020 #
 3 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-20 12000 None 0 &
+20 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Citizen}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -217,7 +217,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

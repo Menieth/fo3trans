@@ -6,34 +6,41 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 #
-0 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 D _param p PE_LEADER = 0 D _param p PE_PARAMEDIC = 0 D _param p ST_LEVEL } 65 R _script perks@medic 0  R _param p PE_PARAMEDIC + 1 @
-5 4000 None 0 #
+0 3020 D _param p PE_HUNTER = 0 D _param p PE_MUTANT = 0 D _param p PE_CYBORG = 0 D _param p PE_DEATHCLAW = 0 D _param p PE_PRIEST = 0 D _param p PE_CHOSEN = 0 D _param p PE_RANDOM = 0 D _param p PE_SOLDIER = 0 D _param p PE_KILLER = 0 D _param p PE_ASSASIN = 0 D _param p PE_LEADER = 0 D _param p PE_PARAMEDIC = 0 D _param p ST_LEVEL } 65 R _param p PE_PARAMEDIC + 1 R _param p SK_FIRST_AID + 50 R _param p SK_DOCTOR + 50 @
+5 4000 main@dlg_Caps 0 #
 4 4010 #
-0 4020 &
+0 4020 @
+6 5000 main@dlg_Caps 0 #
+4 5010 #
+7 5020 @
+7 6000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{Soldier}
-{210}{}{Here you are... Meet the soldier.}
+{100}{}{Herr Medic}
+{210}{}{Meeeedic! Doctor!}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
-{2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
-{2010}{}{but....
-}
-{3000}{}{Ok let me show you how to make proper resuscitation then...}
-{3010}{}{I'm not get it}
-{3020}{}{Ok ok, but why you not showing it on doll but on living human, wow...}
-{4000}{}{No but? But help me!}
-{4010}{}{First Teach me how}
-{4020}{}{You are doing good, I think you don't need my help.}
+{2000}{}{Was ze hell bist du doing here, dumkopf?! I am busy experimentin on diese indivduals. I have to find the cure for diese poor souls and you are just killing them!}
+{2010}{}{But...}
+{3000}{}{Ah fine! Zue Seite treten, I will show you how to practice some medicine...}
+{3010}{}{Eh... I don't think I am experienced enough for this.}
+{3020}{}{Well... That was bloody. I am sure you could use a doll instead of a real human.}
+{4000}{}{No buts in hier. Du ruin meine Arbeit! Was do you even need?}
+{4010}{}{Teach me how to be a good paramedic.}
+{4020}{}{You are doing good, I will be going... Herr Doctor.}
+{5000}{}{Doctor Felix Schtrasse to your sevices, fremder Mann. I used to be a doctor in der Grossstadt - Shady Sands. But these kretins kicked me out of the city because they didn't wish me to experiment on people... I did it fur science!}
+{5010}{}{Right... Maybe you can teach me how to be a good doctor, eh?}
+{5020}{}{I see... Well, I will be going...}
+{6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -45,9 +52,13 @@ lang=engl czec pols span russ
 {4000}{}{No but? But help me!}
 {4010}{}{First Teach me how}
 {4020}{}{You are doing good, I think you don't need my help.}
+{5000}{}{Doctor Felix Schtrasse to your sevices, fremder Mann. I used to to in der Grossstadt - Shady Sands. But these kretins kicked me out from the city because they didn't wish me to experiment on people... I did it fur science!}
+{5010}{}{Right... Maybe you can teach me how to be a good doctor, eh?}
+{5020}{}{I see... Well, I will be going...}
+{6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -59,9 +70,13 @@ lang=engl czec pols span russ
 {4000}{}{No but? But help me!}
 {4010}{}{First Teach me how}
 {4020}{}{You are doing good, I think you don't need my help.}
+{5000}{}{Doctor Felix Schtrasse to your sevices, fremder Mann. I used to to in der Grossstadt - Shady Sands. But these kretins kicked me out from the city because they didn't wish me to experiment on people... I did it fur science!}
+{5010}{}{Right... Maybe you can teach me how to be a good doctor, eh?}
+{5020}{}{I see... Well, I will be going...}
+{6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -73,9 +88,13 @@ lang=engl czec pols span russ
 {4000}{}{No but? But help me!}
 {4010}{}{First Teach me how}
 {4020}{}{You are doing good, I think you don't need my help.}
+{5000}{}{Doctor Felix Schtrasse to your sevices, fremder Mann. I used to to in der Grossstadt - Shady Sands. But these kretins kicked me out from the city because they didn't wish me to experiment on people... I did it fur science!}
+{5010}{}{Right... Maybe you can teach me how to be a good doctor, eh?}
+{5020}{}{I see... Well, I will be going...}
+{6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -87,4 +106,8 @@ lang=engl czec pols span russ
 {4000}{}{No but? But help me!}
 {4010}{}{First Teach me how}
 {4020}{}{You are doing good, I think you don't need my help.}
+{5000}{}{Doctor Felix Schtrasse to your sevices, fremder Mann. I used to to in der Grossstadt - Shady Sands. But these kretins kicked me out from the city because they didn't wish me to experiment on people... I did it fur science!}
+{5010}{}{Right... Maybe you can teach me how to be a good doctor, eh?}
+{5020}{}{I see... Well, I will be going...}
+{6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 

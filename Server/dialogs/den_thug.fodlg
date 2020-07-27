@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_GENDER = 0 #
 3 1020 D _param p ST_GENDER = 1 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Thug}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{You want some of this?@@Hey baby, come here.@@Hey, you like what you see?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}

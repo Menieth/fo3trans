@@ -6,32 +6,32 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 7 1010 D _param p ST_CHARISMA > 99 #
 2 1020 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 1030 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 65506 2020 #
 5 2030 #
 6 2040 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 3 4010 #
 65506 4020 #
 6 4030 #
 5 4040 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 4 6010 #
 0 6020 @
-7 7000 None 0 &
+7 7000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Duppo}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {7000}{}{Sorry, I don't talk to freaks.@@You're a long way from Gecko, mutant.@@Go on, git!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -97,7 +97,7 @@ lang=engl czec pols span russ
 {7000}{}{Sorry, I don't talk to freaks.@@You're a long way from Gecko, mutant.@@Go on, git!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {7000}{}{Sorry, I don't talk to freaks.@@You're a long way from Gecko, mutant.@@Go on, git!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {7000}{}{Sorry, I don't talk to freaks.@@You're a long way from Gecko, mutant.@@Go on, git!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}

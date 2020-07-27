@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_NPC_ROLE = 206 #
 0 2020 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 R _script map_events@r_tp 1 206 #
 0 3020 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 0 4010 &
 
 [engl]
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {4010}{}{Ah... I better go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it?}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4010}{}{Ah... I better go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it?}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4010}{}{Ah... I better go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it?}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {4010}{}{Ah... I better go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{What is it?}

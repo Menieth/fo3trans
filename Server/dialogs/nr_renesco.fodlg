@@ -10,12 +10,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 54 1010 D _var p q_redding_mcgrew_runner = 3 #
 42 1020 D _var n name_mem_npc_player > 0 D _param p ST_INTELLECT < 4 #
 40 1030 D _var n name_mem_npc_player = 0 D _param p ST_INTELLECT < 4 #
 2 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 D _var n name_mem_npc_player = 0 #
 3 2020 D _var p factions_player_faction = 1 D _var n name_mem_npc_player = 0 #
 4 2030 D _var p factions_player_faction > 1 D _var p factions_player_faction < 7 D _var n name_mem_npc_player = 0 #
@@ -26,31 +26,31 @@ lang=engl czec pols span russ
 23 2080 D _var n name_mem_npc_player > 0 #
 21 2090 D _var n name_mem_npc_player > 0 #
 0 2100 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 6 3010 D _param p ST_CHARISMA > 4 R _var n name_mem_npc_player = 1 #
 6 3020 D _param p ST_CHARISMA < 5 R _var n name_mem_npc_player = 1 #
 6 3030 D _param p ST_CHARISMA > 6 D _param p ST_STRENGTH > 5 R _var n name_mem_npc_player = 1 #
 6 3040 D _var p factions_player_rank > 2 R _var n name_mem_npc_player = 1 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 D _param p ST_CHARISMA > 4 R _var n name_mem_npc_player = 1 #
 6 4020 D _param p ST_CHARISMA < 5 R _var n name_mem_npc_player = 1 #
 6 4030 D _param p ST_CHARISMA > 6 D _param p ST_STRENGTH > 5 R _var n name_mem_npc_player = 1 #
 6 4040 D _var p factions_player_rank > 2 R _var n name_mem_npc_player = 1 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _param p ST_CHARISMA > 4 R _var n name_mem_npc_player = 1 #
 6 5020 D _param p ST_CHARISMA < 5 R _var n name_mem_npc_player = 1 #
 6 5030 D _param p ST_CHARISMA > 6 D _param p ST_STRENGTH > 5 R _var n name_mem_npc_player = 1 #
 6 5040 D _var p factions_player_rank > 2 R _var n name_mem_npc_player = 1 #
 0 5050 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 15 6010 #
 7 6020 #
 22 6030 #
 23 6040 #
 0 6050 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 43 7010 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 R _var n acquaintance = 1 #
 51 7020 D _var p q_redding_mcgrew_runner = 1 #
 8 7030 #
@@ -58,110 +58,110 @@ lang=engl czec pols span russ
 22 7050 #
 9 7060 #
 0 7070 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 2 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 10 9020 #
 10 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 65506 10010 #
 2 10020 #
 11 10030 #
 0 10040 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 65506 11010 #
 2 11020 #
 12 11030 #
 0 11040 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 14 13020 #
 14 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 65506 14010 #
 0 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 #
 0 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 #
 20 19020 #
 0 19030 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 2 20010 #
 0 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 2 21010 #
 0 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 65506 22010 #
 2 22020 #
 0 22030 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 2 23010 #
 0 23020 @
-40 24000 None 0 #
+40 24000 main@dlg_Caps 0 #
 41 24010 D _param p ST_GENDER = 0 R _var n name_mem_npc_player = 1 #
 41 24020 D _param p ST_GENDER = 1 R _var n name_mem_npc_player = 1 #
 41 24030 R _var n name_mem_npc_player = 1 @
-41 25000 None 0 #
+41 25000 main@dlg_Caps 0 #
 42 25010 D _param p ST_GENDER = 0 #
 42 25020 D _param p ST_GENDER = 1 #
 42 25030 @
-42 26000 None 0 @
-100 27000 None 0 #
+42 26000 main@dlg_Caps 0 @
+100 27000 main@dlg_Caps 0 #
 101 27010 #
 102 27020 R _item p PID_FIRST_AID_BOOK + 1 R _var n acquaintance = 1 #
 0 27030 @
-101 28000 None 0 #
+101 28000 main@dlg_Caps 0 #
 102 28010 R _item p PID_FIRST_AID_BOOK + 1 R _var n acquaintance = 1 #
 0 28020 @
-102 29000 None 0 #
+102 29000 main@dlg_Caps 0 #
 2 29010 #
 0 29020 @
-43 30000 None 0 #
+43 30000 main@dlg_Caps 0 #
 44 30010 @
-44 31000 None 0 #
+44 31000 main@dlg_Caps 0 #
 45 31010 @
-45 32000 None 0 #
+45 32000 main@dlg_Caps 0 #
 46 32010 @
-46 33000 None 0 #
+46 33000 main@dlg_Caps 0 #
 47 33010 D _param p ST_CHARISMA > 6 #
 48 33020 D _param p ST_CHARISMA < 7 D _param p ST_CHARISMA > 4 #
 49 33030 D _param p ST_CHARISMA < 5 @
-47 34000 None 0 #
+47 34000 main@dlg_Caps 0 #
 50 34010 R _var p q_mordinos_induction_doctor + 200 @
-48 35000 None 0 #
+48 35000 main@dlg_Caps 0 #
 50 35010 R _var p q_mordinos_induction_doctor + 150 @
-49 36000 None 0 #
+49 36000 main@dlg_Caps 0 #
 50 36010 R _var p q_mordinos_induction_doctor + 100 @
-50 37000 None 0 #
+50 37000 main@dlg_Caps 0 #
 0 37010 @
-51 38000 None 0 #
+51 38000 main@dlg_Caps 0 #
 52 38010 @
-52 39000 None 0 #
+52 39000 main@dlg_Caps 0 #
 53 39010 @
-53 40000 None 0 #
+53 40000 main@dlg_Caps 0 #
 0 40010 R _var p q_redding_mcgrew_runner = 2 @
-54 41000 None 0 #
+54 41000 main@dlg_Caps 0 #
 55 41010 @
-55 42000 None 0 #
+55 42000 main@dlg_Caps 0 #
 56 42010 @
-56 43000 None 0 #
+56 43000 main@dlg_Caps 0 #
 0 43010 R _var p q_redding_mcgrew_runner = 4 R _param p ST_EXPERIENCE + 2000 @
-57 44000 None 0 &
+57 44000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Renesco}
@@ -300,11 +300,11 @@ lang=engl czec pols span russ
 {33020}{}{Wholesale prices dogg, nothing fancy.}
 {33030}{}{Straight standard prices bro! No scam here!}
 {34000}{}{I'll take 200.}
-{34010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{34010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {35000}{}{I'll take 150.}
-{35010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{35010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {36000}{}{Just a hundred.}
-{36010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{36010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {37000}{}{It almost was.}
 {37010}{}{Oh Renesco, you so sassy!}
 {38000}{}{Congratulations, really. Astounding.}
@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -455,11 +455,11 @@ lang=engl czec pols span russ
 {33020}{}{Wholesale prices dogg, nothing fancy.}
 {33030}{}{Straight standard prices bro! No scam here!}
 {34000}{}{I'll take 200.}
-{34010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{34010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {35000}{}{I'll take 150.}
-{35010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{35010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {36000}{}{Just a hundred.}
-{36010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{36010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {37000}{}{It almost was.}
 {37010}{}{Oh Renesco, you so sassy!}
 {38000}{}{Congratulations, really. Astounding.}
@@ -477,7 +477,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -610,11 +610,11 @@ lang=engl czec pols span russ
 {33020}{}{Wholesale prices dogg, nothing fancy.}
 {33030}{}{Straight standard prices bro! No scam here!}
 {34000}{}{I'll take 200.}
-{34010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{34010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {35000}{}{I'll take 150.}
-{35010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{35010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {36000}{}{Just a hundred.}
-{36010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{36010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {37000}{}{It almost was.}
 {37010}{}{Oh Renesco, you so sassy!}
 {38000}{}{Congratulations, really. Astounding.}
@@ -632,7 +632,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -765,11 +765,11 @@ lang=engl czec pols span russ
 {33020}{}{Wholesale prices dogg, nothing fancy.}
 {33030}{}{Straight standard prices bro! No scam here!}
 {34000}{}{I'll take 200.}
-{34010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{34010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {35000}{}{I'll take 150.}
-{35010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{35010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {36000}{}{Just a hundred.}
-{36010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{36010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {37000}{}{It almost was.}
 {37010}{}{Oh Renesco, you so sassy!}
 {38000}{}{Congratulations, really. Astounding.}
@@ -787,7 +787,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -920,11 +920,11 @@ lang=engl czec pols span russ
 {33020}{}{Wholesale prices dogg, nothing fancy.}
 {33030}{}{Straight standard prices bro! No scam here!}
 {34000}{}{I'll take 200.}
-{34010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{34010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {35000}{}{I'll take 150.}
-{35010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{35010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {36000}{}{Just a hundred.}
-{36010}{}{[You swap drugs for caps.] A pleasure dealing with you!}
+{36010}{}{[You swap drugs for @lex money@.] A pleasure dealing with you!}
 {37000}{}{It almost was.}
 {37010}{}{Oh Renesco, you so sassy!}
 {38000}{}{Congratulations, really. Astounding.}

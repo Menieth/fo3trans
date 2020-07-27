@@ -6,32 +6,32 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 6 1020 D _var n name_mem_npc_player = 1 #
 7 1030 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 5 2020 #
 4 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 3 5010 #
 6 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 3 6010 #
 5 6020 #
 4 6030 #
 0 6040 @
-7 7000 None 0 &
+7 7000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Ben Wade}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

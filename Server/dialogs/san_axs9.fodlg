@@ -6,13 +6,13 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 65507 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 &
 
 [engl]
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3010}{}{Whatever.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3010}{}{Whatever.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {3010}{}{Whatever.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {3010}{}{Whatever.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}

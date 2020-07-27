@@ -11,36 +11,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 11 1010 D _var p q_iguana_pete_message = 3 #
 2 1020 D _var p q_iguana_pete_message = 2 #
 10 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 #
 4 2020 D _var p q_iguana_pete_message = 2 #
 3 2030 D _var p q_iguana_pete_message = 2 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 4 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 6 5020 D _var p name_mem_npc_player = 0 R _item p PID_BEER + 1 R _var p name_mem_npc_player = 1 #
 6 5030 D _var p name_mem_npc_player = 1 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 7 6020 #
 4 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 4 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 R _var p q_iguana_pete_message = 3 @
-10 10000 None 0 @
-11 11000 None 0 &
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Lenny}
@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}

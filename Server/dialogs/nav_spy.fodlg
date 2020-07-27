@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 R _script dialog@r_KillNpc 1 Anim2DeadBloodySingle #
 0 5020 R _script dialog@r_KillNpc 1 Anim2DeadBloodySingle #
 0 5030 R _script dialog@r_KillNpc 1 Anim2DeadBloodySingle &
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {5030}{}{You are so paranoid...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey... wha... What are you doing here?}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {5030}{}{You are so paranoid...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey... wha... What are you doing here?}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {5030}{}{You are so paranoid...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey... wha... What are you doing here?}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {5030}{}{You are so paranoid...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey... wha... What are you doing here?}

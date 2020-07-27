@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 5 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Overseer}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {5000}{}{What do you want?@@Get lost, moron.@@Get outta here.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {5000}{}{What do you want?@@Get lost, moron.@@Get outta here.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {5000}{}{What do you want?@@Get lost, moron.@@Get outta here.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {5000}{}{What do you want?@@Get lost, moron.@@Get outta here.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}

@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 7 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 3 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 11 2010 #
 12 2020 #
 13 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 D _script rooms@d_IsFreeRoom 1 0 D _script rooms@d_NotRentingHere 1 0 #
 9 3020 D _script rooms@d_NoFreeRooms 1 0 D _script rooms@d_NotRentingHere 1 0 #
 10 3030 D _script rooms@d_CanPayRent 1 0 R _script rooms@r_PayRent 1 1 #
@@ -23,43 +23,43 @@ lang=engl czec pols span russ
 12 3050 #
 13 3060 #
 0 3070 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-7 5000 None 0 @
-8 6000 None 0 @
-10 7000 None 0 #
+7 5000 main@dlg_Caps 0 @
+8 6000 main@dlg_Caps 0 @
+10 7000 main@dlg_Caps 0 #
 3 7010 #
 0 7020 @
-11 8000 None 0 #
-14 8010 D _item p PID_BOTTLE_CAPS > 1 D _var p bar_drink = 0 R _var p bar_drink = 1 R _script dialog@r_RemoveMoney 1 2 #
-17 8020 D _var p bar_drink = 1 D _item p PID_BOTTLE_CAPS > 1 R _script dialog@r_RemoveMoney 1 2 #
+11 8000 main@dlg_Caps 0 #
+14 8010 D _script dialog@d_havepropermoney 1 1 D _var p bar_drink = 0 R _var p bar_drink = 1 R _script dialog@r_RemoveMoney 1 2 #
+17 8020 D _var p bar_drink = 1 D _script dialog@d_havepropermoney 1 1 R _script dialog@r_RemoveMoney 1 2 #
 0 8030 D _var p bar_drink = 2 #
 0 8040 @
-12 9000 None 0 #
-15 9010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
+12 9000 main@dlg_Caps 0 #
+15 9010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BEER + 1 R _script dialog@r_RemoveMoney 1 10 #
 0 9020 @
-13 10000 None 0 #
-16 10010 D _item p PID_BOTTLE_CAPS > 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
+13 10000 main@dlg_Caps 0 #
+16 10010 D _script dialog@d_havepropermoney 1 9 R _item p PID_BOOZE + 1 R _script dialog@r_RemoveMoney 1 10 #
 0 10020 @
-14 11000 None 0 #
+14 11000 main@dlg_Caps 0 #
 11 11010 #
 12 11020 #
 13 11030 #
 3 11040 #
 0 11050 @
-15 12000 None 0 #
+15 12000 main@dlg_Caps 0 #
 11 12010 #
 12 12020 #
 13 12030 #
 3 12040 #
 0 12050 @
-16 13000 None 0 #
+16 13000 main@dlg_Caps 0 #
 11 13010 #
 12 13020 #
 13 13030 #
 3 13040 #
 0 13050 @
-17 14000 None 0 #
+17 14000 main@dlg_Caps 0 #
 11 14010 #
 12 14020 #
 13 14030 #
@@ -93,15 +93,15 @@ lang=engl czec pols span russ
 {7000}{}{Good, wouldn't wanna get your stuff repossessed now, am I right?}
 {7010}{}{Right...}
 {7020}{}{[Leave]Right...}
-{8000}{}{That'll be two caps.}
+{8000}{}{That'll be two @lex money@.}
 {8010}{}{Sure.@@Okay.}
 {8020}{}{Sure.@@Okay.}
 {8030}{}{I changed my mind... I feel a bit sick.}
 {8040}{}{No, thanks.}
-{9000}{}{That'll be ten caps.}
+{9000}{}{That'll be ten @lex money@.}
 {9010}{}{Sure.@@Okay.}
 {9020}{}{No, thanks.}
-{10000}{}{That'll be ten caps.}
+{10000}{}{That'll be ten @lex money@.}
 {10010}{}{Sure.@@Okay.}
 {10020}{}{No, thanks.}
 {11000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
@@ -110,13 +110,13 @@ lang=engl czec pols span russ
 {11030}{}{Liquor.}
 {11040}{}{About renting a room...}
 {11050}{}{Nothing.}
-{12000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{12000}{}{Here you are. [The bartender hands you a beer @lex prefix@.] Anything else?}
 {12010}{}{Water.}
 {12020}{}{Beer.}
 {12030}{}{Liquor.}
 {12040}{}{About renting a room...}
 {12050}{}{Nothing.}
-{13000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{13000}{}{Here you are. [The bartender hands you a liquor @lex prefix@.] Anything else?}
 {13010}{}{Water.}
 {13020}{}{Beer.}
 {13030}{}{Liquor.}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {14050}{}{Nothing.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -155,15 +155,15 @@ lang=engl czec pols span russ
 {7000}{}{Good, wouldn't wanna get your stuff repossessed now, am I right?}
 {7010}{}{Right...}
 {7020}{}{[Leave]Right...}
-{8000}{}{That'll be two caps.}
+{8000}{}{That'll be two @lex money@.}
 {8010}{}{Sure.@@Okay.}
 {8020}{}{Sure.@@Okay.}
 {8030}{}{I changed my mind... I feel a bit sick.}
 {8040}{}{No, thanks.}
-{9000}{}{That'll be ten caps.}
+{9000}{}{That'll be ten @lex money@.}
 {9010}{}{Sure.@@Okay.}
 {9020}{}{No, thanks.}
-{10000}{}{That'll be ten caps.}
+{10000}{}{That'll be ten @lex money@.}
 {10010}{}{Sure.@@Okay.}
 {10020}{}{No, thanks.}
 {11000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
@@ -172,13 +172,13 @@ lang=engl czec pols span russ
 {11030}{}{Liquor.}
 {11040}{}{About renting a room...}
 {11050}{}{Nothing.}
-{12000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{12000}{}{Here you are. [The bartender hands you a beer @lex prefix@.] Anything else?}
 {12010}{}{Water.}
 {12020}{}{Beer.}
 {12030}{}{Liquor.}
 {12040}{}{About renting a room...}
 {12050}{}{Nothing.}
-{13000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{13000}{}{Here you are. [The bartender hands you a liquor @lex prefix@.] Anything else?}
 {13010}{}{Water.}
 {13020}{}{Beer.}
 {13030}{}{Liquor.}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {14050}{}{Nothing.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -217,15 +217,15 @@ lang=engl czec pols span russ
 {7000}{}{Good, wouldn't wanna get your stuff repossessed now, am I right?}
 {7010}{}{Right...}
 {7020}{}{[Leave]Right...}
-{8000}{}{That'll be two caps.}
+{8000}{}{That'll be two @lex money@.}
 {8010}{}{Sure.@@Okay.}
 {8020}{}{Sure.@@Okay.}
 {8030}{}{I changed my mind... I feel a bit sick.}
 {8040}{}{No, thanks.}
-{9000}{}{That'll be ten caps.}
+{9000}{}{That'll be ten @lex money@.}
 {9010}{}{Sure.@@Okay.}
 {9020}{}{No, thanks.}
-{10000}{}{That'll be ten caps.}
+{10000}{}{That'll be ten @lex money@.}
 {10010}{}{Sure.@@Okay.}
 {10020}{}{No, thanks.}
 {11000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
@@ -234,13 +234,13 @@ lang=engl czec pols span russ
 {11030}{}{Liquor.}
 {11040}{}{About renting a room...}
 {11050}{}{Nothing.}
-{12000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{12000}{}{Here you are. [The bartender hands you a beer @lex prefix@.] Anything else?}
 {12010}{}{Water.}
 {12020}{}{Beer.}
 {12030}{}{Liquor.}
 {12040}{}{About renting a room...}
 {12050}{}{Nothing.}
-{13000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{13000}{}{Here you are. [The bartender hands you a liquor @lex prefix@.] Anything else?}
 {13010}{}{Water.}
 {13020}{}{Beer.}
 {13030}{}{Liquor.}
@@ -254,7 +254,7 @@ lang=engl czec pols span russ
 {14050}{}{Nothing.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -279,15 +279,15 @@ lang=engl czec pols span russ
 {7000}{}{Good, wouldn't wanna get your stuff repossessed now, am I right?}
 {7010}{}{Right...}
 {7020}{}{[Leave]Right...}
-{8000}{}{That'll be two caps.}
+{8000}{}{That'll be two @lex money@.}
 {8010}{}{Sure.@@Okay.}
 {8020}{}{Sure.@@Okay.}
 {8030}{}{I changed my mind... I feel a bit sick.}
 {8040}{}{No, thanks.}
-{9000}{}{That'll be ten caps.}
+{9000}{}{That'll be ten @lex money@.}
 {9010}{}{Sure.@@Okay.}
 {9020}{}{No, thanks.}
-{10000}{}{That'll be ten caps.}
+{10000}{}{That'll be ten @lex money@.}
 {10010}{}{Sure.@@Okay.}
 {10020}{}{No, thanks.}
 {11000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
@@ -296,13 +296,13 @@ lang=engl czec pols span russ
 {11030}{}{Liquor.}
 {11040}{}{About renting a room...}
 {11050}{}{Nothing.}
-{12000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{12000}{}{Here you are. [The bartender hands you a beer @lex prefix@.] Anything else?}
 {12010}{}{Water.}
 {12020}{}{Beer.}
 {12030}{}{Liquor.}
 {12040}{}{About renting a room...}
 {12050}{}{Nothing.}
-{13000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{13000}{}{Here you are. [The bartender hands you a liquor @lex prefix@.] Anything else?}
 {13010}{}{Water.}
 {13020}{}{Beer.}
 {13030}{}{Liquor.}
@@ -316,7 +316,7 @@ lang=engl czec pols span russ
 {14050}{}{Nothing.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -341,15 +341,15 @@ lang=engl czec pols span russ
 {7000}{}{Good, wouldn't wanna get your stuff repossessed now, am I right?}
 {7010}{}{Right...}
 {7020}{}{[Leave]Right...}
-{8000}{}{That'll be two caps.}
+{8000}{}{That'll be two @lex money@.}
 {8010}{}{Sure.@@Okay.}
 {8020}{}{Sure.@@Okay.}
 {8030}{}{I changed my mind... I feel a bit sick.}
 {8040}{}{No, thanks.}
-{9000}{}{That'll be ten caps.}
+{9000}{}{That'll be ten @lex money@.}
 {9010}{}{Sure.@@Okay.}
 {9020}{}{No, thanks.}
-{10000}{}{That'll be ten caps.}
+{10000}{}{That'll be ten @lex money@.}
 {10010}{}{Sure.@@Okay.}
 {10020}{}{No, thanks.}
 {11000}{}{Here. [The bartender slides you a dirty tin cup full of some murky water. After drinking the water, you have a strange taste in your mouth.]}
@@ -358,13 +358,13 @@ lang=engl czec pols span russ
 {11030}{}{Liquor.}
 {11040}{}{About renting a room...}
 {11050}{}{Nothing.}
-{12000}{}{Here you are. [The bartender hands you a beer bottle.] Anything else?}
+{12000}{}{Here you are. [The bartender hands you a beer @lex prefix@.] Anything else?}
 {12010}{}{Water.}
 {12020}{}{Beer.}
 {12030}{}{Liquor.}
 {12040}{}{About renting a room...}
 {12050}{}{Nothing.}
-{13000}{}{Here you are. [The bartender hands you a liquor bottle.] Anything else?}
+{13000}{}{Here you are. [The bartender hands you a liquor @lex prefix@.] Anything else?}
 {13010}{}{Water.}
 {13020}{}{Beer.}
 {13030}{}{Liquor.}

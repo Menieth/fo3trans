@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _item p PID_SECURITY_CARD } 1 R _item p PID_SECURITY_CARD - 1 R _script dialog@r_OpenDoor 2 45 3600 #
 0 2020 @
-3 3000 None 0 &
+3 3000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Access confirmed... ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Access confirmed... ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Access confirmed... ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Access confirmed... ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! This is a property of NSA. Insert a keycard. ]}

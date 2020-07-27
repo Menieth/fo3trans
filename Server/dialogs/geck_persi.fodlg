@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 3 1020 D _var p name_mem_npc_player = 1 #
 5 1030 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 65506 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 65506 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 3 4010 #
 0 4020 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Percy}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}

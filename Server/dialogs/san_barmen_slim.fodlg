@@ -6,30 +6,30 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 15 1010 D _param p ST_CHARISMA > 99 #
 2 1020 D _var n name_mem_npc_player = 0 #
 4 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 65506 2020 #
 5 2030 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player + 1 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 65506 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 3 4010 #
 65506 4020 #
 65507 4030 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 6 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 13 7020 #
 13 7030 #
@@ -37,27 +37,27 @@ lang=engl czec pols span russ
 13 7050 #
 12 7060 #
 12 7070 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 10 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 11 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 8 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 8 13010 #
 8 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 8 14010 #
 8 14020 @
-15 15000 None 0 &
+15 15000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Slim}
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {5020}{}{I guess you're gonna tell me?}
 {6000}{}{Now you know I ain't a racist or nothing. But you know, standing back here, you think about things.}
 {6010}{}{What kind of things?}
-{6020}{}{This is moving in to politically incorrect territory and I am having none of it. Good day sir.}
+{6020}{}{This is moving in to politically incorrect territory and I am having main@dlg_Caps of it. Good day sir.}
 {7000}{}{Well like...which race has the hottest women?}
 {7010}{}{Uh.....right.}
 {7020}{}{White people!}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {5020}{}{I guess you're gonna tell me?}
 {6000}{}{Now you know I ain't a racist or nothing. But you know, standing back here, you think about things.}
 {6010}{}{What kind of things?}
-{6020}{}{This is moving in to politically incorrect territory and I am having none of it. Good day sir.}
+{6020}{}{This is moving in to politically incorrect territory and I am having main@dlg_Caps of it. Good day sir.}
 {7000}{}{Well like...which race has the hottest women?}
 {7010}{}{Uh.....right.}
 {7020}{}{White people!}
@@ -175,7 +175,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -198,7 +198,7 @@ lang=engl czec pols span russ
 {5020}{}{I guess you're gonna tell me?}
 {6000}{}{Now you know I ain't a racist or nothing. But you know, standing back here, you think about things.}
 {6010}{}{What kind of things?}
-{6020}{}{This is moving in to politically incorrect territory and I am having none of it. Good day sir.}
+{6020}{}{This is moving in to politically incorrect territory and I am having main@dlg_Caps of it. Good day sir.}
 {7000}{}{Well like...which race has the hottest women?}
 {7010}{}{Uh.....right.}
 {7020}{}{White people!}
@@ -230,7 +230,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -253,7 +253,7 @@ lang=engl czec pols span russ
 {5020}{}{I guess you're gonna tell me?}
 {6000}{}{Now you know I ain't a racist or nothing. But you know, standing back here, you think about things.}
 {6010}{}{What kind of things?}
-{6020}{}{This is moving in to politically incorrect territory and I am having none of it. Good day sir.}
+{6020}{}{This is moving in to politically incorrect territory and I am having main@dlg_Caps of it. Good day sir.}
 {7000}{}{Well like...which race has the hottest women?}
 {7010}{}{Uh.....right.}
 {7020}{}{White people!}
@@ -285,7 +285,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -308,7 +308,7 @@ lang=engl czec pols span russ
 {5020}{}{I guess you're gonna tell me?}
 {6000}{}{Now you know I ain't a racist or nothing. But you know, standing back here, you think about things.}
 {6010}{}{What kind of things?}
-{6020}{}{This is moving in to politically incorrect territory and I am having none of it. Good day sir.}
+{6020}{}{This is moving in to politically incorrect territory and I am having main@dlg_Caps of it. Good day sir.}
 {7000}{}{Well like...which race has the hottest women?}
 {7010}{}{Uh.....right.}
 {7020}{}{White people!}

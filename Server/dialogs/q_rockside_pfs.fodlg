@@ -6,45 +6,45 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p q_v99_pfs = 0 #
 4 1020 D _var p q_v99_pfs = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 3 2020 #
 4 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 #
 5 3020 @
-4 4000 None 0 @
-5 5000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 10 5020 #
 10 5030 #
 10 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 11 6010 #
 11 6020 #
 12 6030 #
 11 6040 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 R _var p q_v99_pfs = 1 R _param p SK_SCIENCE + 10 R _param p ST_EXPERIENCE + 50 #
 9 7020 R _var p q_v99_pfs = 1 R _param p SK_SCIENCE + 10 R _param p ST_EXPERIENCE + 50 #
 9 7030 R _var p q_v99_pfs = 1 R _param p SK_SCIENCE + 10 R _param p ST_EXPERIENCE + 50 #
 9 7040 R _var p q_v99_pfs = 1 R _param p SK_SCIENCE + 10 R _param p ST_EXPERIENCE + 50 #
 9 7050 R _var p q_v99_pfs = 1 R _param p SK_SCIENCE + 10 R _param p ST_EXPERIENCE + 50 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 0 8010 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 0 9010 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 0 10010 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 13 11010 #
 13 11020 #
 7 11030 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 0 12010 &
 
 [engl]
@@ -97,7 +97,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }
@@ -146,7 +146,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }
@@ -195,7 +195,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }
@@ -244,7 +244,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }

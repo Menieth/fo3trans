@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 0 2020 &
 
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What's your poison, pal?}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What's your poison, pal?}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What's your poison, pal?}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What's your poison, pal?}

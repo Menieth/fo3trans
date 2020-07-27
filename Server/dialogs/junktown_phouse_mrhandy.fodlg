@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p q_jt_power_house_handy } 3 #
 6 1020 D _var p name_mem_npc_player = 1 D _var p q_jt_power_house_handy > 0 #
 2 1030 D _var p q_jt_power_house_handy > 0 D _var p name_mem_npc_player = 0 #
 11 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_INTELLECT < 7 D _var p q_jt_power_house_handy > 0 D _var p q_jt_power_house_handy < 3 R _script dialog@r_SkillRoll 2 Science 6 #
 6 2020 D _param p ST_INTELLECT } 7 D _var p q_jt_power_house_handy > 0 D _var p q_jt_power_house_handy < 3 R _var p name_mem_npc_player + 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 13 5010 D _param p ST_PERCEPTION } 5 D _param p ST_LUCK < 5 D _var p q_jt_power_house_handy_special = 0 R _item p PID_PUMP_PARTS + 1 R _var p q_jt_power_house_handy_special = 1 #
 14 5020 D _param p ST_PERCEPTION } 5 D _param p ST_LUCK } 8 D _var p q_jt_power_house_handy_special = 0 R _item p PID_DICE + 1 R _var p q_jt_power_house_handy_special = 1 #
 15 5030 D _param p ST_PERCEPTION } 5 D _param p ST_LUCK } 5 D _param p ST_LUCK < 8 D _var p q_jt_power_house_handy_special = 0 R _item p PID_BEER + 1 R _var p q_jt_power_house_handy_special = 1 #
@@ -27,25 +27,25 @@ lang=engl czec pols span russ
 8 5050 D _param p SK_SCIENCE } 200 D _param p SK_REPAIR } 75 R _var p q_jt_power_house_handy = 3 R _param p ST_EXPERIENCE + 2000 R _var p name_mem_npc_player = 1 R _param p PE_MR_FIXIT = 1 #
 10 5060 D _item p PID_ROBOT_MOTIVATOR > 0 R _script dialog@r_SkillRoll 3 Science -50 12 R _var p name_mem_npc_player = 1 #
 0 5070 R _var p name_mem_npc_player = 1 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 0 6010 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 9 7010 @
-9 8000 None 0 @
-10 9000 None 0 #
+9 8000 main@dlg_Caps 0 @
+10 9000 main@dlg_Caps 0 #
 6 9010 #
 0 9020 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 0 10010 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 9 11010 R _var p q_jt_power_house_handy = 3 R _param p ST_EXPERIENCE + 500 R _item p PID_ROBOT_MOTIVATOR - 1 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 6 12010 #
 0 12020 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 6 13010 #
 0 13020 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 6 14010 #
 0 14020 &
 
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {13000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some dices... How the fuck did they jammed in there?!]}
 {13010}{}{[Continue]}
 {13020}{}{[End]}
-{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer bottle... What.]}
+{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer @lex prefix@... What.]}
 {14010}{}{[Continue]}
 {14020}{}{[End]}
 {100000001}{}{Welcome to Junktown, traveller!}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{fixed}
 {1020}{}{quest active, inspected}
@@ -142,12 +142,12 @@ lang=engl czec pols span russ
 {13000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some dices... How the fuck did they jammed in there?!]}
 {13010}{}{[Continue]}
 {13020}{}{[End]}
-{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer bottle... What.]}
+{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer @lex prefix@... What.]}
 {14010}{}{[Continue]}
 {14020}{}{[End]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{fixed}
 {1020}{}{quest active, inspected}
@@ -187,12 +187,12 @@ lang=engl czec pols span russ
 {13000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some dices... How the fuck did they jammed in there?!]}
 {13010}{}{[Continue]}
 {13020}{}{[End]}
-{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer bottle... What.]}
+{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer @lex prefix@... What.]}
 {14010}{}{[Continue]}
 {14020}{}{[End]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{fixed}
 {1020}{}{quest active, inspected}
@@ -232,12 +232,12 @@ lang=engl czec pols span russ
 {13000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some dices... How the fuck did they jammed in there?!]}
 {13010}{}{[Continue]}
 {13020}{}{[End]}
-{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer bottle... What.]}
+{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer @lex prefix@... What.]}
 {14010}{}{[Continue]}
 {14020}{}{[End]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{fixed}
 {1020}{}{quest active, inspected}
@@ -277,7 +277,7 @@ lang=engl czec pols span russ
 {13000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's just some dices... How the fuck did they jammed in there?!]}
 {13010}{}{[Continue]}
 {13020}{}{[End]}
-{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer bottle... What.]}
+{14000}{}{[You search the propulsion area and find a part that shouldn't be in there... After a few short but powerful strokes, you've got it out. Turn's out, it's a beer @lex prefix@... What.]}
 {14010}{}{[Continue]}
 {14020}{}{[End]}
 

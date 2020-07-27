@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Boxing Fan}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Little Mac will kill anyone who stands in his way!@@Little Mac is the BEST. The BEST.@@Little Mac is the man!@@Little Mac is the best boxing champion I've ever seen.@@Little Mac is really smart, too. He really knows how to hurt someone.@@Little Mac cares about his fans. He doesn't kill them like the other boxers.@@Little Mac is caring and nurturing. That's what he told me last night.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Little Mac will kill anyone who stands in his way!@@Little Mac is the BEST. The BEST.@@Little Mac is the man!@@Little Mac is the best boxing champion I've ever seen.@@Little Mac is really smart, too. He really knows how to hurt someone.@@Little Mac cares about his fans. He doesn't kill them like the other boxers.@@Little Mac is caring and nurturing. That's what he told me last night.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Little Mac will kill anyone who stands in his way!@@Little Mac is the BEST. The BEST.@@Little Mac is the man!@@Little Mac is the best boxing champion I've ever seen.@@Little Mac is really smart, too. He really knows how to hurt someone.@@Little Mac cares about his fans. He doesn't kill them like the other boxers.@@Little Mac is caring and nurturing. That's what he told me last night.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Little Mac will kill anyone who stands in his way!@@Little Mac is the BEST. The BEST.@@Little Mac is the man!@@Little Mac is the best boxing champion I've ever seen.@@Little Mac is really smart, too. He really knows how to hurt someone.@@Little Mac cares about his fans. He doesn't kill them like the other boxers.@@Little Mac is caring and nurturing. That's what he told me last night.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Little Mac will kill anyone who stands in his way!@@Little Mac is the BEST. The BEST.@@Little Mac is the man!@@Little Mac is the best boxing champion I've ever seen.@@Little Mac is really smart, too. He really knows how to hurt someone.@@Little Mac cares about his fans. He doesn't kill them like the other boxers.@@Little Mac is caring and nurturing. That's what he told me last night.}

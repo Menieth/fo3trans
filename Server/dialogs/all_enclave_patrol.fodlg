@@ -6,13 +6,13 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_GENDER = 0 #
 3 1020 D _param p ST_GENDER = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65507 2010 #
 65507 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 65507 3010 #
 65507 3020 &
 
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3020}{}{Draw, you bastards.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {3020}{}{Draw, you bastards.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{Draw, you bastards.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {3020}{}{Draw, you bastards.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

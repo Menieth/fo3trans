@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Brotherhood Patrol}
@@ -28,25 +28,25 @@ lang=engl czec pols span russ
 {100000007}{}{You've been warned. . .}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but not now.@@I am not allowed to talk to you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but not now.@@I am not allowed to talk to you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but not now.@@I am not allowed to talk to you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{The wasteland is a dangerous place.@@We can maybe talk later, but not now.@@I am not allowed to talk to you.}

@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 3 1010 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 4 2010 #
 65507 2020 #
 0 2030 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 #
 5 3020 #
 65507 3030 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 65507 4010 #
 6 4020 @
-6 5000 None 0 &
+6 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Helix}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}

@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 620 1010 D _var p name_mem_npc_player < 0 #
 620 1020 D _param p ST_INTELLECT < 4 #
 620 1030 D _param p ST_CHARISMA > 99 #
@@ -54,51 +54,51 @@ lang=engl czec pols span russ
 410 1100 D _var p q_hub_henry_quest = -1 #
 510 1110 D _var p q_hub_henry_quest = -2 #
 620 1120 @
-10 2000 None 0 #
+10 2000 main@dlg_Caps 0 #
 620 2010 #
 20 2020 R _var p name_mem_npc_player = 1 #
 620 2030 #
 65507 2040 R _var p name_mem_npc_player = -1 #
 0 2050 @
-20 3000 None 0 #
+20 3000 main@dlg_Caps 0 #
 30 3010 #
 65507 3020 R _var p name_mem_npc_player = -1 #
 0 3030 @
-30 4000 None 0 #
+30 4000 main@dlg_Caps 0 #
 40 4010 #
 0 4020 @
-40 5000 None 0 #
+40 5000 main@dlg_Caps 0 #
 100 5010 #
 0 5020 @
-100 6000 None 0 #
+100 6000 main@dlg_Caps 0 #
 200 6010 #
 300 6020 #
 400 6030 #
 500 6040 #
 0 6050 @
-199 7000 None 0 @
-200 8000 None 0 #
+199 7000 main@dlg_Caps 0 @
+200 8000 main@dlg_Caps 0 #
 0 8010 R _var p q_hub_henry_quest = 1 R _param p REPUTATION_NCR - 500 R _param p REPUTATION_VAULT_CITY - 500 R _param p REPUTATION_NCR_RANGERS - 500 R _param p REPUTATION_REGULATORS - 500 R _param p REPUTATION_CHILDREN - 500 R _param p REPUTATION_KLAMATH - 500 R _param p REPUTATION_MODOC - 500 R _param p REPUTATION_GECKO - 500 R _param p REPUTATION_JUNKTOWN - 500 R _param p REPUTATION_HUB - 500 R _param p REPUTATION_LA - 500 #
 500 8020 @
-210 9000 None 0 @
-299 10000 None 0 @
-300 11000 None 0 #
+210 9000 main@dlg_Caps 0 @
+299 10000 main@dlg_Caps 0 @
+300 11000 main@dlg_Caps 0 #
 0 11010 D _item p PID_10MM_PISTOL } 1 R _var p q_hub_henry_quest = 2 R _item p PID_10MM_PISTOL - 1 #
 0 11020 @
-310 12000 None 0 @
-399 13000 None 0 @
-400 14000 None 0 #
+310 12000 main@dlg_Caps 0 @
+399 13000 main@dlg_Caps 0 @
+400 14000 main@dlg_Caps 0 #
 0 14010 D _item p PID_10MM_PISTOL } 1 R _var p q_hub_henry_quest = -1 R _item p PID_10MM_PISTOL - 1 #
 0 14020 @
-410 15000 None 0 @
-499 16000 None 0 @
-500 17000 None 0 #
+410 15000 main@dlg_Caps 0 @
+499 16000 main@dlg_Caps 0 @
+500 17000 main@dlg_Caps 0 #
 65507 17010 R _var p q_hub_henry_quest = -2 #
 0 17020 @
-510 18000 None 0 @
-600 19000 None 0 @
-610 20000 None 0 @
-620 21000 None 0 &
+510 18000 main@dlg_Caps 0 @
+600 19000 main@dlg_Caps 0 @
+610 20000 main@dlg_Caps 0 @
+620 21000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Henry}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}
@@ -286,7 +286,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}

@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p ST_INTELLECT < 4 #
 4 1020 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 2 1030 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 #
 7 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 &
 
 [engl]
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}
@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}

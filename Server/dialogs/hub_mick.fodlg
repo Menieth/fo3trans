@@ -6,59 +6,59 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _param p REPUTATION_HUB < -200 #
 4 1020 D _var p q_hub_wasteland_band = 7 #
 5 1030 D _var p q_hub_wasteland_band } 1 D _var p q_hub_wasteland_band { 5 #
 19 1040 D _var p q_hub_wasteland_band = 6 #
 3 1050 R _var p q_hub_wasteland_band = 0 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 8 2010 D _param p ST_INTELLECT } 4 #
 8 2020 D _param p ST_INTELLECT } 4 #
 12 2030 D _param p ST_INTELLECT < 4 #
 0 2040 D _param p ST_INTELLECT } 4 @
-8 3000 None 0 #
+8 3000 main@dlg_Caps 0 #
 9 3010 #
 10 3020 #
 0 3030 @
-9 4000 None 0 #
+9 4000 main@dlg_Caps 0 #
 11 4010 #
 0 4020 @
-10 5000 None 0 #
+10 5000 main@dlg_Caps 0 #
 11 5010 #
 0 5020 @
-12 6000 None 0 #
+12 6000 main@dlg_Caps 0 #
 13 6010 @
-11 7000 None 0 #
+11 7000 main@dlg_Caps 0 #
 14 7010 #
 0 7020 @
-14 8000 None 0 #
+14 8000 main@dlg_Caps 0 #
 0 8010 R _var p q_hub_wasteland_band = 1 R _script dialog@r_AddMoney 1 200 @
-5 9000 None 0 #
+5 9000 main@dlg_Caps 0 #
 15 9010 D _var p q_hub_wasteland_band = 2 #
 17 9020 D _var p q_hub_wasteland_band = 4 #
 0 9030 @
-4 10000 None 0 @
-2 11000 None 0 @
-13 12000 None 0 @
-15 13000 None 0 #
+4 10000 main@dlg_Caps 0 @
+2 11000 main@dlg_Caps 0 @
+13 12000 main@dlg_Caps 0 @
+15 13000 main@dlg_Caps 0 #
 16 13010 D _param p SK_SPEECH } 60 #
 0 13020 R _var p q_hub_wasteland_band = 3 R _param p ST_EXPERIENCE + 450 R _script dialog@r_AddMoney 1 250 @
-16 14000 None 0 #
+16 14000 main@dlg_Caps 0 #
 0 14010 R _var p q_hub_wasteland_band = 3 R _param p ST_EXPERIENCE + 950 R _script dialog@r_AddMoney 1 400 @
-17 15000 None 0 #
+17 15000 main@dlg_Caps 0 #
 18 15010 @
-18 16000 None 0 #
+18 16000 main@dlg_Caps 0 #
 0 16010 R _var p q_hub_wasteland_band = 5 R _param p ST_EXPERIENCE + 1150 R _script dialog@r_AddMoney 1 500 @
-19 17000 None 0 #
+19 17000 main@dlg_Caps 0 #
 20 17010 @
-20 18000 None 0 #
+20 18000 main@dlg_Caps 0 #
 4 18010 R _var p q_hub_wasteland_band = 7 R _param p ST_EXPERIENCE + 1500 R _item p PID_CIGARETTES + 5 R _item p PID_SCOUT_HANDBOOK + 1 R _param p REPUTATION_HUB + 250 R _script dialog@r_AddMoney 1 500 #
 21 18020 #
 22 18030 D _param p SK_SPEECH } 85 @
-21 19000 None 0 #
+21 19000 main@dlg_Caps 0 #
 0 19010 R _item p PID_CIGARETTES + 5 R _var p q_hub_wasteland_band = 7 R _param p ST_EXPERIENCE + 1500 R _param p REPUTATION_HUB + 250 R _item p PID_SCOUT_HANDBOOK + 1 R _item p PID_CURED_LEATHER_ARMOR + 1 @
-22 20000 None 0 #
+22 20000 main@dlg_Caps 0 #
 0 20010 R _param p REPUTATION_HUB + 250 R _var p q_hub_wasteland_band = 7 R _item p PID_CIGARETTES + 5 R _item p PID_SCOUT_HANDBOOK + 1 R _item p PID_STIMPAK + 3 R _script dialog@r_AddMoney 1 750 R _param p ST_EXPERIENCE + 1500 &
 
 [engl]
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {10000}{}{You're always cool in my book.@@May the music carry you away.@@Wasteland treatin' you well?}
 {11000}{}{You might be a @sex@|cool||pretty| @sex@|dude||lady|, but don't bring them harsh vibes around me.}
 {12000}{}{Moo-moos. Yeah. Uh, rock on...}
-{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 caps.}
+{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 @lex money@.}
 {13010}{}{Hold up, man. 200? Getting to San Fran is going to cost me at least 100. I know you can toss a little extra in there.}
 {13020}{}{I'll get on that right now.}
 {14000}{}{It's cool, I understand. You seem to be working hard enough anyway. Here's 350.}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {10000}{}{You're always cool in my book.@@May the music carry you away.@@Wasteland treatin' you well?}
 {11000}{}{You might be a @sex@|cool||pretty| @sex@|dude||lady|, but don't bring them harsh vibes around me.}
 {12000}{}{Moo-moos. Yeah. Uh, rock on...}
-{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 caps.}
+{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 @lex money@.}
 {13010}{}{Hold up, man. 200? Getting to San Fran is going to cost me at least 100. I know you can toss a little extra in there.}
 {13020}{}{I'll get on that right now.}
 {14000}{}{It's cool, I understand. You seem to be working hard enough anyway. Here's 350.}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {10000}{}{You're always cool in my book.@@May the music carry you away.@@Wasteland treatin' you well?}
 {11000}{}{You might be a @sex@|cool||pretty| @sex@|dude||lady|, but don't bring them harsh vibes around me.}
 {12000}{}{Moo-moos. Yeah. Uh, rock on...}
-{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 caps.}
+{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 @lex money@.}
 {13010}{}{Hold up, man. 200? Getting to San Fran is going to cost me at least 100. I know you can toss a little extra in there.}
 {13020}{}{I'll get on that right now.}
 {14000}{}{It's cool, I understand. You seem to be working hard enough anyway. Here's 350.}
@@ -243,7 +243,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -282,7 +282,7 @@ lang=engl czec pols span russ
 {10000}{}{You're always cool in my book.@@May the music carry you away.@@Wasteland treatin' you well?}
 {11000}{}{You might be a @sex@|cool||pretty| @sex@|dude||lady|, but don't bring them harsh vibes around me.}
 {12000}{}{Moo-moos. Yeah. Uh, rock on...}
-{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 caps.}
+{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 @lex money@.}
 {13010}{}{Hold up, man. 200? Getting to San Fran is going to cost me at least 100. I know you can toss a little extra in there.}
 {13020}{}{I'll get on that right now.}
 {14000}{}{It's cool, I understand. You seem to be working hard enough anyway. Here's 350.}
@@ -303,7 +303,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -342,7 +342,7 @@ lang=engl czec pols span russ
 {10000}{}{You're always cool in my book.@@May the music carry you away.@@Wasteland treatin' you well?}
 {11000}{}{You might be a @sex@|cool||pretty| @sex@|dude||lady|, but don't bring them harsh vibes around me.}
 {12000}{}{Moo-moos. Yeah. Uh, rock on...}
-{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 caps.}
+{13000}{}{Haha! That's what I'm talkin' about. The next guy we need is named Charlie. He lives in that old tanker in San Fran. That's all the info I got on him though. Here's another 200 @lex money@.}
 {13010}{}{Hold up, man. 200? Getting to San Fran is going to cost me at least 100. I know you can toss a little extra in there.}
 {13020}{}{I'll get on that right now.}
 {14000}{}{It's cool, I understand. You seem to be working hard enough anyway. Here's 350.}

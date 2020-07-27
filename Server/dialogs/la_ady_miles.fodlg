@@ -6,37 +6,37 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p q_la_waterpump = 0 #
 6 2020 D _var p q_la_waterpump > 0 D _var p q_la_waterpump < 4 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 D _param p SK_REPAIR < 50 #
 5 3020 D _param p SK_REPAIR > 49 R _var p q_la_waterpump = 1 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 #
 5 4020 R _var p q_la_waterpump = 1 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _var p q_la_waterpump = 2 R _var p q_la_waterpump = 5 R _item p PID_RAD_X + 1 R _item p PID_RADAWAY + 2 R _param p REPUTATION_LA + 100 R _param p ST_EXPERIENCE + 900 #
 11 6020 D _var p q_la_waterpump = 3 R _var p q_la_waterpump = 4 #
 0 6030 D _var p q_la_waterpump < 3 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _param p SK_BARTER > 99 #
 9 7020 D _param p SK_BARTER < 100 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 R _param p ST_EXPERIENCE + 150 R _param p REPUTATION_LA - 100 R _script dialog@r_AddMoney 1 150 #
 10 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 &
 
 [engl]
@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 {7010}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7020}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7030}{}{Thank you very much. See you later.}
-{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 caps and now go away.}
+{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 @lex money@ and now go away.}
 {8010}{}{Thanks.}
 {8020}{}{Okay, leave it. I am fine with what I got.}
 {9000}{}{Forget it. That's all I can give you. }
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {100000001}{}{Are you blind? It's not the water pump!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -105,7 +105,7 @@ lang=engl czec pols span russ
 {7010}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7020}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7030}{}{Thank you very much. See you later.}
-{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 caps and now go away.}
+{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 @lex money@ and now go away.}
 {8010}{}{Thanks.}
 {8020}{}{Okay, leave it. I am fine with what I got.}
 {9000}{}{Forget it. That's all I can give you. }
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {11010}{}{See you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {7010}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7020}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7030}{}{Thank you very much. See you later.}
-{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 caps and now go away.}
+{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 @lex money@ and now go away.}
 {8010}{}{Thanks.}
 {8020}{}{Okay, leave it. I am fine with what I got.}
 {9000}{}{Forget it. That's all I can give you. }
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {11010}{}{See you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -175,7 +175,7 @@ lang=engl czec pols span russ
 {7010}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7020}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7030}{}{Thank you very much. See you later.}
-{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 caps and now go away.}
+{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 @lex money@ and now go away.}
 {8010}{}{Thanks.}
 {8020}{}{Okay, leave it. I am fine with what I got.}
 {9000}{}{Forget it. That's all I can give you. }
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {11010}{}{See you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -210,7 +210,7 @@ lang=engl czec pols span russ
 {7010}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7020}{}{You know, it was really hard to work to fix the machine. I think it wouldn't hurt, if I could get a bit more for it.}
 {7030}{}{Thank you very much. See you later.}
-{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 caps and now go away.}
+{8000}{}{What? You are a mean bastard, do you know this? But okay... Here, take my 50 @lex money@ and now go away.}
 {8010}{}{Thanks.}
 {8020}{}{Okay, leave it. I am fine with what I got.}
 {9000}{}{Forget it. That's all I can give you. }

@@ -6,8 +6,8 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 @
-2 2000 None 0 &
+1 1000 main@dlg_Caps 1 @
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Atlantis Ascendant}
@@ -17,22 +17,22 @@ lang=engl czec pols span russ
 {2000}{}{What is this, I don't even.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{What is this, I don't even.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{What is this, I don't even.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{What is this, I don't even.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{What is this, I don't even.}
 

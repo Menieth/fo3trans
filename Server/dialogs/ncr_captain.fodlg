@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Captain}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{You'll have to excuse me, I'm a busy woman. No time for chitchat.@@Just keep your nose clean and we'll get along just fine, stranger.@@You got questions? Look up Sheriff Dumont. He'll fill you in.@@Laws are on the bulletin board outside - no weapons, no drunks, no trouble.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'll have to excuse me, I'm a busy woman. No time for chitchat.@@Just keep your nose clean and we'll get along just fine, stranger.@@You got questions? Look up Sheriff Dumont. He'll fill you in.@@Laws are on the bulletin board outside - no weapons, no drunks, no trouble.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'll have to excuse me, I'm a busy woman. No time for chitchat.@@Just keep your nose clean and we'll get along just fine, stranger.@@You got questions? Look up Sheriff Dumont. He'll fill you in.@@Laws are on the bulletin board outside - no weapons, no drunks, no trouble.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'll have to excuse me, I'm a busy woman. No time for chitchat.@@Just keep your nose clean and we'll get along just fine, stranger.@@You got questions? Look up Sheriff Dumont. He'll fill you in.@@Laws are on the bulletin board outside - no weapons, no drunks, no trouble.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'll have to excuse me, I'm a busy woman. No time for chitchat.@@Just keep your nose clean and we'll get along just fine, stranger.@@You got questions? Look up Sheriff Dumont. He'll fill you in.@@Laws are on the bulletin board outside - no weapons, no drunks, no trouble.}

@@ -6,47 +6,47 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 8 1010 D _param p ST_INTELLECT < 4 #
 12 1020 D _var n name_mem_npc_player = 1 #
 2 1030 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 6 2020 #
 7 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 12 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 12 6010 #
 9 6020 #
 10 6030 #
 11 6040 #
 0 6050 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 12 7010 #
 0 7020 @
-8 8000 None 0 @
-9 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 11 9010 #
 10 9020 #
 12 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 9 10010 #
 11 10020 #
 12 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 9 11010 #
 10 11020 #
 12 11030 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 3 12010 #
 6 12020 #
 7 12030 #
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {12040}{}{Nothing, bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{fool}
 {1020}{}{ciaeii}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {12040}{}{Nothing, bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{fool}
 {1020}{}{ciaeii}
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {12040}{}{Nothing, bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{fool}
 {1020}{}{ciaeii}
@@ -247,7 +247,7 @@ lang=engl czec pols span russ
 {12040}{}{Nothing, bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{fool}
 {1020}{}{ciaeii}

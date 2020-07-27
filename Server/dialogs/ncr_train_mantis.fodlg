@@ -6,87 +6,87 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 22 1010 D _param p ST_INTELLECT < 4 D _param p ST_STRENGTH > 99 #
 18 1020 D _var p q_ncr_geigercounter = 2 #
 2 1030 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 20 1040 @
-22 2000 None 0 @
-20 3000 None 0 #
+22 2000 main@dlg_Caps 0 @
+20 3000 main@dlg_Caps 0 #
 8 3010 #
 6 3020 D _var p q_ncr_geigercounter = 0 #
 3 3030 #
 30 3040 D _param p SK_OUTDOORSMAN } 150 D _script dialog@d_ExploredWasteland 0  D _var p q_ncr_explorer_perk = 1 #
 0 3050 @
-2 4000 None 0 #
+2 4000 main@dlg_Caps 0 #
 3 4010 #
 4 4020 D _var p q_ncr_explorer_perk = 0 R _var p q_ncr_explorer_perk = 1 #
 0 4030 @
-3 5000 None 0 #
+3 5000 main@dlg_Caps 0 #
 4 5010 D _var p q_ncr_explorer_perk = 0 R _var p q_ncr_explorer_perk = 1 #
 8 5020 #
 0 5030 @
-4 6000 None 0 #
+4 6000 main@dlg_Caps 0 #
 23 6010 #
 5 6020 #
 8 6030 #
 0 6040 @
-5 7000 None 0 #
+5 7000 main@dlg_Caps 0 #
 6 7010 #
 8 7020 @
-6 8000 None 0 #
+6 8000 main@dlg_Caps 0 #
 7 8010 #
 14 8020 @
-7 9000 None 0 #
+7 9000 main@dlg_Caps 0 #
 15 9010 #
 9 9020 #
 8 9030 @
-8 10000 None 0 #
+8 10000 main@dlg_Caps 0 #
 6 10010 #
 9 10020 #
 4 10030 D _var p q_ncr_explorer_perk = 0 R _var p q_ncr_explorer_perk = 1 #
 30 10040 D _param p SK_OUTDOORSMAN } 150 D _script dialog@d_ExploredWasteland 0  D _var p q_ncr_explorer_perk = 1 #
 0 10050 @
-9 11000 None 0 #
+9 11000 main@dlg_Caps 0 #
 10 11010 #
 12 11020 #
 8 11030 @
-10 12000 None 0 #
+10 12000 main@dlg_Caps 0 #
 11 12010 @
-11 13000 None 0 #
+11 13000 main@dlg_Caps 0 #
 21 13010 #
 8 13020 @
-12 14000 None 0 #
+12 14000 main@dlg_Caps 0 #
 13 14010 #
 8 14020 @
-13 15000 None 0 #
+13 15000 main@dlg_Caps 0 #
 8 15010 @
-14 16000 None 0 #
+14 16000 main@dlg_Caps 0 #
 15 16010 #
 8 16020 @
-15 17000 None 0 #
+15 17000 main@dlg_Caps 0 #
 16 17010 D _param p SK_REPAIR > 89 D _var p q_ncr_geigercounter = 0 #
 8 17020 #
 0 17030 @
-16 18000 None 0 #
+16 18000 main@dlg_Caps 0 #
 19 18010 R _var p q_ncr_geigercounter = 1 R _param p ST_EXPERIENCE + 100 #
 17 18020 @
-17 19000 None 0 #
+17 19000 main@dlg_Caps 0 #
 19 19010 R _var p q_ncr_geigercounter = 1 R _param p ST_EXPERIENCE + 100 #
 18 19020 R _var p q_ncr_geigercounter = 2 R _param p ST_EXPERIENCE + 100 R _item p PID_GEIGER_COUNTER + 1 R _param p REPUTATION_NCR_RANGERS - 5 @
-18 20000 None 0 @
-19 21000 None 0 #
+18 20000 main@dlg_Caps 0 @
+19 21000 main@dlg_Caps 0 #
 8 21010 #
 0 21020 @
-21 22000 None 0 #
+21 22000 main@dlg_Caps 0 #
 8 22010 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 14 23010 #
 8 23020 @
-30 24000 None 0 #
+30 24000 main@dlg_Caps 0 #
 31 24010 R _var p q_ncr_explorer_perk = 2 R _param p PE_EXPLORER = 1 R _param p ST_EXPERIENCE + 250 #
 0 24020 @
-31 25000 None 0 #
+31 25000 main@dlg_Caps 0 #
 8 25010 #
 0 25020 &
 
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}
@@ -265,7 +265,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}
@@ -351,7 +351,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}
@@ -437,7 +437,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}

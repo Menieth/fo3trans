@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 500 1010 D _param p ST_INTELLECT < 4 #
 510 1020 D _param p ST_CHARISMA > 99 #
 10 1030 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
@@ -75,92 +75,92 @@ lang=engl czec pols span russ
 390 1210 D _var p q_redd_christopher_bad_karma = 2 #
 520 1220 D _var p name_mem_npc_player < 0 #
 10 1230 @
-10 2000 None 0 #
+10 2000 main@dlg_Caps 0 #
 65506 2010 #
 20 2020 #
 0 2030 R _var p name_mem_npc_player = -1 #
 0 2040 @
-20 3000 None 0 #
+20 3000 main@dlg_Caps 0 #
 65506 3010 #
 30 3020 #
 0 3030 #
 0 3040 R _var p name_mem_npc_player = -1 #
 65507 3050 R _var p name_mem_npc_player = -1 #
 0 3060 R _var p name_mem_npc_player = -1 @
-30 4000 None 0 #
+30 4000 main@dlg_Caps 0 #
 110 4010 D _param p ST_LEVEL < 5 #
 210 4020 #
 310 4030 #
 65507 4040 R _var p name_mem_npc_player = -1 #
 0 4050 R _var p name_mem_npc_player = -1 #
 0 4060 @
-40 5000 None 0 #
+40 5000 main@dlg_Caps 0 #
 420 5010 #
 430 5020 #
 0 5030 #
 0 5040 @
-100 6000 None 0 @
-110 7000 None 0 #
+100 6000 main@dlg_Caps 0 @
+110 7000 main@dlg_Caps 0 #
 120 7010 #
 180 7020 R _var p q_redd_christopher_low_level = -1 #
 0 7030 @
-120 8000 None 0 #
+120 8000 main@dlg_Caps 0 #
 0 8010 R _var p q_redd_christopher_low_level = 1 R _param p ST_CURRENT_HP = -100 #
 180 8020 R _var p q_redd_christopher_low_level = -1 #
 0 8030 D _param p ST_INTELLECT > 6 @
-130 9000 None 0 #
+130 9000 main@dlg_Caps 0 #
 65507 9010 R _var p q_redd_christopher_low_level = -1 #
 140 9020 @
-140 10000 None 0 #
+140 10000 main@dlg_Caps 0 #
 0 10010 R _var p q_redd_christopher_low_level = 2 R _item p PID_BRAHMIN_HIDE + 5 R _param p ST_EXPERIENCE + 800 @
-180 11000 None 0 @
-190 12000 None 0 @
-200 13000 None 0 @
-210 14000 None 0 #
+180 11000 main@dlg_Caps 0 @
+190 12000 main@dlg_Caps 0 @
+200 13000 main@dlg_Caps 0 @
+210 14000 main@dlg_Caps 0 #
 280 14010 #
 220 14020 #
 65507 14030 R _var p name_mem_npc_player = -1 #
 0 14040 @
-220 15000 None 0 #
+220 15000 main@dlg_Caps 0 #
 0 15010 R _var p q_redd_christopher_good_karma = 1 R _item p PID_10MM_PISTOL + 1 #
 0 15020 #
 280 15030 R _var p name_mem_npc_player = -1 @
-230 16000 None 0 #
+230 16000 main@dlg_Caps 0 #
 65507 16010 R _var p name_mem_npc_player = -1 #
 240 16020 @
-240 17000 None 0 #
+240 17000 main@dlg_Caps 0 #
 0 17010 R _var p q_redd_christopher_good_karma = 2 R _param p REPUTATION_NCR + 500 R _param p REPUTATION_VAULT_CITY + 500 R _param p REPUTATION_NCR_RANGERS + 500 R _param p REPUTATION_REGULATORS + 500 R _param p REPUTATION_CHILDREN + 500 R _param p REPUTATION_KLAMATH + 500 R _param p REPUTATION_MODOC + 500 R _param p REPUTATION_GECKO + 500 R _param p REPUTATION_JUNKTOWN + 500 R _param p REPUTATION_HUB + 500 R _param p REPUTATION_LA + 500 R _param p ST_EXPERIENCE + 2500 @
-280 18000 None 0 @
-290 19000 None 0 @
-300 20000 None 0 @
-310 21000 None 0 #
+280 18000 main@dlg_Caps 0 @
+290 19000 main@dlg_Caps 0 @
+300 20000 main@dlg_Caps 0 @
+310 21000 main@dlg_Caps 0 #
 320 21010 #
 0 21020 R _var p name_mem_npc_player = -1 #
 65507 21030 R _var p name_mem_npc_player = -1 #
 0 21040 @
-320 22000 None 0 #
+320 22000 main@dlg_Caps 0 #
 0 22010 R _var p q_redd_christopher_bad_karma = 1 R _item p PID_10MM_PISTOL + 1 #
 0 22020 R _var p q_redd_christopher_bad_karma = -1 #
 0 22030 @
-330 23000 None 0 #
+330 23000 main@dlg_Caps 0 #
 340 23010 #
 380 23020 R _var p q_redd_christopher_bad_karma = -1 @
-340 24000 None 0 #
+340 24000 main@dlg_Caps 0 #
 0 24010 R _var p q_redd_christopher_bad_karma = -1 R _item p PID_SHOTGUN + 1 R _item p PID_SHOTGUN_SHELLS + 10 #
 0 24020 R _var p q_redd_christopher_bad_karma = 2 R _param p ST_EXPERIENCE + 2000 @
-380 25000 None 0 @
-390 26000 None 0 @
-400 27000 None 0 @
-420 28000 None 0 #
+380 25000 main@dlg_Caps 0 @
+390 26000 main@dlg_Caps 0 @
+400 27000 main@dlg_Caps 0 @
+420 28000 main@dlg_Caps 0 #
 0 28010 R _var p name_mem_npc_player = -1 @
-430 29000 None 0 #
+430 29000 main@dlg_Caps 0 #
 0 29010 R _var p name_mem_npc_player = -1 @
-440 30000 None 0 @
-450 31000 None 0 @
-460 32000 None 0 @
-500 33000 None 0 @
-510 34000 None 0 @
-520 35000 None 0 &
+440 30000 main@dlg_Caps 0 @
+450 31000 main@dlg_Caps 0 @
+460 32000 main@dlg_Caps 0 @
+500 33000 main@dlg_Caps 0 @
+510 34000 main@dlg_Caps 0 @
+520 35000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Christopher Meridian}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}
@@ -391,7 +391,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}
@@ -504,7 +504,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}
@@ -617,7 +617,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}

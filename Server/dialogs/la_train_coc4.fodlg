@@ -6,31 +6,31 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 8 1010 D _var p q_coc_train = 2 #
 3 1020 D _var p q_coc_train = 1 #
 2 1030 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 R _var p q_coc_train = 2 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 9 7010 #
 10 7020 D _item p PID_DEANS_ELECTRONICS > 0 R _item p PID_DEANS_ELECTRONICS - 1 R _param p ST_EXPERIENCE + 1350 R _var p q_coc_train = 3 R _script dialog@r_AddMoney 1 800 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 0 8010 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 11 9010 #
 0 9020 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 0 10010 &
 
 [engl]
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {4000}{}{This is not a job office. Please leave now.}
 {4010}{}{Is there really nothing I could do for you?}
 {4020}{}{Nevermind. Bye.}
-{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some caps.}
+{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some @lex money@.}
 {5010}{}{Fine, I will get you a new one.}
 {5020}{}{Meh, this sounds like shit. Bye.}
 {6000}{}{Good. Come back later. I have to work now.}
@@ -58,14 +58,14 @@ lang=engl czec pols span russ
 {7020}{}{Yes, here. [You give him the Deans Electronic Book.]}
 {8000}{}{Then don't interrupt my work.}
 {8010}{}{[Leave]}
-{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with caps.]}
+{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with @lex money@.]}
 {9010}{}{Do you have something else to do?}
 {9020}{}{Nice, but have to go now. Bye.}
 {10000}{}{No. At leats not in the moment and I have to go back to my work. Leave now.}
 {10010}{}{Sure.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {4000}{}{This is not a job office. Please leave now.}
 {4010}{}{Is there really nothing I could do for you?}
 {4020}{}{Nevermind. Bye.}
-{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some caps.}
+{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some @lex money@.}
 {5010}{}{Fine, I will get you a new one.}
 {5020}{}{Meh, this sounds like shit. Bye.}
 {6000}{}{Good. Come back later. I have to work now.}
@@ -87,14 +87,14 @@ lang=engl czec pols span russ
 {7020}{}{Yes, here. [You give him the Deans Electronic Book.]}
 {8000}{}{Then don't interrupt my work.}
 {8010}{}{[Leave]}
-{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with caps.]}
+{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with @lex money@.]}
 {9010}{}{Do you have something else to do?}
 {9020}{}{Nice, but have to go now. Bye.}
 {10000}{}{No. At leats not in the moment and I have to go back to my work. Leave now.}
 {10010}{}{Sure.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {4000}{}{This is not a job office. Please leave now.}
 {4010}{}{Is there really nothing I could do for you?}
 {4020}{}{Nevermind. Bye.}
-{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some caps.}
+{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some @lex money@.}
 {5010}{}{Fine, I will get you a new one.}
 {5020}{}{Meh, this sounds like shit. Bye.}
 {6000}{}{Good. Come back later. I have to work now.}
@@ -116,14 +116,14 @@ lang=engl czec pols span russ
 {7020}{}{Yes, here. [You give him the Deans Electronic Book.]}
 {8000}{}{Then don't interrupt my work.}
 {8010}{}{[Leave]}
-{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with caps.]}
+{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with @lex money@.]}
 {9010}{}{Do you have something else to do?}
 {9020}{}{Nice, but have to go now. Bye.}
 {10000}{}{No. At leats not in the moment and I have to go back to my work. Leave now.}
 {10010}{}{Sure.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {4000}{}{This is not a job office. Please leave now.}
 {4010}{}{Is there really nothing I could do for you?}
 {4020}{}{Nevermind. Bye.}
-{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some caps.}
+{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some @lex money@.}
 {5010}{}{Fine, I will get you a new one.}
 {5020}{}{Meh, this sounds like shit. Bye.}
 {6000}{}{Good. Come back later. I have to work now.}
@@ -145,14 +145,14 @@ lang=engl czec pols span russ
 {7020}{}{Yes, here. [You give him the Deans Electronic Book.]}
 {8000}{}{Then don't interrupt my work.}
 {8010}{}{[Leave]}
-{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with caps.]}
+{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with @lex money@.]}
 {9010}{}{Do you have something else to do?}
 {9020}{}{Nice, but have to go now. Bye.}
 {10000}{}{No. At leats not in the moment and I have to go back to my work. Leave now.}
 {10010}{}{Sure.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {4000}{}{This is not a job office. Please leave now.}
 {4010}{}{Is there really nothing I could do for you?}
 {4020}{}{Nevermind. Bye.}
-{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some caps.}
+{5000}{}{Well... Maybe. Someone took my Deans Electronics book a while ago. If you could get me a new one, I will pay you some @lex money@.}
 {5010}{}{Fine, I will get you a new one.}
 {5020}{}{Meh, this sounds like shit. Bye.}
 {6000}{}{Good. Come back later. I have to work now.}
@@ -174,7 +174,7 @@ lang=engl czec pols span russ
 {7020}{}{Yes, here. [You give him the Deans Electronic Book.]}
 {8000}{}{Then don't interrupt my work.}
 {8010}{}{[Leave]}
-{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with caps.]}
+{9000}{}{[He takes it out of your hands.] Thank you for bringing me a new book. Here you have something for your work. [He gives you a purse with @lex money@.]}
 {9010}{}{Do you have something else to do?}
 {9020}{}{Nice, but have to go now. Bye.}
 {10000}{}{No. At leats not in the moment and I have to go back to my work. Leave now.}

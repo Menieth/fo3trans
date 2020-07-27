@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 500 1010 D _script perks@d_PerkCheck 1 312 #
 2 1020 @
-2 2000 None 0 @
-500 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+500 3000 main@dlg_Caps 0 #
 501 3010 R _param p PE_RAD_RESISTANCE = 1 #
 0 3020 @
-501 4000 None 0 #
+501 4000 main@dlg_Caps 0 #
 0 4010 &
 
 [engl]
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}

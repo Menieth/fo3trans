@@ -6,29 +6,29 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 11 1010 D _param p KARMA_SLAVER > 0 #
 9 1020 D _param p ST_INTELLECT < 4 #
 3 1030 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 10 2010 D _param p ST_INTELLECT > 3 #
 0 2020 D _param p ST_INTELLECT > 3 #
 9 2030 D _param p ST_INTELLECT < 4 @
-10 3000 None 0 #
+10 3000 main@dlg_Caps 0 #
 4 3010 @
 4 4000 merc_dialog@dlg_ShowDog2Cost 0 #
 6 4010 D _script merc_dialog@d_CanAffordMerc 1 19 R _script merc_dialog@r_HireMerc 1 19 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 3 8010 @
-9 9000 None 0 @
-11 10000 None 0 &
+9 9000 main@dlg_Caps 0 @
+11 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Vic}
@@ -44,8 +44,8 @@ lang=engl czec pols span russ
 {2030}{}{Uhma ug.}
 {3000}{}{@sex@|These are my dogs. Do you want to buy one, mister?||These are my dogs. Do you want to buy one, miss?|}
 {3010}{}{Maybe, let me see...}
-{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ caps!}
-{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ caps.]}
+{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ @lex money@!}
+{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ @lex money@.]}
 {4020}{}{I changed my mind, I can't afford anything right now.}
 {5000}{}{[He talks to the dog] Hey my friend, come over here, yes, come here to me. This here is your new owner, say hi. [The dog barks two times after he saw you.] Very good, you two play nice.}
 {5010}{}{Thanks, I'll put 'em to good use.}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {10000}{}{I always liked dogs more than people, but you take it too far.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Moron}
@@ -70,8 +70,8 @@ lang=engl czec pols span russ
 {2030}{}{Uhma ug.}
 {3000}{}{@sex@|These are my dogs. Do you want to buy one, mister?||These are my dogs. Do you want to buy one, miss?|}
 {3010}{}{Maybe, let me see...}
-{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ caps!}
-{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ caps.]}
+{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ @lex money@!}
+{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ @lex money@.]}
 {4020}{}{I changed my mind, I can't afford anything right now.}
 {5000}{}{[He talks to the dog] Hey my friend, come over here, yes, come here to me. This here is your new owner, say hi. [The dog barks two times after he saw you.] Very good, you two play nice.}
 {5010}{}{Thanks, I'll put 'em to good use.}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {10000}{}{I always liked dogs more than people, but you take it too far.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Moron}
@@ -96,8 +96,8 @@ lang=engl czec pols span russ
 {2030}{}{Uhma ug.}
 {3000}{}{@sex@|These are my dogs. Do you want to buy one, mister?||These are my dogs. Do you want to buy one, miss?|}
 {3010}{}{Maybe, let me see...}
-{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ caps!}
-{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ caps.]}
+{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ @lex money@!}
+{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ @lex money@.]}
 {4020}{}{I changed my mind, I can't afford anything right now.}
 {5000}{}{[He talks to the dog] Hey my friend, come over here, yes, come here to me. This here is your new owner, say hi. [The dog barks two times after he saw you.] Very good, you two play nice.}
 {5010}{}{Thanks, I'll put 'em to good use.}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {10000}{}{I always liked dogs more than people, but you take it too far.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Moron}
@@ -122,8 +122,8 @@ lang=engl czec pols span russ
 {2030}{}{Uhma ug.}
 {3000}{}{@sex@|These are my dogs. Do you want to buy one, mister?||These are my dogs. Do you want to buy one, miss?|}
 {3010}{}{Maybe, let me see...}
-{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ caps!}
-{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ caps.]}
+{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ @lex money@!}
+{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ @lex money@.]}
 {4020}{}{I changed my mind, I can't afford anything right now.}
 {5000}{}{[He talks to the dog] Hey my friend, come over here, yes, come here to me. This here is your new owner, say hi. [The dog barks two times after he saw you.] Very good, you two play nice.}
 {5010}{}{Thanks, I'll put 'em to good use.}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {10000}{}{I always liked dogs more than people, but you take it too far.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Moron}
@@ -148,8 +148,8 @@ lang=engl czec pols span russ
 {2030}{}{Uhma ug.}
 {3000}{}{@sex@|These are my dogs. Do you want to buy one, mister?||These are my dogs. Do you want to buy one, miss?|}
 {3010}{}{Maybe, let me see...}
-{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ caps!}
-{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ caps.]}
+{4000}{}{I sell only the best trained dogs! You want this one here? Costs only @lex price@ @lex money@!}
+{4010}{}{This little friend is exactly what I am searching for! [You give the boy @lex price@ @lex money@.]}
 {4020}{}{I changed my mind, I can't afford anything right now.}
 {5000}{}{[He talks to the dog] Hey my friend, come over here, yes, come here to me. This here is your new owner, say hi. [The dog barks two times after he saw you.] Very good, you two play nice.}
 {5010}{}{Thanks, I'll put 'em to good use.}

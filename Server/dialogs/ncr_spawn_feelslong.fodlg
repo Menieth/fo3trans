@@ -6,66 +6,66 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 18 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 9 3010 #
 10 3020 @
-10 4000 None 0 #
+10 4000 main@dlg_Caps 0 #
 4 4010 #
 14 4020 D _var p q_spawn_ncr = 0 #
 0 4030 D _var p q_spawn_ncr > 0 @
-18 5000 None 0 #
+18 5000 main@dlg_Caps 0 #
 4 5010 #
 5 5020 #
 0 5030 @
-4 6000 None 0 #
+4 6000 main@dlg_Caps 0 #
 5 6010 #
 9 6020 @
-5 7000 None 0 #
+5 7000 main@dlg_Caps 0 #
 6 7010 #
 8 7020 #
 12 7030 #
 19 7040 #
 14 7050 D _var p q_spawn_ncr = 0 #
 0 7060 D _var p q_spawn_ncr > 0 @
-6 8000 None 0 #
+6 8000 main@dlg_Caps 0 #
 7 8010 #
 5 8020 #
 14 8030 D _var p q_spawn_ncr = 0 #
 0 8040 D _var p q_spawn_ncr > 0 @
-7 9000 None 0 #
+7 9000 main@dlg_Caps 0 #
 11 9010 #
 14 9020 D _var p q_spawn_ncr = 0 #
 9 9030 D _var p q_spawn_ncr > 0 @
-8 10000 None 0 #
+8 10000 main@dlg_Caps 0 #
 5 10010 #
 5 10020 @
-9 11000 None 0 @
-11 12000 None 0 #
+9 11000 main@dlg_Caps 0 @
+11 12000 main@dlg_Caps 0 #
 5 12010 #
 14 12020 D _var p q_spawn_ncr = 0 #
 0 12030 D _var p q_spawn_ncr > 0 @
-12 13000 None 0 #
+12 13000 main@dlg_Caps 0 #
 13 13010 #
 13 13020 @
-13 14000 None 0 #
+13 14000 main@dlg_Caps 0 #
 5 14010 @
-14 15000 None 0 #
+14 15000 main@dlg_Caps 0 #
 15 15010 #
 0 15020 @
-15 16000 None 0 #
+15 16000 main@dlg_Caps 0 #
 16 16010 #
 0 16020 @
-16 17000 None 0 #
+16 17000 main@dlg_Caps 0 #
 17 17010 R _var p q_spawn_ncr = 1 @
-17 18000 None 0 #
+17 18000 main@dlg_Caps 0 #
 5 18010 #
 0 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 5 19010 &
 
 [engl]
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}
@@ -327,7 +327,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}

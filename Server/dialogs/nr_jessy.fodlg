@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 10 2010 #
 0 2020 @
-5 3000 None 0 #
+5 3000 main@dlg_Caps 0 #
 0 3010 @
-6 4000 None 0 #
+6 4000 main@dlg_Caps 0 #
 0 4010 @
-7 5000 None 0 #
+7 5000 main@dlg_Caps 0 #
 0 5010 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 3 6010 @
-9 7000 None 0 #
+9 7000 main@dlg_Caps 0 #
 0 7010 @
-10 8000 None 0 #
+10 8000 main@dlg_Caps 0 #
 11 8010 #
 12 8020 #
 13 8030 #
@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {4010}{}{Yes, of course. I'll do it right away. I love the admins!}
 {5000}{}{Error, merc not found. Report this to admins.}
 {5010}{}{Yes, of course. I'll do it right away. I love the admins!}
-{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have @lex money@, you don't get friends.}
 {6010}{}{Damn, didn't realise I was that broke.}
 {7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
 {7010}{}{Your loss.}
@@ -76,28 +76,28 @@ lang=engl czec pols span russ
 {8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
 {8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 {9000}{}{How much are you willing to pay?}
-{9010}{}{@lex melee1@ caps for a simple thug.}
-{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
-{9030}{}{@lex melee3@ caps for a professional fighter.}
-{9040}{}{@lex melee4@ caps for a ninja.}
+{9010}{}{@lex melee1@ @lex money@ for a simple thug.}
+{9020}{}{@lex melee2@ @lex money@ for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ @lex money@ for a professional fighter.}
+{9040}{}{@lex melee4@ @lex money@ for a ninja.}
 {9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
 {10000}{}{How much are you willing to pay?}
-{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
-{10020}{}{@lex sg2@ caps for a retired hunter.}
-{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10010}{}{@lex sg1@ @lex money@ for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ @lex money@ for a retired hunter.}
+{10030}{}{@lex sg3@ @lex money@ for a sniper that regularily shoots apples from people's heads blindfolded.}
 {10040}{}{Hold on, let me choose again...}
 {11000}{}{How much are you willing to pay?}
-{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
-{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
-{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11010}{}{@lex bg1@ @lex money@ for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ @lex money@ for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ @lex money@ for a veteran in the arts of big weaponry.}
 {11040}{}{Wait, what were my options again?}
 {12000}{}{How much are you willing to pay?}
-{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
-{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12010}{}{@lex ew1@ @lex money@ for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ @lex money@ for a capable plasma gunner.}
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {4010}{}{Yes, of course. I'll do it right away. I love the admins!}
 {5000}{}{Error, merc not found. Report this to admins.}
 {5010}{}{Yes, of course. I'll do it right away. I love the admins!}
-{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have @lex money@, you don't get friends.}
 {6010}{}{Damn, didn't realise I was that broke.}
 {7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
 {7010}{}{Your loss.}
@@ -121,28 +121,28 @@ lang=engl czec pols span russ
 {8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
 {8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 {9000}{}{How much are you willing to pay?}
-{9010}{}{@lex melee1@ caps for a simple thug.}
-{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
-{9030}{}{@lex melee3@ caps for a professional fighter.}
-{9040}{}{@lex melee4@ caps for a ninja.}
+{9010}{}{@lex melee1@ @lex money@ for a simple thug.}
+{9020}{}{@lex melee2@ @lex money@ for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ @lex money@ for a professional fighter.}
+{9040}{}{@lex melee4@ @lex money@ for a ninja.}
 {9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
 {10000}{}{How much are you willing to pay?}
-{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
-{10020}{}{@lex sg2@ caps for a retired hunter.}
-{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10010}{}{@lex sg1@ @lex money@ for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ @lex money@ for a retired hunter.}
+{10030}{}{@lex sg3@ @lex money@ for a sniper that regularily shoots apples from people's heads blindfolded.}
 {10040}{}{Hold on, let me choose again...}
 {11000}{}{How much are you willing to pay?}
-{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
-{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
-{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11010}{}{@lex bg1@ @lex money@ for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ @lex money@ for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ @lex money@ for a veteran in the arts of big weaponry.}
 {11040}{}{Wait, what were my options again?}
 {12000}{}{How much are you willing to pay?}
-{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
-{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12010}{}{@lex ew1@ @lex money@ for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ @lex money@ for a capable plasma gunner.}
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {4010}{}{Yes, of course. I'll do it right away. I love the admins!}
 {5000}{}{Error, merc not found. Report this to admins.}
 {5010}{}{Yes, of course. I'll do it right away. I love the admins!}
-{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have @lex money@, you don't get friends.}
 {6010}{}{Damn, didn't realise I was that broke.}
 {7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
 {7010}{}{Your loss.}
@@ -166,28 +166,28 @@ lang=engl czec pols span russ
 {8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
 {8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 {9000}{}{How much are you willing to pay?}
-{9010}{}{@lex melee1@ caps for a simple thug.}
-{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
-{9030}{}{@lex melee3@ caps for a professional fighter.}
-{9040}{}{@lex melee4@ caps for a ninja.}
+{9010}{}{@lex melee1@ @lex money@ for a simple thug.}
+{9020}{}{@lex melee2@ @lex money@ for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ @lex money@ for a professional fighter.}
+{9040}{}{@lex melee4@ @lex money@ for a ninja.}
 {9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
 {10000}{}{How much are you willing to pay?}
-{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
-{10020}{}{@lex sg2@ caps for a retired hunter.}
-{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10010}{}{@lex sg1@ @lex money@ for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ @lex money@ for a retired hunter.}
+{10030}{}{@lex sg3@ @lex money@ for a sniper that regularily shoots apples from people's heads blindfolded.}
 {10040}{}{Hold on, let me choose again...}
 {11000}{}{How much are you willing to pay?}
-{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
-{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
-{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11010}{}{@lex bg1@ @lex money@ for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ @lex money@ for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ @lex money@ for a veteran in the arts of big weaponry.}
 {11040}{}{Wait, what were my options again?}
 {12000}{}{How much are you willing to pay?}
-{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
-{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12010}{}{@lex ew1@ @lex money@ for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ @lex money@ for a capable plasma gunner.}
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {4010}{}{Yes, of course. I'll do it right away. I love the admins!}
 {5000}{}{Error, merc not found. Report this to admins.}
 {5010}{}{Yes, of course. I'll do it right away. I love the admins!}
-{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have @lex money@, you don't get friends.}
 {6010}{}{Damn, didn't realise I was that broke.}
 {7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
 {7010}{}{Your loss.}
@@ -211,28 +211,28 @@ lang=engl czec pols span russ
 {8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
 {8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 {9000}{}{How much are you willing to pay?}
-{9010}{}{@lex melee1@ caps for a simple thug.}
-{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
-{9030}{}{@lex melee3@ caps for a professional fighter.}
-{9040}{}{@lex melee4@ caps for a ninja.}
+{9010}{}{@lex melee1@ @lex money@ for a simple thug.}
+{9020}{}{@lex melee2@ @lex money@ for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ @lex money@ for a professional fighter.}
+{9040}{}{@lex melee4@ @lex money@ for a ninja.}
 {9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
 {10000}{}{How much are you willing to pay?}
-{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
-{10020}{}{@lex sg2@ caps for a retired hunter.}
-{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10010}{}{@lex sg1@ @lex money@ for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ @lex money@ for a retired hunter.}
+{10030}{}{@lex sg3@ @lex money@ for a sniper that regularily shoots apples from people's heads blindfolded.}
 {10040}{}{Hold on, let me choose again...}
 {11000}{}{How much are you willing to pay?}
-{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
-{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
-{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11010}{}{@lex bg1@ @lex money@ for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ @lex money@ for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ @lex money@ for a veteran in the arts of big weaponry.}
 {11040}{}{Wait, what were my options again?}
 {12000}{}{How much are you willing to pay?}
-{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
-{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12010}{}{@lex ew1@ @lex money@ for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ @lex money@ for a capable plasma gunner.}
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {4010}{}{Yes, of course. I'll do it right away. I love the admins!}
 {5000}{}{Error, merc not found. Report this to admins.}
 {5010}{}{Yes, of course. I'll do it right away. I love the admins!}
-{6000}{}{This isn't a charity, these aren't volunteers. If you don't have caps, you don't get friends.}
+{6000}{}{This isn't a charity, these aren't volunteers. If you don't have @lex money@, you don't get friends.}
 {6010}{}{Damn, didn't realise I was that broke.}
 {7000}{}{Man, you look ugly. I'm not sending any of my boys or girls with ya.}
 {7010}{}{Your loss.}
@@ -256,23 +256,23 @@ lang=engl czec pols span russ
 {8050}{}{I was actually using a euphemism. I wanted to hire a male stripper. This isn't what I was looking for. Goodbye.}
 {8060}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 {9000}{}{How much are you willing to pay?}
-{9010}{}{@lex melee1@ caps for a simple thug.}
-{9020}{}{@lex melee2@ caps for someone that knows how to smash a skull or two.}
-{9030}{}{@lex melee3@ caps for a professional fighter.}
-{9040}{}{@lex melee4@ caps for a ninja.}
+{9010}{}{@lex melee1@ @lex money@ for a simple thug.}
+{9020}{}{@lex melee2@ @lex money@ for someone that knows how to smash a skull or two.}
+{9030}{}{@lex melee3@ @lex money@ for a professional fighter.}
+{9040}{}{@lex melee4@ @lex money@ for a ninja.}
 {9050}{}{Whoa back up, I think we got ahead of ourselves. Where were we?}
 {10000}{}{How much are you willing to pay?}
-{10010}{}{@lex sg1@ caps for someone that can hit a non-moving target, sometimes.}
-{10020}{}{@lex sg2@ caps for a retired hunter.}
-{10030}{}{@lex sg3@ caps for a sniper that regularily shoots apples from people's heads blindfolded.}
+{10010}{}{@lex sg1@ @lex money@ for someone that can hit a non-moving target, sometimes.}
+{10020}{}{@lex sg2@ @lex money@ for a retired hunter.}
+{10030}{}{@lex sg3@ @lex money@ for a sniper that regularily shoots apples from people's heads blindfolded.}
 {10040}{}{Hold on, let me choose again...}
 {11000}{}{How much are you willing to pay?}
-{11010}{}{@lex bg1@ caps for someone that knows how to use a flamer.}
-{11020}{}{@lex bg2@ caps for a proficient heavy gunner.}
-{11030}{}{@lex bg3@ caps for a veteran in the arts of big weaponry.}
+{11010}{}{@lex bg1@ @lex money@ for someone that knows how to use a flamer.}
+{11020}{}{@lex bg2@ @lex money@ for a proficient heavy gunner.}
+{11030}{}{@lex bg3@ @lex money@ for a veteran in the arts of big weaponry.}
 {11040}{}{Wait, what were my options again?}
 {12000}{}{How much are you willing to pay?}
-{12010}{}{@lex ew1@ caps for someone that knows how to handle a laser pistol.}
-{12020}{}{@lex ew2@ caps for a capable plasma gunner.}
+{12010}{}{@lex ew1@ @lex money@ for someone that knows how to handle a laser pistol.}
+{12020}{}{@lex ew2@ @lex money@ for a capable plasma gunner.}
 {12030}{}{Nah, I don't want this type. What are my other options?}
 

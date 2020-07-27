@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _item p PID_PRESIDENTIAL_PASS } 1 R _script dialog@r_OpenDoor 2 75 15 #
 0 2020 @
-3 3000 None 0 &
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Palace Guard}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}

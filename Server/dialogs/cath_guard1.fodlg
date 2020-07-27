@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Guard}
@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Praise the holy flame.@@We are the protectors of the Children of the Cathedral, so don't do any shit, skag.@@You, skag! ... Go on.@@What? Who are you?@@Go on, we are watching you.}

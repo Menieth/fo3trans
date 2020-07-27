@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p name_mem_npc_player = 0 #
 7 1020 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 R _var p name_mem_npc_player = 1 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 26 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 10 7020 #
 13 7030 D _item p PID_LASER_PISTOL } 1 R _item p PID_LASER_PISTOL - 1 R _item p PID_BOTTLE_CAPS + 50 #
@@ -45,28 +45,28 @@ lang=engl czec pols span russ
 41 7230 D _var p q_lh_darius = 0 #
 43 7240 D _var p q_lh_darius = 2 R _var p q_lh_darius = 3 R _item p PID_BOTTLE_CAPS + 1200 R _param p ST_EXPERIENCE + 1000 R _item p PID_223_FMJ + 200 R _item p PID_10MM_AP + 200 R _param p REPUTATION_BOS + 150 #
 0 7250 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 7 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 7 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 7 11010 @
-13 12000 None 0 @
-14 13000 None 0 #
+13 12000 main@dlg_Caps 0 @
+14 13000 main@dlg_Caps 0 #
 40 13010 D _item p PID_MAGNETO_LASER_PISTOL } 1 R _item p PID_MAGNETO_LASER_PISTOL - 1 R _item p PID_10MM_AP + 24 #
 40 13020 D _item p PID_MAGNETO_LASER_PISTOL } 1 R _item p PID_MAGNETO_LASER_PISTOL - 1 R _item p PID_5MM_AP + 30 #
 40 13030 D _item p PID_MAGNETO_LASER_PISTOL } 1 R _item p PID_MAGNETO_LASER_PISTOL - 1 R _item p PID_223_FMJ + 30 #
 40 13040 D _item p PID_MAGNETO_LASER_PISTOL } 1 R _item p PID_MAGNETO_LASER_PISTOL - 1 R _item p PID_STIMPAK + 1 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 40 14010 D _item p PID_PLASMA_PISTOL } 1 R _item p PID_STIMPAK + 2 R _item p PID_PLASMA_PISTOL - 1 #
 40 14020 D _item p PID_PLASMA_PISTOL } 1 R _item p PID_PLASMA_PISTOL - 1 R _item p PID_223_FMJ + 40 #
 40 14030 D _item p PID_PLASMA_PISTOL } 1 R _item p PID_PLASMA_PISTOL - 1 R _item p PID_7_62MM_AMMO + 30 #
 40 14040 D _item p PID_PLASMA_PISTOL } 1 R _item p PID_PLASMA_PISTOL - 1 R _item p PID_BOTTLE_CAPS + 130 #
 40 14050 D _item p PID_PLASMA_PISTOL } 1 R _item p PID_PLASMA_PISTOL - 1 R _item p PID_FRAG_GRENADE + 5 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 40 15010 D _item p PID_LASER_RIFLE } 1 R _item p PID_LASER_RIFLE - 1 R _item p PID_BOTTLE_CAPS + 170 #
 40 15020 D _item p PID_LASER_RIFLE } 1 R _item p PID_LASER_RIFLE - 1 R _item p PID_223_FMJ + 70 #
 40 15030 D _item p PID_LASER_RIFLE } 1 R _item p PID_LASER_RIFLE - 1 R _item p PID_7_62MM_AMMO + 90 #
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 40 15050 D _item p PID_LASER_RIFLE } 1 R _item p PID_LASER_RIFLE - 1 R _item p PID_STIMPAK + 5 #
 40 15060 D _item p PID_LASER_RIFLE } 1 R _item p PID_LASER_RIFLE - 1 R _item p PID_5MM_AP + 150 #
 40 15070 D _item p PID_LASER_RIFLE } 1 R _item p PID_LASER_RIFLE - 1 R _item p PID_FRAG_GRENADE + 10 @
-17 16000 None 0 #
+17 16000 main@dlg_Caps 0 #
 40 16010 D _item p PID_PLASMA_RIFLE } 1 R _item p PID_PLASMA_RIFLE - 1 R _item p PID_RAD_X + 2 #
 40 16020 D _item p PID_PLASMA_RIFLE } 1 R _item p PID_PLASMA_RIFLE - 1 R _item p PID_RADAWAY + 2 #
 40 16030 D _item p PID_PLASMA_RIFLE } 1 R _item p PID_PLASMA_RIFLE - 1 R _item p PID_5MM_AP + 300 #
@@ -83,14 +83,14 @@ lang=engl czec pols span russ
 40 16060 D _item p PID_PLASMA_RIFLE } 1 R _item p PID_PLASMA_RIFLE - 1 R _item p PID_10MM_AP + 250 #
 40 16070 D _item p PID_PLASMA_RIFLE } 1 R _item p PID_PLASMA_RIFLE - 1 R _item p PID_FRAG_GRENADE + 20 #
 40 16080 D _item p PID_PLASMA_RIFLE } 1 R _item p PID_PLASMA_RIFLE - 1 R _item p PID_PLASMA_GRENADE + 3 @
-18 17000 None 0 #
+18 17000 main@dlg_Caps 0 #
 40 17010 D _item p PID_YK32_PULSE_PISTOL } 1 R _item p PID_SUPER_STIMPAK + 5 R _item p PID_YK32_PULSE_PISTOL - 1 #
 40 17020 D _item p PID_YK32_PULSE_PISTOL } 1 R _item p PID_YK32_PULSE_PISTOL - 1 R _item p PID_5MM_AP + 450 #
 40 17030 D _item p PID_YK32_PULSE_PISTOL } 1 R _item p PID_YK32_PULSE_PISTOL - 1 R _item p PID_223_FMJ + 300 #
 40 17040 D _item p PID_YK32_PULSE_PISTOL } 1 R _item p PID_YK32_PULSE_PISTOL - 1 R _item p PID_10MM_AP + 450 #
 40 17050 D _item p PID_YK32_PULSE_PISTOL } 1 R _item p PID_FRAG_GRENADE + 15 #
 40 17060 D _item p PID_YK32_PULSE_PISTOL } 1 R _item p PID_YK32_PULSE_PISTOL - 1 R _item p PID_RADAWAY + 2 @
-20 18000 None 0 #
+20 18000 main@dlg_Caps 0 #
 40 18010 D _item p PID_GATLING_LASER } 1 R _item p PID_GATLING_LASER - 1 R _item p PID_SUPER_STIMPAK + 10 #
 40 18020 D _item p PID_GATLING_LASER } 1 R _item p PID_GATLING_LASER - 1 R _item p PID_RAD_X + 5 #
 40 18030 D _item p PID_GATLING_LASER } 1 R _item p PID_GATLING_LASER - 1 R _item p PID_RADAWAY + 7 #
@@ -99,14 +99,14 @@ lang=engl czec pols span russ
 40 18060 D _item p PID_GATLING_LASER } 1 R _item p PID_GATLING_LASER - 1 R _item p PID_7_62MM_AMMO + 400 R _item p PID_223_FMJ + 350 #
 40 18070 D _item p PID_GATLING_LASER } 1 R _item p PID_GATLING_LASER - 1 R _item p PID_SUPER_TOOL_KIT + 1 #
 40 18080 D _item p PID_GATLING_LASER } 1 R _item p PID_GATLING_LASER - 1 R _item p PID_PSYCHO + 3 @
-22 19000 None 0 #
+22 19000 main@dlg_Caps 0 #
 40 19010 D _item p PID_SOLAR_SCORCHER } 1 R _item p PID_SOLAR_SCORCHER - 1 #
 40 19020 D _item p PID_SOLAR_SCORCHER } 1 R _item p PID_SOLAR_SCORCHER - 1 R _item p PID_SUPER_STIMPAK + 5 #
 40 19030 D _item p PID_SOLAR_SCORCHER } 1 R _item p PID_SOLAR_SCORCHER - 1 R _item p PID_STIMPAK + 15 #
 40 19040 D _item p PID_SOLAR_SCORCHER } 1 R _item p PID_SOLAR_SCORCHER - 1 R _item p PID_BOTTLE_CAPS + 450 #
 40 19050 D _item p PID_SOLAR_SCORCHER } 1 R _item p PID_SOLAR_SCORCHER - 1 R _item p PID_223_FMJ + 300 #
 40 19060 D _item p PID_SOLAR_SCORCHER } 1 R _item p PID_SOLAR_SCORCHER - 1 R _item p PID_5MM_AP + 500 @
-23 20000 None 0 #
+23 20000 main@dlg_Caps 0 #
 40 20010 D _item p PID_ALIEN_LASER_PISTOL } 1 R _item p PID_DYNAMITE + 10 R _item p PID_ALIEN_LASER_PISTOL - 1 #
 40 20020 D _item p PID_ALIEN_LASER_PISTOL } 1 R _item p PID_FRAG_GRENADE + 70 R _item p PID_ALIEN_LASER_PISTOL - 1 #
 40 20030 D _item p PID_ALIEN_LASER_PISTOL } 1 R _item p PID_PLASMA_GRENADE + 40 R _item p PID_ALIEN_LASER_PISTOL - 1 #
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 40 20070 D _item p PID_ALIEN_LASER_PISTOL } 1 R _item p PID_PSYCHO + 10 R _item p PID_ALIEN_LASER_PISTOL - 1 #
 40 20080 D _item p PID_ALIEN_LASER_PISTOL } 1 R _item p PID_BUFFOUT + 20 R _item p PID_ALIEN_LASER_PISTOL - 1 #
 40 20090 D _item p PID_ALIEN_LASER_PISTOL } 1 R _item p PID_BOTTLE_CAPS + 1700 R _item p PID_ALIEN_LASER_PISTOL - 1 @
-24 21000 None 0 #
+24 21000 main@dlg_Caps 0 #
 40 21010 D _item p PID_PLASMA_PISTOL_EXT_CART } 1 R _item p PID_PLASMA_PISTOL_EXT_CART - 1 R _item p PID_5MM_AP + 200 #
 40 21020 D _item p PID_PLASMA_PISTOL_EXT_CART } 1 R _item p PID_PLASMA_PISTOL_EXT_CART - 1 R _item p PID_10MM_AP + 250 #
 40 21030 D _item p PID_PLASMA_PISTOL_EXT_CART } 1 R _item p PID_PLASMA_PISTOL_EXT_CART - 1 R _item p PID_223_FMJ + 100 #
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 40 21060 D _item p PID_PLASMA_PISTOL_EXT_CART } 1 R _item p PID_PLASMA_PISTOL_EXT_CART - 1 R _item p PID_RAD_X + 1 #
 40 21070 D _item p PID_PLASMA_PISTOL_EXT_CART } 1 R _item p PID_PLASMA_PISTOL_EXT_CART - 1 R _item p PID_RADAWAY + 1 #
 40 21080 D _item p PID_PLASMA_PISTOL_EXT_CART } 1 R _item p PID_PLASMA_PISTOL_EXT_CART - 1 R _item p PID_FRAG_GRENADE + 15 @
-25 22000 None 0 #
+25 22000 main@dlg_Caps 0 #
 40 22010 D _item p PID_LASER_RIFLE_EXT_CAP } 1 R _item p PID_LASER_RIFLE_EXT_CAP - 1 R _item p PID_5MM_AP + 400 #
 40 22020 D _item p PID_LASER_RIFLE_EXT_CAP } 1 R _item p PID_LASER_RIFLE_EXT_CAP - 1 R _item p PID_10MM_AP + 450 #
 40 22030 D _item p PID_LASER_RIFLE_EXT_CAP } 1 R _item p PID_LASER_RIFLE_EXT_CAP - 1 R _item p PID_7_62MM_AMMO + 300 R _item p PID_223_FMJ + 200 #
@@ -133,15 +133,15 @@ lang=engl czec pols span russ
 40 22050 D _item p PID_LASER_RIFLE_EXT_CAP } 1 R _item p PID_LASER_RIFLE_EXT_CAP - 1 R _item p PID_STIMPAK + 7 #
 40 22060 D _item p PID_LASER_RIFLE_EXT_CAP } 1 R _item p PID_LASER_RIFLE_EXT_CAP - 1 R _item p PID_BUFFOUT + 2 #
 40 22070 D _item p PID_LASER_RIFLE_EXT_CAP } 1 R _item p PID_LASER_RIFLE_EXT_CAP - 1 R _item p PID_FRAG_GRENADE + 15 @
-26 23000 None 0 @
-27 24000 None 0 #
+26 23000 main@dlg_Caps 0 @
+27 24000 main@dlg_Caps 0 #
 40 24010 D _item p PID_MOTION_SENSOR } 1 R _item p PID_FRAG_GRENADE + 20 R _item p PID_MOTION_SENSOR - 1 #
 40 24020 D _item p PID_MOTION_SENSOR } 1 R _item p PID_MOTION_SENSOR - 1 R _item p PID_PLASMA_GRENADE + 5 #
 40 24030 D _item p PID_MOTION_SENSOR } 1 R _item p PID_MOTION_SENSOR - 1 R _item p PID_SUPER_STIMPAK + 4 #
 40 24040 D _item p PID_MOTION_SENSOR } 1 R _item p PID_MOTION_SENSOR - 1 R _item p PID_5MM_AP + 500 #
 40 24050 D _item p PID_MOTION_SENSOR } 1 R _item p PID_MOTION_SENSOR - 1 R _item p PID_10MM_AP + 550 #
 40 24060 D _item p PID_MOTION_SENSOR } 1 R _item p PID_MOTION_SENSOR - 1 R _item p PID_DESERT_EAGLE + 1 @
-28 25000 None 0 #
+28 25000 main@dlg_Caps 0 #
 40 25010 D _item p PID_GEIGER_COUNTER } 1 R _item p PID_GEIGER_COUNTER - 1 R _item p PID_223_FMJ + 70 #
 40 25020 D _item p PID_GEIGER_COUNTER } 1 R _item p PID_GEIGER_COUNTER - 1 R _item p PID_FRAG_GRENADE + 5 #
 40 25030 D _item p PID_GEIGER_COUNTER } 1 R _item p PID_GEIGER_COUNTER - 1 R _item p PID_PLASMA_GRENADE + 1 #
@@ -149,43 +149,43 @@ lang=engl czec pols span russ
 40 25050 D _item p PID_GEIGER_COUNTER } 1 R _item p PID_GEIGER_COUNTER - 1 R _item p PID_STIMPAK + 4 #
 40 25060 D _item p PID_GEIGER_COUNTER } 1 R _item p PID_GEIGER_COUNTER - 1 R _item p PID_5MM_AP + 150 #
 40 25070 D _item p PID_GEIGER_COUNTER } 1 R _item p PID_GEIGER_COUNTER - 1 R _item p PID_10MM_AP + 100 @
-29 26000 None 0 #
+29 26000 main@dlg_Caps 0 #
 40 26010 D _item p PID_BROTHERHOOD_HELMET } 1 R _item p PID_BROTHERHOOD_HELMET - 1 R _item p PID_METAL_HELMET_MK2 + 1 R _item p PID_5MM_AP + 100 #
 40 26020 D _item p PID_BROTHERHOOD_HELMET } 1 R _item p PID_BROTHERHOOD_HELMET - 1 R _item p PID_SUPER_STIMPAK + 5 #
 40 26030 D _item p PID_BROTHERHOOD_HELMET } 1 R _item p PID_BROTHERHOOD_HELMET - 1 R _item p PID_5MM_AP + 400 #
 40 26040 D _item p PID_BROTHERHOOD_HELMET } 1 R _item p PID_BROTHERHOOD_HELMET - 1 R _item p PID_10MM_AP + 500 #
 40 26050 D _item p PID_BROTHERHOOD_HELMET } 1 R _item p PID_BROTHERHOOD_HELMET - 1 R _item p PID_RAD_X + 2 @
-30 27000 None 0 #
+30 27000 main@dlg_Caps 0 #
 40 27010 D _item p PID_ENCLAVE_COMBAT_HELMET } 1 R _item p PID_ENCLAVE_COMBAT_HELMET - 1 R _item p PID_RAD_X + 2 #
 40 27020 D _item p PID_ENCLAVE_COMBAT_HELMET } 1 R _item p PID_ENCLAVE_COMBAT_HELMET - 1 R _item p PID_RADAWAY + 3 #
 40 27030 D _item p PID_ENCLAVE_COMBAT_HELMET } 1 R _item p PID_ENCLAVE_COMBAT_HELMET - 1 R _item p PID_EXPLOSIVE_ROCKET + 12 #
 40 27040 D _item p PID_ENCLAVE_COMBAT_HELMET } 1 R _item p PID_ENCLAVE_COMBAT_HELMET - 1 R _item p PID_FRAG_GRENADE + 20 #
 40 27050 D _item p PID_ENCLAVE_COMBAT_HELMET } 1 R _item p PID_ENCLAVE_COMBAT_HELMET - 1 R _item p PID_PLASMA_GRENADE + 5 #
 40 27060 D _item p PID_ENCLAVE_COMBAT_HELMET } 1 R _item p PID_ENCLAVE_COMBAT_HELMET - 1 R _item p PID_SUPER_STIMPAK + 3 @
-31 28000 None 0 #
+31 28000 main@dlg_Caps 0 #
 40 28010 D _item p PID_BROTHERHOOD_COMBAT_ARMOR } 1 R _item p PID_BROTHERHOOD_COMBAT_ARMOR - 1 R _item p PID_SUPER_STIMPAK + 5 #
 40 28020 D _item p PID_BROTHERHOOD_COMBAT_ARMOR } 1 R _item p PID_BROTHERHOOD_COMBAT_ARMOR - 1 R _item p PID_FRAG_GRENADE + 25 #
 40 28030 D _item p PID_BROTHERHOOD_COMBAT_ARMOR } 1 R _item p PID_BROTHERHOOD_COMBAT_ARMOR - 1 R _item p PID_5MM_AP + 700 @
-32 29000 None 0 #
+32 29000 main@dlg_Caps 0 #
 40 29010 D _item p PID_ENCLAVE_COMBAT_ARMOR } 1 R _item p PID_10MM_AP + 800 R _item p PID_ENCLAVE_COMBAT_ARMOR - 1 #
 40 29020 D _item p PID_ENCLAVE_COMBAT_ARMOR } 1 R _item p PID_ENCLAVE_COMBAT_ARMOR - 1 R _item p PID_SUPER_STIMPAK + 7 #
 40 29030 D _item p PID_ENCLAVE_COMBAT_ARMOR } 1 R _item p PID_ENCLAVE_COMBAT_ARMOR - 1 R _item p PID_FRAG_GRENADE + 25 @
-33 30000 None 0 #
+33 30000 main@dlg_Caps 0 #
 40 30010 D _item p PID_TESLA_ARMOR } 1 R _item p PID_TESLA_ARMOR - 1 R _item p PID_FRAG_GRENADE + 25 #
 40 30020 D _item p PID_TESLA_ARMOR } 1 R _item p PID_TESLA_ARMOR - 1 R _item p PID_PLASMA_GRENADE + 5 #
 40 30030 D _item p PID_TESLA_ARMOR } 1 R _item p PID_TESLA_ARMOR - 1 R _item p PID_SUPER_STIMPAK + 3 #
 40 30040 D _item p PID_TESLA_ARMOR } 1 R _item p PID_TESLA_ARMOR - 1 R _item p PID_BOTTLE_CAPS + 500 @
-34 31000 None 0 #
+34 31000 main@dlg_Caps 0 #
 40 31010 D _item p PID_TESLA_HELMET } 1 R _item p PID_TESLA_HELMET - 1 R _item p PID_BOTTLE_CAPS + 300 #
 40 31020 D _item p PID_TESLA_HELMET } 1 R _item p PID_TESLA_HELMET - 1 R _item p PID_5MM_AP + 200 #
 40 31030 D _item p PID_TESLA_HELMET } 1 R _item p PID_TESLA_HELMET - 1 R _item p PID_10MM_AP + 150 @
-39 32000 None 0 @
-40 33000 None 0 @
-41 34000 None 0 #
+39 32000 main@dlg_Caps 0 @
+40 33000 main@dlg_Caps 0 @
+41 34000 main@dlg_Caps 0 #
 42 34010 R _var p q_lh_darius = 1 #
 0 34020 @
-42 35000 None 0 @
-43 36000 None 0 &
+42 35000 main@dlg_Caps 0 @
+43 36000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Senior Paladin Darius}
@@ -237,7 +237,7 @@ lang=engl czec pols span russ
 {10020}{}{Cool, I will keep it in mind,}
 {11000}{}{Well some of these will go to the storage, others will be decrafted for materials or used by us.}
 {11010}{}{Fine. There is something else I want to aks you about.}
-{12000}{}{This is a garbage. I can only give you some caps for it.}
+{12000}{}{This is a garbage. I can only give you some @lex money@ for it.}
 {13000}{}{Hmh... Not bad. What would you like to take for this one?}
 {13010}{}{[ 24 10mm AP ]}
 {13020}{}{[ 30 5mm AP ]}
@@ -247,10 +247,10 @@ lang=engl czec pols span russ
 {14010}{}{[ 2 Stimpaks ]}
 {14020}{}{[ 40 .223 ]}
 {14030}{}{[ 30 7.62 ]}
-{14040}{}{[ 130 caps ]}
+{14040}{}{[ 130 @lex money@ ]}
 {14050}{}{[ 5 frag grenades ]}
 {15000}{}{Good. What would you like to take for this one?}
-{15010}{}{[ 170 caps ]}
+{15010}{}{[ 170 @lex money@ ]}
 {15020}{}{[ 70 .223 ]}
 {15030}{}{[ 90 7.62 ]}
 {15040}{}{[ 1 Super Stimpak ]}
@@ -286,7 +286,7 @@ lang=engl czec pols span russ
 {19010}{}{[ 1 Psycho ]}
 {19020}{}{[ 5 Super Stimpaks ]}
 {19030}{}{[ 15 Stimpaks ]}
-{19040}{}{[ 450 caps ]}
+{19040}{}{[ 450 @lex money@ ]}
 {19050}{}{[ 300 .223 ]}
 {19060}{}{[ 500 5mm AP ]}
 {20000}{}{Well I will be damned... [ he carefully examines the pistol, then he takes the radio and says something in it ]. I think our scribes would really like to take a look on this. What would you like for this one?}
@@ -298,7 +298,7 @@ lang=engl czec pols span russ
 {20060}{}{[ 3000 10mm AP ]}
 {20070}{}{[ 10 Psycho ]}
 {20080}{}{[ 20 Buffout ]}
-{20090}{}{[ 1700 caps ]}
+{20090}{}{[ 1700 @lex money@ ]}
 {21000}{}{Very good. What would you like to take?}
 {21010}{}{[ 200 5mm AP ]}
 {21020}{}{[ 250 10mm AP ]}
@@ -357,12 +357,12 @@ lang=engl czec pols span russ
 {30010}{}{[ 25 frag grenades ]}
 {30020}{}{[ 5 plasma grenades ]}
 {30030}{}{[ 3 Super Stimpaks ]}
-{30040}{}{[ 500 caps ]}
+{30040}{}{[ 500 @lex money@ ]}
 {31000}{}{Tesla helmet? Well this is a good piece. What would you like to get for this?}
-{31010}{}{[ 300 caps ]}
+{31010}{}{[ 300 @lex money@ ]}
 {31020}{}{[ 200 5mm AP ]}
 {31030}{}{[ 150 10mm AP ]}
-{32000}{}{Kinda garbage... Here are some caps for you.}
+{32000}{}{Kinda garbage... Here are some @lex money@ for you.}
 {33000}{}{Here you go.}
 {34000}{}{Well, you might be useful. There is a place north from Junktown that is known as Abbey. Some time ago our expedition squad was sent there. Since then we recieved no news from them. I need you to check their outpost in Abbey and collect all information from their filed terminal and bring it back here. To let you know, they used Mr. Handy as a terminal for their expedition logs.}
 {34010}{}{Alright. I am up for it.}
@@ -371,7 +371,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -420,7 +420,7 @@ lang=engl czec pols span russ
 {10020}{}{Cool, I will keep it in mind,}
 {11000}{}{Well some of these will go to the storage, others will be decrafted for materials or used by us.}
 {11010}{}{Fine. There is something else I want to aks you about.}
-{12000}{}{This is a garbage. I can only give you some caps for it.}
+{12000}{}{This is a garbage. I can only give you some @lex money@ for it.}
 {13000}{}{Hmh... Not bad. What would you like to take for this one?}
 {13010}{}{[ 24 10mm AP ]}
 {13020}{}{[ 30 5mm AP ]}
@@ -430,10 +430,10 @@ lang=engl czec pols span russ
 {14010}{}{[ 2 Stimpaks ]}
 {14020}{}{[ 40 .223 ]}
 {14030}{}{[ 30 7.62 ]}
-{14040}{}{[ 130 caps ]}
+{14040}{}{[ 130 @lex money@ ]}
 {14050}{}{[ 5 frag grenades ]}
 {15000}{}{Good. What would you like to take for this one?}
-{15010}{}{[ 170 caps ]}
+{15010}{}{[ 170 @lex money@ ]}
 {15020}{}{[ 70 .223 ]}
 {15030}{}{[ 90 7.62 ]}
 {15040}{}{[ 1 Super Stimpak ]}
@@ -469,7 +469,7 @@ lang=engl czec pols span russ
 {19010}{}{[ 1 Psycho ]}
 {19020}{}{[ 5 Super Stimpaks ]}
 {19030}{}{[ 15 Stimpaks ]}
-{19040}{}{[ 450 caps ]}
+{19040}{}{[ 450 @lex money@ ]}
 {19050}{}{[ 300 .223 ]}
 {19060}{}{[ 500 5mm AP ]}
 {20000}{}{Well I will be damned... [ he carefully examines the pistol, then he takes the radio and says something in it ]. I think our scribes would really like to take a look on this. What would you like for this one?}
@@ -481,7 +481,7 @@ lang=engl czec pols span russ
 {20060}{}{[ 3000 10mm AP ]}
 {20070}{}{[ 10 Psycho ]}
 {20080}{}{[ 20 Buffout ]}
-{20090}{}{[ 1700 caps ]}
+{20090}{}{[ 1700 @lex money@ ]}
 {21000}{}{Very good. What would you like to take?}
 {21010}{}{[ 200 5mm AP ]}
 {21020}{}{[ 250 10mm AP ]}
@@ -540,12 +540,12 @@ lang=engl czec pols span russ
 {30010}{}{[ 25 frag grenades ]}
 {30020}{}{[ 5 plasma grenades ]}
 {30030}{}{[ 3 Super Stimpaks ]}
-{30040}{}{[ 500 caps ]}
+{30040}{}{[ 500 @lex money@ ]}
 {31000}{}{Tesla helmet? Well this is a good piece. What would you like to get for this?}
-{31010}{}{[ 300 caps ]}
+{31010}{}{[ 300 @lex money@ ]}
 {31020}{}{[ 200 5mm AP ]}
 {31030}{}{[ 150 10mm AP ]}
-{32000}{}{Kinda garbage... Here are some caps for you.}
+{32000}{}{Kinda garbage... Here are some @lex money@ for you.}
 {33000}{}{Here you go.}
 {34000}{}{Well, you might be useful. There is a place north from Junktown that is known as Abbey. Some time ago our expedition squad was sent there. Since then we recieved no news from them. I need you to check their outpost in Abbey and collect all information from their filed terminal and bring it back here. To let you know, they used Mr. Handy as a terminal for their expedition logs.}
 {34010}{}{Alright. I am up for it.}
@@ -554,7 +554,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -603,7 +603,7 @@ lang=engl czec pols span russ
 {10020}{}{Cool, I will keep it in mind,}
 {11000}{}{Well some of these will go to the storage, others will be decrafted for materials or used by us.}
 {11010}{}{Fine. There is something else I want to aks you about.}
-{12000}{}{This is a garbage. I can only give you some caps for it.}
+{12000}{}{This is a garbage. I can only give you some @lex money@ for it.}
 {13000}{}{Hmh... Not bad. What would you like to take for this one?}
 {13010}{}{[ 24 10mm AP ]}
 {13020}{}{[ 30 5mm AP ]}
@@ -613,10 +613,10 @@ lang=engl czec pols span russ
 {14010}{}{[ 2 Stimpaks ]}
 {14020}{}{[ 40 .223 ]}
 {14030}{}{[ 30 7.62 ]}
-{14040}{}{[ 130 caps ]}
+{14040}{}{[ 130 @lex money@ ]}
 {14050}{}{[ 5 frag grenades ]}
 {15000}{}{Good. What would you like to take for this one?}
-{15010}{}{[ 170 caps ]}
+{15010}{}{[ 170 @lex money@ ]}
 {15020}{}{[ 70 .223 ]}
 {15030}{}{[ 90 7.62 ]}
 {15040}{}{[ 1 Super Stimpak ]}
@@ -652,7 +652,7 @@ lang=engl czec pols span russ
 {19010}{}{[ 1 Psycho ]}
 {19020}{}{[ 5 Super Stimpaks ]}
 {19030}{}{[ 15 Stimpaks ]}
-{19040}{}{[ 450 caps ]}
+{19040}{}{[ 450 @lex money@ ]}
 {19050}{}{[ 300 .223 ]}
 {19060}{}{[ 500 5mm AP ]}
 {20000}{}{Well I will be damned... [ he carefully examines the pistol, then he takes the radio and says something in it ]. I think our scribes would really like to take a look on this. What would you like for this one?}
@@ -664,7 +664,7 @@ lang=engl czec pols span russ
 {20060}{}{[ 3000 10mm AP ]}
 {20070}{}{[ 10 Psycho ]}
 {20080}{}{[ 20 Buffout ]}
-{20090}{}{[ 1700 caps ]}
+{20090}{}{[ 1700 @lex money@ ]}
 {21000}{}{Very good. What would you like to take?}
 {21010}{}{[ 200 5mm AP ]}
 {21020}{}{[ 250 10mm AP ]}
@@ -723,12 +723,12 @@ lang=engl czec pols span russ
 {30010}{}{[ 25 frag grenades ]}
 {30020}{}{[ 5 plasma grenades ]}
 {30030}{}{[ 3 Super Stimpaks ]}
-{30040}{}{[ 500 caps ]}
+{30040}{}{[ 500 @lex money@ ]}
 {31000}{}{Tesla helmet? Well this is a good piece. What would you like to get for this?}
-{31010}{}{[ 300 caps ]}
+{31010}{}{[ 300 @lex money@ ]}
 {31020}{}{[ 200 5mm AP ]}
 {31030}{}{[ 150 10mm AP ]}
-{32000}{}{Kinda garbage... Here are some caps for you.}
+{32000}{}{Kinda garbage... Here are some @lex money@ for you.}
 {33000}{}{Here you go.}
 {34000}{}{Well, you might be useful. There is a place north from Junktown that is known as Abbey. Some time ago our expedition squad was sent there. Since then we recieved no news from them. I need you to check their outpost in Abbey and collect all information from their filed terminal and bring it back here. To let you know, they used Mr. Handy as a terminal for their expedition logs.}
 {34010}{}{Alright. I am up for it.}
@@ -737,7 +737,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -786,7 +786,7 @@ lang=engl czec pols span russ
 {10020}{}{Cool, I will keep it in mind,}
 {11000}{}{Well some of these will go to the storage, others will be decrafted for materials or used by us.}
 {11010}{}{Fine. There is something else I want to aks you about.}
-{12000}{}{This is a garbage. I can only give you some caps for it.}
+{12000}{}{This is a garbage. I can only give you some @lex money@ for it.}
 {13000}{}{Hmh... Not bad. What would you like to take for this one?}
 {13010}{}{[ 24 10mm AP ]}
 {13020}{}{[ 30 5mm AP ]}
@@ -796,10 +796,10 @@ lang=engl czec pols span russ
 {14010}{}{[ 2 Stimpaks ]}
 {14020}{}{[ 40 .223 ]}
 {14030}{}{[ 30 7.62 ]}
-{14040}{}{[ 130 caps ]}
+{14040}{}{[ 130 @lex money@ ]}
 {14050}{}{[ 5 frag grenades ]}
 {15000}{}{Good. What would you like to take for this one?}
-{15010}{}{[ 170 caps ]}
+{15010}{}{[ 170 @lex money@ ]}
 {15020}{}{[ 70 .223 ]}
 {15030}{}{[ 90 7.62 ]}
 {15040}{}{[ 1 Super Stimpak ]}
@@ -835,7 +835,7 @@ lang=engl czec pols span russ
 {19010}{}{[ 1 Psycho ]}
 {19020}{}{[ 5 Super Stimpaks ]}
 {19030}{}{[ 15 Stimpaks ]}
-{19040}{}{[ 450 caps ]}
+{19040}{}{[ 450 @lex money@ ]}
 {19050}{}{[ 300 .223 ]}
 {19060}{}{[ 500 5mm AP ]}
 {20000}{}{Well I will be damned... [ he carefully examines the pistol, then he takes the radio and says something in it ]. I think our scribes would really like to take a look on this. What would you like for this one?}
@@ -847,7 +847,7 @@ lang=engl czec pols span russ
 {20060}{}{[ 3000 10mm AP ]}
 {20070}{}{[ 10 Psycho ]}
 {20080}{}{[ 20 Buffout ]}
-{20090}{}{[ 1700 caps ]}
+{20090}{}{[ 1700 @lex money@ ]}
 {21000}{}{Very good. What would you like to take?}
 {21010}{}{[ 200 5mm AP ]}
 {21020}{}{[ 250 10mm AP ]}
@@ -906,12 +906,12 @@ lang=engl czec pols span russ
 {30010}{}{[ 25 frag grenades ]}
 {30020}{}{[ 5 plasma grenades ]}
 {30030}{}{[ 3 Super Stimpaks ]}
-{30040}{}{[ 500 caps ]}
+{30040}{}{[ 500 @lex money@ ]}
 {31000}{}{Tesla helmet? Well this is a good piece. What would you like to get for this?}
-{31010}{}{[ 300 caps ]}
+{31010}{}{[ 300 @lex money@ ]}
 {31020}{}{[ 200 5mm AP ]}
 {31030}{}{[ 150 10mm AP ]}
-{32000}{}{Kinda garbage... Here are some caps for you.}
+{32000}{}{Kinda garbage... Here are some @lex money@ for you.}
 {33000}{}{Here you go.}
 {34000}{}{Well, you might be useful. There is a place north from Junktown that is known as Abbey. Some time ago our expedition squad was sent there. Since then we recieved no news from them. I need you to check their outpost in Abbey and collect all information from their filed terminal and bring it back here. To let you know, they used Mr. Handy as a terminal for their expedition logs.}
 {34010}{}{Alright. I am up for it.}
@@ -920,7 +920,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -969,7 +969,7 @@ lang=engl czec pols span russ
 {10020}{}{Cool, I will keep it in mind,}
 {11000}{}{Well some of these will go to the storage, others will be decrafted for materials or used by us.}
 {11010}{}{Fine. There is something else I want to aks you about.}
-{12000}{}{This is a garbage. I can only give you some caps for it.}
+{12000}{}{This is a garbage. I can only give you some @lex money@ for it.}
 {13000}{}{Hmh... Not bad. What would you like to take for this one?}
 {13010}{}{[ 24 10mm AP ]}
 {13020}{}{[ 30 5mm AP ]}
@@ -979,10 +979,10 @@ lang=engl czec pols span russ
 {14010}{}{[ 2 Stimpaks ]}
 {14020}{}{[ 40 .223 ]}
 {14030}{}{[ 30 7.62 ]}
-{14040}{}{[ 130 caps ]}
+{14040}{}{[ 130 @lex money@ ]}
 {14050}{}{[ 5 frag grenades ]}
 {15000}{}{Good. What would you like to take for this one?}
-{15010}{}{[ 170 caps ]}
+{15010}{}{[ 170 @lex money@ ]}
 {15020}{}{[ 70 .223 ]}
 {15030}{}{[ 90 7.62 ]}
 {15040}{}{[ 1 Super Stimpak ]}
@@ -1018,7 +1018,7 @@ lang=engl czec pols span russ
 {19010}{}{[ 1 Psycho ]}
 {19020}{}{[ 5 Super Stimpaks ]}
 {19030}{}{[ 15 Stimpaks ]}
-{19040}{}{[ 450 caps ]}
+{19040}{}{[ 450 @lex money@ ]}
 {19050}{}{[ 300 .223 ]}
 {19060}{}{[ 500 5mm AP ]}
 {20000}{}{Well I will be damned... [ he carefully examines the pistol, then he takes the radio and says something in it ]. I think our scribes would really like to take a look on this. What would you like for this one?}
@@ -1030,7 +1030,7 @@ lang=engl czec pols span russ
 {20060}{}{[ 3000 10mm AP ]}
 {20070}{}{[ 10 Psycho ]}
 {20080}{}{[ 20 Buffout ]}
-{20090}{}{[ 1700 caps ]}
+{20090}{}{[ 1700 @lex money@ ]}
 {21000}{}{Very good. What would you like to take?}
 {21010}{}{[ 200 5mm AP ]}
 {21020}{}{[ 250 10mm AP ]}
@@ -1089,12 +1089,12 @@ lang=engl czec pols span russ
 {30010}{}{[ 25 frag grenades ]}
 {30020}{}{[ 5 plasma grenades ]}
 {30030}{}{[ 3 Super Stimpaks ]}
-{30040}{}{[ 500 caps ]}
+{30040}{}{[ 500 @lex money@ ]}
 {31000}{}{Tesla helmet? Well this is a good piece. What would you like to get for this?}
-{31010}{}{[ 300 caps ]}
+{31010}{}{[ 300 @lex money@ ]}
 {31020}{}{[ 200 5mm AP ]}
 {31030}{}{[ 150 10mm AP ]}
-{32000}{}{Kinda garbage... Here are some caps for you.}
+{32000}{}{Kinda garbage... Here are some @lex money@ for you.}
 {33000}{}{Here you go.}
 {34000}{}{Well, you might be useful. There is a place north from Junktown that is known as Abbey. Some time ago our expedition squad was sent there. Since then we recieved no news from them. I need you to check their outpost in Abbey and collect all information from their filed terminal and bring it back here. To let you know, they used Mr. Handy as a terminal for their expedition logs.}
 {34010}{}{Alright. I am up for it.}

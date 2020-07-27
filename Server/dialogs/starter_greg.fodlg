@@ -6,75 +6,75 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 #
 15 1020 D _var p starter_greg_quests = 1 #
 19 1030 D _var p starter_greg_quests = 3 #
 24 1040 D _param p ST_CHARISMA < 4 #
 25 1050 D _var p starter_casequest = 5 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p starter_greg_training = 1 #
 14 2020 D _var p starter_greg_quests = 0 #
 18 2030 D _var p starter_greg_quests = 2 #
 21 2040 D _var p starter_greg_training = 2 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _var p starter_greg_training = 2 #
 5 3020 R _var p starter_greg_training = 2 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 9 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 10 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 R _param p SK_THROWING + 55 R _param p SK_MELEE_WEAPONS + 40 R _param p SK_UNARMED + 30 R _item p PID_BRASS_KNUCKLES + 1 R _item p PID_KNIFE + 1 R _item p PID_ROCK + 3 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 R _var p starter_greg_quests = 1 R _script dialog@r_AddMoney 1 20 #
 22 14020 R _var p starter_greg_quests = 3 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 R _param p ST_EXPERIENCE + 125 #
 17 15020 R _param p ST_EXPERIENCE + 125 R _var p starter_greg_quests = 5 #
 17 15030 R _param p ST_EXPERIENCE + 125 R _var p starter_greg_quests = 5 #
 0 15040 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 18 16010 R _var p starter_greg_quests = 2 #
 0 16020 R _var p starter_greg_quests = 2 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 0 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 0 18010 R _var p starter_greg_quests = 3 #
 0 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 D _item p PID_LIGHTER = 1 D _var p starter_greg_quests = 4 #
 0 19020 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 R _param p ST_EXPERIENCE + 125 R _script dialog@r_AddMoney 1 30 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 14 21010 D _var p starter_greg_quests = 0 #
 18 21020 D _var p starter_greg_quests = 2 #
 0 21030 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 0 22010 @
-23 23000 None 0 @
-24 24000 None 0 @
-25 25000 None 0 &
+23 23000 main@dlg_Caps 0 @
+24 24000 main@dlg_Caps 0 @
+25 25000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{McMurray}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {2050}{}{Gotta run, see you later.}
 {3000}{}{You're looking to fight? Interesting. Mind if I ask why?}
 {3010}{}{I'm going out into the wasteland.}
-{3020}{}{None of your business.}
+{3020}{}{main@dlg_Caps of your business.}
 {3030}{}{Forget it, nevermind. See you later, Greg.}
 {4000}{}{Yowch, for real? Well then, we got no time to lose. Let's get started.}
 {4010}{}{[Several sweaty hours later]}
@@ -118,27 +118,27 @@ lang=engl czec pols span russ
 {12010}{}{[One final sweaty hour later]}
 {13000}{}{Okay, you've got it. Well enough, at least. You're at least gonna be able to hit a couple things if you try.}
 {13010}{}{Thanks, Greg. Say, you got anything you need doing?}
-{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 caps]}
+{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 @lex money@]}
 {14010}{}{Sure thing, back in a second.}
 {14020}{}{Get them yourself, you lazy bastard.}
 {14030}{}{Sorry, I'm a little busy right now. Bye.}
 {15000}{}{Hey, you're back. Didja get my smokes? She didn't rip you off, did she?}
 {15010}{}{Not at all. They were free.}
-{15020}{}{Yeah, 10 caps. Rough deal, huh? [Lie]}
-{15030}{}{Total ripoff. 20 caps. [Lie]}
+{15020}{}{Yeah, 10 @lex money@. Rough deal, huh? [Lie]}
+{15030}{}{Total ripoff. 20 @lex money@. [Lie]}
 {15040}{}{Naw, not yet. I'll be back when I do.}
 {16000}{}{Oh, were they now? Poor gal's probably interested in you. Can't say much for her taste, though. Hey, keep the change. Maybe use it to take her out.}
 {16010}{}{Sure, whatever. You got any more work?}
 {16020}{}{Hilarious. See you later.}
 {17000}{}{Aw, that's too bad man. Keep the change, anyway. You're a pal.}
 {17010}{}{Sure thing. See ya.}
-{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 caps in it for ya.}
+{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 @lex money@ in it for ya.}
 {18010}{}{Will do. Be right back.}
 {18020}{}{Forget it, do it yourself.}
 {19000}{}{You're back? He didn't break it, did he?}
 {19010}{}{I got it, here it is.}
 {19020}{}{Didn't get around to it, sorry.}
-{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 caps. Go buy yourself a couple beers.}
+{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 @lex money@. Go buy yourself a couple beers.}
 {20010}{}{Thanks, see you later.}
 {21000}{}{Sorry bud, I've taught you everything I know.}
 {21010}{}{Too bad. Got any work for me?}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {2050}{}{Gotta run, see you later.}
 {3000}{}{You're looking to fight? Interesting. Mind if I ask why?}
 {3010}{}{I'm going out into the wasteland.}
-{3020}{}{None of your business.}
+{3020}{}{main@dlg_Caps of your business.}
 {3030}{}{Forget it, nevermind. See you later, Greg.}
 {4000}{}{Yowch, for real? Well then, we got no time to lose. Let's get started.}
 {4010}{}{[Several sweaty hours later]}
@@ -190,27 +190,27 @@ lang=engl czec pols span russ
 {12010}{}{[One final sweaty hour later]}
 {13000}{}{Okay, you've got it. Well enough, at least. You're at least gonna be able to hit a couple things if you try.}
 {13010}{}{Thanks, Greg. Say, you got anything you need doing?}
-{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 caps]}
+{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 @lex money@]}
 {14010}{}{Sure thing, back in a second.}
 {14020}{}{Get them yourself, you lazy bastard.}
 {14030}{}{Sorry, I'm a little busy right now. Bye.}
 {15000}{}{Hey, you're back. Didja get my smokes? She didn't rip you off, did she?}
 {15010}{}{Not at all. They were free.}
-{15020}{}{Yeah, 10 caps. Rough deal, huh? [Lie]}
-{15030}{}{Total ripoff. 20 caps. [Lie]}
+{15020}{}{Yeah, 10 @lex money@. Rough deal, huh? [Lie]}
+{15030}{}{Total ripoff. 20 @lex money@. [Lie]}
 {15040}{}{Naw, not yet. I'll be back when I do.}
 {16000}{}{Oh, were they now? Poor gal's probably interested in you. Can't say much for her taste, though. Hey, keep the change. Maybe use it to take her out.}
 {16010}{}{Sure, whatever. You got any more work?}
 {16020}{}{Hilarious. See you later.}
 {17000}{}{Aw, that's too bad man. Keep the change, anyway. You're a pal.}
 {17010}{}{Sure thing. See ya.}
-{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 caps in it for ya.}
+{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 @lex money@ in it for ya.}
 {18010}{}{Will do. Be right back.}
 {18020}{}{Forget it, do it yourself.}
 {19000}{}{You're back? He didn't break it, did he?}
 {19010}{}{I got it, here it is.}
 {19020}{}{Didn't get around to it, sorry.}
-{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 caps. Go buy yourself a couple beers.}
+{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 @lex money@. Go buy yourself a couple beers.}
 {20010}{}{Thanks, see you later.}
 {21000}{}{Sorry bud, I've taught you everything I know.}
 {21010}{}{Too bad. Got any work for me?}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -238,7 +238,7 @@ lang=engl czec pols span russ
 {2050}{}{Gotta run, see you later.}
 {3000}{}{You're looking to fight? Interesting. Mind if I ask why?}
 {3010}{}{I'm going out into the wasteland.}
-{3020}{}{None of your business.}
+{3020}{}{main@dlg_Caps of your business.}
 {3030}{}{Forget it, nevermind. See you later, Greg.}
 {4000}{}{Yowch, for real? Well then, we got no time to lose. Let's get started.}
 {4010}{}{[Several sweaty hours later]}
@@ -262,27 +262,27 @@ lang=engl czec pols span russ
 {12010}{}{[One final sweaty hour later]}
 {13000}{}{Okay, you've got it. Well enough, at least. You're at least gonna be able to hit a couple things if you try.}
 {13010}{}{Thanks, Greg. Say, you got anything you need doing?}
-{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 caps]}
+{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 @lex money@]}
 {14010}{}{Sure thing, back in a second.}
 {14020}{}{Get them yourself, you lazy bastard.}
 {14030}{}{Sorry, I'm a little busy right now. Bye.}
 {15000}{}{Hey, you're back. Didja get my smokes? She didn't rip you off, did she?}
 {15010}{}{Not at all. They were free.}
-{15020}{}{Yeah, 10 caps. Rough deal, huh? [Lie]}
-{15030}{}{Total ripoff. 20 caps. [Lie]}
+{15020}{}{Yeah, 10 @lex money@. Rough deal, huh? [Lie]}
+{15030}{}{Total ripoff. 20 @lex money@. [Lie]}
 {15040}{}{Naw, not yet. I'll be back when I do.}
 {16000}{}{Oh, were they now? Poor gal's probably interested in you. Can't say much for her taste, though. Hey, keep the change. Maybe use it to take her out.}
 {16010}{}{Sure, whatever. You got any more work?}
 {16020}{}{Hilarious. See you later.}
 {17000}{}{Aw, that's too bad man. Keep the change, anyway. You're a pal.}
 {17010}{}{Sure thing. See ya.}
-{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 caps in it for ya.}
+{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 @lex money@ in it for ya.}
 {18010}{}{Will do. Be right back.}
 {18020}{}{Forget it, do it yourself.}
 {19000}{}{You're back? He didn't break it, did he?}
 {19010}{}{I got it, here it is.}
 {19020}{}{Didn't get around to it, sorry.}
-{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 caps. Go buy yourself a couple beers.}
+{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 @lex money@. Go buy yourself a couple beers.}
 {20010}{}{Thanks, see you later.}
 {21000}{}{Sorry bud, I've taught you everything I know.}
 {21010}{}{Too bad. Got any work for me?}
@@ -295,7 +295,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -310,7 +310,7 @@ lang=engl czec pols span russ
 {2050}{}{Gotta run, see you later.}
 {3000}{}{You're looking to fight? Interesting. Mind if I ask why?}
 {3010}{}{I'm going out into the wasteland.}
-{3020}{}{None of your business.}
+{3020}{}{main@dlg_Caps of your business.}
 {3030}{}{Forget it, nevermind. See you later, Greg.}
 {4000}{}{Yowch, for real? Well then, we got no time to lose. Let's get started.}
 {4010}{}{[Several sweaty hours later]}
@@ -334,27 +334,27 @@ lang=engl czec pols span russ
 {12010}{}{[One final sweaty hour later]}
 {13000}{}{Okay, you've got it. Well enough, at least. You're at least gonna be able to hit a couple things if you try.}
 {13010}{}{Thanks, Greg. Say, you got anything you need doing?}
-{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 caps]}
+{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 @lex money@]}
 {14010}{}{Sure thing, back in a second.}
 {14020}{}{Get them yourself, you lazy bastard.}
 {14030}{}{Sorry, I'm a little busy right now. Bye.}
 {15000}{}{Hey, you're back. Didja get my smokes? She didn't rip you off, did she?}
 {15010}{}{Not at all. They were free.}
-{15020}{}{Yeah, 10 caps. Rough deal, huh? [Lie]}
-{15030}{}{Total ripoff. 20 caps. [Lie]}
+{15020}{}{Yeah, 10 @lex money@. Rough deal, huh? [Lie]}
+{15030}{}{Total ripoff. 20 @lex money@. [Lie]}
 {15040}{}{Naw, not yet. I'll be back when I do.}
 {16000}{}{Oh, were they now? Poor gal's probably interested in you. Can't say much for her taste, though. Hey, keep the change. Maybe use it to take her out.}
 {16010}{}{Sure, whatever. You got any more work?}
 {16020}{}{Hilarious. See you later.}
 {17000}{}{Aw, that's too bad man. Keep the change, anyway. You're a pal.}
 {17010}{}{Sure thing. See ya.}
-{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 caps in it for ya.}
+{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 @lex money@ in it for ya.}
 {18010}{}{Will do. Be right back.}
 {18020}{}{Forget it, do it yourself.}
 {19000}{}{You're back? He didn't break it, did he?}
 {19010}{}{I got it, here it is.}
 {19020}{}{Didn't get around to it, sorry.}
-{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 caps. Go buy yourself a couple beers.}
+{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 @lex money@. Go buy yourself a couple beers.}
 {20010}{}{Thanks, see you later.}
 {21000}{}{Sorry bud, I've taught you everything I know.}
 {21010}{}{Too bad. Got any work for me?}
@@ -367,7 +367,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -382,7 +382,7 @@ lang=engl czec pols span russ
 {2050}{}{Gotta run, see you later.}
 {3000}{}{You're looking to fight? Interesting. Mind if I ask why?}
 {3010}{}{I'm going out into the wasteland.}
-{3020}{}{None of your business.}
+{3020}{}{main@dlg_Caps of your business.}
 {3030}{}{Forget it, nevermind. See you later, Greg.}
 {4000}{}{Yowch, for real? Well then, we got no time to lose. Let's get started.}
 {4010}{}{[Several sweaty hours later]}
@@ -406,27 +406,27 @@ lang=engl czec pols span russ
 {12010}{}{[One final sweaty hour later]}
 {13000}{}{Okay, you've got it. Well enough, at least. You're at least gonna be able to hit a couple things if you try.}
 {13010}{}{Thanks, Greg. Say, you got anything you need doing?}
-{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 caps]}
+{14000}{}{Actually, yeah. I heard Loarria down at the general store found herself a couple packs of smokes. Want to be a pal and go get me one? Here's the cash. [He hands you 20 @lex money@]}
 {14010}{}{Sure thing, back in a second.}
 {14020}{}{Get them yourself, you lazy bastard.}
 {14030}{}{Sorry, I'm a little busy right now. Bye.}
 {15000}{}{Hey, you're back. Didja get my smokes? She didn't rip you off, did she?}
 {15010}{}{Not at all. They were free.}
-{15020}{}{Yeah, 10 caps. Rough deal, huh? [Lie]}
-{15030}{}{Total ripoff. 20 caps. [Lie]}
+{15020}{}{Yeah, 10 @lex money@. Rough deal, huh? [Lie]}
+{15030}{}{Total ripoff. 20 @lex money@. [Lie]}
 {15040}{}{Naw, not yet. I'll be back when I do.}
 {16000}{}{Oh, were they now? Poor gal's probably interested in you. Can't say much for her taste, though. Hey, keep the change. Maybe use it to take her out.}
 {16010}{}{Sure, whatever. You got any more work?}
 {16020}{}{Hilarious. See you later.}
 {17000}{}{Aw, that's too bad man. Keep the change, anyway. You're a pal.}
 {17010}{}{Sure thing. See ya.}
-{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 caps in it for ya.}
+{18000}{}{Sebastian's got my good lighter. I left it over at his place back when we... well, uh, just get it back for me, huh? There's 30 @lex money@ in it for ya.}
 {18010}{}{Will do. Be right back.}
 {18020}{}{Forget it, do it yourself.}
 {19000}{}{You're back? He didn't break it, did he?}
 {19010}{}{I got it, here it is.}
 {19020}{}{Didn't get around to it, sorry.}
-{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 caps. Go buy yourself a couple beers.}
+{20000}{}{Let me see that. Aw, hell, it's all caked up with gunk. Son of a bitch... Oh, here's your 30 @lex money@. Go buy yourself a couple beers.}
 {20010}{}{Thanks, see you later.}
 {21000}{}{Sorry bud, I've taught you everything I know.}
 {21010}{}{Too bad. Got any work for me?}

@@ -6,10 +6,10 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 20 1020 @
-20 2000 None 0 #
+20 2000 main@dlg_Caps 0 #
 0 2010 #
 3 2020 D _var p q_la_dogs = 0 D _script quest_la_dogs@d_CheckDogs 0  #
 25 2030 D _var p q_la_dogs = 2 R _var p q_la_dogs = 3 R _param p REPUTATION_REGULATORS + 25 R _param p ST_EXPERIENCE + 500 R _script dialog@r_DogsQuestReward 0  R _script quest_la_dogs@r_DeleteLoc 0  R _script dialog@r_QuestTimeout 1 15 #
@@ -18,85 +18,85 @@ lang=engl czec pols span russ
 34 2060 D _script dialog@d_QuestTimeoutNotReady 0  D _script quest_la_dogs@d_CheckDogs 0  D _var p q_la_dogs = 3 #
 23 2070 D _var p q_la_dogs > 0 #
 30 2080 @
-2 3000 None 0 #
+2 3000 main@dlg_Caps 0 #
 0 3010 #
 3 3020 D _var p q_la_dogs = 0 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 4 4010 #
 17 4020 #
 0 4030 @
-4 5000 None 0 #
+4 5000 main@dlg_Caps 0 #
 5 5010 @
-5 6000 None 0 #
+5 6000 main@dlg_Caps 0 #
 6 6010 @
-6 7000 None 0 #
+6 7000 main@dlg_Caps 0 #
 7 7010 @
-7 8000 None 0 #
+7 8000 main@dlg_Caps 0 #
 8 8010 #
 18 8020 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 9 9010 #
 18 9020 @
-9 10000 None 0 #
+9 10000 main@dlg_Caps 0 #
 10 10010 #
 18 10020 @
-10 11000 None 0 #
+10 11000 main@dlg_Caps 0 #
 11 11010 #
 18 11020 @
-11 12000 None 0 #
+11 12000 main@dlg_Caps 0 #
 12 12010 #
 18 12020 @
-12 13000 None 0 #
+12 13000 main@dlg_Caps 0 #
 13 13010 #
 18 13020 @
-13 14000 None 0 #
+13 14000 main@dlg_Caps 0 #
 14 14010 #
 18 14020 @
-14 15000 None 0 #
+14 15000 main@dlg_Caps 0 #
 15 15010 #
 18 15020 @
-15 16000 None 0 #
+15 16000 main@dlg_Caps 0 #
 16 16010 #
 18 16020 @
-16 17000 None 0 #
+16 17000 main@dlg_Caps 0 #
 7 17010 #
 18 17020 @
-17 18000 None 0 #
+17 18000 main@dlg_Caps 0 #
 4 18010 #
 0 18020 @
-18 19000 None 0 #
+18 19000 main@dlg_Caps 0 #
 19 19010 #
 22 19020 #
 0 19030 @
-19 20000 None 0 #
+19 20000 main@dlg_Caps 0 #
 22 20010 #
 21 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 22 21010 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 0 22010 R _var p q_la_dogs = 1 R _script quest_la_dogs@r_SpawnLoc 0  @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 26 23010 #
 20 23020 #
 0 23030 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 0 24010 R _var p q_la_dogs = 1 R _script quest_la_dogs@r_SpawnLoc 0  @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 0 25010 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 20 26010 #
 0 26020 @
-30 27000 None 0 #
+30 27000 main@dlg_Caps 0 #
 31 27010 R _script dialog@r_ShowLocation 1 38 #
 0 27020 @
-31 28000 None 0 #
+31 28000 main@dlg_Caps 0 #
 0 28010 @
-32 29000 None 0 #
+32 29000 main@dlg_Caps 0 #
 0 29010 #
 33 29020 @
-33 30000 None 0 #
+33 30000 main@dlg_Caps 0 #
 0 30010 @
-34 31000 None 0 #
+34 31000 main@dlg_Caps 0 #
 0 31010 &
 
 [engl]
@@ -197,7 +197,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -292,7 +292,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -387,7 +387,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -482,7 +482,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}

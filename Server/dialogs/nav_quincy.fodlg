@@ -6,38 +6,38 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 #
 6 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 80 2020 D _param p PE_PROFESSION_GUNSMITH_B < 2 D _var n name_mem_npc_player = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _var n name_mem_npc_player = 1 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 80 4020 D _param p PE_PROFESSION_GUNSMITH_B < 2 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 80 6010 D _param p PE_PROFESSION_GUNSMITH_B < 2 #
 0 6020 @
-80 7000 None 0 #
+80 7000 main@dlg_Caps 0 #
 81 7010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckGunsmithB0 1 0 #
 82 7020 D _script dialog@d_CheckGunsmithB1 1 0 #
 0 7030 @
-81 8000 None 0 #
-83 8010 D _item p PID_BOTTLE_CAPS > 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
+81 8000 main@dlg_Caps 0 #
+83 8010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 8020 @
-82 9000 None 0 #
+82 9000 main@dlg_Caps 0 #
 84 9010 R _param p PE_PROFESSION_GUNSMITH_B = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 9020 @
-83 10000 None 0 #
+83 10000 main@dlg_Caps 0 #
 0 10010 @
-84 11000 None 0 #
+84 11000 main@dlg_Caps 0 #
 0 11010 &
 
 [engl]
@@ -68,11 +68,11 @@ lang=engl czec pols span russ
 {7010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {7020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {7030}{}{Erhm... Actually, nothing right now. I better be going.}
-{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {8010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
-{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of caps. If you get me $3000, I'll show you everything I know.}
-{9010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of @lex money@. If you get me $3000, I'll show you everything I know.}
+{9010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {9020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {10000}{}{Very well, it's a deal then. [Quincy starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {10010}{}{Thanks for everything Quincy, that's exectly what I wanted to know. See you!}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -104,11 +104,11 @@ lang=engl czec pols span russ
 {7010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {7020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {7030}{}{Erhm... Actually, nothing right now. I better be going.}
-{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {8010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
-{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of caps. If you get me $3000, I'll show you everything I know.}
-{9010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of @lex money@. If you get me $3000, I'll show you everything I know.}
+{9010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {9020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {10000}{}{Very well, it's a deal then. [Quincy starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {10010}{}{Thanks for everything Quincy, that's exectly what I wanted to know. See you!}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -140,11 +140,11 @@ lang=engl czec pols span russ
 {7010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {7020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {7030}{}{Erhm... Actually, nothing right now. I better be going.}
-{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {8010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
-{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of caps. If you get me $3000, I'll show you everything I know.}
-{9010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of @lex money@. If you get me $3000, I'll show you everything I know.}
+{9010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {9020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {10000}{}{Very well, it's a deal then. [Quincy starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {10010}{}{Thanks for everything Quincy, that's exectly what I wanted to know. See you!}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -176,11 +176,11 @@ lang=engl czec pols span russ
 {7010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {7020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {7030}{}{Erhm... Actually, nothing right now. I better be going.}
-{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {8010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
-{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of caps. If you get me $3000, I'll show you everything I know.}
-{9010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of @lex money@. If you get me $3000, I'll show you everything I know.}
+{9010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {9020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {10000}{}{Very well, it's a deal then. [Quincy starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {10010}{}{Thanks for everything Quincy, that's exectly what I wanted to know. See you!}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -212,11 +212,11 @@ lang=engl czec pols span russ
 {7010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {7020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {7030}{}{Erhm... Actually, nothing right now. I better be going.}
-{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{8000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. Also I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {8010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {8020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
-{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of caps. If you get me $3000, I'll show you everything I know.}
-{9010}{}{It wasn't easy to find that many caps ... It better be worth it! [Give him $3000]}
+{9000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, as you may already know, I'm in really bad need of @lex money@. If you get me $3000, I'll show you everything I know.}
+{9010}{}{It wasn't easy to find that many @lex money@ ... It better be worth it! [Give him $3000]}
 {9020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {10000}{}{Very well, it's a deal then. [Quincy starts explaining. In the end he gives you a magazine about weapons and ammunition.]}
 {10010}{}{Thanks for everything Quincy, that's exectly what I wanted to know. See you!}

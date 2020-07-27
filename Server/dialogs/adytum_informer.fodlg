@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 3 1010 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 4 2010 @
-4 3000 None 0 &
+4 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Guard}
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}

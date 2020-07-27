@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 #
 0 4020 &
 
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
