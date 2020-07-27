@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _var p q_redd_rats > 0 D _var p q_redd_rats < 3 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 D _var p q_redd_rats = 1 #
 6 3020 D _var p q_redd_rats = 2 D _item p PID_SCORPION_TAIL > 4 R _item p PID_SCORPION_TAIL - 5 #
 0 3030 R _var p q_redd_rats = 0 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 R _var p q_redd_rats = 2 #
 65507 4020 R _var p q_redd_rats = 5 #
 7 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 R _var p q_redd_rats = 3 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 R _var p q_redd_rats = 3 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 R _var p q_redd_rats = 2 #
 65507 7020 R _var p q_redd_rats = 5 #
 0 7030 &
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}

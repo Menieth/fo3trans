@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Guard}
@@ -23,25 +23,25 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'd better watch yourself here.@@Working in the power house is a good job.@@You have any business to do in here?@@Don't touch the machines!@@Talk to Thomas, not with me.@@Keep yourself out of trouble.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'd better watch yourself here.@@Working in the power house is a good job.@@You have any business to do in here?@@Don't touch the machines!@@Talk to Thomas, not with me.@@Keep yourself out of trouble.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'd better watch yourself here.@@Working in the power house is a good job.@@You have any business to do in here?@@Don't touch the machines!@@Talk to Thomas, not with me.@@Keep yourself out of trouble.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You'd better watch yourself here.@@Working in the power house is a good job.@@You have any business to do in here?@@Don't touch the machines!@@Talk to Thomas, not with me.@@Keep yourself out of trouble.}

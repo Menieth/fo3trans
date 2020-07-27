@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _script follower@d_IsOwner 1 1 R _script follower@r_SetFaction 0  #
 8 1020 @
 2 2000 follower@dlg_ShowLoyality 0 #
@@ -25,11 +25,11 @@ lang=engl czec pols span russ
 110 2130 R _script companion@to_faction 0  #
 0 2140 R _script follower@r_DropAllItems 0  R _script companion@to_faction 0  #
 0 2150 R _script companion@to_faction 0  @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 R _script follower@r_Distance 1 0 #
 2 3020 R _script follower@r_Distance 1 1 #
 2 3030 R _script follower@r_Distance 1 2 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 R _script follower@r_AttackPolicy 1 0 #
 2 4020 R _script follower@r_AttackPolicy 1 7 #
 2 4030 R _script follower@r_AttackPolicy 1 6 #
@@ -38,33 +38,33 @@ lang=engl czec pols span russ
 2 4060 D _param p ST_STRENGTH > 99 R _script follower@r_AttackPolicy 1 3 #
 2 4070 D _param p ST_STRENGTH > 99 R _script follower@r_AttackPolicy 1 4 #
 2 4080 D _param p ST_STRENGTH > 99 R _script follower@r_AttackPolicy 1 5 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 @
-8 8000 None 0 @
-10 9000 None 0 @
-11 10000 None 0 #
+7 7000 main@dlg_Caps 0 @
+8 8000 main@dlg_Caps 0 @
+10 9000 main@dlg_Caps 0 @
+11 10000 main@dlg_Caps 0 #
 2 10010 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 2 11010 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 2 12010 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 2 13010 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 2 14010 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 2 15010 @
-17 16000 None 0 @
+17 16000 main@dlg_Caps 0 @
 18 17000 follower@dlg_ShowMercPayCost 0 #
 17 17010 D _script follower@d_CanPayMerc 0  D _script follower@d_IsNotLoyalityMax 0  R _script follower@r_PayMerc 0  #
 2 17020 D _script follower@d_IsLoyalityMax 0  #
 2 17030 @
 23 18000 follower@dlg_GiveFollower 0 #
 0 18010 @
-100 19000 None 0 @
+100 19000 main@dlg_Caps 0 @
 110 20000 follower@dlg_ShowStats 0 #
 2 20010 &
 
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {100000001}{}{Time to kick some asses . . .@@Is it time again?@@It's time again!@@I am . . . so powerful . . .@@I feel stronger.@@Past experience has helped me to advance.@@I have reached another stage in my life.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -212,7 +212,7 @@ lang=engl czec pols span russ
 {20010}{}{[Done]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -280,7 +280,7 @@ lang=engl czec pols span russ
 {20010}{}{[Done]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -348,7 +348,7 @@ lang=engl czec pols span russ
 {20010}{}{[Done]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}

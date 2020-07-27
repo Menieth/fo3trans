@@ -6,23 +6,23 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 7 1010 D _script slaverun_dialog@d_Var1isSet 1 1 #
 8 1020 D _script slaverun_dialog@d_Var1isSet 1 2 #
 2 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 R _script slaverun_dialog@r_Var1Set 1 2 @
-6 6000 None 1 #
+6 6000 main@dlg_Caps 1 #
 0 6010 R _script slaverun_dialog@r_StartSlaverunCombat 1 0 #
 0 6020 @
-7 7000 None 0 @
-8 8000 None 0 #
+7 7000 main@dlg_Caps 0 @
+8 8000 main@dlg_Caps 0 #
 0 8010 R _script slaverun_dialog@r_StartSlaverunCombat 1 0 #
 0 8020 &
 
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {8020}{}{Uh, I'll just reload my shotgun...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {8020}{}{Uh, I'll just reload my shotgun...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {8020}{}{Uh, I'll just reload my shotgun...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {8020}{}{Uh, I'll just reload my shotgun...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}

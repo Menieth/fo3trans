@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 65506 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 65506 3020 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Forter}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}

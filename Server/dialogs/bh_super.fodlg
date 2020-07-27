@@ -6,42 +6,42 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 #
 4 1020 D _var n name_mem_npc_player = 0 #
 10 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var n name_mem_npc_player = 1 #
 6 4020 R _var n name_mem_npc_player = 1 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 R _var n acquaintance = 1 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 5 6010 #
 7 6020 R _var n acquaintance = 1 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _item p PID_URANIUM_ORE > 0 D _script dialog@d_havepropermoney 1 19 #
 0 7020 D _item p PID_BOTTLE_CAPS < 20 #
 0 7030 D _script dialog@d_havepropermoney 1 19 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 D _item p PID_URANIUM_ORE > 0 D _script dialog@d_havepropermoney 1 19 R _item p PID_URANIUM_ORE - 1 R _item p PID_REFINED_ORE + 1 R _script dialog@r_RemoveMoney 1 20 #
 9 8020 D _item p PID_URANIUM_ORE > 2 D _script dialog@d_havepropermoney 1 59 R _item p PID_URANIUM_ORE - 3 R _item p PID_REFINED_ORE + 3 R _script dialog@r_RemoveMoney 1 60 #
 9 8030 D _item p PID_URANIUM_ORE > 4 D _script dialog@d_havepropermoney 1 99 R _item p PID_URANIUM_ORE - 5 R _item p PID_REFINED_ORE + 5 R _script dialog@r_RemoveMoney 1 100 #
 9 8040 D _item p PID_URANIUM_ORE > 9 D _script dialog@d_havepropermoney 1 199 R _item p PID_URANIUM_ORE - 10 R _item p PID_REFINED_ORE + 10 R _script dialog@r_RemoveMoney 1 200 #
 9 8050 D _item p PID_URANIUM_ORE > 19 D _script dialog@d_havepropermoney 1 399 R _item p PID_URANIUM_ORE - 20 R _item p PID_REFINED_ORE + 20 R _script dialog@r_RemoveMoney 1 400 #
 0 8060 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 8 9010 D _item p PID_URANIUM_ORE > 0 D _script dialog@d_havepropermoney 1 19 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 7 10010 D _var n acquaintance = 0 R _var n acquaintance = 1 #
 8 10020 D _var n acquaintance = 1 D _item p PID_URANIUM_ORE > 0 #
 0 10030 &
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {10030}{}{Forget it, bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{default}
@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {10030}{}{Forget it, bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{default}
@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {10030}{}{Forget it, bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{default}
@@ -218,7 +218,7 @@ lang=engl czec pols span russ
 {10030}{}{Forget it, bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{default}

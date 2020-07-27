@@ -8,7 +8,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 90 1010 D _script mob_dynamic@d_DoesHeHaveReward 0  R _script mob_dynamic@r_GiveRewardToPlayer 0  #
 70 1020 D _param p ST_CHARISMA > 99 #
 40 1030 D _param p ST_INTELLECT < 4 D _var n name_mem_npc_player = 0 #
@@ -17,20 +17,20 @@ lang=engl czec pols span russ
 2 1060 D _script dialog@d_IsNotMember 0  D _var n name_mem_npc_player = 0 #
 16 1070 D _script dialog@d_IsNotMember 0  D _var n name_mem_npc_player = 1 #
 60 1080 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 7 2020 #
 9 2030 D _var n name_mem_npc_player = 1 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 7 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 8 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _script dialog@d_havepropermoney 1 499 D _param p ST_CHARISMA > 4 D _script dialog@d_IsNotMember 0  R _var n acquaintance = 1 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 500 #
 6 5020 D _script dialog@d_havepropermoney 1 2999 R _var n acquaintance = 1 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 500 #
 45 5030 D _item p PID_BOTTLE_CAPS < 3000 #
@@ -38,74 +38,74 @@ lang=engl czec pols span russ
 65507 5050 #
 16 5060 #
 0 5070 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 16 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 4 7010 #
 9 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 5 8010 #
 5 8020 #
 5 8030 #
 0 8040 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 #
 12 9030 #
 16 9040 #
 0 9050 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 12 10020 #
 16 10030 #
 0 10040 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 10 11010 #
 12 11020 #
 16 11030 #
 0 11040 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 10 12010 #
 11 12020 #
 16 12030 #
 0 12040 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 0 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 D _script dialog@d_havepropermoney 1 149 R _script dialog@r_ReceiveDayPass 0  R _script dialog@r_RemoveMoney 1 150 #
 0 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 3 16010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 7 16020 #
 9 16030 D _var n name_mem_npc_player = 1 #
 13 16040 D _var n acquaintance = 1 #
 0 16050 @
-40 17000 None 0 #
+40 17000 main@dlg_Caps 0 #
 41 17010 #
 0 17020 @
-41 18000 None 0 #
+41 18000 main@dlg_Caps 0 #
 42 18010 #
 43 18020 @
-42 19000 None 0 #
+42 19000 main@dlg_Caps 0 #
 43 19010 #
 43 19020 @
-43 20000 None 0 @
-44 21000 None 0 @
-45 22000 None 0 @
-50 23000 None 0 @
-60 24000 None 0 #
+43 20000 main@dlg_Caps 0 @
+44 21000 main@dlg_Caps 0 @
+45 22000 main@dlg_Caps 0 @
+50 23000 main@dlg_Caps 0 @
+60 24000 main@dlg_Caps 0 #
 61 24010 #
 0 24020 @
-61 25000 None 0 #
+61 25000 main@dlg_Caps 0 #
 0 25010 @
-70 26000 None 0 @
-90 27000 None 0 #
+70 26000 main@dlg_Caps 0 @
+90 27000 main@dlg_Caps 0 #
 0 27010 &
 
 [engl]
@@ -137,8 +137,8 @@ lang=engl czec pols span russ
 {4030}{}{I see. Thanks for the information.}
 {5000}{}{Those who wish to deal directly with the merchants or the representatives of Vault City require a Day Pass. Only those with Day Passes can enter the city, and there is a $500 fee for every Day Pass I issue.}
 {5010}{}{Excellent! You sound like just the person I was looking for. I need to speak with the representatives of Vault City. It's urgent.}
-{5020}{}{Well, I am here to trade. [You show him a bag full of caps]}
-{5030}{}{Well, I am here to trade. [You show him your bag with caps]}
+{5020}{}{Well, I am here to trade. [You show him a bag full of @lex money@]}
+{5030}{}{Well, I am here to trade. [You show him your bag with @lex money@]}
 {5040}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {5050}{}{You'll let me in, and you'll let me in now, or you're gonna be in a hole in the ground, old man.}
 {5060}{}{Right. Can I ask you some other questions?}
@@ -210,11 +210,11 @@ lang=engl czec pols span russ
 {25000}{}{This is the Customs Office for Vault City. We're responsible for keeping a log of all the goods that come to us via the caravans and supervising all transactions. All merchants must pass through customs before entering the city. Since you are a Citizen, these regulations do not concern you.}
 {25010}{}{I see. Thanks for the information.}
 {26000}{}{Someone get this thing out of my office.@@Gah! What the hell are you?@@Another victim of wasteland mutation.@@I wonder if you can even understand me.@@Skeeve! Get in here, take a look at this thing!@@I can't tell if you're a ghoul or a human.}
-{27000}{}{Thank you for helping us! I can't pay caps for it, but I will give you some stuff dropped by them.}
+{27000}{}{Thank you for helping us! I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {27010}{}{Hey thanks! See you later!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Give reward for town raiders}
 {1020}{}{ugly}
@@ -239,8 +239,8 @@ lang=engl czec pols span russ
 {4030}{}{I see. Thanks for the information.}
 {5000}{}{Those who wish to deal directly with the merchants or the representatives of Vault City require a Day Pass. Only those with Day Passes can enter the city, and there is a $500 fee for every Day Pass I issue.}
 {5010}{}{Excellent! You sound like just the person I was looking for. I need to speak with the representatives of Vault City. It's urgent.}
-{5020}{}{Well, I am here to trade. [You show him a bag full of caps]}
-{5030}{}{Well, I am here to trade. [You show him your bag with caps]}
+{5020}{}{Well, I am here to trade. [You show him a bag full of @lex money@]}
+{5030}{}{Well, I am here to trade. [You show him your bag with @lex money@]}
 {5040}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {5050}{}{You'll let me in, and you'll let me in now, or you're gonna be in a hole in the ground, old man.}
 {5060}{}{Right. Can I ask you some other questions?}
@@ -312,11 +312,11 @@ lang=engl czec pols span russ
 {25000}{}{This is the Customs Office for Vault City. We're responsible for keeping a log of all the goods that come to us via the caravans and supervising all transactions. All merchants must pass through customs before entering the city. Since you are a Citizen, these regulations do not concern you.}
 {25010}{}{I see. Thanks for the information.}
 {26000}{}{Someone get this thing out of my office.@@Gah! What the hell are you?@@Another victim of wasteland mutation.@@I wonder if you can even understand me.@@Skeeve! Get in here, take a look at this thing!@@I can't tell if you're a ghoul or a human.}
-{27000}{}{Thank you for helping us! I can't pay caps for it, but I will give you some stuff dropped by them.}
+{27000}{}{Thank you for helping us! I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {27010}{}{Hey thanks! See you later!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Give reward for town raiders}
 {1020}{}{ugly}
@@ -341,8 +341,8 @@ lang=engl czec pols span russ
 {4030}{}{I see. Thanks for the information.}
 {5000}{}{Those who wish to deal directly with the merchants or the representatives of Vault City require a Day Pass. Only those with Day Passes can enter the city, and there is a $500 fee for every Day Pass I issue.}
 {5010}{}{Excellent! You sound like just the person I was looking for. I need to speak with the representatives of Vault City. It's urgent.}
-{5020}{}{Well, I am here to trade. [You show him a bag full of caps]}
-{5030}{}{Well, I am here to trade. [You show him your bag with caps]}
+{5020}{}{Well, I am here to trade. [You show him a bag full of @lex money@]}
+{5030}{}{Well, I am here to trade. [You show him your bag with @lex money@]}
 {5040}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {5050}{}{You'll let me in, and you'll let me in now, or you're gonna be in a hole in the ground, old man.}
 {5060}{}{Right. Can I ask you some other questions?}
@@ -414,11 +414,11 @@ lang=engl czec pols span russ
 {25000}{}{This is the Customs Office for Vault City. We're responsible for keeping a log of all the goods that come to us via the caravans and supervising all transactions. All merchants must pass through customs before entering the city. Since you are a Citizen, these regulations do not concern you.}
 {25010}{}{I see. Thanks for the information.}
 {26000}{}{Someone get this thing out of my office.@@Gah! What the hell are you?@@Another victim of wasteland mutation.@@I wonder if you can even understand me.@@Skeeve! Get in here, take a look at this thing!@@I can't tell if you're a ghoul or a human.}
-{27000}{}{Thank you for helping us! I can't pay caps for it, but I will give you some stuff dropped by them.}
+{27000}{}{Thank you for helping us! I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {27010}{}{Hey thanks! See you later!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Give reward for town raiders}
 {1020}{}{ugly}
@@ -443,8 +443,8 @@ lang=engl czec pols span russ
 {4030}{}{I see. Thanks for the information.}
 {5000}{}{Those who wish to deal directly with the merchants or the representatives of Vault City require a Day Pass. Only those with Day Passes can enter the city, and there is a $500 fee for every Day Pass I issue.}
 {5010}{}{Excellent! You sound like just the person I was looking for. I need to speak with the representatives of Vault City. It's urgent.}
-{5020}{}{Well, I am here to trade. [You show him a bag full of caps]}
-{5030}{}{Well, I am here to trade. [You show him your bag with caps]}
+{5020}{}{Well, I am here to trade. [You show him a bag full of @lex money@]}
+{5030}{}{Well, I am here to trade. [You show him your bag with @lex money@]}
 {5040}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {5050}{}{You'll let me in, and you'll let me in now, or you're gonna be in a hole in the ground, old man.}
 {5060}{}{Right. Can I ask you some other questions?}
@@ -516,11 +516,11 @@ lang=engl czec pols span russ
 {25000}{}{This is the Customs Office for Vault City. We're responsible for keeping a log of all the goods that come to us via the caravans and supervising all transactions. All merchants must pass through customs before entering the city. Since you are a Citizen, these regulations do not concern you.}
 {25010}{}{I see. Thanks for the information.}
 {26000}{}{Someone get this thing out of my office.@@Gah! What the hell are you?@@Another victim of wasteland mutation.@@I wonder if you can even understand me.@@Skeeve! Get in here, take a look at this thing!@@I can't tell if you're a ghoul or a human.}
-{27000}{}{Thank you for helping us! I can't pay caps for it, but I will give you some stuff dropped by them.}
+{27000}{}{Thank you for helping us! I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {27010}{}{Hey thanks! See you later!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Give reward for town raiders}
 {1020}{}{ugly}
@@ -545,8 +545,8 @@ lang=engl czec pols span russ
 {4030}{}{I see. Thanks for the information.}
 {5000}{}{Those who wish to deal directly with the merchants or the representatives of Vault City require a Day Pass. Only those with Day Passes can enter the city, and there is a $500 fee for every Day Pass I issue.}
 {5010}{}{Excellent! You sound like just the person I was looking for. I need to speak with the representatives of Vault City. It's urgent.}
-{5020}{}{Well, I am here to trade. [You show him a bag full of caps]}
-{5030}{}{Well, I am here to trade. [You show him your bag with caps]}
+{5020}{}{Well, I am here to trade. [You show him a bag full of @lex money@]}
+{5030}{}{Well, I am here to trade. [You show him your bag with @lex money@]}
 {5040}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {5050}{}{You'll let me in, and you'll let me in now, or you're gonna be in a hole in the ground, old man.}
 {5060}{}{Right. Can I ask you some other questions?}
@@ -618,6 +618,6 @@ lang=engl czec pols span russ
 {25000}{}{This is the Customs Office for Vault City. We're responsible for keeping a log of all the goods that come to us via the caravans and supervising all transactions. All merchants must pass through customs before entering the city. Since you are a Citizen, these regulations do not concern you.}
 {25010}{}{I see. Thanks for the information.}
 {26000}{}{Someone get this thing out of my office.@@Gah! What the hell are you?@@Another victim of wasteland mutation.@@I wonder if you can even understand me.@@Skeeve! Get in here, take a look at this thing!@@I can't tell if you're a ghoul or a human.}
-{27000}{}{Thank you for helping us! I can't pay caps for it, but I will give you some stuff dropped by them.}
+{27000}{}{Thank you for helping us! I can't pay @lex money@ for it, but I will give you some stuff dropped by them.}
 {27010}{}{Hey thanks! See you later!}
 

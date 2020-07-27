@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 #
 3 2020 R _script dialog@r_OpenDoor 2 11 900 R _script dialog@r_OpenDoor 2 12 900 R _script dialog@r_OpenDoor 2 13 900 R _script dialog@r_OpenDoor 2 14 900 R _script dialog@r_PlaySound 1 28 R _script dialog@r_ChangeLightGroupParam 3 3 1 55 R _script dialog@r_OpenDoor 2 16 900 R _script dialog@r_OpenDoor 2 17 900 R _script dialog@r_OpenDoor 2 18 900 R _script dialog@r_CloseDoor 1 15 #
 4 2030 #
 0 2040 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 2 4010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading... Please insert the command ]}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {4010}{}{[ Back ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading... Please insert the command ]}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4010}{}{[ Back ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading... Please insert the command ]}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4010}{}{[ Back ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading... Please insert the command ]}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {4010}{}{[ Back ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading... Please insert the command ]}

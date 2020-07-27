@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 200 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 63 2010 D _var p q_cock_fuelcontroller = 1 D _item p PID_CAR_FUEL_CELL_CONTROLLER > 0 #
 63 2020 D _var p q_cock_fuelcontroller = 2 D _item p PID_CAR_FUEL_CELL_CONTROLLER > 0 #
 60 2030 D _var p q_cock_fuelcontroller = 0 #
@@ -16,34 +16,34 @@ lang=engl czec pols span russ
 30 2050 #
 66 2060 #
 66 2070 @
-5 3000 None 0 #
+5 3000 main@dlg_Caps 0 #
 0 3010 @
-6 4000 None 0 @
-7 5000 None 0 #
+6 4000 main@dlg_Caps 0 @
+7 5000 main@dlg_Caps 0 #
 0 5010 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 0 6010 @
 10 7000 car_seller@dlg_SellCar 0 #
 11 7010 R _script car_seller@r_SellCar 1 0 #
 0 7020 @
-11 8000 None 0 #
+11 8000 main@dlg_Caps 0 #
 0 8010 @
-30 9000 None 0 #
+30 9000 main@dlg_Caps 0 #
 2 9010 #
 65505 9020 @
-37 10000 None 0 #
+37 10000 main@dlg_Caps 0 #
 0 10010 @
-40 11000 None 0 @
-100 12000 None 0 @
-101 13000 None 0 @
-102 14000 None 0 @
-103 15000 None 0 @
-60 16000 None 0 #
+40 11000 main@dlg_Caps 0 @
+100 12000 main@dlg_Caps 0 @
+101 13000 main@dlg_Caps 0 @
+102 14000 main@dlg_Caps 0 @
+103 15000 main@dlg_Caps 0 @
+60 16000 main@dlg_Caps 0 #
 61 16010 @
-61 17000 None 0 #
+61 17000 main@dlg_Caps 0 #
 0 17010 R _var p q_cock_fuelcontroller = 1 #
 62 17020 @
-62 18000 None 0 #
+62 18000 main@dlg_Caps 0 #
 61 18010 #
 0 18020 @
 63 19000 car_seller@dlg_PrepareBuy 0 #
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 0 19020 D _script car_seller@d_CanNotAffordCockroach 0  #
 65 19030 #
 64 19040 @
-64 20000 None 0 #
+64 20000 main@dlg_Caps 0 #
 0 20010 @
 65 21000 car_seller@dlg_PrepareBuy 0 #
 65 21010 D _item p PID_CAR_FUEL_CELL_CONTROLLER > 0 D _script car_seller@d_CanAffordPoliceCar 0  R _script car_seller@r_BuyPoliceCar 1 0 R _item p PID_CAR_FUEL_CELL_CONTROLLER - 1 R _var p q_cock_fuelcontroller = 2 #
@@ -59,12 +59,12 @@ lang=engl czec pols span russ
 65 21030 D _script car_seller@d_CanAffordFiretruck 0  D _item p PID_CAR_FUEL_CELL_CONTROLLER > 0 R _var p q_cock_fuelcontroller = 2 R _script car_seller@r_BuyFiretruck 1 0 R _item p PID_CAR_FUEL_CELL_CONTROLLER - 1 #
 65 21040 D _script car_seller@d_CanAffordTruck 0  D _item p PID_CAR_FUEL_CELL_CONTROLLER > 0 R _item p PID_CAR_FUEL_CELL_CONTROLLER - 1 R _script car_seller@r_BuyTruck 1 0 R _var p q_cock_fuelcontroller = 2 #
 0 21050 @
-66 22000 None 0 #
+66 22000 main@dlg_Caps 0 #
 67 22010 D _script dialog@d_havepropermoney 1 9999999 R _script dialog@r_RemoveMoney 1 10000000 R _script map_verti@r_BuyVerti 0  #
 0 22020 #
 65505 22030 @
-67 23000 None 0 @
-200 24000 None 0 #
+67 23000 main@dlg_Caps 0 @
+200 24000 main@dlg_Caps 0 #
 0 24010 D _item p PID_NAVCOM_PARTS > 0 D _item p PID_VERTIBIRD_PLANS > 0 D _item p PID_EXCAVATOR_CHIP > 0 D _item p PID_MOTIVATOR > 0 D _item p PID_CAR_FUEL_INJECTION > 0 R _item p PID_CAR_FUEL_INJECTION - 1 R _item p PID_EXCAVATOR_CHIP - 1 R _item p PID_MOTIVATOR - 1 R _item p PID_NAVCOM_PARTS - 1 R _item p PID_VERTIBIRD_PLANS - 1 R _script map_verti@r_finishwork 0  #
 0 24020 &
 
@@ -82,8 +82,8 @@ lang=engl czec pols span russ
 {2050}{}{Do you offer any other services?}
 {2060}{}{do you have Vertibird for sell?}
 {2070}{}{I'll just be going now.}
-{3000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{3010}{}{What shit is that? Okay, I come back when I actually have the caps...}
+{3000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{3010}{}{What shit is that? Okay, I come back when I actually have the @lex money@...}
 {4000}{}{My garage is a little full right now, you know. Come back when we got a little more room. That would be pretty cool.}
 {5000}{}{(He throws you the keys) She's waiting for you in the garage. You want it repaired or modified, you come back to us, y'hear?}
 {5010}{}{Thanks, Todd. Bye.}
@@ -97,8 +97,8 @@ lang=engl czec pols span russ
 {9000}{}{Do I look like a repair station or what?}
 {9010}{}{Uhm. Yeah, somehow.}
 {9020}{}{I was just curious. I wanted something else.}
-{10000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{10010}{}{What shit is that. Okay, I come back when I actually have the caps...}
+{10000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{10010}{}{What shit is that. Okay, I come back when I actually have the @lex money@...}
 {11000}{}{You know. I think you don't have a car here. Now I can't buy it from you, yeah? See. Come back when you got a car.}
 {12000}{}{Hey, eh. Yeah. You know, I have stuff to do in the moment.}
 {13000}{}{You know. It would be cool if you could show me the car key. Let me see it. Yeah?}
@@ -112,20 +112,20 @@ lang=engl czec pols span russ
 {18000}{}{Well. You know, I can't build you a car then.}
 {18010}{}{I changed my mind again. What is it again, that you need to have?}
 {18020}{}{Bye.}
-{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ caps and I'll assemble the car.}
-{19010}{}{That's cool. Here are the caps and the fuel controller...}
-{19020}{}{I gotta get some more caps. I'll be back.}
+{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ @lex money@ and I'll assemble the car.}
+{19010}{}{That's cool. Here are the @lex money@ and the fuel controller...}
+{19020}{}{I gotta get some more @lex money@. I'll be back.}
 {19030}{}{Do you have anything special?}
 {19040}{}{Meh. No, maybe next time.}
 {20000}{}{Your choice, you know.}
 {20010}{}{Yes, I know. Bye.}
-{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ caps, Motorcycle for @lex motorcycle@ caps, Firetruck for @lex firetruck@ caps, Truck for @lex truck@ caps. Are you interested?}
+{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ @lex money@, Motorcycle for @lex motorcycle@ @lex money@, Firetruck for @lex firetruck@ @lex money@, Truck for @lex truck@ @lex money@. Are you interested?}
 {21010}{}{Yeah, fix Police Car for me.}
 {21020}{}{I'll take that Motorcycle.}
 {21030}{}{Firetruck suits me, get it running!}
 {21040}{}{A truck is all I need now.}
 {21050}{}{Nevermind.}
-{22000}{}{Yes but broken one, I'll sell it for 10 milions caps, my mechanic said that he would be able to repair it.}
+{22000}{}{Yes but broken one, I'll sell it for 10 milions @lex money@, my mechanic said that he would be able to repair it.}
 {22010}{}{Okay, I will take it}
 {22020}{}{10? milions? No thanks}
 {22030}{}{Let's talk about something else}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -146,8 +146,8 @@ lang=engl czec pols span russ
 {2050}{}{Do you offer any other services?}
 {2060}{}{do you have Vertibird for sell?}
 {2070}{}{I'll just be going now.}
-{3000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{3010}{}{What shit is that? Okay, I come back when I actually have the caps...}
+{3000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{3010}{}{What shit is that? Okay, I come back when I actually have the @lex money@...}
 {4000}{}{My garage is a little full right now, you know. Come back when we got a little more room. That would be pretty cool.}
 {5000}{}{(He throws you the keys) She's waiting for you in the garage. You want it repaired or modified, you come back to us, y'hear?}
 {5010}{}{Thanks, Todd. Bye.}
@@ -161,8 +161,8 @@ lang=engl czec pols span russ
 {9000}{}{Do I look like a repair station or what?}
 {9010}{}{Uhm. Yeah, somehow.}
 {9020}{}{I was just curious. I wanted something else.}
-{10000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{10010}{}{What shit is that. Okay, I come back when I actually have the caps...}
+{10000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{10010}{}{What shit is that. Okay, I come back when I actually have the @lex money@...}
 {11000}{}{You know. I think you don't have a car here. Now I can't buy it from you, yeah? See. Come back when you got a car.}
 {12000}{}{Hey, eh. Yeah. You know, I have stuff to do in the moment.}
 {13000}{}{You know. It would be cool if you could show me the car key. Let me see it. Yeah?}
@@ -176,20 +176,20 @@ lang=engl czec pols span russ
 {18000}{}{Well. You know, I can't build you a car then.}
 {18010}{}{I changed my mind again. What is it again, that you need to have?}
 {18020}{}{Bye.}
-{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ caps and I'll assemble the car.}
-{19010}{}{That's cool. Here are the caps and the fuel controller...}
-{19020}{}{I gotta get some more caps. I'll be back.}
+{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ @lex money@ and I'll assemble the car.}
+{19010}{}{That's cool. Here are the @lex money@ and the fuel controller...}
+{19020}{}{I gotta get some more @lex money@. I'll be back.}
 {19030}{}{Do you have anything special?}
 {19040}{}{Meh. No, maybe next time.}
 {20000}{}{Your choice, you know.}
 {20010}{}{Yes, I know. Bye.}
-{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ caps, Motorcycle for @lex motorcycle@ caps, Firetruck for @lex firetruck@ caps, Truck for @lex truck@ caps. Are you interested?}
+{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ @lex money@, Motorcycle for @lex motorcycle@ @lex money@, Firetruck for @lex firetruck@ @lex money@, Truck for @lex truck@ @lex money@. Are you interested?}
 {21010}{}{Yeah, fix Police Car for me.}
 {21020}{}{I'll take that Motorcycle.}
 {21030}{}{Firetruck suits me, get it running!}
 {21040}{}{A truck is all I need now.}
 {21050}{}{Nevermind.}
-{22000}{}{Yes but broken one, I'll sell it for 10 milions caps, my mechanic said that he would be able to repair it.}
+{22000}{}{Yes but broken one, I'll sell it for 10 milions @lex money@, my mechanic said that he would be able to repair it.}
 {22010}{}{Okay, I will take it}
 {22020}{}{10? milions? No thanks}
 {22030}{}{Let's talk about something else}
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -210,8 +210,8 @@ lang=engl czec pols span russ
 {2050}{}{Do you offer any other services?}
 {2060}{}{do you have Vertibird for sell?}
 {2070}{}{I'll just be going now.}
-{3000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{3010}{}{What shit is that? Okay, I come back when I actually have the caps...}
+{3000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{3010}{}{What shit is that? Okay, I come back when I actually have the @lex money@...}
 {4000}{}{My garage is a little full right now, you know. Come back when we got a little more room. That would be pretty cool.}
 {5000}{}{(He throws you the keys) She's waiting for you in the garage. You want it repaired or modified, you come back to us, y'hear?}
 {5010}{}{Thanks, Todd. Bye.}
@@ -225,8 +225,8 @@ lang=engl czec pols span russ
 {9000}{}{Do I look like a repair station or what?}
 {9010}{}{Uhm. Yeah, somehow.}
 {9020}{}{I was just curious. I wanted something else.}
-{10000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{10010}{}{What shit is that. Okay, I come back when I actually have the caps...}
+{10000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{10010}{}{What shit is that. Okay, I come back when I actually have the @lex money@...}
 {11000}{}{You know. I think you don't have a car here. Now I can't buy it from you, yeah? See. Come back when you got a car.}
 {12000}{}{Hey, eh. Yeah. You know, I have stuff to do in the moment.}
 {13000}{}{You know. It would be cool if you could show me the car key. Let me see it. Yeah?}
@@ -240,20 +240,20 @@ lang=engl czec pols span russ
 {18000}{}{Well. You know, I can't build you a car then.}
 {18010}{}{I changed my mind again. What is it again, that you need to have?}
 {18020}{}{Bye.}
-{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ caps and I'll assemble the car.}
-{19010}{}{That's cool. Here are the caps and the fuel controller...}
-{19020}{}{I gotta get some more caps. I'll be back.}
+{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ @lex money@ and I'll assemble the car.}
+{19010}{}{That's cool. Here are the @lex money@ and the fuel controller...}
+{19020}{}{I gotta get some more @lex money@. I'll be back.}
 {19030}{}{Do you have anything special?}
 {19040}{}{Meh. No, maybe next time.}
 {20000}{}{Your choice, you know.}
 {20010}{}{Yes, I know. Bye.}
-{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ caps, Motorcycle for @lex motorcycle@ caps, Firetruck for @lex firetruck@ caps, Truck for @lex truck@ caps. Are you interested?}
+{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ @lex money@, Motorcycle for @lex motorcycle@ @lex money@, Firetruck for @lex firetruck@ @lex money@, Truck for @lex truck@ @lex money@. Are you interested?}
 {21010}{}{Yeah, fix Police Car for me.}
 {21020}{}{I'll take that Motorcycle.}
 {21030}{}{Firetruck suits me, get it running!}
 {21040}{}{A truck is all I need now.}
 {21050}{}{Nevermind.}
-{22000}{}{Yes but broken one, I'll sell it for 10 milions caps, my mechanic said that he would be able to repair it.}
+{22000}{}{Yes but broken one, I'll sell it for 10 milions @lex money@, my mechanic said that he would be able to repair it.}
 {22010}{}{Okay, I will take it}
 {22020}{}{10? milions? No thanks}
 {22030}{}{Let's talk about something else}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -274,8 +274,8 @@ lang=engl czec pols span russ
 {2050}{}{Do you offer any other services?}
 {2060}{}{do you have Vertibird for sell?}
 {2070}{}{I'll just be going now.}
-{3000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{3010}{}{What shit is that? Okay, I come back when I actually have the caps...}
+{3000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{3010}{}{What shit is that? Okay, I come back when I actually have the @lex money@...}
 {4000}{}{My garage is a little full right now, you know. Come back when we got a little more room. That would be pretty cool.}
 {5000}{}{(He throws you the keys) She's waiting for you in the garage. You want it repaired or modified, you come back to us, y'hear?}
 {5010}{}{Thanks, Todd. Bye.}
@@ -289,8 +289,8 @@ lang=engl czec pols span russ
 {9000}{}{Do I look like a repair station or what?}
 {9010}{}{Uhm. Yeah, somehow.}
 {9020}{}{I was just curious. I wanted something else.}
-{10000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{10010}{}{What shit is that. Okay, I come back when I actually have the caps...}
+{10000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{10010}{}{What shit is that. Okay, I come back when I actually have the @lex money@...}
 {11000}{}{You know. I think you don't have a car here. Now I can't buy it from you, yeah? See. Come back when you got a car.}
 {12000}{}{Hey, eh. Yeah. You know, I have stuff to do in the moment.}
 {13000}{}{You know. It would be cool if you could show me the car key. Let me see it. Yeah?}
@@ -304,20 +304,20 @@ lang=engl czec pols span russ
 {18000}{}{Well. You know, I can't build you a car then.}
 {18010}{}{I changed my mind again. What is it again, that you need to have?}
 {18020}{}{Bye.}
-{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ caps and I'll assemble the car.}
-{19010}{}{That's cool. Here are the caps and the fuel controller...}
-{19020}{}{I gotta get some more caps. I'll be back.}
+{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ @lex money@ and I'll assemble the car.}
+{19010}{}{That's cool. Here are the @lex money@ and the fuel controller...}
+{19020}{}{I gotta get some more @lex money@. I'll be back.}
 {19030}{}{Do you have anything special?}
 {19040}{}{Meh. No, maybe next time.}
 {20000}{}{Your choice, you know.}
 {20010}{}{Yes, I know. Bye.}
-{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ caps, Motorcycle for @lex motorcycle@ caps, Firetruck for @lex firetruck@ caps, Truck for @lex truck@ caps. Are you interested?}
+{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ @lex money@, Motorcycle for @lex motorcycle@ @lex money@, Firetruck for @lex firetruck@ @lex money@, Truck for @lex truck@ @lex money@. Are you interested?}
 {21010}{}{Yeah, fix Police Car for me.}
 {21020}{}{I'll take that Motorcycle.}
 {21030}{}{Firetruck suits me, get it running!}
 {21040}{}{A truck is all I need now.}
 {21050}{}{Nevermind.}
-{22000}{}{Yes but broken one, I'll sell it for 10 milions caps, my mechanic said that he would be able to repair it.}
+{22000}{}{Yes but broken one, I'll sell it for 10 milions @lex money@, my mechanic said that he would be able to repair it.}
 {22010}{}{Okay, I will take it}
 {22020}{}{10? milions? No thanks}
 {22030}{}{Let's talk about something else}
@@ -327,7 +327,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -338,8 +338,8 @@ lang=engl czec pols span russ
 {2050}{}{Do you offer any other services?}
 {2060}{}{do you have Vertibird for sell?}
 {2070}{}{I'll just be going now.}
-{3000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{3010}{}{What shit is that? Okay, I come back when I actually have the caps...}
+{3000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{3010}{}{What shit is that? Okay, I come back when I actually have the @lex money@...}
 {4000}{}{My garage is a little full right now, you know. Come back when we got a little more room. That would be pretty cool.}
 {5000}{}{(He throws you the keys) She's waiting for you in the garage. You want it repaired or modified, you come back to us, y'hear?}
 {5010}{}{Thanks, Todd. Bye.}
@@ -353,8 +353,8 @@ lang=engl czec pols span russ
 {9000}{}{Do I look like a repair station or what?}
 {9010}{}{Uhm. Yeah, somehow.}
 {9020}{}{I was just curious. I wanted something else.}
-{10000}{}{Yeah. I mean. You don't have the caps. You know, I can't give it to you then. Sorry.}
-{10010}{}{What shit is that. Okay, I come back when I actually have the caps...}
+{10000}{}{Yeah. I mean. You don't have the @lex money@. You know, I can't give it to you then. Sorry.}
+{10010}{}{What shit is that. Okay, I come back when I actually have the @lex money@...}
 {11000}{}{You know. I think you don't have a car here. Now I can't buy it from you, yeah? See. Come back when you got a car.}
 {12000}{}{Hey, eh. Yeah. You know, I have stuff to do in the moment.}
 {13000}{}{You know. It would be cool if you could show me the car key. Let me see it. Yeah?}
@@ -368,20 +368,20 @@ lang=engl czec pols span russ
 {18000}{}{Well. You know, I can't build you a car then.}
 {18010}{}{I changed my mind again. What is it again, that you need to have?}
 {18020}{}{Bye.}
-{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ caps and I'll assemble the car.}
-{19010}{}{That's cool. Here are the caps and the fuel controller...}
-{19020}{}{I gotta get some more caps. I'll be back.}
+{19000}{}{You know, that's pretty cool! Give it to me. Also give me the money... That's @lex cockroach@ @lex money@ and I'll assemble the car.}
+{19010}{}{That's cool. Here are the @lex money@ and the fuel controller...}
+{19020}{}{I gotta get some more @lex money@. I'll be back.}
 {19030}{}{Do you have anything special?}
 {19040}{}{Meh. No, maybe next time.}
 {20000}{}{Your choice, you know.}
 {20010}{}{Yes, I know. Bye.}
-{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ caps, Motorcycle for @lex motorcycle@ caps, Firetruck for @lex firetruck@ caps, Truck for @lex truck@ caps. Are you interested?}
+{21000}{}{Hmm.. now that you are asking about it, I can put that fuel controller into one of these wrecks: Police car for @lex policecar@ @lex money@, Motorcycle for @lex motorcycle@ @lex money@, Firetruck for @lex firetruck@ @lex money@, Truck for @lex truck@ @lex money@. Are you interested?}
 {21010}{}{Yeah, fix Police Car for me.}
 {21020}{}{I'll take that Motorcycle.}
 {21030}{}{Firetruck suits me, get it running!}
 {21040}{}{A truck is all I need now.}
 {21050}{}{Nevermind.}
-{22000}{}{Yes but broken one, I'll sell it for 10 milions caps, my mechanic said that he would be able to repair it.}
+{22000}{}{Yes but broken one, I'll sell it for 10 milions @lex money@, my mechanic said that he would be able to repair it.}
 {22010}{}{Okay, I will take it}
 {22020}{}{10? milions? No thanks}
 {22030}{}{Let's talk about something else}

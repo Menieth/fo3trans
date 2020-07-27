@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 23 1010 D _var n faction_farmer = 2 #
 18 1020 D _var n faction_farmer = 1 #
 19 1030 D _var n faction_farmer = 0 D _script dialog@d_IsLeader 0  D _script all_farmer@d_FactionHasNoFarmer 0  #
@@ -16,7 +16,7 @@ lang=engl czec pols span russ
 2 1070 D _script dialog@d_IsMember 0  @
 2 2000 all_farmer@dlg_ShowFactionAndName 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 15 3010 #
 8 3020 #
 7 3030 #
@@ -24,44 +24,44 @@ lang=engl czec pols span russ
 4 3050 #
 5 3060 #
 0 3070 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 10 4010 D _item p PID_223_FMJ } 10 D _item p PID_HUNTING_RIFLE } 2 R _item p PID_223_FMJ - 10 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 11 5010 D _item p PID_ASSAULT_RIFLE } 2 D _item p PID_5MM_JHP } 30 R _item p PID_5MM_JHP - 30 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 14 6010 D _item p PID_WATERBAG_EMPTY } 3 R _item p PID_WATERBAG_EMPTY - 3 #
 0 6020 @
-15 7000 None 0 #
+15 7000 main@dlg_Caps 0 #
 16 7010 D _item p PID_SHARP_SPEAR } 1 R _item p PID_SHARP_SPEAR - 1 #
 0 7020 @
-7 8000 None 0 #
+7 8000 main@dlg_Caps 0 #
 13 8010 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 12 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 R _item p PID_GECKO_PELT + 10 R _script dialog@r_CommonTimeout 1 3 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 R _item p PID_GOLDEN_GECKO_PELT + 5 R _script dialog@r_CommonTimeout 1 4 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 R _item p PID_MUTATED_FRUIT + 20 R _script dialog@r_CommonTimeout 1 5 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 R _item p PID_FIBER + 22 R _script dialog@r_CommonTimeout 1 5 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 R _item p PID_FIREWOOD + 18 R _script dialog@r_CommonTimeout 1 3 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 0 15010 R _item p PID_SCORPION_TAIL + 5 R _script dialog@r_CommonTimeout 1 2 @
-17 16000 None 0 @
-18 17000 None 0 @
+17 16000 main@dlg_Caps 0 @
+18 17000 main@dlg_Caps 0 @
 19 18000 all_farmer@dlg_ShowFactionAndName 0 #
 21 18010 R _script dialog@r_StatRoll 2 Charisma 20 R _var n faction_farmer = 1 #
 21 18020 R _script dialog@r_SkillRoll 2 Speech 20 R _var n faction_farmer = 1 #
 0 18030 @
-20 19000 None 0 #
-22 19010 D _item p PID_BOTTLE_CAPS } 5000 R _script dialog@r_RemoveMoney 1 5000 R _var n faction_farmer = 2 R _script all_farmer@r_Hire 0  #
+20 19000 main@dlg_Caps 0 #
+22 19010 D _script dialog@d_havepropermoney 1 5000 R _script dialog@r_RemoveMoney 1 5000 R _var n faction_farmer = 2 R _script all_farmer@r_Hire 0  #
 0 19020 R _var n faction_farmer = 0 @
-21 20000 None 0 #
+21 20000 main@dlg_Caps 0 #
 0 20010 @
 22 21000 dialog@dlg_ShowFaction 0 #
 0 21010 @
@@ -123,8 +123,8 @@ lang=engl czec pols span russ
 {18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
 {18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
 {18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
-{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
-{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some @lex money@? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the @lex money@ to pay your debt, don't lose them.}
 {19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
 {20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
 {20010}{}{That's your loss then. I hope it rains soon. Goodbye}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {100000011}{}{I'd better get back to work.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -197,8 +197,8 @@ lang=engl czec pols span russ
 {18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
 {18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
 {18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
-{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
-{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some @lex money@? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the @lex money@ to pay your debt, don't lose them.}
 {19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
 {20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
 {20010}{}{That's your loss then. I hope it rains soon. Goodbye}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -260,8 +260,8 @@ lang=engl czec pols span russ
 {18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
 {18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
 {18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
-{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
-{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some @lex money@? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the @lex money@ to pay your debt, don't lose them.}
 {19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
 {20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
 {20010}{}{That's your loss then. I hope it rains soon. Goodbye}
@@ -270,7 +270,7 @@ lang=engl czec pols span russ
 {22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -323,8 +323,8 @@ lang=engl czec pols span russ
 {18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
 {18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
 {18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
-{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
-{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some @lex money@? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the @lex money@ to pay your debt, don't lose them.}
 {19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
 {20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
 {20010}{}{That's your loss then. I hope it rains soon. Goodbye}
@@ -333,7 +333,7 @@ lang=engl czec pols span russ
 {22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -386,8 +386,8 @@ lang=engl czec pols span russ
 {18010}{}{How about working for me and @lex faction@ then? We'll provide food, supplies, and shelter for your family. What do you say?}
 {18020}{}{Come work with @lex faction@, I can't promise rain but it's sure as hell better then sitting around here and slaving for a bunch of redneck assholes.}
 {18030}{}{Tough luck then. Well, I'll be seeing you. If I come across any tribals I'll aim for their feet and make em' dance for ya' so it rains!}
-{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some caps? I promise you won't be dissapointed.}
-{19010}{}{Alright, that's no problem. Here's the caps to pay your debt, don't lose them.}
+{19000}{}{Ya' really mean it? Well gee-wilikers, stranger! That sounds like a mighty fine deal right there. But I owe one of the townsfolk five grands and I won't be able to leave here until I pay my debts. Can you help me out with some @lex money@? I promise you won't be dissapointed.}
+{19010}{}{Alright, that's no problem. Here's the @lex money@ to pay your debt, don't lose them.}
 {19020}{}{I'll have to think about this one. Goodbye, I'll be back when I've made up my mind.}
 {20000}{}{Work wit' yous? No thank you, I'll take my chances with the rain here in town. The only reason I'm still here is that my family and I just can't afford to move outta' town. What with all the lack of rains and all's. Unless you got a gang of tribals that can dance to make it rain, then I ain't interested. Come back when your a bit more persuasive, or can make it rain!}
 {20010}{}{That's your loss then. I hope it rains soon. Goodbye}

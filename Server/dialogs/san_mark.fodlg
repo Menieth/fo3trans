@@ -6,60 +6,60 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 7 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 8 4010 #
 2 4020 #
 0 4030 @
-7 5000 None 0 #
+7 5000 main@dlg_Caps 0 #
 9 5010 #
 2 5020 #
 0 5030 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 2 6010 @
-9 7000 None 0 #
+9 7000 main@dlg_Caps 0 #
 10 7010 #
 2 7020 #
 0 7030 @
-10 8000 None 0 #
+10 8000 main@dlg_Caps 0 #
 11 8010 #
 2 8020 #
 0 8030 @
-11 9000 None 0 #
+11 9000 main@dlg_Caps 0 #
 12 9010 #
 13 9020 #
 14 9030 #
 2 9040 #
 0 9050 @
-12 10000 None 0 #
+12 10000 main@dlg_Caps 0 #
 15 10010 #
 8 10020 #
 2 10030 #
 0 10040 @
-13 11000 None 0 #
+13 11000 main@dlg_Caps 0 #
 12 11010 #
 14 11020 #
 2 11030 #
 0 11040 @
-14 12000 None 0 #
+14 12000 main@dlg_Caps 0 #
 12 12010 #
 13 12020 #
 2 12030 #
 0 12040 @
-15 13000 None 0 #
+15 13000 main@dlg_Caps 0 #
 16 13010 #
 2 13020 #
 0 13030 @
-16 14000 None 0 #
+16 14000 main@dlg_Caps 0 #
 12 14010 #
 13 14020 #
 14 14030 #
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {14050}{}{Thanks. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What can I do ya for, mama-jamma?}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {14050}{}{Thanks. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What can I do ya for, mama-jamma?}
@@ -255,7 +255,7 @@ lang=engl czec pols span russ
 {14050}{}{Thanks. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What can I do ya for, mama-jamma?}
@@ -317,7 +317,7 @@ lang=engl czec pols span russ
 {14050}{}{Thanks. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{What can I do ya for, mama-jamma?}

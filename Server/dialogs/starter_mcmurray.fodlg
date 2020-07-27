@@ -6,89 +6,89 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 3 1020 D _var p name_mem_npc_player = 1 #
 22 1030 D _param p ST_CHARISMA < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 2 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 9 3020 #
 13 3030 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 4 8010 #
 9 8020 #
 13 8030 #
 0 8040 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 8 10020 #
 0 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 0 11020 #
 0 11030 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 10 12010 #
 8 12020 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 21 13010 #
 14 13020 #
 19 13030 #
 15 13040 #
 20 13050 #
 0 13060 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 13 14010 #
 0 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 17 15020 #
 18 15030 #
 13 15040 #
 0 15050 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 #
 18 16020 #
 13 16030 #
 0 16040 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 16 17010 #
 18 17020 #
 13 17030 #
 0 17040 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 16 18010 #
 17 18020 #
 13 18030 #
 0 18040 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 13 19010 #
 0 19020 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 13 20010 #
 0 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 13 21010 #
 0 21020 @
-22 22000 None 0 &
+22 22000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{McMurray}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {4010}{}{People just start shooting out of nowhere?}
 {5000}{}{Damn right they do. If they started yelling, you'd know something was up. And if someone ain't involved, don't expect them to back you up. People don't have that kind of decency out there. They're vultures, all of 'em. They're just looking to pick your corpse clean if they can get to it first.}
 {5010}{}{So what should I do?}
-{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the caps. A lone target is easy prey, you'll learn that.}
+{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the @lex money@. A lone target is easy prey, you'll learn that.}
 {6010}{}{Is there anyone here who can teach me how to fight?}
 {7000}{}{Your best bet is to speak with Greg. He can give you a few pointers. I'd help you out, but I don't move so good these days.}
 {7010}{}{Thanks. There's something else I wanted to ask.}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -197,7 +197,7 @@ lang=engl czec pols span russ
 {4010}{}{People just start shooting out of nowhere?}
 {5000}{}{Damn right they do. If they started yelling, you'd know something was up. And if someone ain't involved, don't expect them to back you up. People don't have that kind of decency out there. They're vultures, all of 'em. They're just looking to pick your corpse clean if they can get to it first.}
 {5010}{}{So what should I do?}
-{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the caps. A lone target is easy prey, you'll learn that.}
+{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the @lex money@. A lone target is easy prey, you'll learn that.}
 {6010}{}{Is there anyone here who can teach me how to fight?}
 {7000}{}{Your best bet is to speak with Greg. He can give you a few pointers. I'd help you out, but I don't move so good these days.}
 {7010}{}{Thanks. There's something else I wanted to ask.}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -284,7 +284,7 @@ lang=engl czec pols span russ
 {4010}{}{People just start shooting out of nowhere?}
 {5000}{}{Damn right they do. If they started yelling, you'd know something was up. And if someone ain't involved, don't expect them to back you up. People don't have that kind of decency out there. They're vultures, all of 'em. They're just looking to pick your corpse clean if they can get to it first.}
 {5010}{}{So what should I do?}
-{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the caps. A lone target is easy prey, you'll learn that.}
+{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the @lex money@. A lone target is easy prey, you'll learn that.}
 {6010}{}{Is there anyone here who can teach me how to fight?}
 {7000}{}{Your best bet is to speak with Greg. He can give you a few pointers. I'd help you out, but I don't move so good these days.}
 {7010}{}{Thanks. There's something else I wanted to ask.}
@@ -354,7 +354,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -371,7 +371,7 @@ lang=engl czec pols span russ
 {4010}{}{People just start shooting out of nowhere?}
 {5000}{}{Damn right they do. If they started yelling, you'd know something was up. And if someone ain't involved, don't expect them to back you up. People don't have that kind of decency out there. They're vultures, all of 'em. They're just looking to pick your corpse clean if they can get to it first.}
 {5010}{}{So what should I do?}
-{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the caps. A lone target is easy prey, you'll learn that.}
+{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the @lex money@. A lone target is easy prey, you'll learn that.}
 {6010}{}{Is there anyone here who can teach me how to fight?}
 {7000}{}{Your best bet is to speak with Greg. He can give you a few pointers. I'd help you out, but I don't move so good these days.}
 {7010}{}{Thanks. There's something else I wanted to ask.}
@@ -441,7 +441,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -458,7 +458,7 @@ lang=engl czec pols span russ
 {4010}{}{People just start shooting out of nowhere?}
 {5000}{}{Damn right they do. If they started yelling, you'd know something was up. And if someone ain't involved, don't expect them to back you up. People don't have that kind of decency out there. They're vultures, all of 'em. They're just looking to pick your corpse clean if they can get to it first.}
 {5010}{}{So what should I do?}
-{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the caps. A lone target is easy prey, you'll learn that.}
+{6000}{}{Travel in a group. Maybe even hire some mercs as backup, if you've got the @lex money@. A lone target is easy prey, you'll learn that.}
 {6010}{}{Is there anyone here who can teach me how to fight?}
 {7000}{}{Your best bet is to speak with Greg. He can give you a few pointers. I'd help you out, but I don't move so good these days.}
 {7010}{}{Thanks. There's something else I wanted to ask.}

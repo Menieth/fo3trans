@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _script perks@d_PerkCheck 1 430 #
 3 1020 D _param p SK_OUTDOORSMAN > 70 #
 2 1030 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 R _param p PE_GECKO_SKINNING = 1 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 &
 
 [engl]
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}

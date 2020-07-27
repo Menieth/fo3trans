@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 1 &
+2 2000 main@dlg_Caps 1 &
 
 [engl]
 {100}{}{George Push Robobrain}
@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{I keep telling them, but they just misunderestimate me.@@Do you actually know that these were immigrants helping 13 colonies to transform them into the nation with more than 300 people?@@As long as I am in this status, my measure of success is victory... And success.@@I can for sure hold hands when there needs to be... Hold hands..@@I've been in the Bible every day since I've been in such status.@@Did they really want to build that wall?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I keep telling them, but they just misunderestimate me.@@Do you actually know that these were immigrants helping 13 colonies to transform them into the nation with more than 300 people?@@As long as I am in this status, my measure of success is victory... And success.@@I can for sure hold hands when there needs to be... Hold hands..@@I've been in the Bible every day since I've been in such status.@@Did they really want to build that wall?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I keep telling them, but they just misunderestimate me.@@Do you actually know that these were immigrants helping 13 colonies to transform them into the nation with more than 300 people?@@As long as I am in this status, my measure of success is victory... And success.@@I can for sure hold hands when there needs to be... Hold hands..@@I've been in the Bible every day since I've been in such status.@@Did they really want to build that wall?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I keep telling them, but they just misunderestimate me.@@Do you actually know that these were immigrants helping 13 colonies to transform them into the nation with more than 300 people?@@As long as I am in this status, my measure of success is victory... And success.@@I can for sure hold hands when there needs to be... Hold hands..@@I've been in the Bible every day since I've been in such status.@@Did they really want to build that wall?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I keep telling them, but they just misunderestimate me.@@Do you actually know that these were immigrants helping 13 colonies to transform them into the nation with more than 300 people?@@As long as I am in this status, my measure of success is victory... And success.@@I can for sure hold hands when there needs to be... Hold hands..@@I've been in the Bible every day since I've been in such status.@@Did they really want to build that wall?}

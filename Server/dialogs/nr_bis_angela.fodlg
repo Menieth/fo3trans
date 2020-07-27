@@ -6,33 +6,33 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _param p ST_INTELLECT < 4 #
 5 1020 D _param p ST_CHARISMA < 4 #
 2 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 #
 6 2030 D _var n acquaintance = 0 D _var p q_mordinos_joining_quest = 1 R _var n acquaintance = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 @
-5 5000 None 0 @
-6 6000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 9 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
 8 8000 Attack 0 #
 65507 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 R _var p q_mordinos_induction_doctor + 50 &
 
 [engl]
@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {12010}{}{No no no, thank you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ugly}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {12010}{}{No no no, thank you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ugly}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {12010}{}{No no no, thank you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ugly}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {12010}{}{No no no, thank you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ugly}

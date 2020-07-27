@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _param p REPUTATION_COMMUNISTS < -200 D or D _param p REPUTATION_VAGRANTS < -200 #
 3 1020 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 D _var p q_hub_wasteland_band = 3 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 R _var p q_hub_wasteland_band = 4 R _param p ST_EXPERIENCE + 250 R _param p REPUTATION_VAGRANTS + 250 R _param p REPUTATION_COMMUNISTS + 250 @
-6 6000 None 0 &
+6 6000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Charlie}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {6000}{}{No problem. Don't forget what I just told you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {6000}{}{No problem. Don't forget what I just told you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {6000}{}{No problem. Don't forget what I just told you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {6000}{}{No problem. Don't forget what I just told you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else}

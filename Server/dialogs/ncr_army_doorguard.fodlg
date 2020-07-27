@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 D _param p ST_INTELLECT > 3 #
 3 2020 D _param p ST_INTELLECT > 3 #
 0 2030 D _param p ST_INTELLECT < 4 #
 5 2040 D _param p ST_TEAM_ID = 5 R _script dialog@r_OpenDoor 1 801 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 D _param p ST_INTELLECT > 3 #
 4 3020 D _param p ST_INTELLECT > 3 R _script dialog@r_ShowLocation 1 10 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 D _param p ST_INTELLECT > 3 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Guard}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}

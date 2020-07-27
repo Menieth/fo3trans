@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 3 1020 D _param p ST_KARMA < -99 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Ghoul}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Don't hurt me.@@Leave me alone.@@No! No! No!@@I'll be going now.@@Leave our town!@@You god-rotting bastard.@@Have you no shame, no decency?@@I don’t want to talk to you.@@Go away.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Don't hurt me.@@Leave me alone.@@No! No! No!@@I'll be going now.@@Leave our town!@@You god-rotting bastard.@@Have you no shame, no decency?@@I don’t want to talk to you.@@Go away.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Don't hurt me.@@Leave me alone.@@No! No! No!@@I'll be going now.@@Leave our town!@@You god-rotting bastard.@@Have you no shame, no decency?@@I don’t want to talk to you.@@Go away.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Don't hurt me.@@Leave me alone.@@No! No! No!@@I'll be going now.@@Leave our town!@@You god-rotting bastard.@@Have you no shame, no decency?@@I don’t want to talk to you.@@Go away.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}

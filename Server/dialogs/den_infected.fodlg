@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 65507 3010 #
 65507 3020 &
 
@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}

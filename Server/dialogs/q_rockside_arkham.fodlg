@@ -6,38 +6,38 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 6 2030 D _var p q_rockside_arkham = 0 D _item p PID_BEER } 1 R _var p q_rockside_arkham = 1 R _item p PID_BEER - 1 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 4 3020 #
 2 3030 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 @
-6 6000 None 0 #
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 D _item p PID_BEER } 1 R _item p PID_BEER - 1 #
 11 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 D _item p PID_BEER } 1 R _item p PID_BEER - 1 #
 12 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 D _var p q_rockside_arkham = 1 R _var p q_rockside_arkham = 2 R _param p ST_EXPERIENCE + 250 R _param p SK_SPEECH + 20 #
 0 9020 D _var p q_rockside_arkham = 1 R _var p q_rockside_arkham = 2 R _param p ST_EXPERIENCE + 250 R _param p SK_SPEECH + 20 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 #
 0 10020 #
 0 10030 @
-11 11000 None 0 @
-12 12000 None 0 &
+11 11000 main@dlg_Caps 0 @
+12 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Arkham Roger}
@@ -61,10 +61,10 @@ lang=engl czec pols span russ
 {6000}{}{Fine... [ He drinks the beer ]. Hey... A fine shit here. You are a very kind fellow.}
 {6010}{}{Thanks. So who are you once?}
 {7000}{}{I am... Hmh. Oh well, my real name is Fernand Show. I am a very nice pilot. First I class they say.}
-{7010}{}{A pilot you say... Here, take another bottle.}
+{7010}{}{A pilot you say... Here, take another @lex prefix@.}
 {7020}{}{A pilot?}
 {8000}{}{Yeah, my vertibird... My baby, she has a very interesting name. "Battle Gretha". A pity that she has ended her life in such an infamouse way.}
-{8010}{}{So... what happened? Here is another bottle for you...}
+{8010}{}{So... what happened? Here is another @lex prefix@ for you...}
 {8020}{}{What happened?}
 {9000}{}{It was... horrible. HQ sent us to clearify some village near Navarro. Those were simple civils. Gosh... I... We... [ He starts crying ]. If I knew, if I only knew... They killed them, even children. I still remember that poor girl... Poor girl runing to the Gretha and her head. My God... I am so sorry, I am so fucking sorry...}
 {9010}{}{It is fine.}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {12000}{}{No... I... I can't.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello. Can I help you?}
@@ -96,10 +96,10 @@ lang=engl czec pols span russ
 {6000}{}{Fine... [ He drinks the beer ]. Hey... A fine shit here. You are a very kind fellow.}
 {6010}{}{Thanks. So who are you once?}
 {7000}{}{I am... Hmh. Oh well, my real name is Fernand Show. I am a very nice pilot. First I class they say.}
-{7010}{}{A pilot you say... Here, take another bottle.}
+{7010}{}{A pilot you say... Here, take another @lex prefix@.}
 {7020}{}{A pilot?}
 {8000}{}{Yeah, my vertibird... My baby, she has a very interesting name. "Battle Gretha". A pity that she has ended her life in such an infamouse way.}
-{8010}{}{So... what happened? Here is another bottle for you...}
+{8010}{}{So... what happened? Here is another @lex prefix@ for you...}
 {8020}{}{What happened?}
 {9000}{}{It was... horrible. HQ sent us to clearify some village near Navarro. Those were simple civils. Gosh... I... We... [ He starts crying ]. If I knew, if I only knew... They killed them, even children. I still remember that poor girl... Poor girl runing to the Gretha and her head. My God... I am so sorry, I am so fucking sorry...}
 {9010}{}{It is fine.}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {12000}{}{No... I... I can't.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello. Can I help you?}
@@ -131,10 +131,10 @@ lang=engl czec pols span russ
 {6000}{}{Fine... [ He drinks the beer ]. Hey... A fine shit here. You are a very kind fellow.}
 {6010}{}{Thanks. So who are you once?}
 {7000}{}{I am... Hmh. Oh well, my real name is Fernand Show. I am a very nice pilot. First I class they say.}
-{7010}{}{A pilot you say... Here, take another bottle.}
+{7010}{}{A pilot you say... Here, take another @lex prefix@.}
 {7020}{}{A pilot?}
 {8000}{}{Yeah, my vertibird... My baby, she has a very interesting name. "Battle Gretha". A pity that she has ended her life in such an infamouse way.}
-{8010}{}{So... what happened? Here is another bottle for you...}
+{8010}{}{So... what happened? Here is another @lex prefix@ for you...}
 {8020}{}{What happened?}
 {9000}{}{It was... horrible. HQ sent us to clearify some village near Navarro. Those were simple civils. Gosh... I... We... [ He starts crying ]. If I knew, if I only knew... They killed them, even children. I still remember that poor girl... Poor girl runing to the Gretha and her head. My God... I am so sorry, I am so fucking sorry...}
 {9010}{}{It is fine.}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {12000}{}{No... I... I can't.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello. Can I help you?}
@@ -166,10 +166,10 @@ lang=engl czec pols span russ
 {6000}{}{Fine... [ He drinks the beer ]. Hey... A fine shit here. You are a very kind fellow.}
 {6010}{}{Thanks. So who are you once?}
 {7000}{}{I am... Hmh. Oh well, my real name is Fernand Show. I am a very nice pilot. First I class they say.}
-{7010}{}{A pilot you say... Here, take another bottle.}
+{7010}{}{A pilot you say... Here, take another @lex prefix@.}
 {7020}{}{A pilot?}
 {8000}{}{Yeah, my vertibird... My baby, she has a very interesting name. "Battle Gretha". A pity that she has ended her life in such an infamouse way.}
-{8010}{}{So... what happened? Here is another bottle for you...}
+{8010}{}{So... what happened? Here is another @lex prefix@ for you...}
 {8020}{}{What happened?}
 {9000}{}{It was... horrible. HQ sent us to clearify some village near Navarro. Those were simple civils. Gosh... I... We... [ He starts crying ]. If I knew, if I only knew... They killed them, even children. I still remember that poor girl... Poor girl runing to the Gretha and her head. My God... I am so sorry, I am so fucking sorry...}
 {9010}{}{It is fine.}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {12000}{}{No... I... I can't.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello. Can I help you?}
@@ -201,10 +201,10 @@ lang=engl czec pols span russ
 {6000}{}{Fine... [ He drinks the beer ]. Hey... A fine shit here. You are a very kind fellow.}
 {6010}{}{Thanks. So who are you once?}
 {7000}{}{I am... Hmh. Oh well, my real name is Fernand Show. I am a very nice pilot. First I class they say.}
-{7010}{}{A pilot you say... Here, take another bottle.}
+{7010}{}{A pilot you say... Here, take another @lex prefix@.}
 {7020}{}{A pilot?}
 {8000}{}{Yeah, my vertibird... My baby, she has a very interesting name. "Battle Gretha". A pity that she has ended her life in such an infamouse way.}
-{8010}{}{So... what happened? Here is another bottle for you...}
+{8010}{}{So... what happened? Here is another @lex prefix@ for you...}
 {8020}{}{What happened?}
 {9000}{}{It was... horrible. HQ sent us to clearify some village near Navarro. Those were simple civils. Gosh... I... We... [ He starts crying ]. If I knew, if I only knew... They killed them, even children. I still remember that poor girl... Poor girl runing to the Gretha and her head. My God... I am so sorry, I am so fucking sorry...}
 {9010}{}{It is fine.}

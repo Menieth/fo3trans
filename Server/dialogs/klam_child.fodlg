@@ -6,24 +6,24 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 5 1010 D _script dialog@d_IsWearingScaryHelmet 0  R _script dialog@r_RunAway 2 15 30 #
 500 1020 D _script perks@d_PerkCheck 1 397 #
 2 1030 D _param p KARMA_SLAVER > 0 #
 3 1040 D _param p ST_KARMA > -1 #
 2 1050 D _param p ST_KARMA < 0 #
 4 1060 D _param p ST_KARMA > 50 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 @
-5 5000 None 0 @
-500 6000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 @
+500 6000 main@dlg_Caps 0 #
 501 6010 R _param p PE_LIGHT_STEP = 1 #
 502 6020 R _param p PE_LIGHT_STEP = 1 #
 0 6030 @
-501 7000 None 0 #
+501 7000 main@dlg_Caps 0 #
 0 7010 R _script dialog@r_RunAway 0  @
-502 8000 None 0 #
+502 8000 main@dlg_Caps 0 #
 0 8010 &
 
 [engl]
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}

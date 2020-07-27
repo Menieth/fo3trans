@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p ST_INTELLECT > 3 #
 10 1020 D _param p ST_INTELLECT < 4 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 500 2010 #
 0 2020 @
-10 3000 None 0 @
-500 4000 None 0 #
+10 3000 main@dlg_Caps 0 @
+500 4000 main@dlg_Caps 0 #
 501 4010 D _script perks@d_PerkCheck 1 406 R _param p PE_THIEF = 1 #
 501 4020 D _script perks@d_PerkCheck 1 334 R _param p PE_MASTER_THIEF = 1 #
 501 4030 D _script perks@d_PerkCheck 1 338 R _param p PE_PICKPOCKET = 1 #
 0 4040 @
-501 5000 None 0 #
+501 5000 main@dlg_Caps 0 #
 0 5010 &
 
 [engl]
@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}

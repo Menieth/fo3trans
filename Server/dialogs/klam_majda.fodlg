@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 18 1010 D _param p KARMA_SLAVER > 0 #
 20 1020 D _param p ST_CHARISMA > 99 #
 5 1030 D _param p ST_INTELLECT < 4 #
 2 1040 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 3 1050 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 #
 8 2020 #
 9 2030 #
 15 2040 #
 19 2050 D _script dialog@d_QuestTimeoutReady 0  D _var p q_klam_maida_pelts = 0 #
 0 2060 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 6 3010 #
 8 3020 #
 9 3030 #
@@ -28,72 +28,72 @@ lang=engl czec pols span russ
 21 3060 D _item p PID_GECKO_PELT > 3 D _var p q_klam_maida_pelts = 1 R _param p ST_EXPERIENCE + 100 R _script dialog@r_QuestTimeout 1 72 R _item p PID_GECKO_PELT - 4 #
 22 3070 D _item p PID_GOLDEN_GECKO_PELT > 3 D _var p q_klam_maida_pelts = 1 R _param p ST_EXPERIENCE + 200 R _script dialog@r_QuestTimeout 1 72 R _item p PID_GOLDEN_GECKO_PELT - 4 #
 0 3080 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 4 5020 #
 4 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 14 6010 #
 10 6020 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 14 7010 #
 10 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 7 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 65506 9010 #
 3 9020 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 7 10020 #
 0 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 7 11010 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 7 13010 #
 0 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 #
 7 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 0 15010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
 17 15020 D _item p PID_BOTTLE_CAPS < 5 #
 16 15030 #
 6 15040 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 6 16010 D _script dialog@d_havepropermoney 1 29 R _var p klam_bakner_beer = 1 R _script dialog@r_RemoveMoney 1 30 #
 17 16020 D _item p PID_BOTTLE_CAPS < 30 #
 15 16030 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 6 17010 #
 0 17020 @
-18 18000 None 0 @
-19 19000 None 0 #
+18 18000 main@dlg_Caps 0 @
+19 19000 main@dlg_Caps 0 #
 0 19010 R _var p q_klam_maida_pelts = 1 #
 0 19020 @
-20 20000 None 0 @
-21 21000 None 0 #
+20 20000 main@dlg_Caps 0 @
+21 21000 main@dlg_Caps 0 #
 23 21010 D _item p PID_LEATHER_JACKET < 1 R _item p PID_LEATHER_JACKET + 1 #
 23 21020 D _item p PID_10MM_PISTOL < 1 R _item p PID_10MM_PISTOL + 1 R _item p PID_10MM_JHP + 25 #
 23 21030 D _item p PID_BOTTLE_CAPS < 1500 R _script dialog@r_AddMoney 1 100 #
 23 21040 D _item p PID_10MM_JHP < 100 R _item p PID_10MM_JHP + 20 #
 23 21050 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_AddMoney 1 50 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 D _item p PID_LEATHER_ARMOR < 1 R _item p PID_LEATHER_ARMOR + 1 #
 23 22020 D _item p PID_SAWED_OFF_SHOTGUN < 1 R _item p PID_SAWED_OFF_SHOTGUN + 1 R _item p PID_SHOTGUN_SHELLS + 20 #
 23 22030 D _item p PID_SHOTGUN_SHELLS < 100 R _item p PID_SHOTGUN_SHELLS + 20 #
 23 22040 D _item p PID_BOTTLE_CAPS < 1500 R _script dialog@r_AddMoney 1 200 #
 23 22050 D _script dialog@d_havepropermoney 1 1499 R _script dialog@r_AddMoney 1 80 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 0 23010 &
 
 [engl]
@@ -180,20 +180,20 @@ lang=engl czec pols span russ
 {21000}{}{Four pelts, huh? Alright, let me see what Mr. Buckner has left over for ya... [She hauls an old sack over to you] Take yer pick.}
 {21010}{}{I guess I'll take the leather jacket. The smell's gonna fade, right?}
 {21020}{}{I could use the 10mm pistol. Damn, this thing looks old.}
-{21030}{}{I'll just take this bag of caps. Looks like there's about a hundred in here.}
+{21030}{}{I'll just take this bag of @lex money@. Looks like there's about a hundred in here.}
 {21040}{}{Twenty 10mm rounds. They'll do.}
-{21050}{}{Wow. Fifty caps. Like I wasn't already rich enough.}
+{21050}{}{Wow. Fifty @lex money@. Like I wasn't already rich enough.}
 {22000}{}{Hoo-wee! Must've been tough wrasslin' up them gold ones, they sure are ornery. Alright, we found some of Dad's better stuff out back. [She hauls out an old sack] Anythin' take your eye?}
 {22010}{}{I could probably use the leather armour. Goddamn, this stinks.}
 {22020}{}{I'll take that shotgun off your hands.}
 {22030}{}{How about some of these shotgun shells? There's only twenty, you'll barely notice they're gone.}
-{22040}{}{Hey, this bag's got two hundred caps in. This'll do.}
-{22050}{}{Eighty caps. Now I can retire. Thank you.}
+{22040}{}{Hey, this bag's got two hundred @lex money@ in. This'll do.}
+{22050}{}{Eighty @lex money@. Now I can retire. Thank you.}
 {23000}{}{(She smiles.) Pleasure doin' business, stranger. Make sure you come back if you get another batch of 'em. Remember, I won't take less than four.}
 {23010}{}{Will do, thanks. See you around.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -272,20 +272,20 @@ lang=engl czec pols span russ
 {21000}{}{Four pelts, huh? Alright, let me see what Mr. Buckner has left over for ya... [She hauls an old sack over to you] Take yer pick.}
 {21010}{}{I guess I'll take the leather jacket. The smell's gonna fade, right?}
 {21020}{}{I could use the 10mm pistol. Damn, this thing looks old.}
-{21030}{}{I'll just take this bag of caps. Looks like there's about a hundred in here.}
+{21030}{}{I'll just take this bag of @lex money@. Looks like there's about a hundred in here.}
 {21040}{}{Twenty 10mm rounds. They'll do.}
-{21050}{}{Wow. Fifty caps. Like I wasn't already rich enough.}
+{21050}{}{Wow. Fifty @lex money@. Like I wasn't already rich enough.}
 {22000}{}{Hoo-wee! Must've been tough wrasslin' up them gold ones, they sure are ornery. Alright, we found some of Dad's better stuff out back. [She hauls out an old sack] Anythin' take your eye?}
 {22010}{}{I could probably use the leather armour. Goddamn, this stinks.}
 {22020}{}{I'll take that shotgun off your hands.}
 {22030}{}{How about some of these shotgun shells? There's only twenty, you'll barely notice they're gone.}
-{22040}{}{Hey, this bag's got two hundred caps in. This'll do.}
-{22050}{}{Eighty caps. Now I can retire. Thank you.}
+{22040}{}{Hey, this bag's got two hundred @lex money@ in. This'll do.}
+{22050}{}{Eighty @lex money@. Now I can retire. Thank you.}
 {23000}{}{(She smiles.) Pleasure doin' business, stranger. Make sure you come back if you get another batch of 'em. Remember, I won't take less than four.}
 {23010}{}{Will do, thanks. See you around.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -364,20 +364,20 @@ lang=engl czec pols span russ
 {21000}{}{Four pelts, huh? Alright, let me see what Mr. Buckner has left over for ya... [She hauls an old sack over to you] Take yer pick.}
 {21010}{}{I guess I'll take the leather jacket. The smell's gonna fade, right?}
 {21020}{}{I could use the 10mm pistol. Damn, this thing looks old.}
-{21030}{}{I'll just take this bag of caps. Looks like there's about a hundred in here.}
+{21030}{}{I'll just take this bag of @lex money@. Looks like there's about a hundred in here.}
 {21040}{}{Twenty 10mm rounds. They'll do.}
-{21050}{}{Wow. Fifty caps. Like I wasn't already rich enough.}
+{21050}{}{Wow. Fifty @lex money@. Like I wasn't already rich enough.}
 {22000}{}{Hoo-wee! Must've been tough wrasslin' up them gold ones, they sure are ornery. Alright, we found some of Dad's better stuff out back. [She hauls out an old sack] Anythin' take your eye?}
 {22010}{}{I could probably use the leather armour. Goddamn, this stinks.}
 {22020}{}{I'll take that shotgun off your hands.}
 {22030}{}{How about some of these shotgun shells? There's only twenty, you'll barely notice they're gone.}
-{22040}{}{Hey, this bag's got two hundred caps in. This'll do.}
-{22050}{}{Eighty caps. Now I can retire. Thank you.}
+{22040}{}{Hey, this bag's got two hundred @lex money@ in. This'll do.}
+{22050}{}{Eighty @lex money@. Now I can retire. Thank you.}
 {23000}{}{(She smiles.) Pleasure doin' business, stranger. Make sure you come back if you get another batch of 'em. Remember, I won't take less than four.}
 {23010}{}{Will do, thanks. See you around.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -456,20 +456,20 @@ lang=engl czec pols span russ
 {21000}{}{Four pelts, huh? Alright, let me see what Mr. Buckner has left over for ya... [She hauls an old sack over to you] Take yer pick.}
 {21010}{}{I guess I'll take the leather jacket. The smell's gonna fade, right?}
 {21020}{}{I could use the 10mm pistol. Damn, this thing looks old.}
-{21030}{}{I'll just take this bag of caps. Looks like there's about a hundred in here.}
+{21030}{}{I'll just take this bag of @lex money@. Looks like there's about a hundred in here.}
 {21040}{}{Twenty 10mm rounds. They'll do.}
-{21050}{}{Wow. Fifty caps. Like I wasn't already rich enough.}
+{21050}{}{Wow. Fifty @lex money@. Like I wasn't already rich enough.}
 {22000}{}{Hoo-wee! Must've been tough wrasslin' up them gold ones, they sure are ornery. Alright, we found some of Dad's better stuff out back. [She hauls out an old sack] Anythin' take your eye?}
 {22010}{}{I could probably use the leather armour. Goddamn, this stinks.}
 {22020}{}{I'll take that shotgun off your hands.}
 {22030}{}{How about some of these shotgun shells? There's only twenty, you'll barely notice they're gone.}
-{22040}{}{Hey, this bag's got two hundred caps in. This'll do.}
-{22050}{}{Eighty caps. Now I can retire. Thank you.}
+{22040}{}{Hey, this bag's got two hundred @lex money@ in. This'll do.}
+{22050}{}{Eighty @lex money@. Now I can retire. Thank you.}
 {23000}{}{(She smiles.) Pleasure doin' business, stranger. Make sure you come back if you get another batch of 'em. Remember, I won't take less than four.}
 {23010}{}{Will do, thanks. See you around.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -548,15 +548,15 @@ lang=engl czec pols span russ
 {21000}{}{Four pelts, huh? Alright, let me see what Mr. Buckner has left over for ya... [She hauls an old sack over to you] Take yer pick.}
 {21010}{}{I guess I'll take the leather jacket. The smell's gonna fade, right?}
 {21020}{}{I could use the 10mm pistol. Damn, this thing looks old.}
-{21030}{}{I'll just take this bag of caps. Looks like there's about a hundred in here.}
+{21030}{}{I'll just take this bag of @lex money@. Looks like there's about a hundred in here.}
 {21040}{}{Twenty 10mm rounds. They'll do.}
-{21050}{}{Wow. Fifty caps. Like I wasn't already rich enough.}
+{21050}{}{Wow. Fifty @lex money@. Like I wasn't already rich enough.}
 {22000}{}{Hoo-wee! Must've been tough wrasslin' up them gold ones, they sure are ornery. Alright, we found some of Dad's better stuff out back. [She hauls out an old sack] Anythin' take your eye?}
 {22010}{}{I could probably use the leather armour. Goddamn, this stinks.}
 {22020}{}{I'll take that shotgun off your hands.}
 {22030}{}{How about some of these shotgun shells? There's only twenty, you'll barely notice they're gone.}
-{22040}{}{Hey, this bag's got two hundred caps in. This'll do.}
-{22050}{}{Eighty caps. Now I can retire. Thank you.}
+{22040}{}{Hey, this bag's got two hundred @lex money@ in. This'll do.}
+{22050}{}{Eighty @lex money@. Now I can retire. Thank you.}
 {23000}{}{(She smiles.) Pleasure doin' business, stranger. Make sure you come back if you get another batch of 'em. Remember, I won't take less than four.}
 {23010}{}{Will do, thanks. See you around.}
 

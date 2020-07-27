@@ -6,57 +6,57 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 #
 3 1020 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 14 1030 D _var p name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 4 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 7 3020 #
 8 3030 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 9 5010 #
 10 5020 #
 16 5030 #
 0 5040 #
 0 5050 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 9 6010 #
 10 6020 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 10 7010 #
 11 7020 #
 12 7030 D _param p ST_INTELLECT > 6 D _param p SK_SPEECH > 70 D _var p loyality = 0 R _param p ST_EXPERIENCE + 150 R _var p loyality + 10 #
 0 7040 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 17 8010 #
 11 8020 #
 0 8030 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 11 9010 #
 17 9020 #
 0 9030 @
-11 10000 None 0 @
-12 11000 None 0 #
+11 10000 main@dlg_Caps 0 @
+12 11000 main@dlg_Caps 0 #
 13 11010 #
 0 11020 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 0 12010 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 16 13010 #
 8 13020 #
 17 13030 #
 7 13040 #
 0 13050 @
-16 14000 None 0 #
+16 14000 main@dlg_Caps 0 #
 14 14010 @
-17 15000 None 0 #
+17 15000 main@dlg_Caps 0 #
 11 15010 #
 14 15020 #
 14 15030 #
@@ -124,7 +124,7 @@ lang=engl czec pols span russ
 {15040}{}{Thanks. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {15040}{}{Thanks. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -240,7 +240,7 @@ lang=engl czec pols span russ
 {15040}{}{Thanks. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -298,7 +298,7 @@ lang=engl czec pols span russ
 {15040}{}{Thanks. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}

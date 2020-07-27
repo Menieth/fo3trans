@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 3 1020 D _var n name_mem_npc_player = 1 #
 2 1030 @
@@ -17,7 +17,7 @@ lang=engl czec pols span russ
 0 2040 #
 2 2050 D _script dialog@d_IsGangMember 0  D _script town@d_IsNotControllingTown 1 1 D _script town@d_CanTakeOver 0  R _script town@r_ClaimControl 1 0 #
 50 2060 D _script town@d_CanRecruitMilitia 0  @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 #
 0 3020 @
 3 4000 dialog@dlg_ShowFaction 0 #
@@ -28,39 +28,39 @@ lang=engl czec pols span russ
 50 4050 D _script town@d_IsControllingTown 1 1 D _script town@d_CanRecruitMilitia 0  #
 500 4060 D _script town@d_CanChangeLaws 0  #
 75 4070 D _script town@d_IsControllingTown 1 1 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 8 6020 #
 12 6030 #
 13 6040 #
 0 6050 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 6 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 6 8010 #
 9 8020 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 6 9020 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 6 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 6 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 6 14010 #
 0 14020 @
-75 15000 None 0 #
+75 15000 main@dlg_Caps 0 #
 76 15010 #
 77 15020 R _script town@r_SetFriendlyFactionsMode 1 1 #
 77 15030 R _script town@r_SetFriendlyFactionsMode 1 0 @
@@ -77,14 +77,14 @@ lang=engl czec pols span russ
 65507 19010 #
 0 19020 #
 130 19030 D _script town@d_MembersAlmost 1 0 R _script town@r_TakeoverCheck 1 0 @
-130 20000 None 0 #
+130 20000 main@dlg_Caps 0 #
 0 20010 #
 65507 20020 @
-310 21000 None 0 #
+310 21000 main@dlg_Caps 0 #
 0 21010 D _script town@d_GainControl 1 1 @
-320 22000 None 0 #
+320 22000 main@dlg_Caps 0 #
 0 22010 D _script town@d_GainControl 1 1 @
-120 23000 None 0 #
+120 23000 main@dlg_Caps 0 #
 0 23010 @
 500 24000 town@dlg_ShowPolicies 0 #
 500 24010 D _script town@d_IsPolicy 1 2 R _script town@r_SetPolicy 2 2 0 #
@@ -97,16 +97,16 @@ lang=engl czec pols span russ
 50 25000 town@dlg_ShowMilitiaCost 0 #
 50 25010 R _script town@r_RecruitMilitia 0  #
 2 25020 @
-410 26000 None 0 #
+410 26000 main@dlg_Caps 0 #
 0 26010 @
-420 27000 None 0 #
+420 27000 main@dlg_Caps 0 #
 0 27010 @
-430 28000 None 0 #
+430 28000 main@dlg_Caps 0 #
 0 28010 @
-440 29000 None 0 @
-450 30000 None 0 #
+440 29000 main@dlg_Caps 0 @
+450 30000 main@dlg_Caps 0 #
 0 30010 @
-330 31000 None 0 &
+330 31000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Slim Picket}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {2040}{}{Nice to meet you, Mr. Picket. I'm just looking around for now, though. Goodbye}
 {2050}{}{Not anymore you don't, Slim Faggot. @lex faction@ are going to talk for this piece of crap town from now on. Start paying your "protection money" before we get bored.}
 {2060}{}{We need some volunteers to secure the town.}
-{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure none of my pals give you any hassle. How's that?}
+{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure main@dlg_Caps of my pals give you any hassle. How's that?}
 {3010}{}{OK. Heh, heh, fwen. Heh, heh, heh.}
 {3020}{}{No! Man scaaarrrry! No. Me go now.}
 {4000}{}{What the heck do you want this time?}
@@ -203,14 +203,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {24050}{}{I want every last criminal dead, don't let them enter our city under any circumstances!}
 {24060}{}{I don't think we have time to go after every little petty criminal, let's relax the laws a bit regarding this...}
 {24070}{}{Ok, looks good.}
-{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{25010}{}{Sounds good, here's @lex cost@ caps.}
+{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{25010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {25020}{}{Nah, I think we're doing fine as it is now.}
 {26000}{}{Alright, there you go.}
 {26010}{}{Right.}
 {27000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {27010}{}{Ok.}
-{28000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{28000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {28010}{}{Yeah, yeah...}
 {29000}{}{Error. Report this.}
 {30000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -218,7 +218,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31000}{}{Guards, get those retards!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -230,7 +230,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {2040}{}{Nice to meet you, Mr. Picket. I'm just looking around for now, though. Goodbye}
 {2050}{}{Not anymore you don't, Slim Faggot. @lex faction@ are going to talk for this piece of crap town from now on. Start paying your "protection money" before we get bored.}
 {2060}{}{We need some volunteers to secure the town.}
-{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure none of my pals give you any hassle. How's that?}
+{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure main@dlg_Caps of my pals give you any hassle. How's that?}
 {3010}{}{OK. Heh, heh, fwen. Heh, heh, heh.}
 {3020}{}{No! Man scaaarrrry! No. Me go now.}
 {4000}{}{What the heck do you want this time?}
@@ -310,14 +310,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {24050}{}{I want every last criminal dead, don't let them enter our city under any circumstances!}
 {24060}{}{I don't think we have time to go after every little petty criminal, let's relax the laws a bit regarding this...}
 {24070}{}{Ok, looks good.}
-{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{25010}{}{Sounds good, here's @lex cost@ caps.}
+{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{25010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {25020}{}{Nah, I think we're doing fine as it is now.}
 {26000}{}{Alright, there you go.}
 {26010}{}{Right.}
 {27000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {27010}{}{Ok.}
-{28000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{28000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {28010}{}{Yeah, yeah...}
 {29000}{}{Error. Report this.}
 {30000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -325,7 +325,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31000}{}{Guards, get those retards!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -337,7 +337,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {2040}{}{Nice to meet you, Mr. Picket. I'm just looking around for now, though. Goodbye}
 {2050}{}{Not anymore you don't, Slim Faggot. @lex faction@ are going to talk for this piece of crap town from now on. Start paying your "protection money" before we get bored.}
 {2060}{}{We need some volunteers to secure the town.}
-{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure none of my pals give you any hassle. How's that?}
+{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure main@dlg_Caps of my pals give you any hassle. How's that?}
 {3010}{}{OK. Heh, heh, fwen. Heh, heh, heh.}
 {3020}{}{No! Man scaaarrrry! No. Me go now.}
 {4000}{}{What the heck do you want this time?}
@@ -417,14 +417,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {24050}{}{I want every last criminal dead, don't let them enter our city under any circumstances!}
 {24060}{}{I don't think we have time to go after every little petty criminal, let's relax the laws a bit regarding this...}
 {24070}{}{Ok, looks good.}
-{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{25010}{}{Sounds good, here's @lex cost@ caps.}
+{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{25010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {25020}{}{Nah, I think we're doing fine as it is now.}
 {26000}{}{Alright, there you go.}
 {26010}{}{Right.}
 {27000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {27010}{}{Ok.}
-{28000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{28000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {28010}{}{Yeah, yeah...}
 {29000}{}{Error. Report this.}
 {30000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -432,7 +432,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31000}{}{Guards, get those retards!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -444,7 +444,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {2040}{}{Nice to meet you, Mr. Picket. I'm just looking around for now, though. Goodbye}
 {2050}{}{Not anymore you don't, Slim Faggot. @lex faction@ are going to talk for this piece of crap town from now on. Start paying your "protection money" before we get bored.}
 {2060}{}{We need some volunteers to secure the town.}
-{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure none of my pals give you any hassle. How's that?}
+{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure main@dlg_Caps of my pals give you any hassle. How's that?}
 {3010}{}{OK. Heh, heh, fwen. Heh, heh, heh.}
 {3020}{}{No! Man scaaarrrry! No. Me go now.}
 {4000}{}{What the heck do you want this time?}
@@ -524,14 +524,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {24050}{}{I want every last criminal dead, don't let them enter our city under any circumstances!}
 {24060}{}{I don't think we have time to go after every little petty criminal, let's relax the laws a bit regarding this...}
 {24070}{}{Ok, looks good.}
-{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{25010}{}{Sounds good, here's @lex cost@ caps.}
+{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{25010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {25020}{}{Nah, I think we're doing fine as it is now.}
 {26000}{}{Alright, there you go.}
 {26010}{}{Right.}
 {27000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {27010}{}{Ok.}
-{28000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{28000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {28010}{}{Yeah, yeah...}
 {29000}{}{Error. Report this.}
 {30000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -539,7 +539,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31000}{}{Guards, get those retards!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -551,7 +551,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {2040}{}{Nice to meet you, Mr. Picket. I'm just looking around for now, though. Goodbye}
 {2050}{}{Not anymore you don't, Slim Faggot. @lex faction@ are going to talk for this piece of crap town from now on. Start paying your "protection money" before we get bored.}
 {2060}{}{We need some volunteers to secure the town.}
-{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure none of my pals give you any hassle. How's that?}
+{3000}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. You get out of here and I'll make sure main@dlg_Caps of my pals give you any hassle. How's that?}
 {3010}{}{OK. Heh, heh, fwen. Heh, heh, heh.}
 {3020}{}{No! Man scaaarrrry! No. Me go now.}
 {4000}{}{What the heck do you want this time?}
@@ -631,14 +631,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {24050}{}{I want every last criminal dead, don't let them enter our city under any circumstances!}
 {24060}{}{I don't think we have time to go after every little petty criminal, let's relax the laws a bit regarding this...}
 {24070}{}{Ok, looks good.}
-{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{25010}{}{Sounds good, here's @lex cost@ caps.}
+{25000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{25010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {25020}{}{Nah, I think we're doing fine as it is now.}
 {26000}{}{Alright, there you go.}
 {26010}{}{Right.}
 {27000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {27010}{}{Ok.}
-{28000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{28000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {28010}{}{Yeah, yeah...}
 {29000}{}{Error. Report this.}
 {30000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}

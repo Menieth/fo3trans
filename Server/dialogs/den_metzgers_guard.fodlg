@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p KARMA_SLAVER > 0 #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Metzger's Guard}
@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 {100000003}{}{Вам показалось, что вы взяли в руку горящие угли. Вы судорожно её отдергиваете и с ужасом смотрите на свои обуглившиеся пальцы.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not Slaver}
@@ -34,7 +34,7 @@ lang=engl czec pols span russ
 {3000}{}{Sup?@@Right.@@::Nods::@@Got some new meat in stock.@@See that new redhead we got in the back? I saw her. With my penis.@@Anyone got a Nuka-Cola? Dyin here.@@Metzger's been off the hook today.@@Fuckin' guard duty.@@Look at all these addict fucks.@@This town's a fucking shithole.@@Fuckin' little kids.@@Church guards ain't about shit.@@Everything outside of these walls ain't shit.@@You buyin'?@@Metzger's pissed.@@Damn man, starving.@@Fuckin' sick of tribals.@@If I get another fuckin' spear thrown at me man...@@Supplies ain't been about shit recently.@@You see that girl that was just here?@@Man we snagged a true retard the other day.@@Shit.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not Slaver}
@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {3000}{}{Sup?@@Right.@@::Nods::@@Got some new meat in stock.@@See that new redhead we got in the back? I saw her. With my penis.@@Anyone got a Nuka-Cola? Dyin here.@@Metzger's been off the hook today.@@Fuckin' guard duty.@@Look at all these addict fucks.@@This town's a fucking shithole.@@Fuckin' little kids.@@Church guards ain't about shit.@@Everything outside of these walls ain't shit.@@You buyin'?@@Metzger's pissed.@@Damn man, starving.@@Fuckin' sick of tribals.@@If I get another fuckin' spear thrown at me man...@@Supplies ain't been about shit recently.@@You see that girl that was just here?@@Man we snagged a true retard the other day.@@Shit.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not Slaver}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{Sup?@@Right.@@::Nods::@@Got some new meat in stock.@@See that new redhead we got in the back? I saw her. With my penis.@@Anyone got a Nuka-Cola? Dyin here.@@Metzger's been off the hook today.@@Fuckin' guard duty.@@Look at all these addict fucks.@@This town's a fucking shithole.@@Fuckin' little kids.@@Church guards ain't about shit.@@Everything outside of these walls ain't shit.@@You buyin'?@@Metzger's pissed.@@Damn man, starving.@@Fuckin' sick of tribals.@@If I get another fuckin' spear thrown at me man...@@Supplies ain't been about shit recently.@@You see that girl that was just here?@@Man we snagged a true retard the other day.@@Shit.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not Slaver}

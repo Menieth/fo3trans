@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _script dialog@d_WeaponInHand 0  #
 2 1020 @
-2 2000 None 0 @
-3 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Water Merchant Guard}
@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}

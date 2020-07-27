@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Drunk}
@@ -18,29 +18,29 @@ lang=engl czec pols span russ
 {210}{}{This gal's already had too much to drink.}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
-{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
-{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
-{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
-{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
-{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 bottles of beer on the wall, 99 bottles of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
+{2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Sheesh, can't take your eyes off me, huh?}
 

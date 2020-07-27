@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 500 1010 D _script perks@d_PerkCheck 1 461 #
 2 1020 #
 10 1030 @
-2 2000 None 0 @
-10 3000 None 0 @
-500 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+10 3000 main@dlg_Caps 0 @
+500 4000 main@dlg_Caps 0 #
 501 4010 R _param p PE_DEAD_MAN_WALKING = 1 #
 0 4020 @
-501 5000 None 0 #
+501 5000 main@dlg_Caps 0 #
 0 5010 #
 65507 5020 &
 
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {5020}{}{And that was the story? Ha-ha-ha-ha-ha [Manical laughter]! Now listen to my story... I *am* a scoundrel, and this is your end! [Attack]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dead man walking perk}
 {1020}{}{normie}
@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {5020}{}{And that was the story? Ha-ha-ha-ha-ha [Manical laughter]! Now listen to my story... I *am* a scoundrel, and this is your end! [Attack]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dead man walking perk}
 {1020}{}{normie}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {5020}{}{And that was the story? Ha-ha-ha-ha-ha [Manical laughter]! Now listen to my story... I *am* a scoundrel, and this is your end! [Attack]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dead man walking perk}
 {1020}{}{normie}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {5020}{}{And that was the story? Ha-ha-ha-ha-ha [Manical laughter]! Now listen to my story... I *am* a scoundrel, and this is your end! [Attack]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dead man walking perk}
 {1020}{}{normie}

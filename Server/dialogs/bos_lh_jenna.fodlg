@@ -6,36 +6,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 #
 3 1020 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 R _var n name_mem_npc_player = 1 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 80 3020 D _var n acquaintance = 1 D _param p PE_PROFESSION_ARMORER < 3 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var n acquaintance = 1 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 80 5010 D _param p PE_PROFESSION_ARMORER < 3 #
 0 5020 @
-80 6000 None 0 #
+80 6000 main@dlg_Caps 0 #
 81 6010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckArmorer0 1 0 #
 82 6020 D _script dialog@d_CheckArmorer1 1 0 #
 0 6030 @
-81 7000 None 0 #
+81 7000 main@dlg_Caps 0 #
 84 7010 D _script dialog@d_havepropermoney 1 1499 R _param p PE_PROFESSION_ARMORER = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 7020 @
-82 8000 None 0 #
+82 8000 main@dlg_Caps 0 #
 84 8010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_ARMORER = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 8020 @
-83 9000 None 0 #
+83 9000 main@dlg_Caps 0 #
 84 9010 D _script dialog@d_havepropermoney 1 4499 R _param p PE_PROFESSION_ARMORER = 3 R _script dialog@r_RemoveMoney 1 4500 #
 0 9020 @
-84 10000 None 0 #
+84 10000 main@dlg_Caps 0 #
 0 10010 &
 
 [engl]
@@ -62,20 +62,20 @@ lang=engl czec pols span russ
 {6010}{}{Can you show me some basics?}
 {6020}{}{I am interested in making sturdier armors... And any other trick you can show me, by the way.}
 {6030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{7000}{}{Sure, I can show ya... If ya show me fifteen hundred caps first!}
+{7000}{}{Sure, I can show ya... If ya show me fifteen hundred @lex money@ first!}
 {7010}{}{Okay, sounds fair. [Give her $1500]}
 {7020}{}{Sorry, that's too much for me. I might be back later, though.}
-{8000}{}{Yeah, and I'm interested in caps. How about three grand for the show, huh?}
+{8000}{}{Yeah, and I'm interested in @lex money@. How about three grand for the show, huh?}
 {8010}{}{Not a problem. [Give her $3000]}
 {8020}{}{Sorry, that's too much for me. I might be back later, though.}
-{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 caps...}
+{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 @lex money@...}
 {9010}{}{That's not cheap, but I guess it'll pay off. Here you go. [Give her $4500]}
 {9020}{}{Sorry, that's too much for me. I might be back later, though.}
 {10000}{}{Very well, pay close attention, a Paladin's life may depend on how well you learn this lesson someday. [Jenna shows you everything you wanted to know]}
 {10010}{}{Thank you Jenna, I really appreciate your help. See you around!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown member}
 {1020}{}{Known member}
@@ -96,20 +96,20 @@ lang=engl czec pols span russ
 {6010}{}{Can you show me some basics?}
 {6020}{}{I am interested in making sturdier armors... And any other trick you can show me, by the way.}
 {6030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{7000}{}{Sure, I can show ya... If ya show me fifteen hundred caps first!}
+{7000}{}{Sure, I can show ya... If ya show me fifteen hundred @lex money@ first!}
 {7010}{}{Okay, sounds fair. [Give her $1500]}
 {7020}{}{Sorry, that's too much for me. I might be back later, though.}
-{8000}{}{Yeah, and I'm interested in caps. How about three grand for the show, huh?}
+{8000}{}{Yeah, and I'm interested in @lex money@. How about three grand for the show, huh?}
 {8010}{}{Not a problem. [Give her $3000]}
 {8020}{}{Sorry, that's too much for me. I might be back later, though.}
-{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 caps...}
+{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 @lex money@...}
 {9010}{}{That's not cheap, but I guess it'll pay off. Here you go. [Give her $4500]}
 {9020}{}{Sorry, that's too much for me. I might be back later, though.}
 {10000}{}{Very well, pay close attention, a Paladin's life may depend on how well you learn this lesson someday. [Jenna shows you everything you wanted to know]}
 {10010}{}{Thank you Jenna, I really appreciate your help. See you around!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown member}
 {1020}{}{Known member}
@@ -130,20 +130,20 @@ lang=engl czec pols span russ
 {6010}{}{Can you show me some basics?}
 {6020}{}{I am interested in making sturdier armors... And any other trick you can show me, by the way.}
 {6030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{7000}{}{Sure, I can show ya... If ya show me fifteen hundred caps first!}
+{7000}{}{Sure, I can show ya... If ya show me fifteen hundred @lex money@ first!}
 {7010}{}{Okay, sounds fair. [Give her $1500]}
 {7020}{}{Sorry, that's too much for me. I might be back later, though.}
-{8000}{}{Yeah, and I'm interested in caps. How about three grand for the show, huh?}
+{8000}{}{Yeah, and I'm interested in @lex money@. How about three grand for the show, huh?}
 {8010}{}{Not a problem. [Give her $3000]}
 {8020}{}{Sorry, that's too much for me. I might be back later, though.}
-{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 caps...}
+{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 @lex money@...}
 {9010}{}{That's not cheap, but I guess it'll pay off. Here you go. [Give her $4500]}
 {9020}{}{Sorry, that's too much for me. I might be back later, though.}
 {10000}{}{Very well, pay close attention, a Paladin's life may depend on how well you learn this lesson someday. [Jenna shows you everything you wanted to know]}
 {10010}{}{Thank you Jenna, I really appreciate your help. See you around!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown member}
 {1020}{}{Known member}
@@ -164,20 +164,20 @@ lang=engl czec pols span russ
 {6010}{}{Can you show me some basics?}
 {6020}{}{I am interested in making sturdier armors... And any other trick you can show me, by the way.}
 {6030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{7000}{}{Sure, I can show ya... If ya show me fifteen hundred caps first!}
+{7000}{}{Sure, I can show ya... If ya show me fifteen hundred @lex money@ first!}
 {7010}{}{Okay, sounds fair. [Give her $1500]}
 {7020}{}{Sorry, that's too much for me. I might be back later, though.}
-{8000}{}{Yeah, and I'm interested in caps. How about three grand for the show, huh?}
+{8000}{}{Yeah, and I'm interested in @lex money@. How about three grand for the show, huh?}
 {8010}{}{Not a problem. [Give her $3000]}
 {8020}{}{Sorry, that's too much for me. I might be back later, though.}
-{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 caps...}
+{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 @lex money@...}
 {9010}{}{That's not cheap, but I guess it'll pay off. Here you go. [Give her $4500]}
 {9020}{}{Sorry, that's too much for me. I might be back later, though.}
 {10000}{}{Very well, pay close attention, a Paladin's life may depend on how well you learn this lesson someday. [Jenna shows you everything you wanted to know]}
 {10010}{}{Thank you Jenna, I really appreciate your help. See you around!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown member}
 {1020}{}{Known member}
@@ -198,13 +198,13 @@ lang=engl czec pols span russ
 {6010}{}{Can you show me some basics?}
 {6020}{}{I am interested in making sturdier armors... And any other trick you can show me, by the way.}
 {6030}{}{Ahm... I'm not quite sure. Maybe I should be back later when I get ready for this.}
-{7000}{}{Sure, I can show ya... If ya show me fifteen hundred caps first!}
+{7000}{}{Sure, I can show ya... If ya show me fifteen hundred @lex money@ first!}
 {7010}{}{Okay, sounds fair. [Give her $1500]}
 {7020}{}{Sorry, that's too much for me. I might be back later, though.}
-{8000}{}{Yeah, and I'm interested in caps. How about three grand for the show, huh?}
+{8000}{}{Yeah, and I'm interested in @lex money@. How about three grand for the show, huh?}
 {8010}{}{Not a problem. [Give her $3000]}
 {8020}{}{Sorry, that's too much for me. I might be back later, though.}
-{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 caps...}
+{9000}{}{[OBSOLETE] It might be true, if my locker becomes heavier for 4500 @lex money@...}
 {9010}{}{That's not cheap, but I guess it'll pay off. Here you go. [Give her $4500]}
 {9020}{}{Sorry, that's too much for me. I might be back later, though.}
 {10000}{}{Very well, pay close attention, a Paladin's life may depend on how well you learn this lesson someday. [Jenna shows you everything you wanted to know]}

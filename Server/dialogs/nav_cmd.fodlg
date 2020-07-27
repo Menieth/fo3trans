@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p factions_player_faction = 3 D _var p factions_player_rank < 3 #
 3 1020 D _var p factions_player_faction = 3 #
 4 1030 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 0 3010 @
 4 4000 Attack 0 &
 
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {4000}{}{You're not one of my men.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {4000}{}{You're not one of my men.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {4000}{}{You're not one of my men.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {4000}{}{You're not one of my men.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}

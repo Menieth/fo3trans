@@ -6,36 +6,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 #
 11 1020 D _param p ST_CHARISMA < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _var p starter_casequest = 5 #
 8 4020 D _var p starter_docblackmail = 1 #
 8 4030 D _var p starter_docblackmail = 5 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _item p PID_BRIEFCASE = 1 D _var p starter_casequest = 5 R _item p PID_BRIEFCASE - 1 R _param p ST_EXPERIENCE + 120 #
 11 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 R _item p PID_10MM_JHP + 20 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 10 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 R _var p starter_docblackmail = 3 R _param p ST_EXPERIENCE + 150 R _script dialog@r_AddMoney 1 50 @
-11 11000 None 0 &
+11 11000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Hoskins}
@@ -68,12 +68,12 @@ lang=engl czec pols span russ
 {8020}{}{Well, my work here is done. Bye.}
 {9000}{}{We'll run that drug peddling bastard out of town. Let's see how long he lasts on the outside. (He chuckles)}
 {9010}{}{Too bad. I guess I'll be leaving.}
-{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty caps)}
+{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty @lex money@)}
 {10010}{}{Thanks. I'll see you later.}
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -101,12 +101,12 @@ lang=engl czec pols span russ
 {8020}{}{Well, my work here is done. Bye.}
 {9000}{}{We'll run that drug peddling bastard out of town. Let's see how long he lasts on the outside. (He chuckles)}
 {9010}{}{Too bad. I guess I'll be leaving.}
-{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty caps)}
+{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty @lex money@)}
 {10010}{}{Thanks. I'll see you later.}
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -134,12 +134,12 @@ lang=engl czec pols span russ
 {8020}{}{Well, my work here is done. Bye.}
 {9000}{}{We'll run that drug peddling bastard out of town. Let's see how long he lasts on the outside. (He chuckles)}
 {9010}{}{Too bad. I guess I'll be leaving.}
-{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty caps)}
+{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty @lex money@)}
 {10010}{}{Thanks. I'll see you later.}
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -167,12 +167,12 @@ lang=engl czec pols span russ
 {8020}{}{Well, my work here is done. Bye.}
 {9000}{}{We'll run that drug peddling bastard out of town. Let's see how long he lasts on the outside. (He chuckles)}
 {9010}{}{Too bad. I guess I'll be leaving.}
-{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty caps)}
+{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty @lex money@)}
 {10010}{}{Thanks. I'll see you later.}
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {8020}{}{Well, my work here is done. Bye.}
 {9000}{}{We'll run that drug peddling bastard out of town. Let's see how long he lasts on the outside. (He chuckles)}
 {9010}{}{Too bad. I guess I'll be leaving.}
-{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty caps)}
+{10000}{}{Wait a second, you did the right thing comin' to me. I sure as hell don't like to see a good deed go unpunished, so here ya go. (He hands you fifty @lex money@)}
 {10010}{}{Thanks. I'll see you later.}
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 

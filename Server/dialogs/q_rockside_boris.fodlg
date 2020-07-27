@@ -6,36 +6,36 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p q_v99_woods = 0 #
 3 1020 D _var p q_v99_woods = 1 D _item p PID_FIREWOOD } 3 #
 2 1030 D _var p q_v99_woods = 2 #
 2 1040 D _var p q_v99_woods = 3 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 #
 11 2020 #
 9 2030 D _var p q_rockside_boris = 0 #
 10 2040 D _var p q_rockside_boris = 2 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _var p q_v99_woods = 2 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 7 5010 #
 8 5020 #
 0 5030 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 8 6010 #
 9 6020 D _var p q_rockside_boris = 0 @
-8 7000 None 0 @
-9 8000 None 0 #
+8 7000 main@dlg_Caps 0 @
+9 8000 main@dlg_Caps 0 #
 0 8010 R _var p q_rockside_boris = 1 #
 0 8020 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 0 9010 R _var p q_rockside_boris = 3 #
 0 9020 @
-11 10000 None 0 &
+11 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Boris}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {10000}{}{Uh... These freshmen...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -105,7 +105,7 @@ lang=engl czec pols span russ
 {10000}{}{Uh... These freshmen...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -138,7 +138,7 @@ lang=engl czec pols span russ
 {10000}{}{Uh... These freshmen...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {10000}{}{Uh... These freshmen...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }

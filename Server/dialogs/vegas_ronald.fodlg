@@ -6,18 +6,18 @@ lang=engl
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _item p PID_DOLLAR } 1 #
 4 1020 D _item p PID_DOLLAR = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 D _item p PID_DOLLAR } 1 R _item p PID_DOLLAR - 1 R _item p PID_CLOTHES_SCIENTIST1 + 1 #
 5 2020 D _item p PID_DOLLAR } 2 R _item p PID_DOLLAR - 2 R _item p PID_CLOTHES_ELEGANT_SUIT + 1 #
 5 2030 D _item p PID_DOLLAR } 1 R _item p PID_DOLLAR - 1 R _item p PID_CLOTHES_RAGS + 1 #
 5 2040 D _item p PID_DOLLAR } 1 R _item p PID_DOLLAR - 1 R _item p PID_CLOTHES_DWARF + 1 #
 5 2050 D _item p PID_DOLLAR } 1 R _item p PID_DOLLAR - 1 R _item p PID_CLOTHES_RED_SHIRT + 1 #
 0 2060 @
-4 3000 None 0 @
-5 4000 None 0 &
+4 3000 main@dlg_Caps 0 @
+5 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Ronald}

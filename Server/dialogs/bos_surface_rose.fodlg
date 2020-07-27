@@ -6,8 +6,8 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 @
-2 2000 None 0 &
+1 1000 main@dlg_Caps 1 @
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Knight Rose}
@@ -15,22 +15,22 @@ lang=engl czec pols span russ
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {2000}{}{Hello?@@I think you better speak with Jack.@@Ever hear about the ship named Titan?@@I wish I could see the ocean.}
 

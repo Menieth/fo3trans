@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _script factions_terminal@d_Terminal_IsMember 1 0 R _script factions_terminal@r_UpdateLastUsed 0  #
 100 1020 D _script factions_terminal@d_Terminal_NotMember 1 0 #
 4 1030 D _script factions_terminal@d_IsInvited 1 0 @
@@ -14,7 +14,7 @@ lang=engl czec pols span russ
 0 2010 R _script dialog@r_OpenDoor 2 750 10 R _script dialog@r_OpenDoor 2 751 10 #
 0 2020 R _script dialog@r_CloseDoor 1 751 R _script dialog@r_CloseDoor 1 750 #
 0 2030 @
-100 3000 None 0 &
+100 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{error}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{Access Denied
 }
 {100000000}{}{Unknown}
-{100000001}{}{None}
+{100000001}{}{main@dlg_Caps}
 {100000002}{}{Brotherhood of Steel}
 {100000003}{}{Enclave}
 {100000004}{}{The Unity}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {100000042}{}{Choose the action you want to perform:}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 }
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 }
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 }
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}

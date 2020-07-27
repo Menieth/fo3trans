@@ -6,17 +6,17 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 1020 D _var n name_mem_npc_player = 1 #
 24 1030 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_INTELLECT < 4 #
 4 2020 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 15 2030 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 7 2040 D _param p ST_INTELLECT > 3 #
 0 2050 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 8 3010 D _param p ST_INTELLECT > 3 #
 9 3020 D _param p ST_INTELLECT > 3 #
 15 3030 D _param p ST_INTELLECT > 3 #
@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 0 3070 D _param p ST_INTELLECT < 4 #
 30 3080 #
 7 3090 @
-7 4000 None 0 #
+7 4000 main@dlg_Caps 0 #
 21 4010 #
 22 4020 #
 20 4030 #
@@ -46,42 +46,42 @@ lang=engl czec pols span russ
 0 6040 D _param p ST_INTELLECT > 3 #
 11 6050 D _param p ST_INTELLECT < 4 D _item p PID_BOTTLE_CAPS < 99 #
 0 6060 D _param p ST_INTELLECT < 4 D _script dialog@d_havepropermoney 1 99 R _item n PID_NUKA_COLA - 1 R _item p PID_NUKA_COLA + 1 R _script dialog@r_RemoveMoney 1 100 @
-11 7000 None 0 #
+11 7000 main@dlg_Caps 0 #
 0 7010 @
-12 8000 None 0 #
+12 8000 main@dlg_Caps 0 #
 8 8010 #
 15 8020 #
 7 8030 #
 0 8040 @
-15 9000 None 0 #
+15 9000 main@dlg_Caps 0 #
 16 9010 D _script dialog@d_havepropermoney 1 49 R _var p klam_gold_beer = 1 R _script dialog@r_RemoveMoney 1 50 #
 11 9020 D _item p PID_BOTTLE_CAPS < 50 #
 4 9030 @
-16 10000 None 0 #
+16 10000 main@dlg_Caps 0 #
 17 10010 #
 7 10020 #
 0 10030 @
-17 11000 None 0 #
+17 11000 main@dlg_Caps 0 #
 7 11010 #
 0 11020 @
-20 12000 None 0 #
+20 12000 main@dlg_Caps 0 #
 0 12010 @
-21 13000 None 0 #
+21 13000 main@dlg_Caps 0 #
 7 13010 #
 0 13020 @
-22 14000 None 0 #
+22 14000 main@dlg_Caps 0 #
 7 14010 #
 0 14020 @
-23 15000 None 0 @
-24 16000 None 0 @
-26 17000 None 0 #
+23 15000 main@dlg_Caps 0 @
+24 16000 main@dlg_Caps 0 @
+26 17000 main@dlg_Caps 0 #
 4 17010 #
 0 17020 @
 30 18000 dialog@dlg_SayBuyCigarettes 0 #
 0 18010 #
 32 18020 D _script dialog@d_havepropermoney 1 99 R _item p PID_CIGARETTES + 1 R _script dialog@r_RemoveMoney 1 100 #
 32 18030 D _script dialog@d_havepropermoney 1 999 R _item p PID_CIGARETTES + 10 R _script dialog@r_RemoveMoney 1 1000 @
-32 19000 None 0 #
+32 19000 main@dlg_Caps 0 #
 0 19010 &
 
 [engl]
@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {4030}{}{I'm looking for a job. Any leads?}
 {4040}{}{That's all I need to know for now. But there's something else I need.}
 {4050}{}{Alright, I gotta get going.}
-{5000}{}{Ok, only 10 caps for the best beer in this town. [You can use SAY to enter number of items you want to buy]
+{5000}{}{Ok, only 10 @lex money@ for the best beer in this town. [You can use SAY to enter number of items you want to buy]
 }
 {5010}{}{It seems I'm a little short on cash...}
 {5020}{}{Thanks. I got a couple questions too.}
@@ -122,10 +122,10 @@ lang=engl czec pols span russ
 {5040}{}{Uh, no mony.}
 {5050}{}{Here, mony. Me going.}
 {5060}{}{Nah, me going.}
-{6000}{}{Nuka-Cola, this makes 100 caps. [You can use SAY to enter number of items you want to buy]
+{6000}{}{Nuka-Cola, this makes 100 @lex money@. [You can use SAY to enter number of items you want to buy]
 }
 {6010}{}{It seems I'm a little short on cash...}
-{6020}{}{Gimme ten bottles. [Hand him $1000]}
+{6020}{}{Gimme ten @lex prefix@s. [Hand him $1000]}
 {6030}{}{Thanks. I got a couple questions too.}
 {6040}{}{Maybe not yet, thanks anyway. See you around.}
 {6050}{}{Uh, no mony.}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {100000002}{}{Zzzzzz}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Familiar}
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {4030}{}{I'm looking for a job. Any leads?}
 {4040}{}{That's all I need to know for now. But there's something else I need.}
 {4050}{}{Alright, I gotta get going.}
-{5000}{}{Ok, only 10 caps for the best beer in this town. [You can use SAY to enter number of items you want to buy]
+{5000}{}{Ok, only 10 @lex money@ for the best beer in this town. [You can use SAY to enter number of items you want to buy]
 }
 {5010}{}{It seems I'm a little short on cash...}
 {5020}{}{Thanks. I got a couple questions too.}
@@ -207,10 +207,10 @@ lang=engl czec pols span russ
 {5040}{}{Uh, no mony.}
 {5050}{}{Here, mony. Me going.}
 {5060}{}{Nah, me going.}
-{6000}{}{Nuka-Cola, this makes 100 caps. [You can use SAY to enter number of items you want to buy]
+{6000}{}{Nuka-Cola, this makes 100 @lex money@. [You can use SAY to enter number of items you want to buy]
 }
 {6010}{}{It seems I'm a little short on cash...}
-{6020}{}{Gimme ten bottles. [Hand him $1000]}
+{6020}{}{Gimme ten @lex prefix@s. [Hand him $1000]}
 {6030}{}{Thanks. I got a couple questions too.}
 {6040}{}{Maybe not yet, thanks anyway. See you around.}
 {6050}{}{Uh, no mony.}
@@ -255,7 +255,7 @@ lang=engl czec pols span russ
 {19010}{}{Gee, thanks.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Familiar}
@@ -282,7 +282,7 @@ lang=engl czec pols span russ
 {4030}{}{I'm looking for a job. Any leads?}
 {4040}{}{That's all I need to know for now. But there's something else I need.}
 {4050}{}{Alright, I gotta get going.}
-{5000}{}{Ok, only 10 caps for the best beer in this town. [You can use SAY to enter number of items you want to buy]
+{5000}{}{Ok, only 10 @lex money@ for the best beer in this town. [You can use SAY to enter number of items you want to buy]
 }
 {5010}{}{It seems I'm a little short on cash...}
 {5020}{}{Thanks. I got a couple questions too.}
@@ -290,10 +290,10 @@ lang=engl czec pols span russ
 {5040}{}{Uh, no mony.}
 {5050}{}{Here, mony. Me going.}
 {5060}{}{Nah, me going.}
-{6000}{}{Nuka-Cola, this makes 100 caps. [You can use SAY to enter number of items you want to buy]
+{6000}{}{Nuka-Cola, this makes 100 @lex money@. [You can use SAY to enter number of items you want to buy]
 }
 {6010}{}{It seems I'm a little short on cash...}
-{6020}{}{Gimme ten bottles. [Hand him $1000]}
+{6020}{}{Gimme ten @lex prefix@s. [Hand him $1000]}
 {6030}{}{Thanks. I got a couple questions too.}
 {6040}{}{Maybe not yet, thanks anyway. See you around.}
 {6050}{}{Uh, no mony.}
@@ -338,7 +338,7 @@ lang=engl czec pols span russ
 {19010}{}{Gee, thanks.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Familiar}
@@ -365,7 +365,7 @@ lang=engl czec pols span russ
 {4030}{}{I'm looking for a job. Any leads?}
 {4040}{}{That's all I need to know for now. But there's something else I need.}
 {4050}{}{Alright, I gotta get going.}
-{5000}{}{Ok, only 10 caps for the best beer in this town. [You can use SAY to enter number of items you want to buy]
+{5000}{}{Ok, only 10 @lex money@ for the best beer in this town. [You can use SAY to enter number of items you want to buy]
 }
 {5010}{}{It seems I'm a little short on cash...}
 {5020}{}{Thanks. I got a couple questions too.}
@@ -373,10 +373,10 @@ lang=engl czec pols span russ
 {5040}{}{Uh, no mony.}
 {5050}{}{Here, mony. Me going.}
 {5060}{}{Nah, me going.}
-{6000}{}{Nuka-Cola, this makes 100 caps. [You can use SAY to enter number of items you want to buy]
+{6000}{}{Nuka-Cola, this makes 100 @lex money@. [You can use SAY to enter number of items you want to buy]
 }
 {6010}{}{It seems I'm a little short on cash...}
-{6020}{}{Gimme ten bottles. [Hand him $1000]}
+{6020}{}{Gimme ten @lex prefix@s. [Hand him $1000]}
 {6030}{}{Thanks. I got a couple questions too.}
 {6040}{}{Maybe not yet, thanks anyway. See you around.}
 {6050}{}{Uh, no mony.}
@@ -421,7 +421,7 @@ lang=engl czec pols span russ
 {19010}{}{Gee, thanks.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Familiar}
@@ -448,7 +448,7 @@ lang=engl czec pols span russ
 {4030}{}{I'm looking for a job. Any leads?}
 {4040}{}{That's all I need to know for now. But there's something else I need.}
 {4050}{}{Alright, I gotta get going.}
-{5000}{}{Ok, only 10 caps for the best beer in this town. [You can use SAY to enter number of items you want to buy]
+{5000}{}{Ok, only 10 @lex money@ for the best beer in this town. [You can use SAY to enter number of items you want to buy]
 }
 {5010}{}{It seems I'm a little short on cash...}
 {5020}{}{Thanks. I got a couple questions too.}
@@ -456,10 +456,10 @@ lang=engl czec pols span russ
 {5040}{}{Uh, no mony.}
 {5050}{}{Here, mony. Me going.}
 {5060}{}{Nah, me going.}
-{6000}{}{Nuka-Cola, this makes 100 caps. [You can use SAY to enter number of items you want to buy]
+{6000}{}{Nuka-Cola, this makes 100 @lex money@. [You can use SAY to enter number of items you want to buy]
 }
 {6010}{}{It seems I'm a little short on cash...}
-{6020}{}{Gimme ten bottles. [Hand him $1000]}
+{6020}{}{Gimme ten @lex prefix@s. [Hand him $1000]}
 {6030}{}{Thanks. I got a couple questions too.}
 {6040}{}{Maybe not yet, thanks anyway. See you around.}
 {6050}{}{Uh, no mony.}

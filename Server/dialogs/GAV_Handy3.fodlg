@@ -6,27 +6,27 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 R _script dialog@r_PlaySound 1 12 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _script dialog@r_PlaySound 1 13 #
 3 2020 R _script dialog@r_PlaySound 1 13 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _script dialog@r_PlaySound 1 14 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _script dialog@r_PlaySound 1 15 #
 5 4020 R _script dialog@r_PlaySound 1 15 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 R _script dialog@r_PlaySound 1 16 #
 6 5020 R _script dialog@r_PlaySound 1 16 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 R _script dialog@r_PlaySound 1 17 #
 7 6020 R _script dialog@r_PlaySound 1 17 #
 7 6030 R _script dialog@r_PlaySound 1 17 @
-7 7000 None 0 &
+7 7000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mr. Brave}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}

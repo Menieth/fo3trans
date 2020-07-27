@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 3 1010 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 4 2010 #
 0 2020 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 5 3010 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 0 4010 &
 
 [engl]
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {4010}{}{I see... Nevermind.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Eh... Hello? Do you need something?}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4010}{}{I see... Nevermind.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Eh... Hello? Do you need something?}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {4010}{}{I see... Nevermind.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Eh... Hello? Do you need something?}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4010}{}{I see... Nevermind.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Eh... Hello? Do you need something?}

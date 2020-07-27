@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 47 1010 D _var p q_vc_train_doc > 0 D _var p q_vc_train_doc < 6 #
 85 1020 D _param p ST_CHARISMA > 99 #
 6 1030 D _script dialog@d_HpVeryLow 0  #
@@ -15,46 +15,46 @@ lang=engl czec pols span russ
 3 1060 D _script dialog@d_HpHigh 0  #
 50 1070 D _param p ST_INTELLECT < 4 #
 2 1080 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 7 2010 D _script dialog@d_IsToHeal 0  #
 11 2020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 11 2030 D _var n name_mem_npc_player = 1 #
 65506 2040 #
 80 2050 D _param p PE_PROFESSION_DOCTOR < 2 #
 0 2060 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 D _param p ST_INTELLECT > 3 #
 50 3020 D _param p ST_INTELLECT < 4 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 D _param p ST_INTELLECT > 3 #
 50 4020 D _param p ST_INTELLECT < 4 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 D _param p ST_INTELLECT > 3 #
 50 5020 D _param p ST_INTELLECT < 4 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 2 6010 D _param p ST_INTELLECT > 3 #
 50 6020 D _param p ST_INTELLECT < 4 @
 7 7000 dialog@dlg_ShowHealingPrice 0 #
 8 7010 D _script dialog@d_HealingMoney 0  #
 10 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 R _script dialog@r_DocHeal 0  @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 20 9010 D _param p ST_INTELLECT > 3 #
 52 9020 D _param p ST_INTELLECT < 4 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 65505 10010 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 #
 40 11020 D _var p q_vc_train_doc = 0 #
 20 11030 #
 0 11040 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 20 12010 #
 0 12020 @
-20 13000 None 0 #
+20 13000 main@dlg_Caps 0 #
 2 13010 D _script dialog@d_IsToHeal 0  #
 11 13020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 11 13030 D _var n name_mem_npc_player = 1 #
@@ -62,55 +62,55 @@ lang=engl czec pols span russ
 80 13050 D _param p PE_PROFESSION_DOCTOR < 2 #
 30 13060 #
 0 13070 @
-30 14000 None 0 #
+30 14000 main@dlg_Caps 0 #
 31 14010 D _script dialog@d_havepropermoney 1 999 R _item p PID_FIRST_AID_KIT + 1 R _script dialog@r_RemoveMoney 1 1000 #
 31 14020 D _script dialog@d_havepropermoney 1 1999 R _item p PID_FIELD_MEDIC_KIT + 1 R _script dialog@r_RemoveMoney 1 2000 #
 0 14030 @
-31 15000 None 0 #
+31 15000 main@dlg_Caps 0 #
 0 15010 @
-50 16000 None 0 #
+50 16000 main@dlg_Caps 0 #
 51 16010 D _script dialog@d_IsToHeal 0  #
 0 16020 @
 51 17000 dialog@dlg_ShowHealingPrice 0 #
 8 17010 D _script dialog@d_HealingMoney 0  #
 0 17020 @
-52 18000 None 0 #
+52 18000 main@dlg_Caps 0 #
 0 18010 @
-80 19000 None 0 #
+80 19000 main@dlg_Caps 0 #
 81 19010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckDoctor0 1 0 #
 81 19020 D _script dialog@d_CheckDoctor1 1 0 #
 0 19030 @
-81 20000 None 0 #
+81 20000 main@dlg_Caps 0 #
 82 20010 D _script dialog@d_CheckDoctor0 1 1 D _script dialog@d_havepropermoney 1 1499 R _item p PID_FIRST_AID_BOOK + 1 R _script dialog@r_RemoveMoney 1 1500 R _param p PE_PROFESSION_DOCTOR = 1 #
 83 20020 D _script dialog@d_CheckDoctor1 1 1 D _script dialog@d_havepropermoney 1 2999 R _script dialog@r_RemoveMoney 1 3000 R _param p PE_PROFESSION_DOCTOR = 2 #
 0 20030 @
-82 21000 None 0 #
+82 21000 main@dlg_Caps 0 #
 0 21010 @
-83 22000 None 0 #
+83 22000 main@dlg_Caps 0 #
 0 22010 @
-85 23000 None 0 @
-40 24000 None 0 #
+85 23000 main@dlg_Caps 0 @
+40 24000 main@dlg_Caps 0 #
 41 24010 #
 41 24020 #
 0 24030 @
-41 25000 None 0 #
+41 25000 main@dlg_Caps 0 #
 42 25010 #
 42 25020 #
 42 25030 @
-42 26000 None 0 #
+42 26000 main@dlg_Caps 0 #
 43 26010 #
 0 26020 @
-43 27000 None 0 #
+43 27000 main@dlg_Caps 0 #
 44 27010 #
 44 27020 #
 0 27030 @
-44 28000 None 0 #
+44 28000 main@dlg_Caps 0 #
 45 28010 #
 46 28020 @
-45 29000 None 0 #
+45 29000 main@dlg_Caps 0 #
 48 29010 R _var p q_vc_train_doc = 1 R _script dialog@r_ShowLocation 1 355 @
-46 30000 None 0 @
-47 31000 None 0 #
+46 30000 main@dlg_Caps 0 @
+47 31000 main@dlg_Caps 0 #
 0 31010 #
 60 31020 D _var p q_vc_train4 = 4 #
 61 31030 D _var p q_vc_train3 = 4 #
@@ -118,48 +118,48 @@ lang=engl czec pols span russ
 63 31050 D _var p q_vc_train1 = 4 #
 68 31060 D _var p q_vc_train1 = 5 D _var p q_vc_train2 = 5 D _var p q_vc_train3 = 5 D _var p q_vc_train4 = 5 #
 2 31070 @
-48 32000 None 0 #
+48 32000 main@dlg_Caps 0 #
 0 32010 @
-60 33000 None 0 #
+60 33000 main@dlg_Caps 0 #
 64 33010 R _var p q_vc_train4 = 5 R _param p ST_EXPERIENCE + 500 #
 0 33020 @
-61 34000 None 0 #
+61 34000 main@dlg_Caps 0 #
 65 34010 R _var p q_vc_train3 = 5 R _param p ST_EXPERIENCE + 500 #
 0 34020 @
-62 35000 None 0 #
+62 35000 main@dlg_Caps 0 #
 66 35010 R _var p q_vc_train2 = 5 R _param p ST_EXPERIENCE + 500 #
 0 35020 @
-63 36000 None 0 #
+63 36000 main@dlg_Caps 0 #
 67 36010 R _var p q_vc_train1 = 5 R _param p ST_EXPERIENCE + 500 #
 0 36020 @
-64 37000 None 0 #
+64 37000 main@dlg_Caps 0 #
 47 37010 #
 68 37020 D _var p q_vc_train1 = 5 D _var p q_vc_train2 = 5 D _var p q_vc_train3 = 5 D _var p q_vc_train4 = 5 @
-65 38000 None 0 #
+65 38000 main@dlg_Caps 0 #
 47 38010 #
 68 38020 D _var p q_vc_train1 = 5 D _var p q_vc_train2 = 5 D _var p q_vc_train3 = 5 D _var p q_vc_train4 = 5 @
-66 39000 None 0 #
+66 39000 main@dlg_Caps 0 #
 47 39010 #
 68 39020 D _var p q_vc_train1 = 5 D _var p q_vc_train2 = 5 D _var p q_vc_train3 = 5 D _var p q_vc_train4 = 5 @
-67 40000 None 0 #
+67 40000 main@dlg_Caps 0 #
 47 40010 #
 68 40020 D _var p q_vc_train1 = 5 D _var p q_vc_train2 = 5 D _var p q_vc_train3 = 5 D _var p q_vc_train4 = 5 @
-68 41000 None 0 #
+68 41000 main@dlg_Caps 0 #
 69 41010 D _script dialog@d_IsNotMemberOf 1 FACTION_VAULT_CITY #
 72 41020 D _script dialog@d_IsMemberOf 1 FACTION_VAULT_CITY #
 0 41030 @
-69 42000 None 0 #
+69 42000 main@dlg_Caps 0 #
 0 42010 R _script dialog@r_AddMoney 1 900 R _var p q_vc_train_doc = 6 R _param p ST_EXPERIENCE + 1750 #
 70 42020 D _param p SK_BARTER > 90 R _script dialog@r_AddMoney 1 1400 R _var p q_vc_train_doc = 6 R _param p ST_EXPERIENCE + 2400 #
 71 42030 D _param p SK_BARTER < 91 R _script dialog@r_AddMoney 1 900 R _var p q_vc_train_doc = 6 R _param p ST_EXPERIENCE + 1750 #
 2 42040 R _script dialog@r_AddMoney 1 900 R _var p q_vc_train_doc = 6 R _param p ST_EXPERIENCE + 1750 @
-70 43000 None 0 #
+70 43000 main@dlg_Caps 0 #
 0 43010 #
 2 43020 @
-71 44000 None 0 #
+71 44000 main@dlg_Caps 0 #
 0 44010 #
 2 44020 @
-72 45000 None 0 #
+72 45000 main@dlg_Caps 0 #
 0 45010 R _script dialog@r_AddMoney 1 900 R _item p PID_STIMPAK + 5 R _var p q_vc_train_doc = 6 R _param p ST_EXPERIENCE + 1800 #
 2 45020 R _script dialog@r_AddMoney 1 900 R _item p PID_STIMPAK + 5 R _var p q_vc_train_doc = 6 R _param p ST_EXPERIENCE + 1800 &
 
@@ -310,23 +310,23 @@ lang=engl czec pols span russ
 {41010}{}{Very good. What about my reward now?}
 {41020}{}{Very good. What about my reward now?}
 {41030}{}{That's what I am doing. You don't have to give me anything, it's what I am doing... See you.}
-{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 caps. Hope it will help you in the outside. }
+{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 @lex money@. Hope it will help you in the outside. }
 {42010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
-{42020}{}{300 caps? Isn't it a bit less for what I have done?}
-{42030}{}{300 caps? Isn't it a bit less for what I have done?}
+{42020}{}{300 @lex money@? Isn't it a bit less for what I have done?}
+{42030}{}{300 @lex money@? Isn't it a bit less for what I have done?}
 {42040}{}{Thanks. Before I leave, I have something else that I want to ask.}
-{43000}{}{You are right. How could I just... Here, I give you 100 caps more. I can't thank you enough for what you have done for me and Vault City.}
+{43000}{}{You are right. How could I just... Here, I give you 100 @lex money@ more. I can't thank you enough for what you have done for me and Vault City.}
 {43010}{}{No problem. I am busy with something else now. Bye.}
 {43020}{}{Thanks. Before I leave, I have something else I want to ask.}
 {44000}{}{I am sorry, but I can't give you any more.}
 {44010}{}{Oh well then... Guess I should go.}
 {44020}{}{Thanks... Not. Before I leave, I have something else I want to ask about.}
-{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 caps and a few Stimpaks. Hope it will help you in the outside. }
+{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 @lex money@ and a few Stimpaks. Hope it will help you in the outside. }
 {45010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -469,23 +469,23 @@ lang=engl czec pols span russ
 {41010}{}{Very good. What about my reward now?}
 {41020}{}{Very good. What about my reward now?}
 {41030}{}{That's what I am doing. You don't have to give me anything, it's what I am doing... See you.}
-{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 caps. Hope it will help you in the outside. }
+{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 @lex money@. Hope it will help you in the outside. }
 {42010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
-{42020}{}{300 caps? Isn't it a bit less for what I have done?}
-{42030}{}{300 caps? Isn't it a bit less for what I have done?}
+{42020}{}{300 @lex money@? Isn't it a bit less for what I have done?}
+{42030}{}{300 @lex money@? Isn't it a bit less for what I have done?}
 {42040}{}{Thanks. Before I leave, I have something else that I want to ask.}
-{43000}{}{You are right. How could I just... Here, I give you 100 caps more. I can't thank you enough for what you have done for me and Vault City.}
+{43000}{}{You are right. How could I just... Here, I give you 100 @lex money@ more. I can't thank you enough for what you have done for me and Vault City.}
 {43010}{}{No problem. I am busy with something else now. Bye.}
 {43020}{}{Thanks. Before I leave, I have something else I want to ask.}
 {44000}{}{I am sorry, but I can't give you any more.}
 {44010}{}{Oh well then... Guess I should go.}
 {44020}{}{Thanks... Not. Before I leave, I have something else I want to ask about.}
-{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 caps and a few Stimpaks. Hope it will help you in the outside. }
+{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 @lex money@ and a few Stimpaks. Hope it will help you in the outside. }
 {45010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -628,23 +628,23 @@ lang=engl czec pols span russ
 {41010}{}{Very good. What about my reward now?}
 {41020}{}{Very good. What about my reward now?}
 {41030}{}{That's what I am doing. You don't have to give me anything, it's what I am doing... See you.}
-{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 caps. Hope it will help you in the outside. }
+{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 @lex money@. Hope it will help you in the outside. }
 {42010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
-{42020}{}{300 caps? Isn't it a bit less for what I have done?}
-{42030}{}{300 caps? Isn't it a bit less for what I have done?}
+{42020}{}{300 @lex money@? Isn't it a bit less for what I have done?}
+{42030}{}{300 @lex money@? Isn't it a bit less for what I have done?}
 {42040}{}{Thanks. Before I leave, I have something else that I want to ask.}
-{43000}{}{You are right. How could I just... Here, I give you 100 caps more. I can't thank you enough for what you have done for me and Vault City.}
+{43000}{}{You are right. How could I just... Here, I give you 100 @lex money@ more. I can't thank you enough for what you have done for me and Vault City.}
 {43010}{}{No problem. I am busy with something else now. Bye.}
 {43020}{}{Thanks. Before I leave, I have something else I want to ask.}
 {44000}{}{I am sorry, but I can't give you any more.}
 {44010}{}{Oh well then... Guess I should go.}
 {44020}{}{Thanks... Not. Before I leave, I have something else I want to ask about.}
-{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 caps and a few Stimpaks. Hope it will help you in the outside. }
+{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 @lex money@ and a few Stimpaks. Hope it will help you in the outside. }
 {45010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -787,23 +787,23 @@ lang=engl czec pols span russ
 {41010}{}{Very good. What about my reward now?}
 {41020}{}{Very good. What about my reward now?}
 {41030}{}{That's what I am doing. You don't have to give me anything, it's what I am doing... See you.}
-{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 caps. Hope it will help you in the outside. }
+{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 @lex money@. Hope it will help you in the outside. }
 {42010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
-{42020}{}{300 caps? Isn't it a bit less for what I have done?}
-{42030}{}{300 caps? Isn't it a bit less for what I have done?}
+{42020}{}{300 @lex money@? Isn't it a bit less for what I have done?}
+{42030}{}{300 @lex money@? Isn't it a bit less for what I have done?}
 {42040}{}{Thanks. Before I leave, I have something else that I want to ask.}
-{43000}{}{You are right. How could I just... Here, I give you 100 caps more. I can't thank you enough for what you have done for me and Vault City.}
+{43000}{}{You are right. How could I just... Here, I give you 100 @lex money@ more. I can't thank you enough for what you have done for me and Vault City.}
 {43010}{}{No problem. I am busy with something else now. Bye.}
 {43020}{}{Thanks. Before I leave, I have something else I want to ask.}
 {44000}{}{I am sorry, but I can't give you any more.}
 {44010}{}{Oh well then... Guess I should go.}
 {44020}{}{Thanks... Not. Before I leave, I have something else I want to ask about.}
-{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 caps and a few Stimpaks. Hope it will help you in the outside. }
+{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 @lex money@ and a few Stimpaks. Hope it will help you in the outside. }
 {45010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -946,18 +946,18 @@ lang=engl czec pols span russ
 {41010}{}{Very good. What about my reward now?}
 {41020}{}{Very good. What about my reward now?}
 {41030}{}{That's what I am doing. You don't have to give me anything, it's what I am doing... See you.}
-{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 caps. Hope it will help you in the outside. }
+{42000}{}{You have helped me a lot, I can't thank you more. I can give you 300 @lex money@. Hope it will help you in the outside. }
 {42010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
-{42020}{}{300 caps? Isn't it a bit less for what I have done?}
-{42030}{}{300 caps? Isn't it a bit less for what I have done?}
+{42020}{}{300 @lex money@? Isn't it a bit less for what I have done?}
+{42030}{}{300 @lex money@? Isn't it a bit less for what I have done?}
 {42040}{}{Thanks. Before I leave, I have something else that I want to ask.}
-{43000}{}{You are right. How could I just... Here, I give you 100 caps more. I can't thank you enough for what you have done for me and Vault City.}
+{43000}{}{You are right. How could I just... Here, I give you 100 @lex money@ more. I can't thank you enough for what you have done for me and Vault City.}
 {43010}{}{No problem. I am busy with something else now. Bye.}
 {43020}{}{Thanks. Before I leave, I have something else I want to ask.}
 {44000}{}{I am sorry, but I can't give you any more.}
 {44010}{}{Oh well then... Guess I should go.}
 {44020}{}{Thanks... Not. Before I leave, I have something else I want to ask about.}
-{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 caps and a few Stimpaks. Hope it will help you in the outside. }
+{45000}{}{You have helped me a lot, I can't thank you more. I can give you 400 @lex money@ and a few Stimpaks. Hope it will help you in the outside. }
 {45010}{}{Thank you. It was interesting to work for a real doctor. But I have to go now, checking out other issues.}
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 

@@ -6,37 +6,37 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 8 2030 D _var p q_rockside_breakit = 1 D _item p PID_BEER } 1 R _var p q_rockside_breakit = 4 R _param p ST_EXPERIENCE + 100 R _item p PID_BEER - 1 R _item p PID_9MM_MAUSER + 1 R _item p PID_9MM_AMMO + 10 #
 10 2040 D _var p q_rockside_breakit = 3 D _item p PID_BEER } 1 R _var p q_rockside_breakit = 5 R _param p ST_EXPERIENCE + 250 R _item p PID_BEER - 1 R _item p PID_9MM_MAUSER + 1 R _item p PID_9MM_AMMO + 30 #
 0 2050 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 5 4020 #
 9 4030 #
 0 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 6 5020 #
 9 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _var p q_rockside_breakit = 0 #
 7 6020 D _var p q_rockside_breakit = 0 #
 9 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 D _var p q_rockside_breakit = 0 R _var p q_rockside_breakit = 1 #
 0 7020 D _var p q_rockside_breakit = 0 R _var p q_rockside_breakit = 1 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 #
 0 8020 #
 0 8030 @
-9 9000 None 0 @
-10 10000 None 0 #
+9 9000 main@dlg_Caps 0 @
+10 10000 main@dlg_Caps 0 #
 0 10010 #
 0 10020 &
 
@@ -48,8 +48,8 @@ lang=engl czec pols span russ
 {2000}{}{What do you need, fresher?}
 {2010}{}{Fresher?}
 {2020}{}{Who are you?}
-{2030}{}{Hey I have a bottle of beer for ya.}
-{2040}{}{Hello again. I have some beery for you. [ Give him a bottle of spoiled beer ]}
+{2030}{}{Hey I have a @lex prefix@ of beer for ya.}
+{2040}{}{Hello again. I have some beery for you. [ Give him a @lex prefix@ of spoiled beer ]}
 {2050}{}{Nothing. Gonna go.}
 {3000}{}{Oh please... You are dump as a box of rocks. Go waste time somewhere else.}
 {4000}{}{My name is Dr. Breakit. But for you I am your lord and king.}
@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 {6010}{}{So you are just a classic bandit or so, huh?}
 {6020}{}{I see.}
 {6030}{}{Lovely story... Lovely ending. You forgot to mention where exactly your coffin will be placed, oldman.}
-{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a bottle of beer.}
+{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a @lex prefix@ of beer.}
 {7010}{}{Fine...}
 {7020}{}{I am not a delivery guy. You better do it yourself... granny.}
 {8000}{}{Da hell, budy? If you keep on running around, helping everyone, like a slut in Reno you will end up in a dumpster. Fucking freshers, look, just take this pistol and go kill somebody. Stop messing around me with this kind look in your eyes and desire to save the freaking world.
@@ -80,14 +80,14 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
 {2010}{}{Fresher?}
 {2020}{}{Who are you?}
-{2030}{}{Hey I have a bottle of beer for ya.}
-{2040}{}{Hello again. I have some beery for you. [ Give him a bottle of spoiled beer ]}
+{2030}{}{Hey I have a @lex prefix@ of beer for ya.}
+{2040}{}{Hello again. I have some beery for you. [ Give him a @lex prefix@ of spoiled beer ]}
 {2050}{}{Nothing. Gonna go.}
 {3000}{}{Oh please... You are dump as a box of rocks. Go waste time somewhere else.}
 {4000}{}{My name is Dr. Breakit. But for you I am your lord and king.}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {6010}{}{So you are just a classic bandit or so, huh?}
 {6020}{}{I see.}
 {6030}{}{Lovely story... Lovely ending. You forgot to mention where exactly your coffin will be placed, oldman.}
-{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a bottle of beer.}
+{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a @lex prefix@ of beer.}
 {7010}{}{Fine...}
 {7020}{}{I am not a delivery guy. You better do it yourself... granny.}
 {8000}{}{Da hell, budy? If you keep on running around, helping everyone, like a slut in Reno you will end up in a dumpster. Fucking freshers, look, just take this pistol and go kill somebody. Stop messing around me with this kind look in your eyes and desire to save the freaking world.
@@ -118,14 +118,14 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
 {2010}{}{Fresher?}
 {2020}{}{Who are you?}
-{2030}{}{Hey I have a bottle of beer for ya.}
-{2040}{}{Hello again. I have some beery for you. [ Give him a bottle of spoiled beer ]}
+{2030}{}{Hey I have a @lex prefix@ of beer for ya.}
+{2040}{}{Hello again. I have some beery for you. [ Give him a @lex prefix@ of spoiled beer ]}
 {2050}{}{Nothing. Gonna go.}
 {3000}{}{Oh please... You are dump as a box of rocks. Go waste time somewhere else.}
 {4000}{}{My name is Dr. Breakit. But for you I am your lord and king.}
@@ -142,7 +142,7 @@ lang=engl czec pols span russ
 {6010}{}{So you are just a classic bandit or so, huh?}
 {6020}{}{I see.}
 {6030}{}{Lovely story... Lovely ending. You forgot to mention where exactly your coffin will be placed, oldman.}
-{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a bottle of beer.}
+{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a @lex prefix@ of beer.}
 {7010}{}{Fine...}
 {7020}{}{I am not a delivery guy. You better do it yourself... granny.}
 {8000}{}{Da hell, budy? If you keep on running around, helping everyone, like a slut in Reno you will end up in a dumpster. Fucking freshers, look, just take this pistol and go kill somebody. Stop messing around me with this kind look in your eyes and desire to save the freaking world.
@@ -156,14 +156,14 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
 {2010}{}{Fresher?}
 {2020}{}{Who are you?}
-{2030}{}{Hey I have a bottle of beer for ya.}
-{2040}{}{Hello again. I have some beery for you. [ Give him a bottle of spoiled beer ]}
+{2030}{}{Hey I have a @lex prefix@ of beer for ya.}
+{2040}{}{Hello again. I have some beery for you. [ Give him a @lex prefix@ of spoiled beer ]}
 {2050}{}{Nothing. Gonna go.}
 {3000}{}{Oh please... You are dump as a box of rocks. Go waste time somewhere else.}
 {4000}{}{My name is Dr. Breakit. But for you I am your lord and king.}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {6010}{}{So you are just a classic bandit or so, huh?}
 {6020}{}{I see.}
 {6030}{}{Lovely story... Lovely ending. You forgot to mention where exactly your coffin will be placed, oldman.}
-{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a bottle of beer.}
+{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a @lex prefix@ of beer.}
 {7010}{}{Fine...}
 {7020}{}{I am not a delivery guy. You better do it yourself... granny.}
 {8000}{}{Da hell, budy? If you keep on running around, helping everyone, like a slut in Reno you will end up in a dumpster. Fucking freshers, look, just take this pistol and go kill somebody. Stop messing around me with this kind look in your eyes and desire to save the freaking world.
@@ -194,14 +194,14 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
 {2010}{}{Fresher?}
 {2020}{}{Who are you?}
-{2030}{}{Hey I have a bottle of beer for ya.}
-{2040}{}{Hello again. I have some beery for you. [ Give him a bottle of spoiled beer ]}
+{2030}{}{Hey I have a @lex prefix@ of beer for ya.}
+{2040}{}{Hello again. I have some beery for you. [ Give him a @lex prefix@ of spoiled beer ]}
 {2050}{}{Nothing. Gonna go.}
 {3000}{}{Oh please... You are dump as a box of rocks. Go waste time somewhere else.}
 {4000}{}{My name is Dr. Breakit. But for you I am your lord and king.}
@@ -218,7 +218,7 @@ lang=engl czec pols span russ
 {6010}{}{So you are just a classic bandit or so, huh?}
 {6020}{}{I see.}
 {6030}{}{Lovely story... Lovely ending. You forgot to mention where exactly your coffin will be placed, oldman.}
-{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a bottle of beer.}
+{7000}{}{Ah whatever, scrub. Be a good budy and bring old raider a @lex prefix@ of beer.}
 {7010}{}{Fine...}
 {7020}{}{I am not a delivery guy. You better do it yourself... granny.}
 {8000}{}{Da hell, budy? If you keep on running around, helping everyone, like a slut in Reno you will end up in a dumpster. Fucking freshers, look, just take this pistol and go kill somebody. Stop messing around me with this kind look in your eyes and desire to save the freaking world.

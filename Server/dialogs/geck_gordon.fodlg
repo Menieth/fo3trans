@@ -6,17 +6,17 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_player_npc = 0 R _var n name_mem_player_npc = 1 #
 5 1020 D _var p name_mem_npc_player = 1 #
 4 1030 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 @
-5 5000 None 0 #
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 #
 0 5010 &
 
 [engl]
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }

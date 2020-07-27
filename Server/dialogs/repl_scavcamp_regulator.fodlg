@@ -6,65 +6,65 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 18 1010 D _param n ST_INTELLECT < 4 #
 16 1020 D _var p q_la_howitzer = 2 #
 3 1030 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 2 1040 @
-16 2000 None 0 #
+16 2000 main@dlg_Caps 0 #
 0 2010 R _item p PID_TICKET + 1 R _var p q_la_howitzer = 4 @
-2 3000 None 0 #
+2 3000 main@dlg_Caps 0 #
 0 3010 #
 19 3020 #
 13 3030 D _var p q_la_howitzer = 0 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 5 4010 #
 4 4020 #
 13 4030 D _var p q_la_howitzer = 0 #
 0 4040 @
-4 5000 None 0 #
+4 5000 main@dlg_Caps 0 #
 17 5010 #
 11 5020 #
 7 5030 @
-5 6000 None 0 #
+5 6000 main@dlg_Caps 0 #
 7 6010 #
 7 6020 #
 9 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 10 7020 @
-6 8000 None 0 #
+6 8000 main@dlg_Caps 0 #
 4 8010 #
 7 8020 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 0 9010 #
 11 9020 @
-9 10000 None 0 #
+9 10000 main@dlg_Caps 0 #
 0 10010 #
 4 10020 #
 13 10030 @
-10 11000 None 0 #
+10 11000 main@dlg_Caps 0 #
 12 11010 #
 0 11020 @
-11 12000 None 0 #
+11 12000 main@dlg_Caps 0 #
 7 12010 @
-12 13000 None 0 #
+12 13000 main@dlg_Caps 0 #
 0 13010 @
-13 14000 None 0 #
+13 14000 main@dlg_Caps 0 #
 14 14010 #
 15 14020 #
 0 14030 @
-14 15000 None 0 #
+14 15000 main@dlg_Caps 0 #
 0 15010 #
 4 15020 #
 15 15030 @
-15 16000 None 0 #
+15 16000 main@dlg_Caps 0 #
 0 16010 R _var p q_la_howitzer = 1 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 0 17010 R _script dialog@r_ShowLocation 1 38 #
 11 17020 @
-18 18000 None 0 @
-19 19000 None 0 #
+18 18000 main@dlg_Caps 0 @
+19 19000 main@dlg_Caps 0 #
 17 19010 #
 0 19020 &
 
@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}
@@ -198,7 +198,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}
@@ -326,7 +326,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}

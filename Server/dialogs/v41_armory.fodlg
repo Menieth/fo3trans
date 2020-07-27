@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 D _var p v41_access = 0 #
 5 2030 D _var p v41_access = 1 R _script dialog@r_OpenDoor 2 19 900 R _var p v41_access = 0 #
 0 2040 #
 6 2050 R _script dialog@r_OpenDoor 2 20 900 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 @
-4 4000 None 0 @
-5 5000 None 0 @
-6 6000 None 0 &
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Welcome back. please select the option. ]}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {6000}{}{[ Operating... ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Welcome back. please select the option. ]}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {6000}{}{[ Operating... ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Welcome back. please select the option. ]}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {6000}{}{[ Operating... ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Welcome back. please select the option. ]}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {6000}{}{[ Operating... ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Welcome back. please select the option. ]}

@@ -6,53 +6,53 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p q_raiders_hernandez_sister = 0 #
 3 1020 D _var p q_raiders_hernandez_sister = 1 #
 17 1030 D _var p q_raiders_hernandez_sister > 1 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 #
 65507 3030 R _var p q_raiders_hernandez_sister + 1 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _param p SK_SPEECH < 80 #
 6 4020 D _param p SK_SPEECH > 79 #
 7 4030 #
 8 4040 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 #
 8 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 9 6010 #
 10 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 10 7010 #
 11 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 R _var p q_raiders_hernandez_sister + 1 #
 7 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 12 9010 #
 13 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 14 10020 #
 13 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 15 11010 #
 0 11020 R _var p q_raiders_hernandez_sister + 1 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 16 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 R _var p q_raiders_hernandez_sister + 1 R _param p ST_EXPERIENCE + 1200 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 R _var p q_raiders_hernandez_sister + 1 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 0 15010 R _var p q_raiders_hernandez_sister + 1 R _item p PID_CURED_LEATHER_ARMOR + 1 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 0 16010 R _var p q_raiders_hernandez_sister + 2 R _param p ST_EXPERIENCE + 2000 @
-17 17000 None 0 &
+17 17000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Lucy}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}
@@ -261,7 +261,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}

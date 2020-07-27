@@ -6,47 +6,47 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 3 1010 D _param p ST_INTELLECT < 4 #
 17 1020 D _var n name_mem_npc_player = 1 #
 2 1030 D _var n name_mem_npc_player = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 #
 4 2020 #
 5 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 #
 9 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 8 6010 #
 7 6020 #
 2 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 #
 12 7020 #
 2 7030 #
 15 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 13 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 13 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-13 11000 None 0 #
+13 11000 main@dlg_Caps 0 #
 11 11010 @
 11 12000 Attack 0 @
-12 13000 None 0 @
-15 14000 None 0 #
+12 13000 main@dlg_Caps 0 @
+15 14000 main@dlg_Caps 0 #
 16 14010 #
 0 14020 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 0 15010 R _var p sex_exp + 20 R _item p PID_BLUE_CONDOM + 2 R _var n name_mem_npc_player = 1 R _param n ST_CURRENT_HP - 20 @
-17 16000 None 0 &
+17 16000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Miria}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}

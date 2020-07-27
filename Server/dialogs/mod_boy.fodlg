@@ -6,13 +6,13 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _param p KARMA_SLAVER > 0 #
 2 1020 D _param p ST_KARMA > 100 #
 3 1030 D _param p ST_KARMA < 100 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 &
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Boy}
@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}

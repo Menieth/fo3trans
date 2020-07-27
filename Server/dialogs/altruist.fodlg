@@ -6,15 +6,15 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _script dialog_altruist@r_Give 1 0 #
 3 2020 R _script dialog_altruist@r_Give 1 1 #
 3 2030 R _script dialog_altruist@r_Give 1 4 #
 4 2040 @
-3 3000 None 0 @
-4 4000 None 0 #
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 3 4010 D _script dialog_altruist@d_CanTakePerk 1 301 R _script dialog_altruist@r_GivePerk 1 301 #
 3 4020 D _script dialog_altruist@d_CanTakePerk 1 308 R _script dialog_altruist@r_GivePerk 1 308 #
 3 4030 D _script dialog_altruist@d_CanTakePerk 1 312 R _script dialog_altruist@r_GivePerk 1 312 #
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}
@@ -215,7 +215,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}

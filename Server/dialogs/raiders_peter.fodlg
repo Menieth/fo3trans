@@ -6,39 +6,39 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 41 1010 D _var n acquaintance > 2 #
 40 1020 D _param p ST_KARMA > 99 R _var n acquaintance + 1 #
 2 1030 D _var n name_mem_npc_player = 0 #
 12 1040 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 3 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _var n name_mem_npc_player = 1 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _param p ST_CHARISMA > 3 #
 8 4020 D _param p ST_CHARISMA < 4 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 D _param p ST_CHARISMA > 4 #
 8 6020 D _param p ST_CHARISMA < 5 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 D _param p ST_CHARISMA > 5 #
 8 7020 D _param p ST_CHARISMA < 6 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 @
-12 12000 None 0 @
-40 13000 None 0 @
+12 12000 main@dlg_Caps 0 @
+40 13000 main@dlg_Caps 0 @
 41 14000 Attack 0 &
 
 [engl]
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}

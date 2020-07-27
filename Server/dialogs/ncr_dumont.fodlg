@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 1020 D _var p name_mem_npc_player = 1 #
 3 1030 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 &
 
 [engl]
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 D _param p ST_INTELLECT > 4 #
 4 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 7 4020 #
 75 4030 D _script town@d_IsControllingTown 1 1 #
@@ -24,33 +24,33 @@ lang=engl czec pols span russ
 120 4080 D _script town@d_IsControllingTown 1 1 #
 500 4090 D _script town@d_CanChangeLaws 0  #
 0 4100 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 #
 7 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 4 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 6 7010 #
 8 7020 #
 4 7030 #
 0 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 4 10020 #
 0 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 4 11010 #
 0 11020 @
 50 12000 town@dlg_ShowMilitiaCost 0 #
 50 12010 R _script town@r_RecruitMilitia 0  #
 4 12020 @
-75 13000 None 0 #
+75 13000 main@dlg_Caps 0 #
 76 13010 #
 77 13020 R _script town@r_SetFriendlyFactionsMode 1 1 #
 77 13030 R _script town@r_SetFriendlyFactionsMode 1 0 @
@@ -60,19 +60,19 @@ lang=engl czec pols span russ
 4 14030 @
 77 15000 town@dlg_ManipulateFriendlyFactions 0 #
 4 15010 @
-80 16000 None 0 #
+80 16000 main@dlg_Caps 0 #
 81 16010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckGunsmithB0 1 0 #
 82 16020 D _script dialog@d_CheckGunsmithB1 1 0 #
 0 16030 @
-81 17000 None 0 #
+81 17000 main@dlg_Caps 0 #
 83 17010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_B = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 17020 @
-82 18000 None 0 #
+82 18000 main@dlg_Caps 0 #
 84 18010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_B = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 18020 @
-83 19000 None 0 #
+83 19000 main@dlg_Caps 0 #
 0 19010 @
-84 20000 None 0 #
+84 20000 main@dlg_Caps 0 #
 0 20010 @
 302 21000 dialog@dlg_ShowFaction 0 #
 0 21010 #
@@ -81,14 +81,14 @@ lang=engl czec pols span russ
 301 22000 dialog@dlg_ShowFaction 0 #
 0 22010 #
 130 22020 D _script town@d_PresentAlmost 1 1 R _script town@r_TakeoverCheck 1 0 @
-130 23000 None 0 #
+130 23000 main@dlg_Caps 0 #
 0 23010 #
 65507 23020 @
-310 24000 None 0 #
+310 24000 main@dlg_Caps 0 #
 0 24010 D _script town@d_GainControl 1 1 @
-320 25000 None 0 #
+320 25000 main@dlg_Caps 0 #
 0 25010 D _script town@d_GainControl 1 1 @
-120 26000 None 0 @
+120 26000 main@dlg_Caps 0 @
 500 27000 town@dlg_ShowPolicies 0 #
 500 27010 D _script town@d_IsPolicy 1 2 R _script town@r_SetPolicy 2 2 0 #
 500 27020 D _script town@d_IsNotPolicy 1 2 R _script town@r_SetPolicy 2 2 1 #
@@ -97,16 +97,16 @@ lang=engl czec pols span russ
 500 27050 D _script town@d_IsNotPolicy 1 3 R _script town@r_SetPolicy 2 3 1 #
 500 27060 D _script town@d_IsPolicy 1 3 R _script town@r_SetPolicy 2 3 0 #
 4 27070 @
-410 28000 None 0 #
+410 28000 main@dlg_Caps 0 #
 0 28010 @
-420 29000 None 0 #
+420 29000 main@dlg_Caps 0 #
 0 29010 @
-430 30000 None 0 #
+430 30000 main@dlg_Caps 0 #
 0 30010 @
-440 31000 None 0 @
-450 32000 None 0 #
+440 31000 main@dlg_Caps 0 @
+450 32000 main@dlg_Caps 0 #
 0 32010 @
-330 33000 None 0 &
+330 33000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Marcus}
@@ -155,8 +155,8 @@ lang=engl czec pols span russ
 {11000}{}{I'm not gonna argue with you, but the fact some mutants are not mindless killers can't be beaten. You are safe in Broken Hills, I assure you.}
 {11010}{}{Yah. I had some more questions.}
 {11020}{}{Oh. My mistake. Well, thanks. Bye.}
-{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{12010}{}{Sounds good, here's @lex cost@ caps.}
+{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{12010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {12020}{}{Nah, I think we're doing fine as it is now.}
 {13000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {13010}{}{Show me the friendly factions.}
@@ -172,11 +172,11 @@ lang=engl czec pols span russ
 {16010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {16020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {16030}{}{Erhm... Actually, nothing right now. I better be going.}
-{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {17010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {17020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {18000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{18010}{}{It wasn't easy to find that many caps... It better be worth it! [Give him $3000]}
+{18010}{}{It wasn't easy to find that many @lex money@... It better be worth it! [Give him $3000]}
 {18020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {19000}{}{Very well, it's a deal then. [Marcus starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
 {19010}{}{Thanks for everything Jester, that's exectly what I wanted to know. See you!}
@@ -212,7 +212,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {28010}{}{Right.}
 {29000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {29010}{}{Ok.}
-{30000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{30000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {30010}{}{Yeah, yeah...}
 {31000}{}{Error. Report this.}
 {32000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -220,7 +220,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {33000}{}{Guards, get those retards!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Normal}
@@ -262,8 +262,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {11000}{}{I'm not gonna argue with you, but the fact some mutants are not mindless killers can't be beaten. You are safe in Broken Hills, I assure you.}
 {11010}{}{Yah. I had some more questions.}
 {11020}{}{Oh. My mistake. Well, thanks. Bye.}
-{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{12010}{}{Sounds good, here's @lex cost@ caps.}
+{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{12010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {12020}{}{Nah, I think we're doing fine as it is now.}
 {13000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {13010}{}{Show me the friendly factions.}
@@ -279,11 +279,11 @@ Attacking criminals on sight: @lex attackflagged@}
 {16010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {16020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {16030}{}{Erhm... Actually, nothing right now. I better be going.}
-{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {17010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {17020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {18000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{18010}{}{It wasn't easy to find that many caps... It better be worth it! [Give him $3000]}
+{18010}{}{It wasn't easy to find that many @lex money@... It better be worth it! [Give him $3000]}
 {18020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {19000}{}{Very well, it's a deal then. [Marcus starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
 {19010}{}{Thanks for everything Jester, that's exectly what I wanted to know. See you!}
@@ -319,7 +319,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {28010}{}{Right.}
 {29000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {29010}{}{Ok.}
-{30000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{30000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {30010}{}{Yeah, yeah...}
 {31000}{}{Error. Report this.}
 {32000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -327,7 +327,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {33000}{}{Guards, get those retards!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Normal}
@@ -369,8 +369,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {11000}{}{I'm not gonna argue with you, but the fact some mutants are not mindless killers can't be beaten. You are safe in Broken Hills, I assure you.}
 {11010}{}{Yah. I had some more questions.}
 {11020}{}{Oh. My mistake. Well, thanks. Bye.}
-{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{12010}{}{Sounds good, here's @lex cost@ caps.}
+{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{12010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {12020}{}{Nah, I think we're doing fine as it is now.}
 {13000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {13010}{}{Show me the friendly factions.}
@@ -386,11 +386,11 @@ Attacking criminals on sight: @lex attackflagged@}
 {16010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {16020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {16030}{}{Erhm... Actually, nothing right now. I better be going.}
-{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {17010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {17020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {18000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{18010}{}{It wasn't easy to find that many caps... It better be worth it! [Give him $3000]}
+{18010}{}{It wasn't easy to find that many @lex money@... It better be worth it! [Give him $3000]}
 {18020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {19000}{}{Very well, it's a deal then. [Marcus starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
 {19010}{}{Thanks for everything Jester, that's exectly what I wanted to know. See you!}
@@ -426,7 +426,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {28010}{}{Right.}
 {29000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {29010}{}{Ok.}
-{30000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{30000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {30010}{}{Yeah, yeah...}
 {31000}{}{Error. Report this.}
 {32000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -434,7 +434,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {33000}{}{Guards, get those retards!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Normal}
@@ -476,8 +476,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {11000}{}{I'm not gonna argue with you, but the fact some mutants are not mindless killers can't be beaten. You are safe in Broken Hills, I assure you.}
 {11010}{}{Yah. I had some more questions.}
 {11020}{}{Oh. My mistake. Well, thanks. Bye.}
-{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{12010}{}{Sounds good, here's @lex cost@ caps.}
+{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{12010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {12020}{}{Nah, I think we're doing fine as it is now.}
 {13000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {13010}{}{Show me the friendly factions.}
@@ -493,11 +493,11 @@ Attacking criminals on sight: @lex attackflagged@}
 {16010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {16020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {16030}{}{Erhm... Actually, nothing right now. I better be going.}
-{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {17010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {17020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {18000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{18010}{}{It wasn't easy to find that many caps... It better be worth it! [Give him $3000]}
+{18010}{}{It wasn't easy to find that many @lex money@... It better be worth it! [Give him $3000]}
 {18020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {19000}{}{Very well, it's a deal then. [Marcus starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
 {19010}{}{Thanks for everything Jester, that's exectly what I wanted to know. See you!}
@@ -533,7 +533,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {28010}{}{Right.}
 {29000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {29010}{}{Ok.}
-{30000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{30000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {30010}{}{Yeah, yeah...}
 {31000}{}{Error. Report this.}
 {32000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -541,7 +541,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {33000}{}{Guards, get those retards!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Normal}
@@ -583,8 +583,8 @@ Attacking criminals on sight: @lex attackflagged@}
 {11000}{}{I'm not gonna argue with you, but the fact some mutants are not mindless killers can't be beaten. You are safe in Broken Hills, I assure you.}
 {11010}{}{Yah. I had some more questions.}
 {11020}{}{Oh. My mistake. Well, thanks. Bye.}
-{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{12010}{}{Sounds good, here's @lex cost@ caps.}
+{12000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{12010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {12020}{}{Nah, I think we're doing fine as it is now.}
 {13000}{}{So, what about friendly factions? Do you want me to make sure the militia looks after a certain faction?}
 {13010}{}{Show me the friendly factions.}
@@ -600,11 +600,11 @@ Attacking criminals on sight: @lex attackflagged@}
 {16010}{}{I would like to know how they work, what they're made of... technical stuff.}
 {16020}{}{I thought you could clarify some things about the construction and usage of big guns to me.}
 {16030}{}{Erhm... Actually, nothing right now. I better be going.}
-{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on caps, maybe you could bring me... Let's say $1500.}
+{17000}{}{I really hope you know what you're talking about, otherwise it'll be waste of time. And I need something in return. I'm always short on @lex money@, maybe you could bring me... Let's say $1500.}
 {17010}{}{Okay, I think I've got fifteen hundred right here. Why don't you take it, so we can start right away? [Give him $1500]}
 {17020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {18000}{}{Yeah, I see you're already skilled with those, so it shouldn't take too long. But, you see, I recently ran into some financial problems... How about you get me $3000 and I show you everything I know?}
-{18010}{}{It wasn't easy to find that many caps... It better be worth it! [Give him $3000]}
+{18010}{}{It wasn't easy to find that many @lex money@... It better be worth it! [Give him $3000]}
 {18020}{}{Too bad, I don't have that much on me right now. Maybe some other time then.}
 {19000}{}{Very well, it's a deal then. [Marcus starts explaining. Finally, he gives you a magazine about weapons and ammunition.]}
 {19010}{}{Thanks for everything Jester, that's exectly what I wanted to know. See you!}
@@ -640,7 +640,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {28010}{}{Right.}
 {29000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {29010}{}{Ok.}
-{30000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{30000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {30010}{}{Yeah, yeah...}
 {31000}{}{Error. Report this.}
 {32000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}

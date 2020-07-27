@@ -6,46 +6,46 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 2020 #
 9 2030 D _var p wow_foxlove = 0 #
 0 2040 #
 13 2050 D _var p wow_foxlove = 2 R _var p wow_foxlove = 3 R _param p ST_EXPERIENCE + 2400 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 #
 0 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 #
 14 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 2 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 2 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 2 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 R _var p wow_foxlove = 1 #
 12 9020 R _var p wow_foxlove = 1 #
 0 9030 @
-10 10000 None 0 @
-12 11000 None 0 @
-13 12000 None 0 #
+10 10000 main@dlg_Caps 0 @
+12 11000 main@dlg_Caps 0 @
+13 12000 main@dlg_Caps 0 #
 0 12010 D _var p wow_foxlove = 3 R _item p PID_BOTTLE_CAPS + 900 #
 0 12020 D _var p wow_foxlove = 3 R _item p PID_BOTTLE_CAPS + 900 #
 0 12030 D _var p wow_foxlove = 3 R _item p PID_BOTTLE_CAPS + 900 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 15 13010 #
 0 13020 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 2 14010 &
 
 [engl]
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
 {7010}{}{What about buying some good weaponary?}
 {7020}{}{FIne. One more question...}
-{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no @lex money@ either, that's why I create these machines. They are our only hope.}
 {8010}{}{I see... One more thing.}
 {9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
 {9010}{}{Alright. I will do it.}
@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {14010}{}{Right... One more thing...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah? What is it?}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
 {7010}{}{What about buying some good weaponary?}
 {7020}{}{FIne. One more question...}
-{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no @lex money@ either, that's why I create these machines. They are our only hope.}
 {8010}{}{I see... One more thing.}
 {9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
 {9010}{}{Alright. I will do it.}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {14010}{}{Right... One more thing...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah? What is it?}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
 {7010}{}{What about buying some good weaponary?}
 {7020}{}{FIne. One more question...}
-{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no @lex money@ either, that's why I create these machines. They are our only hope.}
 {8010}{}{I see... One more thing.}
 {9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
 {9010}{}{Alright. I will do it.}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {14010}{}{Right... One more thing...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah? What is it?}
@@ -206,7 +206,7 @@ lang=engl czec pols span russ
 {7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
 {7010}{}{What about buying some good weaponary?}
 {7020}{}{FIne. One more question...}
-{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no @lex money@ either, that's why I create these machines. They are our only hope.}
 {8010}{}{I see... One more thing.}
 {9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
 {9010}{}{Alright. I will do it.}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {14010}{}{Right... One more thing...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yeah? What is it?}
@@ -250,7 +250,7 @@ lang=engl czec pols span russ
 {7000}{}{Our weapons are trash, most of the high tech weaponary our ancestors once had is now decaying into rust. So our men have to fight with some self made fire sticks. You can hardly call it a weapon.}
 {7010}{}{What about buying some good weaponary?}
 {7020}{}{FIne. One more question...}
-{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no caps either, that's why I create these machines. They are our only hope.}
+{8000}{}{Roads here are very unsecure, so caravans are rare here. And so we have no @lex money@ either, that's why I create these machines. They are our only hope.}
 {8010}{}{I see... One more thing.}
 {9000}{}{Yeah... Look, one bot got lost somewhere around here. It is a Flying Eye Bot model. Can you check for him around?}
 {9010}{}{Alright. I will do it.}

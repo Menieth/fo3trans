@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Van Graffs merc}
@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}

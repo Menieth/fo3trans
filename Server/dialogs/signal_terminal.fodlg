@@ -6,23 +6,23 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 #
 5 4020 D _item p PID_YELLOW_PASS_KEY } 1 R _item p PID_YELLOW_PASS_KEY - 1 R _script dialog@dlg_OpenDoor 1 300 R _script dialog@dlg_OpenDoor 1 301 #
 0 4030 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {5000}{}{[ OPERATING... ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {5000}{}{[ OPERATING... ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {5000}{}{[ OPERATING... ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {5000}{}{[ OPERATING... ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ERROR... MAINFRAME IS OFFLINE ]}

@@ -6,64 +6,64 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 7 1010 D _param p ST_INTELLECT < 4 #
 2 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 4 1030 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 12 2010 D _var p acquaintance = 0 D _var p q_vc_collectrent = 1 #
 8 2020 D _var p q_modoc_balthas_fetcher = 2 #
 3 2030 #
 5 2040 #
 6 2050 #
 0 2060 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 12 4010 D _var p acquaintance = 0 D _var p q_vc_collectrent = 1 #
 8 4020 D _var p q_modoc_balthas_fetcher = 2 #
 3 4030 #
 5 4040 #
 6 4050 #
 0 4060 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 4 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 4 6010 #
 0 6020 @
-7 7000 None 0 @
-8 8000 None 0 #
+7 7000 main@dlg_Caps 0 @
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 D _param p ST_CHARISMA < 11 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 R _var p q_modoc_balthas_fetcher = 3 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 #
 16 13020 #
 0 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 65507 14010 #
 15 14020 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 13 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 14 16010 #
 17 16020 #
 0 16030 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 65507 18010 R _var p acquaintance = 1 R _script dialog@r_AddMoney 1 200 #
 0 18020 R _var p acquaintance = 1 R _script dialog@r_AddMoney 1 200 &
 
@@ -108,7 +108,7 @@ lang=engl czec pols span russ
 {10020}{}{That sucks. I guess I'll try something else.}
 {11000}{}{I dunno about that...but hell I'll give it a shot. I've normally got a bit of a surplus anyway. Maybe I could send a few of the less desirables over to Modoc as an investment.}
 {11010}{}{Thanks Ed! It'll come good, I'm sure of it.}
-{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out caps and starts counting) 1... 2... 3...}
+{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out @lex money@ and starts counting) 1... 2... 3...}
 {12010}{}{[Wait]}
 {12020}{}{I don't have time for this. I gotta go.}
 {13000}{}{(Time passes as you stand there watching Ed count) 102... 103... 104...}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {14010}{}{Bite me!}
 {14020}{}{I was just kiddin' around. Continue the counting.}
 {14030}{}{I'm on my way out of here. }
-{15000}{}{Now you better be patient. (Ed starts counting the caps again) 1... 2... 3...}
+{15000}{}{Now you better be patient. (Ed starts counting the @lex money@ again) 1... 2... 3...}
 {15010}{}{[Wait]}
 {15020}{}{I don't have time for this. I gotta go.}
 {16000}{}{(Your eyelids are getting heavy) 214... 215... 216...}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {10020}{}{That sucks. I guess I'll try something else.}
 {11000}{}{I dunno about that...but hell I'll give it a shot. I've normally got a bit of a surplus anyway. Maybe I could send a few of the less desirables over to Modoc as an investment.}
 {11010}{}{Thanks Ed! It'll come good, I'm sure of it.}
-{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out caps and starts counting) 1... 2... 3...}
+{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out @lex money@ and starts counting) 1... 2... 3...}
 {12010}{}{[Wait]}
 {12020}{}{I don't have time for this. I gotta go.}
 {13000}{}{(Time passes as you stand there watching Ed count) 102... 103... 104...}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {14010}{}{Bite me!}
 {14020}{}{I was just kiddin' around. Continue the counting.}
 {14030}{}{I'm on my way out of here. }
-{15000}{}{Now you better be patient. (Ed starts counting the caps again) 1... 2... 3...}
+{15000}{}{Now you better be patient. (Ed starts counting the @lex money@ again) 1... 2... 3...}
 {15010}{}{[Wait]}
 {15020}{}{I don't have time for this. I gotta go.}
 {16000}{}{(Your eyelids are getting heavy) 214... 215... 216...}
@@ -196,7 +196,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -234,7 +234,7 @@ lang=engl czec pols span russ
 {10020}{}{That sucks. I guess I'll try something else.}
 {11000}{}{I dunno about that...but hell I'll give it a shot. I've normally got a bit of a surplus anyway. Maybe I could send a few of the less desirables over to Modoc as an investment.}
 {11010}{}{Thanks Ed! It'll come good, I'm sure of it.}
-{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out caps and starts counting) 1... 2... 3...}
+{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out @lex money@ and starts counting) 1... 2... 3...}
 {12010}{}{[Wait]}
 {12020}{}{I don't have time for this. I gotta go.}
 {13000}{}{(Time passes as you stand there watching Ed count) 102... 103... 104...}
@@ -245,7 +245,7 @@ lang=engl czec pols span russ
 {14010}{}{Bite me!}
 {14020}{}{I was just kiddin' around. Continue the counting.}
 {14030}{}{I'm on my way out of here. }
-{15000}{}{Now you better be patient. (Ed starts counting the caps again) 1... 2... 3...}
+{15000}{}{Now you better be patient. (Ed starts counting the @lex money@ again) 1... 2... 3...}
 {15010}{}{[Wait]}
 {15020}{}{I don't have time for this. I gotta go.}
 {16000}{}{(Your eyelids are getting heavy) 214... 215... 216...}
@@ -259,7 +259,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -297,7 +297,7 @@ lang=engl czec pols span russ
 {10020}{}{That sucks. I guess I'll try something else.}
 {11000}{}{I dunno about that...but hell I'll give it a shot. I've normally got a bit of a surplus anyway. Maybe I could send a few of the less desirables over to Modoc as an investment.}
 {11010}{}{Thanks Ed! It'll come good, I'm sure of it.}
-{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out caps and starts counting) 1... 2... 3...}
+{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out @lex money@ and starts counting) 1... 2... 3...}
 {12010}{}{[Wait]}
 {12020}{}{I don't have time for this. I gotta go.}
 {13000}{}{(Time passes as you stand there watching Ed count) 102... 103... 104...}
@@ -308,7 +308,7 @@ lang=engl czec pols span russ
 {14010}{}{Bite me!}
 {14020}{}{I was just kiddin' around. Continue the counting.}
 {14030}{}{I'm on my way out of here. }
-{15000}{}{Now you better be patient. (Ed starts counting the caps again) 1... 2... 3...}
+{15000}{}{Now you better be patient. (Ed starts counting the @lex money@ again) 1... 2... 3...}
 {15010}{}{[Wait]}
 {15020}{}{I don't have time for this. I gotta go.}
 {16000}{}{(Your eyelids are getting heavy) 214... 215... 216...}
@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -360,7 +360,7 @@ lang=engl czec pols span russ
 {10020}{}{That sucks. I guess I'll try something else.}
 {11000}{}{I dunno about that...but hell I'll give it a shot. I've normally got a bit of a surplus anyway. Maybe I could send a few of the less desirables over to Modoc as an investment.}
 {11010}{}{Thanks Ed! It'll come good, I'm sure of it.}
-{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out caps and starts counting) 1... 2... 3...}
+{12000}{}{Now wait a second... (Ed takes out a sack from the desk drawer, pours out @lex money@ and starts counting) 1... 2... 3...}
 {12010}{}{[Wait]}
 {12020}{}{I don't have time for this. I gotta go.}
 {13000}{}{(Time passes as you stand there watching Ed count) 102... 103... 104...}
@@ -371,7 +371,7 @@ lang=engl czec pols span russ
 {14010}{}{Bite me!}
 {14020}{}{I was just kiddin' around. Continue the counting.}
 {14030}{}{I'm on my way out of here. }
-{15000}{}{Now you better be patient. (Ed starts counting the caps again) 1... 2... 3...}
+{15000}{}{Now you better be patient. (Ed starts counting the @lex money@ again) 1... 2... 3...}
 {15010}{}{[Wait]}
 {15020}{}{I don't have time for this. I gotta go.}
 {16000}{}{(Your eyelids are getting heavy) 214... 215... 216...}

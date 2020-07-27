@@ -6,101 +6,101 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 3 1020 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 15 1030 D _var n name_mem_npc_player = 1 #
 5 1040 D _param p ST_INTELLECT < 4 D _var p name_mem_npc_player = 1 #
 28 1050 D _param p ST_KARMA < -100 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 6 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 11 3010 #
 12 3020 #
 13 3030 #
 14 3040 #
 25 3050 #
 0 3060 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 8 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 #
 8 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-10 10000 None 0 @
-11 11000 None 0 #
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 #
 16 11010 #
 0 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 17 12010 #
 17 12020 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 18 13010 #
 18 13020 #
 19 13030 #
 19 13040 #
 0 13050 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 29 14010 #
 0 14020 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 14 15010 #
 13 15020 #
 11 15030 #
 12 15040 #
 25 15050 #
 0 15060 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 22 16010 #
 0 16020 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 21 17010 #
 20 17020 #
 23 17030 #
 0 17040 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 27 18010 #
 0 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 21 19010 #
 22 19020 #
 22 19030 #
 0 19040 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 29 20010 #
 0 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 24 21010 #
 23 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 27 22010 #
 29 22020 #
 0 22030 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 29 23010 #
 24 23020 #
 0 23030 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 0 24010 #
 65507 24020 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 29 25010 #
 0 25020 @
-27 26000 None 0 #
+27 26000 main@dlg_Caps 0 #
 29 26010 #
 0 26020 @
-28 27000 None 0 @
-29 28000 None 0 #
+28 27000 main@dlg_Caps 0 @
+29 28000 main@dlg_Caps 0 #
 14 28010 #
 13 28020 #
 11 28030 #
@@ -216,7 +216,7 @@ lang=engl czec pols span russ
 {28060}{}{Thanks Steve, gotta go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot unknown}
 {1020}{}{Unknown}
@@ -320,7 +320,7 @@ lang=engl czec pols span russ
 {28060}{}{Thanks Steve, gotta go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot unknown}
 {1020}{}{Unknown}
@@ -424,7 +424,7 @@ lang=engl czec pols span russ
 {28060}{}{Thanks Steve, gotta go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot unknown}
 {1020}{}{Unknown}
@@ -528,7 +528,7 @@ lang=engl czec pols span russ
 {28060}{}{Thanks Steve, gotta go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot unknown}
 {1020}{}{Unknown}

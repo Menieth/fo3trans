@@ -11,33 +11,33 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 3 2020 #
 4 2030 D _var p mod_q_meat_jerky = 1 D _item p PID_MEAT_BAG > 0 R _var p mod_q_meat_jerky = 2 R _item p PID_MEAT_BAG - 1 R _param p ST_EXPERIENCE + 720 R _script dialog@r_AddMoney 1 320 #
 5 2040 D _var p q_iguana_pete_message = 1 #
 0 2050 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 65506 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 10 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 R _var p q_iguana_pete_message = 2 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 D _script dialog@d_havepropermoney 1 0 R _script dialog@r_RemoveMoney 1 1 #
 11 8020 @
-9 9000 None 0 @
-10 10000 None 0 #
+9 9000 main@dlg_Caps 0 @
+10 10000 main@dlg_Caps 0 #
 0 10010 @
-11 11000 None 0 &
+11 11000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mikey}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}

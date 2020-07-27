@@ -6,20 +6,20 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 #
 4 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -36,7 +36,7 @@ By increasing power level in heating system, we achieved great improvement of me
 {4010}{}{[ Back ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -53,7 +53,7 @@ By increasing power level in heating system, we achieved great improvement of me
 {4010}{}{[ Back ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -70,7 +70,7 @@ By increasing power level in heating system, we achieved great improvement of me
 {4010}{}{[ Back ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -87,7 +87,7 @@ By increasing power level in heating system, we achieved great improvement of me
 {4010}{}{[ Back ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}

@@ -6,31 +6,31 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 3 1010 D _param p SK_SCIENCE > 49 D _param p ST_INTELLECT > 5 D _var p factions_player_faction = 1 #
 2 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 0 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 #
 0 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 R _script map_redding_lost@r_Leader 1 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {200}{}{You see a computer.}
 {210}{}{You see a computer.}
 {1000}{}{Predialogue installations}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}
@@ -132,7 +132,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}

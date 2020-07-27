@@ -6,34 +6,34 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 #
 7 2030 D _var p q_v99_judith_beer = 0 #
 8 2040 D _var p q_v99_judith_beer = 2 #
 9 2050 D _var p q_v99_judith_beer = 3 D _item p PID_ROENTGEN_RUM = 1 R _var p q_v99_judith_beer = 4 R _item p PID_CIGARETTES + 2 R _item p PID_10MM_JHP + 15 R _item p PID_CLUB + 1 R _item p PID_ROENTGEN_RUM - 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 14 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 12 7010 #
 11 7020 R _var p q_v99_judith_beer = 1 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 13 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-11 10000 None 0 @
-12 11000 None 0 @
-13 12000 None 0 @
-14 13000 None 0 @
-15 14000 None 0 &
+11 10000 main@dlg_Caps 0 @
+12 11000 main@dlg_Caps 0 @
+13 12000 main@dlg_Caps 0 @
+14 13000 main@dlg_Caps 0 @
+15 14000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Judith}
@@ -55,10 +55,10 @@ lang=engl czec pols span russ
 {5010}{}{How come?}
 {6000}{}{Well, when war came our department faced certain... restrictions. It doesn't matter anyway.}
 {6010}{}{I see... Sad to hear.}
-{7000}{}{Sure, bring some rum, Cooker must have one bottle for me.}
+{7000}{}{Sure, bring some rum, Cooker must have one @lex prefix@ for me.}
 {7010}{}{I will think about it.}
 {7020}{}{Sure, I will bring you it.}
-{8000}{}{Damn asshole... Eh, well, I dont have any caps. Would you mind to pay for me?}
+{8000}{}{Damn asshole... Eh, well, I dont have any @lex money@. Would you mind to pay for me?}
 {8010}{}{I will think about it.}
 {9000}{}{Thank you a lot, here, take this. You are a nice person, hope you will survive in this freaking disgusting world.}
 {9010}{}{Thanks, now I need to go.}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -86,10 +86,10 @@ lang=engl czec pols span russ
 {5010}{}{How come?}
 {6000}{}{Well, when war came our department faced certain... restrictions. It doesn't matter anyway.}
 {6010}{}{I see... Sad to hear.}
-{7000}{}{Sure, bring some rum, Cooker must have one bottle for me.}
+{7000}{}{Sure, bring some rum, Cooker must have one @lex prefix@ for me.}
 {7010}{}{I will think about it.}
 {7020}{}{Sure, I will bring you it.}
-{8000}{}{Damn asshole... Eh, well, I dont have any caps. Would you mind to pay for me?}
+{8000}{}{Damn asshole... Eh, well, I dont have any @lex money@. Would you mind to pay for me?}
 {8010}{}{I will think about it.}
 {9000}{}{Thank you a lot, here, take this. You are a nice person, hope you will survive in this freaking disgusting world.}
 {9010}{}{Thanks, now I need to go.}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -117,10 +117,10 @@ lang=engl czec pols span russ
 {5010}{}{How come?}
 {6000}{}{Well, when war came our department faced certain... restrictions. It doesn't matter anyway.}
 {6010}{}{I see... Sad to hear.}
-{7000}{}{Sure, bring some rum, Cooker must have one bottle for me.}
+{7000}{}{Sure, bring some rum, Cooker must have one @lex prefix@ for me.}
 {7010}{}{I will think about it.}
 {7020}{}{Sure, I will bring you it.}
-{8000}{}{Damn asshole... Eh, well, I dont have any caps. Would you mind to pay for me?}
+{8000}{}{Damn asshole... Eh, well, I dont have any @lex money@. Would you mind to pay for me?}
 {8010}{}{I will think about it.}
 {9000}{}{Thank you a lot, here, take this. You are a nice person, hope you will survive in this freaking disgusting world.}
 {9010}{}{Thanks, now I need to go.}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -148,10 +148,10 @@ lang=engl czec pols span russ
 {5010}{}{How come?}
 {6000}{}{Well, when war came our department faced certain... restrictions. It doesn't matter anyway.}
 {6010}{}{I see... Sad to hear.}
-{7000}{}{Sure, bring some rum, Cooker must have one bottle for me.}
+{7000}{}{Sure, bring some rum, Cooker must have one @lex prefix@ for me.}
 {7010}{}{I will think about it.}
 {7020}{}{Sure, I will bring you it.}
-{8000}{}{Damn asshole... Eh, well, I dont have any caps. Would you mind to pay for me?}
+{8000}{}{Damn asshole... Eh, well, I dont have any @lex money@. Would you mind to pay for me?}
 {8010}{}{I will think about it.}
 {9000}{}{Thank you a lot, here, take this. You are a nice person, hope you will survive in this freaking disgusting world.}
 {9010}{}{Thanks, now I need to go.}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -179,10 +179,10 @@ lang=engl czec pols span russ
 {5010}{}{How come?}
 {6000}{}{Well, when war came our department faced certain... restrictions. It doesn't matter anyway.}
 {6010}{}{I see... Sad to hear.}
-{7000}{}{Sure, bring some rum, Cooker must have one bottle for me.}
+{7000}{}{Sure, bring some rum, Cooker must have one @lex prefix@ for me.}
 {7010}{}{I will think about it.}
 {7020}{}{Sure, I will bring you it.}
-{8000}{}{Damn asshole... Eh, well, I dont have any caps. Would you mind to pay for me?}
+{8000}{}{Damn asshole... Eh, well, I dont have any @lex money@. Would you mind to pay for me?}
 {8010}{}{I will think about it.}
 {9000}{}{Thank you a lot, here, take this. You are a nice person, hope you will survive in this freaking disgusting world.}
 {9010}{}{Thanks, now I need to go.}

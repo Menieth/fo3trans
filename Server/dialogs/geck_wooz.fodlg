@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 1020 D _var p name_mem_npc_player = 1 #
 34 1030 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 7 2010 #
 35 2020 #
 3 2030 #
 6 2040 #
 65506 2050 #
 0 2060 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 7 4010 #
 35 4020 #
 3 4030 #
@@ -28,93 +28,93 @@ lang=engl czec pols span russ
 5 4050 #
 6 4060 #
 0 4070 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 9 5010 #
 65506 5020 #
 4 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 20 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 31 7010 D _script dialog@d_havepropermoney 1 4 R _item p PID_GAMMA_GULP_BEER + 1 R _script dialog@r_RemoveMoney 1 5 #
 31 7020 D _script dialog@d_havepropermoney 1 11 R _item p PID_ROENTGEN_RUM + 1 R _script dialog@r_RemoveMoney 1 12 #
 4 7030 #
 0 7040 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 25 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 13 9010 #
 14 9020 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 4 11010 #
 12 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 4 12010 #
 0 12020 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 15 13010 D _var p loyality = 0 #
 4 13020 #
 0 13030 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 13 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 R _var p loyality + 5 R _item p PID_DECK_OF_TRAGIC_CARDS + 1 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 #
 4 16020 #
 0 16030 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 D _param p ST_INTELLECT > 7 R _item p PID_DECK_OF_TRAGIC_CARDS + 1 #
 19 17020 D _param p ST_INTELLECT < 8 D _item p PID_DECK_OF_TRAGIC_CARDS } 1 R _item p PID_DECK_OF_TRAGIC_CARDS - 1 #
 0 17030 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 0 18010 #
 0 18020 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 0 19010 #
 0 19020 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 #
 22 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 23 21010 #
 0 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 32 22010 #
 4 22020 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 24 23010 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 4 24010 #
 0 24020 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 26 25010 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 28 26010 @
-28 27000 None 0 #
+28 27000 main@dlg_Caps 0 #
 29 27010 @
-29 28000 None 0 #
+29 28000 main@dlg_Caps 0 #
 30 28010 #
 4 28020 @
-30 29000 None 0 #
+30 29000 main@dlg_Caps 0 #
 4 29010 #
 0 29020 @
-31 30000 None 0 #
+31 30000 main@dlg_Caps 0 #
 4 30010 #
 0 30020 @
-32 31000 None 0 #
+32 31000 main@dlg_Caps 0 #
 33 31010 @
-33 32000 None 0 #
+33 32000 main@dlg_Caps 0 #
 4 32010 @
-34 33000 None 0 @
-35 34000 None 0 #
+34 33000 main@dlg_Caps 0 @
+35 34000 main@dlg_Caps 0 #
 4 34010 &
 
 [engl]
@@ -152,9 +152,9 @@ lang=engl czec pols span russ
 {6000}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
 {6010}{}{No, I meant tell me about this bar.}
 {6020}{}{Well, that describes a lot of people. Nothing new in that. I wanted to know something else.}
-{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a bottle and, for special occasions, our Roentgen Rum at $12 a bottle. What'll it be?}
+{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a @lex prefix@ and, for special occasions, our Roentgen Rum at $12 a @lex prefix@. What'll it be?}
 {7010}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
-{7020}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
+{7020}{}{This is a special occasion, of a sort. I'd like a @lex prefix@ of your Roentgen Rum.}
 {7030}{}{Can't afford it. Let me ask you something else.}
 {7040}{}{Uh uh, goodbye.}
 {8000}{}{I've got this great story. It's really funny. You see there's this head, right?}
@@ -234,7 +234,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -265,9 +265,9 @@ lang=engl czec pols span russ
 {6000}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
 {6010}{}{No, I meant tell me about this bar.}
 {6020}{}{Well, that describes a lot of people. Nothing new in that. I wanted to know something else.}
-{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a bottle and, for special occasions, our Roentgen Rum at $12 a bottle. What'll it be?}
+{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a @lex prefix@ and, for special occasions, our Roentgen Rum at $12 a @lex prefix@. What'll it be?}
 {7010}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
-{7020}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
+{7020}{}{This is a special occasion, of a sort. I'd like a @lex prefix@ of your Roentgen Rum.}
 {7030}{}{Can't afford it. Let me ask you something else.}
 {7040}{}{Uh uh, goodbye.}
 {8000}{}{I've got this great story. It's really funny. You see there's this head, right?}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -378,9 +378,9 @@ lang=engl czec pols span russ
 {6000}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
 {6010}{}{No, I meant tell me about this bar.}
 {6020}{}{Well, that describes a lot of people. Nothing new in that. I wanted to know something else.}
-{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a bottle and, for special occasions, our Roentgen Rum at $12 a bottle. What'll it be?}
+{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a @lex prefix@ and, for special occasions, our Roentgen Rum at $12 a @lex prefix@. What'll it be?}
 {7010}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
-{7020}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
+{7020}{}{This is a special occasion, of a sort. I'd like a @lex prefix@ of your Roentgen Rum.}
 {7030}{}{Can't afford it. Let me ask you something else.}
 {7040}{}{Uh uh, goodbye.}
 {8000}{}{I've got this great story. It's really funny. You see there's this head, right?}
@@ -460,7 +460,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -491,9 +491,9 @@ lang=engl czec pols span russ
 {6000}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
 {6010}{}{No, I meant tell me about this bar.}
 {6020}{}{Well, that describes a lot of people. Nothing new in that. I wanted to know something else.}
-{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a bottle and, for special occasions, our Roentgen Rum at $12 a bottle. What'll it be?}
+{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a @lex prefix@ and, for special occasions, our Roentgen Rum at $12 a @lex prefix@. What'll it be?}
 {7010}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
-{7020}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
+{7020}{}{This is a special occasion, of a sort. I'd like a @lex prefix@ of your Roentgen Rum.}
 {7030}{}{Can't afford it. Let me ask you something else.}
 {7040}{}{Uh uh, goodbye.}
 {8000}{}{I've got this great story. It's really funny. You see there's this head, right?}
@@ -573,7 +573,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -604,9 +604,9 @@ lang=engl czec pols span russ
 {6000}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
 {6010}{}{No, I meant tell me about this bar.}
 {6020}{}{Well, that describes a lot of people. Nothing new in that. I wanted to know something else.}
-{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a bottle and, for special occasions, our Roentgen Rum at $12 a bottle. What'll it be?}
+{7000}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5 a @lex prefix@ and, for special occasions, our Roentgen Rum at $12 a @lex prefix@. What'll it be?}
 {7010}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
-{7020}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
+{7020}{}{This is a special occasion, of a sort. I'd like a @lex prefix@ of your Roentgen Rum.}
 {7030}{}{Can't afford it. Let me ask you something else.}
 {7040}{}{Uh uh, goodbye.}
 {8000}{}{I've got this great story. It's really funny. You see there's this head, right?}

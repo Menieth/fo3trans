@@ -6,15 +6,15 @@ lang=engl
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _item p PID_DOLLAR } 1 D _item p PID_BOTTLE_CAPS = 0 #
-3 1020 D _item p PID_DOLLAR < 1 D _item p PID_BOTTLE_CAPS } 1 #
-4 1030 D _item p PID_BOTTLE_CAPS } 1 @
-2 2000 None 0 #
+3 1020 D _item p PID_DOLLAR < 1 D _script dialog@d_havepropermoney 1 1 #
+4 1030 D _script dialog@d_havepropermoney 1 1 @
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 0 2020 @
-3 3000 None 0 @
-4 4000 None 0 &
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Woody}
@@ -27,6 +27,6 @@ lang=engl
 {2000}{}{How about a hot pizza?}
 {2010}{}{Let me see that menu.}
 {2020}{}{No thanks.}
-{3000}{}{Sorry, but we trade only for dollars here. And no caps. Once I see you have dollars without caps, we can trade.}
-{4000}{}{No caps allowed mate. If you wish to trade, then get rid of caps.}
+{3000}{}{Sorry, but we trade only for dollars here. And no @lex money@. Once I see you have dollars without @lex money@, we can trade.}
+{4000}{}{No @lex money@ allowed mate. If you wish to trade, then get rid of @lex money@.}
 

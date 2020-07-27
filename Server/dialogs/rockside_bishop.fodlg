@@ -6,30 +6,30 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 7 2020 #
 0 2030 #
 6 2040 D _var p q_rockside_scorpio1 = 1 R _var p q_rockside_scorpio1 = 2 R _item p PID_CATS_PAW + 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 7 3020 #
 0 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 @
-6 6000 None 0 #
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 &
+7 7000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Bishop}
 {210}{}{He looks like a priest.}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
-{2000}{}{[ The man holds a bottle of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
+{2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
 {2010}{}{Who are you?}
 {2020}{}{Great... A fucking drunk.}
 {2030}{}{I better go.}
@@ -46,10 +46,10 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
-{2000}{}{[ The man holds a bottle of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
+{2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
 {2010}{}{Who are you?}
 {2020}{}{Great... A fucking drunk.}
 {2030}{}{I better go.}
@@ -66,10 +66,10 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
-{2000}{}{[ The man holds a bottle of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
+{2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
 {2010}{}{Who are you?}
 {2020}{}{Great... A fucking drunk.}
 {2030}{}{I better go.}
@@ -86,10 +86,10 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
-{2000}{}{[ The man holds a bottle of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
+{2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
 {2010}{}{Who are you?}
 {2020}{}{Great... A fucking drunk.}
 {2030}{}{I better go.}
@@ -106,10 +106,10 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
-{2000}{}{[ The man holds a bottle of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
+{2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
 {2010}{}{Who are you?}
 {2020}{}{Great... A fucking drunk.}
 {2030}{}{I better go.}

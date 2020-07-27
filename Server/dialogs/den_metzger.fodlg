@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 6 1010 D _script slaverun_dialog@d_SlaverunAttempted 1 0 D _param p KARMA_SLAVER > 0 R _script slaverun_dialog@r_SelectRewardNode 1 0 #
 38 1020 D _var p q_mordinos_metzger_delivery = 1 D _item p PID_METZGERS_CASE = 1 D _param p KARMA_SLAVER = 1 #
 33 1030 D _var p q_mordinos_metzger_delivery = 1 D _item p PID_METZGERS_CASE = 1 #
@@ -16,48 +16,48 @@ lang=engl czec pols span russ
 50 1070 D _var n name_mem_npc_player = 1 D _item p PID_NUKA_COLA > 0 D _var n acquaintance < 1 #
 12 1080 D _var n name_mem_npc_player > 0 D _var n acquaintance > 0 #
 3 1090 R _var n name_mem_npc_player = 1 @
-22 2000 None 0 #
+22 2000 main@dlg_Caps 0 #
 41 2010 #
 65507 2020 #
 0 2030 @
-26 3000 None 0 #
+26 3000 main@dlg_Caps 0 #
 3 3010 R _var n name_mem_npc_player = 1 #
 65507 3020 #
 0 3030 @
-2 4000 None 0 #
+2 4000 main@dlg_Caps 0 #
 0 4010 #
 65507 4020 @
-3 5000 None 0 #
+3 5000 main@dlg_Caps 0 #
 42 5010 #
 4 5020 #
 2 5030 D _script dialog@d_IsGangMember 0  D _script town@d_IsNotControllingTown 1 1 D _script town@d_CanTakeOver 0  R _script town@r_ClaimControl 1 0 #
 14 5040 D _param p REPUTATION_SLAVERS_GUILD > 119 D _var p q_raiders_induction < 2 #
 0 5050 #
 0 5060 @
-4 6000 None 0 #
+4 6000 main@dlg_Caps 0 #
 44 6010 #
 0 6020 #
 43 6030 D _param p ST_CHARISMA > 3 D _var p den_metzger_blind = 0 D _param p DAMAGE_EYE > 0 R _var p den_metzger_blind = 1 @
-40 7000 None 0 #
+40 7000 main@dlg_Caps 0 #
 65505 7010 #
 0 7020 #
 65507 7030 @
-41 8000 None 0 #
+41 8000 main@dlg_Caps 0 #
 0 8010 @
-42 9000 None 0 #
+42 9000 main@dlg_Caps 0 #
 3 9010 @
-43 10000 None 0 #
+43 10000 main@dlg_Caps 0 #
 0 10010 R _param p ST_EXPERIENCE + 300 @
-44 11000 None 0 #
+44 11000 main@dlg_Caps 0 #
 40 11010 #
 13 11020 #
 90 11030 D _script town@d_CanRecruitMilitia 0  #
 500 11040 D _script town@d_CanChangeLaws 0  #
 75 11050 D _script town@d_IsControllingTown 1 1 #
 0 11060 @
-50 12000 None 0 #
+50 12000 main@dlg_Caps 0 #
 51 12010 D _item p PID_NUKA_COLA } 1 R _item p PID_NUKA_COLA - 1 @
-51 13000 None 0 #
+51 13000 main@dlg_Caps 0 #
 0 13010 R _item p PID_JET + 2 R _var n acquaintance + 1 R _param p ST_EXPERIENCE + 300 @
 12 14000 dialog@dlg_ShowFaction 0 #
 44 14010 #
@@ -68,22 +68,22 @@ lang=engl czec pols span russ
 75 14060 D _script town@d_IsControllingTown 1 1 #
 500 14070 D _script town@d_CanChangeLaws 0  #
 0 14080 @
-13 15000 None 0 #
+13 15000 main@dlg_Caps 0 #
 15 15010 #
 0 15020 @
-14 16000 None 0 #
+14 16000 main@dlg_Caps 0 #
 0 16010 R _var p q_raiders_induction = 1 #
 0 16020 #
 65505 16030 @
-15 17000 None 0 #
+15 17000 main@dlg_Caps 0 #
 16 17010 @
-16 18000 None 0 #
+16 18000 main@dlg_Caps 0 #
 23 18010 #
 0 18020 @
-23 19000 None 0 #
+23 19000 main@dlg_Caps 0 #
 24 19010 R _var p slaverun_status = 0 R _script dialog@r_ApplyReputationModifiers 2 1 1 R _param p REPUTATION_SLAVERS_GUILD + 100 R _param p KARMA_SLAVER = 1 #
 0 19020 @
-24 20000 None 0 #
+24 20000 main@dlg_Caps 0 #
 0 20010 @
 19 21000 dialog@dlg_ShowFaction 0 #
 29 21010 #
@@ -95,30 +95,30 @@ lang=engl czec pols span russ
 58 21070 D _script slaverun_dialog@d_NotStatusFlag 1 2 D _param p ST_LEVEL } 18 R _script slaverun_dialog@r_SelectNode 1 0 #
 14 21080 D _param p REPUTATION_SLAVERS_GUILD > 119 D _var p q_raiders_induction < 2 #
 0 21090 @
-20 22000 None 0 #
+20 22000 main@dlg_Caps 0 #
 21 22010 #
 0 22020 @
-21 23000 None 0 #
+21 23000 main@dlg_Caps 0 #
 25 23010 #
 27 23020 #
 28 23030 #
 0 23040 @
-25 24000 None 0 #
+25 24000 main@dlg_Caps 0 #
 32 24010 D _script merc_dialog@d_IsSlavePresent 1 14 R _script merc_dialog@r_SetMerc 1 14 #
 32 24020 D _script merc_dialog@d_IsSlavePresent 1 13 R _script merc_dialog@r_SetMerc 1 13 #
 32 24030 D _script merc_dialog@d_IsSlavePresent 1 12 R _script merc_dialog@r_SetMerc 1 12 #
 32 24040 D _script merc_dialog@d_IsSlavePresent 1 21 R _script merc_dialog@r_SetMerc 1 21 #
 65505 24050 @
-27 25000 None 0 #
+27 25000 main@dlg_Caps 0 #
 32 25010 D _script merc_dialog@d_IsSlavePresent 1 17 R _script merc_dialog@r_SetMerc 1 17 #
 32 25020 D _script merc_dialog@d_IsSlavePresent 1 16 R _script merc_dialog@r_SetMerc 1 16 #
 32 25030 D _script merc_dialog@d_IsSlavePresent 1 15 R _script merc_dialog@r_SetMerc 1 15 #
 32 25040 D _script merc_dialog@d_IsSlavePresent 1 22 R _script merc_dialog@r_SetMerc 1 22 #
 65505 25050 @
-28 26000 None 0 #
+28 26000 main@dlg_Caps 0 #
 32 26010 D _script merc_dialog@d_IsSlavePresent 1 20 R _script merc_dialog@r_SetMerc 1 20 #
 65505 26020 @
-29 27000 None 0 #
+29 27000 main@dlg_Caps 0 #
 30 27010 #
 31 27020 #
 0 27030 @
@@ -132,69 +132,69 @@ lang=engl czec pols span russ
 6 29020 D _script merc_dialog@d_CanAffordMerc 1 13 R _script merc_dialog@r_HireMerc 1 13 #
 6 29030 D _script merc_dialog@d_CanAffordMerc 1 14 R _script merc_dialog@r_HireMerc 1 14 #
 65505 29040 @
-5 30000 None 0 @
-6 31000 None 0 #
+5 30000 main@dlg_Caps 0 @
+6 31000 main@dlg_Caps 0 #
 0 31010 @
-7 32000 None 0 #
+7 32000 main@dlg_Caps 0 #
 0 32010 @
-8 33000 None 0 #
+8 33000 main@dlg_Caps 0 #
 0 33010 #
 65507 33020 @
-9 34000 None 0 #
+9 34000 main@dlg_Caps 0 #
 0 34010 @
 302 35000 dialog@dlg_ShowFaction 0 #
 0 35010 #
 130 35020 D _script town@d_MembersAlmost 1 0 R _script town@r_TakeoverCheck 1 0 #
 111 35030 @
-301 36000 None 0 #
+301 36000 main@dlg_Caps 0 #
 0 36010 #
 130 36020 D _script town@d_PresentAlmost 1 0 R _script town@r_TakeoverCheck 1 0 @
-310 37000 None 0 #
+310 37000 main@dlg_Caps 0 #
 0 37010 D _script town@d_GainControl 1 1 @
-320 38000 None 0 #
+320 38000 main@dlg_Caps 0 #
 0 38010 D _script town@d_GainControl 1 1 @
-130 39000 None 0 #
+130 39000 main@dlg_Caps 0 #
 0 39010 #
 65507 39020 @
 111 40000 Attack 0 #
 65507 40010 @
-120 41000 None 0 #
+120 41000 main@dlg_Caps 0 #
 12 41010 @
 32 42000 merc_dialog@dlg_ShowMercSellPrice 0 #
 11 42010 R _script merc_dialog@r_SellCurrentMerc 1 0 R _script dialog@r_AddReputation 2 6 300 #
 0 42020 @
-11 43000 None 0 #
+11 43000 main@dlg_Caps 0 #
 21 43010 R _script merc_dialog@r_GetSlaveTypes 1 0 #
 0 43020 @
-33 44000 None 0 #
+33 44000 main@dlg_Caps 0 #
 34 44010 #
 65507 44020 @
-34 45000 None 0 #
+34 45000 main@dlg_Caps 0 #
 35 45010 D _item p PID_METZGERS_CASE } 1 R _item p PID_METZGERS_CASE - 1 R _var p q_mordinos_metzger_delivery = 2 @
-35 46000 None 0 #
+35 46000 main@dlg_Caps 0 #
 36 46010 @
-36 47000 None 0 #
+36 47000 main@dlg_Caps 0 #
 37 47010 R _item p PID_SHOTGUN + 1 R _item p PID_SHOTGUN_SHELLS + 20 R _param p REPUTATION_SLAVERS_GUILD + 150 @
-37 48000 None 0 #
+37 48000 main@dlg_Caps 0 #
 0 48010 R _param p ST_EXPERIENCE + 800 @
-52 49000 None 0 #
+52 49000 main@dlg_Caps 0 #
 53 49010 @
-53 50000 None 0 #
+53 50000 main@dlg_Caps 0 #
 55 50010 #
 54 50020 #
 0 50030 @
-54 51000 None 0 #
+54 51000 main@dlg_Caps 0 #
 55 51010 @
-55 52000 None 0 #
+55 52000 main@dlg_Caps 0 #
 57 52010 R _script slaverun_dialog@r_ActivateQuest 1 0 @
-56 53000 None 0 #
+56 53000 main@dlg_Caps 0 #
 57 53010 R _script slaverun_dialog@r_ActivateQuest 1 0 #
 0 53020 @
-57 54000 None 0 #
+57 54000 main@dlg_Caps 0 #
 0 54010 @
-58 55000 None 0 #
+58 55000 main@dlg_Caps 0 #
 0 55010 @
-59 56000 None 0 #
+59 56000 main@dlg_Caps 0 #
 0 56010 #
 62 56020 @
 60 57000 slaverun_dialog@dlg_ShowReward 0 #
@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 61 58000 slaverun_dialog@dlg_ShowReward 0 #
 0 58010 #
 62 58020 R _script slaverun_dialog@r_SpeechSlaver 1 0 @
-62 59000 None 0 #
+62 59000 main@dlg_Caps 0 #
 0 59010 #
 65507 59020 @
 63 60000 slaverun_dialog@dlg_ShowReward 0 #
@@ -210,12 +210,12 @@ lang=engl czec pols span russ
 64 61000 slaverun_dialog@dlg_ShowReward 0 #
 62 61010 R _script slaverun_dialog@r_SpeechBoldStupid 1 0 #
 0 61020 @
-65 62000 None 0 #
+65 62000 main@dlg_Caps 0 #
 0 62010 @
-66 63000 None 0 #
+66 63000 main@dlg_Caps 0 #
 0 63010 #
 65507 63020 @
-75 64000 None 0 #
+75 64000 main@dlg_Caps 0 #
 76 64010 #
 77 64020 R _script town@r_SetFriendlyFactionsMode 1 1 #
 77 64030 R _script town@r_SetFriendlyFactionsMode 1 0 @
@@ -234,21 +234,21 @@ lang=engl czec pols span russ
 500 67060 D _script town@d_IsPolicy 1 3 R _script town@r_SetPolicy 2 3 0 #
 12 67070 D _param p KARMA_SLAVER = 0 #
 19 67080 D _param p KARMA_SLAVER > 0 @
-38 68000 None 0 #
+38 68000 main@dlg_Caps 0 #
 34 68010 @
 90 69000 town@dlg_ShowMilitiaCost 0 #
 90 69010 R _script town@r_RecruitMilitia 0  #
 2 69020 @
-410 70000 None 0 #
+410 70000 main@dlg_Caps 0 #
 0 70010 @
-420 71000 None 0 #
+420 71000 main@dlg_Caps 0 #
 0 71010 @
-430 72000 None 0 #
+430 72000 main@dlg_Caps 0 #
 0 72010 @
-440 73000 None 0 @
-450 74000 None 0 #
+440 73000 main@dlg_Caps 0 @
+450 74000 main@dlg_Caps 0 #
 0 74010 @
-330 75000 None 0 &
+330 75000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Metzger}
@@ -363,7 +363,7 @@ lang=engl czec pols span russ
 {24010}{}{I got a good one.}
 {24020}{}{Take a look at this one, he's alright.}
 {24030}{}{This one's a bit of a mess but I'm sure you can get some use out of him.}
-{24040}{}{Picked this shit up in the waste. Might be worth a handful of caps.}
+{24040}{}{Picked this shit up in the waste. Might be worth a handful of @lex money@.}
 {24050}{}{Actually, I don't have any male slaves.}
 {25000}{}{Right, ladies. What you got?}
 {25010}{}{Got a real nice one here for you.}
@@ -378,13 +378,13 @@ lang=engl czec pols span russ
 {27010}{}{Let's take a look at the girls.}
 {27020}{}{Show me your guys. No homo.}
 {27030}{}{Just realised I don't actually want to buy slaves. Bye.}
-{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ caps for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
+{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ @lex money@ for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
 {28010}{}{Let me take one of those horrible ugly stupid ones for @lex price0@.}
 {28020}{}{Give me one of those @lex price1@ cap girls.}
 {28030}{}{Nothing but the best for me. One of those @lex price2@ ones, Metzger.}
 {28040}{}{Actually, that's not what I had in mind.}
 {29000}{}{Alright we got some decent guys in stock. @lex price2@ for the big strong ones, @lex price1@ for your average guy, @lex price0@ for those flimsy little dumbasses the tribals don't even mind us taking. Watcha want?}
-{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ caps.}
+{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ @lex money@.}
 {29020}{}{Just a regular one for @lex price1@.}
 {29030}{}{Yeah, one of those @lex price2@ ones, I got work needs doing.}
 {29040}{}{Actually, that's not what I had in mind.}
@@ -393,7 +393,7 @@ lang=engl czec pols span russ
 {31010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
 {32000}{}{Error, merc not found. Report this to admins.}
 {32010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
-{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the caps.}
+{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the @lex money@.}
 {33010}{}{Okay, geez! I'll be back when I have the money.}
 {33020}{}{Hey, suck my dick, fuckhead! Yeah I'm talking to you! Metzger goin doooooown! Bring it motherfucker! WOOO}
 {34000}{}{Damn, you're fucking hideous. Outta my face before you dribble on me.}
@@ -495,14 +495,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {67080}{}{Ok, looks good.}
 {68000}{}{Yeah, what now?}
 {68010}{}{I brought your case from the Mordinos.}
-{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{69010}{}{Sounds good, here's @lex cost@ caps.}
+{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{69010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {69020}{}{Nah, I think we're doing fine as it is now.}
 {70000}{}{Alright, there you go.}
 {70010}{}{Right.}
 {71000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {71010}{}{Ok.}
-{72000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{72000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {72010}{}{Yeah, yeah...}
 {73000}{}{Error. Report this.}
 {74000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -510,7 +510,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -612,7 +612,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {24010}{}{I got a good one.}
 {24020}{}{Take a look at this one, he's alright.}
 {24030}{}{This one's a bit of a mess but I'm sure you can get some use out of him.}
-{24040}{}{Picked this shit up in the waste. Might be worth a handful of caps.}
+{24040}{}{Picked this shit up in the waste. Might be worth a handful of @lex money@.}
 {24050}{}{Actually, I don't have any male slaves.}
 {25000}{}{Right, ladies. What you got?}
 {25010}{}{Got a real nice one here for you.}
@@ -627,13 +627,13 @@ Attacking criminals on sight: @lex attackflagged@}
 {27010}{}{Let's take a look at the girls.}
 {27020}{}{Show me your guys. No homo.}
 {27030}{}{Just realised I don't actually want to buy slaves. Bye.}
-{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ caps for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
+{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ @lex money@ for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
 {28010}{}{Let me take one of those horrible ugly stupid ones for @lex price0@.}
 {28020}{}{Give me one of those @lex price1@ cap girls.}
 {28030}{}{Nothing but the best for me. One of those @lex price2@ ones, Metzger.}
 {28040}{}{Actually, that's not what I had in mind.}
 {29000}{}{Alright we got some decent guys in stock. @lex price2@ for the big strong ones, @lex price1@ for your average guy, @lex price0@ for those flimsy little dumbasses the tribals don't even mind us taking. Watcha want?}
-{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ caps.}
+{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ @lex money@.}
 {29020}{}{Just a regular one for @lex price1@.}
 {29030}{}{Yeah, one of those @lex price2@ ones, I got work needs doing.}
 {29040}{}{Actually, that's not what I had in mind.}
@@ -642,7 +642,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
 {32000}{}{Error, merc not found. Report this to admins.}
 {32010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
-{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the caps.}
+{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the @lex money@.}
 {33010}{}{Okay, geez! I'll be back when I have the money.}
 {33020}{}{Hey, suck my dick, fuckhead! Yeah I'm talking to you! Metzger goin doooooown! Bring it motherfucker! WOOO}
 {34000}{}{Damn, you're fucking hideous. Outta my face before you dribble on me.}
@@ -744,14 +744,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {67080}{}{Ok, looks good.}
 {68000}{}{Yeah, what now?}
 {68010}{}{I brought your case from the Mordinos.}
-{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{69010}{}{Sounds good, here's @lex cost@ caps.}
+{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{69010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {69020}{}{Nah, I think we're doing fine as it is now.}
 {70000}{}{Alright, there you go.}
 {70010}{}{Right.}
 {71000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {71010}{}{Ok.}
-{72000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{72000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {72010}{}{Yeah, yeah...}
 {73000}{}{Error. Report this.}
 {74000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -759,7 +759,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -861,7 +861,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {24010}{}{I got a good one.}
 {24020}{}{Take a look at this one, he's alright.}
 {24030}{}{This one's a bit of a mess but I'm sure you can get some use out of him.}
-{24040}{}{Picked this shit up in the waste. Might be worth a handful of caps.}
+{24040}{}{Picked this shit up in the waste. Might be worth a handful of @lex money@.}
 {24050}{}{Actually, I don't have any male slaves.}
 {25000}{}{Right, ladies. What you got?}
 {25010}{}{Got a real nice one here for you.}
@@ -876,13 +876,13 @@ Attacking criminals on sight: @lex attackflagged@}
 {27010}{}{Let's take a look at the girls.}
 {27020}{}{Show me your guys. No homo.}
 {27030}{}{Just realised I don't actually want to buy slaves. Bye.}
-{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ caps for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
+{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ @lex money@ for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
 {28010}{}{Let me take one of those horrible ugly stupid ones for @lex price0@.}
 {28020}{}{Give me one of those @lex price1@ cap girls.}
 {28030}{}{Nothing but the best for me. One of those @lex price2@ ones, Metzger.}
 {28040}{}{Actually, that's not what I had in mind.}
 {29000}{}{Alright we got some decent guys in stock. @lex price2@ for the big strong ones, @lex price1@ for your average guy, @lex price0@ for those flimsy little dumbasses the tribals don't even mind us taking. Watcha want?}
-{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ caps.}
+{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ @lex money@.}
 {29020}{}{Just a regular one for @lex price1@.}
 {29030}{}{Yeah, one of those @lex price2@ ones, I got work needs doing.}
 {29040}{}{Actually, that's not what I had in mind.}
@@ -891,7 +891,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
 {32000}{}{Error, merc not found. Report this to admins.}
 {32010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
-{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the caps.}
+{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the @lex money@.}
 {33010}{}{Okay, geez! I'll be back when I have the money.}
 {33020}{}{Hey, suck my dick, fuckhead! Yeah I'm talking to you! Metzger goin doooooown! Bring it motherfucker! WOOO}
 {34000}{}{Damn, you're fucking hideous. Outta my face before you dribble on me.}
@@ -993,14 +993,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {67080}{}{Ok, looks good.}
 {68000}{}{Yeah, what now?}
 {68010}{}{I brought your case from the Mordinos.}
-{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{69010}{}{Sounds good, here's @lex cost@ caps.}
+{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{69010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {69020}{}{Nah, I think we're doing fine as it is now.}
 {70000}{}{Alright, there you go.}
 {70010}{}{Right.}
 {71000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {71010}{}{Ok.}
-{72000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{72000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {72010}{}{Yeah, yeah...}
 {73000}{}{Error. Report this.}
 {74000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -1008,7 +1008,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -1110,7 +1110,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {24010}{}{I got a good one.}
 {24020}{}{Take a look at this one, he's alright.}
 {24030}{}{This one's a bit of a mess but I'm sure you can get some use out of him.}
-{24040}{}{Picked this shit up in the waste. Might be worth a handful of caps.}
+{24040}{}{Picked this shit up in the waste. Might be worth a handful of @lex money@.}
 {24050}{}{Actually, I don't have any male slaves.}
 {25000}{}{Right, ladies. What you got?}
 {25010}{}{Got a real nice one here for you.}
@@ -1125,13 +1125,13 @@ Attacking criminals on sight: @lex attackflagged@}
 {27010}{}{Let's take a look at the girls.}
 {27020}{}{Show me your guys. No homo.}
 {27030}{}{Just realised I don't actually want to buy slaves. Bye.}
-{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ caps for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
+{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ @lex money@ for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
 {28010}{}{Let me take one of those horrible ugly stupid ones for @lex price0@.}
 {28020}{}{Give me one of those @lex price1@ cap girls.}
 {28030}{}{Nothing but the best for me. One of those @lex price2@ ones, Metzger.}
 {28040}{}{Actually, that's not what I had in mind.}
 {29000}{}{Alright we got some decent guys in stock. @lex price2@ for the big strong ones, @lex price1@ for your average guy, @lex price0@ for those flimsy little dumbasses the tribals don't even mind us taking. Watcha want?}
-{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ caps.}
+{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ @lex money@.}
 {29020}{}{Just a regular one for @lex price1@.}
 {29030}{}{Yeah, one of those @lex price2@ ones, I got work needs doing.}
 {29040}{}{Actually, that's not what I had in mind.}
@@ -1140,7 +1140,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
 {32000}{}{Error, merc not found. Report this to admins.}
 {32010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
-{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the caps.}
+{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the @lex money@.}
 {33010}{}{Okay, geez! I'll be back when I have the money.}
 {33020}{}{Hey, suck my dick, fuckhead! Yeah I'm talking to you! Metzger goin doooooown! Bring it motherfucker! WOOO}
 {34000}{}{Damn, you're fucking hideous. Outta my face before you dribble on me.}
@@ -1242,14 +1242,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {67080}{}{Ok, looks good.}
 {68000}{}{Yeah, what now?}
 {68010}{}{I brought your case from the Mordinos.}
-{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{69010}{}{Sounds good, here's @lex cost@ caps.}
+{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{69010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {69020}{}{Nah, I think we're doing fine as it is now.}
 {70000}{}{Alright, there you go.}
 {70010}{}{Right.}
 {71000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {71010}{}{Ok.}
-{72000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{72000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {72010}{}{Yeah, yeah...}
 {73000}{}{Error. Report this.}
 {74000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}
@@ -1257,7 +1257,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -1359,7 +1359,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {24010}{}{I got a good one.}
 {24020}{}{Take a look at this one, he's alright.}
 {24030}{}{This one's a bit of a mess but I'm sure you can get some use out of him.}
-{24040}{}{Picked this shit up in the waste. Might be worth a handful of caps.}
+{24040}{}{Picked this shit up in the waste. Might be worth a handful of @lex money@.}
 {24050}{}{Actually, I don't have any male slaves.}
 {25000}{}{Right, ladies. What you got?}
 {25010}{}{Got a real nice one here for you.}
@@ -1374,13 +1374,13 @@ Attacking criminals on sight: @lex attackflagged@}
 {27010}{}{Let's take a look at the girls.}
 {27020}{}{Show me your guys. No homo.}
 {27030}{}{Just realised I don't actually want to buy slaves. Bye.}
-{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ caps for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
+{28000}{}{Girls? Like that is it? Haha right. Yeah I got some. @lex price2@ @lex money@ for a good one, @lex price1@ for the bad ones, and @lex price0@ for the real ugly, bottom-of-the-barrel retard ones.}
 {28010}{}{Let me take one of those horrible ugly stupid ones for @lex price0@.}
 {28020}{}{Give me one of those @lex price1@ cap girls.}
 {28030}{}{Nothing but the best for me. One of those @lex price2@ ones, Metzger.}
 {28040}{}{Actually, that's not what I had in mind.}
 {29000}{}{Alright we got some decent guys in stock. @lex price2@ for the big strong ones, @lex price1@ for your average guy, @lex price0@ for those flimsy little dumbasses the tribals don't even mind us taking. Watcha want?}
-{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ caps.}
+{29010}{}{I like the sound of a feeble idiot, here's @lex price0@ @lex money@.}
 {29020}{}{Just a regular one for @lex price1@.}
 {29030}{}{Yeah, one of those @lex price2@ ones, I got work needs doing.}
 {29040}{}{Actually, that's not what I had in mind.}
@@ -1389,7 +1389,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {31010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
 {32000}{}{Error, merc not found. Report this to admins.}
 {32010}{}{Shit! Damn admins! Always ruining my fun! I guess I'll talk to them. WITH MY FISTS!!!! No seriously, I will write them a nice email or make a thread on the forums or something. Thanks!}
-{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the caps.}
+{33000}{}{Yeah, you actually have to pay me, dumbass. You can't just say 'Yeah I'll have this one,' if you don't have the money. Fuck off and come back when you got the @lex money@.}
 {33010}{}{Okay, geez! I'll be back when I have the money.}
 {33020}{}{Hey, suck my dick, fuckhead! Yeah I'm talking to you! Metzger goin doooooown! Bring it motherfucker! WOOO}
 {34000}{}{Damn, you're fucking hideous. Outta my face before you dribble on me.}
@@ -1491,14 +1491,14 @@ Attacking criminals on sight: @lex attackflagged@}
 {67080}{}{Ok, looks good.}
 {68000}{}{Yeah, what now?}
 {68010}{}{I brought your case from the Mordinos.}
-{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ caps.}
-{69010}{}{Sounds good, here's @lex cost@ caps.}
+{69000}{}{This is not a problem, there's plenty of people ready to join the militia, but you'll have to pay for the equipments and training. This costs about @lex cost@ @lex money@.}
+{69010}{}{Sounds good, here's @lex cost@ @lex money@.}
 {69020}{}{Nah, I think we're doing fine as it is now.}
 {70000}{}{Alright, there you go.}
 {70010}{}{Right.}
 {71000}{}{I'm afraid there's no more volunteers, come back later and check again.}
 {71010}{}{Ok.}
-{72000}{}{Like I said, training and equipment isn't free. Come back when you have the caps.}
+{72000}{}{Like I said, training and equipment isn't free. Come back when you have the @lex money@.}
 {72010}{}{Yeah, yeah...}
 {73000}{}{Error. Report this.}
 {74000}{}{Are you crazy? We are in the middle of an ongoing attack, start protecting us instead of jerking around in here!}

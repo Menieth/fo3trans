@@ -6,55 +6,55 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 10 1010 D _var p q_raiders_kazen_notgambler = 1 #
 2 1020 D _param p ST_CHARISMA < 5 #
 3 1030 D _param p ST_CHARISMA > 4 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 2 1040 D _var n name_mem_npc_player = 1 @
-2 2000 None 0 @
-3 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 D _param p SK_GAMBLING < 50 D _var p q_raiders_kazen_notgambler = 0 #
 6 5020 D _param p SK_GAMBLING < 50 D _var p q_raiders_kazen_notgambler = 0 #
 13 5030 D _param p SK_GAMBLING > 49 D _var p q_raiders_kazen_gambler = 0 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 65507 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 R _var p q_raiders_kazen_notgambler = 1 R _param p SK_GAMBLING + 13 R _param p ST_EXPERIENCE + 195 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 11 10020 #
 11 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 R _var p q_raiders_kazen_notgambler = 2 R _script dialog@r_AddMoney 1 227 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 16 15020 #
 16 15030 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 #
 17 16020 #
 17 16030 #
 17 16040 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 R _script dialog@r_FlushScreen 0  @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 0 18010 R _var p q_raiders_kazen_gambler = 1 R _param p ST_EXPERIENCE + 281 R _script dialog@r_AddMoney 1 419 &
 
 [engl]
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {6000}{}{"I dabble." Hahaha, sheeeeeit. You're a fruity motherfucker, man.}
 {6010}{}{Hey man, I'm just saying. I play a bit but not a lot. Just saying.}
 {6020}{}{Call me a fruity motherfucker? That shit is not on. You're dead, fuckles. [Kick his ass.]}
-{7000}{}{Alright, alright. We're playing poker, man. Hold'em. None of that lame-ass Tragic shit, and none of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
+{7000}{}{Alright, alright. We're playing poker, man. Hold'em. main@dlg_Caps of that lame-ass Tragic shit, and main@dlg_Caps of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
 {7010}{}{Right. [You have no idea what he's talking about. But it's probably about cards.]}
 {8000}{}{You game for a bit? I can teach you a little if you want, nothing goin' on right now. I ain't going easy on you, but we'll do this run for no money, cause otherwise that's just damn cruel.}
 {8010}{}{Alright, let's deal. [Play some cards.]}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {6000}{}{"I dabble." Hahaha, sheeeeeit. You're a fruity motherfucker, man.}
 {6010}{}{Hey man, I'm just saying. I play a bit but not a lot. Just saying.}
 {6020}{}{Call me a fruity motherfucker? That shit is not on. You're dead, fuckles. [Kick his ass.]}
-{7000}{}{Alright, alright. We're playing poker, man. Hold'em. None of that lame-ass Tragic shit, and none of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
+{7000}{}{Alright, alright. We're playing poker, man. Hold'em. main@dlg_Caps of that lame-ass Tragic shit, and main@dlg_Caps of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
 {7010}{}{Right. [You have no idea what he's talking about. But it's probably about cards.]}
 {8000}{}{You game for a bit? I can teach you a little if you want, nothing goin' on right now. I ain't going easy on you, but we'll do this run for no money, cause otherwise that's just damn cruel.}
 {8010}{}{Alright, let's deal. [Play some cards.]}
@@ -169,7 +169,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {6000}{}{"I dabble." Hahaha, sheeeeeit. You're a fruity motherfucker, man.}
 {6010}{}{Hey man, I'm just saying. I play a bit but not a lot. Just saying.}
 {6020}{}{Call me a fruity motherfucker? That shit is not on. You're dead, fuckles. [Kick his ass.]}
-{7000}{}{Alright, alright. We're playing poker, man. Hold'em. None of that lame-ass Tragic shit, and none of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
+{7000}{}{Alright, alright. We're playing poker, man. Hold'em. main@dlg_Caps of that lame-ass Tragic shit, and main@dlg_Caps of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
 {7010}{}{Right. [You have no idea what he's talking about. But it's probably about cards.]}
 {8000}{}{You game for a bit? I can teach you a little if you want, nothing goin' on right now. I ain't going easy on you, but we'll do this run for no money, cause otherwise that's just damn cruel.}
 {8010}{}{Alright, let's deal. [Play some cards.]}
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -241,7 +241,7 @@ lang=engl czec pols span russ
 {6000}{}{"I dabble." Hahaha, sheeeeeit. You're a fruity motherfucker, man.}
 {6010}{}{Hey man, I'm just saying. I play a bit but not a lot. Just saying.}
 {6020}{}{Call me a fruity motherfucker? That shit is not on. You're dead, fuckles. [Kick his ass.]}
-{7000}{}{Alright, alright. We're playing poker, man. Hold'em. None of that lame-ass Tragic shit, and none of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
+{7000}{}{Alright, alright. We're playing poker, man. Hold'em. main@dlg_Caps of that lame-ass Tragic shit, and main@dlg_Caps of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
 {7010}{}{Right. [You have no idea what he's talking about. But it's probably about cards.]}
 {8000}{}{You game for a bit? I can teach you a little if you want, nothing goin' on right now. I ain't going easy on you, but we'll do this run for no money, cause otherwise that's just damn cruel.}
 {8010}{}{Alright, let's deal. [Play some cards.]}
@@ -275,7 +275,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -294,7 +294,7 @@ lang=engl czec pols span russ
 {6000}{}{"I dabble." Hahaha, sheeeeeit. You're a fruity motherfucker, man.}
 {6010}{}{Hey man, I'm just saying. I play a bit but not a lot. Just saying.}
 {6020}{}{Call me a fruity motherfucker? That shit is not on. You're dead, fuckles. [Kick his ass.]}
-{7000}{}{Alright, alright. We're playing poker, man. Hold'em. None of that lame-ass Tragic shit, and none of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
+{7000}{}{Alright, alright. We're playing poker, man. Hold'em. main@dlg_Caps of that lame-ass Tragic shit, and main@dlg_Caps of that whacky 'two on the table, one in your hand, three in the middle, another one in your hand, one more on the table' bullshit poker they play in Redding.}
 {7010}{}{Right. [You have no idea what he's talking about. But it's probably about cards.]}
 {8000}{}{You game for a bit? I can teach you a little if you want, nothing goin' on right now. I ain't going easy on you, but we'll do this run for no money, cause otherwise that's just damn cruel.}
 {8010}{}{Alright, let's deal. [Play some cards.]}

@@ -6,71 +6,71 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 20 1020 @
-20 2000 None 0 #
+20 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 D _var p q_strandedrust > 0 #
 6 2030 D _var p q_strandedrust = 0 #
 16 2040 D _var p q_strandedrust > 0 D _var p q_strandedrust < 3 @
-2 3000 None 0 #
+2 3000 main@dlg_Caps 0 #
 3 3010 #
 0 3020 D _var p q_strandedrust > 0 #
 6 3030 D _var p q_strandedrust = 0 #
 16 3040 D _var p q_strandedrust > 0 D _var p q_strandedrust < 3 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 4 4010 #
 5 4020 #
 22 4030 @
-4 5000 None 0 #
+4 5000 main@dlg_Caps 0 #
 5 5010 @
-5 6000 None 0 #
+5 6000 main@dlg_Caps 0 #
 0 6010 D _var p q_strandedrust > 0 #
 6 6020 D _var p q_strandedrust = 0 @
-6 7000 None 0 #
+6 7000 main@dlg_Caps 0 #
 7 7010 @
-7 8000 None 0 #
+7 8000 main@dlg_Caps 0 #
 8 8010 D _param p SK_DOCTOR < 61 #
 9 8020 D _param p SK_DOCTOR > 60 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 9 9010 #
 0 9020 @
-9 10000 None 0 #
+9 10000 main@dlg_Caps 0 #
 10 10010 #
 0 10020 @
-10 11000 None 0 #
+10 11000 main@dlg_Caps 0 #
 11 11010 @
-11 12000 None 0 #
+11 12000 main@dlg_Caps 0 #
 13 12010 D _param p ST_LEVEL > 17 R _var p q_strandedrust = 1 #
 21 12020 D _param p ST_LEVEL < 18 R _var p q_strandedrust = 1 #
 0 12030 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 R _var p q_strandedrust = 2 R _script quest_tanker@r_SpawnTanker 0  @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 0 15010 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 14 16010 D _var p q_strandedrust = 1 D _param p ST_LEVEL > 17 #
 0 16020 D _param p ST_LEVEL < 18 #
 17 16030 D _item p PID_TANKER_METALLBOX > 0 #
 15 16040 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 0 17010 D _item p PID_TANKER_METALLBOX } 1 R _script quest_tanker@r_DeleteTanker 0  R _param p ST_EXPERIENCE + 500 R _item p PID_TANKER_METALLBOX - 1 R _var p q_strandedrust = 3 R _script dialog@r_AddMoney 1 100 R _script quest_tanker@r_QuestCD 0  #
 18 17020 D _param p SK_BARTER < 80 D _item p PID_TANKER_METALLBOX } 1 R _script quest_tanker@r_DeleteTanker 0  R _item p PID_TANKER_METALLBOX - 1 R _param p ST_EXPERIENCE + 500 R _var p q_strandedrust = 3 R _script dialog@r_AddMoney 1 100 R _script quest_tanker@r_QuestCD 0  #
 19 17030 D _param p SK_BARTER > 79 D _item p PID_TANKER_METALLBOX } 1 R _script quest_tanker@r_DeleteTanker 0  R _item p PID_TANKER_METALLBOX - 1 R _param p ST_EXPERIENCE + 600 R _var p q_strandedrust = 3 R _script dialog@r_AddMoney 1 200 R _script quest_tanker@r_QuestCD 0  @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 0 18010 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 0 19010 @
-21 20000 None 0 #
+21 20000 main@dlg_Caps 0 #
 0 20010 @
-22 21000 None 0 #
+22 21000 main@dlg_Caps 0 #
 6 21010 D _var p q_strandedrust = 0 #
 0 21020 D _var p q_strandedrust > 0 #
 23 21030 R _script dialog@r_ShowLocation 1 363 @
-23 22000 None 0 #
+23 22000 main@dlg_Caps 0 #
 6 22010 D _var p q_strandedrust = 0 #
 0 22020 D _var p q_strandedrust > 0 &
 
@@ -128,13 +128,13 @@ lang=engl czec pols span russ
 {16020}{}{I think, I should train a bit more... see you later.}
 {16030}{}{I have what you wanted.}
 {16040}{}{Nothing new yet.}
-{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 caps and be happy with it!}
+{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 @lex money@ and be happy with it!}
 {17010}{}{Very well. It was nice to make deals with you.}
-{17020}{}{What, just 100 caps? Give me more!}
-{17030}{}{What, just 100 caps? That really wasn't an easy task. You could give me some more.}
-{18000}{}{I don't have any additional caps. You should be happy with what I could give you!}
+{17020}{}{What, just 100 @lex money@? Give me more!}
+{17030}{}{What, just 100 @lex money@? That really wasn't an easy task. You could give me some more.}
+{18000}{}{I don't have any additional @lex money@. You should be happy with what I could give you!}
 {18010}{}{Yeah, whatever...}
-{19000}{}{Yeah, I guess you are right. Here, another 100 caps for you. But more I can really not give you.}
+{19000}{}{Yeah, I guess you are right. Here, another 100 @lex money@ for you. But more I can really not give you.}
 {19010}{}{Sounds better. Thanks.}
 {20000}{}{Wait, don't you feel a bit too weak? You should train a bit more first, then we can talk again.}
 {20010}{}{Okay, I come back later.}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -198,13 +198,13 @@ lang=engl czec pols span russ
 {16020}{}{I think, I should train a bit more... see you later.}
 {16030}{}{I have what you wanted.}
 {16040}{}{Nothing new yet.}
-{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 caps and be happy with it!}
+{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 @lex money@ and be happy with it!}
 {17010}{}{Very well. It was nice to make deals with you.}
-{17020}{}{What, just 100 caps? Give me more!}
-{17030}{}{What, just 100 caps? That really wasn't an easy task. You could give me some more.}
-{18000}{}{I don't have any additional caps. You should be happy with what I could give you!}
+{17020}{}{What, just 100 @lex money@? Give me more!}
+{17030}{}{What, just 100 @lex money@? That really wasn't an easy task. You could give me some more.}
+{18000}{}{I don't have any additional @lex money@. You should be happy with what I could give you!}
 {18010}{}{Yeah, whatever...}
-{19000}{}{Yeah, I guess you are right. Here, another 100 caps for you. But more I can really not give you.}
+{19000}{}{Yeah, I guess you are right. Here, another 100 @lex money@ for you. But more I can really not give you.}
 {19010}{}{Sounds better. Thanks.}
 {20000}{}{Wait, don't you feel a bit too weak? You should train a bit more first, then we can talk again.}
 {20010}{}{Okay, I come back later.}
@@ -217,7 +217,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -268,13 +268,13 @@ lang=engl czec pols span russ
 {16020}{}{I think, I should train a bit more... see you later.}
 {16030}{}{I have what you wanted.}
 {16040}{}{Nothing new yet.}
-{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 caps and be happy with it!}
+{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 @lex money@ and be happy with it!}
 {17010}{}{Very well. It was nice to make deals with you.}
-{17020}{}{What, just 100 caps? Give me more!}
-{17030}{}{What, just 100 caps? That really wasn't an easy task. You could give me some more.}
-{18000}{}{I don't have any additional caps. You should be happy with what I could give you!}
+{17020}{}{What, just 100 @lex money@? Give me more!}
+{17030}{}{What, just 100 @lex money@? That really wasn't an easy task. You could give me some more.}
+{18000}{}{I don't have any additional @lex money@. You should be happy with what I could give you!}
 {18010}{}{Yeah, whatever...}
-{19000}{}{Yeah, I guess you are right. Here, another 100 caps for you. But more I can really not give you.}
+{19000}{}{Yeah, I guess you are right. Here, another 100 @lex money@ for you. But more I can really not give you.}
 {19010}{}{Sounds better. Thanks.}
 {20000}{}{Wait, don't you feel a bit too weak? You should train a bit more first, then we can talk again.}
 {20010}{}{Okay, I come back later.}
@@ -287,7 +287,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -338,13 +338,13 @@ lang=engl czec pols span russ
 {16020}{}{I think, I should train a bit more... see you later.}
 {16030}{}{I have what you wanted.}
 {16040}{}{Nothing new yet.}
-{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 caps and be happy with it!}
+{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 @lex money@ and be happy with it!}
 {17010}{}{Very well. It was nice to make deals with you.}
-{17020}{}{What, just 100 caps? Give me more!}
-{17030}{}{What, just 100 caps? That really wasn't an easy task. You could give me some more.}
-{18000}{}{I don't have any additional caps. You should be happy with what I could give you!}
+{17020}{}{What, just 100 @lex money@? Give me more!}
+{17030}{}{What, just 100 @lex money@? That really wasn't an easy task. You could give me some more.}
+{18000}{}{I don't have any additional @lex money@. You should be happy with what I could give you!}
 {18010}{}{Yeah, whatever...}
-{19000}{}{Yeah, I guess you are right. Here, another 100 caps for you. But more I can really not give you.}
+{19000}{}{Yeah, I guess you are right. Here, another 100 @lex money@ for you. But more I can really not give you.}
 {19010}{}{Sounds better. Thanks.}
 {20000}{}{Wait, don't you feel a bit too weak? You should train a bit more first, then we can talk again.}
 {20010}{}{Okay, I come back later.}
@@ -357,7 +357,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -408,13 +408,13 @@ lang=engl czec pols span russ
 {16020}{}{I think, I should train a bit more... see you later.}
 {16030}{}{I have what you wanted.}
 {16040}{}{Nothing new yet.}
-{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 caps and be happy with it!}
+{17000}{}{Very good! [He looks like a happy child.] Here, take the 100 @lex money@ and be happy with it!}
 {17010}{}{Very well. It was nice to make deals with you.}
-{17020}{}{What, just 100 caps? Give me more!}
-{17030}{}{What, just 100 caps? That really wasn't an easy task. You could give me some more.}
-{18000}{}{I don't have any additional caps. You should be happy with what I could give you!}
+{17020}{}{What, just 100 @lex money@? Give me more!}
+{17030}{}{What, just 100 @lex money@? That really wasn't an easy task. You could give me some more.}
+{18000}{}{I don't have any additional @lex money@. You should be happy with what I could give you!}
 {18010}{}{Yeah, whatever...}
-{19000}{}{Yeah, I guess you are right. Here, another 100 caps for you. But more I can really not give you.}
+{19000}{}{Yeah, I guess you are right. Here, another 100 @lex money@ for you. But more I can really not give you.}
 {19010}{}{Sounds better. Thanks.}
 {20000}{}{Wait, don't you feel a bit too weak? You should train a bit more first, then we can talk again.}
 {20010}{}{Okay, I come back later.}

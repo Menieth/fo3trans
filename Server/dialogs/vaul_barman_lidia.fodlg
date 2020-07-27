@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 60 1010 D _script dialog@d_CheckNight 0  #
 50 1020 D _param p ST_INTELLECT < 4 #
 2 1030 D _script dialog@d_IsNotMember 0  #
 20 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 6 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 15 3020 D _script dialog@d_havepropermoney 1 9 R _script dialog@r_RemoveMoney 1 10 #
 15 3030 D _script dialog@d_havepropermoney 1 2 R _script dialog@r_RemoveMoney 1 3 #
@@ -23,66 +23,66 @@ lang=engl czec pols span russ
 6 3050 #
 0 3060 D _item p PID_BOTTLE_CAPS < 3 #
 0 3070 D _script dialog@d_havepropermoney 1 2 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 6 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 2 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 8 6020 #
 9 6030 #
 10 6040 #
 3 6050 #
 0 6060 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 6 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 6 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 6 9010 #
 65506 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 R _script dialog@r_ShowLocation 1 6 #
 12 10020 R _script dialog@r_ShowLocation 1 7 #
 13 10030 R _script dialog@r_ShowLocation 1 13 #
 14 10040 R _script dialog@r_ShowLocation 1 5 #
 6 10050 #
 0 10060 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 65505 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 65505 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 65505 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 65505 14010 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 6 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 #
 3 16020 #
 6 16030 #
 0 16040 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 6 17010 #
 0 17020 @
-20 18000 None 0 #
+20 18000 main@dlg_Caps 0 #
 3 18010 #
 6 18020 #
 0 18030 @
-50 19000 None 0 #
+50 19000 main@dlg_Caps 0 #
 51 19010 #
 0 19020 @
-51 20000 None 0 #
+51 20000 main@dlg_Caps 0 #
 0 20010 #
 0 20020 @
-60 21000 None 0 &
+60 21000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Lidia}
@@ -169,7 +169,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -251,7 +251,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -333,7 +333,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -415,7 +415,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}

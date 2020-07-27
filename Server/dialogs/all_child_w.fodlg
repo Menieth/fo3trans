@@ -6,11 +6,11 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _script dialog@d_IsWearingScaryHelmet 0  R _script dialog@r_RunAway 2 15 30 #
 2 1020 @
-2 2000 None 0 @
-4 3000 None 0 &
+2 2000 main@dlg_Caps 0 @
+4 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Girl}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{scary helmet}
 {1020}{}{Answer text}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{scary helmet}
 {1020}{}{Answer text}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{scary helmet}
 {1020}{}{Answer text}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Leave me alone!@@Go away!@@Mooooom, I saw Michael!@@:: cry ::@@:: scream ::}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{scary helmet}
 {1020}{}{Answer text}

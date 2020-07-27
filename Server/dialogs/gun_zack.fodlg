@@ -6,33 +6,33 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 11 1010 D _var n name_mem_npc_player = 1 #
 10 1020 D _param p SK_SMALL_GUNS < 50 D _param p SK_BIG_GUNS < 50 D _param p SK_ENERGY_WEAPONS < 50 #
 2 1030 D _var n name_mem_npc_player = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 12 2020 D _var p q_la_gunrunners_caravan = 3 #
 5 2030 D _param p ST_INTELLECT > 1000 #
 65506 2040 #
 6 2050 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 65507 3010 D _param p ST_INTELLECT > 1000 R _var n name_mem_npc_player = 1 R _script dialog@r_GunRunnerInsult 0  #
 65506 3020 #
 6 3030 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 2 4010 @
-6 5000 None 0 @
-9 6000 None 0 @
-10 7000 None 0 @
+6 5000 main@dlg_Caps 0 @
+9 6000 main@dlg_Caps 0 @
+10 7000 main@dlg_Caps 0 @
 11 8000 Attack 0 @
-12 9000 None 0 #
+12 9000 main@dlg_Caps 0 #
 13 9010 R _item p PID_COMBAT_ARMOR + 1 R _item p PID_TESLA_ARMOR + 1 R _item p PID_METAL_ARMOR_MK_II + 2 R _script quest_la_gunr_caravan@r_QuestCD 0  #
 13 9020 R _item p PID_LIGHT_SUPPORT_WEAPON + 1 R _item p PID_LASER_RIFLE + 1 R _item p PID_14MM_PISTOL + 1 R _item p PID_FN_FAL + 1 R _script quest_la_gunr_caravan@r_QuestCD 0  #
 13 9030 R _item p PID_5MM_AP + 1000 R _item p PID_223_FMJ + 300 R _item p PID_MICRO_FUSION_CELL + 400 R _item p PID_7_62MM_AMMO + 300 R _script quest_la_gunr_caravan@r_QuestCD 0  @
-13 10000 None 0 #
+13 10000 main@dlg_Caps 0 #
 0 10010 @
-14 11000 None 1 #
+14 11000 main@dlg_Caps 1 #
 4 11010 #
 12 11020 D _var p q_la_gunrunners_caravan = 3 #
 65506 11030 #
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}

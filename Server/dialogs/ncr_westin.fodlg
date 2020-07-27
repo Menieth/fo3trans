@@ -6,73 +6,73 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p name_mem_npc_player = 0 R _var p name_mem_npc_player = 1 #
 4 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 5 2010 D _var p q_ncr_westin_quest1 = 0 D _var p q_ncr_westin_quest1_billboard ! 0 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _var p q_ncr_westin_quest1_billboard > 0 D _var p q_ncr_westin_quest1 = 0 #
 8 4020 D _var p q_ncr_westin_quest1 > 0 D _var p q_ncr_westin_quest1 < 5 #
 20 4030 D _var p q_ncr_westin_quest2 = 2 R _var p q_ncr_westin_quest2 = 3 R _script dialog@r_AddMoney 1 250 R _param p ST_EXPERIENCE + 250 #
 15 4040 D _var p q_ncr_westin_quest2 = 0 D _var p q_ncr_westin_quest1 = 5 D or D _var p q_ncr_westin_quest1 = 6 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 D _param p ST_INTELLECT } 8 R _var p q_ncr_westin_quest1 = 1 #
 7 5020 D _param p ST_INTELLECT < 8 R _var p q_ncr_westin_quest1 = 1 #
 22 5030 #
 6 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 0 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 D _var p q_ncr_westin_quest1 = 2 R _var p q_ncr_westin_quest1 = 5 R _script dialog@r_AddMoney 1 50 #
 10 8020 D _var p q_ncr_westin_quest1 = 3 R _var p q_ncr_westin_quest1 = 5 R _script dialog@r_AddMoney 1 100 R _param p REPUTATION_NCR + 5 #
 11 8030 D _var p q_ncr_westin_quest1 = 4 R _var p q_ncr_westin_quest1 = 6 R _param p REPUTATION_NCR - 5 #
 0 8040 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 #
 15 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 #
 15 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 14 11010 #
 13 11020 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 0 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 0 13010 #
 65507 13020 @
-14 14000 None 0 @
-15 15000 None 0 #
+14 14000 main@dlg_Caps 0 @
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 0 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 D _script dialog@d_IsLocationVisible 1 4 #
 17 16020 D _script dialog@d_IsLocationNotVisible 1 4 #
 18 16030 D _script dialog@d_IsLocationNotVisible 1 4 R _script dialog@r_ShowLocation 1 4 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 19 17010 R _var p q_ncr_westin_quest2 = 1 R _item p PID_Q_WESTIN_HOLO + 1 #
 21 17020 #
 0 17030 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 R _var p q_ncr_westin_quest2 = 1 R _item p PID_Q_WESTIN_HOLO + 1 #
 21 18020 #
 0 18030 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 0 19010 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 0 20010 #
 12 20020 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 19 21010 R _var p q_ncr_westin_quest2 = 1 R _item p PID_Q_WESTIN_HOLO + 1 #
 0 21020 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 0 22010 &
 
 [engl]
@@ -108,10 +108,10 @@ lang=engl czec pols span russ
 {8020}{}{A gang of children showed up and chased around the brahmins. I chased them away.}
 {8030}{}{A gang of children showed up and chased around the brahmins. I digged them a grave, six feet under.}
 {8040}{}{I have nothing new. Goodbye.}
-{9000}{}{Not what I've expected, but okay. Here, a few caps for the time you spend on it.}
+{9000}{}{Not what I've expected, but okay. Here, a few @lex money@ for the time you spend on it.}
 {9010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {9020}{}{Is there anything else that needs to be done?}
-{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few caps for the time you spend on it. One of my men will now guard the willow for the time being.}
+{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few @lex money@ for the time you spend on it. One of my men will now guard the willow for the time being.}
 {10010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {10020}{}{Is there anything else that needs to be done?}
 {11000}{}{You have... what? You have killed children? How -- God damn, how could you do that?! And now you expect me to pay you? }
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {18030}{}{I can't do this now, but I will be back later.}
 {19000}{}{Good, good. Come back to me when you have delivered the Holodisk.}
 {19010}{}{[End]}
-{20000}{}{Good. Here, a few caps for the time you spend on it.}
+{20000}{}{Good. Here, a few @lex money@ for the time you spend on it.}
 {20010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {20020}{}{Is there anything else that needs to be done?}
 {21000}{}{Not much to tell about him. He is a Vault City citizen and my local contact. You will most likely find him inside the city borders.}
@@ -150,7 +150,7 @@ lang=engl czec pols span russ
 {22010}{}{Got it.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unkown}
 {1020}{}{known}
@@ -179,10 +179,10 @@ lang=engl czec pols span russ
 {8020}{}{A gang of children showed up and chased around the brahmins. I chased them away.}
 {8030}{}{A gang of children showed up and chased around the brahmins. I digged them a grave, six feet under.}
 {8040}{}{I have nothing new. Goodbye.}
-{9000}{}{Not what I've expected, but okay. Here, a few caps for the time you spend on it.}
+{9000}{}{Not what I've expected, but okay. Here, a few @lex money@ for the time you spend on it.}
 {9010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {9020}{}{Is there anything else that needs to be done?}
-{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few caps for the time you spend on it. One of my men will now guard the willow for the time being.}
+{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few @lex money@ for the time you spend on it. One of my men will now guard the willow for the time being.}
 {10010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {10020}{}{Is there anything else that needs to be done?}
 {11000}{}{You have... what? You have killed children? How -- God damn, how could you do that?! And now you expect me to pay you? }
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {18030}{}{I can't do this now, but I will be back later.}
 {19000}{}{Good, good. Come back to me when you have delivered the Holodisk.}
 {19010}{}{[End]}
-{20000}{}{Good. Here, a few caps for the time you spend on it.}
+{20000}{}{Good. Here, a few @lex money@ for the time you spend on it.}
 {20010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {20020}{}{Is there anything else that needs to be done?}
 {21000}{}{Not much to tell about him. He is a Vault City citizen and my local contact. You will most likely find him inside the city borders.}
@@ -221,7 +221,7 @@ lang=engl czec pols span russ
 {22010}{}{Got it.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unkown}
 {1020}{}{known}
@@ -250,10 +250,10 @@ lang=engl czec pols span russ
 {8020}{}{A gang of children showed up and chased around the brahmins. I chased them away.}
 {8030}{}{A gang of children showed up and chased around the brahmins. I digged them a grave, six feet under.}
 {8040}{}{I have nothing new. Goodbye.}
-{9000}{}{Not what I've expected, but okay. Here, a few caps for the time you spend on it.}
+{9000}{}{Not what I've expected, but okay. Here, a few @lex money@ for the time you spend on it.}
 {9010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {9020}{}{Is there anything else that needs to be done?}
-{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few caps for the time you spend on it. One of my men will now guard the willow for the time being.}
+{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few @lex money@ for the time you spend on it. One of my men will now guard the willow for the time being.}
 {10010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {10020}{}{Is there anything else that needs to be done?}
 {11000}{}{You have... what? You have killed children? How -- God damn, how could you do that?! And now you expect me to pay you? }
@@ -282,7 +282,7 @@ lang=engl czec pols span russ
 {18030}{}{I can't do this now, but I will be back later.}
 {19000}{}{Good, good. Come back to me when you have delivered the Holodisk.}
 {19010}{}{[End]}
-{20000}{}{Good. Here, a few caps for the time you spend on it.}
+{20000}{}{Good. Here, a few @lex money@ for the time you spend on it.}
 {20010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {20020}{}{Is there anything else that needs to be done?}
 {21000}{}{Not much to tell about him. He is a Vault City citizen and my local contact. You will most likely find him inside the city borders.}
@@ -292,7 +292,7 @@ lang=engl czec pols span russ
 {22010}{}{Got it.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unkown}
 {1020}{}{known}
@@ -321,10 +321,10 @@ lang=engl czec pols span russ
 {8020}{}{A gang of children showed up and chased around the brahmins. I chased them away.}
 {8030}{}{A gang of children showed up and chased around the brahmins. I digged them a grave, six feet under.}
 {8040}{}{I have nothing new. Goodbye.}
-{9000}{}{Not what I've expected, but okay. Here, a few caps for the time you spend on it.}
+{9000}{}{Not what I've expected, but okay. Here, a few @lex money@ for the time you spend on it.}
 {9010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {9020}{}{Is there anything else that needs to be done?}
-{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few caps for the time you spend on it. One of my men will now guard the willow for the time being.}
+{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few @lex money@ for the time you spend on it. One of my men will now guard the willow for the time being.}
 {10010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {10020}{}{Is there anything else that needs to be done?}
 {11000}{}{You have... what? You have killed children? How -- God damn, how could you do that?! And now you expect me to pay you? }
@@ -353,7 +353,7 @@ lang=engl czec pols span russ
 {18030}{}{I can't do this now, but I will be back later.}
 {19000}{}{Good, good. Come back to me when you have delivered the Holodisk.}
 {19010}{}{[End]}
-{20000}{}{Good. Here, a few caps for the time you spend on it.}
+{20000}{}{Good. Here, a few @lex money@ for the time you spend on it.}
 {20010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {20020}{}{Is there anything else that needs to be done?}
 {21000}{}{Not much to tell about him. He is a Vault City citizen and my local contact. You will most likely find him inside the city borders.}
@@ -363,7 +363,7 @@ lang=engl czec pols span russ
 {22010}{}{Got it.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{unkown}
 {1020}{}{known}
@@ -392,10 +392,10 @@ lang=engl czec pols span russ
 {8020}{}{A gang of children showed up and chased around the brahmins. I chased them away.}
 {8030}{}{A gang of children showed up and chased around the brahmins. I digged them a grave, six feet under.}
 {8040}{}{I have nothing new. Goodbye.}
-{9000}{}{Not what I've expected, but okay. Here, a few caps for the time you spend on it.}
+{9000}{}{Not what I've expected, but okay. Here, a few @lex money@ for the time you spend on it.}
 {9010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {9020}{}{Is there anything else that needs to be done?}
-{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few caps for the time you spend on it. One of my men will now guard the willow for the time being.}
+{10000}{}{Interesting. That's kind of what I've expected, to be honest. Here, a few @lex money@ for the time you spend on it. One of my men will now guard the willow for the time being.}
 {10010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {10020}{}{Is there anything else that needs to be done?}
 {11000}{}{You have... what? You have killed children? How -- God damn, how could you do that?! And now you expect me to pay you? }
@@ -424,7 +424,7 @@ lang=engl czec pols span russ
 {18030}{}{I can't do this now, but I will be back later.}
 {19000}{}{Good, good. Come back to me when you have delivered the Holodisk.}
 {19010}{}{[End]}
-{20000}{}{Good. Here, a few caps for the time you spend on it.}
+{20000}{}{Good. Here, a few @lex money@ for the time you spend on it.}
 {20010}{}{Thanks, Mr. Westin. I'll be gone now.}
 {20020}{}{Is there anything else that needs to be done?}
 {21000}{}{Not much to tell about him. He is a Vault City citizen and my local contact. You will most likely find him inside the city borders.}

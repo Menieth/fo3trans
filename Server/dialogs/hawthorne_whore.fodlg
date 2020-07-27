@@ -6,14 +6,14 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 3 1010 @
-3 2000 None 0 #
+3 2000 main@dlg_Caps 0 #
 4 2010 #
 0 2020 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 0 3010 #
-0 3020 D _item p PID_BOTTLE_CAPS } 500 R _script dialog@r_RemoveMoney 1 500 R _script dialog@r_FlushScreen 0  R _param p ST_EXPERIENCE + 100 &
+0 3020 D _script dialog@d_havepropermoney 1 500 R _script dialog@r_RemoveMoney 1 500 R _script dialog@r_FlushScreen 0  R _param p ST_EXPERIENCE + 100 &
 
 [engl]
 {100}{}{Whore}
@@ -22,51 +22,51 @@ lang=engl czec pols span russ
 {2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
 {2010}{}{Hey, babe. What do you think about some party togather, eh?}
 {2020}{}{Back off, dirty bitch!}
-{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3000}{}{Just 500 @lex money@... And you will no longer need to kill anyone. [giggles]}
 {3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
 {3020}{}{Oh right! Let's do it...}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
 {2010}{}{Hey, babe. What do you think about some party togather, eh?}
 {2020}{}{Back off, dirty bitch!}
-{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3000}{}{Just 500 @lex money@... And you will no longer need to kill anyone. [giggles]}
 {3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
 {3020}{}{Oh right! Let's do it...}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
 {2010}{}{Hey, babe. What do you think about some party togather, eh?}
 {2020}{}{Back off, dirty bitch!}
-{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3000}{}{Just 500 @lex money@... And you will no longer need to kill anyone. [giggles]}
 {3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
 {3020}{}{Oh right! Let's do it...}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
 {2010}{}{Hey, babe. What do you think about some party togather, eh?}
 {2020}{}{Back off, dirty bitch!}
-{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3000}{}{Just 500 @lex money@... And you will no longer need to kill anyone. [giggles]}
 {3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
 {3020}{}{Oh right! Let's do it...}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey sweety... I see you are tired. Maybe I can do something special for you to help you relax? You know... This mouth is not only for talking.}
 {2010}{}{Hey, babe. What do you think about some party togather, eh?}
 {2020}{}{Back off, dirty bitch!}
-{3000}{}{Just 500 caps... And you will no longer need to kill anyone. [giggles]}
+{3000}{}{Just 500 @lex money@... And you will no longer need to kill anyone. [giggles]}
 {3010}{}{What a hell are these prices? No way, you can either fuck YOURSELF.}
 {3020}{}{Oh right! Let's do it...}
 

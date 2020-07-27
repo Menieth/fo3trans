@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 R _script dialog@r_PlaySound 1 26 R _script dialog@r_OpenDoor 1 333 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 @
-4 4000 None 0 &
+4 4000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ LOADING MAINFRAME... COMPLETE. ]}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {4000}{}{[ OPERATING... ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ LOADING MAINFRAME... COMPLETE. ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{[ OPERATING... ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ LOADING MAINFRAME... COMPLETE. ]}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {4000}{}{[ OPERATING... ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ LOADING MAINFRAME... COMPLETE. ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4000}{}{[ OPERATING... ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ LOADING MAINFRAME... COMPLETE. ]}

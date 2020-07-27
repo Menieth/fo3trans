@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Slave}
@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I need to win.@@I can't loose.@@Maybe they will let me go when I win.@@Stop bothering me, I need to focus on fight.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I need to win.@@I can't loose.@@Maybe they will let me go when I win.@@Stop bothering me, I need to focus on fight.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I need to win.@@I can't loose.@@Maybe they will let me go when I win.@@Stop bothering me, I need to focus on fight.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I need to win.@@I can't loose.@@Maybe they will let me go when I win.@@Stop bothering me, I need to focus on fight.}

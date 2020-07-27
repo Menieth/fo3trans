@@ -6,45 +6,45 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 11 1010 #
 2 1020 D _var n name_mem_npc_player = 0 D _param p ST_INTELLECT > 3 #
 3 1030 D _var n name_mem_npc_player = 1 D _param p ST_INTELLECT > 3 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_INTELLECT > 3 R _var n name_mem_npc_player = 1 #
 15 2020 D _param p ST_INTELLECT > 3 #
 8 2030 D _param p ST_INTELLECT < 3 #
 0 2040 R _var n name_mem_npc_player = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 #
 4 5030 #
 0 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 4 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 4 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 10 10010 #
 65507 10020 #
 0 10030 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 4 11010 #
 0 11020 @
-15 12000 None 0 #
+15 12000 main@dlg_Caps 0 #
 4 12010 #
 0 12020 &
 
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}

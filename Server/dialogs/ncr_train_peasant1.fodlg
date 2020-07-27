@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 20 1010 D _var p q_vc_train_doc > 0 D _var p q_vc_train3 < 4 #
 20 1020 D _var p q_la_train_caesar > 0 D _var p q_la_train3 < 4 #
 3 1030 D _script dialog@d_CheckNight 0  #
 2 1040 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-20 7000 None 0 #
+20 7000 main@dlg_Caps 0 #
 21 7010 @
-21 8000 None 0 #
+21 8000 main@dlg_Caps 0 #
 23 8010 #
 24 8020 #
 22 8030 D _var n name_mem_npc_player = 0 D _var p q_vc_train_doc > 0 D _var p q_vc_train3 < 4 R _var p q_vc_train3 + 1 R _var n name_mem_npc_player + 1 #
@@ -29,15 +29,15 @@ lang=engl czec pols span russ
 5 8050 D _var p q_la_train_caesar > 0 D _var n name_mem_player_npc = 0 D _var p q_la_train3 = 3 D _var p q_la_train_count < 15 R _var n name_mem_player_npc + 1 R _var p q_la_train3 = 4 R _var p q_la_train_count + 1 #
 6 8060 D _var p q_la_train_caesar > 0 D _var n name_mem_player_npc = 0 D _var p q_la_train1 = 4 D _var p q_la_train2 = 4 D _var p q_la_train3 = 3 D _var p q_la_train4 = 4 D _var p q_la_train_count > 14 R _var p q_la_train3 + 1 R _var p q_la_train_caesar = 2 R _var n name_mem_player_npc + 1 R _var p q_la_train_count + 1 #
 0 8070 @
-22 9000 None 0 #
+22 9000 main@dlg_Caps 0 #
 0 9010 D _var p q_vc_train3 < 4 #
 0 9020 D _var p q_vc_train3 < 4 #
 0 9030 D _var p q_vc_train3 > 3 R _var p q_vc_train_doc = 4 #
 0 9040 D _var p q_vc_train3 > 3 R _var p q_vc_train_doc = 4 @
-23 10000 None 0 #
+23 10000 main@dlg_Caps 0 #
 21 10010 #
 0 10020 @
-24 11000 None 0 #
+24 11000 main@dlg_Caps 0 #
 21 11010 #
 0 11020 &
 
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running}

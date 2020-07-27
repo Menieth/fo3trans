@@ -6,28 +6,28 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 11 4010 #
 5 4020 #
 6 4030 #
 0 4040 R _script perks@joke 0  #
 2 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 7 5010 D _param p PE_SPECIAL_IMPLANT_LIMIT < 12 #
 8 5020 D _param p PE_COMBAT_IMPLANT_LIMIT < 10 #
 4 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 9 6010 #
 10 6020 #
 4 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 25 7010 D _param p ST_STRENGTH < 20 D _item p PID_IMPLANT_STRENGTH > 0 R _item p PID_IMPLANT_STRENGTH - 1 R _param p PE_IMP_STRENGTH + 1 R _param p PE_SPECIAL_IMPLANT_LIMIT + 1 #
 25 7020 D _param p ST_PERCEPTION < 20 D _item p PID_IMPLANT_PERCEPTION > 0 R _item p PID_IMPLANT_PERCEPTION - 1 R _param p PE_IMP_PERCEPTION + 1 R _param p PE_SPECIAL_IMPLANT_LIMIT + 1 #
 25 7030 D _param p ST_ENDURANCE < 20 D _item p PID_IMPLANT_ENDURANCE > 0 R _item p PID_IMPLANT_ENDURANCE - 1 R _param p PE_IMP_ENDURANCE + 1 R _param p PE_SPECIAL_IMPLANT_LIMIT + 1 #
@@ -35,10 +35,10 @@ lang=engl czec pols span russ
 25 7050 D _param p ST_INTELLECT < 20 D _item p PID_IMPLANT_INTELLIGENCE > 0 R _item p PID_IMPLANT_INTELLIGENCE - 1 R _param p PE_IMP_INTELLIGENCE + 1 R _param p PE_SPECIAL_IMPLANT_LIMIT + 1 #
 25 7060 D _param p ST_AGILITY < 20 D _item p PID_IMPLANT_AGILITY > 0 R _item p PID_IMPLANT_AGILITY - 1 R _param p PE_IMP_AGILITY + 1 R _param p PE_SPECIAL_IMPLANT_LIMIT + 1 #
 25 7070 D _param p ST_LUCK < 20 D _item p PID_IMPLANT_LUCK > 0 R _item p PID_IMPLANT_LUCK - 1 R _param p PE_IMP_LUCK + 1 R _param p PE_SPECIAL_IMPLANT_LIMIT + 1 @
-25 8000 None 0 #
+25 8000 main@dlg_Caps 0 #
 4 8010 #
 0 8020 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 25 9010 D _param p PE_DERMAL_IMPACT = 0 D _item p PID_IMPLANT_DERMAL > 0 D _param p PE_DERMAL_IMPACT_ENH = 0 R _item p PID_IMPLANT_DERMAL - 1 R _param p PE_DERMAL_IMPACT + 1 R _param p PE_COMBAT_IMPLANT_LIMIT + 1 #
 25 9020 D _param p PE_PHOENIX_IMPLANTS = 0 D _item p PID_IMPLANT_PHOENIX > 0 D _param p PE_PHOENIX_IMPLANTS_ENH = 0 R _item p PID_IMPLANT_PHOENIX - 1 R _param p PE_PHOENIX_IMPLANTS + 1 R _param p PE_COMBAT_IMPLANT_LIMIT + 1 #
 25 9030 D _param p PE_AGRO = 0 D _item p PID_IMPLANT_AGRO > 0 D _param p PE_AGRO2 = 0 R _item p PID_IMPLANT_AGRO - 1 R _param p PE_AGRO + 1 R _param p PE_COMBAT_IMPLANT_LIMIT + 1 #
@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 25 9200 D _param p PE_TIGER = 1 D _param p PE_TIGER2 = 1 D _item p PID_IMPLANT_TIGER > 0 R _item p PID_IMPLANT_TIGER - 1 R _param p PE_TIGER + 1 R _param p PE_COMBAT_IMPLANT_LIMIT + 1 #
 25 9210 D _param p PE_TACTICAL = 1 D _param p PE_TACTICAL2 = 1 D _item p PID_IMPLANT_TACTICS > 0 R _item p PID_IMPLANT_TACTICS - 1 R _param p PE_TACTICAL2 + 1 R _param p PE_COMBAT_IMPLANT_LIMIT + 1 #
 25 9220 D _param p PE_CLAW = 0 D _item p PID_IMPLANT_CLAW > 0 D _param p PE_CLAW2 = 0 R _item p PID_IMPLANT_CLAW - 1 R _param p PE_COMBAT_IMPLANT_LIMIT + 1 R _param p PE_CLAW + 1 @
-9 10000 None 0 #
+9 10000 main@dlg_Caps 0 #
 25 10010 D _param p PE_IMP_STRENGTH > 0 D _param p PE_IMP_STRENGTH > 0 R _param p PE_SPECIAL_IMPLANT_LIMIT - 1 R _param p PE_IMP_STRENGTH - 1 R _item p PID_IMPLANT_STRENGTH + 1 #
 25 10020 D _param p PE_IMP_PERCEPTION > 0 R _param p PE_SPECIAL_IMPLANT_LIMIT - 1 R _param p PE_IMP_PERCEPTION - 1 R _item p PID_IMPLANT_PERCEPTION + 1 #
 25 10030 D _param p PE_IMP_ENDURANCE > 0 R _param p PE_SPECIAL_IMPLANT_LIMIT - 1 R _param p PE_IMP_ENDURANCE - 1 R _item p PID_IMPLANT_ENDURANCE + 1 #
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 25 10050 D _param p PE_IMP_INTELLIGENCE > 0 R _param p PE_SPECIAL_IMPLANT_LIMIT - 1 R _param p PE_IMP_INTELLIGENCE - 1 R _item p PID_IMPLANT_INTELLIGENCE + 1 #
 25 10060 D _param p PE_IMP_AGILITY > 0 R _param p PE_SPECIAL_IMPLANT_LIMIT - 1 R _param p PE_IMP_AGILITY - 1 R _item p PID_IMPLANT_AGILITY + 1 #
 25 10070 D _param p PE_IMP_LUCK > 0 R _param p PE_SPECIAL_IMPLANT_LIMIT - 1 R _param p PE_IMP_LUCK - 1 R _item p PID_IMPLANT_LUCK + 1 @
-10 11000 None 0 #
+10 11000 main@dlg_Caps 0 #
 25 11010 D _param p PE_DERMAL_IMPACT = 1 D _param p PE_DERMAL_IMPACT_ENH = 0 R _param p PE_COMBAT_IMPLANT_LIMIT - 1 R _param p PE_DERMAL_IMPACT - 1 R _item p PID_IMPLANT_DERMAL + 1 #
 25 11020 D _param p PE_DERMAL_IMPACT_ENH = 1 D _param p PE_DERMAL_IMPACT = 1 R _param p PE_COMBAT_IMPLANT_LIMIT - 1 R _param p PE_DERMAL_IMPACT_ENH - 1 R _item p PID_IMPLANT_DERMAL + 1 #
 25 11030 D _param p PE_DERMAL_IMPACT_ENH = 1 D _param p PE_DERMAL_IMPACT = 2 R _param p PE_COMBAT_IMPLANT_LIMIT - 1 R _param p PE_DERMAL_IMPACT - 1 R _item p PID_IMPLANT_DERMAL + 1 #
@@ -92,14 +92,14 @@ lang=engl czec pols span russ
 25 11200 D _param p PE_TACTICAL = 1 D _param p PE_TACTICAL2 = 1 R _param p PE_COMBAT_IMPLANT_LIMIT - 1 R _param p PE_TACTICAL2 - 1 R _item p PID_IMPLANT_TACTICS + 1 #
 25 11210 D _param p PE_TACTICAL = 1 D _param p PE_TACTICAL2 = 2 R _param p PE_COMBAT_IMPLANT_LIMIT - 1 R _param p PE_TACTICAL2 - 1 R _item p PID_IMPLANT_TACTICS + 1 #
 25 11220 D _param p PE_NEMEAN_ARMOR > 0 R _param p PE_COMBAT_IMPLANT_LIMIT - 1 R _param p PE_NEMEAN_ARMOR - 1 R _item p PID_IMPLANT_NEMEAN + 1 @
-11 12000 None 0 #
+11 12000 main@dlg_Caps 0 #
 12 12010 D _param p DAMAGE_EYE > 0 D _script perks@d_cd 0  R _param p DAMAGE_EYE = 0 R _script perks@r_cd 0  #
 12 12020 D _param p DAMAGE_LEFT_ARM > 0 D _script perks@d_cd 0  R _param p DAMAGE_LEFT_ARM = 0 R _script perks@r_cd 0  #
 12 12030 D _param p DAMAGE_RIGHT_ARM > 0 D _script perks@d_cd 0  R _param p DAMAGE_RIGHT_ARM = 0 R _script perks@r_cd 0  #
 12 12040 D _param p DAMAGE_LEFT_LEG > 0 D _script perks@d_cd 0  R _param p DAMAGE_LEFT_LEG = 0 R _script perks@r_cd 0  #
 12 12050 D _param p DAMAGE_RIGHT_LEG > 0 D _script perks@d_cd 0  R _param p DAMAGE_RIGHT_LEG = 0 R _script perks@r_cd 0  #
 4 12060 @
-12 13000 None 0 &
+12 13000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Player}
@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {13000}{}{Success}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{system initializing...}
@@ -299,7 +299,7 @@ lang=engl czec pols span russ
 {13000}{}{Success}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{system initializing...}
@@ -396,7 +396,7 @@ lang=engl czec pols span russ
 {13000}{}{Success}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{system initializing...}
@@ -493,7 +493,7 @@ lang=engl czec pols span russ
 {13000}{}{Success}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{system initializing...}

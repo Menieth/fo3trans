@@ -6,16 +6,16 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 6 1010 @
-6 2000 None 0 #
+6 2000 main@dlg_Caps 0 #
 7 2010 #
 0 2020 @
-7 3000 None 0 #
-8 3010 D _item p PID_COMBAT_ARMOR } 1 D _item p PID_BOTTLE_CAPS } 550 R _script dialog@r_RemoveMoney 1 550 R _item p PID_COMBAT_ARMOR - 1 R _item p PID_NCR_ARMOR + 1 #
-8 3020 D _item p PID_COMBAT_HELMET } 1 D _item p PID_BOTTLE_CAPS } 350 R _script dialog@r_RemoveMoney 1 350 R _item p PID_COMBAT_HELMET - 1 R _item p PID_NCR_HELMET + 1 #
+7 3000 main@dlg_Caps 0 #
+8 3010 D _item p PID_COMBAT_ARMOR } 1 D _script dialog@d_havepropermoney 1 550 R _script dialog@r_RemoveMoney 1 550 R _item p PID_COMBAT_ARMOR - 1 R _item p PID_NCR_ARMOR + 1 #
+8 3020 D _item p PID_COMBAT_HELMET } 1 D _script dialog@d_havepropermoney 1 350 R _script dialog@r_RemoveMoney 1 350 R _item p PID_COMBAT_HELMET - 1 R _item p PID_NCR_HELMET + 1 #
 0 3030 @
-8 4000 None 0 &
+8 4000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Officer Dean Domino}
@@ -24,59 +24,59 @@ lang=engl czec pols span russ
 {2000}{}{Greeting, soldier. What is it?}
 {2010}{}{I want to repaint my combat armor.}
 {2020}{}{Nothing. I better go.}
-{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 caps for repainting a combat armor and 350 caps for repainting a combat helmet.}
+{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 @lex money@ for repainting a combat armor and 350 @lex money@ for repainting a combat helmet.}
 {3010}{}{Here is a combat armor.}
 {3020}{}{Here is a combat helmet.}
 {3030}{}{Later maybe...}
 {4000}{}{Here you go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greeting, soldier. What is it?}
 {2010}{}{I want to repaint my combat armor.}
 {2020}{}{Nothing. I better go.}
-{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 caps for repainting a combat armor and 350 caps for repainting a combat helmet.}
+{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 @lex money@ for repainting a combat armor and 350 @lex money@ for repainting a combat helmet.}
 {3010}{}{Here is a combat armor.}
 {3020}{}{Here is a combat helmet.}
 {3030}{}{Later maybe...}
 {4000}{}{Here you go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greeting, soldier. What is it?}
 {2010}{}{I want to repaint my combat armor.}
 {2020}{}{Nothing. I better go.}
-{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 caps for repainting a combat armor and 350 caps for repainting a combat helmet.}
+{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 @lex money@ for repainting a combat armor and 350 @lex money@ for repainting a combat helmet.}
 {3010}{}{Here is a combat armor.}
 {3020}{}{Here is a combat helmet.}
 {3030}{}{Later maybe...}
 {4000}{}{Here you go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greeting, soldier. What is it?}
 {2010}{}{I want to repaint my combat armor.}
 {2020}{}{Nothing. I better go.}
-{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 caps for repainting a combat armor and 350 caps for repainting a combat helmet.}
+{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 @lex money@ for repainting a combat armor and 350 @lex money@ for repainting a combat helmet.}
 {3010}{}{Here is a combat armor.}
 {3020}{}{Here is a combat helmet.}
 {3030}{}{Later maybe...}
 {4000}{}{Here you go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greeting, soldier. What is it?}
 {2010}{}{I want to repaint my combat armor.}
 {2020}{}{Nothing. I better go.}
-{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 caps for repainting a combat armor and 350 caps for repainting a combat helmet.}
+{3000}{}{You will need to bring me a combat armor or a combat helmet. It will cost you 550 @lex money@ for repainting a combat armor and 350 @lex money@ for repainting a combat helmet.}
 {3010}{}{Here is a combat armor.}
 {3020}{}{Here is a combat helmet.}
 {3030}{}{Later maybe...}

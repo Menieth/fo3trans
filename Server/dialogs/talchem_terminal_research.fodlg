@@ -6,22 +6,22 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 6 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 6 2010 @
-4 3000 None 0 #
+4 3000 main@dlg_Caps 0 #
 6 3010 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 6 4010 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 2 5010 #
 4 5020 #
 5 5030 #
 0 5040 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ We set a camp near the entrance. The surface was infested with infected, but it it wasn't much of the problem. Basing on our status reports, Hubologists managed to find a clear sample of the virus somewhere here. We will try to orginise the active outpost here. For now we connected all electronics to our hummer's battery. ]}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {5040}{}{[ Exit ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ We set a camp near the entrance. The surface was infested with infected, but it it wasn't much of the problem. Basing on our status reports, Hubologists managed to find a clear sample of the virus somewhere here. We will try to orginise the active outpost here. For now we connected all electronics to our hummer's battery. ]}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {5040}{}{[ Exit ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ We set a camp near the entrance. The surface was infested with infected, but it it wasn't much of the problem. Basing on our status reports, Hubologists managed to find a clear sample of the virus somewhere here. We will try to orginise the active outpost here. For now we connected all electronics to our hummer's battery. ]}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {5040}{}{[ Exit ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ We set a camp near the entrance. The surface was infested with infected, but it it wasn't much of the problem. Basing on our status reports, Hubologists managed to find a clear sample of the virus somewhere here. We will try to orginise the active outpost here. For now we connected all electronics to our hummer's battery. ]}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {5040}{}{[ Exit ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ We set a camp near the entrance. The surface was infested with infected, but it it wasn't much of the problem. Basing on our status reports, Hubologists managed to find a clear sample of the virus somewhere here. We will try to orginise the active outpost here. For now we connected all electronics to our hummer's battery. ]}

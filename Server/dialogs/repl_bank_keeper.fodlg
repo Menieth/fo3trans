@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Stockman}
@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}

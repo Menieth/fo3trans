@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Sheb}
@@ -33,25 +33,25 @@ lang=engl czec pols span russ
 {100000014}{}{If you can find cheaper booty anywhere…PUMP IT!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Booty, booty, boo-tay!@@Come on in, booty lovers!@@Here at the Cat's Paw we're slashing prices in half!@@Give us an offer on our prime selection of booty! It's a booty blowout!@@We got white booty, black booty, southern booty, northern booty...@@We got hot booty, cold booty, we got fresh booty, we got…::snfff::…*smelly* booty…@@We got tribal booty, we got mutant booty, radscorpion booty, robot booty.@@We even got brahmin booty, ghoul booty, deathclaw booty.@@Come on, you want booty? Come on in, booty lovers!@@If we don't got it, you don't want it! Come on in, booty lovers!@@Attention booty shoppers! Take advantage of this booty sale!@@Buy one piece of booty at the regular price, n' you'll get another piece of booty of equal or lesser value for only a chip!@@Try and beat booty for a chip!@@If you can find cheaper booty anywhere…PUMP IT!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Booty, booty, boo-tay!@@Come on in, booty lovers!@@Here at the Cat's Paw we're slashing prices in half!@@Give us an offer on our prime selection of booty! It's a booty blowout!@@We got white booty, black booty, southern booty, northern booty...@@We got hot booty, cold booty, we got fresh booty, we got…::snfff::…*smelly* booty…@@We got tribal booty, we got mutant booty, radscorpion booty, robot booty.@@We even got brahmin booty, ghoul booty, deathclaw booty.@@Come on, you want booty? Come on in, booty lovers!@@If we don't got it, you don't want it! Come on in, booty lovers!@@Attention booty shoppers! Take advantage of this booty sale!@@Buy one piece of booty at the regular price, n' you'll get another piece of booty of equal or lesser value for only a chip!@@Try and beat booty for a chip!@@If you can find cheaper booty anywhere…PUMP IT!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Booty, booty, boo-tay!@@Come on in, booty lovers!@@Here at the Cat's Paw we're slashing prices in half!@@Give us an offer on our prime selection of booty! It's a booty blowout!@@We got white booty, black booty, southern booty, northern booty...@@We got hot booty, cold booty, we got fresh booty, we got…::snfff::…*smelly* booty…@@We got tribal booty, we got mutant booty, radscorpion booty, robot booty.@@We even got brahmin booty, ghoul booty, deathclaw booty.@@Come on, you want booty? Come on in, booty lovers!@@If we don't got it, you don't want it! Come on in, booty lovers!@@Attention booty shoppers! Take advantage of this booty sale!@@Buy one piece of booty at the regular price, n' you'll get another piece of booty of equal or lesser value for only a chip!@@Try and beat booty for a chip!@@If you can find cheaper booty anywhere…PUMP IT!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Booty, booty, boo-tay!@@Come on in, booty lovers!@@Here at the Cat's Paw we're slashing prices in half!@@Give us an offer on our prime selection of booty! It's a booty blowout!@@We got white booty, black booty, southern booty, northern booty...@@We got hot booty, cold booty, we got fresh booty, we got…::snfff::…*smelly* booty…@@We got tribal booty, we got mutant booty, radscorpion booty, robot booty.@@We even got brahmin booty, ghoul booty, deathclaw booty.@@Come on, you want booty? Come on in, booty lovers!@@If we don't got it, you don't want it! Come on in, booty lovers!@@Attention booty shoppers! Take advantage of this booty sale!@@Buy one piece of booty at the regular price, n' you'll get another piece of booty of equal or lesser value for only a chip!@@Try and beat booty for a chip!@@If you can find cheaper booty anywhere…PUMP IT!}

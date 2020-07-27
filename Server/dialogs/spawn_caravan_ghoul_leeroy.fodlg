@@ -6,46 +6,46 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 22 1010 D _var p q_spawn_gecko = 5 #
 21 1020 D _var p q_spawn_gecko > 0 #
 5 1030 D _param p ST_CHARISMA < 4 #
 2 1040 D _var n name_mem_npc_player = 0 R _var n name_mem_npc_player = 1 #
 20 1050 @
-20 2000 None 0 #
+20 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-21 3000 None 0 @
-2 4000 None 0 #
+21 3000 main@dlg_Caps 0 @
+2 4000 main@dlg_Caps 0 #
 3 4010 #
 0 4020 @
-3 5000 None 0 #
+3 5000 main@dlg_Caps 0 #
 4 5010 @
-4 6000 None 0 #
+4 6000 main@dlg_Caps 0 #
 8 6010 #
 9 6020 @
-5 7000 None 0 #
+5 7000 main@dlg_Caps 0 #
 7 7010 D _param p ST_INTELLECT > 5 #
 6 7020 @
-6 8000 None 0 #
+6 8000 main@dlg_Caps 0 #
 4 8010 #
 0 8020 @
-7 9000 None 0 #
+7 9000 main@dlg_Caps 0 #
 4 9010 @
-8 10000 None 0 #
+8 10000 main@dlg_Caps 0 #
 0 10010 R _var p q_spawn_gecko = 5 #
 4 10020 @
-9 11000 None 0 #
+9 11000 main@dlg_Caps 0 #
 10 11010 @
-10 12000 None 0 #
+10 12000 main@dlg_Caps 0 #
 11 12010 R _var p q_spawn_gecko = 1 #
 0 12020 @
-11 13000 None 0 #
+11 13000 main@dlg_Caps 0 #
 0 13010 @
-22 14000 None 0 #
+22 14000 main@dlg_Caps 0 #
 23 14010 R _var p q_spawn_gecko = 0 #
 0 14020 @
-23 15000 None 0 #
+23 15000 main@dlg_Caps 0 #
 3 15010 #
 0 15020 &
 
@@ -98,7 +98,7 @@ Mention Leery to her, that's all.  She should know what to do after that.}
 {15020}{}{'kay. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{pissed off}
 {1020}{}{took the quest}
@@ -144,7 +144,7 @@ Mention Leery to her, that's all.  She should know what to do after that.}
 {15020}{}{'kay. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{pissed off}
 {1020}{}{took the quest}
@@ -190,7 +190,7 @@ Mention Leery to her, that's all.  She should know what to do after that.}
 {15020}{}{'kay. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{pissed off}
 {1020}{}{took the quest}
@@ -236,7 +236,7 @@ Mention Leery to her, that's all.  She should know what to do after that.}
 {15020}{}{'kay. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{pissed off}
 {1020}{}{took the quest}

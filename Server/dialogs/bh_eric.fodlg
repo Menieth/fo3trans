@@ -6,35 +6,35 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT < 4 #
 3 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 5 3010 #
 5 3020 #
 9 3030 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 10 5010 #
 6 5020 #
 7 5030 #
 8 5040 #
 0 5050 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 5 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 65507 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 5 8010 #
 0 8020 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 5 9010 #
 0 9020 &
 
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {9020}{}{I see. So long!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Unknown}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {9020}{}{I see. So long!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Unknown}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {9020}{}{I see. So long!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Unknown}
@@ -178,7 +178,7 @@ lang=engl czec pols span russ
 {9020}{}{I see. So long!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Unknown}

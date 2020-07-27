@@ -6,81 +6,81 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 500 1010 D _script rq_cave@d_Completed 0  #
 150 1020 D _script rq_cave@d_OnGoing 0  #
 2 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 7 2020 #
 0 2030 @
-500 3000 None 0 #
+500 3000 main@dlg_Caps 0 #
 0 3010 @
-3 4000 None 0 #
+3 4000 main@dlg_Caps 0 #
 4 4010 #
 0 4020 @
-4 5000 None 0 #
+4 5000 main@dlg_Caps 0 #
 5 5010 #
 6 5020 #
 8 5030 #
 0 5040 @
-5 6000 None 0 #
+5 6000 main@dlg_Caps 0 #
 65507 6010 #
 0 6020 @
-6 7000 None 0 @
-7 8000 None 0 #
+6 7000 main@dlg_Caps 0 @
+7 8000 main@dlg_Caps 0 #
 4 8010 #
 6 8020 @
-8 9000 None 0 #
+8 9000 main@dlg_Caps 0 #
 9 9010 #
 0 9020 @
-9 10000 None 0 #
+9 10000 main@dlg_Caps 0 #
 0 10010 #
 10 10020 @
-10 11000 None 0 #
+10 11000 main@dlg_Caps 0 #
 0 11010 #
 0 11020 #
 11 11030 #
 0 11040 #
 0 11050 @
-11 12000 None 0 #
+11 12000 main@dlg_Caps 0 #
 12 12010 #
 0 12020 @
-12 13000 None 0 #
+12 13000 main@dlg_Caps 0 #
 100 13010 R _script rq_cave@r_GenerateQuest 0  #
 0 13020 @
-13 14000 None 0 #
+13 14000 main@dlg_Caps 0 #
 14 14010 #
 14 14020 #
 0 14030 #
 0 14040 @
-14 15000 None 0 #
+14 15000 main@dlg_Caps 0 #
 0 15010 #
 0 15020 #
 0 15030 @
-100 16000 None 0 #
+100 16000 main@dlg_Caps 0 #
 101 16010 #
 0 16020 @
-101 17000 None 0 #
+101 17000 main@dlg_Caps 0 #
 0 17010 R _script rq_cave@r_AcceptQuest 0  #
 0 17020 @
-200 18000 None 0 #
+200 18000 main@dlg_Caps 0 #
 101 18010 #
 0 18020 @
-300 19000 None 0 #
+300 19000 main@dlg_Caps 0 #
 101 19010 #
 0 19020 @
-400 20000 None 0 #
+400 20000 main@dlg_Caps 0 #
 101 20010 #
 0 20020 @
-150 21000 None 0 #
+150 21000 main@dlg_Caps 0 #
 151 21010 D _script rq_cave@d_HasStuff 0  R _script rq_cave@r_CompleteQuest 0  #
 0 21020 @
-151 22000 None 0 #
+151 22000 main@dlg_Caps 0 #
 152 22010 R _script rq_cave@r_ReceiveReward 0  #
 152 22020 R _script rq_cave@r_ReceiveReward 0  #
 0 22030 @
-152 23000 None 0 #
+152 23000 main@dlg_Caps 0 #
 0 23010 &
 
 [engl]
@@ -165,7 +165,7 @@ lang=engl czec pols span russ
 {23010}{}{Whoa, why not? Thanks, and have a nice day, old man.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{completed}
 {1020}{}{ongoing}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {23010}{}{Whoa, why not? Thanks, and have a nice day, old man.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{completed}
 {1020}{}{ongoing}
@@ -323,7 +323,7 @@ lang=engl czec pols span russ
 {23010}{}{Whoa, why not? Thanks, and have a nice day, old man.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{completed}
 {1020}{}{ongoing}
@@ -402,7 +402,7 @@ lang=engl czec pols span russ
 {23010}{}{Whoa, why not? Thanks, and have a nice day, old man.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{completed}
 {1020}{}{ongoing}

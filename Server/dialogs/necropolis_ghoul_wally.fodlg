@@ -6,26 +6,26 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 4 1010 D _var n name_mem_npc_player = 0 D _var p q_bunker_base > 4 D _var p q_bunker_base < 20 #
 3 1020 D _script dialog@d_CheckNight 0  #
 2 1030 @
-2 2000 None 0 @
-3 3000 None 0 @
-4 4000 None 0 #
+2 2000 main@dlg_Caps 0 @
+3 3000 main@dlg_Caps 0 @
+4 4000 main@dlg_Caps 0 #
 5 4010 D _var p q_bunker_base < 15 R _var p q_bunker_base + 1 R _var n name_mem_npc_player + 1 #
 7 4020 D _var p q_bunker_base = 15 R _var p q_bunker_base + 1 R _var n name_mem_npc_player + 1 #
 6 4030 D _var p q_bunker_base > 15 D _var p q_bunker_base < 18 R _var p q_bunker_base + 1 R _var n name_mem_npc_player + 1 #
 9 4040 D _var p q_bunker_base = 18 R _var p q_bunker_base + 3 R _var n name_mem_npc_player + 1 #
 0 4050 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 8 6010 @
-6 7000 None 0 #
+6 7000 main@dlg_Caps 0 #
 0 7010 @
-8 8000 None 0 @
-9 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 8 9010 &
 
 [engl]
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}

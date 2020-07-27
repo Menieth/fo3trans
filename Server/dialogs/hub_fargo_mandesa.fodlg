@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 20 1010 @
-20 2000 None 0 &
+20 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mandesa}
@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{I am too busy to have a chat.@@Get out of my office.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{I am too busy to have a chat.@@Get out of my office.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{I am too busy to have a chat.@@Get out of my office.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{I am too busy to have a chat.@@Get out of my office.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{I am too busy to have a chat.@@Get out of my office.}

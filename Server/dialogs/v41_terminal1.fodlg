@@ -6,19 +6,19 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p wow_howard = 1 R _script dialog@r_OpenDoor 2 55 1200 R _var p wow_howard = 0 #
 4 2020 D _var p wow_howard = 0 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 0 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 0 4010 &
 
 [engl]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -47,7 +47,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -76,7 +76,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -105,7 +105,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -134,7 +134,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...

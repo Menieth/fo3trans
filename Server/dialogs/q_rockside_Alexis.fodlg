@@ -6,40 +6,40 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 11 2030 D _var p q_v99_vangraff = 2 R _var p q_v99_vangraff = 3 R _param p ST_EXPERIENCE + 450 R _item p PID_BOTTLE_CAPS + 200 R _item p PID_NUKA_COLA_QUEST + 1 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 2 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 D _var p q_v99_vangraff = 0 #
 2 4020 #
 0 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 6 5020 #
 6 5030 #
 6 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 #
 9 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 0 9020 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 0 10010 R _var p q_v99_vangraff = 1 #
 0 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 0 11010 #
 0 11020 #
 0 11030 &
@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}

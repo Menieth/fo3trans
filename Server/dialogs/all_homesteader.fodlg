@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 0 2020 &
 
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2020}{}{I'm just passing through. I'll be on my way.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I think you just might be one of them. What do you want?}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {2020}{}{I'm just passing through. I'll be on my way.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I think you just might be one of them. What do you want?}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {2020}{}{I'm just passing through. I'll be on my way.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I think you just might be one of them. What do you want?}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {2020}{}{I'm just passing through. I'll be on my way.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You just keep your hands where I can see them. We've been plagued by bandits lately, and I think you just might be one of them. What do you want?}

@@ -6,39 +6,39 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 51 1010 D _var p q_nr_corsican_execution = 2 #
 2 1020 @
-2 2000 None 0 @
+2 2000 main@dlg_Caps 0 @
 10 3000 Attack 0 @
-50 4000 None 0 @
-51 5000 None 0 #
+50 4000 main@dlg_Caps 0 @
+51 5000 main@dlg_Caps 0 #
 52 5010 R _script dialog@r_StatRoll 2 Charisma 54 #
 52 5020 #
 10 5030 R _var p q_nr_corsican_execution = 8 #
 0 5040 @
-52 6000 None 0 #
+52 6000 main@dlg_Caps 0 #
 10 6010 R _var p q_nr_corsican_execution = 8 #
 53 6020 R _var p q_nr_corsican_execution = 4 #
 0 6030 R _var p q_nr_corsican_execution = 3 R _script quest_corsican_brothers@r_FollowMcGee 0  @
-53 7000 None 0 #
+53 7000 main@dlg_Caps 0 #
 10 7010 R _var p q_nr_corsican_execution = 8 #
 0 7020 R _var p q_nr_corsican_execution = 5 R _script quest_corsican_brothers@r_FollowMcGee 0  #
 0 7030 R _script quest_corsican_brothers@r_FollowMcGee 0  @
-54 8000 None 0 #
+54 8000 main@dlg_Caps 0 #
 55 8010 #
 0 8020 @
-55 9000 None 0 #
+55 9000 main@dlg_Caps 0 #
 56 9010 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 58 9020 D _item p PID_BOTTLE_CAPS < 20 R _var p q_nr_corsican_execution = 4 #
 58 9030 R _script quest_corsican_brothers@r_FollowMcGee 0  R _var p q_nr_corsican_execution = 4 @
-56 10000 None 0 #
+56 10000 main@dlg_Caps 0 #
 57 10010 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 58 10020 D _item p PID_BOTTLE_CAPS < 20 R _var p q_nr_corsican_execution = 5 #
 58 10030 R _script quest_corsican_brothers@r_FollowMcGee 0  R _var p q_nr_corsican_execution = 5 @
-57 11000 None 0 #
+57 11000 main@dlg_Caps 0 #
 0 11010 R _script quest_corsican_brothers@r_FollowMcGee 0  @
-58 12000 None 0 &
+58 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Gambler}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {12000}{}{Kindred spirit my ass. You're a loser, you know? Get the fuck outta here!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{normal}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {12000}{}{Kindred spirit my ass. You're a loser, you know? Get the fuck outta here!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{normal}
@@ -156,7 +156,7 @@ lang=engl czec pols span russ
 {12000}{}{Kindred spirit my ass. You're a loser, you know? Get the fuck outta here!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{normal}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {12000}{}{Kindred spirit my ass. You're a loser, you know? Get the fuck outta here!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Corsican Brothers Quest #3}
 {1020}{}{normal}

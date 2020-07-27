@@ -6,30 +6,30 @@ lang=engl
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var n name_mem_npc_player = 0 #
 7 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 8 2020 D _var p q_jt_power_house > 0 D _var p q_jt_power_house < 5 D _var p q_jt_power_house_mp = 0 R _item p PID_TANKER_PUMPPART + 1 R _var p q_jt_power_house_mp = 1 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 R _var n name_mem_npc_player = 1 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 0 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 500 6010 #
 80 6020 D _param p PE_PROFESSION_GUNSMITH_S < 2 #
 85 6030 D _param p PE_PROFESSION_BARMAN < 2 #
 90 6040 D _param p PE_PROFESSION_IRONMASTER < 2 #
 95 6050 D _param p PE_PROFESSION_IRONWORKER < 2 #
 0 6060 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 500 7010 #
 80 7020 D _param p PE_PROFESSION_GUNSMITH_S < 2 #
 85 7030 D _param p PE_PROFESSION_BARMAN < 2 #
@@ -37,64 +37,64 @@ lang=engl
 95 7050 D _param p PE_PROFESSION_IRONWORKER < 2 #
 8 7060 D _var p q_jt_power_house > 0 D _var p q_jt_power_house < 5 D _var p q_jt_power_house_mp = 0 R _var p q_jt_power_house_mp = 1 R _item p PID_TANKER_PUMPPART + 1 #
 0 7070 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 0 8020 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 0 9010 @
-80 10000 None 0 #
+80 10000 main@dlg_Caps 0 #
 81 10010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckGunsmithS0 1 0 #
 82 10020 D _script dialog@d_CheckGunsmithS1 1 0 #
 0 10030 @
-81 11000 None 0 #
+81 11000 main@dlg_Caps 0 #
 83 11010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_GUNSMITH_S = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 11020 @
-82 12000 None 0 #
+82 12000 main@dlg_Caps 0 #
 83 12010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_GUNSMITH_S = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 12020 @
-83 13000 None 0 #
+83 13000 main@dlg_Caps 0 #
 0 13010 @
-85 16000 None 0 #
+85 16000 main@dlg_Caps 0 #
 86 16010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckBarman0 1 0 #
 87 16020 D _script dialog@d_CheckBarman1 1 0 #
 0 16030 @
-86 17000 None 0 #
+86 17000 main@dlg_Caps 0 #
 88 17010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_BARMAN = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 17020 @
-87 18000 None 0 #
+87 18000 main@dlg_Caps 0 #
 88 18010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_BARMAN = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 18020 @
-88 19000 None 0 #
+88 19000 main@dlg_Caps 0 #
 0 19010 @
-90 20000 None 0 #
+90 20000 main@dlg_Caps 0 #
 91 20010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckIronmaster0 1 0 #
 92 20020 D _script dialog@d_CheckIronmaster1 1 0 #
 0 20030 @
-91 21000 None 0 #
+91 21000 main@dlg_Caps 0 #
 93 21010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_IRONMASTER = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 21020 @
-92 22000 None 0 #
+92 22000 main@dlg_Caps 0 #
 93 22010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_IRONMASTER = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 22020 @
-93 23000 None 0 #
+93 23000 main@dlg_Caps 0 #
 0 23010 @
-95 24000 None 0 #
+95 24000 main@dlg_Caps 0 #
 96 24010 D _script dialog@d_CheckProfession 1 0 D _script dialog@d_CheckIronworker0 1 0 #
 97 24020 D _script dialog@d_CheckIronworker1 1 0 #
 0 24030 @
-96 25000 None 0 #
+96 25000 main@dlg_Caps 0 #
 98 25010 D _script dialog@d_havepropermoney 1 1499 R _item p PID_GUNS_AND_BULLETS + 1 R _param p PE_PROFESSION_IRONWORKER = 1 R _script dialog@r_RemoveMoney 1 1500 #
 0 25020 @
-97 26000 None 0 #
+97 26000 main@dlg_Caps 0 #
 98 26010 D _script dialog@d_havepropermoney 1 2999 R _param p PE_PROFESSION_IRONWORKER = 2 R _script dialog@r_RemoveMoney 1 3000 #
 0 26020 @
-98 27000 None 0 #
+98 27000 main@dlg_Caps 0 #
 0 27010 @
-500 14000 None 0 #
+500 14000 main@dlg_Caps 0 #
 501 14010 D _script perks@d_PerkCheck 1 455 D _param p ST_STRENGTH > 11 R _param p PE_BEST_OF_A_BAD_LOT = 1 #
 501 14020 D _script perks@d_PerkCheck 1 456 R _param p PE_DISMANTLER = 1 #
 0 14030 @
-501 15000 None 0 #
+501 15000 main@dlg_Caps 0 #
 7 15010 #
 0 15020 &
 
@@ -118,7 +118,7 @@ lang=engl
 {5000}{}{That sounds like a question already. Well, I used to repair and sell cars before, but in the meantime everything useful that could be found around here is already scavenged and turned into cars. I can't sell anything more, except junk. Not that I really care, as long as I've gotta costumer, hehe.}
 {5010}{}{So, you still repair things?}
 {5020}{}{I see. Gotta go now, bye!}
-{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of caps, and there's always enough guns to repair, with all these thugs running through the town...}
+{6000}{}{Yeah, right to the point. I can fix almost anything, but lately I've been doing only firearms. Brings a lot of @lex money@, and there's always enough guns to repair, with all these thugs running through the town...}
 {6010}{}{Hey, then you probably *are* the best person to talk about repairing antique stuff and salvaging all kind of junk.}
 {6020}{}{That's exactly what I wanted to hear, because I had some questions about firearms...}
 {6030}{}{Nie pierdol glupot, tylko ucz pedzic bimbra!}
@@ -145,7 +145,7 @@ lang=engl
 {11000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {11010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {11020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{12000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {12010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {12020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {13000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -164,7 +164,7 @@ lang=engl
 {17000}{}{chcesz sie najebac tanim kosztem, co? patrz jak bedze cole.}
 {17010}{}{shut up and take my money kurwa [You give him $1500]}
 {17020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{18000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{18000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {18010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {18020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {19000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -176,7 +176,7 @@ lang=engl
 {21000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {21010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {21020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{22000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{22000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {22010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {22020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {23000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}
@@ -188,7 +188,7 @@ lang=engl
 {25000}{}{Wanna blow off your fingers, huh? Okay, just don't say later I didn't warn you... I guess I can teach you something useful, but it has its price. Let's say $1500. For that price I can give you this magazine as well, Guns & Bullets. Might come in handy once in a while.}
 {25010}{}{To hell with the money, I wanna learn it! [You give him $1500]}
 {25020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
-{26000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 caps. Whaddya say?}
+{26000}{}{Well, ain'tcha the next wasteland's top gunsmith! I guess I could show you some more for a mere sum of 3000 @lex money@. Whaddya say?}
 {26010}{}{If the preaching justifies the price, then let's start with it, ol' man! [Give him $3000]}
 {26020}{}{Damn, it's too much for me right now. But I'll be back later, be sure about it.}
 {27000}{}{Now, now... Let's see what can be done with you. [Boyce takes to to the workbench and starts explaining]}

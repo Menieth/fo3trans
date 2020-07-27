@@ -6,7 +6,7 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _script follower@d_IsOwner 1 1 D _param n ST_NPC_ROLE ! 211 R _script follower@r_SetFaction 0  #
 10 1020 D _param n ST_NPC_ROLE ! 211 #
 225 1030 D _script follower@d_IsOwner 1 1 D _param n ST_NPC_ROLE = 211 R _script follower@r_SetFaction 0  #
@@ -30,11 +30,11 @@ lang=engl czec pols span russ
 0 2160 R _script follower@r_PickUpUnder 0  R _script companion@to_faction 0  R _param n MODE_NO_AIM = 1 #
 0 2170 R _script companion@to_faction 0  R _param n MODE_NO_AIM = 1 #
 0 2180 R _script companion@to_shopkeeper 0  R _script companion@to_faction 0  R _param n MODE_NO_AIM = 1 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 R _script follower@r_Distance 1 0 #
 2 3020 R _script follower@r_Distance 1 1 #
 2 3030 R _script follower@r_Distance 1 2 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 R _script follower@r_AttackPolicy 1 0 #
 2 4020 R _script follower@r_AttackPolicy 1 7 #
 2 4030 R _script follower@r_AttackPolicy 1 6 #
@@ -42,30 +42,30 @@ lang=engl czec pols span russ
 2 4050 D _param p ST_STRENGTH > 99 R _script follower@r_AttackPolicy 1 3 #
 2 4060 D _param p ST_STRENGTH > 99 R _script follower@r_AttackPolicy 1 4 #
 2 4070 D _param p ST_STRENGTH > 99 R _script follower@r_AttackPolicy 1 5 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 @
-10 8000 None 0 @
-11 9000 None 0 #
+7 7000 main@dlg_Caps 0 @
+10 8000 main@dlg_Caps 0 @
+11 9000 main@dlg_Caps 0 #
 2 9010 @
-12 10000 None 0 #
+12 10000 main@dlg_Caps 0 #
 2 10010 @
-13 11000 None 0 #
+13 11000 main@dlg_Caps 0 #
 2 11010 @
-14 12000 None 0 #
+14 12000 main@dlg_Caps 0 #
 2 12010 @
-15 13000 None 0 #
+15 13000 main@dlg_Caps 0 #
 2 13010 @
-16 14000 None 0 #
+16 14000 main@dlg_Caps 0 #
 2 14010 @
-17 15000 None 0 #
+17 15000 main@dlg_Caps 0 #
 2 15010 D _script follower@d_IsSpawnPlaceAvailable 1 1 R _script follower@r_SetSpawnPlace 1 1 #
 2 15020 D _script follower@d_IsSpawnPlaceAvailable 1 2 R _script follower@r_SetSpawnPlace 1 2 #
 19 15030 D _script follower@d_IsSpawnPlaceAvailable 1 3 R _script follower@r_SetSpawnPlace 1 3 #
 2 15040 @
-18 16000 None 0 #
+18 16000 main@dlg_Caps 0 #
 22 16010 #
 2 16020 D _item n PID_PURPLE_ROBE > 0 R _script follower@r_SetArmor 1 113 #
 2 16030 D _item n PID_SAND_ROBE > 0 R _script follower@r_SetArmor 1 750 #
@@ -87,16 +87,16 @@ lang=engl czec pols span russ
 2 16190 @
 19 17000 follower@dlg_ChooseBase 0 #
 2 17010 @
-20 18000 None 0 #
+20 18000 main@dlg_Caps 0 #
 21 18010 D _item p PID_NUKA_COLA > 0 R _script follower@r_IncreaseLoyality 2 1 2 R _item p PID_NUKA_COLA - 1 #
 21 18020 D _item p PID_BEER > 0 R _script follower@r_IncreaseLoyality 2 1 2 R _item p PID_BEER - 1 #
 21 18030 D _item p PID_COOKIE > 0 R _script follower@r_IncreaseLoyality 2 1 2 R _item p PID_COOKIE - 1 #
 21 18040 D _item p PID_IGUANA_ON_A_STICK > 0 R _script follower@r_IncreaseLoyality 2 1 2 R _item p PID_IGUANA_ON_A_STICK - 1 #
 21 18050 D _item p PID_BOOZE > 0 R _script follower@r_IncreaseLoyality 2 1 2 R _item p PID_BOOZE - 1 @
-21 19000 None 0 #
+21 19000 main@dlg_Caps 0 #
 20 19010 #
 2 19020 @
-22 20000 None 0 #
+22 20000 main@dlg_Caps 0 #
 18 20010 #
 2 20020 D _item n PID_LEATHER_JACKET_HELMET > 0 R _script follower@r_SetHelmet 1 728 #
 2 20030 D _item n PID_COMBAT_LEATHER_JACKET_HELMET > 0 R _script follower@r_SetHelmet 1 729 #
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 2 20160 @
 23 21000 follower@dlg_GiveFollower 0 #
 0 21010 @
-100 22000 None 0 @
+100 22000 main@dlg_Caps 0 @
 110 23000 follower@dlg_ShowStats 0 #
 2 23010 #
 111 23020 D _param n ST_LEVEL } 3 D _param n ST_LEVEL { 5 D _param n ST_FOLLOW_PERK = 0 #
@@ -126,13 +126,13 @@ lang=engl czec pols span russ
 111 23070 D _param n ST_LEVEL { 20 D _param n ST_LEVEL } 18 D _param n ST_FOLLOW_PERK = 5 #
 111 23080 D _param n ST_LEVEL { 23 D _param n ST_LEVEL } 21 D _param n ST_FOLLOW_PERK = 6 #
 111 23090 D _param n ST_LEVEL } 24 D _param n ST_FOLLOW_PERK = 7 @
-111 24000 None 0 #
+111 24000 main@dlg_Caps 0 #
 113 24010 #
 114 24020 #
 112 24030 #
 117 24040 #
 116 24050 @
-112 25000 None 0 #
+112 25000 main@dlg_Caps 0 #
 110 25010 R _param n PE_GAIN_STRENGTH + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 25020 R _param n PE_GAIN_PERCEPTION + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 25030 R _param n PE_GAIN_ENDURANCE + 1 R _param n ST_FOLLOW_PERK + 1 #
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 110 25050 R _param n PE_GAIN_INTELLIGENCE + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 25060 R _param n PE_GAIN_AGILITY + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 25070 R _param n PE_GAIN_LUCK + 1 R _param n ST_FOLLOW_PERK + 1 @
-113 26000 None 0 #
+113 26000 main@dlg_Caps 0 #
 110 26010 D _param n PE_DODGER = 0 R _param n PE_DODGER + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 26020 D _param n PE_ADRENALINE_RUSH = 0 R _param n ST_FOLLOW_PERK + 1 R _param n PE_ADRENALINE_RUSH + 1 #
 110 26030 D _param n PE_IRON_GRIP = 0 R _param n PE_IRON_GRIP + 1 R _param n ST_FOLLOW_PERK + 1 #
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 110 26080 D _param n ST_FOLLOW_PERK } 2 D _param n PE_TOUGHNESS { 1 R _param n PE_TOUGHNESS + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 26090 D _param n PE_TREE_TRUNK_THIGHS = 0 R _param n PE_TREE_TRUNK_THIGHS + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 26100 D _param n ST_FOLLOW_PERK } 2 D _param n PE_DODGER } 1 D _param n PE_DODGER_II = 0 R _param n PE_DODGER_II + 1 R _param n ST_FOLLOW_PERK + 1 @
-116 27000 None 0 #
+116 27000 main@dlg_Caps 0 #
 110 27010 D _param n PE_BONUS_MOVE = 0 R _param n PE_BONUS_MOVE + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 27020 D _param n PE_EARLIER_SEQUENCE = 0 R _param n PE_EARLIER_SEQUENCE + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 27030 D _param n PE_QUICK_POCKETS = 0 R _param n PE_QUICK_POCKETS + 1 R _param n ST_FOLLOW_PERK + 1 #
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 110 27070 D _param n PE_HEALER_II = 0 R _param n PE_HEALER + 1 R _param n PE_HEALER_II + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 27080 D _param n PE_LIVING_ANATOMY = 0 D _param n ST_FOLLOW_PERK } 3 R _param n PE_LIVING_ANATOMY + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 27090 D _param n ST_FOLLOW_PERK } 4 D _param n PE_MEDIC = 0 R _param n PE_MEDIC + 1 R _param n ST_FOLLOW_PERK + 1 @
-114 28000 None 0 #
+114 28000 main@dlg_Caps 0 #
 110 28010 D _param n PE_BETTER_CRITICALS = 0 D _param n ST_FOLLOW_PERK } 3 R _param n PE_BETTER_CRITICALS + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 28020 D _param n PE_BONUS_RANGED_DAMAGE { 1 D _param n ST_FOLLOW_PERK } 1 R _param n PE_BONUS_RANGED_DAMAGE + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 28030 D _param n PE_BONUS_RATE_OF_FIRE = 0 D _param n ST_FOLLOW_PERK } 4 R _param n PE_BONUS_RATE_OF_FIRE + 1 R _param n ST_FOLLOW_PERK + 1 #
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 110 28060 D _param n PE_MORE_RANGED_DAMAGE = 0 D _param n ST_FOLLOW_PERK } 5 R _param n PE_MORE_RANGED_DAMAGE + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 28070 D _param n PE_RIGHT_BETWEEN_THE_EYES = 0 D _param n ST_FOLLOW_PERK } 5 R _param n PE_RIGHT_BETWEEN_THE_EYES + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 28080 D _param n PE_SPRAY_AND_PREY = 0 D _param n ST_FOLLOW_PERK } 1 R _param n PE_SPRAY_AND_PREY + 1 R _param n ST_FOLLOW_PERK + 1 @
-117 29000 None 0 #
+117 29000 main@dlg_Caps 0 #
 110 29010 D _param n ST_FOLLOW_PERK } 4 D _param n PE_BONUS_HTH_ATTACKS = 0 R _param n PE_BONUS_HTH_ATTACKS + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 29020 D _param n PE_BONUS_HTH_DAMAGE = 0 R _param n PE_BONUS_HTH_DAMAGE + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 29030 D _param n ST_FOLLOW_PERK } 1 D _param n PE_HTH_CRITICALS = 0 R _param n PE_HTH_CRITICALS + 1 R _param n ST_FOLLOW_PERK + 1 #
@@ -179,12 +179,12 @@ lang=engl czec pols span russ
 110 29060 D _param n ST_FOLLOW_PERK } 4 D _param n PE_HTH_CRITICALS = 0 R _param n PE_HTH_CRITICALS + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 29070 D _param n ST_FOLLOW_PERK } 1 D _param n PE_HTH_EVADE_II = 0 R _param n PE_HTH_EVADE + 1 R _param n PE_HTH_EVADE_II + 1 R _param n ST_FOLLOW_PERK + 1 #
 110 29080 D _param n ST_FOLLOW_PERK } 2 D _param n PE_IN_YOUR_FACE = 0 R _param n PE_IN_YOUR_FACE + 1 R _param n ST_FOLLOW_PERK + 1 @
-225 30000 None 0 #
+225 30000 main@dlg_Caps 0 #
 65506 30010 #
 0 30020 R _script companion@setprice 0  #
 0 30030 R _script follower@r_FollowMode 1 0 #
 0 30040 @
-226 31000 None 0 #
+226 31000 main@dlg_Caps 0 #
 65506 31010 #
 0 31020 &
 
@@ -282,8 +282,8 @@ lang=engl czec pols span russ
 @lex bases@}
 {17010}{}{Alright.}
 {18000}{}{Sure, what do you have?}
-{18010}{}{Here, take this bottle of Nuka.}
-{18020}{}{Hey, I've got a bottle of fresh beer.}
+{18010}{}{Here, take this @lex prefix@ of Nuka.}
+{18020}{}{Hey, I've got a @lex prefix@ of fresh beer.}
 {18030}{}{Looks like I've got a cookie leftover.}
 {18040}{}{Have this Iguana-on-a-stick, it's delicious!}
 {18050}{}{Here's some hard booze, hope you like it.}
@@ -387,7 +387,7 @@ lang=engl czec pols span russ
 {100000001}{}{Time to kick some asses . . .@@Is it time again?@@It's time again!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -474,8 +474,8 @@ lang=engl czec pols span russ
 @lex bases@}
 {17010}{}{Alright.}
 {18000}{}{Sure, what do you have?}
-{18010}{}{Here, take this bottle of Nuka.}
-{18020}{}{Hey, I've got a bottle of fresh beer.}
+{18010}{}{Here, take this @lex prefix@ of Nuka.}
+{18020}{}{Hey, I've got a @lex prefix@ of fresh beer.}
 {18030}{}{Looks like I've got a cookie leftover.}
 {18040}{}{Have this Iguana-on-a-stick, it's delicious!}
 {18050}{}{Here's some hard booze, hope you like it.}
@@ -576,7 +576,7 @@ lang=engl czec pols span russ
 {31020}{}{Nothing}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -663,8 +663,8 @@ lang=engl czec pols span russ
 @lex bases@}
 {17010}{}{Alright.}
 {18000}{}{Sure, what do you have?}
-{18010}{}{Here, take this bottle of Nuka.}
-{18020}{}{Hey, I've got a bottle of fresh beer.}
+{18010}{}{Here, take this @lex prefix@ of Nuka.}
+{18020}{}{Hey, I've got a @lex prefix@ of fresh beer.}
 {18030}{}{Looks like I've got a cookie leftover.}
 {18040}{}{Have this Iguana-on-a-stick, it's delicious!}
 {18050}{}{Here's some hard booze, hope you like it.}
@@ -765,7 +765,7 @@ lang=engl czec pols span russ
 {31020}{}{Nothing}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -852,8 +852,8 @@ lang=engl czec pols span russ
 @lex bases@}
 {17010}{}{Alright.}
 {18000}{}{Sure, what do you have?}
-{18010}{}{Here, take this bottle of Nuka.}
-{18020}{}{Hey, I've got a bottle of fresh beer.}
+{18010}{}{Here, take this @lex prefix@ of Nuka.}
+{18020}{}{Hey, I've got a @lex prefix@ of fresh beer.}
 {18030}{}{Looks like I've got a cookie leftover.}
 {18040}{}{Have this Iguana-on-a-stick, it's delicious!}
 {18050}{}{Here's some hard booze, hope you like it.}
@@ -954,7 +954,7 @@ lang=engl czec pols span russ
 {31020}{}{Nothing}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -1041,8 +1041,8 @@ lang=engl czec pols span russ
 @lex bases@}
 {17010}{}{Alright.}
 {18000}{}{Sure, what do you have?}
-{18010}{}{Here, take this bottle of Nuka.}
-{18020}{}{Hey, I've got a bottle of fresh beer.}
+{18010}{}{Here, take this @lex prefix@ of Nuka.}
+{18020}{}{Hey, I've got a @lex prefix@ of fresh beer.}
 {18030}{}{Looks like I've got a cookie leftover.}
 {18040}{}{Have this Iguana-on-a-stick, it's delicious!}
 {18050}{}{Here's some hard booze, hope you like it.}

@@ -6,12 +6,12 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 9 1010 D _param p ST_CHARISMA > 99 #
 10 1020 D _var n name_mem_npc_player = 0 D _param p SK_SMALL_GUNS { 91 D _param p SK_BIG_GUNS { 91 D _param p SK_ENERGY_WEAPONS { 91 D _param p SK_THROWING { 91 D _param p SK_UNARMED { 91 #
 6 1030 D _param p SK_SMALL_GUNS < 50 D _param p SK_BIG_GUNS < 50 D _param p SK_ENERGY_WEAPONS < 50 D _param p SK_UNARMED < 50 #
 2 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 D _param p ST_INTELLECT > 999 #
 13 2020 D _param p ST_INTELLECT > 10 #
 5 2030 #
@@ -24,156 +24,156 @@ lang=engl czec pols span russ
 51 2100 D _param p REPUTATION_GUNRUNNERS < 900 D _var p q_la_gunrunners_facility_access = 0 #
 100 2110 #
 0 2120 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 2 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 60 5010 D _param p REPUTATION_GUNRUNNERS { -100 D _var p q_la_gunr_courier = 0 #
 61 5020 D _param p REPUTATION_GUNRUNNERS < 0 D _param p REPUTATION_GUNRUNNERS > -100 D _var p q_la_gunr_courier = 0 #
 62 5030 D _param p ST_LEVEL < 5 D _param p REPUTATION_GUNRUNNERS } 0 D _var p q_la_gunr_courier = 0 #
 63 5040 D _param p ST_LEVEL } 5 D _param p REPUTATION_GUNRUNNERS } 0 D _var p q_la_gunr_courier = 0 #
 2 5050 @
-6 6000 None 0 @
-9 7000 None 0 @
-10 8000 None 0 #
+6 6000 main@dlg_Caps 0 @
+9 7000 main@dlg_Caps 0 @
+10 8000 main@dlg_Caps 0 #
 11 8010 @
-11 9000 None 0 #
+11 9000 main@dlg_Caps 0 #
 12 9010 R _var n name_mem_npc_player = 1 R _param p SK_SMALL_GUNS + 10 #
 12 9020 R _var n name_mem_npc_player = 1 R _param p SK_BIG_GUNS + 10 #
 12 9030 R _var n name_mem_npc_player = 1 R _param p SK_ENERGY_WEAPONS + 10 #
 12 9040 R _var n name_mem_npc_player = 1 R _param p SK_UNARMED + 10 #
 12 9050 R _var n name_mem_npc_player = 1 R _param p SK_THROWING + 10 @
-12 10000 None 0 @
-13 11000 None 0 @
-14 12000 None 0 #
+12 10000 main@dlg_Caps 0 @
+13 11000 main@dlg_Caps 0 @
+14 12000 main@dlg_Caps 0 #
 2 12010 @
-15 13000 None 0 #
+15 13000 main@dlg_Caps 0 #
 16 13010 @
-16 14000 None 0 #
+16 14000 main@dlg_Caps 0 #
 17 14010 #
 0 14020 @
-17 15000 None 0 #
+17 15000 main@dlg_Caps 0 #
 18 15010 @
-18 16000 None 0 #
+18 16000 main@dlg_Caps 0 #
 19 16010 #
 0 16020 R _var p q_la_gunrunners_caravan = 1 #
 20 16030 @
-19 17000 None 0 #
+19 17000 main@dlg_Caps 0 #
 0 17010 R _var p q_la_gunrunners_caravan = 1 #
 20 17020 @
-20 18000 None 0 #
+20 18000 main@dlg_Caps 0 #
 21 18010 #
 22 18020 @
-21 19000 None 0 #
+21 19000 main@dlg_Caps 0 #
 22 19010 @
-22 20000 None 0 #
+22 20000 main@dlg_Caps 0 #
 0 20010 R _var p q_la_gunrunners_caravan = 2 R _script quest_la_gunr_caravan@r_SpawnLocation 0  @
-23 21000 None 0 #
+23 21000 main@dlg_Caps 0 #
 20 21010 D _var p q_la_gunrunners_caravan = 1 #
 26 21020 D _item p PID_Q_GUNRUNNER_BOX > 0 R _item p PID_Q_GUNRUNNER_BOX - 1 R _var p q_la_gunrunners_box = 1 R _var p q_la_gunrunners_caravan = 3 R _param p ST_EXPERIENCE + 4000 R _script quest_la_gunr_caravan@r_DeleteLocation 0  R _script dialog@r_AddReputation 2 500 1000 #
 24 21030 D _var p q_la_gunrunners_caravan > 1 D _var p q_la_gunrunners_caravan ! 8 D _var p q_la_gunrunners_box = 0 #
 0 21040 @
-24 22000 None 0 #
+24 22000 main@dlg_Caps 0 #
 26 22010 D _item p PID_Q_GUNRUNNER_BOX > 0 R _item p PID_Q_GUNRUNNER_BOX - 1 R _var p q_la_gunrunners_box = 1 R _var p q_la_gunrunners_caravan = 3 R _script quest_la_gunr_caravan@r_DeleteLocation 0  R _script quest_la_gunr_caravan@r_QuestCD 0  R _script dialog@r_AddReputation 2 250 1000 #
 25 22020 D _var p q_la_gunrunners_caravan ! 3 D or D _var p q_la_gunrunners_caravan ! 4 D or D _var p q_la_gunrunners_caravan ! 5 D or D _var p q_la_gunrunners_caravan ! 8 R _var p q_la_gunrunners_caravan = 7 R _param p REPUTATION_GUNRUNNERS - 250 R _script quest_la_gunr_caravan@r_DeleteLocation 0  R _script quest_la_gunr_caravan@r_QuestCD 0  #
 25 22030 D _var p q_la_gunrunners_caravan = 4 D or D _var p q_la_gunrunners_caravan = 5 D or D _var p q_la_gunrunners_caravan ! 8 R _var p q_la_gunrunners_box = 1 R _param p REPUTATION_GUNRUNNERS - 250 R _script quest_la_gunr_caravan@r_DeleteLocation 0  R _script quest_la_gunr_caravan@r_QuestCD 0  @
-25 23000 None 0 @
-26 24000 None 0 #
+25 23000 main@dlg_Caps 0 @
+26 24000 main@dlg_Caps 0 #
 0 24010 @
-30 25000 None 1 #
+30 25000 main@dlg_Caps 1 #
 31 25010 D _var p q_hub_gunrunner_supplies = 1 #
 35 25020 D _var p q_hub_gunrunner_supplies = 3 R _var p q_hub_gunrunner_supplies_parts = 0 #
 40 25030 D _var p q_hub_gunrunner_supplies_parts = 1 D _var p q_hub_gunrunner_supplies = 3 #
 0 25040 @
-31 26000 None 1 #
+31 26000 main@dlg_Caps 1 #
 32 26010 R _script dialog@r_SkillRoll 3 Barter -90 33 #
 0 26020 R _var p q_hub_gunrunner_supplies = 2 @
-32 27000 None 1 #
+32 27000 main@dlg_Caps 1 #
 0 27010 R _var p q_hub_gunrunner_supplies = 2 @
-33 28000 None 1 #
+33 28000 main@dlg_Caps 1 #
 0 28010 R _var p q_hub_gunrunner_supplies = 2 #
 34 28020 @
-34 29000 None 1 #
+34 29000 main@dlg_Caps 1 #
 0 29010 R _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies_deal = 4 R _param p REPUTATION_GUNRUNNERS + 5 @
-35 30000 None 1 #
+35 30000 main@dlg_Caps 1 #
 36 30010 @
-36 31000 None 1 #
+36 31000 main@dlg_Caps 1 #
 38 31010 D _param p SK_BIG_GUNS = 666 R _script dialog@r_SkillRoll 3 Science -60 37 #
 41 31020 R _script dialog@r_SkillRoll 3 Barter -5 40 #
 0 31030 R _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies_deal = 2 @
-37 32000 None 1 #
+37 32000 main@dlg_Caps 1 #
 39 32010 R _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies_deal = 3 R _param p REPUTATION_GUNRUNNERS + 30 @
-38 33000 None 1 #
+38 33000 main@dlg_Caps 1 #
 0 33010 R _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies_deal = 2 @
-39 34000 None 1 #
+39 34000 main@dlg_Caps 1 #
 0 34010 @
-40 35000 None 1 #
+40 35000 main@dlg_Caps 1 #
 0 35010 R _var p q_hub_gunrunner_supplies_parts = 1 #
 39 35020 R _var p q_hub_gunrunner_supplies = 5 R _param p REPUTATION_GUNRUNNERS + 15 R _var p q_hub_gunrunner_supplies_deal = 2 #
 42 35030 D _var p q_hub_gunrunner_supplies = 1 D _item p PID_METAL_PARTS } 10 D _item p PID_GUNPOWDER } 12 R _var p q_hub_gunrunner_supplies_parts = 2 R _item p PID_METAL_PARTS - 10 R _item p PID_GUNPOWDER - 12 R _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies_deal = 3 R _param p REPUTATION_GUNRUNNERS + 25 @
-41 36000 None 1 #
+41 36000 main@dlg_Caps 1 #
 0 36010 R _var p q_hub_gunrunner_supplies = 5 R _var p q_hub_gunrunner_supplies_deal = 2 @
-42 37000 None 1 #
+42 37000 main@dlg_Caps 1 #
 0 37010 @
-50 38000 None 0 #
+50 38000 main@dlg_Caps 0 #
 0 38010 @
-51 39000 None 0 #
+51 39000 main@dlg_Caps 0 #
 0 39010 @
-60 40000 None 0 #
+60 40000 main@dlg_Caps 0 #
 2 40010 #
 0 40020 @
-61 41000 None 0 #
+61 41000 main@dlg_Caps 0 #
 2 41010 #
 0 41020 @
-62 42000 None 0 #
+62 42000 main@dlg_Caps 0 #
 2 42010 #
 0 42020 @
-63 43000 None 0 #
+63 43000 main@dlg_Caps 0 #
 64 43010 @
-64 44000 None 0 #
+64 44000 main@dlg_Caps 0 #
 66 44010 #
 65 44020 @
-65 45000 None 0 #
+65 45000 main@dlg_Caps 0 #
 2 45010 #
 0 45020 @
-66 46000 None 0 #
+66 46000 main@dlg_Caps 0 #
 67 46010 #
 68 46020 #
 69 46030 #
 70 46040 #
 71 46050 #
 72 46060 @
-67 47000 None 0 #
+67 47000 main@dlg_Caps 0 #
 73 47010 R _var p q_la_gunr_courier = 1 R _var p q_la_gunr_courier_reward = 1 R _script quest_courier_boxes@r_GiveGunRunnerCourierBox 0  R _script dialog@r_ShowLocation 1 26 #
 66 47020 #
 65 47030 @
-68 48000 None 0 #
+68 48000 main@dlg_Caps 0 #
 73 48010 R _var p q_la_gunr_courier = 2 R _var p q_la_gunr_courier_reward = 2 R _script quest_courier_boxes@r_GiveGunRunnerCourierBox 0  R _script dialog@r_ShowLocation 1 25 #
 66 48020 #
 65 48030 @
-69 49000 None 0 #
+69 49000 main@dlg_Caps 0 #
 73 49010 R _var p q_la_gunr_courier = 3 R _var p q_la_gunr_courier_reward = 3 R _script quest_courier_boxes@r_GiveGunRunnerCourierBox 0  R _script dialog@r_ShowLocation 1 14 #
 66 49020 #
 65 49030 @
-70 50000 None 0 #
+70 50000 main@dlg_Caps 0 #
 73 50010 R _var p q_la_gunr_courier = 4 R _var p q_la_gunr_courier_reward = 4 R _script quest_courier_boxes@r_GiveGunRunnerCourierBox 0  R _script dialog@r_ShowLocation 1 7 #
 66 50020 #
 65 50030 @
-71 51000 None 0 #
+71 51000 main@dlg_Caps 0 #
 73 51010 R _var p q_la_gunr_courier = 5 R _var p q_la_gunr_courier_reward = 5 R _script quest_courier_boxes@r_GiveGunRunnerCourierBox 0  R _script dialog@r_ShowLocation 1 10 #
 66 51020 #
 65 51030 @
-72 52000 None 0 #
+72 52000 main@dlg_Caps 0 #
 73 52010 R _var p q_la_gunr_courier = 6 R _var p q_la_gunr_courier_reward = 6 R _script dialog@r_ShowLocation 1 17 R _script quest_courier_boxes@r_GiveGunRunnerCourierBox 0  #
 66 52020 #
 65 52030 @
-73 53000 None 0 #
+73 53000 main@dlg_Caps 0 #
 74 53010 #
 0 53020 @
-74 54000 None 0 #
+74 54000 main@dlg_Caps 0 #
 0 54010 @
-75 55000 None 0 #
+75 55000 main@dlg_Caps 0 #
 76 55010 D _var p q_la_gunr_courier = 7 D _var p q_la_gunr_courier_reward = 1 R _var p q_la_gunr_courier = 8 R _script dialog@r_QuestTimeout 1 20 R _script dialog@r_AddReputation 2 50 1000 R _script dialog@r_AddMoney 1 50 #
 76 55020 D _var p q_la_gunr_courier = 7 D _var p q_la_gunr_courier_reward = 2 R _var p q_la_gunr_courier = 8 R _script dialog@r_QuestTimeout 1 20 R _script dialog@r_AddReputation 2 75 1000 R _script dialog@r_AddMoney 1 75 #
 76 55030 D _var p q_la_gunr_courier = 7 D _var p q_la_gunr_courier_reward = 3 R _var p q_la_gunr_courier = 8 R _script dialog@r_QuestTimeout 1 20 R _script dialog@r_AddReputation 2 150 1000 R _script dialog@r_AddMoney 1 250 #
@@ -186,23 +186,23 @@ lang=engl czec pols span russ
 79 55100 D _script dialog@d_QuestTimeoutReady 0  D _param p REPUTATION_GUNRUNNERS } 0 D _var p q_la_gunr_courier = 9 #
 61 55110 D _param p REPUTATION_GUNRUNNERS < 0 D _var p q_la_gunr_courier = 8 D or D _param p REPUTATION_GUNRUNNERS < 0 D _var p q_la_gunr_courier = 9 #
 0 55120 @
-76 56000 None 0 #
+76 56000 main@dlg_Caps 0 #
 77 56010 #
 0 56020 @
-77 57000 None 0 #
+77 57000 main@dlg_Caps 0 #
 2 57010 #
 0 57020 @
-78 58000 None 0 #
+78 58000 main@dlg_Caps 0 #
 0 58010 @
-79 59000 None 0 #
+79 59000 main@dlg_Caps 0 #
 80 59010 #
 0 59020 @
-80 60000 None 0 #
+80 60000 main@dlg_Caps 0 #
 66 60010 @
-100 61000 None 0 #
+100 61000 main@dlg_Caps 0 #
 101 61010 #
 102 61020 @
-101 62000 None 0 #
+101 62000 main@dlg_Caps 0 #
 2 62010 R _script item_level@r_perk_armor 1 19 #
 2 62020 R _script item_level@r_perk_armor 1 20 #
 2 62030 R _script item_level@r_perk_armor 1 21 #
@@ -226,7 +226,7 @@ lang=engl czec pols span russ
 2 62210 R _script item_level@r_perk_armor 1 39 #
 2 62220 R _script item_level@r_perk_armor 1 40 #
 2 62230 R _script item_level@r_perk_armor 1 45 @
-102 63000 None 0 #
+102 63000 main@dlg_Caps 0 #
 2 63010 R _script item_level@r_perk_weapon 1 1 #
 2 63020 R _script item_level@r_perk_weapon 1 2 #
 2 63030 R _script item_level@r_perk_weapon 1 3 #
@@ -425,7 +425,7 @@ lang=engl czec pols span russ
 {55100}{}{Do you have any new package to deliver?}
 {55110}{}{Do you have any new package to deliver?}
 {55120}{}{Goodbye.}
-{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of bottle caps.]}
+{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of @lex prefix@ @lex money@.]}
 {56010}{}{When do you need a courier the next time?}
 {56020}{}{Goodbye.}
 {57000}{}{Not right now. Shouldn't take too long, come back to me in a few days.}
@@ -481,7 +481,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -662,7 +662,7 @@ lang=engl czec pols span russ
 {55100}{}{Do you have any new package to deliver?}
 {55110}{}{Do you have any new package to deliver?}
 {55120}{}{Goodbye.}
-{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of bottle caps.]}
+{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of @lex prefix@ @lex money@.]}
 {56010}{}{When do you need a courier the next time?}
 {56020}{}{Goodbye.}
 {57000}{}{Not right now. Shouldn't take too long, come back to me in a few days.}
@@ -718,7 +718,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -899,7 +899,7 @@ lang=engl czec pols span russ
 {55100}{}{Do you have any new package to deliver?}
 {55110}{}{Do you have any new package to deliver?}
 {55120}{}{Goodbye.}
-{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of bottle caps.]}
+{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of @lex prefix@ @lex money@.]}
 {56010}{}{When do you need a courier the next time?}
 {56020}{}{Goodbye.}
 {57000}{}{Not right now. Shouldn't take too long, come back to me in a few days.}
@@ -955,7 +955,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -1136,7 +1136,7 @@ lang=engl czec pols span russ
 {55100}{}{Do you have any new package to deliver?}
 {55110}{}{Do you have any new package to deliver?}
 {55120}{}{Goodbye.}
-{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of bottle caps.]}
+{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of @lex prefix@ @lex money@.]}
 {56010}{}{When do you need a courier the next time?}
 {56020}{}{Goodbye.}
 {57000}{}{Not right now. Shouldn't take too long, come back to me in a few days.}
@@ -1192,7 +1192,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -1373,7 +1373,7 @@ lang=engl czec pols span russ
 {55100}{}{Do you have any new package to deliver?}
 {55110}{}{Do you have any new package to deliver?}
 {55120}{}{Goodbye.}
-{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of bottle caps.]}
+{56000}{}{Good. Here is your reward for the tour. [Marshal hands you over a small bag of @lex prefix@ @lex money@.]}
 {56010}{}{When do you need a courier the next time?}
 {56020}{}{Goodbye.}
 {57000}{}{Not right now. Shouldn't take too long, come back to me in a few days.}

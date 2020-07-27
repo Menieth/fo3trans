@@ -6,51 +6,51 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _param p ST_INTELLECT > 3 #
 3 1020 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 8 2010 #
 13 2020 #
 13 2030 #
 10 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 9 3010 #
 14 3020 #
 14 3030 #
 10 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 8 4010 #
 13 4020 #
 10 4030 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 9 5010 #
 14 5020 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 8 6010 #
 13 6020 #
 10 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 9 7010 #
 5 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 11 8010 D _script dialog@d_havepropermoney 1 99 R _item p PID_TICKET + 1 R _script dialog@r_RemoveMoney 1 100 #
 12 8020 D _item p PID_BOTTLE_CAPS < 100 #
 10 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 11 9010 D _script dialog@d_havepropermoney 1 149 R _item p PID_TICKET + 1 R _script dialog@r_RemoveMoney 1 150 #
 12 9020 D _item p PID_BOTTLE_CAPS < 150 #
 10 9030 @
-10 10000 None 0 @
-11 11000 None 0 @
-12 12000 None 0 #
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 @
+12 12000 main@dlg_Caps 0 #
 10 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 10 13010 #
 8 13020 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 0 14010 #
 9 14020 &
 
@@ -87,11 +87,11 @@ lang=engl czec pols span russ
 {7010}{}{Alright, I want to buy a ticket.}
 {7020}{}{When next shoo-shoo?}
 {7030}{}{Ok, me going now. }
-{8000}{}{Very well. A ticket costs 100 caps.}
+{8000}{}{Very well. A ticket costs 100 @lex money@.}
 {8010}{}{Alright. [Buy a ticket]}
 {8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
 {8030}{}{Guess I changed my mind. Bye.}
-{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9000}{}{Very well. A ticket costs you 150 @lex money@, because you are such a nice person, you don't need to pay the 200 @lex money@.}
 {9010}{}{Okay. [Buy a ticket]}
 {9020}{}{Me not enough money.@@Not enough money me have.}
 {9030}{}{Me not want. Me going.}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {14020}{}{Me want ticked.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -137,11 +137,11 @@ lang=engl czec pols span russ
 {7010}{}{Alright, I want to buy a ticket.}
 {7020}{}{When next shoo-shoo?}
 {7030}{}{Ok, me going now. }
-{8000}{}{Very well. A ticket costs 100 caps.}
+{8000}{}{Very well. A ticket costs 100 @lex money@.}
 {8010}{}{Alright. [Buy a ticket]}
 {8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
 {8030}{}{Guess I changed my mind. Bye.}
-{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9000}{}{Very well. A ticket costs you 150 @lex money@, because you are such a nice person, you don't need to pay the 200 @lex money@.}
 {9010}{}{Okay. [Buy a ticket]}
 {9020}{}{Me not enough money.@@Not enough money me have.}
 {9030}{}{Me not want. Me going.}
@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {14020}{}{Me want ticked.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -187,11 +187,11 @@ lang=engl czec pols span russ
 {7010}{}{Alright, I want to buy a ticket.}
 {7020}{}{When next shoo-shoo?}
 {7030}{}{Ok, me going now. }
-{8000}{}{Very well. A ticket costs 100 caps.}
+{8000}{}{Very well. A ticket costs 100 @lex money@.}
 {8010}{}{Alright. [Buy a ticket]}
 {8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
 {8030}{}{Guess I changed my mind. Bye.}
-{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9000}{}{Very well. A ticket costs you 150 @lex money@, because you are such a nice person, you don't need to pay the 200 @lex money@.}
 {9010}{}{Okay. [Buy a ticket]}
 {9020}{}{Me not enough money.@@Not enough money me have.}
 {9030}{}{Me not want. Me going.}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {14020}{}{Me want ticked.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -237,11 +237,11 @@ lang=engl czec pols span russ
 {7010}{}{Alright, I want to buy a ticket.}
 {7020}{}{When next shoo-shoo?}
 {7030}{}{Ok, me going now. }
-{8000}{}{Very well. A ticket costs 100 caps.}
+{8000}{}{Very well. A ticket costs 100 @lex money@.}
 {8010}{}{Alright. [Buy a ticket]}
 {8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
 {8030}{}{Guess I changed my mind. Bye.}
-{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9000}{}{Very well. A ticket costs you 150 @lex money@, because you are such a nice person, you don't need to pay the 200 @lex money@.}
 {9010}{}{Okay. [Buy a ticket]}
 {9020}{}{Me not enough money.@@Not enough money me have.}
 {9030}{}{Me not want. Me going.}
@@ -257,7 +257,7 @@ lang=engl czec pols span russ
 {14020}{}{Me want ticked.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -287,11 +287,11 @@ lang=engl czec pols span russ
 {7010}{}{Alright, I want to buy a ticket.}
 {7020}{}{When next shoo-shoo?}
 {7030}{}{Ok, me going now. }
-{8000}{}{Very well. A ticket costs 100 caps.}
+{8000}{}{Very well. A ticket costs 100 @lex money@.}
 {8010}{}{Alright. [Buy a ticket]}
 {8020}{}{I think I don't have enough money.@@I think I don't have enough money.}
 {8030}{}{Guess I changed my mind. Bye.}
-{9000}{}{Very well. A ticket costs you 150 caps, because you are such a nice person, you don't need to pay the 200 caps.}
+{9000}{}{Very well. A ticket costs you 150 @lex money@, because you are such a nice person, you don't need to pay the 200 @lex money@.}
 {9010}{}{Okay. [Buy a ticket]}
 {9020}{}{Me not enough money.@@Not enough money me have.}
 {9030}{}{Me not want. Me going.}

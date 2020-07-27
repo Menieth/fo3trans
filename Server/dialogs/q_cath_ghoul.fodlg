@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 5 2020 #
 2 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 #
 3 3030 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65507 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _param p SK_STEAL } 50 D or D _param p SK_TRAPS } 50 #
 7 5020 D _param p SK_STEAL < 50 D or D _param p SK_TRAPS < 50 #
 0 5030 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 R _param p ST_EXPERIENCE + 200 R _script dialog@r_NinjaKillNpc 1 0 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 65507 7010 &
 
 [engl]
@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {100000001}{}{You will not do anything to my plants!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {7010}{}{[Continue]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {7010}{}{[Continue]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {7010}{}{[Continue]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}

@@ -6,38 +6,38 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Nuca Cola Worker}
-{200}{}{You see a worker of Nuca Cola Bottle Plant.}
+{200}{}{You see a worker of Nuca Cola @lex prefix@ Plant.}
 {210}{}{This is just another ordinary laborer in the factory.}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm busy, talk to you after work}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm busy, talk to you after work}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm busy, talk to you after work}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm busy, talk to you after work}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm busy, talk to you after work}

@@ -6,42 +6,42 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _item p PID_V15_KEYCARD < 1 #
 9 1020 D _item p PID_V15_KEYCARD } 1 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 4 2020 #
 0 2030 #
 65507 2040 #
 8 2050 #
 12 2060 D _item p PID_NUKA_COLA_QUEST } 40 R _item p PID_NUKA_COLA_QUEST - 40 R _item p PID_BLACK_COC_BADGE + 1 R _param p ST_EXPERIENCE + 200 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 7 5020 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 2 7010 #
 0 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 0 8010 #
 0 8020 #
 65507 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 #
 11 9020 R _script dialog@r_OpenDoor 2 45 20 #
 0 9030 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 9 10010 @
-11 11000 None 0 @
-12 12000 None 0 &
+11 11000 main@dlg_Caps 0 @
+12 12000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Adam Green}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {2010}{}{Who are you?}
 {2020}{}{What is this place?}
 {2030}{}{No, I am just passing by.}
-{2040}{}{Get your caps here, fucker!}
+{2040}{}{Get your @lex money@ here, fucker!}
 {2050}{}{Do you have a job for me?}
 {2060}{}{Here are your Nukas.}
 {3000}{}{My name is Adam Green. I am here to answer all your questions about the Vault.}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {7000}{}{Nothing much I can tell you about this town.The road there is long and dangerous and the city itself is ruined to ashes. We keep our Massacre traditions since 2079, when, after the death of the First Overseer, a group of our brave men fought each other in Sacramento.}
 {7010}{}{I see. One more thing...}
 {7020}{}{That's all I needed to know.}
-{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola bottles.}
+{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola @lex prefix@s.}
 {8010}{}{Fine, I will keep it noted.}
 {8020}{}{Pff, no way, you idiot.}
 {8030}{}{Oh you better give em all to me now!}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {2010}{}{Who are you?}
 {2020}{}{What is this place?}
 {2030}{}{No, I am just passing by.}
-{2040}{}{Get your caps here, fucker!}
+{2040}{}{Get your @lex money@ here, fucker!}
 {2050}{}{Do you have a job for me?}
 {2060}{}{Here are your Nukas.}
 {3000}{}{My name is Adam Green. I am here to answer all your questions about the Vault.}
@@ -108,7 +108,7 @@ lang=engl czec pols span russ
 {7000}{}{Nothing much I can tell you about this town.The road there is long and dangerous and the city itself is ruined to ashes. We keep our Massacre traditions since 2079, when, after the death of the First Overseer, a group of our brave men fought each other in Sacramento.}
 {7010}{}{I see. One more thing...}
 {7020}{}{That's all I needed to know.}
-{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola bottles.}
+{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola @lex prefix@s.}
 {8010}{}{Fine, I will keep it noted.}
 {8020}{}{Pff, no way, you idiot.}
 {8030}{}{Oh you better give em all to me now!}
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {2010}{}{Who are you?}
 {2020}{}{What is this place?}
 {2030}{}{No, I am just passing by.}
-{2040}{}{Get your caps here, fucker!}
+{2040}{}{Get your @lex money@ here, fucker!}
 {2050}{}{Do you have a job for me?}
 {2060}{}{Here are your Nukas.}
 {3000}{}{My name is Adam Green. I am here to answer all your questions about the Vault.}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {7000}{}{Nothing much I can tell you about this town.The road there is long and dangerous and the city itself is ruined to ashes. We keep our Massacre traditions since 2079, when, after the death of the First Overseer, a group of our brave men fought each other in Sacramento.}
 {7010}{}{I see. One more thing...}
 {7020}{}{That's all I needed to know.}
-{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola bottles.}
+{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola @lex prefix@s.}
 {8010}{}{Fine, I will keep it noted.}
 {8020}{}{Pff, no way, you idiot.}
 {8030}{}{Oh you better give em all to me now!}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -169,7 +169,7 @@ lang=engl czec pols span russ
 {2010}{}{Who are you?}
 {2020}{}{What is this place?}
 {2030}{}{No, I am just passing by.}
-{2040}{}{Get your caps here, fucker!}
+{2040}{}{Get your @lex money@ here, fucker!}
 {2050}{}{Do you have a job for me?}
 {2060}{}{Here are your Nukas.}
 {3000}{}{My name is Adam Green. I am here to answer all your questions about the Vault.}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {7000}{}{Nothing much I can tell you about this town.The road there is long and dangerous and the city itself is ruined to ashes. We keep our Massacre traditions since 2079, when, after the death of the First Overseer, a group of our brave men fought each other in Sacramento.}
 {7010}{}{I see. One more thing...}
 {7020}{}{That's all I needed to know.}
-{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola bottles.}
+{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola @lex prefix@s.}
 {8010}{}{Fine, I will keep it noted.}
 {8020}{}{Pff, no way, you idiot.}
 {8030}{}{Oh you better give em all to me now!}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -208,7 +208,7 @@ lang=engl czec pols span russ
 {2010}{}{Who are you?}
 {2020}{}{What is this place?}
 {2030}{}{No, I am just passing by.}
-{2040}{}{Get your caps here, fucker!}
+{2040}{}{Get your @lex money@ here, fucker!}
 {2050}{}{Do you have a job for me?}
 {2060}{}{Here are your Nukas.}
 {3000}{}{My name is Adam Green. I am here to answer all your questions about the Vault.}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {7000}{}{Nothing much I can tell you about this town.The road there is long and dangerous and the city itself is ruined to ashes. We keep our Massacre traditions since 2079, when, after the death of the First Overseer, a group of our brave men fought each other in Sacramento.}
 {7010}{}{I see. One more thing...}
 {7020}{}{That's all I needed to know.}
-{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola bottles.}
+{8000}{}{Hmh, look... It is pretty hot out here. If you bring me some Special Edition Nuka Cola, I would be very pleased. [ He points at sack near him ] I have some COC badges here. Heard they are needed for something. Can gladly give you 1 for every 40 Cola @lex prefix@s.}
 {8010}{}{Fine, I will keep it noted.}
 {8020}{}{Pff, no way, you idiot.}
 {8030}{}{Oh you better give em all to me now!}

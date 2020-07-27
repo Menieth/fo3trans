@@ -2,43 +2,125 @@
 
 
 [data]
-lang=engl
+lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
-2 1010 D _item p PID_DOLLAR } 1 #
-4 1020 D _item p PID_DOLLAR = 0 @
-2 2000 None 0 #
-5 2010 D _item p PID_DOLLAR } 20 R _item p PID_DOLLAR - 20 R _item p PID_ARM_CERAMIC + 1 #
-5 2020 D _item p PID_DOLLAR } 20 R _item p PID_DOLLAR - 20 R _item p PID_ARM_CARBON + 1 #
-5 2030 D _item p PID_DOLLAR } 20 R _item p PID_DOLLAR - 20 R _item p PID_ARM_LEATHER_HIDE + 1 #
-5 2040 D _item p PID_DOLLAR } 20 R _item p PID_DOLLAR - 20 R _item p PID_ARM_POLYMER + 1 #
-5 2050 D _item p PID_DOLLAR } 20 R _item p PID_DOLLAR - 20 R _item p PID_ARM_STEEL + 1 #
-0 2060 #
-6 2070 @
-4 3000 None 0 @
-5 4000 None 0 @
-6 5000 None 0 #
+1 1000 main@dlg_Caps 1 #
+2 1010 D _item p PID_DOLLAR } 1 D _var p citizenship = 1 #
+4 1020 D _item p PID_DOLLAR = 0 #
+7 1030 D _var p citizenship = 0 D _item p PID_DOLLAR } 1 @
+2 2000 main@dlg_Caps 0 #
+5 2010 D _item p PID_DOLLAR } 50 R _item p PID_ARM_CERAMIC + 1 R _item p PID_DOLLAR - 50 #
+5 2020 D _item p PID_DOLLAR } 50 R _item p PID_ARM_CARBON + 1 R _item p PID_DOLLAR - 50 #
+5 2030 D _item p PID_DOLLAR } 50 R _item p PID_ARM_LEATHER_HIDE + 1 R _item p PID_DOLLAR - 50 #
+5 2040 D _item p PID_DOLLAR } 50 R _item p PID_ARM_POLYMER + 1 R _item p PID_DOLLAR - 50 #
+0 2050 #
+6 2060 @
+4 3000 main@dlg_Caps 0 @
+5 4000 main@dlg_Caps 0 @
+6 5000 main@dlg_Caps 0 #
 2 5010 #
-0 5020 &
+0 5020 @
+7 6000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Liza}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
-{2000}{}{Cheers, stranger. Looking forward to buy some exclusive materials? Check my stock. I sell all exclusive materials for only 20 dollars for each one.}
+{1030}{}{Answer text}
+{2000}{}{Cheers, stranger. Looking forward to buy some exclusive materials? Check my stock. I sell all exclusive materials for only 50 dollars for each one.}
 {2010}{}{[ Buy a Ceramic Plate ]}
 {2020}{}{[Buy a piece of Carbon Polymer ]}
 {2030}{}{[Buy a piece of Leather Hide ]}
 {2040}{}{[Buy Polymers ]}
-{2050}{}{[Buy a Steel Plate ]}
-{2060}{}{Maybe later.}
-{2070}{}{From where did you get all these materials?}
+{2050}{}{Maybe later.}
+{2060}{}{From where did you get all these materials?}
 {3000}{}{I trade only for dollars... City's order.}
 {4000}{}{A fine purchase.}
 {5000}{}{I have my own connections. And I have no desire to tell every stranger about them.}
 {5010}{}{Right, lets switch the topic.}
 {5020}{}{An I have no desire to buy your shit!}
+{6000}{}{Sorry, buddy. I am ordered to trade only with citizens of Vegas.}
+
+[czec]
+{100}{}{main@dlg_Caps}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{1030}{}{Answer text}
+{2000}{}{Cheers, stranger. Looking forward to buy some exclusive materials? Check my stock. I sell all exclusive materials for only 50 dollars for each one.}
+{2010}{}{[ Buy a Ceramic Plate ]}
+{2020}{}{[Buy a piece of Carbon Polymer ]}
+{2030}{}{[Buy a piece of Leather Hide ]}
+{2040}{}{[Buy Polymers ]}
+{2050}{}{Maybe later.}
+{2060}{}{From where did you get all these materials?}
+{3000}{}{I trade only for dollars... City's order.}
+{4000}{}{A fine purchase.}
+{5000}{}{I have my own connections. And I have no desire to tell every stranger about them.}
+{5010}{}{Right, lets switch the topic.}
+{5020}{}{An I have no desire to buy your shit!}
+{6000}{}{Sorry, buddy. I am ordered to trade only with citizens of Vegas.}
+
+[pols]
+{100}{}{main@dlg_Caps}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{1030}{}{Answer text}
+{2000}{}{Cheers, stranger. Looking forward to buy some exclusive materials? Check my stock. I sell all exclusive materials for only 50 dollars for each one.}
+{2010}{}{[ Buy a Ceramic Plate ]}
+{2020}{}{[Buy a piece of Carbon Polymer ]}
+{2030}{}{[Buy a piece of Leather Hide ]}
+{2040}{}{[Buy Polymers ]}
+{2050}{}{Maybe later.}
+{2060}{}{From where did you get all these materials?}
+{3000}{}{I trade only for dollars... City's order.}
+{4000}{}{A fine purchase.}
+{5000}{}{I have my own connections. And I have no desire to tell every stranger about them.}
+{5010}{}{Right, lets switch the topic.}
+{5020}{}{An I have no desire to buy your shit!}
+{6000}{}{Sorry, buddy. I am ordered to trade only with citizens of Vegas.}
+
+[span]
+{100}{}{main@dlg_Caps}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{1030}{}{Answer text}
+{2000}{}{Cheers, stranger. Looking forward to buy some exclusive materials? Check my stock. I sell all exclusive materials for only 50 dollars for each one.}
+{2010}{}{[ Buy a Ceramic Plate ]}
+{2020}{}{[Buy a piece of Carbon Polymer ]}
+{2030}{}{[Buy a piece of Leather Hide ]}
+{2040}{}{[Buy Polymers ]}
+{2050}{}{Maybe later.}
+{2060}{}{From where did you get all these materials?}
+{3000}{}{I trade only for dollars... City's order.}
+{4000}{}{A fine purchase.}
+{5000}{}{I have my own connections. And I have no desire to tell every stranger about them.}
+{5010}{}{Right, lets switch the topic.}
+{5020}{}{An I have no desire to buy your shit!}
+{6000}{}{Sorry, buddy. I am ordered to trade only with citizens of Vegas.}
+
+[russ]
+{100}{}{main@dlg_Caps}
+{1000}{}{Predialogue installations}
+{1010}{}{Answer text}
+{1020}{}{Answer text}
+{1030}{}{Answer text}
+{2000}{}{Cheers, stranger. Looking forward to buy some exclusive materials? Check my stock. I sell all exclusive materials for only 50 dollars for each one.}
+{2010}{}{[ Buy a Ceramic Plate ]}
+{2020}{}{[Buy a piece of Carbon Polymer ]}
+{2030}{}{[Buy a piece of Leather Hide ]}
+{2040}{}{[Buy Polymers ]}
+{2050}{}{Maybe later.}
+{2060}{}{From where did you get all these materials?}
+{3000}{}{I trade only for dollars... City's order.}
+{4000}{}{A fine purchase.}
+{5000}{}{I have my own connections. And I have no desire to tell every stranger about them.}
+{5010}{}{Right, lets switch the topic.}
+{5020}{}{An I have no desire to buy your shit!}
+{6000}{}{Sorry, buddy. I am ordered to trade only with citizens of Vegas.}
 

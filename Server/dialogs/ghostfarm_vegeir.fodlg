@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 100 1010 D _var p q_bos_initiatequest_start = 16 D _var p q_vegeir_bos = 0 #
 2 1020 D _var n name_mem_player_npc = 0 R _var n name_mem_player_npc = 1 #
 3 1030 D _var n name_mem_player_npc = 1 D _param p REPUTATION_SLAGS > 1499 #
 5 1040 D _var n name_mem_player_npc = 1 D _param p REPUTATION_SLAGS < 1500 D _param p REPUTATION_SLAGS > -500 #
 6 1050 D _var n name_mem_player_npc = 1 D _param p REPUTATION_SLAGS < -499 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 7 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 7 3010 #
 0 3020 @
-5 4000 None 0 #
+5 4000 main@dlg_Caps 0 #
 7 4010 #
 0 4020 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 7 5010 #
 0 5020 @
-7 6000 None 0 #
+7 6000 main@dlg_Caps 0 #
 8 6010 #
 9 6020 #
 19 6030 #
@@ -32,94 +32,94 @@ lang=engl czec pols span russ
 23 6050 #
 27 6060 #
 0 6070 @
-8 7000 None 0 #
+8 7000 main@dlg_Caps 0 #
 31 7010 #
 7 7020 #
 0 7030 @
-9 8000 None 0 #
+9 8000 main@dlg_Caps 0 #
 10 8010 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 11 9010 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 12 10010 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 13 11010 @
-13 12000 None 0 #
+13 12000 main@dlg_Caps 0 #
 7 12010 #
 0 12020 #
 14 12030 #
 32 12040 @
-14 13000 None 0 #
+14 13000 main@dlg_Caps 0 #
 15 13010 #
 33 13020 @
-15 14000 None 0 #
+15 14000 main@dlg_Caps 0 #
 16 14010 @
-16 15000 None 0 #
+16 15000 main@dlg_Caps 0 #
 17 15010 @
-17 16000 None 0 #
+17 16000 main@dlg_Caps 0 #
 7 16010 #
 0 16020 #
 18 16030 @
-18 17000 None 0 #
+18 17000 main@dlg_Caps 0 #
 7 17010 #
 0 17020 @
-19 18000 None 0 #
+19 18000 main@dlg_Caps 0 #
 7 18010 #
 0 18020 #
 20 18030 @
-20 19000 None 0 #
+20 19000 main@dlg_Caps 0 #
 21 19010 @
-21 20000 None 0 #
+21 20000 main@dlg_Caps 0 #
 7 20010 #
 0 20020 @
-22 21000 None 0 #
+22 21000 main@dlg_Caps 0 #
 7 21010 #
 0 21020 @
-23 22000 None 0 #
+23 22000 main@dlg_Caps 0 #
 24 22010 @
-24 23000 None 0 #
+24 23000 main@dlg_Caps 0 #
 7 23010 #
 0 23020 #
 26 23030 D _param p SK_OUTDOORSMAN > 100 D _param p SK_SCIENCE < 100 #
 25 23040 D _param p SK_SCIENCE > 100 @
-25 24000 None 0 #
+25 24000 main@dlg_Caps 0 #
 7 24010 #
 0 24020 @
-26 25000 None 0 #
+26 25000 main@dlg_Caps 0 #
 7 25010 #
 0 25020 @
-27 26000 None 0 #
+27 26000 main@dlg_Caps 0 #
 7 26010 #
 0 26020 #
 28 26030 @
-28 27000 None 0 #
+28 27000 main@dlg_Caps 0 #
 7 27010 #
 0 27020 #
 29 27030 @
-29 28000 None 0 #
+29 28000 main@dlg_Caps 0 #
 7 28010 #
 0 28020 #
 30 28030 @
-30 29000 None 0 #
+30 29000 main@dlg_Caps 0 #
 7 29010 #
 0 29020 @
-31 30000 None 0 #
+31 30000 main@dlg_Caps 0 #
 7 30010 #
 0 30020 @
-32 31000 None 0 #
+32 31000 main@dlg_Caps 0 #
 7 31010 #
 0 31020 #
 15 31030 @
-33 32000 None 0 #
+33 32000 main@dlg_Caps 0 #
 7 32010 #
 0 32020 @
-100 33000 None 0 #
+100 33000 main@dlg_Caps 0 #
 101 33010 @
-101 34000 None 0 #
+101 34000 main@dlg_Caps 0 #
 7 34010 R _param p REPUTATION_SLAGS + 500 R _var p q_vegeir_bos = 1 #
 7 34020 R _var p q_bos_initiatequest_start = 17 R _param p REPUTATION_SLAGS - 500 R _var p q_vegeir_bos = 1 #
 102 34030 @
-102 35000 None 0 #
+102 35000 main@dlg_Caps 0 #
 0 35010 R _param p REPUTATION_SLAGS + 400 R _var p q_vegeir_bos = 1 &
 
 [engl]
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {35010}{}{I will.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS quest}
 {1020}{}{New.}
@@ -362,7 +362,7 @@ lang=engl czec pols span russ
 {35010}{}{I will.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS quest}
 {1020}{}{New.}
@@ -480,7 +480,7 @@ lang=engl czec pols span russ
 {35010}{}{I will.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS quest}
 {1020}{}{New.}
@@ -598,7 +598,7 @@ lang=engl czec pols span russ
 {35010}{}{I will.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS quest}
 {1020}{}{New.}

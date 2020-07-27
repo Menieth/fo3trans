@@ -6,18 +6,18 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 0 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 0 3020 @
-4 4000 None 0 #
-5 4010 D _item p PID_BOTTLE_CAPS } 500 R _script dialog@r_RemoveMoney 1 500 R _script dialog@r_FlushScreen 0  R _script dialog@r_DocHeal 0  #
+4 4000 main@dlg_Caps 0 #
+5 4010 D _script dialog@d_havepropermoney 1 500 R _script dialog@r_RemoveMoney 1 500 R _script dialog@r_FlushScreen 0  R _script dialog@r_DocHeal 0  #
 0 4020 @
-5 5000 None 0 &
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Paramedic}
@@ -29,13 +29,13 @@ lang=engl czec pols span russ
 {3000}{}{I am a Rangers' Paramedic. I can heal you, but it won't be cheap.}
 {3010}{}{How many?}
 {3020}{}{Not interested. Bye.}
-{4000}{}{500 caps.}
+{4000}{}{500 @lex money@.}
 {4010}{}{Here is the cash. Now heal me.}
 {4020}{}{Later maybe.}
 {5000}{}{Here you go.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello?}
@@ -44,13 +44,13 @@ lang=engl czec pols span russ
 {3000}{}{I am a Rangers' Paramedic. I can heal you, but it won't be cheap.}
 {3010}{}{How many?}
 {3020}{}{Not interested. Bye.}
-{4000}{}{500 caps.}
+{4000}{}{500 @lex money@.}
 {4010}{}{Here is the cash. Now heal me.}
 {4020}{}{Later maybe.}
 {5000}{}{Here you go.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello?}
@@ -59,13 +59,13 @@ lang=engl czec pols span russ
 {3000}{}{I am a Rangers' Paramedic. I can heal you, but it won't be cheap.}
 {3010}{}{How many?}
 {3020}{}{Not interested. Bye.}
-{4000}{}{500 caps.}
+{4000}{}{500 @lex money@.}
 {4010}{}{Here is the cash. Now heal me.}
 {4020}{}{Later maybe.}
 {5000}{}{Here you go.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello?}
@@ -74,13 +74,13 @@ lang=engl czec pols span russ
 {3000}{}{I am a Rangers' Paramedic. I can heal you, but it won't be cheap.}
 {3010}{}{How many?}
 {3020}{}{Not interested. Bye.}
-{4000}{}{500 caps.}
+{4000}{}{500 @lex money@.}
 {4010}{}{Here is the cash. Now heal me.}
 {4020}{}{Later maybe.}
 {5000}{}{Here you go.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {3000}{}{I am a Rangers' Paramedic. I can heal you, but it won't be cheap.}
 {3010}{}{How many?}
 {3020}{}{Not interested. Bye.}
-{4000}{}{500 caps.}
+{4000}{}{500 @lex money@.}
 {4010}{}{Here is the cash. Now heal me.}
 {4020}{}{Later maybe.}
 {5000}{}{Here you go.}

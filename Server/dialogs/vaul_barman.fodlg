@@ -6,21 +6,21 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 40 1010 D _script dialog@d_CheckNight 0  #
 50 1020 D _param p ST_INTELLECT < 4 #
 2 1030 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 14 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 13 3020 #
 12 3030 #
 14 3040 #
 0 3050 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 #
 10 4020 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 13 4030 #
@@ -28,40 +28,40 @@ lang=engl czec pols span russ
 14 4050 #
 0 4060 D _item p PID_BOTTLE_CAPS < 20 #
 0 4070 D _script dialog@d_havepropermoney 1 19 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 #
 13 5020 #
 12 5030 #
 10 5040 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 14 5050 #
 0 5060 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 8 6020 #
 14 6030 #
 0 6040 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 14 7020 #
 0 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 #
 14 8020 #
 0 8030 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 14 9010 D _param p SK_SPEECH > 79 #
 0 9020 D _param p SK_SPEECH < 80 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 12 10010 #
 11 10020 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 5 10030 #
 14 10040 #
 0 10050 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 10 11010 D _script dialog@d_havepropermoney 1 19 R _script dialog@r_RemoveMoney 1 20 #
 14 11020 #
 0 11030 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 10 12010 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
 10 12020 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
 10 12030 D _script dialog@d_havepropermoney 1 4 R _script dialog@r_RemoveMoney 1 5 #
@@ -69,43 +69,43 @@ lang=engl czec pols span russ
 14 12050 #
 0 12060 D _item p PID_BOTTLE_CAPS < 5 #
 0 12070 D _script dialog@d_havepropermoney 1 4 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 12 13010 #
 4 13020 #
 14 13030 #
 0 13040 D _param p ST_KARMA > -1 #
 0 13050 D _param p ST_KARMA < 0 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 3 14010 #
 15 14020 D _param p ST_CHARISMA > 5 D _param p SK_SPEECH > 59 #
 0 14030 @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 18 15020 D _script dialog@d_IsNotMember 0  #
 3 15030 #
 0 15040 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 17 16010 #
 18 16020 D _script dialog@d_IsNotMember 0  #
 3 16030 #
 0 16040 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 15 17010 D _script dialog@d_IsNotMember 0  #
 3 17020 #
 0 17030 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 #
 19 18020 #
 3 18030 #
 0 18040 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 3 19010 #
 0 19020 D _var n acquaintance = 0 R _param p ST_EXPERIENCE + 600 R _var n acquaintance = 1 @
-40 20000 None 0 @
-50 21000 None 0 #
+40 20000 main@dlg_Caps 0 @
+50 21000 main@dlg_Caps 0 #
 51 21010 #
 0 21020 @
-51 22000 None 0 #
+51 22000 main@dlg_Caps 0 #
 0 22010 #
 0 22020 &
 
@@ -217,7 +217,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -427,7 +427,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -532,7 +532,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}

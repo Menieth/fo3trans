@@ -6,30 +6,30 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 #
 8 1020 D _param p ST_INTELLECT < 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 9 2020 #
 2 2030 D _param p SK_SCIENCE > 75 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 4 3020 #
 6 3030 D _param p SK_SCIENCE > 75 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 7 4010 #
 0 4020 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 0 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 0 6010 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 65507 7010 @
-8 8000 None 0 @
-9 9000 None 0 #
+8 8000 main@dlg_Caps 0 @
+9 9000 main@dlg_Caps 0 #
 4 9010 #
 4 9020 #
 6 9030 D _param p SK_SCIENCE > 75 #
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {9040}{}{All right then, I'm leaving.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ao?ae}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {9040}{}{All right then, I'm leaving.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ao?ae}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {9040}{}{All right then, I'm leaving.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ao?ae}
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {9040}{}{All right then, I'm leaving.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ao?ae}

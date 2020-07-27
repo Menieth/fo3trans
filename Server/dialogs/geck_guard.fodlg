@@ -6,9 +6,9 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 @
-2 2000 None 0 &
+2 2000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Ghoul}
@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Predialogue installations}
 {2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Predialogue installations}
 {2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Predialogue installations}
 {2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Predialogue installations}
 {2000}{}{Watch your step here, smoothskin.@@Aren’t you worried about the radiation here?@@Just watch your step here.@@If anything goes wrong, we’re coming to you first.@@Smile for the security cameras.}

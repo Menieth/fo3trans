@@ -6,33 +6,33 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 D _var p q_v99_cigs_mashine = 0 #
 0 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 R _var p q_v99_cigs_mashine = 1 #
 0 4020 @
-5 5000 None 0 @
-6 6000 None 0 #
+5 5000 main@dlg_Caps 0 @
+6 6000 main@dlg_Caps 0 #
 9 6010 #
 9 6020 #
 7 6030 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 9 7020 #
 9 7030 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 11 8010 R _var p q_v99_cigs_mashine = 2 R _item p PID_CIGARETTES + 7 R _param p ST_EXPERIENCE + 100 #
 10 8020 #
 9 8030 @
-9 9000 None 0 @
-10 10000 None 0 @
-11 11000 None 0 &
+9 9000 main@dlg_Caps 0 @
+10 10000 main@dlg_Caps 0 @
+11 11000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Cig Selling Robot}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {11000}{}{Great job! Here is your pack of cigs!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {11000}{}{Great job! Here is your pack of cigs!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {11000}{}{Great job! Here is your pack of cigs!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {11000}{}{Great job! Here is your pack of cigs!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}

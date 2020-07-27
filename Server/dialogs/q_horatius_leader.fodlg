@@ -6,50 +6,50 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 31 1010 D _var p q_ncr_rail_gang = 0 #
 30 1020 D _param p ST_INTELLECT < 4 #
 20 1030 D _var p q_ncr_rail_gang = 4 #
 2 1040 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 4 2010 #
 3 2020 D _param p SK_SPEECH > 65 #
 5 2030 #
 0 2040 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 #
 5 3020 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 65507 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 D _param p SK_SPEECH > 65 #
 10 5020 #
 12 5030 #
 4 5040 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 8 6010 D _param p ST_CHARISMA > 5 D _param p SK_SPEECH > 65 #
 7 6020 D _param p ST_CHARISMA < 6 D _param p SK_SPEECH > 65 #
 8 6030 D _param p ST_STRENGTH > 6 #
 7 6040 D _param p ST_STRENGTH < 7 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 65507 7010 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 21 8010 R _var p q_ncr_rail_gang = 4 @
-10 9000 None 0 #
+10 9000 main@dlg_Caps 0 #
 11 9010 #
 4 9020 D _param p ST_STRENGTH < 10 #
 8 9030 D _param p ST_STRENGTH = 10 @
-11 10000 None 0 #
+11 10000 main@dlg_Caps 0 #
 5 10010 @
-12 11000 None 0 #
+12 11000 main@dlg_Caps 0 #
 4 11010 #
 5 11020 @
-20 12000 None 0 @
-21 13000 None 0 @
-30 14000 None 0 #
+20 12000 main@dlg_Caps 0 @
+21 13000 main@dlg_Caps 0 @
+30 14000 main@dlg_Caps 0 #
 4 14010 #
 4 14020 @
-31 15000 None 0 &
+31 15000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Horatius}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}
@@ -195,7 +195,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}
@@ -242,7 +242,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}

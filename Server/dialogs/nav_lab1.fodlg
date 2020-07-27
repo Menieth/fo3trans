@@ -6,13 +6,13 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 2 1010 D _var p factions_player_faction = 3 D _var p factions_player_rank < 3 #
 3 1020 D _var p factions_player_faction = 3 #
 2 1030 D _script dialog@d_IsDisguised 0  #
 65507 1040 @
 2 2000 Attack 0 @
-3 3000 None 0 &
+3 3000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Enclave Scientist}
@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}

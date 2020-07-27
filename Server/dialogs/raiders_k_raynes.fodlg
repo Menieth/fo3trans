@@ -6,92 +6,92 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 25 1010 D _script dialog@d_IsMember 0  #
 20 1020 D _var p acquaintance = 2 #
 2 1030 D _var p q_raiders_induction = 2 D _var p acquaintance < 1 #
 17 1040 D _var p q_raiders_induction = 3 #
 27 1050 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 #
 65507 2020 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 5 4010 @
-5 5000 None 0 #
+5 5000 main@dlg_Caps 0 #
 6 5010 @
-6 6000 None 0 #
+6 6000 main@dlg_Caps 0 #
 7 6010 #
 0 6020 @
-7 7000 None 0 #
+7 7000 main@dlg_Caps 0 #
 8 7010 #
 8 7020 @
-8 8000 None 0 #
+8 8000 main@dlg_Caps 0 #
 9 8010 @
-9 9000 None 0 #
+9 9000 main@dlg_Caps 0 #
 10 9010 @
-10 10000 None 0 #
+10 10000 main@dlg_Caps 0 #
 11 10010 #
 12 10020 @
-11 11000 None 0 #
+11 11000 main@dlg_Caps 0 #
 12 11010 @
-12 12000 None 0 #
+12 12000 main@dlg_Caps 0 #
 13 12010 @
-13 13000 None 0 #
+13 13000 main@dlg_Caps 0 #
 14 13010 @
-14 14000 None 0 #
+14 14000 main@dlg_Caps 0 #
 15 14010 R _item p PID_LOCKPICKS + 1 R _item p PID_ROPE + 1 R _item p PID_NUKA_COLA + 1 R _item p PID_MULTI_TOOL + 1 R _item p PID_KNIFE + 1 R _script quest_raiders@r_SpawnFarmhome 0  @
-15 15000 None 0 #
+15 15000 main@dlg_Caps 0 #
 16 15010 #
 16 15020 @
-16 16000 None 0 #
+16 16000 main@dlg_Caps 0 #
 0 16010 @
-17 17000 None 0 #
+17 17000 main@dlg_Caps 0 #
 18 17010 @
-18 18000 None 0 #
+18 18000 main@dlg_Caps 0 #
 19 18010 R _param p ST_EXPERIENCE + 1000 R _param p REPUTATION_RAIDERS + 300 R _var p acquaintance = 2 R _script dialog@r_AddMember 0  R _var p q_raiders_induction = 4 @
-19 19000 None 0 #
+19 19000 main@dlg_Caps 0 #
 20 19010 #
 20 19020 #
 20 19030 #
 20 19040 @
-20 20000 None 0 #
+20 20000 main@dlg_Caps 0 #
 21 20010 @
-21 21000 None 0 #
+21 21000 main@dlg_Caps 0 #
 22 21010 R _script dialog@r_ShowLocation 1 27 R _var p acquaintance = 3 #
 22 21020 R _script dialog@r_ShowLocation 1 27 R _var p acquaintance = 3 @
-22 22000 None 0 #
+22 22000 main@dlg_Caps 0 #
 23 22010 #
 23 22020 @
-23 23000 None 0 #
+23 23000 main@dlg_Caps 0 #
 0 23010 #
 24 23020 @
-24 24000 None 0 #
+24 24000 main@dlg_Caps 0 #
 0 24010 @
-25 25000 None 0 #
+25 25000 main@dlg_Caps 0 #
 50 25010 D _item p PID_Q_GUNRUNNER_BOX > 0 D _var p q_la_gunrunners_caravan > 0 D _var p q_la_gunrunners_caravan ! 3 D _var p q_la_gunrunners_caravan ! 4 D _var p q_la_gunrunners_caravan ! 5 #
 26 25020 #
 28 25030 #
 0 25040 @
-26 26000 None 0 #
+26 26000 main@dlg_Caps 0 #
 0 26010 @
-27 27000 None 0 #
+27 27000 main@dlg_Caps 0 #
 50 27010 D _var p q_la_gunrunners_caravan > 0 D _item p PID_Q_GUNRUNNER_BOX > 0 D _var p q_la_gunrunners_caravan ! 3 D _var p q_la_gunrunners_caravan ! 4 D _var p q_la_gunrunners_caravan ! 5 #
 0 27020 @
-28 28000 None 0 #
+28 28000 main@dlg_Caps 0 #
 0 28010 R _script dialog@r_ShowLocation 1 27 R _var p acquaintance = 3 @
-50 29000 None 0 #
+50 29000 main@dlg_Caps 0 #
 51 29010 #
 0 29020 @
-51 30000 None 0 #
+51 30000 main@dlg_Caps 0 #
 0 30010 D _item p PID_Q_GUNRUNNER_BOX > 0 R _item p PID_Q_GUNRUNNER_BOX - 1 R _var p q_la_warehouse = 5 R _param p REPUTATION_RAIDERS + 300 R _param p REPUTATION_RAIDERS - 50 R _script quest_la_gunr_caravan@r_DeleteLocation 0  R _item p PID_PSYCHO + 5 R _item p PID_JET + 5 R _item p PID_MENTATS + 5 R _item p PID_BUFFOUT + 5 @
-52 31000 None 0 #
+52 31000 main@dlg_Caps 0 #
 0 31010 R _item p PID_BEER + 10 #
 53 31020 R _param p REPUTATION_RAIDERS + 100 #
 54 31030 D _param p SK_TRAPS } 50 R _param p REPUTATION_RAIDERS + 25 R _param p ST_EXPERIENCE + 25 @
-53 32000 None 0 @
-54 33000 None 0 #
+53 32000 main@dlg_Caps 0 @
+54 33000 main@dlg_Caps 0 #
 0 33010 &
 
 [engl]
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}
@@ -281,7 +281,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}
@@ -371,7 +371,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}
@@ -461,7 +461,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}

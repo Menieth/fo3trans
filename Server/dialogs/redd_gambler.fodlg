@@ -6,23 +6,23 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 0 #
+1 1000 main@dlg_Caps 0 #
 502 1010 D _script perks@d_PerkCheck 1 383 D _var n name_mem_npc_player = 1 #
 500 1020 D _script perks@d_PerkCheck 1 383 D _var n name_mem_npc_player = 0 #
 2 1030 @
-2 2000 None 0 @
-500 3000 None 0 #
+2 2000 main@dlg_Caps 0 @
+500 3000 main@dlg_Caps 0 #
 501 3010 R _var n name_mem_npc_player = 1 #
 0 3020 @
-501 4000 None 0 #
+501 4000 main@dlg_Caps 0 #
 503 4010 D _item p PID_BEER > 0 R _param p PE_DEMOLITION_EXPERT = 1 R _item p PID_BEER - 1 #
 0 4020 #
 0 4030 @
-502 5000 None 0 #
+502 5000 main@dlg_Caps 0 #
 503 5010 D _item p PID_BEER > 0 R _param p PE_DEMOLITION_EXPERT = 1 R _item p PID_BEER - 1 #
 0 5020 #
 0 5030 @
-503 6000 None 0 #
+503 6000 main@dlg_Caps 0 #
 0 6010 &
 
 [engl]
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}
@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}
@@ -113,7 +113,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}

@@ -6,18 +6,18 @@ lang=engl
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _item p PID_DOLLAR } 1 D _var p citizenship = 1 #
 4 1020 D _item p PID_DOLLAR = 0 #
 5 1030 D _var p citizenship = 0 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 65506 2010 #
 3 2020 #
 0 2030 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 2 3010 @
-4 4000 None 0 @
-5 5000 None 0 &
+4 4000 main@dlg_Caps 0 @
+5 5000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Chaz}

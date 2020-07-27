@@ -6,25 +6,25 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 &
+1 1000 main@dlg_Caps 1 &
 
 [engl]
 {100}{}{Sandbag}
 {1000}{}{Predialogue installations}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 

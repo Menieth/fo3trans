@@ -6,37 +6,37 @@ lang=engl czec pols span russ
 
 [dialog]
 &
-1 1000 None 1 #
+1 1000 main@dlg_Caps 1 #
 2 1010 D _var p name_mem_npc_player = 0 R _script dialog@r_PlaySound 1 3 #
 3 1020 D _var p name_mem_npc_player = 1 R _script dialog@r_PlaySound 1 4 @
-2 2000 None 0 #
+2 2000 main@dlg_Caps 0 #
 3 2010 R _var p name_mem_npc_player = 1 R _item p PID_BOTTLE_EMPTY + 1 R _script dialog@r_PlaySound 1 4 @
-3 3000 None 0 #
+3 3000 main@dlg_Caps 0 #
 4 3010 R _script dialog@r_PlaySound 1 5 #
 4 3020 R _script dialog@r_PlaySound 1 5 #
 4 3030 R _script dialog@r_PlaySound 1 5 #
 0 3040 @
-4 4000 None 0 #
+4 4000 main@dlg_Caps 0 #
 6 4010 R _script dialog@r_PlaySound 1 6 #
 6 4020 R _script dialog@r_PlaySound 1 6 #
 0 4030 @
-6 5000 None 0 #
+6 5000 main@dlg_Caps 0 #
 8 5010 R _script dialog@r_PlaySound 1 7 #
 0 5020 @
-8 6000 None 0 #
+8 6000 main@dlg_Caps 0 #
 9 6010 R _script dialog@r_PlaySound 1 8 #
 0 6020 @
-9 7000 None 0 #
+9 7000 main@dlg_Caps 0 #
 10 7010 R _script dialog@r_PlaySound 1 9 #
 0 7020 @
-10 8000 None 0 #
+10 8000 main@dlg_Caps 0 #
 11 8010 R _script dialog@r_PlaySound 1 10 #
 0 8020 @
-11 9000 None 0 #
+11 9000 main@dlg_Caps 0 #
 12 9010 R _script dialog@r_PlaySound 1 11 #
 12 9020 R _script dialog@r_PlaySound 1 11 #
 0 9030 @
-12 10000 None 0 &
+12 10000 main@dlg_Caps 0 &
 
 [engl]
 {100}{}{Mr. Handy}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {3020}{}{Excuse me...}
 {3030}{}{There is a knife sticking out of your speaker. Maybe you should...}
 {3040}{}{[ Leave ]}
-{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another bottle of Nuka for you! [ it pulls nothing out of the box ]}
+{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another @lex prefix@ of Nuka for you! [ it pulls nothing out of the box ]}
 {4010}{}{I know, I...}
 {4020}{}{Do you fucking...?}
 {4030}{}{[ Leave ]}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {10000}{}{That's all for now! Please move further!}
 
 [czec]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {3020}{}{Excuse me...}
 {3030}{}{There is a knife sticking out of your speaker. Maybe you should...}
 {3040}{}{[ Leave ]}
-{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another bottle of Nuka for you! [ it pulls nothing out of the box ]}
+{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another @lex prefix@ of Nuka for you! [ it pulls nothing out of the box ]}
 {4010}{}{I know, I...}
 {4020}{}{Do you fucking...?}
 {4030}{}{[ Leave ]}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {10000}{}{That's all for now! Please move further!}
 
 [pols]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {3020}{}{Excuse me...}
 {3030}{}{There is a knife sticking out of your speaker. Maybe you should...}
 {3040}{}{[ Leave ]}
-{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another bottle of Nuka for you! [ it pulls nothing out of the box ]}
+{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another @lex prefix@ of Nuka for you! [ it pulls nothing out of the box ]}
 {4010}{}{I know, I...}
 {4020}{}{Do you fucking...?}
 {4030}{}{[ Leave ]}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {10000}{}{That's all for now! Please move further!}
 
 [span]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {3020}{}{Excuse me...}
 {3030}{}{There is a knife sticking out of your speaker. Maybe you should...}
 {3040}{}{[ Leave ]}
-{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another bottle of Nuka for you! [ it pulls nothing out of the box ]}
+{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another @lex prefix@ of Nuka for you! [ it pulls nothing out of the box ]}
 {4010}{}{I know, I...}
 {4020}{}{Do you fucking...?}
 {4030}{}{[ Leave ]}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {10000}{}{That's all for now! Please move further!}
 
 [russ]
-{100}{}{none}
+{100}{}{main@dlg_Caps}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {3020}{}{Excuse me...}
 {3030}{}{There is a knife sticking out of your speaker. Maybe you should...}
 {3040}{}{[ Leave ]}
-{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another bottle of Nuka for you! [ it pulls nothing out of the box ]}
+{4000}{}{Next thing you need to know is that your Pip Boy version 2000 is multifunctional! It will help you to coordinate with you Pip Interface! You can easily maintain your inventory, stats and other options! To open your Pip Boy - just press P, to open the inventory - press I, to open your char stats - press C. Isn't it EAASY? Here is another @lex prefix@ of Nuka for you! [ it pulls nothing out of the box ]}
 {4010}{}{I know, I...}
 {4020}{}{Do you fucking...?}
 {4030}{}{[ Leave ]}
