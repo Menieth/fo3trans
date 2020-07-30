@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -300,7 +300,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -373,7 +373,7 @@ lang=engl czec pols span russ
 {23010}{}{Thanks.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

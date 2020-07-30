@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}
@@ -236,7 +236,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}
@@ -293,7 +293,7 @@ lang=engl czec pols span russ
 {20010}{}{[End]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest failed}
 {1020}{}{quest done}

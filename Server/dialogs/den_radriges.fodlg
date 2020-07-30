@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {12020}{}{Yoi ana ?oi iia auei iaiaoiaeii. Ai naeaaiey.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{eaano Ea?u i?i AN}
 {1020}{}{N?aaiyy eiyeuiinou, iaciaeiiu.}

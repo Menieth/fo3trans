@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {9000}{}{Hmh... Not much has survived as it seems. Very well, here is your payment,}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area. Outsiders are not allowed inside the Dam.}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {9000}{}{Hmh... Not much has survived as it seems. Very well, here is your payment,}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area. Outsiders are not allowed inside the Dam.}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {9000}{}{Hmh... Not much has survived as it seems. Very well, here is your payment,}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area. Outsiders are not allowed inside the Dam.}
@@ -165,7 +165,7 @@ lang=engl czec pols span russ
 {9000}{}{Hmh... Not much has survived as it seems. Very well, here is your payment,}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area. Outsiders are not allowed inside the Dam.}

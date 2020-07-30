@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {100000001}{}{This is a property of Brotherhood of Steel. Nothing to see here. Move along!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{This is a property of Brotherhood of Steel. Nothing to see here. Move along!@@This is a property of Brotherhood of Steel. Nothing to see here. Move along!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{This is a property of Brotherhood of Steel. Nothing to see here. Move along!@@This is a property of Brotherhood of Steel. Nothing to see here. Move along!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{This is a property of Brotherhood of Steel. Nothing to see here. Move along!@@This is a property of Brotherhood of Steel. Nothing to see here. Move along!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{This is a property of Brotherhood of Steel. Nothing to see here. Move along!@@This is a property of Brotherhood of Steel. Nothing to see here. Move along!}

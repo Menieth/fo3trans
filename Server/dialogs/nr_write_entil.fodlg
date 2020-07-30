@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {21010}{}{I can see talking isn't going to help matters here. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -229,7 +229,7 @@ lang=engl czec pols span russ
 {21010}{}{I can see talking isn't going to help matters here. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -304,7 +304,7 @@ lang=engl czec pols span russ
 {21010}{}{I can see talking isn't going to help matters here. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -379,7 +379,7 @@ lang=engl czec pols span russ
 {21010}{}{I can see talking isn't going to help matters here. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}

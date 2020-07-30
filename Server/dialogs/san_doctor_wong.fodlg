@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {21010}{}{Okay. I will come back later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I assist you with something?}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {21010}{}{Okay. I will come back later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I assist you with something?}
@@ -295,7 +295,7 @@ lang=engl czec pols span russ
 {21010}{}{Okay. I will come back later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I assist you with something?}
@@ -367,7 +367,7 @@ lang=engl czec pols span russ
 {21010}{}{Okay. I will come back later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I assist you with something?}

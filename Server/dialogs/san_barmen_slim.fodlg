@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -175,7 +175,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -230,7 +230,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}
@@ -285,7 +285,7 @@ lang=engl czec pols span russ
 {15000}{}{Damn, man. I'm accepting, but I ain't that accepting.@@Hojeez. Hojeez. Someone go get Badger. I think it's a person.@@That must've been some night, huh?@@I wouldn't like to see the other guy.@@Phew, now I know what they mean when they say 'You should see the other guy'.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{not known}

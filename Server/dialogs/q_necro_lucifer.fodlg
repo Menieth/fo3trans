@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more @lex money@ for you, you damn begger. Get out now!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Get Back! This is USA property!}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more @lex money@ for you, you damn begger. Get out now!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Get Back! This is USA property!}
@@ -105,7 +105,7 @@ lang=engl czec pols span russ
 {7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more @lex money@ for you, you damn begger. Get out now!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Get Back! This is USA property!}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {7000}{}{Fine... Here are some extra from me personally, these freaks shooting down my boys, when we came here first time. I'm glad you killed some of them. But no more @lex money@ for you, you damn begger. Get out now!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Get Back! This is USA property!}

@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}
@@ -432,7 +432,7 @@ lang=engl czec pols span russ
 {24020}{}{This training will come in handy out there, no doubt. I have to be going now, goodbye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night non citizen}
 {1020}{}{night citizen}

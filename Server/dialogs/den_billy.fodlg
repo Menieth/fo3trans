@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -279,7 +279,7 @@ lang=engl czec pols span russ
 {16010}{}{Alright, sure thing Frankie.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}

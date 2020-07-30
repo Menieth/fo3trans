@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3020}{}{Let's play}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{What made you come you here?}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3020}{}{Let's play}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{What made you come you here?}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {3020}{}{Let's play}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{What made you come you here?}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {3020}{}{Let's play}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{What made you come you here?}

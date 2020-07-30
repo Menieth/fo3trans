@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Knowledge is life.@@Glorious Day to you.@@Hello, traveller. Maybe you should visit us in the library someday.}

@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3000}{}{Isn't this a very good night, my friend?@@Greetings, fellow traveler!@@We are safe here, this is a good place.@@Good night to you?@@Hello.@@You should visit the library in the west borders of the Boneyard.@@Hello, traveler.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}

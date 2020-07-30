@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {7010}{}{For this lesson I will be forever grateful to you. Farewell.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{Speaker Perk ** DO NOT CHANGE THE POSITION OF ANY ANSWERS IN THIS NODE **}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {7010}{}{For this lesson I will be forever grateful to you. Farewell.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{Speaker Perk ** DO NOT CHANGE THE POSITION OF ANY ANSWERS IN THIS NODE **}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {7010}{}{For this lesson I will be forever grateful to you. Farewell.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{Speaker Perk ** DO NOT CHANGE THE POSITION OF ANY ANSWERS IN THIS NODE **}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {7010}{}{For this lesson I will be forever grateful to you. Farewell.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{Speaker Perk ** DO NOT CHANGE THE POSITION OF ANY ANSWERS IN THIS NODE **}

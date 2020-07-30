@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {23010}{}{Will do, thanks. See you around.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -285,7 +285,7 @@ lang=engl czec pols span russ
 {23010}{}{Will do, thanks. See you around.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -377,7 +377,7 @@ lang=engl czec pols span russ
 {23010}{}{Will do, thanks. See you around.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}
@@ -469,7 +469,7 @@ lang=engl czec pols span russ
 {23010}{}{Will do, thanks. See you around.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Ugly}

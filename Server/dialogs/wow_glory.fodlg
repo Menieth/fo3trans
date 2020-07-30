@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
@@ -129,7 +129,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}
@@ -160,7 +160,7 @@ lang=engl czec pols span russ
 {10000}{}{Good to hear. Talk with Howard about getting access inside of the vault.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well, hello there, stranger. I am welcoming you to my garden. May the peace be with you.}

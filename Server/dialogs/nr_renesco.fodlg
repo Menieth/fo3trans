@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -477,7 +477,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -632,7 +632,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}
@@ -787,7 +787,7 @@ lang=engl czec pols span russ
 {44000}{}{Look, I have no idea what makes you think I'd buy anything from a brahmin-thief like you. Just get the hell outta here, pest.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mgcrew quest 2nd visit}
 {1020}{}{dumb known}

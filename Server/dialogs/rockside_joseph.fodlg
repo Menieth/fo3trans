@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {8020}{}{Yeah... whatever...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Looks at you and, then takes a sheet of paper and and a pencil. ]}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {8020}{}{Yeah... whatever...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Looks at you and, then takes a sheet of paper and and a pencil. ]}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {8020}{}{Yeah... whatever...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Looks at you and, then takes a sheet of paper and and a pencil. ]}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {8020}{}{Yeah... whatever...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Looks at you and, then takes a sheet of paper and and a pencil. ]}

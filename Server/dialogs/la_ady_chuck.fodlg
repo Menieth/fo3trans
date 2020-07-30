@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Sorry I'm on a break.@@Come back later for your fortune!@@Good journeys, wanderer.@@We all need something, don't we?@@The Prince of Swords in the north...@@The Fool...@@The Tower and the Emperor...}

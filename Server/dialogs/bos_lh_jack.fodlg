@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you need anything?}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you need anything?}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you need anything?}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {13000}{}{Is it some silly kind of joke?! A porn journal?! I will not accept it!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you need anything?}

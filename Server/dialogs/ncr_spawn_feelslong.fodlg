@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}
@@ -327,7 +327,7 @@ lang=engl czec pols span russ
 {19010}{}{Something else, I want to know...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, this one here is NCR dude.}
 {1020}{}{bereits gesprochen}

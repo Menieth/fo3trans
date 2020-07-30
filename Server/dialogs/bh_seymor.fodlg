@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}
@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {7010}{}{Uh... huh. I gotta go. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Regular}

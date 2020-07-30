@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}
@@ -281,7 +281,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}
@@ -371,7 +371,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}
@@ -461,7 +461,7 @@ lang=engl czec pols span russ
 {33010}{}{Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Khan coming back to say hi}
 {1020}{}{the base, say again?}

@@ -371,7 +371,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -554,7 +554,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -737,7 +737,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}
@@ -920,7 +920,7 @@ lang=engl czec pols span russ
 {36000}{}{You did? Hmh... [ he carefully listens to the logs ]. Holy crap... Ehm... Good job. Here is your reward.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{sss}
 {1020}{}{sss}

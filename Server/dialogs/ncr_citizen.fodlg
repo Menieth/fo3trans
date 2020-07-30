@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{Hey, just let me know when you are going to go postal.@@I have to go.@@Who the hell do you think you are - coming into this town?@@Just leave before anyone gets hurt.@@I don't like you.@@The just will kill all like you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Hated}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{Hey, just let me know when you are going to go postal.@@I have to go.@@Who the hell do you think you are - coming into this town?@@Just leave before anyone gets hurt.@@I don't like you.@@The just will kill all like you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Hated}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{Hey, just let me know when you are going to go postal.@@I have to go.@@Who the hell do you think you are - coming into this town?@@Just leave before anyone gets hurt.@@I don't like you.@@The just will kill all like you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Hated}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Hey, just let me know when you are going to go postal.@@I have to go.@@Who the hell do you think you are - coming into this town?@@Just leave before anyone gets hurt.@@I don't like you.@@The just will kill all like you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Hated}

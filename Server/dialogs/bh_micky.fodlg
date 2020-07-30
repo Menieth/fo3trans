@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {13010}{}{That was some presentation, I tell ya! Now, let me start looking for treasures right away, I'm eager to put your words to work.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{normal}

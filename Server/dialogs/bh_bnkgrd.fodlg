@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}
@@ -213,7 +213,7 @@ lang=engl czec pols span russ
 {12000}{}{Get of here, idiot.@@Scram, before you get in trouble.@@Shoo! Shoo!@@Don't look at me like that.@@Push off, moron.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown Idiot}
 {1020}{}{Unknown}

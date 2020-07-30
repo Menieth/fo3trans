@@ -481,7 +481,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -718,7 +718,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -955,7 +955,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}
@@ -1192,7 +1192,7 @@ lang=engl czec pols span russ
 {63130}{}{More Criticals}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{No charisma}
 {1020}{}{All gun and close combat and throwing skills <= 91, not trained by Marshal yet.}

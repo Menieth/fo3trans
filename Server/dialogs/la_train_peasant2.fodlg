@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 {3000}{}{What a nice night.@@Guess I am drunk. Uh.@@Some people say that it's much trouble here. I don't care.@@The train stinks.@@You've got something?@@I'am waiting for my next train ride.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3000}{}{What a nice night.@@Guess I am drunk. Uh.@@Some people say that it's much trouble here. I don't care.@@The train stinks.@@You've got something?@@I'am waiting for my next train ride.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{What a nice night.@@Guess I am drunk. Uh.@@Some people say that it's much trouble here. I don't care.@@The train stinks.@@You've got something?@@I'am waiting for my next train ride.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3000}{}{What a nice night.@@Guess I am drunk. Uh.@@Some people say that it's much trouble here. I don't care.@@The train stinks.@@You've got something?@@I'am waiting for my next train ride.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}

@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that Set was offed?@@Set's dead. Set's dead. Set's dead . . .@@Ever since the mutants left, it's been better.@@Hello.@@Good night, yaaa. . ?@@Uungh... too dark here.@@We need to fix the light.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Answer text}
@@ -34,7 +34,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that Set was offed?@@Set's dead. Set's dead. Set's dead . . .@@Ever since the mutants left, it's been better.@@Hello.@@Good night, yaaa. . ?@@Uungh... too dark here.@@We need to fix the light.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Answer text}
@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that Set was offed?@@Set's dead. Set's dead. Set's dead . . .@@Ever since the mutants left, it's been better.@@Hello.@@Good night, yaaa. . ?@@Uungh... too dark here.@@We need to fix the light.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Answer text}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Leave me alone.@@What?@@Don't mess with my stuff.@@Hi.@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh.@@Hey, did you hear that Set was offed?@@Set's dead. Set's dead. Set's dead . . .@@Ever since the mutants left, it's been better.@@Hello.@@Good night, yaaa. . ?@@Uungh... too dark here.@@We need to fix the light.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{Answer text}

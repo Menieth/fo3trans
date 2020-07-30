@@ -258,7 +258,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {38000}{}{Guards, get those retards!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -384,7 +384,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {38000}{}{Guards, get those retards!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -510,7 +510,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {38000}{}{Guards, get those retards!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -636,7 +636,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {38000}{}{Guards, get those retards!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}

@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {6020}{}{Nah, fuck this.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}

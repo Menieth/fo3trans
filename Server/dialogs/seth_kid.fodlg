@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey.@@I don't remember you. Are you an outsider?@@Hello.@@Mommy says that I should avoid talking with strangers.@@You have a very strange blue suit. Charley has the same.@@Wanna play tags?}

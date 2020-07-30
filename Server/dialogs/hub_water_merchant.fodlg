@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {8040}{}{Whatever.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{...I don't care what they say.  We need new... Oh, yes.  Sorry. What can I do for you?}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {8040}{}{Whatever.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{...I don't care what they say.  We need new... Oh, yes.  Sorry. What can I do for you?}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {8040}{}{Whatever.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{...I don't care what they say.  We need new... Oh, yes.  Sorry. What can I do for you?}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {8040}{}{Whatever.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{...I don't care what they say.  We need new... Oh, yes.  Sorry. What can I do for you?}

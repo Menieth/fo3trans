@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}
@@ -212,7 +212,7 @@ lang=engl czec pols span russ
 {13000}{}{Do te job and yeh get yeh @lex prefix@ @lex money@.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{"Job" done, fuck off.}
 {1020}{}{Job taken.}

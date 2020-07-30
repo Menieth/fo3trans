@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {100000001}{}{Moo!@@Mooo!@@Mo-Mo-Mooo!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Is Owner}
 {1020}{}{Claimable}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {9010}{}{Nevermind}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Is Owner}
 {1020}{}{Claimable}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {9010}{}{Nevermind}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Is Owner}
 {1020}{}{Claimable}
@@ -190,7 +190,7 @@ lang=engl czec pols span russ
 {9010}{}{Nevermind}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Is Owner}
 {1020}{}{Claimable}

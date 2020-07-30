@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {19010}{}{Hm, but...where have they gone?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know Wally!}
 {1020}{}{Talked to wally already.}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {19010}{}{Hm, but...where have they gone?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know Wally!}
 {1020}{}{Talked to wally already.}
@@ -216,7 +216,7 @@ lang=engl czec pols span russ
 {19010}{}{Hm, but...where have they gone?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know Wally!}
 {1020}{}{Talked to wally already.}
@@ -268,7 +268,7 @@ lang=engl czec pols span russ
 {19010}{}{Hm, but...where have they gone?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know Wally!}
 {1020}{}{Talked to wally already.}

@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3020}{}{Nah, sounds boring. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you want to fight in the arena? Yes or no, fast, time is money and the longer we talk, the more time we need, the less money I get. }
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {3020}{}{Nah, sounds boring. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you want to fight in the arena? Yes or no, fast, time is money and the longer we talk, the more time we need, the less money I get. }
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{Nah, sounds boring. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you want to fight in the arena? Yes or no, fast, time is money and the longer we talk, the more time we need, the less money I get. }
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {3020}{}{Nah, sounds boring. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do you want to fight in the arena? Yes or no, fast, time is money and the longer we talk, the more time we need, the less money I get. }

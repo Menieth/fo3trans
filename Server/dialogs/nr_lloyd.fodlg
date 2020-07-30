@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {5010}{}{Sure, sure, whatever. Catch you later, Lloyd.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wright Quest}
 {1020}{}{Ugly}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {5010}{}{Sure, sure, whatever. Catch you later, Lloyd.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wright Quest}
 {1020}{}{Ugly}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {5010}{}{Sure, sure, whatever. Catch you later, Lloyd.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wright Quest}
 {1020}{}{Ugly}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {5010}{}{Sure, sure, whatever. Catch you later, Lloyd.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wright Quest}
 {1020}{}{Ugly}

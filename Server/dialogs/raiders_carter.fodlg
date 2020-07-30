@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {5010}{}{I guess it was a bit gay.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}
 {2000}{}{Sup?}
@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {5010}{}{I guess it was a bit gay.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}
 {2000}{}{Sup?}
@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {5010}{}{I guess it was a bit gay.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}
 {2000}{}{Sup?}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {5010}{}{I guess it was a bit gay.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Default Khan chatter}
 {2000}{}{Sup?}

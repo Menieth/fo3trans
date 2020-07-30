@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {9020}{}{Poor you. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{What would you like, friend?@@What do you want?@@What can I do for you?}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {9020}{}{Poor you. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{What would you like, friend?@@What do you want?@@What can I do for you?}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {9020}{}{Poor you. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{What would you like, friend?@@What do you want?@@What can I do for you?}
@@ -168,7 +168,7 @@ lang=engl czec pols span russ
 {9020}{}{Poor you. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{What would you like, friend?@@What do you want?@@What can I do for you?}

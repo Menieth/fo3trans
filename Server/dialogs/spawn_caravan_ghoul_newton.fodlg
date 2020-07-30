@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {15010}{}{Sounds reasonable. There is something else I want to know...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -160,7 +160,7 @@ lang=engl czec pols span russ
 {15010}{}{Sounds reasonable. There is something else I want to know...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {15010}{}{Sounds reasonable. There is something else I want to know...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {15010}{}{Sounds reasonable. There is something else I want to know...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}

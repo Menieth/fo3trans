@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Greetings.@@Hey! We're very glad you could join us.@@We hope you have found our humble abode to your satisfaction.@@Glorious day to you, friend!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Greetings.@@Hey! We're very glad you could join us.@@We hope you have found our humble abode to your satisfaction.@@Glorious day to you, friend!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Greetings.@@Hey! We're very glad you could join us.@@We hope you have found our humble abode to your satisfaction.@@Glorious day to you, friend!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Greetings.@@Hey! We're very glad you could join us.@@We hope you have found our humble abode to your satisfaction.@@Glorious day to you, friend!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Greetings.@@Hey! We're very glad you could join us.@@We hope you have found our humble abode to your satisfaction.@@Glorious day to you, friend!}

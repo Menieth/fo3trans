@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {11010}{}{You are Harris? I think I know about you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{spawn quest, Harris remembers that he offered a beer to player already}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {11010}{}{You are Harris? I think I know about you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{spawn quest, Harris remembers that he offered a beer to player already}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {11010}{}{You are Harris? I think I know about you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{spawn quest, Harris remembers that he offered a beer to player already}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {11010}{}{You are Harris? I think I know about you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{spawn quest}
 {1020}{}{spawn quest, Harris remembers that he offered a beer to player already}

@@ -14,7 +14,7 @@ lang=engl czec pols span russ
 3 3000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ It seems like some wires are disconnected. ]}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Bzzzt ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ It seems like some wires are disconnected. ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Bzzzt ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ It seems like some wires are disconnected. ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Bzzzt ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ It seems like some wires are disconnected. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Bzzzt ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ It seems like some wires are disconnected. ]}

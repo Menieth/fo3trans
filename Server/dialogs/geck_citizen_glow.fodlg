@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {4010}{}{Thank you for your time, I'm sure your words shall help me survive the remaining pockets of radiation out there. Farewell!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rad Resistance Perk}
 {1020}{}{Predialogue installations}

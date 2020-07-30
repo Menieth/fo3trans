@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2020}{}{nah, it's not necessary}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, would you take a look on my store?}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {2020}{}{nah, it's not necessary}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, would you take a look on my store?}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {2020}{}{nah, it's not necessary}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, would you take a look on my store?}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {2020}{}{nah, it's not necessary}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, would you take a look on my store?}

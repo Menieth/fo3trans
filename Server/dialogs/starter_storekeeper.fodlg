@@ -113,7 +113,7 @@ lang=engl czec pols span russ
 {17020}{}{Thanks, I'll go pass these on to him. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Quest assigned}
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {17020}{}{Thanks, I'll go pass these on to him. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Quest assigned}
@@ -219,7 +219,7 @@ lang=engl czec pols span russ
 {17020}{}{Thanks, I'll go pass these on to him. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Quest assigned}
@@ -272,7 +272,7 @@ lang=engl czec pols span russ
 {17020}{}{Thanks, I'll go pass these on to him. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Quest assigned}

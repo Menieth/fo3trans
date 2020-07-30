@@ -124,7 +124,7 @@ lang=engl czec pols span russ
 {19010}{}{Hold on! Wait! I think I’ve heard enough.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Normal}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {19010}{}{Hold on! Wait! I think I’ve heard enough.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Normal}
@@ -240,7 +240,7 @@ lang=engl czec pols span russ
 {19010}{}{Hold on! Wait! I think I’ve heard enough.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Normal}
@@ -298,7 +298,7 @@ lang=engl czec pols span russ
 {19010}{}{Hold on! Wait! I think I’ve heard enough.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Normal}

@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {4000}{}{Nice day... for somebody.@@Wish I could get into the city.@@At least I ain't out in the wastes...@@Money's running short...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{bad}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {4000}{}{Nice day... for somebody.@@Wish I could get into the city.@@At least I ain't out in the wastes...@@Money's running short...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{bad}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {4000}{}{Nice day... for somebody.@@Wish I could get into the city.@@At least I ain't out in the wastes...@@Money's running short...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{bad}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4000}{}{Nice day... for somebody.@@Wish I could get into the city.@@At least I ain't out in the wastes...@@Money's running short...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{bad}

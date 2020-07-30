@@ -265,7 +265,7 @@ lang=engl czec pols span russ
 {31030}{}{This is not what I am searching for. Do you have something else?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I'm with stupid}
 {1020}{}{i dont know you}
@@ -393,7 +393,7 @@ lang=engl czec pols span russ
 {31030}{}{This is not what I am searching for. Do you have something else?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I'm with stupid}
 {1020}{}{i dont know you}
@@ -521,7 +521,7 @@ lang=engl czec pols span russ
 {31030}{}{This is not what I am searching for. Do you have something else?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I'm with stupid}
 {1020}{}{i dont know you}
@@ -649,7 +649,7 @@ lang=engl czec pols span russ
 {31030}{}{This is not what I am searching for. Do you have something else?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I'm with stupid}
 {1020}{}{i dont know you}

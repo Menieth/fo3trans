@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {9000}{}{Thank you. Scorpios will love it!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {9000}{}{Thank you. Scorpios will love it!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it?}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {9000}{}{Thank you. Scorpios will love it!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it?}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {9000}{}{Thank you. Scorpios will love it!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it?}

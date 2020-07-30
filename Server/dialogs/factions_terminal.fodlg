@@ -533,7 +533,7 @@ Friends: @lex friends_allowed@
 {100000042}{}{Choose the action you want to perform:}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}
@@ -795,7 +795,7 @@ Friends: @lex friends_allowed@
 {52020}{}{Yes}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}
@@ -1057,7 +1057,7 @@ Friends: @lex friends_allowed@
 {52020}{}{Yes}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}
@@ -1319,7 +1319,7 @@ Friends: @lex friends_allowed@
 {52020}{}{Yes}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{invited and free}

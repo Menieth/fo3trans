@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2020}{}{Sorry, have to keep on moving.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Greetings, traveler! I rarely see many people along this route, but am always happy to have new customers. Would you like to trade?@@Hey there! It's really great that you stopped. Most people along this route just keep right on going. Hey, would you like to trade some things?@@Would you be interested in a little trade?}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {2020}{}{Sorry, have to keep on moving.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Greetings, traveler! I rarely see many people along this route, but am always happy to have new customers. Would you like to trade?@@Hey there! It's really great that you stopped. Most people along this route just keep right on going. Hey, would you like to trade some things?@@Would you be interested in a little trade?}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {2020}{}{Sorry, have to keep on moving.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Greetings, traveler! I rarely see many people along this route, but am always happy to have new customers. Would you like to trade?@@Hey there! It's really great that you stopped. Most people along this route just keep right on going. Hey, would you like to trade some things?@@Would you be interested in a little trade?}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {2020}{}{Sorry, have to keep on moving.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Greetings, traveler! I rarely see many people along this route, but am always happy to have new customers. Would you like to trade?@@Hey there! It's really great that you stopped. Most people along this route just keep right on going. Hey, would you like to trade some things?@@Would you be interested in a little trade?}

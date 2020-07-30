@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {3020}{}{Poison?! Me no want poison!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}

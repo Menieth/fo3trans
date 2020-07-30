@@ -126,7 +126,7 @@ lang=engl czec pols span russ
 {14000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {14000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -246,7 +246,7 @@ lang=engl czec pols span russ
 {14000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -306,7 +306,7 @@ lang=engl czec pols span russ
 {14000}{}{Get out of here.@@You're scaring off my customers.@@Door's right behind you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}

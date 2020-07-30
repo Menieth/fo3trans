@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Oprating... ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ System Online ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Oprating... ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ System Online ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Oprating... ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ System Online ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ Oprating... ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ System Online ]}

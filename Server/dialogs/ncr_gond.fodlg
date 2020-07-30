@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Gond, that was really something new for me. I have to go now, bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not NCR}
@@ -128,7 +128,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Gond, that was really something new for me. I have to go now, bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not NCR}
@@ -168,7 +168,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Gond, that was really something new for me. I have to go now, bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not NCR}
@@ -208,7 +208,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Gond, that was really something new for me. I have to go now, bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not NCR}

@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {24010}{}{Whole right... Me leaving...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Reward for idiot}
 {1020}{}{Idiot}
@@ -160,7 +160,7 @@ lang=engl czec pols span russ
 {24010}{}{Whole right... Me leaving...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Reward for idiot}
 {1020}{}{Idiot}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {24010}{}{Whole right... Me leaving...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Reward for idiot}
 {1020}{}{Idiot}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {24010}{}{Whole right... Me leaving...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Reward for idiot}
 {1020}{}{Idiot}

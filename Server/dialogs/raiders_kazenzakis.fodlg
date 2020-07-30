@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -169,7 +169,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}
@@ -275,7 +275,7 @@ lang=engl czec pols span russ
 {18010}{}{Will do. [Pocket your winnings and leave like a champion, a little wiser and a little richer.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Nongambler back to gamble}
 {1020}{}{standard khan chatter}

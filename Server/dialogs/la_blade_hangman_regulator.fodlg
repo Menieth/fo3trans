@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {12030}{}{Alright fine, I'll leave you alone.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{floating}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {12030}{}{Alright fine, I'll leave you alone.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{floating}
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {12030}{}{Alright fine, I'll leave you alone.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{floating}
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {12030}{}{Alright fine, I'll leave you alone.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{floating}

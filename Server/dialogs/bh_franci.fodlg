@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}
@@ -233,7 +233,7 @@ lang=engl czec pols span russ
 {15010}{}{It sounds awesome! See you later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {1020}{}{Hated}

@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3010}{}{Okay. Bye.@@I should go then.@@Okay.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3010}{}{Okay. Bye.@@I should go then.@@Okay.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {3010}{}{Okay. Bye.@@I should go then.@@Okay.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {3010}{}{Okay. Bye.@@I should go then.@@Okay.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[The guard is mustering you up and down.] ... This is an restricted area, unauthorized person are not allowed. Please leave this place.}

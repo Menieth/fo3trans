@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {4200}{}{Nothing.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{ }
 {2000}{}{Hello there. What  do you need?}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {4200}{}{Nothing.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{ }
 {2000}{}{Hello there. What  do you need?}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {4200}{}{Nothing.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{ }
 {2000}{}{Hello there. What  do you need?}
@@ -280,7 +280,7 @@ lang=engl czec pols span russ
 {4200}{}{Nothing.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{ }
 {2000}{}{Hello there. What  do you need?}

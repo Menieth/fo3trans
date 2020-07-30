@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{Do you have some spare money?@@My stomach hurts.@@The Followers are helping us.@@I want to get out of here.@@This camp is a mess.@@The regulators are cruel.@@The regulators don't protect us.@@Are you a scav?}

@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {10000}{}{Get out of here!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Inside}
 {1020}{}{Westin Brahmin killed, talked to guard about it already}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {10000}{}{Get out of here!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Inside}
 {1020}{}{Westin Brahmin killed, talked to guard about it already}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {10000}{}{Get out of here!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Inside}
 {1020}{}{Westin Brahmin killed, talked to guard about it already}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {10000}{}{Get out of here!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Inside}
 {1020}{}{Westin Brahmin killed, talked to guard about it already}

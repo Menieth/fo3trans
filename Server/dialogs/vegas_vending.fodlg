@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Thank you for purchase.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you you see a vending machine made by "Stay hungry" company. It asks for 10 @lex money@ for any sort of food it has inside. ]}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {3000}{}{Thank you for purchase.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you you see a vending machine made by "Stay hungry" company. It asks for 10 @lex money@ for any sort of food it has inside. ]}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {3000}{}{Thank you for purchase.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you you see a vending machine made by "Stay hungry" company. It asks for 10 @lex money@ for any sort of food it has inside. ]}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {3000}{}{Thank you for purchase.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you you see a vending machine made by "Stay hungry" company. It asks for 10 @lex money@ for any sort of food it has inside. ]}

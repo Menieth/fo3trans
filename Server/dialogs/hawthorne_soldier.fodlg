@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Alert! Alert!@@Move! Move!@@One... Two... Go, go, go.@@Push forward!}

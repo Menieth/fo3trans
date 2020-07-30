@@ -240,7 +240,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -357,7 +357,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -474,7 +474,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}
@@ -591,7 +591,7 @@ lang=engl czec pols span russ
 {11000}{}{Oh... Ehm? Are you seriouse right now? You are a freaking talking Deathclaw. What haircut do you expect me to make for you?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{female}
 {1020}{}{Deathcalw}

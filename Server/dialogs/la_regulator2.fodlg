@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Watch yourself, we'll be watching you.@@Watch yourself.@@Stay in line.@@What are you looking at.@@Guess what, I am not here to talk.@@If you want to use the train, don't talk to me.@@Thank god, they managed to get the train working.@@If you want to buy a train ticket, ask the ticket seller.@@I am not the train. Go away.@@You, skag! . . . Go on.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Watch yourself, we'll be watching you.@@Watch yourself.@@Stay in line.@@What are you looking at.@@Guess what, I am not here to talk.@@If you want to use the train, don't talk to me.@@Thank god, they managed to get the train working.@@If you want to buy a train ticket, ask the ticket seller.@@I am not the train. Go away.@@You, skag! . . . Go on.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Watch yourself, we'll be watching you.@@Watch yourself.@@Stay in line.@@What are you looking at.@@Guess what, I am not here to talk.@@If you want to use the train, don't talk to me.@@Thank god, they managed to get the train working.@@If you want to buy a train ticket, ask the ticket seller.@@I am not the train. Go away.@@You, skag! . . . Go on.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Watch yourself, we'll be watching you.@@Watch yourself.@@Stay in line.@@What are you looking at.@@Guess what, I am not here to talk.@@If you want to use the train, don't talk to me.@@Thank god, they managed to get the train working.@@If you want to buy a train ticket, ask the ticket seller.@@I am not the train. Go away.@@You, skag! . . . Go on.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}

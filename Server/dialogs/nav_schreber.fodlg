@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {9000}{}{Holy shit! We're being invaded! Alert!@@Intruders! Call the guard!@@Guard! Intruders in the research lab!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}

@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {5010}{}{I'll go ask them, thanks.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

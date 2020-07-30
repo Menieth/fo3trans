@@ -20,7 +20,7 @@ lang=engl czec pols span russ
 5 5000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {5000}{}{[ Proceeding... ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Warning! No energy. Critical generator failure. Please insert energy cells. ]}

@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {7020}{}{Well, you’re both so damn stupid and ugly. Besides, I don’t give a flying fuck which Dunton I’m yelling at. Goodbye, asshole.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {7020}{}{Well, you’re both so damn stupid and ugly. Besides, I don’t give a flying fuck which Dunton I’m yelling at. Goodbye, asshole.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -108,7 +108,7 @@ lang=engl czec pols span russ
 {7020}{}{Well, you’re both so damn stupid and ugly. Besides, I don’t give a flying fuck which Dunton I’m yelling at. Goodbye, asshole.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {7020}{}{Well, you’re both so damn stupid and ugly. Besides, I don’t give a flying fuck which Dunton I’m yelling at. Goodbye, asshole.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Unknown}
 {1020}{}{Known}

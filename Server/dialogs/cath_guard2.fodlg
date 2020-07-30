@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{We don't allow kill'n here, even if it is justified.@@I hate people like you.@@Keep moving.@@Move along.@@Don't call for help if you're in trouble.@@You'd better keep your weapons holstered, stranger.}

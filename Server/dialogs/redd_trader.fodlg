@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3020}{}{go bye-bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Regular}
 {1020}{}{Dumb}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {3020}{}{go bye-bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Regular}
 {1020}{}{Dumb}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{go bye-bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Regular}
 {1020}{}{Dumb}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {3020}{}{go bye-bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Regular}
 {1020}{}{Dumb}

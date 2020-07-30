@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {16010}{}{Thanks Bronco, I really appreciate your help. See you around!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not BoS member}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {16010}{}{Thanks Bronco, I really appreciate your help. See you around!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not BoS member}
@@ -216,7 +216,7 @@ lang=engl czec pols span russ
 {16010}{}{Thanks Bronco, I really appreciate your help. See you around!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not BoS member}
@@ -268,7 +268,7 @@ lang=engl czec pols span russ
 {16010}{}{Thanks Bronco, I really appreciate your help. See you around!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Not BoS member}

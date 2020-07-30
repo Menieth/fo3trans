@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {9010}{}{Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{unknown}
 {1020}{}{known}

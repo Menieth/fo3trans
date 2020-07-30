@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}
@@ -198,7 +198,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}
@@ -326,7 +326,7 @@ lang=engl czec pols span russ
 {19020}{}{Meh, see you later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is dumb.}
 {1020}{}{solved howizter ammo}

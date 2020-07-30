@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3020}{}{Me go talk other peoples. Bye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {2000}{}{*unrecognizable mumbling*}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3020}{}{Me go talk other peoples. Bye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {2000}{}{*unrecognizable mumbling*}
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {3020}{}{Me go talk other peoples. Bye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {2000}{}{*unrecognizable mumbling*}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {3020}{}{Me go talk other peoples. Bye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {2000}{}{*unrecognizable mumbling*}

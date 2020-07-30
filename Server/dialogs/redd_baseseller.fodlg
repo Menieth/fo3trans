@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {17020}{}{Forget about it.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hi! My name is Hurl. What do you want from me?}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {17020}{}{Forget about it.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hi! My name is Hurl. What do you want from me?}
@@ -216,7 +216,7 @@ lang=engl czec pols span russ
 {17020}{}{Forget about it.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hi! My name is Hurl. What do you want from me?}
@@ -268,7 +268,7 @@ lang=engl czec pols span russ
 {17020}{}{Forget about it.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hi! My name is Hurl. What do you want from me?}

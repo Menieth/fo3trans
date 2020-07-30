@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {9010}{}{Okay. I am gone then. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}

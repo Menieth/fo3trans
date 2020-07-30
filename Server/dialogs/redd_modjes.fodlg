@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {22020}{}{Sounds fulfilling. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{ciaeiiu}
@@ -272,7 +272,7 @@ lang=engl czec pols span russ
 {22020}{}{Sounds fulfilling. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{ciaeiiu}
@@ -361,7 +361,7 @@ lang=engl czec pols span russ
 {22020}{}{Sounds fulfilling. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{ciaeiiu}
@@ -450,7 +450,7 @@ lang=engl czec pols span russ
 {22020}{}{Sounds fulfilling. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{ciaeiiu}

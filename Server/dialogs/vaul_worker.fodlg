@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {12000}{}{The Citizens treat me very well. The food here is excellent.@@The Citizens brought my entire tribe inside the City to serve as servants.@@I hear they do horrible things to slaves in New Reno.@@Vault City rewards servants who work diligently with extra rations.@@I was lucky that Vault City had need of servants. I could have ended up in New Reno.@@The Citizens tell us that our service allows them time for more important matters.@@The Citizens teach us that work is its own reward.@@The Citizens told me that if I work hard enough, one day *I* could become a Citizen.@@Escape? Why? Life is good here.@@I was taken from a tribal village to the north, but life is much better here.@@I was first captured in the Den. Fortunately, I ended up here.@@I used to have two children, but they were shipped northwards. I hope they make their way here someday.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {12000}{}{The Citizens treat me very well. The food here is excellent.@@The Citizens brought my entire tribe inside the City to serve as servants.@@I hear they do horrible things to slaves in New Reno.@@Vault City rewards servants who work diligently with extra rations.@@I was lucky that Vault City had need of servants. I could have ended up in New Reno.@@The Citizens tell us that our service allows them time for more important matters.@@The Citizens teach us that work is its own reward.@@The Citizens told me that if I work hard enough, one day *I* could become a Citizen.@@Escape? Why? Life is good here.@@I was taken from a tribal village to the north, but life is much better here.@@I was first captured in the Den. Fortunately, I ended up here.@@I used to have two children, but they were shipped northwards. I hope they make their way here someday.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -175,7 +175,7 @@ lang=engl czec pols span russ
 {12000}{}{The Citizens treat me very well. The food here is excellent.@@The Citizens brought my entire tribe inside the City to serve as servants.@@I hear they do horrible things to slaves in New Reno.@@Vault City rewards servants who work diligently with extra rations.@@I was lucky that Vault City had need of servants. I could have ended up in New Reno.@@The Citizens tell us that our service allows them time for more important matters.@@The Citizens teach us that work is its own reward.@@The Citizens told me that if I work hard enough, one day *I* could become a Citizen.@@Escape? Why? Life is good here.@@I was taken from a tribal village to the north, but life is much better here.@@I was first captured in the Den. Fortunately, I ended up here.@@I used to have two children, but they were shipped northwards. I hope they make their way here someday.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -216,7 +216,7 @@ lang=engl czec pols span russ
 {12000}{}{The Citizens treat me very well. The food here is excellent.@@The Citizens brought my entire tribe inside the City to serve as servants.@@I hear they do horrible things to slaves in New Reno.@@Vault City rewards servants who work diligently with extra rations.@@I was lucky that Vault City had need of servants. I could have ended up in New Reno.@@The Citizens tell us that our service allows them time for more important matters.@@The Citizens teach us that work is its own reward.@@The Citizens told me that if I work hard enough, one day *I* could become a Citizen.@@Escape? Why? Life is good here.@@I was taken from a tribal village to the north, but life is much better here.@@I was first captured in the Den. Fortunately, I ended up here.@@I used to have two children, but they were shipped northwards. I hope they make their way here someday.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

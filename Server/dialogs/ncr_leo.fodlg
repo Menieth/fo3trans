@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {9000}{}{I shall think about it...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Yes? May I help you?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {9000}{}{I shall think about it...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Yes? May I help you?}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {9000}{}{I shall think about it...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Yes? May I help you?}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {9000}{}{I shall think about it...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Yes? May I help you?}

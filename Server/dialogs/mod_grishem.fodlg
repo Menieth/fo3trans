@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {12010}{}{Hm, I'll see what's up in Vault City.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{-}

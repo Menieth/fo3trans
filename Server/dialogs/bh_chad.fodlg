@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {12000}{}{Get out of my sight, you jerk.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Regular}
@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {12000}{}{Get out of my sight, you jerk.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Regular}
@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {12000}{}{Get out of my sight, you jerk.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Regular}
@@ -218,7 +218,7 @@ lang=engl czec pols span russ
 {12000}{}{Get out of my sight, you jerk.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Regular}

@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, child. Are you one of the Enlightened?}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, child. Are you one of the Enlightened?}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, child. Are you one of the Enlightened?}
@@ -138,7 +138,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, child. Are you one of the Enlightened?}

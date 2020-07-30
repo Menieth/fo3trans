@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{I don't want to hear your troubles right now. Take it to somebody else.@@You know, I don't have to put up with this - from you or anybody.@@Damn ex-wife took me for everything I had.@@She made a fool out of me, you know. Nobody makes a fool out of Jack.@@One of these days I'll show her. I'll show everybody...@@What you looking at? Scram!@@Bite me! This is Jack! People better listen to me now!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I don't want to hear your troubles right now. Take it to somebody else.@@You know, I don't have to put up with this - from you or anybody.@@Damn ex-wife took me for everything I had.@@She made a fool out of me, you know. Nobody makes a fool out of Jack.@@One of these days I'll show her. I'll show everybody...@@What you looking at? Scram!@@Bite me! This is Jack! People better listen to me now!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I don't want to hear your troubles right now. Take it to somebody else.@@You know, I don't have to put up with this - from you or anybody.@@Damn ex-wife took me for everything I had.@@She made a fool out of me, you know. Nobody makes a fool out of Jack.@@One of these days I'll show her. I'll show everybody...@@What you looking at? Scram!@@Bite me! This is Jack! People better listen to me now!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I don't want to hear your troubles right now. Take it to somebody else.@@You know, I don't have to put up with this - from you or anybody.@@Damn ex-wife took me for everything I had.@@She made a fool out of me, you know. Nobody makes a fool out of Jack.@@One of these days I'll show her. I'll show everybody...@@What you looking at? Scram!@@Bite me! This is Jack! People better listen to me now!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I don't want to hear your troubles right now. Take it to somebody else.@@You know, I don't have to put up with this - from you or anybody.@@Damn ex-wife took me for everything I had.@@She made a fool out of me, you know. Nobody makes a fool out of Jack.@@One of these days I'll show her. I'll show everybody...@@What you looking at? Scram!@@Bite me! This is Jack! People better listen to me now!}

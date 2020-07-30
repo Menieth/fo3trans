@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {19010}{}{Finally...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {19010}{}{Finally...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
@@ -241,7 +241,7 @@ lang=engl czec pols span russ
 {19010}{}{Finally...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}
@@ -300,7 +300,7 @@ lang=engl czec pols span russ
 {19010}{}{Finally...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome. ]}

@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {100000011}{}{I'd better get back to work.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -270,7 +270,7 @@ lang=engl czec pols span russ
 {22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}
@@ -333,7 +333,7 @@ lang=engl czec pols span russ
 {22000}{}{@lex faction@ Here I come! Thanks a million stranger.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{hired, before transfer}
 {1020}{}{not hirable anymore}

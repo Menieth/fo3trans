@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {23020}{}{I will be back later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -219,7 +219,7 @@ lang=engl czec pols span russ
 {23020}{}{I will be back later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -290,7 +290,7 @@ lang=engl czec pols span russ
 {23020}{}{I will be back later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}
@@ -361,7 +361,7 @@ lang=engl czec pols span russ
 {23020}{}{I will be back later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{Unknown}

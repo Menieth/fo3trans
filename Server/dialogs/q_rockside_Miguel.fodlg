@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {15000}{}{Great... Alright... Here we go. Now you can bring it back to Francis, it should work fine.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Howdy, partner!}

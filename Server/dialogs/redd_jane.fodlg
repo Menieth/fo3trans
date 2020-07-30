@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {7020}{}{@lex molerat2@ @lex money@ for a lovely molerat.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}
@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {7020}{}{@lex molerat2@ @lex money@ for a lovely molerat.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {7020}{}{@lex molerat2@ @lex money@ for a lovely molerat.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {7020}{}{@lex molerat2@ @lex money@ for a lovely molerat.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{-}
 {2000}{}{Hi, I'm Jane Jackpot. I manage fighting. But unfortunately, the fights are on hiatus. Sorry.}

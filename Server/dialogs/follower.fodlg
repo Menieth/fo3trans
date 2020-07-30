@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {100000001}{}{Time to kick some asses . . .@@Is it time again?@@It's time again!@@I am . . . so powerful . . .@@I feel stronger.@@Past experience has helped me to advance.@@I have reached another stage in my life.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -212,7 +212,7 @@ lang=engl czec pols span russ
 {20010}{}{[Done]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -280,7 +280,7 @@ lang=engl czec pols span russ
 {20010}{}{[Done]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}
@@ -348,7 +348,7 @@ lang=engl czec pols span russ
 {20010}{}{[Done]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ Is owner}
 {1020}{}{Not owner}

@@ -168,7 +168,7 @@ lang=engl czec pols span russ
 {27020}{}{Ahh, that's quite a lot, maybe next time.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{ia ciaeii}
@@ -248,7 +248,7 @@ lang=engl czec pols span russ
 {27020}{}{Ahh, that's quite a lot, maybe next time.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{ia ciaeii}
@@ -328,7 +328,7 @@ lang=engl czec pols span russ
 {27020}{}{Ahh, that's quite a lot, maybe next time.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{ia ciaeii}
@@ -408,7 +408,7 @@ lang=engl czec pols span russ
 {27020}{}{Ahh, that's quite a lot, maybe next time.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{ia ciaeii}

@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {5020}{}{I see. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default khan chat}
 {2000}{}{Yeah?}
@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 {5020}{}{I see. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default khan chat}
 {2000}{}{Yeah?}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {5020}{}{I see. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default khan chat}
 {2000}{}{Yeah?}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {5020}{}{I see. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default khan chat}
 {2000}{}{Yeah?}

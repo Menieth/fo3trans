@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {4000}{}{Fuck off, jackass.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. Wanna buy something?}

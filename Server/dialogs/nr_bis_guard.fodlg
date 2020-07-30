@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}
@@ -124,7 +124,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}
@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {9050}{}{(Scream and dive for cover)}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{ia ciaeii}

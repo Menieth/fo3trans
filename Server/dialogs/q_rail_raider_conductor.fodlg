@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {11010}{}{I'll see what can be done.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Train goes on!}
 {1020}{}{All fine, dude.}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {11010}{}{I'll see what can be done.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Train goes on!}
 {1020}{}{All fine, dude.}
@@ -153,7 +153,7 @@ lang=engl czec pols span russ
 {11010}{}{I'll see what can be done.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Train goes on!}
 {1020}{}{All fine, dude.}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {11010}{}{I'll see what can be done.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Train goes on!}
 {1020}{}{All fine, dude.}

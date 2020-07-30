@@ -165,7 +165,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -323,7 +323,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}
@@ -402,7 +402,7 @@ lang=engl czec pols span russ
 {23020}{}{Sorry, wrong door, I guess...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I dont know you}
 {1020}{}{Last caravan job done good.}

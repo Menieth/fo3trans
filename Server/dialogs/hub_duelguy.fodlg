@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {5010}{}{Seems clear enough.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hey there. Do you want to enter the duel? The bet is @lex bet@ @lex money@.}
@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {5010}{}{Seems clear enough.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hey there. Do you want to enter the duel? The bet is @lex bet@ @lex money@.}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {5010}{}{Seems clear enough.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hey there. Do you want to enter the duel? The bet is @lex bet@ @lex money@.}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {5010}{}{Seems clear enough.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hey there. Do you want to enter the duel? The bet is @lex bet@ @lex money@.}

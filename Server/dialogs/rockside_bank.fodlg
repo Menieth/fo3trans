@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {5000}{}{It was my pleasure.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, my friend. Do you need something?}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {5000}{}{It was my pleasure.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, my friend. Do you need something?}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {5000}{}{It was my pleasure.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, my friend. Do you need something?}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {5000}{}{It was my pleasure.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Greetings, my friend. Do you need something?}

@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {5000}{}{Why do you come here?@@Why can't you leave us alone?@@We're peaceful people, and we'd like to stay that way.@@Please don't cause trouble for us.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Answer text}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {5000}{}{Why do you come here?@@Why can't you leave us alone?@@We're peaceful people, and we'd like to stay that way.@@Please don't cause trouble for us.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Answer text}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {5000}{}{Why do you come here?@@Why can't you leave us alone?@@We're peaceful people, and we'd like to stay that way.@@Please don't cause trouble for us.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Answer text}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {5000}{}{Why do you come here?@@Why can't you leave us alone?@@We're peaceful people, and we'd like to stay that way.@@Please don't cause trouble for us.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Answer text}

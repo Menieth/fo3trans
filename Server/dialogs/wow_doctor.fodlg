@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {6010}{}{Sure, doc.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. May I assist you?}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {6010}{}{Sure, doc.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. May I assist you?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {6010}{}{Sure, doc.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. May I assist you?}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {6010}{}{Sure, doc.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. May I assist you?}

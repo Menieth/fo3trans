@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {4020}{}{Thank you. I'll get going now.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Collect rent quest.}
 {1020}{}{default}

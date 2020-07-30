@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 8 8000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Done}
 {1020}{}{Default}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {8000}{}{There's no response from the terminal.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Done}
 {1020}{}{Default}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {8000}{}{There's no response from the terminal.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Done}
 {1020}{}{Default}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {8000}{}{There's no response from the terminal.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Done}
 {1020}{}{Default}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {8000}{}{There's no response from the terminal.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Done}
 {1020}{}{Default}

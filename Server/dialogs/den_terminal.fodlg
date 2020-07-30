@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Back ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Error... Unable to load the operation system.}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Back ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Error... Unable to load the operation system.}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Back ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Error... Unable to load the operation system.}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Back ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Error... Unable to load the operation system.}

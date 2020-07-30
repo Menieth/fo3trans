@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {8010}{}{Let's dance.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You. State your business.}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {8010}{}{Let's dance.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You. State your business.}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {8010}{}{Let's dance.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You. State your business.}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {8010}{}{Let's dance.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{You. State your business.}

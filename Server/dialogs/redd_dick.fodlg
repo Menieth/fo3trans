@@ -126,7 +126,7 @@ lang=engl czec pols span russ
 {16020}{}{I think I've listened to you long enough. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}
@@ -185,7 +185,7 @@ lang=engl czec pols span russ
 {16020}{}{I think I've listened to you long enough. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {16020}{}{I think I've listened to you long enough. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}
@@ -303,7 +303,7 @@ lang=engl czec pols span russ
 {16020}{}{I think I've listened to you long enough. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeiiu}
 {1020}{}{ciaeiiu}

@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Any news around?@@I am on duty.@@Wonna hit in a local bar today, huh?@@Sorry, no time for chit chat?@@What is it?@@*sigh*@@No time for this.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Any news around?@@I am on duty.@@Wonna hit in a local bar today, huh?@@Sorry, no time for chit chat?@@What is it?@@*sigh*@@No time for this.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Any news around?@@I am on duty.@@Wonna hit in a local bar today, huh?@@Sorry, no time for chit chat?@@What is it?@@*sigh*@@No time for this.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Any news around?@@I am on duty.@@Wonna hit in a local bar today, huh?@@Sorry, no time for chit chat?@@What is it?@@*sigh*@@No time for this.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Any news around?@@I am on duty.@@Wonna hit in a local bar today, huh?@@Sorry, no time for chit chat?@@What is it?@@*sigh*@@No time for this.}

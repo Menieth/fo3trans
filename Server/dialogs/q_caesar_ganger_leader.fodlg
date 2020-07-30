@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {100000001}{}{Get him, boys!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, shithead. Hammilton says hello... [He aims his weapon at you.]}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {9000}{}{Very nice. Boys, let's go. That prick isn't worth the work anyway.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, shithead. Hammilton says hello... [He aims his weapon at you.]}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {9000}{}{Very nice. Boys, let's go. That prick isn't worth the work anyway.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, shithead. Hammilton says hello... [He aims his weapon at you.]}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {9000}{}{Very nice. Boys, let's go. That prick isn't worth the work anyway.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, shithead. Hammilton says hello... [He aims his weapon at you.]}

@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {100000001}{}{Get him, boys!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}
@@ -299,7 +299,7 @@ lang=engl czec pols span russ
 {25030}{}{I will think about it and come back later again...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}
@@ -396,7 +396,7 @@ lang=engl czec pols span russ
 {25030}{}{I will think about it and come back later again...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}
@@ -493,7 +493,7 @@ lang=engl czec pols span russ
 {25030}{}{I will think about it and come back later again...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{we are cool}
 {1020}{}{Talked already}

@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {7000}{}{Wha? Well I tell ya, you piece of shit I will beat the whole shit out of you... Eh... Who are you by the way?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The man holds a @lex prefix@ of beer in his right hand. ] Ay! Hell - o dere, child. How can I help you? [ gulps some beer ]}

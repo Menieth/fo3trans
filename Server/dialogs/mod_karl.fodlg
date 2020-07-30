@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {6000}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink, at which point he then passes out]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{idiot}
 {1020}{}{normal}

@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {14000}{}{Before you go... Please take these batteries. Have a good day.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {14000}{}{Before you go... Please take these batteries. Have a good day.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -153,7 +153,7 @@ lang=engl czec pols span russ
 {14000}{}{Before you go... Please take these batteries. Have a good day.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -190,7 +190,7 @@ lang=engl czec pols span russ
 {14000}{}{Before you go... Please take these batteries. Have a good day.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {9000}{}{Soldier, you are still out of uniform. I gave you a direct order to report to supplies and get your issue. Now, get out of my face and don’t come back until you look like a soldier!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Enclave member unknown}
 {1020}{}{Enclave member known}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {9000}{}{Soldier, you are still out of uniform. I gave you a direct order to report to supplies and get your issue. Now, get out of my face and don’t come back until you look like a soldier!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Enclave member unknown}
 {1020}{}{Enclave member known}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {9000}{}{Soldier, you are still out of uniform. I gave you a direct order to report to supplies and get your issue. Now, get out of my face and don’t come back until you look like a soldier!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Enclave member unknown}
 {1020}{}{Enclave member known}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {9000}{}{Soldier, you are still out of uniform. I gave you a direct order to report to supplies and get your issue. Now, get out of my face and don’t come back until you look like a soldier!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Enclave member unknown}
 {1020}{}{Enclave member known}

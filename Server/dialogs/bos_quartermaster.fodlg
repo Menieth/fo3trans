@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {20020}{}{Actually, I'd like to look at something else.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS}
 {1020}{}{Default}
@@ -229,7 +229,7 @@ lang=engl czec pols span russ
 {20020}{}{Actually, I'd like to look at something else.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS}
 {1020}{}{Default}
@@ -303,7 +303,7 @@ lang=engl czec pols span russ
 {20020}{}{Actually, I'd like to look at something else.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS}
 {1020}{}{Default}
@@ -377,7 +377,7 @@ lang=engl czec pols span russ
 {20020}{}{Actually, I'd like to look at something else.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS}
 {1020}{}{Default}

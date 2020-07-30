@@ -20,28 +20,28 @@ lang=engl czec pols span russ
 {2010}{}{Okay.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{My feet hurt.@@Time for some rest and relaxation.@@Guard duty has been pretty calm lately.@@Can't you see I'm trying to rest.@@Leave me alone I'm tired.}
 {2010}{}{Okay.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{My feet hurt.@@Time for some rest and relaxation.@@Guard duty has been pretty calm lately.@@Can't you see I'm trying to rest.@@Leave me alone I'm tired.}
 {2010}{}{Okay.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{My feet hurt.@@Time for some rest and relaxation.@@Guard duty has been pretty calm lately.@@Can't you see I'm trying to rest.@@Leave me alone I'm tired.}
 {2010}{}{Okay.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{My feet hurt.@@Time for some rest and relaxation.@@Guard duty has been pretty calm lately.@@Can't you see I'm trying to rest.@@Leave me alone I'm tired.}

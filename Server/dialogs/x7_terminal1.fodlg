@@ -20,7 +20,7 @@ lang=engl czec pols span russ
 2 4020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error. Unstable connection. ]}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error. Unstable connection. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error. Unstable connection. ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error. Unstable connection. ]}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Error. Unstable connection. ]}

@@ -196,7 +196,7 @@ lang=engl czec pols span russ
 {28000}{}{Sorry, clinic's, uh.. closed today!@@Sorry, I can't do anything for your face.@@Please, you're scaring my patients.@@I'm going to have to ask you to leave. I'm so sorry.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -290,7 +290,7 @@ lang=engl czec pols span russ
 {28000}{}{Sorry, clinic's, uh.. closed today!@@Sorry, I can't do anything for your face.@@Please, you're scaring my patients.@@I'm going to have to ask you to leave. I'm so sorry.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -384,7 +384,7 @@ lang=engl czec pols span russ
 {28000}{}{Sorry, clinic's, uh.. closed today!@@Sorry, I can't do anything for your face.@@Please, you're scaring my patients.@@I'm going to have to ask you to leave. I'm so sorry.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -478,7 +478,7 @@ lang=engl czec pols span russ
 {28000}{}{Sorry, clinic's, uh.. closed today!@@Sorry, I can't do anything for your face.@@Please, you're scaring my patients.@@I'm going to have to ask you to leave. I'm so sorry.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 2 7010 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {7010}{}{[ Back. ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The generator seems to be overheated. The steam comes out of it. ]}

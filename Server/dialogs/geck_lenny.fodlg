@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -184,7 +184,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -228,7 +228,7 @@ lang=engl czec pols span russ
 {13010}{}{Thanks Lenny. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

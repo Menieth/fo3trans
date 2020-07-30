@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {100000001}{}{a}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother her}
 {1020}{}{Hostile to good people}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother her}
 {1020}{}{Hostile to good people}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother her}
 {1020}{}{Hostile to good people}
@@ -277,7 +277,7 @@ lang=engl czec pols span russ
 {14000}{}{That's it man, you're history!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother her}
 {1020}{}{Hostile to good people}

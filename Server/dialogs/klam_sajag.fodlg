@@ -206,7 +206,7 @@ I run the place. What can I get for you?}
 {26000}{}{Hey, what can I get y-oh, jeez. Get out of here, y'freak!@@Shoo, SHOO!@@Boys, can someone take care of this freak for me?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Familiar}
@@ -306,7 +306,7 @@ I run the place. What can I get for you?}
 {26000}{}{Hey, what can I get y-oh, jeez. Get out of here, y'freak!@@Shoo, SHOO!@@Boys, can someone take care of this freak for me?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Familiar}
@@ -406,7 +406,7 @@ I run the place. What can I get for you?}
 {26000}{}{Hey, what can I get y-oh, jeez. Get out of here, y'freak!@@Shoo, SHOO!@@Boys, can someone take care of this freak for me?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Familiar}
@@ -506,7 +506,7 @@ I run the place. What can I get for you?}
 {26000}{}{Hey, what can I get y-oh, jeez. Get out of here, y'freak!@@Shoo, SHOO!@@Boys, can someone take care of this freak for me?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Familiar}

@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {5000}{}{Shoo, eejit!@@Don't be touchin' anythin'!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{Known}

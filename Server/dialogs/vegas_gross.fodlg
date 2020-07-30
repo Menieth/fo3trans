@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {6010}{}{Bloody door is locked! We need to unlock it.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{I guess I came to the wrong place... I will be going.}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {6010}{}{Bloody door is locked! We need to unlock it.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{I guess I came to the wrong place... I will be going.}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {6010}{}{Bloody door is locked! We need to unlock it.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{I guess I came to the wrong place... I will be going.}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {6010}{}{Bloody door is locked! We need to unlock it.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{I guess I came to the wrong place... I will be going.}

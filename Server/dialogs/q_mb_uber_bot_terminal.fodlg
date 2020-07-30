@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 0 7020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {200}{}{Vault-Tec security terminal.}
 {1000}{}{Predialogue installations}
 {1010}{}{Drzwi sa zamkniete}
@@ -63,7 +63,7 @@ Vault Tec watches over your safety. With us you will always be safe!}
 {7020}{}{Log off terminal.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Drzwi sa zamkniete}
 {1020}{}{Drzwi sa otwarte}
@@ -94,7 +94,7 @@ Vault Tec watches over your safety. With us you will always be safe!}
 {7020}{}{Log off terminal.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Drzwi sa zamkniete}
 {1020}{}{Drzwi sa otwarte}
@@ -125,7 +125,7 @@ Vault Tec watches over your safety. With us you will always be safe!}
 {7020}{}{Log off terminal.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Drzwi sa zamkniete}
 {1020}{}{Drzwi sa otwarte}
@@ -156,7 +156,7 @@ Vault Tec watches over your safety. With us you will always be safe!}
 {7020}{}{Log off terminal.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Drzwi sa zamkniete}
 {1020}{}{Drzwi sa otwarte}

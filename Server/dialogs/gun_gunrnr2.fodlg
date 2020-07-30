@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {6020}{}{Not yet.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{inside facility}
 {1020}{}{allowed to enter, good reputation}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {6020}{}{Not yet.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{inside facility}
 {1020}{}{allowed to enter, good reputation}
@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {6020}{}{Not yet.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{inside facility}
 {1020}{}{allowed to enter, good reputation}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {6020}{}{Not yet.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{inside facility}
 {1020}{}{allowed to enter, good reputation}

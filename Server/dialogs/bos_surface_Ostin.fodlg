@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {12000}{}{You did it! Great! You really saved my live, wastelander. Here is your reward, as I promised.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. What is it, wastelander?}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {12000}{}{You did it! Great! You really saved my live, wastelander. Here is your reward, as I promised.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. What is it, wastelander?}
@@ -153,7 +153,7 @@ lang=engl czec pols span russ
 {12000}{}{You did it! Great! You really saved my live, wastelander. Here is your reward, as I promised.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. What is it, wastelander?}
@@ -190,7 +190,7 @@ lang=engl czec pols span russ
 {12000}{}{You did it! Great! You really saved my live, wastelander. Here is your reward, as I promised.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day. What is it, wastelander?}

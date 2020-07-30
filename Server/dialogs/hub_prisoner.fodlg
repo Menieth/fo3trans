@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I didn't kill anyone!@@I'm innocent!@@What are you lookin' at?@@I was just borrowing it.  Honest!@@Where's my bread and water?@@I've been framed!@@Nobody knows 'da trouble I seen...}

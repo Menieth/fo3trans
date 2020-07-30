@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {4000}{}{Get in, soldier.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Your pass?}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {4000}{}{Get in, soldier.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Your pass?}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {4000}{}{Get in, soldier.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Your pass?}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {4000}{}{Get in, soldier.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Your pass?}

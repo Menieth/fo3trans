@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {10010}{}{Thanks for your time, Miller. I think I'm gonna try it out by myself now, bye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Standard khan chatter}
 {2000}{}{Hey, what's up?}
@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {10010}{}{Thanks for your time, Miller. I think I'm gonna try it out by myself now, bye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Standard khan chatter}
 {2000}{}{Hey, what's up?}
@@ -149,7 +149,7 @@ lang=engl czec pols span russ
 {10010}{}{Thanks for your time, Miller. I think I'm gonna try it out by myself now, bye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Standard khan chatter}
 {2000}{}{Hey, what's up?}
@@ -184,7 +184,7 @@ lang=engl czec pols span russ
 {10010}{}{Thanks for your time, Miller. I think I'm gonna try it out by myself now, bye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Standard khan chatter}
 {2000}{}{Hey, what's up?}

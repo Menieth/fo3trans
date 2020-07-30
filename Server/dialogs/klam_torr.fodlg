@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {10000}{}{No! Badder! Bad no hurt Torr! }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Smart}
 {1020}{}{Dumb}

@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {5020}{}{[Back]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{JOBS! (Please do not put up duplicated messages.)}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {5020}{}{[Back]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{JOBS! (Please do not put up duplicated messages.)}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {5020}{}{[Back]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{JOBS! (Please do not put up duplicated messages.)}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {5020}{}{[Back]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{JOBS! (Please do not put up duplicated messages.)}

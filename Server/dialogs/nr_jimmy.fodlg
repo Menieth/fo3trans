@@ -285,7 +285,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -423,7 +423,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -561,7 +561,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}
@@ -699,7 +699,7 @@ lang=engl czec pols span russ
 {40000}{}{Always bothering me with their stupid questions, those brickheads...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Known}

@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {8000}{}{I'll leave you some scraps out back.@@Oh, you poor thing.@@Please! Folks, it's rude to stare!@@I'm sorry, they can't quit staring.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {8000}{}{I'll leave you some scraps out back.@@Oh, you poor thing.@@Please! Folks, it's rude to stare!@@I'm sorry, they can't quit staring.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {8000}{}{I'll leave you some scraps out back.@@Oh, you poor thing.@@Please! Folks, it's rude to stare!@@I'm sorry, they can't quit staring.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {8000}{}{I'll leave you some scraps out back.@@Oh, you poor thing.@@Please! Folks, it's rude to stare!@@I'm sorry, they can't quit staring.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Unknown}

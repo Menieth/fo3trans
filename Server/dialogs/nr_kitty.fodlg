@@ -272,7 +272,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -405,7 +405,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -538,7 +538,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}
@@ -671,7 +671,7 @@ lang=engl czec pols span russ
 {38020}{}{Incredible! Sorry that I must leave you be now, bye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Ugly/Agile}

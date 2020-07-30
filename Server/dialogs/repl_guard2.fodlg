@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Honey, if you like, you can stay as long as you want.@@You want to come back in my bed, honey?@@You should be way more careful, lady.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Answer text}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Honey, if you like, you can stay as long as you want.@@You want to come back in my bed, honey?@@You should be way more careful, lady.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Answer text}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Honey, if you like, you can stay as long as you want.@@You want to come back in my bed, honey?@@You should be way more careful, lady.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Answer text}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Honey, if you like, you can stay as long as you want.@@You want to come back in my bed, honey?@@You should be way more careful, lady.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Answer text}

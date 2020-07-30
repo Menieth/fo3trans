@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{We don't support standart bank services. The standart FLC bank is in Shady Sands.@@This is a special taxation management bank. We do not work with clients and accounts.@@Please visit Shady Sands and talk with FLC manager there. This bank is not for standart clients.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{We don't support standart bank services. The standart FLC bank is in Shady Sands.@@This is a special taxation management bank. We do not work with clients and accounts.@@Please visit Shady Sands and talk with FLC manager there. This bank is not for standart clients.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{We don't support standart bank services. The standart FLC bank is in Shady Sands.@@This is a special taxation management bank. We do not work with clients and accounts.@@Please visit Shady Sands and talk with FLC manager there. This bank is not for standart clients.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{We don't support standart bank services. The standart FLC bank is in Shady Sands.@@This is a special taxation management bank. We do not work with clients and accounts.@@Please visit Shady Sands and talk with FLC manager there. This bank is not for standart clients.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{We don't support standart bank services. The standart FLC bank is in Shady Sands.@@This is a special taxation management bank. We do not work with clients and accounts.@@Please visit Shady Sands and talk with FLC manager there. This bank is not for standart clients.}

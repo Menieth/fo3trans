@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Monsters started to attack us more frequently.@@Hello?@@Can I help you?@@You must be new here.@@I suggest you to speak with Doctor, he can explain you everything.@@This place becomes more and more strange...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Monsters started to attack us more frequently.@@Hello?@@Can I help you?@@You must be new here.@@I suggest you to speak with Doctor, he can explain you everything.@@This place becomes more and more strange...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Monsters started to attack us more frequently.@@Hello?@@Can I help you?@@You must be new here.@@I suggest you to speak with Doctor, he can explain you everything.@@This place becomes more and more strange...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Monsters started to attack us more frequently.@@Hello?@@Can I help you?@@You must be new here.@@I suggest you to speak with Doctor, he can explain you everything.@@This place becomes more and more strange...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Monsters started to attack us more frequently.@@Hello?@@Can I help you?@@You must be new here.@@I suggest you to speak with Doctor, he can explain you everything.@@This place becomes more and more strange...}

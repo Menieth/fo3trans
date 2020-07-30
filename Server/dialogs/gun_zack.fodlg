@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {11040}{}{Sorry, bro. I've just to go make something more important... (you move away quickly in the direction of toilet).}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Insulted}
 {1020}{}{No gun skills}

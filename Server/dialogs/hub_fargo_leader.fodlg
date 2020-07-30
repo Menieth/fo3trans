@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {12000}{}{No job today}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player already got a job this ingame day.}
 {1020}{}{Player already is guard, waiting for caravan start.}
@@ -126,7 +126,7 @@ lang=engl czec pols span russ
 {12000}{}{No job today}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player already got a job this ingame day.}
 {1020}{}{Player already is guard, waiting for caravan start.}
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {12000}{}{No job today}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player already got a job this ingame day.}
 {1020}{}{Player already is guard, waiting for caravan start.}
@@ -206,7 +206,7 @@ lang=engl czec pols span russ
 {12000}{}{No job today}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player already got a job this ingame day.}
 {1020}{}{Player already is guard, waiting for caravan start.}

@@ -21,25 +21,25 @@ lang=engl czec pols span russ
 {2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{*Ding*@@*Bing*@@*Kaaa-ching*@@*Zzzzzzz*@@*Ring-a-ling*@@*Dingity-ding*}

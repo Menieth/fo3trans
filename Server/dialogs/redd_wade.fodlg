@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you moron.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

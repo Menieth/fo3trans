@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Wh... Who the hell are you?@@How did you get here? Get out of my office!@@I have no time for chit chatting with you!}

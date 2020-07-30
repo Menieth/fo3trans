@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -261,7 +261,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -346,7 +346,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}
@@ -431,7 +431,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks Aldo. Maybe I'll get you some more later. See you around.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{ugly}

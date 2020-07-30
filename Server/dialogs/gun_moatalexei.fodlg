@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {10010}{}{Hey thanks! See you later!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {10010}{}{Hey thanks! See you later!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {10010}{}{Hey thanks! See you later!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {10010}{}{Hey thanks! See you later!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got reward for town riders.}
 {1020}{}{No charisma}

@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {9000}{}{Yeah, yeah... You all say such.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {9000}{}{Yeah, yeah... You all say such.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {9000}{}{Yeah, yeah... You all say such.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {9000}{}{Yeah, yeah... You all say such.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }

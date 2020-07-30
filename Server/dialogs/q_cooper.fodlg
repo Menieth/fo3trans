@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}
@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {16000}{}{Hello@@What can I do for you?@@ Yes?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Wrong player!}
 {1020}{}{You walk in to the house or whatever}

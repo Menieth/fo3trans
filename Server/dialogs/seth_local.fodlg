@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Are you from the capital?@@You ain't local, are you?@@What is it?@@Do I know you.@@"What a boring place..." you may thing.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Are you from the capital?@@You ain't local, are you?@@What is it?@@Do I know you.@@"What a boring place..." you may thing.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Are you from the capital?@@You ain't local, are you?@@What is it?@@Do I know you.@@"What a boring place..." you may thing.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Are you from the capital?@@You ain't local, are you?@@What is it?@@Do I know you.@@"What a boring place..." you may thing.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Are you from the capital?@@You ain't local, are you?@@What is it?@@Do I know you.@@"What a boring place..." you may thing.}

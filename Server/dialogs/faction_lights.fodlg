@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 4 9120 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -249,7 +249,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}
@@ -310,7 +310,7 @@ lang=engl czec pols span russ
 {9120}{}{[Back to Main Menu]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to exit}
 {2000}{}{Vault-Tec... Light System Control initializing... done...}

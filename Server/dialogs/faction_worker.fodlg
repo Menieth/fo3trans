@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {100000042}{}{Choose the action you want to perform:}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm keep working partner}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}
@@ -245,7 +245,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm keep working partner}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}
@@ -299,7 +299,7 @@ lang=engl czec pols span russ
 {12000}{}{I'm keep working partner}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{non-member}

@@ -16,7 +16,7 @@ lang=engl czec pols span russ
 0 3020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{As mayor of this city, I'm warning all good people of our town: be brave and don't panic---we need to be together in this hard times. Our local meteorological center informs, that huge radioactive storms are coming to our area. Please, don't rush and try to prevent any chaos: we still have several days until then, so prepare to evacuate calmly in the nearest days with your families. We will try to coordinate all citizens into the one single movement, to increase safety of people. Get ready to check next info-messages in the next 24 hours. }
@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{As mayor of this city, I'm warning all good people of our town: be brave and don't panic---we need to be together in this hard times. Our local meteorological center informs, that huge radioactive storms are coming to our area. Please, don't rush and try to prevent any chaos: we still have several days until then, so prepare to evacuate calmly in the nearest days with your families. We will try to coordinate all citizens into the one single movement, to increase safety of people. Get ready to check next info-messages in the next 24 hours. }
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{As mayor of this city, I'm warning all good people of our town: be brave and don't panic---we need to be together in this hard times. Our local meteorological center informs, that huge radioactive storms are coming to our area. Please, don't rush and try to prevent any chaos: we still have several days until then, so prepare to evacuate calmly in the nearest days with your families. We will try to coordinate all citizens into the one single movement, to increase safety of people. Get ready to check next info-messages in the next 24 hours. }
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{As mayor of this city, I'm warning all good people of our town: be brave and don't panic---we need to be together in this hard times. Our local meteorological center informs, that huge radioactive storms are coming to our area. Please, don't rush and try to prevent any chaos: we still have several days until then, so prepare to evacuate calmly in the nearest days with your families. We will try to coordinate all citizens into the one single movement, to increase safety of people. Get ready to check next info-messages in the next 24 hours. }
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{As mayor of this city, I'm warning all good people of our town: be brave and don't panic---we need to be together in this hard times. Our local meteorological center informs, that huge radioactive storms are coming to our area. Please, don't rush and try to prevent any chaos: we still have several days until then, so prepare to evacuate calmly in the nearest days with your families. We will try to coordinate all citizens into the one single movement, to increase safety of people. Get ready to check next info-messages in the next 24 hours. }

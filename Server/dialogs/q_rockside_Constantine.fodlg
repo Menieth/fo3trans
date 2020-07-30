@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {22020}{}{Listen, it is important because...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -196,7 +196,7 @@ lang=engl czec pols span russ
 {22020}{}{Listen, it is important because...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -259,7 +259,7 @@ lang=engl czec pols span russ
 {22020}{}{Listen, it is important because...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {22020}{}{Listen, it is important because...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

@@ -17,7 +17,7 @@ lang=engl czec pols span russ
 0 3020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {3020}{}{[Don't go yet.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}

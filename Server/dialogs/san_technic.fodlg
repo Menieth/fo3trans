@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Oooau!}
 {1020}{}{2}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Oooau!}
 {1020}{}{2}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Oooau!}
 {1020}{}{2}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{I think you've gotten yourself lost.@@Leave, immediately.@@I have to work, leave me alone or I'll call the guards.@@I can't understand you, sorry.@@What are you doing here?@@You shouldn't be here. Turn around and walk away.@@You are disturbing my experiments! Out!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Oooau!}
 {1020}{}{2}

@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -196,7 +196,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -259,7 +259,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}
@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {18020}{}{About time. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{unknown}

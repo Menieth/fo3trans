@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {8030}{}{Oh you better get your @lex money@ here before I blow your head off.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Great! Thank you for it.}
 {2000}{}{Ah... hello. Haven't noticed you coming in. May I help you?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {8030}{}{Oh you better get your @lex money@ here before I blow your head off.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Great! Thank you for it.}
 {2000}{}{Ah... hello. Haven't noticed you coming in. May I help you?}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {8030}{}{Oh you better get your @lex money@ here before I blow your head off.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Great! Thank you for it.}
 {2000}{}{Ah... hello. Haven't noticed you coming in. May I help you?}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {8030}{}{Oh you better get your @lex money@ here before I blow your head off.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Great! Thank you for it.}
 {2000}{}{Ah... hello. Haven't noticed you coming in. May I help you?}

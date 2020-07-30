@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {25020}{}{That's all I need to know for the moment. See you later, Doc.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{Dumb *DEV NOTE: Deactivated for now.*}
@@ -266,7 +266,7 @@ lang=engl czec pols span russ
 {25020}{}{That's all I need to know for the moment. See you later, Doc.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{Dumb *DEV NOTE: Deactivated for now.*}
@@ -352,7 +352,7 @@ lang=engl czec pols span russ
 {25020}{}{That's all I need to know for the moment. See you later, Doc.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{Dumb *DEV NOTE: Deactivated for now.*}
@@ -438,7 +438,7 @@ lang=engl czec pols span russ
 {25020}{}{That's all I need to know for the moment. See you later, Doc.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{Dumb *DEV NOTE: Deactivated for now.*}

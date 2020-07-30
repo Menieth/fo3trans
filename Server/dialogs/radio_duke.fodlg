@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {10020}{}{Oh that won't be enough. But I am sure that your death can make my day brighter.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. What's up?}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {10020}{}{Oh that won't be enough. But I am sure that your death can make my day brighter.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. What's up?}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {10020}{}{Oh that won't be enough. But I am sure that your death can make my day brighter.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. What's up?}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {10020}{}{Oh that won't be enough. But I am sure that your death can make my day brighter.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo. What's up?}

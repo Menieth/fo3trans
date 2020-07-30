@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {4000}{}{Nothing to report, Sir.@@Back to my duty, Sir.@@I have sent my reports to the Lost Hills two weeks ago, Sir.@@We are missing some better equipment, Sir.@@All my observations are in my reports, Sir.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{non-BoS}
 {1020}{}{BoS low rank}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {4000}{}{Nothing to report, Sir.@@Back to my duty, Sir.@@I have sent my reports to the Lost Hills two weeks ago, Sir.@@We are missing some better equipment, Sir.@@All my observations are in my reports, Sir.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{non-BoS}
 {1020}{}{BoS low rank}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {4000}{}{Nothing to report, Sir.@@Back to my duty, Sir.@@I have sent my reports to the Lost Hills two weeks ago, Sir.@@We are missing some better equipment, Sir.@@All my observations are in my reports, Sir.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{non-BoS}
 {1020}{}{BoS low rank}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4000}{}{Nothing to report, Sir.@@Back to my duty, Sir.@@I have sent my reports to the Lost Hills two weeks ago, Sir.@@We are missing some better equipment, Sir.@@All my observations are in my reports, Sir.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{non-BoS}
 {1020}{}{BoS low rank}

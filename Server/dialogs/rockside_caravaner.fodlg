@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Do you need something?@@I am busy.@@So freaking hot again.@@Hey, don't waste my time, ok?@@No time for chit chat.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Do you need something?@@I am busy.@@So freaking hot again.@@Hey, don't waste my time, ok?@@No time for chit chat.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Do you need something?@@I am busy.@@So freaking hot again.@@Hey, don't waste my time, ok?@@No time for chit chat.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Do you need something?@@I am busy.@@So freaking hot again.@@Hey, don't waste my time, ok?@@No time for chit chat.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Do you need something?@@I am busy.@@So freaking hot again.@@Hey, don't waste my time, ok?@@No time for chit chat.}

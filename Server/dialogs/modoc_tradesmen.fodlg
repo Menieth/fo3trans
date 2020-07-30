@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {14020}{}{I see, thank you. That's it for now, goodbye Sean.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{ugly}
 {1020}{}{Idiot}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {14020}{}{I see, thank you. That's it for now, goodbye Sean.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{ugly}
 {1020}{}{Idiot}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {14020}{}{I see, thank you. That's it for now, goodbye Sean.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{ugly}
 {1020}{}{Idiot}
@@ -277,7 +277,7 @@ lang=engl czec pols span russ
 {14020}{}{I see, thank you. That's it for now, goodbye Sean.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{ugly}
 {1020}{}{Idiot}

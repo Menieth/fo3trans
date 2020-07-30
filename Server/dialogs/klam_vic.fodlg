@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}
@@ -239,7 +239,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}
@@ -297,7 +297,7 @@ lang=engl czec pols span russ
 {15020}{}{Fine. Forget it. I'm leaving.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bad}
 {1020}{}{unknown}

@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {7000}{}{Be careful inside the pen, the brahmin are domesticated but they are still unpredictable animals.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Whaddya want? Can't you see I'm working here?@@No time for chit-chat, you wanted something or not?}

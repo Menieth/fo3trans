@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 0 26010 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -349,7 +349,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}
@@ -435,7 +435,7 @@ lang=engl czec pols span russ
 {26010}{}{Oops.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Pick up on setting existing contract}
 {1020}{}{Room is busy}

@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {15020}{}{Nah, I don't care about your mumbling.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes? Can I help you?}
@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {15020}{}{Nah, I don't care about your mumbling.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes? Can I help you?}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {15020}{}{Nah, I don't care about your mumbling.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes? Can I help you?}
@@ -220,7 +220,7 @@ lang=engl czec pols span russ
 {15020}{}{Nah, I don't care about your mumbling.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes? Can I help you?}

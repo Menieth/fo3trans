@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {14010}{}{Thanks Baltas, I'll do my best to put this knowledge to good use.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{finished his little fetchquest}
 {1020}{}{Answer text}

@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 {4000}{}{Moo, I'm a cow.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Moo, I'm a cow.}
 {1020}{}{Ioaao}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {4000}{}{Moo, I'm a cow.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Moo, I'm a cow.}
 {1020}{}{Ioaao}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {4000}{}{Moo, I'm a cow.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Moo, I'm a cow.}
 {1020}{}{Ioaao}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {4000}{}{Moo, I'm a cow.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Moo, I'm a cow.}
 {1020}{}{Ioaao}

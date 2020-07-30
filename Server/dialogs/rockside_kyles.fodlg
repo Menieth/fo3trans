@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {8010}{}{I see...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it you want?}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {8010}{}{I see...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it you want?}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {8010}{}{I see...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it you want?}
@@ -132,7 +132,7 @@ lang=engl czec pols span russ
 {8010}{}{I see...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. What is it you want?}

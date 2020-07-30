@@ -16,7 +16,7 @@ lang=engl czec pols span russ
 0 3020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -30,7 +30,7 @@ After several changes (including more comfortable grip and trigger system), test
 {3020}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -44,7 +44,7 @@ After several changes (including more comfortable grip and trigger system), test
 {3020}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -58,7 +58,7 @@ After several changes (including more comfortable grip and trigger system), test
 {3020}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -72,7 +72,7 @@ After several changes (including more comfortable grip and trigger system), test
 {3020}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}

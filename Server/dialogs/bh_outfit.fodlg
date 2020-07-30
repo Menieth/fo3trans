@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {15000}{}{Sorry, kid, but I can’t make out a word of what you’re saying. Have a lollipop.@@Ah, dangit. I hate it when these freaks come outta the woodwork.@@I thought we saw the last of these freaks out on the road.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Idiot}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {15000}{}{Sorry, kid, but I can’t make out a word of what you’re saying. Have a lollipop.@@Ah, dangit. I hate it when these freaks come outta the woodwork.@@I thought we saw the last of these freaks out on the road.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Idiot}
@@ -228,7 +228,7 @@ lang=engl czec pols span russ
 {15000}{}{Sorry, kid, but I can’t make out a word of what you’re saying. Have a lollipop.@@Ah, dangit. I hate it when these freaks come outta the woodwork.@@I thought we saw the last of these freaks out on the road.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Idiot}
@@ -283,7 +283,7 @@ lang=engl czec pols span russ
 {15000}{}{Sorry, kid, but I can’t make out a word of what you’re saying. Have a lollipop.@@Ah, dangit. I hate it when these freaks come outta the woodwork.@@I thought we saw the last of these freaks out on the road.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Idiot}

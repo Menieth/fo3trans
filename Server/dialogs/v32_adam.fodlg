@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {12000}{}{Thank you, kindly. Here is your badge,}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

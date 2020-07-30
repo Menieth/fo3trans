@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {6020}{}{Oh, sorry, I don't have the money on me, must have misplaced them somewhere...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Normal}
 {2000}{}{What can I get you?}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {6020}{}{Oh, sorry, I don't have the money on me, must have misplaced them somewhere...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Normal}
 {2000}{}{What can I get you?}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {6020}{}{Oh, sorry, I don't have the money on me, must have misplaced them somewhere...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Normal}
 {2000}{}{What can I get you?}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {6020}{}{Oh, sorry, I don't have the money on me, must have misplaced them somewhere...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Normal}
 {2000}{}{What can I get you?}

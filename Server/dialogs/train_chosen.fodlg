@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {9140}{}{Cannibal}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {9140}{}{Cannibal}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {9140}{}{Cannibal}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {9140}{}{Cannibal}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Hello, can I help you with something?}

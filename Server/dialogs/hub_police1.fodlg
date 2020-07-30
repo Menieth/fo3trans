@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 {4000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Put that away unless you want some jail time.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@We don't allow kill'n here, even if it is justified.@@Keep that weapon under control while you're in our city.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@If you have business with the Hub police, talk to Sheriff Hayden.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {4000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Put that away unless you want some jail time.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@We don't allow kill'n here, even if it is justified.@@Keep that weapon under control while you're in our city.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@If you have business with the Hub police, talk to Sheriff Hayden.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {4000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Put that away unless you want some jail time.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@We don't allow kill'n here, even if it is justified.@@Keep that weapon under control while you're in our city.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@If you have business with the Hub police, talk to Sheriff Hayden.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {4000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Put that away unless you want some jail time.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@We don't allow kill'n here, even if it is justified.@@Keep that weapon under control while you're in our city.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@If you have business with the Hub police, talk to Sheriff Hayden.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}

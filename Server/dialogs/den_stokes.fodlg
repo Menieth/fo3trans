@@ -203,7 +203,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}
@@ -299,7 +299,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}
@@ -395,7 +395,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}
@@ -491,7 +491,7 @@ lang=engl czec pols span russ
 {38000}{}{Hey, what's happening, @pname@?@@Come to kick back for a bit?@@Pull up a chair man@@"I'm just a teenage dirtbag, baby"}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You didnt start the quest yet}
 {1020}{}{You started the quest}

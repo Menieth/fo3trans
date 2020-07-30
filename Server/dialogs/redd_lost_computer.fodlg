@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 0 8010 R _script map_redding_lost@r_Leader 1 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {200}{}{You see a computer.}
 {210}{}{You see a computer.}
 {1000}{}{Predialogue installations}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}
@@ -132,7 +132,7 @@ lang=engl czec pols span russ
 {8010}{}{Ok, ok...why do the damn things always need to be rebooted...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{capable}
 {1020}{}{incapable}

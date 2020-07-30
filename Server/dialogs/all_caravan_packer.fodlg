@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {8010}{}{Okay.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got the unloading job.}
 {1020}{}{We are talking the first time.}
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {8010}{}{Okay.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got the unloading job.}
 {1020}{}{We are talking the first time.}
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {8010}{}{Okay.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got the unloading job.}
 {1020}{}{We are talking the first time.}
@@ -142,7 +142,7 @@ lang=engl czec pols span russ
 {8010}{}{Okay.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Got the unloading job.}
 {1020}{}{We are talking the first time.}

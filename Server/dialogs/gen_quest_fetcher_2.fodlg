@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey you.@@Hi again.@@::Waves::@@Thanks for before.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Return with booze.}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey you.@@Hi again.@@::Waves::@@Thanks for before.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Return with booze.}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey you.@@Hi again.@@::Waves::@@Thanks for before.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Return with booze.}
@@ -168,7 +168,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey you.@@Hi again.@@::Waves::@@Thanks for before.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Return with booze.}

@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3020}{}{I'm up for that.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Huuh?}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3020}{}{I'm up for that.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Huuh?}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3020}{}{I'm up for that.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Huuh?}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{I'm up for that.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Huuh?}

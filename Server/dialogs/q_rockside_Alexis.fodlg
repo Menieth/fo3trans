@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}
@@ -207,7 +207,7 @@ lang=engl czec pols span russ
 {11030}{}{Hey... it was easy.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Good day, may I help you?}

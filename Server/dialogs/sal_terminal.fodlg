@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 6 6000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Hello! It is Supercomputer Max 3000 speaking. May I help you? ]}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {6000}{}{[ You have 4 minutes. ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Hello! It is Supercomputer Max 3000 speaking. May I help you? ]}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {6000}{}{[ You have 4 minutes. ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Hello! It is Supercomputer Max 3000 speaking. May I help you? ]}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {6000}{}{[ You have 4 minutes. ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Hello! It is Supercomputer Max 3000 speaking. May I help you? ]}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {6000}{}{[ You have 4 minutes. ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Hello! It is Supercomputer Max 3000 speaking. May I help you? ]}

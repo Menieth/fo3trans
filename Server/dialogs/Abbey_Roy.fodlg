@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Leave ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Brotherhood outpost Delta terminal. ]}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Leave ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Brotherhood outpost Delta terminal. ]}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Leave ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Brotherhood outpost Delta terminal. ]}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3010}{}{[ Leave ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Brotherhood outpost Delta terminal. ]}

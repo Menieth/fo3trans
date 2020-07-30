@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {5010}{}{Uh, okay.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ia ciaao eiaie}
 {1020}{}{ }

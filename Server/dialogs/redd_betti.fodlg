@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Get out of here, fuckface.@@You couldn't show me where to go with a roadmap.@@What are you looking at, dipshit?@@I'll settle your fucking hash.@@What the hell are you looking at?@@What do you want, dipshit?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get out of here, fuckface.@@You couldn't show me where to go with a roadmap.@@What are you looking at, dipshit?@@I'll settle your fucking hash.@@What the hell are you looking at?@@What do you want, dipshit?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get out of here, fuckface.@@You couldn't show me where to go with a roadmap.@@What are you looking at, dipshit?@@I'll settle your fucking hash.@@What the hell are you looking at?@@What do you want, dipshit?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get out of here, fuckface.@@You couldn't show me where to go with a roadmap.@@What are you looking at, dipshit?@@I'll settle your fucking hash.@@What the hell are you looking at?@@What do you want, dipshit?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get out of here, fuckface.@@You couldn't show me where to go with a roadmap.@@What are you looking at, dipshit?@@I'll settle your fucking hash.@@What the hell are you looking at?@@What do you want, dipshit?}

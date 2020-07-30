@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 {10000}{}{::Wheezes::}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mordino}
 {1020}{}{joined faction}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {10000}{}{::Wheezes::}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mordino}
 {1020}{}{joined faction}
@@ -124,7 +124,7 @@ lang=engl czec pols span russ
 {10000}{}{::Wheezes::}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mordino}
 {1020}{}{joined faction}
@@ -153,7 +153,7 @@ lang=engl czec pols span russ
 {10000}{}{::Wheezes::}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{mordino}
 {1020}{}{joined faction}

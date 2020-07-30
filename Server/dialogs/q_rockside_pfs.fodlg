@@ -97,7 +97,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }
@@ -146,7 +146,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }
@@ -195,7 +195,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }
@@ -244,7 +244,7 @@ Suddenly, US Army soldiers met you at your path. They demand you give them all t
 {12010}{}{Who even made this crap?!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{ }

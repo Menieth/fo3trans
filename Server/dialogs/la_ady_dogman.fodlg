@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {10020}{}{I can't afford that yet.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -97,7 +97,7 @@ lang=engl czec pols span russ
 {10020}{}{I can't afford that yet.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {10020}{}{I can't afford that yet.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {10020}{}{I can't afford that yet.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}

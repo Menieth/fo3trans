@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {12010}{}{I am on my way.@@Thanks for the informations. I am on my way.@@Ok, I keep going. Thanks.@@Yay, on my way.@@God, I need to be faster.@@Well, well. I am moving on!@@No time to talk, need to go on!@@This damn car will be mine!@@Money, money, money!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stage 1 -- start!}
 {1020}{}{I know about Stage 2!}

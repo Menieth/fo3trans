@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {10010}{}{Will do.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings, and welcome to Gordon's general store. What may I do for you?}

@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {4000}{}{Thank you @sex@|sir||ma'am|!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Talk}
 {1020}{}{Hooray! Here, it's for you @sex@|sir||ma'am|!}

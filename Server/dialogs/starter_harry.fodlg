@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {7020}{}{Alright, thanks kid.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Whatcha want?}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {7020}{}{Alright, thanks kid.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Whatcha want?}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {7020}{}{Alright, thanks kid.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Whatcha want?}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {7020}{}{Alright, thanks kid.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Whatcha want?}

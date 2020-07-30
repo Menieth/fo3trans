@@ -97,7 +97,7 @@ lang=engl czec pols span russ
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -142,7 +142,7 @@ lang=engl czec pols span russ
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}
@@ -232,7 +232,7 @@ lang=engl czec pols span russ
 {12030}{}{Nah, I don't want this type. What are my other options?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want?}

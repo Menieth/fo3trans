@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
@@ -156,7 +156,7 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}
@@ -194,7 +194,7 @@ lang=engl czec pols span russ
 {10020}{}{Pff... You still sound pathetic.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you need, fresher?}

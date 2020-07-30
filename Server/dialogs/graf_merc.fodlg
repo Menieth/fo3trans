@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{I can't talk with you now.@@The shop is inside, just come in.@@Not now...@@Weclome to Van Graffs.@@We sell best weapons. Come in and choose one.@@Hey.}

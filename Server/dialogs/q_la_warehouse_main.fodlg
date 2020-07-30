@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}
@@ -277,7 +277,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}
@@ -367,7 +367,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}
@@ -457,7 +457,7 @@ lang=engl czec pols span russ
 {27010}{}{[End]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Step #1}
 {1020}{}{Step #2}

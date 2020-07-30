@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{I know you.}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{I know you.}
@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{I know you.}
@@ -194,7 +194,7 @@ lang=engl czec pols span russ
 {11010}{}{Thank you for providing me with such a unique piece of knowledge. Farewell!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{I know you.}

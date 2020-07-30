@@ -510,7 +510,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -759,7 +759,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -1008,7 +1008,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}
@@ -1257,7 +1257,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {75000}{}{Guards, get those retards!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaverun}
 {1020}{}{mordino delivery quest, slaver}

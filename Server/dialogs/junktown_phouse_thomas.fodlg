@@ -249,7 +249,7 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {36020}{}{Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -487,7 +487,7 @@ lang=engl czec pols span russ
 {36020}{}{Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}
@@ -606,7 +606,7 @@ lang=engl czec pols span russ
 {36020}{}{Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{i dont know you}
 {1020}{}{i know you}

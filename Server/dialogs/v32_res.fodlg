@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {3000}{}{Hello, Overseer!@@Nice to see you again, Overseer.@@You are the best, Overseer.@@All praise our Overseer!@@Good day to you, Overseer @pname@.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{Hello, Overseer!@@Nice to see you again, Overseer.@@You are the best, Overseer.@@All praise our Overseer!@@Good day to you, Overseer @pname@.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3000}{}{Hello, Overseer!@@Nice to see you again, Overseer.@@You are the best, Overseer.@@All praise our Overseer!@@Good day to you, Overseer @pname@.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3000}{}{Hello, Overseer!@@Nice to see you again, Overseer.@@You are the best, Overseer.@@All praise our Overseer!@@Good day to you, Overseer @pname@.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

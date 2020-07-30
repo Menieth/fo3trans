@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {100000001}{}{Humans! Attack! Aaaattaaack!@@Aaaattaack the humans!@@Enemy in sight, ATTACK!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Die, human!@@How do you taste, little human?@@What are ya doi'n here?@@The last thing you will see is my fist in your face, human!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Die, human!@@How do you taste, little human?@@What are ya doi'n here?@@The last thing you will see is my fist in your face, human!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Die, human!@@How do you taste, little human?@@What are ya doi'n here?@@The last thing you will see is my fist in your face, human!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Die, human!@@How do you taste, little human?@@What are ya doi'n here?@@The last thing you will see is my fist in your face, human!}

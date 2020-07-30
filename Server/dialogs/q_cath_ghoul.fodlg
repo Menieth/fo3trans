@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {100000001}{}{You will not do anything to my plants!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {7010}{}{[Continue]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {7010}{}{[Continue]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {7010}{}{[Continue]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{---}
 {2000}{}{[The glowing creature is standing still like frozen. His eyes are fixed on the brickwall in front of him and he doesn't seem to realize you.]}

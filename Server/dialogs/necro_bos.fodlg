@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{What a disgusting city...@@Why do we even keep these ghouls alive?@@I hope we will get some extra manpower from HQ soon.@@I am on duty.@@Nothing to talk about.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a disgusting city...@@Why do we even keep these ghouls alive?@@I hope we will get some extra manpower from HQ soon.@@I am on duty.@@Nothing to talk about.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a disgusting city...@@Why do we even keep these ghouls alive?@@I hope we will get some extra manpower from HQ soon.@@I am on duty.@@Nothing to talk about.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a disgusting city...@@Why do we even keep these ghouls alive?@@I hope we will get some extra manpower from HQ soon.@@I am on duty.@@Nothing to talk about.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a disgusting city...@@Why do we even keep these ghouls alive?@@I hope we will get some extra manpower from HQ soon.@@I am on duty.@@Nothing to talk about.}

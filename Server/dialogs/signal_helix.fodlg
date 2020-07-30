@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {5000}{}{Thank you once again. We won't forget you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Stay right there, fu... Hold on... You are a human. Oh shit, you got the signal. You came here to save us!}

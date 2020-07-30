@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {6000}{}{Here you go...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. I am doctor Arkansas. How can I help you today?}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {6000}{}{Here you go...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. I am doctor Arkansas. How can I help you today?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {6000}{}{Here you go...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. I am doctor Arkansas. How can I help you today?}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {6000}{}{Here you go...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. I am doctor Arkansas. How can I help you today?}

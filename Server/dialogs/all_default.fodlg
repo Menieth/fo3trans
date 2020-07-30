@@ -23,25 +23,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello, how can I help you?@@Yes? What is it?@@What do you need?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, how can I help you?@@Yes? What is it?@@What do you need?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, how can I help you?@@Yes? What is it?@@What do you need?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, how can I help you?@@Yes? What is it?@@What do you need?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, how can I help you?@@Yes? What is it?@@What do you need?}

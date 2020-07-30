@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {47020}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -549,7 +549,7 @@ lang=engl czec pols span russ
 {47020}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -730,7 +730,7 @@ lang=engl czec pols span russ
 {47020}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -911,7 +911,7 @@ lang=engl czec pols span russ
 {47020}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}

@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 0 7020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -66,7 +66,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -100,7 +100,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -134,7 +134,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}
@@ -168,7 +168,7 @@ Make sure you secure all items and move all followers to other place before you 
 {7020}{}{[Exit]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Special Tent Item}
 {1020}{}{Show}

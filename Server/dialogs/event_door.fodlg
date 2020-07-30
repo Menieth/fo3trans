@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 0 5040 D _param p ST_INTELLECT < 4 R _script map_events@r_tpenter 1 10 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {5040}{}{Ohh, out!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {5040}{}{Ohh, out!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -97,7 +97,7 @@ lang=engl czec pols span russ
 {5040}{}{Ohh, out!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {5040}{}{Ohh, out!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {1020}{}{trying to exit}

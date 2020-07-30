@@ -217,7 +217,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -322,7 +322,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -427,7 +427,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -532,7 +532,7 @@ lang=engl czec pols span russ
 {22020}{}{[Shamble off]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}

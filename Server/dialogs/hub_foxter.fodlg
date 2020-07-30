@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {8000}{}{Do I look like I have time to guide you around? Walk around, ask some other people... I am on duty.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, wastelander. Do you need anything?}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {8000}{}{Do I look like I have time to guide you around? Walk around, ask some other people... I am on duty.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, wastelander. Do you need anything?}
@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {8000}{}{Do I look like I have time to guide you around? Walk around, ask some other people... I am on duty.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, wastelander. Do you need anything?}
@@ -150,7 +150,7 @@ lang=engl czec pols span russ
 {8000}{}{Do I look like I have time to guide you around? Walk around, ask some other people... I am on duty.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, wastelander. Do you need anything?}

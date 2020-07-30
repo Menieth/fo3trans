@@ -165,7 +165,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}
@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}
@@ -323,7 +323,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}
@@ -402,7 +402,7 @@ lang=engl czec pols span russ
 {24010}{}{Yes ma'am!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Dumb}

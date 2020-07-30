@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}
@@ -458,7 +458,7 @@ lang=engl czec pols span russ
 {23010}{}{Okay.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Not a slaver}

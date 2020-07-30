@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -113,7 +113,7 @@ lang=engl czec pols span russ
 {9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {9000}{}{That mutant, huh? Yeah, sure. I can take him if he wishes to join.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

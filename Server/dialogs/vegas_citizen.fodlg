@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Mind your own business.@@The place has changed a lot.@@Have you seen our casinos?@@Why won't you go and spend some money on slots?@@Having a good time?@@Go and take a look around a city.@@Try to have some fun. But be careful!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Mind your own business.@@The place has changed a lot.@@Have you seen our casinos?@@Why won't you go and spend some money on slots?@@Having a good time?@@Go and take a look around a city.@@Try to have some fun. But be careful!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Mind your own business.@@The place has changed a lot.@@Have you seen our casinos?@@Why won't you go and spend some money on slots?@@Having a good time?@@Go and take a look around a city.@@Try to have some fun. But be careful!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Mind your own business.@@The place has changed a lot.@@Have you seen our casinos?@@Why won't you go and spend some money on slots?@@Having a good time?@@Go and take a look around a city.@@Try to have some fun. But be careful!}

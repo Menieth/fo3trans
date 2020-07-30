@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {10010}{}{I'll be back! [Leave]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Initiate Quest - pick up the body, only during night}
 {1020}{}{Initiate Quest - daytime}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {10010}{}{I'll be back! [Leave]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Initiate Quest - pick up the body, only during night}
 {1020}{}{Initiate Quest - daytime}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {10010}{}{I'll be back! [Leave]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Initiate Quest - pick up the body, only during night}
 {1020}{}{Initiate Quest - daytime}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {10010}{}{I'll be back! [Leave]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Initiate Quest - pick up the body, only during night}
 {1020}{}{Initiate Quest - daytime}

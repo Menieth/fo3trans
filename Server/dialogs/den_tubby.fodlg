@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {9000}{}{Boys! Go get the bat!@@It's still looking at me!@@Boys, get this freak out of here.@@Shoo, you freak!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Answer text}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {9000}{}{Boys! Go get the bat!@@It's still looking at me!@@Boys, get this freak out of here.@@Shoo, you freak!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Answer text}
@@ -146,7 +146,7 @@ lang=engl czec pols span russ
 {9000}{}{Boys! Go get the bat!@@It's still looking at me!@@Boys, get this freak out of here.@@Shoo, you freak!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Answer text}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {9000}{}{Boys! Go get the bat!@@It's still looking at me!@@Boys, get this freak out of here.@@Shoo, you freak!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Answer text}

@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't mind you being here, just stay out of our way.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not involved}
 {1020}{}{Finished}

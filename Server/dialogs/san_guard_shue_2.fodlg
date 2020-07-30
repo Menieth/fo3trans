@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@We're keeping an eye on you.@@Don't try anything funny.@@Treat our people with respect.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@We're keeping an eye on you.@@Don't try anything funny.@@Treat our people with respect.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@We're keeping an eye on you.@@Don't try anything funny.@@Treat our people with respect.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@We're keeping an eye on you.@@Don't try anything funny.@@Treat our people with respect.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Just keep moving along and there'll be no problem.@@You have business here?@@We're keeping an eye on you.@@Don't try anything funny.@@Treat our people with respect.}

@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {9000}{}{You're stinking up my bar, you freak.@@Shit. I thought -I- was ugly.@@That's a face a mother couldn't love.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ao?ae}
 {1020}{}{Unknown}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {9000}{}{You're stinking up my bar, you freak.@@Shit. I thought -I- was ugly.@@That's a face a mother couldn't love.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ao?ae}
 {1020}{}{Unknown}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {9000}{}{You're stinking up my bar, you freak.@@Shit. I thought -I- was ugly.@@That's a face a mother couldn't love.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ao?ae}
 {1020}{}{Unknown}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {9000}{}{You're stinking up my bar, you freak.@@Shit. I thought -I- was ugly.@@That's a face a mother couldn't love.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ao?ae}
 {1020}{}{Unknown}

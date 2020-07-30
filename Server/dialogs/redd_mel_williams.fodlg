@@ -21,28 +21,28 @@ lang=engl czec pols span russ
 {2010}{}{Uh, nothing.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
 {2010}{}{Uh, nothing.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
 {2010}{}{Uh, nothing.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}
 {2010}{}{Uh, nothing.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {2000}{}{Who are ye? What de ya want? Why do ye talk ta me?}

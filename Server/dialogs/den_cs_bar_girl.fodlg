@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Answer text}
 {2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Answer text}
 {2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Answer text}
 {2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{Answer text}
 {2000}{}{Spare change?@@What?@@I'm not doin' anythin'!}

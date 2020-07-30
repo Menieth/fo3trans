@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{Oh dear! You are infected.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Grrr...}

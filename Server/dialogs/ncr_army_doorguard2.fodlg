@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{[ She checks your ID card ] The door is open now. Do not forget to close it, soldier.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ She salutes you. ]}
@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {3000}{}{[ She checks your ID card ] The door is open now. Do not forget to close it, soldier.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ She salutes you. ]}
@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {3000}{}{[ She checks your ID card ] The door is open now. Do not forget to close it, soldier.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ She salutes you. ]}
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {3000}{}{[ She checks your ID card ] The door is open now. Do not forget to close it, soldier.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ She salutes you. ]}

@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {3000}{}{What do you want?@@Help you with somethin'?@@Damn hot…@@New Reno gets uglier every day…@@What're you doing round here?@@If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.@@Watch yer step around here, friend. This here's Wright Family territory.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}

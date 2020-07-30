@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Welcome back, Overseer.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! Please show me your keycard.}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{Welcome back, Overseer.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! Please show me your keycard.}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{Welcome back, Overseer.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! Please show me your keycard.}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{Welcome back, Overseer.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! Please show me your keycard.}

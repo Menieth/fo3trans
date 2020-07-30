@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 0 7020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This is a nuka cola mashine. On the left corner you can see hole, a sign near this hole says that mashine takes only five dollars coins. ]}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {7020}{}{[ Leave ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This is a nuka cola mashine. On the left corner you can see hole, a sign near this hole says that mashine takes only five dollars coins. ]}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {7020}{}{[ Leave ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This is a nuka cola mashine. On the left corner you can see hole, a sign near this hole says that mashine takes only five dollars coins. ]}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {7020}{}{[ Leave ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This is a nuka cola mashine. On the left corner you can see hole, a sign near this hole says that mashine takes only five dollars coins. ]}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {7020}{}{[ Leave ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This is a nuka cola mashine. On the left corner you can see hole, a sign near this hole says that mashine takes only five dollars coins. ]}

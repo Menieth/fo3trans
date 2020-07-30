@@ -343,7 +343,7 @@ lang=engl czec pols span russ
 {48020}{}{Alright. I guess I'll have to prove to you that I am not just another worthless Mr. Alt. So now I'll go and kill some speedrats. Or maybe I'll put together a gun. Anyway, bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sold the case for joining quest}
 {1020}{}{On mordino join quest}
@@ -512,7 +512,7 @@ lang=engl czec pols span russ
 {48020}{}{Alright. I guess I'll have to prove to you that I am not just another worthless Mr. Alt. So now I'll go and kill some speedrats. Or maybe I'll put together a gun. Anyway, bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sold the case for joining quest}
 {1020}{}{On mordino join quest}
@@ -681,7 +681,7 @@ lang=engl czec pols span russ
 {48020}{}{Alright. I guess I'll have to prove to you that I am not just another worthless Mr. Alt. So now I'll go and kill some speedrats. Or maybe I'll put together a gun. Anyway, bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sold the case for joining quest}
 {1020}{}{On mordino join quest}
@@ -850,7 +850,7 @@ lang=engl czec pols span russ
 {48020}{}{Alright. I guess I'll have to prove to you that I am not just another worthless Mr. Alt. So now I'll go and kill some speedrats. Or maybe I'll put together a gun. Anyway, bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sold the case for joining quest}
 {1020}{}{On mordino join quest}

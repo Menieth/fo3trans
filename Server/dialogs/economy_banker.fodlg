@@ -237,7 +237,7 @@ Account Type: @lex type@.}
 {40020}{}{And why are you so interested? Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Yes, sir, how may I help you?}
@@ -354,7 +354,7 @@ Account Type: @lex type@.}
 {40020}{}{And why are you so interested? Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Yes, sir, how may I help you?}
@@ -471,7 +471,7 @@ Account Type: @lex type@.}
 {40020}{}{And why are you so interested? Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Yes, sir, how may I help you?}
@@ -588,7 +588,7 @@ Account Type: @lex type@.}
 {40020}{}{And why are you so interested? Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{---}
 {2000}{}{Yes, sir, how may I help you?}

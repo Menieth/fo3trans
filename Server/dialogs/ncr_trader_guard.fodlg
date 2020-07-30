@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Yeah, yeah. Move along.@@You make sure you're nice to Mr. Buster so we don't have to waste any ammo.@@I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah, yeah. Move along.@@You make sure you're nice to Mr. Buster so we don't have to waste any ammo.@@I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah, yeah. Move along.@@You make sure you're nice to Mr. Buster so we don't have to waste any ammo.@@I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah, yeah. Move along.@@You make sure you're nice to Mr. Buster so we don't have to waste any ammo.@@I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Yeah, yeah. Move along.@@You make sure you're nice to Mr. Buster so we don't have to waste any ammo.@@I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}

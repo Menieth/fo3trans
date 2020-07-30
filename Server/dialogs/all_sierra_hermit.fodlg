@@ -99,7 +99,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -237,7 +237,7 @@ lang=engl czec pols span russ
 {8040}{}{Me trade.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}

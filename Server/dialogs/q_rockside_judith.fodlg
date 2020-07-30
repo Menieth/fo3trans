@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {14000}{}{Spam? Who is... Ah... Oh I, I see... Yeah, Spam... right. Sure, I will call other guys, we will think about it.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hey, do you need something?}

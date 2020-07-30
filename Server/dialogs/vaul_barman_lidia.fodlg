@@ -169,7 +169,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -251,7 +251,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -333,7 +333,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}
@@ -415,7 +415,7 @@ lang=engl czec pols span russ
 {21000}{}{We're closed. Come back in the morning.@@Sorry, last call was a while ago. Come back in the morning.@@We're closed. Once I finish making this list of our stock, I'll be closing up.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{dumb}

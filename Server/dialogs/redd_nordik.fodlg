@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{I organise payment for the caravans to the NCR. But they're not running, so please stop harassing me.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I organise payment for the caravans to the NCR. But they're not running, so please stop harassing me.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I organise payment for the caravans to the NCR. But they're not running, so please stop harassing me.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I organise payment for the caravans to the NCR. But they're not running, so please stop harassing me.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I organise payment for the caravans to the NCR. But they're not running, so please stop harassing me.}

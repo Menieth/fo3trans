@@ -36,7 +36,7 @@ lang=engl czec pols span russ
 {4000}{}{I am asking you to leave. Politely.@@Get out, freak.@@I'm just a store owner. I want no trouble, foreigner.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{default}
 {1020}{}{ugly}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {4000}{}{I am asking you to leave. Politely.@@Get out, freak.@@I'm just a store owner. I want no trouble, foreigner.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{default}
 {1020}{}{ugly}
@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {4000}{}{I am asking you to leave. Politely.@@Get out, freak.@@I'm just a store owner. I want no trouble, foreigner.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{default}
 {1020}{}{ugly}
@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {4000}{}{I am asking you to leave. Politely.@@Get out, freak.@@I'm just a store owner. I want no trouble, foreigner.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{default}
 {1020}{}{ugly}

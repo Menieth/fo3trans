@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@No time for chit chat.@@What a boring day...@@Heh?@@Hey.@@Yo.@@Weffer is inside.@@Talk with Weffer, not me.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@No time for chit chat.@@What a boring day...@@Heh?@@Hey.@@Yo.@@Weffer is inside.@@Talk with Weffer, not me.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@No time for chit chat.@@What a boring day...@@Heh?@@Hey.@@Yo.@@Weffer is inside.@@Talk with Weffer, not me.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@No time for chit chat.@@What a boring day...@@Heh?@@Hey.@@Yo.@@Weffer is inside.@@Talk with Weffer, not me.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@No time for chit chat.@@What a boring day...@@Heh?@@Hey.@@Yo.@@Weffer is inside.@@Talk with Weffer, not me.}

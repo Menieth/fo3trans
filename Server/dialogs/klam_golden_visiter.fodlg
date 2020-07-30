@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{‘Bout time.@@Thanks.@@I’m going to get pissed.@@Nothing like Gecko Piss.@@Thanks for the Piss.@@Huzzah!@@More Piss for everyone!@@I sure needed that; thanks.@@Thanks a million!@@Rather have a @lex prefix@ in front of me than a frontal lobotomy...@@Golden Piss!@@Alright!@@Love that piss.@@Smart move.@@Yeah!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{iaciaeii}
 {1020}{}{aia?ue}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3000}{}{‘Bout time.@@Thanks.@@I’m going to get pissed.@@Nothing like Gecko Piss.@@Thanks for the Piss.@@Huzzah!@@More Piss for everyone!@@I sure needed that; thanks.@@Thanks a million!@@Rather have a @lex prefix@ in front of me than a frontal lobotomy...@@Golden Piss!@@Alright!@@Love that piss.@@Smart move.@@Yeah!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{iaciaeii}
 {1020}{}{aia?ue}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3000}{}{‘Bout time.@@Thanks.@@I’m going to get pissed.@@Nothing like Gecko Piss.@@Thanks for the Piss.@@Huzzah!@@More Piss for everyone!@@I sure needed that; thanks.@@Thanks a million!@@Rather have a @lex prefix@ in front of me than a frontal lobotomy...@@Golden Piss!@@Alright!@@Love that piss.@@Smart move.@@Yeah!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{iaciaeii}
 {1020}{}{aia?ue}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {3000}{}{‘Bout time.@@Thanks.@@I’m going to get pissed.@@Nothing like Gecko Piss.@@Thanks for the Piss.@@Huzzah!@@More Piss for everyone!@@I sure needed that; thanks.@@Thanks a million!@@Rather have a @lex prefix@ in front of me than a frontal lobotomy...@@Golden Piss!@@Alright!@@Love that piss.@@Smart move.@@Yeah!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{iaciaeii}
 {1020}{}{aia?ue}

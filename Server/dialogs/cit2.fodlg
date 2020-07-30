@@ -13,7 +13,7 @@ lang=engl czec pols span russ
 0 2020 R _var p mayor_citizenship = 2 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Dear Julia, of course you are not here. You understood that there is nobody here. When Vault City captured this city, we all hoped for the better future. We left them here and went to vegas to earn some money and build our own farm. But the Plague... the evacuation. The city is dead now and you understood that there could be only one place where they could go. I am sorry, Julia. I am sorry to never let you know. I will find you there, near that old radio tower... Just... stay there. ]}
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Confirm location ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Dear Julia, of course you are not here. You understood that there is nobody here. When Vault City captured this city, we all hoped for the better future. We left them here and went to vegas to earn some money and build our own farm. But the Plague... the evacuation. The city is dead now and you understood that there could be only one place where they could go. I am sorry, Julia. I am sorry to never let you know. I will find you there, near that old radio tower... Just... stay there. ]}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Confirm location ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Dear Julia, of course you are not here. You understood that there is nobody here. When Vault City captured this city, we all hoped for the better future. We left them here and went to vegas to earn some money and build our own farm. But the Plague... the evacuation. The city is dead now and you understood that there could be only one place where they could go. I am sorry, Julia. I am sorry to never let you know. I will find you there, near that old radio tower... Just... stay there. ]}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Confirm location ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Dear Julia, of course you are not here. You understood that there is nobody here. When Vault City captured this city, we all hoped for the better future. We left them here and went to vegas to earn some money and build our own farm. But the Plague... the evacuation. The city is dead now and you understood that there could be only one place where they could go. I am sorry, Julia. I am sorry to never let you know. I will find you there, near that old radio tower... Just... stay there. ]}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Confirm location ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Dear Julia, of course you are not here. You understood that there is nobody here. When Vault City captured this city, we all hoped for the better future. We left them here and went to vegas to earn some money and build our own farm. But the Plague... the evacuation. The city is dead now and you understood that there could be only one place where they could go. I am sorry, Julia. I am sorry to never let you know. I will find you there, near that old radio tower... Just... stay there. ]}

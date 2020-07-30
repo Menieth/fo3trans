@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.@@Please go see the Proconsul. He will have what you need.@@Please go see Senior Councilman McClure. He will have what you need.@@Please go see my assistant. He will have what you need.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.@@Please go see the Proconsul. He will have what you need.@@Please go see Senior Councilman McClure. He will have what you need.@@Please go see my assistant. He will have what you need.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.@@Please go see the Proconsul. He will have what you need.@@Please go see Senior Councilman McClure. He will have what you need.@@Please go see my assistant. He will have what you need.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.@@Please go see the Proconsul. He will have what you need.@@Please go see Senior Councilman McClure. He will have what you need.@@Please go see my assistant. He will have what you need.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not citizen}
 {1020}{}{citizen}

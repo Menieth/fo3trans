@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey, sorry, I oughta get back to work.@@Mind letting me get on with this?@@Sorry fella, I gotta make up for lost time.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey, sorry, I oughta get back to work.@@Mind letting me get on with this?@@Sorry fella, I gotta make up for lost time.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey, sorry, I oughta get back to work.@@Mind letting me get on with this?@@Sorry fella, I gotta make up for lost time.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -142,7 +142,7 @@ lang=engl czec pols span russ
 {10000}{}{Hey, sorry, I oughta get back to work.@@Mind letting me get on with this?@@Sorry fella, I gotta make up for lost time.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}

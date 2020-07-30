@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Hello, stranger.@@Hello there.@@Hmmm.@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am… (whistles)@@99 @lex prefix@s of beer on the wall, 99 @lex prefix@s of beer…@@What're you looking at?@@Hic... hic...@@Quit hassling me, you're bringing my buzz down.}

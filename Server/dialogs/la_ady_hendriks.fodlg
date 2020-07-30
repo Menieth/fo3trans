@@ -197,7 +197,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -292,7 +292,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -387,7 +387,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}
@@ -482,7 +482,7 @@ lang=engl czec pols span russ
 {31010}{}{Okay. Maybe I will check you out later again. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We are talking the first time.}
 {1020}{}{We talked already.}

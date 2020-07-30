@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {2050}{}{5. +Melee DMG, ST}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Choose Bonus}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {2050}{}{5. +Melee DMG, ST}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Choose Bonus}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {2050}{}{5. +Melee DMG, ST}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Choose Bonus}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {2050}{}{5. +Melee DMG, ST}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Choose Bonus}

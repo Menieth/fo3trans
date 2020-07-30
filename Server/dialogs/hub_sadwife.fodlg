@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {16020}{}{Look your husbands a flit okay? Get over it. }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Have you found him yet?}
 {1020}{}{Answer text}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {16020}{}{Look your husbands a flit okay? Get over it. }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Have you found him yet?}
 {1020}{}{Answer text}
@@ -204,7 +204,7 @@ lang=engl czec pols span russ
 {16020}{}{Look your husbands a flit okay? Get over it. }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Have you found him yet?}
 {1020}{}{Answer text}
@@ -253,7 +253,7 @@ lang=engl czec pols span russ
 {16020}{}{Look your husbands a flit okay? Get over it. }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Have you found him yet?}
 {1020}{}{Answer text}

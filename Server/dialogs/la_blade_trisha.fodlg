@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {9010}{}{Hey thanks! See you later!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {9010}{}{Hey thanks! See you later!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {9010}{}{Hey thanks! See you later!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {9010}{}{Hey thanks! See you later!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{junk merchant perk gained. *DEV NOTE: Deactivated for now.*}
 {1020}{}{Answer text}

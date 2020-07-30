@@ -19,28 +19,28 @@ lang=engl czec pols span russ
 {2010}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{This model is one of the oldest--was a generous gift from Nuka Cola Museum of Washington DC.  Fortunatley, it still works: anyone can try to buy a Nuka with special taste of rust.}
 {2010}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{This model is one of the oldest--was a generous gift from Nuka Cola Museum of Washington DC.  Fortunatley, it still works: anyone can try to buy a Nuka with special taste of rust.}
 {2010}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{This model is one of the oldest--was a generous gift from Nuka Cola Museum of Washington DC.  Fortunatley, it still works: anyone can try to buy a Nuka with special taste of rust.}
 {2010}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{This model is one of the oldest--was a generous gift from Nuka Cola Museum of Washington DC.  Fortunatley, it still works: anyone can try to buy a Nuka with special taste of rust.}

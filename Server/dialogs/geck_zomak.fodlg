@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {9020}{}{I might come back later. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Renew, comrade! I am Zomak. Some call me Zomak the Destroyer. What is your business here?}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {9020}{}{I might come back later. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Renew, comrade! I am Zomak. Some call me Zomak the Destroyer. What is your business here?}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {9020}{}{I might come back later. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Renew, comrade! I am Zomak. Some call me Zomak the Destroyer. What is your business here?}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {9020}{}{I might come back later. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Renew, comrade! I am Zomak. Some call me Zomak the Destroyer. What is your business here?}

@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 {3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Charismatic}
@@ -34,7 +34,7 @@ lang=engl czec pols span russ
 {3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Charismatic}
@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Charismatic}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{Got any Jet on you, homes?@@How's it hanging? Hangs like a hammer, man, thaz all.@@Heh? ::Spits:: Whazzup.@@Good t'see you,@@Sure could use a drink. Damn…@@Sheee-it, it's hot.@@Plugged a scorp last night. Nearly stung me, it did.@@Bishops mess with us, they gonna be worm food, right?@@When we gonna whack some Bishops, eh? My gun's getting rusty.@@Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?@@I hear Tommy the Balls is in town. Better lay low.@@You got any Jet on you, chica? I'm dyin' over here.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Charismatic}

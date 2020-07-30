@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {16010}{}{My pleasure.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {16010}{}{My pleasure.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -224,7 +224,7 @@ lang=engl czec pols span russ
 {16010}{}{My pleasure.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {16010}{}{My pleasure.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{error}
 {1010}{}{Unknown}
 {1020}{}{Known}

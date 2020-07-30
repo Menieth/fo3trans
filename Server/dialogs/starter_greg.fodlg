@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -295,7 +295,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}
@@ -367,7 +367,7 @@ lang=engl czec pols span russ
 {25000}{}{I heard what you did to Seb, you prick.@@You heartless fuck.@@::spits::@@Piss off.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Greg quest 1}

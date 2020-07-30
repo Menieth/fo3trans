@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{Get away from me, scumbag.@@I don’t associate with your kind.@@Who let you in?@@I don’t know why they don’t run you out of town.@@Please leave me alone.@@Don't bother me.@@I can't help you. Go away.@@Die in the desert, jerk.@@Go away.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{Get away from me, scumbag.@@I don’t associate with your kind.@@Who let you in?@@I don’t know why they don’t run you out of town.@@Please leave me alone.@@Don't bother me.@@I can't help you. Go away.@@Die in the desert, jerk.@@Go away.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{Get away from me, scumbag.@@I don’t associate with your kind.@@Who let you in?@@I don’t know why they don’t run you out of town.@@Please leave me alone.@@Don't bother me.@@I can't help you. Go away.@@Die in the desert, jerk.@@Go away.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Get away from me, scumbag.@@I don’t associate with your kind.@@Who let you in?@@I don’t know why they don’t run you out of town.@@Please leave me alone.@@Don't bother me.@@I can't help you. Go away.@@Die in the desert, jerk.@@Go away.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Hated}

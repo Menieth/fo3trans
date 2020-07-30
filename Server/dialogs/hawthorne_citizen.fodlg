@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello.@@Yeah?@@What is it?@@Nice to meet you.@@I hope the city won't fall again.@@Ever saw our new mayor?@@It is not so bad here.}

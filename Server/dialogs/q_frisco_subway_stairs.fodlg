@@ -13,7 +13,7 @@ lang=engl czec pols span russ
 0 2020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[You jolt the metallic gate at the end of the staris to gain Chen's attention.]}
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to see if you are still there... }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[You jolt the metallic gate at the end of the staris to gain Chen's attention.]}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to see if you are still there... }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[You jolt the metallic gate at the end of the staris to gain Chen's attention.]}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to see if you are still there... }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[You jolt the metallic gate at the end of the staris to gain Chen's attention.]}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2020}{}{Just wanted to see if you are still there... }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{trying to enter}
 {2000}{}{[You jolt the metallic gate at the end of the staris to gain Chen's attention.]}

@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}
@@ -353,7 +353,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}
@@ -439,7 +439,7 @@ lang=engl czec pols span russ
 {26010}{}{I'm no drug add . . . I mean . . . Arg!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player got the job, need to talk to Ailis.}
 {1020}{}{Fucked up with Keri}

@@ -16,7 +16,7 @@ lang=engl czec pols span russ
 0 3020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3020}{}{Somebody is gonna get dissapointed...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3020}{}{Somebody is gonna get dissapointed...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {3020}{}{Somebody is gonna get dissapointed...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see the Robo Eye Bot lying on the ground ]}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {3020}{}{Somebody is gonna get dissapointed...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see the Robo Eye Bot lying on the ground ]}

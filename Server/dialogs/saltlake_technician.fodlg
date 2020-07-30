@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Producion proccess looks really good today.@@Ahhh, more gas bubbles...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Producion proccess looks really good today.@@Ahhh, more gas bubbles...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Producion proccess looks really good today.@@Ahhh, more gas bubbles...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Producion proccess looks really good today.@@Ahhh, more gas bubbles...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Producion proccess looks really good today.@@Ahhh, more gas bubbles...}

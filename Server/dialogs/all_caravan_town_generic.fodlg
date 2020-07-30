@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -241,7 +241,7 @@ lang=engl czec pols span russ
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}
@@ -300,7 +300,7 @@ lang=engl czec pols span russ
 {15000}{}{We are riding with @lex caravan@. Sorry, we have all guards already.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{-}

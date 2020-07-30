@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}
@@ -115,7 +115,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {14000}{}{This...aahhh....doesn't concern you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not Involved}
 {1020}{}{Finished}

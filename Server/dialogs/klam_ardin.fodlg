@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {9000}{}{Get out of here, stranger. We don't serve thugs in this establishment. We got a shotgun out back, and we ain't scared to use it.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Idiot}

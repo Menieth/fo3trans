@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {17000}{}{That's it. Now get the hell outta my sight.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What are you staring at?}
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {17000}{}{That's it. Now get the hell outta my sight.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What are you staring at?}
@@ -221,7 +221,7 @@ lang=engl czec pols span russ
 {17000}{}{That's it. Now get the hell outta my sight.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What are you staring at?}
@@ -276,7 +276,7 @@ lang=engl czec pols span russ
 {17000}{}{That's it. Now get the hell outta my sight.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What are you staring at?}

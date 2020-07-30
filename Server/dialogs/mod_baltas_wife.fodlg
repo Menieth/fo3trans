@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ioaao}
 {2000}{}{*whistles a simple tune*@@It's so peaceful around here.@@So quiet.@@Such a nice place here, don't you think?}
