@@ -1850,26 +1850,26 @@ SK_MELEE_WEAPONS
 {103841}{}{Třída: Vyvolený}
 {103842}{}{Máš před sebou velkou misi se spoustou nástrah. Proto získáváš další tři perky a +3 body charisma, ale tvá regenerace zdraví je poloviční.}
 # PE_GAIN_STRENGTH
-{103851}{}{Síla +1}
-{103852}{}{Tento perk ti přidá +1 ke tvé SÍLE.}
+{103851}{}{Síla +2}
+{103852}{}{Tento perk ti přidá +2 ke tvé SÍLE.}
 # PE_GAIN_PERCEPTION
-{103861}{}{Vnímání +1}
-{103862}{}{Tento perk ti přidá +1 ke tvému VNÍMÁNÍ.}
+{103861}{}{Vnímání +2}
+{103862}{}{Tento perk ti přidá +2 ke tvému VNÍMÁNÍ.}
 # PE_GAIN_ENDURANCE
-{103871}{}{Odolnost +1}
-{103872}{}{Tento perk ti přidá +1 ke tvé ODOLNOSTI.}
+{103871}{}{Odolnost +2}
+{103872}{}{Tento perk ti přidá +2 ke tvé ODOLNOSTI.}
 # PE_GAIN_CHARISMA
-{103881}{}{Charisma +1}
-{103882}{}{Tento perk ti přidá +1 ke tvému CHARISMA.}
+{103881}{}{Charisma +2}
+{103882}{}{Tento perk ti přidá +2 ke tvému CHARISMA.}
 # PE_GAIN_INTELLIGENCE
-{103891}{}{Inteligence +1}
-{103892}{}{Tento perk ti přidá +1 ke tvé INTELIGENCI.}
+{103891}{}{Inteligence +2}
+{103892}{}{Tento perk ti přidá +2 ke tvé INTELIGENCI.}
 # PE_GAIN_AGILITY
-{103901}{}{Hbitost +1}
-{103902}{}{Tento perk ti přidá +1 ke tvé HBITOSTI.}
+{103901}{}{Hbitost +2}
+{103902}{}{Tento perk ti přidá +2 ke tvé HBITOSTI.}
 # PE_GAIN_LUCK
-{103911}{}{Štěstí +1}
-{103912}{}{Tento perk ti přidá +1 ke tvému ŠTĚSTÍ.}
+{103911}{}{Štěstí +2}
+{103912}{}{Tento perk ti přidá +2 ke tvému ŠTĚSTÍ.}
 # PE_HARMLESS
 {103921}{}{Neviňátko}
 {103922}{}{Tvoje nevinná tvářička ti pomáhá lépe okrádat lidi. Při kradení ztrácíš jen polovinu reputace.}
