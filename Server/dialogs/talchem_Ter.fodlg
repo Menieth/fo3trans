@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 2 5010 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Welcome to Talchem California Headquarters}
@@ -39,7 +39,7 @@ Talchem also offers services, such as transport and  storage of chemicals and sa
 {5010}{}{[ Back ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Welcome to Talchem California Headquarters}
@@ -57,7 +57,7 @@ Talchem also offers services, such as transport and  storage of chemicals and sa
 {5010}{}{[ Back ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Welcome to Talchem California Headquarters}
@@ -75,7 +75,7 @@ Talchem also offers services, such as transport and  storage of chemicals and sa
 {5010}{}{[ Back ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Welcome to Talchem California Headquarters}
@@ -93,7 +93,7 @@ Talchem also offers services, such as transport and  storage of chemicals and sa
 {5010}{}{[ Back ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Welcome to Talchem California Headquarters}

@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {6000}{}{Just give me a second to catch my breath.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {6000}{}{Just give me a second to catch my breath.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {6000}{}{Just give me a second to catch my breath.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {6000}{}{Just give me a second to catch my breath.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

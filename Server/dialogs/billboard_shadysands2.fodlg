@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}
@@ -138,7 +138,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}
@@ -224,7 +224,7 @@ lang=engl czec pols span russ
 {9030}{}{Too much text, let me out of here! [You step back.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}

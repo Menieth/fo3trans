@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Welcome to Adytum, stranger. Watch yourself, we'll be watching you.@@Watch yourself.@@We're watching you.@@Stay in line.@@What you looking at.@@What do you want?@@Hope, tomorrow will be a better day than today. . .@@Are you a scavenger?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Welcome to Adytum, stranger. Watch yourself, we'll be watching you.@@Watch yourself.@@We're watching you.@@Stay in line.@@What you looking at.@@What do you want?@@Hope, tomorrow will be a better day than today. . .@@Are you a scavenger?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Welcome to Adytum, stranger. Watch yourself, we'll be watching you.@@Watch yourself.@@We're watching you.@@Stay in line.@@What you looking at.@@What do you want?@@Hope, tomorrow will be a better day than today. . .@@Are you a scavenger?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Man... what a night.@@See the skylight, baby. . . @@Keep your weapons under control while you're here.@@Welcome to Adytum, stranger. Watch yourself, we'll be watching you.@@Watch yourself.@@We're watching you.@@Stay in line.@@What you looking at.@@What do you want?@@Hope, tomorrow will be a better day than today. . .@@Are you a scavenger?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night}
 {1020}{}{normal}

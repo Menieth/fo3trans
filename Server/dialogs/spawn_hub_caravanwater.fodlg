@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}
@@ -282,7 +282,7 @@ lang=engl czec pols span russ
 {16020}{}{One last question...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bereits gesprochen}

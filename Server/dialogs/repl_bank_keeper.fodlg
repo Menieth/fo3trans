@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Speak.}
 {2000}{}{Hello.}

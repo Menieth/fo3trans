@@ -128,7 +128,7 @@ lang=engl czec pols span russ
 {21010}{}{Alright, let's do it. [Work out with King, the insane meathead.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{King Chat}
 {1020}{}{King Chat}
@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {21010}{}{Alright, let's do it. [Work out with King, the insane meathead.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{King Chat}
 {1020}{}{King Chat}
@@ -246,7 +246,7 @@ lang=engl czec pols span russ
 {21010}{}{Alright, let's do it. [Work out with King, the insane meathead.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{King Chat}
 {1020}{}{King Chat}
@@ -305,7 +305,7 @@ lang=engl czec pols span russ
 {21010}{}{Alright, let's do it. [Work out with King, the insane meathead.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{King Chat}
 {1020}{}{King Chat}

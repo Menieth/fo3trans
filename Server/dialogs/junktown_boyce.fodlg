@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -215,7 +215,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {15020}{}{Boyce, you're one big surprise! See you later, old chap!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{unknown}
 {1020}{}{known}

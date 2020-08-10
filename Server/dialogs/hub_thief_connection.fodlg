@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}
@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {5010}{}{That was as shady as it gets. I guess we could meet each other again soon. Farewell, Shadow.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {1020}{}{dumb}

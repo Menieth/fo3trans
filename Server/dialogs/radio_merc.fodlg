@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Yo.@@Hey there.@@Keep your weapons down, ok?@@Welcome to Wasteland Radio.@@Got a cig?@@They don't pay me enough for guarding this pre war crap.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo.@@Hey there.@@Keep your weapons down, ok?@@Welcome to Wasteland Radio.@@Got a cig?@@They don't pay me enough for guarding this pre war crap.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo.@@Hey there.@@Keep your weapons down, ok?@@Welcome to Wasteland Radio.@@Got a cig?@@They don't pay me enough for guarding this pre war crap.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo.@@Hey there.@@Keep your weapons down, ok?@@Welcome to Wasteland Radio.@@Got a cig?@@They don't pay me enough for guarding this pre war crap.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yo.@@Hey there.@@Keep your weapons down, ok?@@Welcome to Wasteland Radio.@@Got a cig?@@They don't pay me enough for guarding this pre war crap.}

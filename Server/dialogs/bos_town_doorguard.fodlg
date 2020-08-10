@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {15000}{}{Welcome back, brother.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS member}
 {1020}{}{disguised}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {15000}{}{Welcome back, brother.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS member}
 {1020}{}{disguised}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {15000}{}{Welcome back, brother.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS member}
 {1020}{}{disguised}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {15000}{}{Welcome back, brother.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{BoS member}
 {1020}{}{disguised}

@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {8010}{}{Time to get my hands dirty. Literally.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Auto}
 {1020}{}{Ready for doc}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {8010}{}{Time to get my hands dirty. Literally.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Auto}
 {1020}{}{Ready for doc}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {8010}{}{Time to get my hands dirty. Literally.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Auto}
 {1020}{}{Ready for doc}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {8010}{}{Time to get my hands dirty. Literally.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Auto}
 {1020}{}{Ready for doc}

@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}
@@ -154,7 +154,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}
@@ -204,7 +204,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}
@@ -254,7 +254,7 @@ lang=engl czec pols span russ
 {13010}{}{Yeah, a few more questions.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Ioaao}

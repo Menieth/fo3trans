@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}
@@ -391,7 +391,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}
@@ -504,7 +504,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}
@@ -617,7 +617,7 @@ lang=engl czec pols span russ
 {35000}{}{There's no teaching for you.@@You don't deserve such an honor@@Get lost.@@You don't need any knowledge at all...hahaha@@Goodbye. }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not inteligent}
 {1020}{}{Not charismatic}

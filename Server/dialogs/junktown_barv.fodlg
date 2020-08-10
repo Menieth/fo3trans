@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah, I'll have a drink and you not.@@Hello . . . bye.@@What you've said, friend?@@Don't talk, more drink.@@You got some money for a drink?}

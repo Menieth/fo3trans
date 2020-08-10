@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {11020}{}{See you later.@@Nevermind.@@Sorry to disturb you.@@Didn't mean to bother you.@@[Walk away]@@Wrong person, sorry.@@Nevermind, I thought you looked a bit like a friend@@Gotta go.@@You sound terribly uninteresting, bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, who are you?@@Hello there stranger.@@Who might you be?@@What do you want?@@What are you staring at?@@Excuse me, but why are you looking at me like that?@@Hey, are you looking for trouble or what?@@What are you looking for?@@Don't bother me. I've got enough of scattered thoughts already.@@What brings you here?}
@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {11020}{}{See you later.@@Nevermind.@@Sorry to disturb you.@@Didn't mean to bother you.@@[Walk away]@@Wrong person, sorry.@@Nevermind, I thought you looked a bit like a friend@@Gotta go.@@You sound terribly uninteresting, bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, who are you?@@Hello there stranger.@@Who might you be?@@What do you want?@@What are you staring at?@@Excuse me, but why are you looking at me like that?@@Hey, are you looking for trouble or what?@@What are you looking for?@@Don't bother me. I've got enough of scattered thoughts already.@@What brings you here?}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {11020}{}{See you later.@@Nevermind.@@Sorry to disturb you.@@Didn't mean to bother you.@@[Walk away]@@Wrong person, sorry.@@Nevermind, I thought you looked a bit like a friend@@Gotta go.@@You sound terribly uninteresting, bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, who are you?@@Hello there stranger.@@Who might you be?@@What do you want?@@What are you staring at?@@Excuse me, but why are you looking at me like that?@@Hey, are you looking for trouble or what?@@What are you looking for?@@Don't bother me. I've got enough of scattered thoughts already.@@What brings you here?}
@@ -182,7 +182,7 @@ lang=engl czec pols span russ
 {11020}{}{See you later.@@Nevermind.@@Sorry to disturb you.@@Didn't mean to bother you.@@[Walk away]@@Wrong person, sorry.@@Nevermind, I thought you looked a bit like a friend@@Gotta go.@@You sound terribly uninteresting, bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hi there, who are you?@@Hello there stranger.@@Who might you be?@@What do you want?@@What are you staring at?@@Excuse me, but why are you looking at me like that?@@Hey, are you looking for trouble or what?@@What are you looking for?@@Don't bother me. I've got enough of scattered thoughts already.@@What brings you here?}

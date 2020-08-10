@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -160,7 +160,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -262,7 +262,7 @@ lang=engl czec pols span russ
 {13020}{}{No, not today, actually. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}

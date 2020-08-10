@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Gotta keep these animals in cage.@@Don't do anything stupid.@@Wanna watch these animals fight? Visit The Ring.@@ Don't speak with our slaves.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Gotta keep these animals in cage.@@Don't do anything stupid.@@Wanna watch these animals fight? Visit The Ring.@@ Don't speak with our slaves.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Gotta keep these animals in cage.@@Don't do anything stupid.@@Wanna watch these animals fight? Visit The Ring.@@ Don't speak with our slaves.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Gotta keep these animals in cage.@@Don't do anything stupid.@@Wanna watch these animals fight? Visit The Ring.@@ Don't speak with our slaves.}

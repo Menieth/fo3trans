@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {100000001}{}{Move along!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Don't cause any trouble.@@Move along!@@Behave!@@Don't waste my time!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Don't cause any trouble.@@Move along!@@Behave!@@Don't waste my time!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Don't cause any trouble.@@Move along!@@Behave!@@Don't waste my time!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{Don't cause any trouble.@@Move along!@@Behave!@@Don't waste my time!}

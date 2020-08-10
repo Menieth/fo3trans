@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Mutant}
 {1020}{}{Unknown player}
@@ -232,7 +232,7 @@ lang=engl czec pols span russ
 {30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Mutant}
 {1020}{}{Unknown player}
@@ -307,7 +307,7 @@ lang=engl czec pols span russ
 {30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Mutant}
 {1020}{}{Unknown player}
@@ -382,7 +382,7 @@ lang=engl czec pols span russ
 {30000}{}{Good... Thank you for finding him. Here, take it as a reward.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Mutant}
 {1020}{}{Unknown player}

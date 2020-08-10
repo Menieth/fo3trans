@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {9000}{}{Woo-hoo!@@Hey man.@@Thanks man.@@I owe you man.@@I'm gonna be rich!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First chat.}
 {1020}{}{No shovel.}

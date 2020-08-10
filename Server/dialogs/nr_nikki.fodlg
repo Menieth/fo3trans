@@ -23,28 +23,28 @@ lang=engl czec pols span russ
 Hey, sweetie…(smiles)…wanna take a chance?@@If you're looking to win some chips, you came to the right place.@@Best casino in New Reno. In the WORLD, even.@@Lady Luck's in the house tonight…nothing but winners!@@Step right up, win some chips.@@Need another drink, honey?@@Welcome to the casino, honey.@@This table's free if you're looking to gamble…@@Hey there, honey. You looking to spend some chips?@@Looking to gamble, honey?@@Welcome to the casino, honey.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hey there, sweetie. You looking to spend some chips?@@Hey, sweetie…(winks)…you looking to gamble?@@
 Hey, sweetie…(smiles)…wanna take a chance?@@If you're looking to win some chips, you came to the right place.@@Best casino in New Reno. In the WORLD, even.@@Lady Luck's in the house tonight…nothing but winners!@@Step right up, win some chips.@@Need another drink, honey?@@Welcome to the casino, honey.@@This table's free if you're looking to gamble…@@Hey there, honey. You looking to spend some chips?@@Looking to gamble, honey?@@Welcome to the casino, honey.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hey there, sweetie. You looking to spend some chips?@@Hey, sweetie…(winks)…you looking to gamble?@@
 Hey, sweetie…(smiles)…wanna take a chance?@@If you're looking to win some chips, you came to the right place.@@Best casino in New Reno. In the WORLD, even.@@Lady Luck's in the house tonight…nothing but winners!@@Step right up, win some chips.@@Need another drink, honey?@@Welcome to the casino, honey.@@This table's free if you're looking to gamble…@@Hey there, honey. You looking to spend some chips?@@Looking to gamble, honey?@@Welcome to the casino, honey.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hey there, sweetie. You looking to spend some chips?@@Hey, sweetie…(winks)…you looking to gamble?@@
 Hey, sweetie…(smiles)…wanna take a chance?@@If you're looking to win some chips, you came to the right place.@@Best casino in New Reno. In the WORLD, even.@@Lady Luck's in the house tonight…nothing but winners!@@Step right up, win some chips.@@Need another drink, honey?@@Welcome to the casino, honey.@@This table's free if you're looking to gamble…@@Hey there, honey. You looking to spend some chips?@@Looking to gamble, honey?@@Welcome to the casino, honey.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hey there, sweetie. You looking to spend some chips?@@Hey, sweetie…(winks)…you looking to gamble?@@

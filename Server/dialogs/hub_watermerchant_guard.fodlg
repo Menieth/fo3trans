@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better keep your weapons holstered, stranger.@@Do you have any commodities to declare?@@Don't be waving your weapon in my face.@@Are you aiming that at me?@@No fighting in our town, tough guy.@@Don't you get into any fights with that.@@I'd recommend putting your weapon away.@@We'll shoot. Don't even think of it.@@You better stay away from the pumps.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{weapon in the hand}
 {1020}{}{Answer text}

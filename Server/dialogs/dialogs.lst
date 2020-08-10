@@ -1299,7 +1299,7 @@ $   22399   rockside_bank
 $   22400   ranger_terminal
 $   22401   vegas_gross
 $   22402   vegas_douglas
-   22403   talchem_computer
+#   22403   talchem_computer
 
 
 $   40004   all_exploding_barrel

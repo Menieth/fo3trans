@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {12010}{}{It must be an interesting task if you're a doctor or a chemist... But thank you for telling me.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm listening.}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {12010}{}{It must be an interesting task if you're a doctor or a chemist... But thank you for telling me.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm listening.}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {12010}{}{It must be an interesting task if you're a doctor or a chemist... But thank you for telling me.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm listening.}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {12010}{}{It must be an interesting task if you're a doctor or a chemist... But thank you for telling me.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{I'm listening.}

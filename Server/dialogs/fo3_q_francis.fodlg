@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {30000}{}{Cool, will be waiting for news from you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{[ Mutant ]}
 {1020}{}{[ Human ]}
@@ -266,7 +266,7 @@ lang=engl czec pols span russ
 {30000}{}{Cool, will be waiting for news from you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{[ Mutant ]}
 {1020}{}{[ Human ]}
@@ -353,7 +353,7 @@ lang=engl czec pols span russ
 {30000}{}{Cool, will be waiting for news from you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{[ Mutant ]}
 {1020}{}{[ Human ]}
@@ -440,7 +440,7 @@ lang=engl czec pols span russ
 {30000}{}{Cool, will be waiting for news from you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{[ Mutant ]}
 {1020}{}{[ Human ]}

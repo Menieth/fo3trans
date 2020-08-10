@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {10010}{}{Sure.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {10010}{}{Sure.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {10010}{}{Sure.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {10010}{}{Sure.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{quest taken}
 {1020}{}{quest}

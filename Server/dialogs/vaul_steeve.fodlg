@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {7000}{}{Vault City prevails, Citizen.@@Citizen.@@Hello, Citizen.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{citizen}
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {7000}{}{Vault City prevails, Citizen.@@Citizen.@@Hello, Citizen.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{citizen}
@@ -99,7 +99,7 @@ lang=engl czec pols span russ
 {7000}{}{Vault City prevails, Citizen.@@Citizen.@@Hello, Citizen.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{citizen}
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {7000}{}{Vault City prevails, Citizen.@@Citizen.@@Hello, Citizen.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dumb}
 {1020}{}{citizen}

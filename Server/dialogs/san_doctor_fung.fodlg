@@ -282,7 +282,7 @@ lang=engl czec pols span russ
 {30080}{}{Tactical Chip [You give him 50.000 @lex money@ and ingredients.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}
@@ -429,7 +429,7 @@ lang=engl czec pols span russ
 {30080}{}{Tactical Chip [You give him 50.000 @lex money@ and ingredients.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}
@@ -576,7 +576,7 @@ lang=engl czec pols span russ
 {30080}{}{Tactical Chip [You give him 50.000 @lex money@ and ingredients.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}
@@ -723,7 +723,7 @@ lang=engl czec pols span russ
 {30080}{}{Tactical Chip [You give him 50.000 @lex money@ and ingredients.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}

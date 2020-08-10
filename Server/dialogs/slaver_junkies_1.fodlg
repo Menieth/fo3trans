@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {9020}{}{Uh, wait, my boot lace...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {9020}{}{Uh, wait, my boot lace...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {9020}{}{Uh, wait, my boot lace...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {9020}{}{Uh, wait, my boot lace...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{all done}
 {1020}{}{talked}

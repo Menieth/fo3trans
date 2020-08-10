@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {18020}{}{I have changed my mind. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {18020}{}{I have changed my mind. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}
@@ -326,7 +326,7 @@ lang=engl czec pols span russ
 {18020}{}{I have changed my mind. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{It is dark outside...}
 {1020}{}{Weapon in hand?}

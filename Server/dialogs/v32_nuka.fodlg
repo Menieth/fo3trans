@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{How many ghouls does it take to change a lightbulb? They don't need to, they just hudle around the glowing one!@@What is a Rad-scorpions favorite song? Stinging In the Rain.@@What's Papa Khan's father called? Big Daddy Khan!@@You are so ugly, Angela Bishop became sterile when she looked at you.@@Your companions are so ugly that Liberty Prime thought the chinese took China to him.@@Hey, you wanna rig my shotgun?@@What do Mole Rats eat when they go camping? Marshmoleows,}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you is a working copy of Nuka Cola Vending Machine. It requires 10 @lex money@ to buy yourself a @lex prefix@ of Nuka Cola ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{How many ghouls does it take to change a lightbulb? They don't need to, they just hudle around the glowing one!@@What is a Rad-scorpions favorite song? Stinging In the Rain.@@What's Papa Khan's father called? Big Daddy Khan!@@You are so ugly, Angela Bishop became sterile when she looked at you.@@Your companions are so ugly that Liberty Prime thought the chinese took China to him.@@Hey, you wanna rig my shotgun?@@What do Mole Rats eat when they go camping? Marshmoleows,}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you is a working copy of Nuka Cola Vending Machine. It requires 10 @lex money@ to buy yourself a @lex prefix@ of Nuka Cola ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{How many ghouls does it take to change a lightbulb? They don't need to, they just hudle around the glowing one!@@What is a Rad-scorpions favorite song? Stinging In the Rain.@@What's Papa Khan's father called? Big Daddy Khan!@@You are so ugly, Angela Bishop became sterile when she looked at you.@@Your companions are so ugly that Liberty Prime thought the chinese took China to him.@@Hey, you wanna rig my shotgun?@@What do Mole Rats eat when they go camping? Marshmoleows,}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you is a working copy of Nuka Cola Vending Machine. It requires 10 @lex money@ to buy yourself a @lex prefix@ of Nuka Cola ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{How many ghouls does it take to change a lightbulb? They don't need to, they just hudle around the glowing one!@@What is a Rad-scorpions favorite song? Stinging In the Rain.@@What's Papa Khan's father called? Big Daddy Khan!@@You are so ugly, Angela Bishop became sterile when she looked at you.@@Your companions are so ugly that Liberty Prime thought the chinese took China to him.@@Hey, you wanna rig my shotgun?@@What do Mole Rats eat when they go camping? Marshmoleows,}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ In front of you is a working copy of Nuka Cola Vending Machine. It requires 10 @lex money@ to buy yourself a @lex prefix@ of Nuka Cola ]}

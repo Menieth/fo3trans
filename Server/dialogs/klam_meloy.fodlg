@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -217,7 +217,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -287,7 +287,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}
@@ -357,7 +357,7 @@ lang=engl czec pols span russ
 {22020}{}{Maybe I will check it out one day. See you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text, didnt talked before}
 {1020}{}{bereits gesprochen}

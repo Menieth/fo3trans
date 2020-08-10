@@ -19,28 +19,28 @@ lang=engl czec pols span russ
 {2010}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Furious vehicle of the past, scavenged somewhere on the highway, dream of every tough guy in leather jacket and black sunglasses. Many tried to handle this stallion, yet few succeed.}
 {2010}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Furious vehicle of the past, scavenged somewhere on the highway, dream of every tough guy in leather jacket and black sunglasses. Many tried to handle this stallion, yet few succeed.}
 {2010}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Furious vehicle of the past, scavenged somewhere on the highway, dream of every tough guy in leather jacket and black sunglasses. Many tried to handle this stallion, yet few succeed.}
 {2010}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Furious vehicle of the past, scavenged somewhere on the highway, dream of every tough guy in leather jacket and black sunglasses. Many tried to handle this stallion, yet few succeed.}

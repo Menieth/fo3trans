@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {9010}{}{The watershed you say... very well. Hope I can find him. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{You know about fucking base quest!}
 {1020}{}{night}

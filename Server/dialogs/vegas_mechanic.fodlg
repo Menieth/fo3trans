@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{This module needs to be replaced.@@Where is my toolbox..@@Servo-actuator in place.@@Ah, its leaking again.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{This module needs to be replaced.@@Where is my toolbox..@@Servo-actuator in place.@@Ah, its leaking again.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{This module needs to be replaced.@@Where is my toolbox..@@Servo-actuator in place.@@Ah, its leaking again.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{This module needs to be replaced.@@Where is my toolbox..@@Servo-actuator in place.@@Ah, its leaking again.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{This module needs to be replaced.@@Where is my toolbox..@@Servo-actuator in place.@@Ah, its leaking again.}

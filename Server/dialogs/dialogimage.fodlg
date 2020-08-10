@@ -13,7 +13,7 @@ lang=engl czec pols span russ
 0 2010 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Set dialog image}
 {1020}{}{Go}
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2010}{}{Looks cool, i guess.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Set dialog image}
 {1020}{}{Go}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2010}{}{Looks cool, i guess.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Set dialog image}
 {1020}{}{Go}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2010}{}{Looks cool, i guess.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Set dialog image}
 {1020}{}{Go}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2010}{}{Looks cool, i guess.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Set dialog image}
 {1020}{}{Go}

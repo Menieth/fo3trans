@@ -42,7 +42,7 @@ lang=engl czec pols span russ
 15 15000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -123,7 +123,7 @@ Reactor in self control mode.
 }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -204,7 +204,7 @@ Reactor in self control mode.
 }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -285,7 +285,7 @@ Reactor in self control mode.
 }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -366,7 +366,7 @@ Reactor in self control mode.
 }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }

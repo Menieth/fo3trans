@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -217,7 +217,7 @@ lang=engl czec pols span russ
 {12000}{}{You are in my way. Move.@@Why don't you go back outside with the others?@@Keep your distance, Outworlder.@@Get out of my sight.@@Looks like they're issuing Day Passes to any trash these days.@@Get out of here.@@Be careful or I’ll call the guards.@@I’m watching you.@@What's that smell? Oh.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2030}{}{I AM YOUR DOOM!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a... The heck are you doing here?}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {2030}{}{I AM YOUR DOOM!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a... The heck are you doing here?}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {2030}{}{I AM YOUR DOOM!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a... The heck are you doing here?}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {2030}{}{I AM YOUR DOOM!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What a... The heck are you doing here?}

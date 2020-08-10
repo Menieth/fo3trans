@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -243,7 +243,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished
@@ -303,7 +303,7 @@ lang=engl czec pols span russ
 {20010}{}{It's been a pleasure, Mick.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest Finished

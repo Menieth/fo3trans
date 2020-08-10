@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{I'm not the one you want. Go hassle Marty.@@Go speak to Marty if you're looking for something.@@Look pal, I'm just the looks in this operation.@@You're not gonna get in a film by bothering me.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{I'm not the one you want. Go hassle Marty.@@Go speak to Marty if you're looking for something.@@Look pal, I'm just the looks in this operation.@@You're not gonna get in a film by bothering me.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{I'm not the one you want. Go hassle Marty.@@Go speak to Marty if you're looking for something.@@Look pal, I'm just the looks in this operation.@@You're not gonna get in a film by bothering me.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{I'm not the one you want. Go hassle Marty.@@Go speak to Marty if you're looking for something.@@Look pal, I'm just the looks in this operation.@@You're not gonna get in a film by bothering me.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{I'm not the one you want. Go hassle Marty.@@Go speak to Marty if you're looking for something.@@Look pal, I'm just the looks in this operation.@@You're not gonna get in a film by bothering me.}

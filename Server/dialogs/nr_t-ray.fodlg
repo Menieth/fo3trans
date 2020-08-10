@@ -174,7 +174,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}
@@ -256,7 +256,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}
@@ -338,7 +338,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}
@@ -420,7 +420,7 @@ lang=engl czec pols span russ
 {31020}{}{Yeah, right. I gotta go.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey, what can T-Ray do for you? We're in the business of buyin', sellin', repairin' and modifyin' all kinds of vehicles.}

@@ -31,6 +31,12 @@
 {520}{}{Preens @sex@|him||her|self} # Cosmetic
 {530}{}{. Puffs on a cig .oO} # Cigarettes
 
+{540}{}{Chips} # Cigarettes
+{550}{}{Dollars} # Cigarettes
+{560}{}{Scrips} # Cigarettes
+{570}{}{Pounds} # Cigarettes
+{580}{}{Rings} # Cigarettes
+{590}{}{Caps} # Cigarettes
 
 # Use
 {1500}{}{The distillation device is out of order.}

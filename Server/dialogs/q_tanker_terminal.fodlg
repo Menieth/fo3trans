@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {9040}{}{[Logoff from the terminal.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Computer hacked}
 {1020}{}{Computer not hacked}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {9040}{}{[Logoff from the terminal.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Computer hacked}
 {1020}{}{Computer not hacked}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {9040}{}{[Logoff from the terminal.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Computer hacked}
 {1020}{}{Computer not hacked}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {9040}{}{[Logoff from the terminal.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Computer hacked}
 {1020}{}{Computer not hacked}

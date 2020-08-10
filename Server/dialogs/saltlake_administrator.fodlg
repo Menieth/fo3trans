@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {5010}{}{Sorry. And now I have to go. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes, what?}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {5010}{}{Sorry. And now I have to go. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes, what?}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {5010}{}{Sorry. And now I have to go. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes, what?}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {5010}{}{Sorry. And now I have to go. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes, what?}

@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 0 5010 D _var p q_hawthorne_christ = 1 R _var p q_hawthorne_christ = 2 R _param p ST_EXPERIENCE + 450 R _item p PID_CATS_PAW_ISSUE_5 + 1 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Take it and leave. ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Take it and leave. ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Take it and leave. ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {5010}{}{[ Take it and leave. ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ The Board seems to be broken, however you can still see some electricity sparkles... ]}

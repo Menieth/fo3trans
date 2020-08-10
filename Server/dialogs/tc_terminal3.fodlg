@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Back ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Back ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Back ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {4020}{}{[ Back ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ TalChem HQ. Welcome, Head Scientist Fernand. ]}

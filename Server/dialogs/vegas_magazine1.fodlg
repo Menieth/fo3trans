@@ -13,7 +13,7 @@ lang=engl czec pols span russ
 0 2020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This device sells "Cat's Paw" magazines for 50 @lex money@ each. ]}
@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Leave ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This device sells "Cat's Paw" magazines for 50 @lex money@ each. ]}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Leave ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This device sells "Cat's Paw" magazines for 50 @lex money@ each. ]}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Leave ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This device sells "Cat's Paw" magazines for 50 @lex money@ each. ]}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {2020}{}{[ Leave ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ This device sells "Cat's Paw" magazines for 50 @lex money@ each. ]}

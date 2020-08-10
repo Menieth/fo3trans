@@ -175,7 +175,7 @@ lang=engl czec pols span russ
 {24050}{}{If you don't go now, we will ripp you into pieces. Trust me, you will not have some easy fun with me and the folks you see behind me. *DEV NOTE: WIN Scared away, if the level of all players is > x*}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{scared away}
 {1020}{}{paid money}
@@ -258,7 +258,7 @@ lang=engl czec pols span russ
 {24050}{}{If you don't go now, we will ripp you into pieces. Trust me, you will not have some easy fun with me and the folks you see behind me. *DEV NOTE: WIN Scared away, if the level of all players is > x*}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{scared away}
 {1020}{}{paid money}
@@ -341,7 +341,7 @@ lang=engl czec pols span russ
 {24050}{}{If you don't go now, we will ripp you into pieces. Trust me, you will not have some easy fun with me and the folks you see behind me. *DEV NOTE: WIN Scared away, if the level of all players is > x*}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{scared away}
 {1020}{}{paid money}
@@ -424,7 +424,7 @@ lang=engl czec pols span russ
 {24050}{}{If you don't go now, we will ripp you into pieces. Trust me, you will not have some easy fun with me and the folks you see behind me. *DEV NOTE: WIN Scared away, if the level of all players is > x*}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{scared away}
 {1020}{}{paid money}

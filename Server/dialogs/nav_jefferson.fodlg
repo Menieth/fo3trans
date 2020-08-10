@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {9010}{}{Thank you for sharing that knowledge with me, Jefferson. See you around!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

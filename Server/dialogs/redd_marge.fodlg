@@ -190,7 +190,7 @@ lang=engl czec pols span russ
 {25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -281,7 +281,7 @@ lang=engl czec pols span russ
 {25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -372,7 +372,7 @@ lang=engl czec pols span russ
 {25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}
@@ -463,7 +463,7 @@ lang=engl czec pols span russ
 {25020}{}{I need main@dlg_Caps of your stinking money! [Leave]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Idiot}
 {1020}{}{Unknown}

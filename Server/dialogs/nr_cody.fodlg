@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}
@@ -223,7 +223,7 @@ lang=engl czec pols span russ
 {10000}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{Low Karma}

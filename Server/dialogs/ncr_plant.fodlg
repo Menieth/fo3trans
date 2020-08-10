@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {12000}{}{Have a good day, dear visitor.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
@@ -89,7 +89,7 @@ lang=engl czec pols span russ
 {12000}{}{Have a good day, dear visitor.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {12000}{}{Have a good day, dear visitor.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {12000}{}{Have a good day, dear visitor.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{Ah, greetings to you, my dear visitor. How may I serve you today?}

@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {12000}{}{Pickings are thinning out round here.@@Maybe I should just take off again.@@I should see what's up North.@@Cut my damn hand again.@@Howdy friend.@@Seen anything good in with the junk lately?@@Hope I taught you a thing or two about getting by.@@Can't depend on nobody but yourself, don't forget that.@@Howdy.@@::Nods::}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First time}
 {1020}{}{No junks}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {12000}{}{Pickings are thinning out round here.@@Maybe I should just take off again.@@I should see what's up North.@@Cut my damn hand again.@@Howdy friend.@@Seen anything good in with the junk lately?@@Hope I taught you a thing or two about getting by.@@Can't depend on nobody but yourself, don't forget that.@@Howdy.@@::Nods::}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First time}
 {1020}{}{No junks}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {12000}{}{Pickings are thinning out round here.@@Maybe I should just take off again.@@I should see what's up North.@@Cut my damn hand again.@@Howdy friend.@@Seen anything good in with the junk lately?@@Hope I taught you a thing or two about getting by.@@Can't depend on nobody but yourself, don't forget that.@@Howdy.@@::Nods::}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First time}
 {1020}{}{No junks}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {12000}{}{Pickings are thinning out round here.@@Maybe I should just take off again.@@I should see what's up North.@@Cut my damn hand again.@@Howdy friend.@@Seen anything good in with the junk lately?@@Hope I taught you a thing or two about getting by.@@Can't depend on nobody but yourself, don't forget that.@@Howdy.@@::Nods::}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First time}
 {1020}{}{No junks}

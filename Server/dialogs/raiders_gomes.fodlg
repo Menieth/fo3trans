@@ -112,7 +112,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -214,7 +214,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}
@@ -265,7 +265,7 @@ lang=engl czec pols span russ
 {18000}{}{Beat it, ya little punk!@@Wasting my time, little@sex@|fucker||bitch|...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Attack if you bother him}
 {1020}{}{Hostile to good people}

@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hey there.@@Without a new shipment we won't stand long...@@I am on post.@@Hello. Another bluesuit, heh?@@What a hot day...@@Doc still has his scorpios messing around.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.@@Without a new shipment we won't stand long...@@I am on post.@@Hello. Another bluesuit, heh?@@What a hot day...@@Doc still has his scorpios messing around.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.@@Without a new shipment we won't stand long...@@I am on post.@@Hello. Another bluesuit, heh?@@What a hot day...@@Doc still has his scorpios messing around.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.@@Without a new shipment we won't stand long...@@I am on post.@@Hello. Another bluesuit, heh?@@What a hot day...@@Doc still has his scorpios messing around.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey there.@@Without a new shipment we won't stand long...@@I am on post.@@Hello. Another bluesuit, heh?@@What a hot day...@@Doc still has his scorpios messing around.}

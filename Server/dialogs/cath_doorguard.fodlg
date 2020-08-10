@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {9020}{}{Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{weapons}
 {1020}{}{---}

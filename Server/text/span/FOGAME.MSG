@@ -61,7 +61,7 @@
 
 ####################################################################################################################################
 #
-#		Music/Video
+#       Music/Video
 #
 ####################################################################################################################################
 
@@ -70,7 +70,7 @@
 
 ####################################################################################################################################
 #
-#		Chat
+#       Chat
 #
 ####################################################################################################################################
 
@@ -1852,25 +1852,25 @@
 {103842}{}{Tienes una gran misión, muchos desafíos. Entonces necesitas 3 ventajas adicionales, pero tu tasa de curación no funciona mas.}
 # PE_GAIN_STRENGTH
 {103851}{}{Gana Fuerza}
-{103852}{}{Con esta ventaja ganas +1 a tu fuerza.}
+{103852}{}{Con esta ventaja ganas +2 a tu fuerza.}
 # PE_GAIN_PERCEPTION
 {103861}{}{Gana Percepcion}
-{103862}{}{Con esta ventaja ganas +1 a tu percepcion.}
+{103862}{}{Con esta ventaja ganas +2 a tu percepcion.}
 # PE_GAIN_ENDURANCE
 {103871}{}{Gana Resistencia}
-{103872}{}{Con esta ventaja ganas +1 a tu resistencia.}
+{103872}{}{Con esta ventaja ganas +2 a tu resistencia.}
 # PE_GAIN_CHARISMA
 {103881}{}{Gana Carisma}
-{103882}{}{Con esta ventaja ganas +1 a tu carisma.}
+{103882}{}{Con esta ventaja ganas +2 a tu carisma.}
 # PE_GAIN_INTELLIGENCE
 {103891}{}{Gana Inteligencia}
-{103892}{}{Con esta ventaja ganas +1 a tu inteligencia.}
+{103892}{}{Con esta ventaja ganas +2 a tu inteligencia.}
 # PE_GAIN_AGILITY
 {103901}{}{Gana Agilidad}
-{103902}{}{Con esta ventaja ganas +1 a tu agilidad.}
+{103902}{}{Con esta ventaja ganas +2 a tu agilidad.}
 # PE_GAIN_LUCK
 {103911}{}{Gana Suerte}
-{103912}{}{Con esta ventaja ganas +1 a tu suerte.}
+{103912}{}{Con esta ventaja ganas +2 a tu suerte.}
 # PE_HARMLESS
 {103921}{}{Inofensivo}
 {103922}{}{Su comportamiento inocente hace que robar a las personas sea un poco más fácil. Pierdes solo la mitad de la reputación cuando robas.}
@@ -2580,7 +2580,7 @@ Comandos para el Chat:
 
 ####################################################################################################################################
 #
-#		Credits
+#       Credits
 #
 ####################################################################################################################################
 
@@ -2816,7 +2816,7 @@ burzum
 Tails
 SmartCheetah
 Nails/coliphorbs
-BeF1990 
+BeF1990
 
 |0xff706050 Short story "Joyride":
 |0xff907824 Cerebro
@@ -2838,7 +2838,7 @@ For the long hair dude and other new critters!
 
 NA2RAL for the desert combat armor
 WHINE Team for many, many things
- 
+
 and all others we forgot right now...
 
 ... sorry! :(
@@ -2848,85 +2848,85 @@ and all others we forgot right now...
 {2000001020}{}{
 |0xff907824  Everything said in this channel can and will be used
 against you in the future, thanks to logging.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 
 
 |0xff907824 Wait, i try another internet.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 Multipronged research was undertaken in the long-run
 conspiracy of thousand-year plan of autoevolution.
-|0xff706050	-- AHS-9
+|0xff706050 -- AHS-9
 
 
 |0xff907824 German language is funny. Like in porno.
 Oh dast is fantastish, ja ja.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 German pornos are so embarassing.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 Slim got those 50+ year old babes around him, the rest
 of us had one girl for a day on the channel...
 man, that's what i call a good sex!
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Then I'll be able to film my movie called
 Broken Hills Mountains.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 So shorter means better.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Teleporn. Wasn't it supposed to be: 'teleport'?
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Need drink vodka and eat hot food.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 Female are bitches.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 |0xff907824 It was about female mosquitos.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 I have shat my pants while playing MDK...
 well, I was very young back then.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 |0xff907824 20?
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 I am installing the english version of Fallout 2 right now.
 After that, I need one or two people for screenshots.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 Posing gladly, naked for money only.
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Where there's a hole, there's a way.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Did ya fix the HOLE in da wall, bitch?
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Okay, enough radiation for me today,
 going back to slave business.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 Why the fuck are molerats so strong?! I had metal armor
@@ -2934,288 +2934,288 @@ and grease gun, took 3 burst fires to kill one of the
 fucks, they raped the shit out of me as if i wasn't
 wearing anything at all. Fuck. Those rats are bigger
 than fucking bears.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Server crashes more often then shuts normally haha.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Some traders in Hub are missing.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 |0xff907824 Kidnapped, killed and buried god knows where...
 we need the LYNCH MOB!
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Jack is highwayman-spawning machine.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 I don't like using this brain thing. It's annoying.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 I got small penis too... but i'm THE technician.
 Can do things you mortals can only dream of.
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 My team leader is my penis.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 And my GF interested after your second video -
 where from SlimCharles?
-|0xff706050	-- LLITiF
+|0xff706050 -- LLITiF
 
 
 |0xff907824 Every girl in russia is dreaming about Lexx.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 So he won't lose interest, he's strong
 third party asses right now.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 But talking about rape is somewhat boring.
 I am not really interested in that.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Eventually there will be a 6 hour cybersex with Lynette.
-|0xff706050	-- SlimCharles
+|0xff706050 -- SlimCharles
 
 
 |0xff907824 Nevertheless, if you're full of beer you
 don't mind where you piss at all.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Well, but it's simple biology.
 You watch hot female, you get a hard one.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Damn lesbians, didn't shut the fuck up.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 I am the kaizer from shaizer.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Maybe we should try something similar with fonline.
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Filming nerdy polaks doesn't sound that good.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Atom you are drunked?
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 |0xff907824 Nope, he's retarded.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 They should rather learn from Trotsky and make a good
 deal of revolution, not this kind of pussy cat fight.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 Bleh, that quest idea has become shitty now
 I need something new, that is at least medium-size.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 |0xff907824 My dick.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 |0xff907824 That's not a quest, that's a joke.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 |0xff907824 So I've heard.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Scyp's designing hairstyles now.
-|0xff706050	-- Solar
+|0xff706050 -- Solar
 
 
 |0xff907824 I can't fucking believe it... The Rotators -
 The most gay group in the whole universe!
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 He might have become gay too, while being in here.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
-|0xff907824 Lexx is a sex slave? 
-|0xff706050	-- Solar
+|0xff907824 Lexx is a sex slave?
+|0xff706050 -- Solar
 
 
 |0xff907824 Ass too wiry.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 It was hard for me to remove
 "your eyes were poured by a boiling water".
-|0xff706050	-- SlimCharles
+|0xff706050 -- SlimCharles
 
 
 |0xff907824 I met a russian, he's great. I said 'secret',
 he said 'secret anal'.
-|0xff706050	-- SlimCharles
+|0xff706050 -- SlimCharles
 
 
 |0xff907824 Need big gan. Usa man yel in ncr, his wann
 maney bat me keel him and tack his item.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 |0xff907824 Better teach him something that
 will make him insult Lexx later.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 "Russian powergamers" would be great
 for a special encounter.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Germany's in crysis. Time to start a war.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Man, I jammed my balls while walking.
 Dunno how, but I can't sit now.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 It's not a true jrpg, if you don't
 have a homo hero to play.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Gay dinosaurs, bad idea.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 The kids should play with real guns.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Fact is that homo can cook, and can cook good. Or its all just a coincidence, or there is a constant that needs deeper research.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 I will sacrifice my body to ZAX.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 No, its cultural program.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 I see lisac is almost working.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 My kitchen looks like ass.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 I'm already crazy... town_h.fos, enough said.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 |0xff907824 Therefore a little bit oil is enough to get the job done.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 Can be solved by timeout.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 |0xff907824 Why do you complicate my life
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 |0xff907824 I love to complicate your life. When i woke up this morning, i thought
 "Hm. I should complicate scyps life a bit today"
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 I steal from rich devs and give other stuff to poor devs.
 I am Robin Hood of coding.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 What the- I tested it, I swear!
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 Bots!
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 |0xff907824 Perl.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 Evil.
 What these three words have in common?
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 |0xff907824 Where bot is the question, Perl is the answer.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 Evil is the result!
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 I just want red head girl, damn the lack of progress!
-|0xff706050	-- Solar
+|0xff706050 -- Solar
 
 
 |0xff907824 It's incredibly stupid, complicated and it doesn't work.
-|0xff706050	-- Lisac
+|0xff706050 -- Lisac
 
 
 |0xff907824 I make more sense than players even when drunk, so it's ok.
-|0xff706050	-- Solar
+|0xff706050 -- Solar
 
 
 |0xff907824 Ah, Rotators. Music, physics, links to weird porn, bad jokes about jobs
-that we have, or don't have, and occasionally some words about FOnline! 
-|0xff706050	-- Atom
+that we have, or don't have, and occasionally some words about FOnline!
+|0xff706050 -- Atom
 
 
 |0xff907824 My bed needs some rage.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 |0xff907824 Was it pick-up line?
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 I would love to have a black girlfriend. This makes you totally a hipster.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 When something doesn't make sense in FOnline. Just ask yourself:
 "Is it a bug?" No...
 "Is it a feature?" No...
 Then it's prehistoric stuff.
-|0xff706050	-- Mayck
+|0xff706050 -- Mayck
 
 
 |0xff907824 I should proceed with that, as vals hater.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 Vals, rats, what else?
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 |0xff907824 Beer.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 There's a lot of hate inside you. To anger this leads, and anger leads
 to the dark side. Can't we just all hate JavaScript? And only that.
 I'm joking of course.
 Why hate something that is unending source of amusement.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 Almost any engine problem can be solved by spawning more items.
-|0xff706050	-- JovankaB
+|0xff706050 -- JovankaB
 
 
 |0xff907824 Uncrustify destroyed drugs_data.fos, it looks like space invaders now.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 }

@@ -23,25 +23,25 @@ lang=engl czec pols span russ
 {2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{*Hnffff*@@*Hnrggg*@@::Flexes::@@I'm bushed@@I'm tired@@*Phewwww* Rough day@@Working out always makes me tired@@Fighting exhausts me@@Better go polish my glass jaw.}

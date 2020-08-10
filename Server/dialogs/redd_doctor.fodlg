@@ -171,7 +171,7 @@ lang=engl czec pols span russ
 {26010}{}{You're a weird man, Johnson. Thanks for the info.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{ia ciaeii}
@@ -252,7 +252,7 @@ lang=engl czec pols span russ
 {26010}{}{You're a weird man, Johnson. Thanks for the info.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{ia ciaeii}
@@ -333,7 +333,7 @@ lang=engl czec pols span russ
 {26010}{}{You're a weird man, Johnson. Thanks for the info.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{ia ciaeii}
@@ -414,7 +414,7 @@ lang=engl czec pols span russ
 {26010}{}{You're a weird man, Johnson. Thanks for the info.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{ia ciaeii}

@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {4000}{}{Good... He can come now.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello? Do you need something?}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{Good... He can come now.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello? Do you need something?}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {4000}{}{Good... He can come now.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello? Do you need something?}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {4000}{}{Good... He can come now.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello? Do you need something?}

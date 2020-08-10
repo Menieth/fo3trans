@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ You got something out of the pile ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a junk pile ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ You got something out of the pile ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a junk pile ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ You got something out of the pile ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a junk pile ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ You got something out of the pile ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ You see a junk pile ]}

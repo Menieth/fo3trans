@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{I'm bored.@@Catch the fight last night?@@Can't wait until this shift is over.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I'm bored.@@Catch the fight last night?@@Can't wait until this shift is over.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I'm bored.@@Catch the fight last night?@@Can't wait until this shift is over.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I'm bored.@@Catch the fight last night?@@Can't wait until this shift is over.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{I'm bored.@@Catch the fight last night?@@Can't wait until this shift is over.}

@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}
@@ -184,7 +184,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}
@@ -228,7 +228,7 @@ lang=engl czec pols span russ
 {14010}{}{See you later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{job running}
 {1020}{}{job done}

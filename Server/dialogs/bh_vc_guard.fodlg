@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Not now.@@I can't talk with you.@@I mustn't chit chat on my post.@@Stop messing near me.@@Hey.}

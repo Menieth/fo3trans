@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {14000}{}{I don't believe you are experienced enough for me.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ans}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {14000}{}{I don't believe you are experienced enough for me.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ans}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {14000}{}{I don't believe you are experienced enough for me.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ans}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {14000}{}{I don't believe you are experienced enough for me.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ans}

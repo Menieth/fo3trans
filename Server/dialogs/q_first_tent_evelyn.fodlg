@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}
@@ -178,7 +178,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}
@@ -235,7 +235,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}
@@ -292,7 +292,7 @@ lang=engl czec pols span russ
 {18010}{}{Ug! [You smile and wave hand until they disappear on the horizon.]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First talk, didn't take quest.}
 {1020}{}{Second talk, didn't take quest.}

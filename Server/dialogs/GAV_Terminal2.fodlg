@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {6010}{}{[ Back ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Error. Low Energy level. Please insert a microfusion cell or 40 small energy cells ]}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {6010}{}{Yes, sir!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Error. Low Energy level. Please insert a microfusion cell or 40 small energy cells ]}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {6010}{}{[ Back ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Error. Low Energy level. Please insert a microfusion cell or 40 small energy cells ]}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {6010}{}{[ Back ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... Error. Low Energy level. Please insert a microfusion cell or 40 small energy cells ]}

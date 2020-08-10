@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{it is night}
 {1020}{}{normal}
@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{it is night}
 {1020}{}{normal}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{it is night}
 {1020}{}{normal}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@I'm busy. Leave me alone.@@Where did I put that thing . . .@@What are you doing here?@@Ain't Junktown a sight for sore eyes?@@Yeah... whatever.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{it is night}
 {1020}{}{normal}

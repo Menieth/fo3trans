@@ -146,7 +146,7 @@ lang=engl czec pols span russ
 {19020}{}{Thanks. I'll get going now.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb unknown}
@@ -213,7 +213,7 @@ lang=engl czec pols span russ
 {19020}{}{Thanks. I'll get going now.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb unknown}
@@ -280,7 +280,7 @@ lang=engl czec pols span russ
 {19020}{}{Thanks. I'll get going now.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb unknown}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {19020}{}{Thanks. I'll get going now.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb unknown}

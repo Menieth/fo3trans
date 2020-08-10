@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {3000}{}{We research different organisms in there.@@Insects, mammals, reptiles... They all react different to FEV.@@We have not made any significant progress yet.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{important member}

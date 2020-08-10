@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {16000}{}{[She blushes]@@Welcome back.@@Hey sweetie.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{tard}
 {1020}{}{postfucking}

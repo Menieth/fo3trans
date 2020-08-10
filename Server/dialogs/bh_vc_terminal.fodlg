@@ -14,7 +14,7 @@ lang=engl czec pols span russ
 3 3000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ MACHINE STATUS TERMINAL OPERATING... WELCOME! ]}
@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ INFORMATION COPIED ON YOUR PIP BOY ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ MACHINE STATUS TERMINAL OPERATING... WELCOME! ]}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ INFORMATION COPIED ON YOUR PIP BOY ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ MACHINE STATUS TERMINAL OPERATING... WELCOME! ]}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ INFORMATION COPIED ON YOUR PIP BOY ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ MACHINE STATUS TERMINAL OPERATING... WELCOME! ]}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ INFORMATION COPIED ON YOUR PIP BOY ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ MACHINE STATUS TERMINAL OPERATING... WELCOME! ]}

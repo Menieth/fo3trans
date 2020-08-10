@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {8010}{}{Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey, man, I’m Joey. What're you doin' on my turf?}

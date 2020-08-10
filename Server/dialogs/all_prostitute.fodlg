@@ -20,28 +20,28 @@ lang=engl czec pols span russ
 }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@Looking for a date?@@Looking for some company?@@Wanna dance?@@New stranger in town, looks like…@@Wanna fly?@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?
 }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@Looking for a date?@@Looking for some company?@@Wanna dance?@@New stranger in town, looks like…@@Wanna fly?@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?
 }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@Looking for a date?@@Looking for some company?@@Wanna dance?@@New stranger in town, looks like…@@Wanna fly?@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?
 }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{My name's Easy. What's yours?@@Need a little company?@@Let me teach you some things only a woman can teach.@@Need someone to warm your tent?@@Need someone to share your bedroll?@@Got some hot-rocks there, pal.@@Lookin' for some action?@@Looking for a date?@@Looking for some company?@@Wanna dance?@@New stranger in town, looks like…@@Wanna fly?@@Let me cheer you up, sad clown.@@Too many streetwalkers in this town, not enough chips to go around.@@Been walking this street since last night...@@Need a friend for the evening? Or just ten minutes?@@Looking for a good time?@@Looking to go down-town@@Need a guide around town, sugah?

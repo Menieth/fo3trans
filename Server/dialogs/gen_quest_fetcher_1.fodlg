@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {10000}{}{Hmm...@@Hi.@@::Shuffle::@@What?@@Breeze, man.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Got 2 tails}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {10000}{}{Hmm...@@Hi.@@::Shuffle::@@What?@@Breeze, man.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Got 2 tails}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {10000}{}{Hmm...@@Hi.@@::Shuffle::@@What?@@Breeze, man.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Got 2 tails}
@@ -178,7 +178,7 @@ lang=engl czec pols span russ
 {10000}{}{Hmm...@@Hi.@@::Shuffle::@@What?@@Breeze, man.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting.}
 {1020}{}{Got 2 tails}

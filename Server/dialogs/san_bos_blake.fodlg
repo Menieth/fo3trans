@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {7020}{}{I see. Gotta go now, bye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{not BoS member}
 {1020}{}{Unknown member}

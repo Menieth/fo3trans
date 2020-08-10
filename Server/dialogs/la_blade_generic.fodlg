@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {12010}{}{Ok then. Where do you think did he moved to?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about trapper / bunker quest.}
 {1020}{}{normal}

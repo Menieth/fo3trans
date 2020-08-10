@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {7000}{}{You did? Great! Well, here is the thing I told you about... Now, if you may... I need to get this crap to his workshop.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh well... Hello?}
@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {7000}{}{You did? Great! Well, here is the thing I told you about... Now, if you may... I need to get this crap to his workshop.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh well... Hello?}
@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {7000}{}{You did? Great! Well, here is the thing I told you about... Now, if you may... I need to get this crap to his workshop.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh well... Hello?}
@@ -100,7 +100,7 @@ lang=engl czec pols span russ
 {7000}{}{You did? Great! Well, here is the thing I told you about... Now, if you may... I need to get this crap to his workshop.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh well... Hello?}

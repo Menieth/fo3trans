@@ -170,7 +170,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {26010}{}{Uh, sure!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{What can I do for you?}
@@ -253,7 +253,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {26010}{}{Uh, sure!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{What can I do for you?}
@@ -336,7 +336,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {26010}{}{Uh, sure!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{What can I do for you?}
@@ -419,7 +419,7 @@ Attacking criminals on sight: @lex attackflagged@}
 {26010}{}{Uh, sure!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Normal}
 {2000}{}{What can I do for you?}

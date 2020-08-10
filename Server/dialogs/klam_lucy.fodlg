@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}
@@ -261,7 +261,7 @@ lang=engl czec pols span russ
 {17000}{}{Hernandez...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not started quest}
 {1020}{}{Mid quest}

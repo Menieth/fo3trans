@@ -14,7 +14,7 @@ lang=engl
 3 3000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ RX-416 SYSTEM ONLINE. ERROR GENERAL MULFUNCTION DETECTED! ]}

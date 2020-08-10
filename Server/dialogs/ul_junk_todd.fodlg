@@ -129,7 +129,7 @@ lang=engl czec pols span russ
 {23000}{}{Go West *Marking location on your pipboy**}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -190,7 +190,7 @@ lang=engl czec pols span russ
 {23000}{}{Go West *Marking location on your pipboy**}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -251,7 +251,7 @@ lang=engl czec pols span russ
 {23000}{}{Go West *Marking location on your pipboy**}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -312,7 +312,7 @@ lang=engl czec pols span russ
 {23000}{}{Go West *Marking location on your pipboy**}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{2}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }

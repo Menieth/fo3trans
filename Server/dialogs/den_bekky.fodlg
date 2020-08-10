@@ -143,7 +143,7 @@ lang=engl czec pols span russ
 {18000}{}{I think you're in the wrong bar.@@Try the Hole.@@No drinks today.@@Sorry, not interested.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {18000}{}{I think you're in the wrong bar.@@Try the Hole.@@No drinks today.@@Sorry, not interested.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -279,7 +279,7 @@ lang=engl czec pols span russ
 {18000}{}{I think you're in the wrong bar.@@Try the Hole.@@No drinks today.@@Sorry, not interested.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {18000}{}{I think you're in the wrong bar.@@Try the Hole.@@No drinks today.@@Sorry, not interested.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Ugly}

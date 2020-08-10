@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Look buddy, I'm an engineer. That means I solve problems.@@Not problems like, 'What is Beauty?' because that would fall within the purview of your conundrums of philosophy. I solve practical problems.@@Git along, little doggy.@@C'mon, Toto.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Look buddy, I'm an engineer. That means I solve problems.@@Not problems like, 'What is Beauty?' because that would fall within the purview of your conundrums of philosophy. I solve practical problems.@@Git along, little doggy.@@C'mon, Toto.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Look buddy, I'm an engineer. That means I solve problems.@@Not problems like, 'What is Beauty?' because that would fall within the purview of your conundrums of philosophy. I solve practical problems.@@Git along, little doggy.@@C'mon, Toto.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Look buddy, I'm an engineer. That means I solve problems.@@Not problems like, 'What is Beauty?' because that would fall within the purview of your conundrums of philosophy. I solve practical problems.@@Git along, little doggy.@@C'mon, Toto.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Look buddy, I'm an engineer. That means I solve problems.@@Not problems like, 'What is Beauty?' because that would fall within the purview of your conundrums of philosophy. I solve practical problems.@@Git along, little doggy.@@C'mon, Toto.}

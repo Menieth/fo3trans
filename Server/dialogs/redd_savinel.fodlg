@@ -66,7 +66,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you dumb-ass.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ciaeii}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you dumb-ass.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ciaeii}
@@ -124,7 +124,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you dumb-ass.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ciaeii}
@@ -153,7 +153,7 @@ lang=engl czec pols span russ
 {7000}{}{Get out of here, you dumb-ass.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {1020}{}{ciaeii}

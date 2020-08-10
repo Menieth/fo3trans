@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Ahhhh...@@I'm floating...@@All the colors...@@More longer friend see that sky?@@They aren't listening...@@Where am I?@@There it is!@@Whoa, no! Stop! Wait! Okay, go ahead.@@There, there... ahh...@@Sasha? Where are you Sasha?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{-}
 {2000}{}{Ahhhh...@@I'm floating...@@All the colors...@@More longer friend see that sky?@@They aren't listening...@@Where am I?@@There it is!@@Whoa, no! Stop! Wait! Okay, go ahead.@@There, there... ahh...@@Sasha? Where are you Sasha?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{-}
 {2000}{}{Ahhhh...@@I'm floating...@@All the colors...@@More longer friend see that sky?@@They aren't listening...@@Where am I?@@There it is!@@Whoa, no! Stop! Wait! Okay, go ahead.@@There, there... ahh...@@Sasha? Where are you Sasha?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{-}
 {2000}{}{Ahhhh...@@I'm floating...@@All the colors...@@More longer friend see that sky?@@They aren't listening...@@Where am I?@@There it is!@@Whoa, no! Stop! Wait! Okay, go ahead.@@There, there... ahh...@@Sasha? Where are you Sasha?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{-}
 {2000}{}{Ahhhh...@@I'm floating...@@All the colors...@@More longer friend see that sky?@@They aren't listening...@@Where am I?@@There it is!@@Whoa, no! Stop! Wait! Okay, go ahead.@@There, there... ahh...@@Sasha? Where are you Sasha?}

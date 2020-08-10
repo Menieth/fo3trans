@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -156,7 +156,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -193,7 +193,7 @@ lang=engl czec pols span russ
 {12010}{}{Thanks Peter, I think I need to go and lie down to recover from that!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}

@@ -15,7 +15,7 @@ lang=engl czec pols span russ
 2 3020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{[ ERROR Waterworks. Terminal 16. Welcome, Josh. ]}
 {2010}{}{[ To Leon ]}
@@ -25,7 +25,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{[ ERROR Waterworks. Terminal 16. Welcome, Josh. ]}
 {2010}{}{[ To Leon ]}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{[ ERROR Waterworks. Terminal 16. Welcome, Josh. ]}
 {2010}{}{[ To Leon ]}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{[ ERROR Waterworks. Terminal 16. Welcome, Josh. ]}
 {2010}{}{[ To Leon ]}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {3020}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {2000}{}{[ ERROR Waterworks. Terminal 16. Welcome, Josh. ]}
 {2010}{}{[ To Leon ]}

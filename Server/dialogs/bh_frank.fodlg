@@ -96,7 +96,7 @@ lang=engl czec pols span russ
 {12040}{}{Nevermind. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Ioaao}
@@ -141,7 +141,7 @@ lang=engl czec pols span russ
 {12040}{}{Nevermind. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Ioaao}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {12040}{}{Nevermind. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Ioaao}
@@ -231,7 +231,7 @@ lang=engl czec pols span russ
 {12040}{}{Nevermind. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ooiie}
 {1020}{}{Ioaao}

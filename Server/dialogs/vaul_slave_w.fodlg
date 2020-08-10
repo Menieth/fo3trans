@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{I cannot speak to you.@@Speaking to Outsiders is against the rules.@@I am not permitted to speak with Outsiders.@@The guards will report me if you continue to talk to me.@@Please... I am not permitted to speak to anyone.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{citizen}
 {1020}{}{non-citizen}

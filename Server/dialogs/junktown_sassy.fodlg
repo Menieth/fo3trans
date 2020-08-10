@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{retard}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{retard}
@@ -212,7 +212,7 @@ lang=engl czec pols span russ
 {17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{retard}
@@ -261,7 +261,7 @@ lang=engl czec pols span russ
 {17000}{}{Sassy Givins sweetie, I'll be seeing you! Just make sure to bring me plenty of spears okay?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Known}
 {1020}{}{retard}

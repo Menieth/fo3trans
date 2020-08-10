@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {17020}{}{Huh, they are away now. I'll see where they are and come back.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hey there, I'm Smiley, resident gecko trapper. What can I help you with ?}
@@ -161,7 +161,7 @@ lang=engl czec pols span russ
 {17020}{}{Huh, they are away now. I'll see where they are and come back.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hey there, I'm Smiley, resident gecko trapper. What can I help you with ?}
@@ -212,7 +212,7 @@ lang=engl czec pols span russ
 {17020}{}{Huh, they are away now. I'll see where they are and come back.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hey there, I'm Smiley, resident gecko trapper. What can I help you with ?}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {17020}{}{Huh, they are away now. I'll see where they are and come back.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{Hey there, I'm Smiley, resident gecko trapper. What can I help you with ?}

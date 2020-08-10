@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {5010}{}{Hey, nice talking to you. I値l see you later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

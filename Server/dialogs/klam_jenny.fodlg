@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {15020}{}{Maybe I'll go check it out. See you later.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sex Master Female}
 {1020}{}{Reasonable Female}
@@ -159,7 +159,7 @@ lang=engl czec pols span russ
 {15020}{}{Maybe I'll go check it out. See you later.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sex Master Female}
 {1020}{}{Reasonable Female}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {15020}{}{Maybe I'll go check it out. See you later.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sex Master Female}
 {1020}{}{Reasonable Female}
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {15020}{}{Maybe I'll go check it out. See you later.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Sex Master Female}
 {1020}{}{Reasonable Female}

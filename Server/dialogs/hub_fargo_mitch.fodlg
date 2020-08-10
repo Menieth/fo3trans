@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {6010}{}{Thanks. That's all what my job was about. See you.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {6010}{}{Thanks. That's all what my job was about. See you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {6010}{}{Thanks. That's all what my job was about. See you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {6010}{}{Thanks. That's all what my job was about. See you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{bereits gesprochen}
 {2000}{}{Hello and welcome to the Far Go Traders. How can I help you?}

@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3020}{}{Lets get started...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh hey, whome I see here. I guess you are the lover of some high class exotic adventures as well, aren't you? Well, baby, I can show you something very special...}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3020}{}{Lets get started...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh hey, whome I see here. I guess you are the lover of some high class exotic adventures as well, aren't you? Well, baby, I can show you something very special...}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {3020}{}{Lets get started...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh hey, whome I see here. I guess you are the lover of some high class exotic adventures as well, aren't you? Well, baby, I can show you something very special...}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {3020}{}{Lets get started...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Oh hey, whome I see here. I guess you are the lover of some high class exotic adventures as well, aren't you? Well, baby, I can show you something very special...}

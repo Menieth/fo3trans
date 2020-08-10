@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {8020}{}{I see. Need to go now.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bnn}
@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {8020}{}{I see. Need to go now.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bnn}
@@ -105,7 +105,7 @@ lang=engl czec pols span russ
 {8020}{}{I see. Need to go now.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bnn}
@@ -130,7 +130,7 @@ lang=engl czec pols span russ
 {8020}{}{I see. Need to go now.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{bnn}

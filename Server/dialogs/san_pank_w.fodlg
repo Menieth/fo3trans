@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{Oooau!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{3}
 {1020}{}{2}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{Oooau!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{3}
 {1020}{}{2}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{Oooau!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{3}
 {1020}{}{2}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Oooau!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{3}
 {1020}{}{2}

@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {10000}{}{[ He shows you the location of the base somewhere on the map ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lovely day to you, dear customer. How may I assist you?}
@@ -107,7 +107,7 @@ lang=engl czec pols span russ
 {10000}{}{[ He shows you the location of the base somewhere on the map ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lovely day to you, dear customer. How may I assist you?}
@@ -141,7 +141,7 @@ lang=engl czec pols span russ
 {10000}{}{[ He shows you the location of the base somewhere on the map ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lovely day to you, dear customer. How may I assist you?}
@@ -175,7 +175,7 @@ lang=engl czec pols span russ
 {10000}{}{[ He shows you the location of the base somewhere on the map ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Lovely day to you, dear customer. How may I assist you?}

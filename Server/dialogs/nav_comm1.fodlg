@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {5020}{}{Good. Keep up the good work.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -64,7 +64,7 @@ lang=engl czec pols span russ
 {5020}{}{Good. Keep up the good work.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {5020}{}{Good. Keep up the good work.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {5020}{}{Good. Keep up the good work.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {1020}{}{disguised}

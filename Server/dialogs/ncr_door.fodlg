@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}
@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {3000}{}{[ He scans your pass ] Mr. President! It is nice to see you. Please come in.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This area is restricted. Show your pass.}

@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}
@@ -68,7 +68,7 @@ lang=engl czec pols span russ
 {4000}{}{Retard, what the fuck are you doing here?@@Guards, we got an eejit loose up here.@@Someone get rid of this fucking primate.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ao?ae}
 {1020}{}{-}

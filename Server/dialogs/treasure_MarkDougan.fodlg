@@ -93,7 +93,7 @@ lang=engl czec pols span russ
 {12000}{}{Hmh... Not bad. 400 @lex money@ is a fine price for it.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not known}
 {1020}{}{Dumb}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {12000}{}{Hmh... Not bad. 400 @lex money@ is a fine price for it.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not known}
 {1020}{}{Dumb}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {12000}{}{Hmh... Not bad. 400 @lex money@ is a fine price for it.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not known}
 {1020}{}{Dumb}
@@ -219,7 +219,7 @@ lang=engl czec pols span russ
 {12000}{}{Hmh... Not bad. 400 @lex money@ is a fine price for it.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not known}
 {1020}{}{Dumb}

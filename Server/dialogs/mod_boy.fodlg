@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {4000}{}{I don't talk to strangers.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Slaver}
 {1020}{}{Good}

@@ -16,7 +16,7 @@ lang=engl czec pols span russ
 0 3020 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -33,7 +33,7 @@ UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Shoul
 {3020}{}{error}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -50,7 +50,7 @@ UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Shoul
 {3020}{}{error}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -67,7 +67,7 @@ UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Shoul
 {3020}{}{error}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}
@@ -84,7 +84,7 @@ UPD: Unfortunatley, melting power dropped slightly, when tested on new PA. Shoul
 {3020}{}{error}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {2000}{}{[ Error. Low power. ]}

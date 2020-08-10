@@ -21,7 +21,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -29,7 +29,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {3000}{}{No, Weffer moved to Vegas not so long go. You better search for him there.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}

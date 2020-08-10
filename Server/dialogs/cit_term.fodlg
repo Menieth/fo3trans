@@ -13,7 +13,7 @@ lang=engl
 0 2020 R _script dialog@r_OpenDoor 2 38 400 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading... ]}

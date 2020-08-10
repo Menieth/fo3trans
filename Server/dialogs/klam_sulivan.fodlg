@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {9000}{}{Your word's no good here, scum.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Dumb}
@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {9000}{}{Your word's no good here, scum.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Dumb}
@@ -119,7 +119,7 @@ lang=engl czec pols span russ
 {9000}{}{Your word's no good here, scum.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Dumb}
@@ -147,7 +147,7 @@ lang=engl czec pols span russ
 {9000}{}{Your word's no good here, scum.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{slaver}
 {1020}{}{Dumb}

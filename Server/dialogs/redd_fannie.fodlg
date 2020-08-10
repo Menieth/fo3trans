@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {15010}{}{Well, when you're with me, it is.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stranger}
 {1020}{}{Known}
@@ -149,7 +149,7 @@ lang=engl czec pols span russ
 {15010}{}{Well, when you're with me, it is.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stranger}
 {1020}{}{Known}
@@ -196,7 +196,7 @@ lang=engl czec pols span russ
 {15010}{}{Well, when you're with me, it is.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stranger}
 {1020}{}{Known}
@@ -243,7 +243,7 @@ lang=engl czec pols span russ
 {15010}{}{Well, when you're with me, it is.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Stranger}
 {1020}{}{Known}

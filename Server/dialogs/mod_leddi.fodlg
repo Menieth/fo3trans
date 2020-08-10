@@ -23,25 +23,25 @@ lang=engl czec pols span russ
 {2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Woof woof!@@Grrrr@@Sniff sniff@@Woof!!!}

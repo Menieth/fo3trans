@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {9060}{}{Not interested. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it? I am very busy.}
@@ -140,7 +140,7 @@ lang=engl czec pols span russ
 {9060}{}{Not interested. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it? I am very busy.}
@@ -185,7 +185,7 @@ lang=engl czec pols span russ
 {9060}{}{Not interested. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it? I am very busy.}
@@ -230,7 +230,7 @@ lang=engl czec pols span russ
 {9060}{}{Not interested. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What is it? I am very busy.}

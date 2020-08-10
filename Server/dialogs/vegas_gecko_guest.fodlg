@@ -25,25 +25,25 @@ lang=engl czec pols span russ
 {100000001}{}{Try to have some fun. But be careful!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I hope my number wins.@@I've put lot of money on this one.@@Lets go!@@ Come on!@@}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I hope my number wins.@@I've put lot of money on this one.@@Lets go!@@ Come on!@@}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I hope my number wins.@@I've put lot of money on this one.@@Lets go!@@ Come on!@@}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{error}
 {2000}{}{I hope my number wins.@@I've put lot of money on this one.@@Lets go!@@ Come on!@@}

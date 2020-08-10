@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -249,7 +249,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -307,7 +307,7 @@ lang=engl czec pols span russ
 {20010}{}{It's a strange world we live in. Back to the story Bob. You were at the part where you're about to get a beaten up by the Mordinos.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

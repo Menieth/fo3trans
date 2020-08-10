@@ -326,7 +326,7 @@ lang=engl czec pols span russ
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -485,7 +485,7 @@ lang=engl czec pols span russ
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -644,7 +644,7 @@ lang=engl czec pols span russ
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}
@@ -803,7 +803,7 @@ lang=engl czec pols span russ
 {45020}{}{Thanks. Before I leave, I have something else that I want to ask.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{train quest active}
 {1020}{}{ugly}

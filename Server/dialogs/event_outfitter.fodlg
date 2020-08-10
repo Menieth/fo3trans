@@ -98,7 +98,7 @@ lang=engl czec pols span russ
 }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Deprecated, do not use.}
 {1020}{}{Has taken gear}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 }
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Deprecated, do not use.}
 {1020}{}{Has taken gear}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 }
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Deprecated, do not use.}
 {1020}{}{Has taken gear}
@@ -239,7 +239,7 @@ lang=engl czec pols span russ
 }
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Deprecated, do not use.}
 {1020}{}{Has taken gear}

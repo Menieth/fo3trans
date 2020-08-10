@@ -18,7 +18,7 @@ lang=engl czec pols span russ
 0 4010 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -47,7 +47,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -76,7 +76,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -105,7 +105,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...
@@ -134,7 +134,7 @@ Executive command failure. Access denied. ]}
 {4010}{}{[ Leave ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{...}
 {2000}{}{[ Loading...

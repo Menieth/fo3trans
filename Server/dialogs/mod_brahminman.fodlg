@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Name's Roman. Do you want to sell me a Brahmin? I pay well.}
@@ -162,7 +162,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Name's Roman. Do you want to sell me a Brahmin? I pay well.}
@@ -214,7 +214,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Name's Roman. Do you want to sell me a Brahmin? I pay well.}
@@ -266,7 +266,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Name's Roman. Do you want to sell me a Brahmin? I pay well.}

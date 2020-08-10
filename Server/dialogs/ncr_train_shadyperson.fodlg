@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}
@@ -129,7 +129,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}
@@ -211,7 +211,7 @@ lang=engl czec pols span russ
 {13010}{}{Tell me where they are, I want to talk to them.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{caesars legion quest running, fuck, you found me and i tell you where that missing dude is!}
 {1020}{}{caesars legion quest running}

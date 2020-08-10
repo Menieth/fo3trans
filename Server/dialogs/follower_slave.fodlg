@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {100000001}{}{I feel stronger, master!@@I feel stronger!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{heavy wounded}
 {1020}{}{Wounded}
@@ -181,7 +181,7 @@ lang=engl czec pols span russ
 {15010}{}{[Done]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{heavy wounded}
 {1020}{}{Wounded}
@@ -239,7 +239,7 @@ lang=engl czec pols span russ
 {15010}{}{[Done]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{heavy wounded}
 {1020}{}{Wounded}
@@ -297,7 +297,7 @@ lang=engl czec pols span russ
 {15010}{}{[Done]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{heavy wounded}
 {1020}{}{Wounded}

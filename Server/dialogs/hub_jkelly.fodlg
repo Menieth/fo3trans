@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}
@@ -185,7 +185,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}
@@ -243,7 +243,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}
@@ -301,7 +301,7 @@ lang=engl czec pols span russ
 {16010}{}{That's all for now. Thanks.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello fellow wanderer! Seems like you're new here in the Hub, eh?}

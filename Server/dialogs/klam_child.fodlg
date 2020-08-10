@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {8010}{}{Well, wasn't that one of the best secrets I've ever heard! It's a bit late, you better go home now. Bye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog installations}
 {1010}{}{Player wears metal mask}
 {1020}{}{Perk Light Steps ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}

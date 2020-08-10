@@ -21,25 +21,25 @@ lang=engl czec pols span russ
 {2000}{}{Pew Pew!@@Thoom!@@Zark! Zark!@@Sssssshhhhhhuuuu... *BOOM!*@@Zap!@@Boooom! Budda-budda-boom!@@Budda-budda-budda@@Blammo! Blam blam blam!@@Blam!@@Ptow! Ptow!@@Phooom!@@Kablooie!@@Ratta-tatta-tatta@@Kaa-booom!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}
 {2000}{}{Pew Pew!@@Thoom!@@Zark! Zark!@@Sssssshhhhhhuuuu... *BOOM!*@@Zap!@@Boooom! Budda-budda-boom!@@Budda-budda-budda@@Blammo! Blam blam blam!@@Blam!@@Ptow! Ptow!@@Phooom!@@Kablooie!@@Ratta-tatta-tatta@@Kaa-booom!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}
 {2000}{}{Pew Pew!@@Thoom!@@Zark! Zark!@@Sssssshhhhhhuuuu... *BOOM!*@@Zap!@@Boooom! Budda-budda-boom!@@Budda-budda-budda@@Blammo! Blam blam blam!@@Blam!@@Ptow! Ptow!@@Phooom!@@Kablooie!@@Ratta-tatta-tatta@@Kaa-booom!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}
 {2000}{}{Pew Pew!@@Thoom!@@Zark! Zark!@@Sssssshhhhhhuuuu... *BOOM!*@@Zap!@@Boooom! Budda-budda-boom!@@Budda-budda-budda@@Blammo! Blam blam blam!@@Blam!@@Ptow! Ptow!@@Phooom!@@Kablooie!@@Ratta-tatta-tatta@@Kaa-booom!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{default}
 {2000}{}{Pew Pew!@@Thoom!@@Zark! Zark!@@Sssssshhhhhhuuuu... *BOOM!*@@Zap!@@Boooom! Budda-budda-boom!@@Budda-budda-budda@@Blammo! Blam blam blam!@@Blam!@@Ptow! Ptow!@@Phooom!@@Kablooie!@@Ratta-tatta-tatta@@Kaa-booom!}

@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Oh god, get away.@@Stop looking at me, you ugly piece of shit.@@Fuck, you're hideous.@@::Retches::}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{normal float}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Oh god, get away.@@Stop looking at me, you ugly piece of shit.@@Fuck, you're hideous.@@::Retches::}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{normal float}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Oh god, get away.@@Stop looking at me, you ugly piece of shit.@@Fuck, you're hideous.@@::Retches::}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{normal float}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Oh god, get away.@@Stop looking at me, you ugly piece of shit.@@Fuck, you're hideous.@@::Retches::}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{normal float}

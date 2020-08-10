@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}
@@ -118,7 +118,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}
@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {6050}{}{Ear}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Too much stuff}
 {1020}{}{Answer text}

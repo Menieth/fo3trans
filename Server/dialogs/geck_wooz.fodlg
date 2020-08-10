@@ -234,7 +234,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -460,7 +460,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}
@@ -573,7 +573,7 @@ lang=engl czec pols span russ
 {34010}{}{Oh, ok. Something must have seemed to me. Nevermind.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Unknown}
 {1020}{}{Known}

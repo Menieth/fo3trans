@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {7000}{}{Great! The lesson is over... NEXT ONE!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Well you just look at this... And you call it a fine battle readiness? DO YOU UNDERSTAND THAT YOU MUST BE ALWAYS READY FOR SELF DEFENSE?}

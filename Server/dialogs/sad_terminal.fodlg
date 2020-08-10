@@ -179,7 +179,7 @@ Current diagnose: Main power switch is in off state.}
 {17020}{}{[Log off]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Power is on}
 {1020}{}{Power is off}
@@ -288,7 +288,7 @@ Current diagnose: Main power switch is in off state.}
 {17020}{}{[Log off]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Power is on}
 {1020}{}{Power is off}
@@ -397,7 +397,7 @@ Current diagnose: Main power switch is in off state.}
 {17020}{}{[Log off]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Power is on}
 {1020}{}{Power is off}
@@ -506,7 +506,7 @@ Current diagnose: Main power switch is in off state.}
 {17020}{}{[Log off]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Power is on}
 {1020}{}{Power is off}

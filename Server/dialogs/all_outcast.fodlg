@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Do not run.@@We are your friends. You'll never be alone again.@@Do not attack.@@Sucker.@@Leave us!@@Unclean!@@Go away!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do not run.@@We are your friends. You'll never be alone again.@@Do not attack.@@Sucker.@@Leave us!@@Unclean!@@Go away!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do not run.@@We are your friends. You'll never be alone again.@@Do not attack.@@Sucker.@@Leave us!@@Unclean!@@Go away!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do not run.@@We are your friends. You'll never be alone again.@@Do not attack.@@Sucker.@@Leave us!@@Unclean!@@Go away!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Do not run.@@We are your friends. You'll never be alone again.@@Do not attack.@@Sucker.@@Leave us!@@Unclean!@@Go away!}

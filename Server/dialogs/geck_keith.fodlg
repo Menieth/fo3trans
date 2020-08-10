@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {10010}{}{That's between you and Mick. I've done my part.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else.}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {10010}{}{That's between you and Mick. I've done my part.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else.}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {10010}{}{That's between you and Mick. I've done my part.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else.}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {10010}{}{That's between you and Mick. I've done my part.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Everything else.}

@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@Sorry, I have to go. Got a work to do, you know?@@We don't get many outsiders here. Especially in the night.@@Gotta get back to work tomorrow.@@Good night... if that is what you can call it.@@Yeah... whatever.@@Hope the rain tomorrow ain't glowin' like yesterday.@@Looks like we're going to be short on food again.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@Sorry, I have to go. Got a work to do, you know?@@We don't get many outsiders here. Especially in the night.@@Gotta get back to work tomorrow.@@Good night... if that is what you can call it.@@Yeah... whatever.@@Hope the rain tomorrow ain't glowin' like yesterday.@@Looks like we're going to be short on food again.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@Sorry, I have to go. Got a work to do, you know?@@We don't get many outsiders here. Especially in the night.@@Gotta get back to work tomorrow.@@Good night... if that is what you can call it.@@Yeah... whatever.@@Hope the rain tomorrow ain't glowin' like yesterday.@@Looks like we're going to be short on food again.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Dark outside, as always in the night.@@Sorry, I have to go. Got a work to do, you know?@@We don't get many outsiders here. Especially in the night.@@Gotta get back to work tomorrow.@@Good night... if that is what you can call it.@@Yeah... whatever.@@Hope the rain tomorrow ain't glowin' like yesterday.@@Looks like we're going to be short on food again.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{dark outside}
 {1020}{}{normal}

@@ -87,7 +87,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -128,7 +128,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -169,7 +169,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}
@@ -210,7 +210,7 @@ lang=engl czec pols span russ
 {12000}{}{Gate is open, once you are leaving the city - talk with the policeman on the other side.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Yes?}

@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}
@@ -79,7 +79,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {7030}{}{Uh. Sorry, need to go.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I know about rat shit.}
 {1020}{}{I know nothing about rat shit.}

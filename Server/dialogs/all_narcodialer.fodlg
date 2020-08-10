@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {3000}{}{Blow, moron.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Idiot}

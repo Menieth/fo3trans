@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2020}{}{Thanks, but no.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {2020}{}{Thanks, but no.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {2020}{}{Thanks, but no.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {2020}{}{Thanks, but no.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello, wanderer! The Kwok brothers always have a lot of useful stuff for the road. Choose, you wont regret it!}

@@ -26,7 +26,7 @@ lang=engl czec pols span russ
 {3020}{}{Could you show me how?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Talk with my father if you need something.}
@@ -36,7 +36,7 @@ lang=engl czec pols span russ
 {3020}{}{Could you show me how?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Talk with my father if you need something.}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {3020}{}{Could you show me how?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Talk with my father if you need something.}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {3020}{}{Could you show me how?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Talk with my father if you need something.}

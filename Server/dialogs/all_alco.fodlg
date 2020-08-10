@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{@@Urp.@@Glug-glug-glug.@@I needed that.@@Mmm-hmmm.@@How dry I am}

@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{flower job}
 {1020}{}{---}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{flower job}
 {1020}{}{---}
@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{flower job}
 {1020}{}{---}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {4000}{}{Oh!@@Thank you!@@I am not lost as much anymore as ever before!@@*grml*@@Please, we need food!@@Don't you have food?@@Ohh!@@Is this for me?@@We traveled such a long way!@@How lovely!@@Thank you a lot!@@Thank you friend!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Initial preferences}
 {1010}{}{flower job}
 {1020}{}{---}

@@ -50,7 +50,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}
@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}
@@ -92,7 +92,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}
@@ -113,7 +113,7 @@ lang=engl czec pols span russ
 {6010}{}{Who would have thought such things were possible? Anyway, thanks for the chit-chat. Goodbye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue options}
 {1010}{}{Perk + Quest ** DO NOT CHANGE POSITION OF ANSWERS IN THIS NODE !!! **}
 {1020}{}{Perk Demolition Expert, Quest unknown}

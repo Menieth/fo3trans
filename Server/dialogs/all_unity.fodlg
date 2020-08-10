@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Treat our people with respect. We're peaceable people from Broken Hills, but we know how to fight.}

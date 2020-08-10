@@ -71,7 +71,7 @@ lang=engl czec pols span russ
 {12010}{}{Hey, no problem. Now you're free to do whatever you want with your life.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest}
@@ -104,7 +104,7 @@ lang=engl czec pols span russ
 {12010}{}{Hey, no problem. Now you're free to do whatever you want with your life.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest}
@@ -137,7 +137,7 @@ lang=engl czec pols span russ
 {12010}{}{Hey, no problem. Now you're free to do whatever you want with your life.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest}
@@ -170,7 +170,7 @@ lang=engl czec pols span russ
 {12010}{}{Hey, no problem. Now you're free to do whatever you want with your life.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile}
 {1020}{}{Non-Hostile, Quest}

@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {10020}{}{Nothing. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Answer text}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {10020}{}{Nothing. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Answer text}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {10020}{}{Nothing. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Answer text}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {10020}{}{Nothing. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Answer text}

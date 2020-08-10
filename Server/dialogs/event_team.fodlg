@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}
@@ -125,7 +125,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}
@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}
@@ -203,7 +203,7 @@ lang=engl czec pols span russ
 {9010}{}{Wait, I...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Black Cross Department army distributer is listening. Willing to take part in the upcoming massacre? Which side would you like to join?}

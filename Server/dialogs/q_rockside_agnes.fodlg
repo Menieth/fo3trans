@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {9000}{}{Move your ass than,}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah? What do you need?}
@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {9000}{}{Move your ass than,}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah? What do you need?}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {9000}{}{Move your ass than,}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah? What do you need?}
@@ -126,7 +126,7 @@ lang=engl czec pols span russ
 {9000}{}{Move your ass than,}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Yeah? What do you need?}

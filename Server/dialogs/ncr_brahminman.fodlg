@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Jester my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
@@ -168,7 +168,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Jester my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
@@ -222,7 +222,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Jester my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}
@@ -276,7 +276,7 @@ lang=engl czec pols span russ
 {20010}{}{What a bummer.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hey you! Jester my name! Do you want to buy a Brahmin? I sell only the best Brahmin!}

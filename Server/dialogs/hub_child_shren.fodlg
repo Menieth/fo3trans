@@ -62,7 +62,7 @@ lang=engl czec pols span russ
 {100000009}{}{More boogeymen...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hungry}
 {1020}{}{Not hungry}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {9000}{}{I just ate some apples and I'm not hungry anymore!@@I have no time to eat, I want to play!@@Woohoo!@@Weee!@@I will be a farmer when I grow up!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hungry}
 {1020}{}{Not hungry}
@@ -108,7 +108,7 @@ lang=engl czec pols span russ
 {9000}{}{I just ate some apples and I'm not hungry anymore!@@I have no time to eat, I want to play!@@Woohoo!@@Weee!@@I will be a farmer when I grow up!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hungry}
 {1020}{}{Not hungry}
@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {9000}{}{I just ate some apples and I'm not hungry anymore!@@I have no time to eat, I want to play!@@Woohoo!@@Weee!@@I will be a farmer when I grow up!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hungry}
 {1020}{}{Not hungry}

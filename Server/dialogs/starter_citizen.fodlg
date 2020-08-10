@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Sheee-it.@@Get out of here, y'ugly bastard.@@Go on, git!@@Shucks, who busted up your face?@@Ever thought of wearin' a hat? Might pull focus, y'know?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{ugly}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Sheee-it.@@Get out of here, y'ugly bastard.@@Go on, git!@@Shucks, who busted up your face?@@Ever thought of wearin' a hat? Might pull focus, y'know?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{ugly}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Sheee-it.@@Get out of here, y'ugly bastard.@@Go on, git!@@Shucks, who busted up your face?@@Ever thought of wearin' a hat? Might pull focus, y'know?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{ugly}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Sheee-it.@@Get out of here, y'ugly bastard.@@Go on, git!@@Shucks, who busted up your face?@@Ever thought of wearin' a hat? Might pull focus, y'know?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{ugly}

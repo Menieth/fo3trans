@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {11010}{}{See you around.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{deathclaw}
 {1020}{}{mutant}
@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {11010}{}{See you around.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{deathclaw}
 {1020}{}{mutant}
@@ -158,7 +158,7 @@ lang=engl czec pols span russ
 {11010}{}{See you around.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{deathclaw}
 {1020}{}{mutant}
@@ -196,7 +196,7 @@ lang=engl czec pols span russ
 {11010}{}{See you around.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{deathclaw}
 {1020}{}{mutant}

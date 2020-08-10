@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -199,7 +199,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -263,7 +263,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }
@@ -327,7 +327,7 @@ lang=engl czec pols span russ
 {24020}{}{I'll comeback with parts}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{102000}
 {2000}{}{Hey. Who's there? I am Todd. What do you want? You know, just tell me. }

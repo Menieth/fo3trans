@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {8030}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want, stranger?}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {8030}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want, stranger?}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {8030}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want, stranger?}
@@ -117,7 +117,7 @@ lang=engl czec pols span russ
 {8030}{}{I don't think I want to hire anyone afterall, sorry. Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What do you want, stranger?}

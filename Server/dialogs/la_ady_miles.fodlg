@@ -81,7 +81,7 @@ lang=engl czec pols span russ
 {100000001}{}{Are you blind? It's not the water pump!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {11010}{}{See you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -151,7 +151,7 @@ lang=engl czec pols span russ
 {11010}{}{See you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {11010}{}{See you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{What can I do for you?@@Hmm?@@You needed something?}

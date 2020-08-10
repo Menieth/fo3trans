@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {17000}{}{::A look of disgust crosses his face:: Get out of here. I don’t have time for you.@@::spits::@@Fucking mutant.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ooiie}
@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {17000}{}{::A look of disgust crosses his face:: Get out of here. I don’t have time for you.@@::spits::@@Fucking mutant.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ooiie}
@@ -232,7 +232,7 @@ lang=engl czec pols span russ
 {17000}{}{::A look of disgust crosses his face:: Get out of here. I don’t have time for you.@@::spits::@@Fucking mutant.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ooiie}
@@ -288,7 +288,7 @@ lang=engl czec pols span russ
 {17000}{}{::A look of disgust crosses his face:: Get out of here. I don’t have time for you.@@::spits::@@Fucking mutant.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ooiie}

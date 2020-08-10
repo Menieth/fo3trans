@@ -19,7 +19,7 @@ lang=engl czec pols span russ
 5 5000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL [ ERROR ] ]}
@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {5000}{}{[ ERROR ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL [ ERROR ] ]}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {5000}{}{[ ERROR ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL [ ERROR ] ]}
@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {5000}{}{[ ERROR ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL [ ERROR ] ]}
@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {5000}{}{[ ERROR ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ POWER TERMINAL [ ERROR ] ]}

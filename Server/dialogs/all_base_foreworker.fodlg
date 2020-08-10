@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {17050}{}{We want settle a Rancho[cost 2 milions]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{What can I do for you?}
@@ -242,7 +242,7 @@ lang=engl czec pols span russ
 {17050}{}{We want settle a Rancho[cost 2 milions]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{What can I do for you?}
@@ -320,7 +320,7 @@ lang=engl czec pols span russ
 {17050}{}{We want settle a Rancho[cost 2 milions]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{What can I do for you?}
@@ -398,7 +398,7 @@ lang=engl czec pols span russ
 {17050}{}{We want settle a Rancho[cost 2 milions]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ia ciaeii}
 {2000}{}{What can I do for you?}

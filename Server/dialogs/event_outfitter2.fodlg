@@ -187,7 +187,7 @@ lang=engl czec pols span russ
 {15000}{}{Outfitter dialog error. If you see this message report it on forum.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Has taken gear}
 {1020}{}{Small Guns}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {15000}{}{Outfitter dialog error. If you see this message report it on forum.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Has taken gear}
 {1020}{}{Small Guns}
@@ -369,7 +369,7 @@ lang=engl czec pols span russ
 {15000}{}{Outfitter dialog error. If you see this message report it on forum.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Has taken gear}
 {1020}{}{Small Guns}
@@ -460,7 +460,7 @@ lang=engl czec pols span russ
 {15000}{}{Outfitter dialog error. If you see this message report it on forum.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Has taken gear}
 {1020}{}{Small Guns}

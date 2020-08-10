@@ -17,25 +17,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello!@@Hi!@@Do you have few spare @lex money@?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello!@@Hi!@@Do you have few spare @lex money@?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello!@@Hi!@@Do you have few spare @lex money@?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello!@@Hi!@@Do you have few spare @lex money@?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello!@@Hi!@@Do you have few spare @lex money@?@@My mom told me to not talk with stangers.@@I wish I could  buy that nuka from uncle Watcher...@@You must be new here.}

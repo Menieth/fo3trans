@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}
@@ -32,7 +32,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}
@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3000}{}{Man, you are dumb.@@Go on, stupid.@@Oah no. . .@@Ha ha ha... look at this stupid.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{not dump}

@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Surrender!@@Your money or your life.@@This is a stick up.@@Give me all your valuables.@@Put yer hands up.@@Stick 'em up.@@Don't panic; this will be over in a minute.@@Let's see those hands there.@@Cover me, fellas.}
@@ -37,7 +37,7 @@ lang=engl czec pols span russ
 {2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Surrender!@@Your money or your life.@@This is a stick up.@@Give me all your valuables.@@Put yer hands up.@@Stick 'em up.@@Don't panic; this will be over in a minute.@@Let's see those hands there.@@Cover me, fellas.}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Surrender!@@Your money or your life.@@This is a stick up.@@Give me all your valuables.@@Put yer hands up.@@Stick 'em up.@@Don't panic; this will be over in a minute.@@Let's see those hands there.@@Cover me, fellas.}
@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {2040}{}{YOU WANT SOME OF THIS? WELL COME AND GET IT MOTHERF-}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Surrender!@@Your money or your life.@@This is a stick up.@@Give me all your valuables.@@Put yer hands up.@@Stick 'em up.@@Don't panic; this will be over in a minute.@@Let's see those hands there.@@Cover me, fellas.}

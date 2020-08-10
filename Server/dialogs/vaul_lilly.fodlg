@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}
@@ -278,7 +278,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}
@@ -368,7 +368,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}
@@ -458,7 +458,7 @@ lang=engl czec pols span russ
 {27020}{}{That's it, I'm sick of this bullshit runaround. Eat lead, Lilly.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb attack}
 {1020}{}{Player unknown}

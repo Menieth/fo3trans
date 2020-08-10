@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {10000}{}{You should go talk to Big Nose Sally.@@Aren’t you a cutey?@@Love you long-time!@@Come up and see me sometime.@@You know how to whistle doncha?@@I used to be pure as snow, but then I drifted.@@(Wolf whistles)@@Hey there, tiger.@@Hey, baaaaaby.@@Go talk to Sally if you want some action.@@Scrub a-dub-dub...@@Looks like you could use a wash.@@Like what you see, baby?@@You want me?@@Gotta pay to play, sugar.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}
@@ -105,7 +105,7 @@ lang=engl czec pols span russ
 {10000}{}{You should go talk to Big Nose Sally.@@Aren’t you a cutey?@@Love you long-time!@@Come up and see me sometime.@@You know how to whistle doncha?@@I used to be pure as snow, but then I drifted.@@(Wolf whistles)@@Hey there, tiger.@@Hey, baaaaaby.@@Go talk to Sally if you want some action.@@Scrub a-dub-dub...@@Looks like you could use a wash.@@Like what you see, baby?@@You want me?@@Gotta pay to play, sugar.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {10000}{}{You should go talk to Big Nose Sally.@@Aren’t you a cutey?@@Love you long-time!@@Come up and see me sometime.@@You know how to whistle doncha?@@I used to be pure as snow, but then I drifted.@@(Wolf whistles)@@Hey there, tiger.@@Hey, baaaaaby.@@Go talk to Sally if you want some action.@@Scrub a-dub-dub...@@Looks like you could use a wash.@@Like what you see, baby?@@You want me?@@Gotta pay to play, sugar.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}
@@ -167,7 +167,7 @@ lang=engl czec pols span russ
 {10000}{}{You should go talk to Big Nose Sally.@@Aren’t you a cutey?@@Love you long-time!@@Come up and see me sometime.@@You know how to whistle doncha?@@I used to be pure as snow, but then I drifted.@@(Wolf whistles)@@Hey there, tiger.@@Hey, baaaaaby.@@Go talk to Sally if you want some action.@@Scrub a-dub-dub...@@Looks like you could use a wash.@@Like what you see, baby?@@You want me?@@Gotta pay to play, sugar.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Male}
 {1020}{}{Female}

@@ -197,7 +197,7 @@ lang=engl czec pols span russ
 {28000}{}{Nice try, freak. Ghouls don't get inside the city.@@Don't let the guards see you, mutant.@@Get out of here, you freak.@@Quit stinking up my office.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb >$2K}
@@ -292,7 +292,7 @@ lang=engl czec pols span russ
 {28000}{}{Nice try, freak. Ghouls don't get inside the city.@@Don't let the guards see you, mutant.@@Get out of here, you freak.@@Quit stinking up my office.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb >$2K}
@@ -387,7 +387,7 @@ lang=engl czec pols span russ
 {28000}{}{Nice try, freak. Ghouls don't get inside the city.@@Don't let the guards see you, mutant.@@Get out of here, you freak.@@Quit stinking up my office.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb >$2K}
@@ -482,7 +482,7 @@ lang=engl czec pols span russ
 {28000}{}{Nice try, freak. Ghouls don't get inside the city.@@Don't let the guards see you, mutant.@@Get out of here, you freak.@@Quit stinking up my office.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{dumb >$2K}

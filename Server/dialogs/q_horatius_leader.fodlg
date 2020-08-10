@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}
@@ -148,7 +148,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}
@@ -195,7 +195,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}
@@ -242,7 +242,7 @@ lang=engl czec pols span russ
 {15000}{}{The big Horatius doesn't want to talk to you!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{no quest}
 {1020}{}{dumb}

@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {9020}{}{Great! I'll just go to fetch my stuff. I will be back...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{[He looks at you in a aggressive, deprecatingly way.] What do you want?@@What do you want?}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {9020}{}{Great! I'll just go to fetch my stuff. I will be back...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{[He looks at you in a aggressive, deprecatingly way.] What do you want?@@What do you want?}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {9020}{}{Great! I'll just go to fetch my stuff. I will be back...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{[He looks at you in a aggressive, deprecatingly way.] What do you want?@@What do you want?}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {9020}{}{Great! I'll just go to fetch my stuff. I will be back...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{[He looks at you in a aggressive, deprecatingly way.] What do you want?@@What do you want?}

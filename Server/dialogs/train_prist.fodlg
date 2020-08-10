@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {3020}{}{God Bless America!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{May the God bless you... What are you doing here?}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {3020}{}{God Bless America!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{May the God bless you... What are you doing here?}
@@ -49,7 +49,7 @@ lang=engl czec pols span russ
 {3020}{}{God Bless America!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{May the God bless you... What are you doing here?}
@@ -60,7 +60,7 @@ lang=engl czec pols span russ
 {3020}{}{God Bless America!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{May the God bless you... What are you doing here?}

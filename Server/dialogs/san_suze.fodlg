@@ -79,7 +79,7 @@ We've got ourselves enough of the hard stuff, how about you pick us up twenty @l
 {12010}{}{[Get up, and spend the rest of the day avoiding bright lights and loud noises]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting}
 {1020}{}{Already met}
@@ -116,7 +116,7 @@ We've got ourselves enough of the hard stuff, how about you pick us up twenty @l
 {12010}{}{[Get up, and spend the rest of the day avoiding bright lights and loud noises]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting}
 {1020}{}{Already met}
@@ -153,7 +153,7 @@ We've got ourselves enough of the hard stuff, how about you pick us up twenty @l
 {12010}{}{[Get up, and spend the rest of the day avoiding bright lights and loud noises]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting}
 {1020}{}{Already met}
@@ -190,7 +190,7 @@ We've got ourselves enough of the hard stuff, how about you pick us up twenty @l
 {12010}{}{[Get up, and spend the rest of the day avoiding bright lights and loud noises]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{First meeting}
 {1020}{}{Already met}

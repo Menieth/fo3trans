@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 {3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Ugly}
@@ -36,7 +36,7 @@ lang=engl czec pols span russ
 {3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Ugly}
@@ -44,7 +44,7 @@ lang=engl czec pols span russ
 {3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Ugly}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {3000}{}{You better leave before there's trouble.@@Play it smart - leave before we have to get rough.@@There's going to be trouble if you stick around.@@Don't know what you want.@@Don't know what you're trying to prove.@@I suggest you leave right now.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Ugly}

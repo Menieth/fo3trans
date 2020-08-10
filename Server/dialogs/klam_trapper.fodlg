@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}
@@ -88,7 +88,7 @@ lang=engl czec pols span russ
 {5010}{}{Thank you for your time, my fellow trapper, I'll surely recommend this lesson of yours to all of my friends! Have a nice day!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Looking for Gecko Skinning Perk ** DO NOT CHANGE THE POSITION OF THE ANSWERS IN THIS NODE !!! **}
 {1020}{}{Outdoorsman}

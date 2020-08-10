@@ -153,7 +153,7 @@ lang=engl czec pols span russ
 {22020}{}{Whatever... I had other questions.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{aa}
 {1020}{}{aa}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {22020}{}{Whatever... I had other questions.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{aa}
 {1020}{}{aa}
@@ -301,7 +301,7 @@ lang=engl czec pols span russ
 {22020}{}{Whatever... I had other questions.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{aa}
 {1020}{}{aa}
@@ -375,7 +375,7 @@ lang=engl czec pols span russ
 {22020}{}{Whatever... I had other questions.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{aa}
 {1020}{}{aa}

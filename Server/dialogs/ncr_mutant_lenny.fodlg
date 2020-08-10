@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}
@@ -144,7 +144,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}
@@ -177,7 +177,7 @@ lang=engl czec pols span russ
 {11000}{}{uhhhhhh@@::burp::@@ugggh@@...small...bob...@@::sob::@@Drink!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has received Mutant message from Lenny}
 {1020}{}{Player has spoken to Iguana Mike}

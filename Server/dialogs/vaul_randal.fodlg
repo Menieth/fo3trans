@@ -131,7 +131,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}
@@ -192,7 +192,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}
@@ -253,7 +253,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}
@@ -314,7 +314,7 @@ lang=engl czec pols span russ
 {18000}{}{Guards! Who let this ghoul into the city?!@@Guards! Ghoul in vault city!@@I don't know how you got in here, but I'm calling the guards.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{night floaters}

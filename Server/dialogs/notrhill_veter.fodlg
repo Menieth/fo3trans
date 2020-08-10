@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {5000}{}{Go. Leave... You are not welcomed here, don't you understand?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {5000}{}{Go. Leave... You are not welcomed here, don't you understand?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {5000}{}{Go. Leave... You are not welcomed here, don't you understand?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {5000}{}{Go. Leave... You are not welcomed here, don't you understand?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Answer text}

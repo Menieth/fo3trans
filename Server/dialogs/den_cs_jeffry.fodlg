@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What can I do you for, pal?}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What can I do you for, pal?}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What can I do you for, pal?}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {2020}{}{Nothing today, thanks.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{What can I do you for, pal?}

@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}
@@ -215,7 +215,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {4400}{}{@msg game 104611@}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, tester.}

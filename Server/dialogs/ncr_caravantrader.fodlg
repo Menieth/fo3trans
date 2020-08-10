@@ -99,7 +99,7 @@ lang=engl czec pols span russ
 {22000}{}{Oh my god, a monster! Please, go to somewhere else! Guards! Guards!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Idiot}
 {1020}{}{ugly}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {22000}{}{Oh my god, a monster! Please, go to somewhere else! Guards! Guards!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Idiot}
 {1020}{}{ugly}
@@ -191,7 +191,7 @@ lang=engl czec pols span russ
 {22000}{}{Oh my god, a monster! Please, go to somewhere else! Guards! Guards!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Idiot}
 {1020}{}{ugly}
@@ -237,7 +237,7 @@ lang=engl czec pols span russ
 {22000}{}{Oh my god, a monster! Please, go to somewhere else! Guards! Guards!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Idiot}
 {1020}{}{ugly}

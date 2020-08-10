@@ -8,7 +8,7 @@
 
 ####################################################################################################################################
 #
-#		Months, Day of week
+#       Months, Day of week
 #
 ####################################################################################################################################
 {21}{}{Leden}
@@ -34,7 +34,7 @@
 
 ####################################################################################################################################
 #
-#		Material Types (from PROTO.MSG)
+#       Material Types (from PROTO.MSG)
 #
 ####################################################################################################################################
 
@@ -49,7 +49,7 @@
 
 ####################################################################################################################################
 #
-#		Misc
+#       Misc
 #
 ####################################################################################################################################
 
@@ -61,7 +61,7 @@
 
 ####################################################################################################################################
 #
-#		Music/Video
+#       Music/Video
 #
 ####################################################################################################################################
 
@@ -70,7 +70,7 @@
 
 ####################################################################################################################################
 #
-#		Chat
+#       Chat
 #
 ####################################################################################################################################
 
@@ -92,7 +92,7 @@
 
 ####################################################################################################################################
 #
-#		FixBoy
+#       FixBoy
 #
 ####################################################################################################################################
 
@@ -107,7 +107,7 @@
 
 ####################################################################################################################################
 #
-#		Interface text
+#       Interface text
 #
 ####################################################################################################################################
 
@@ -138,7 +138,7 @@
 # Login
 {300}{}{New game}     # Singleplayer
 {301}{}{Load game}    # Singleplayer
-{302}{}{HRÁT}         # Multiplayer     
+{302}{}{HRÁT}         # Multiplayer
 {303}{}{ZAREGISTROVAT} # Multiplayer
 {304}{}{NASTAVENÍ}
 {305}{}{PODĚKOVÁNÍ}
@@ -202,7 +202,7 @@
 
 ####################################################################################################################################
 #
-#		Inventory
+#       Inventory
 #
 ####################################################################################################################################
 
@@ -255,7 +255,7 @@
 
 ####################################################################################################################################
 #
-#		Radio
+#       Radio
 #
 ####################################################################################################################################
 
@@ -285,7 +285,7 @@
 
 ####################################################################################################################################
 #
-#		Barter
+#       Barter
 #
 ####################################################################################################################################
 
@@ -306,7 +306,7 @@
 
 ####################################################################################################################################
 #
-#		Items info
+#       Items info
 #
 ####################################################################################################################################
 
@@ -339,7 +339,7 @@
 
 ####################################################################################################################################
 #
-#		PipBoy, Timeouts
+#       PipBoy, Timeouts
 #
 ####################################################################################################################################
 
@@ -364,7 +364,7 @@
 
 ####################################################################################################################################
 #
-#		Dialogs
+#       Dialogs
 #
 ####################################################################################################################################
 
@@ -382,7 +382,7 @@
 
 ####################################################################################################################################
 #
-#		Global map
+#       Global map
 #
 ####################################################################################################################################
 
@@ -390,7 +390,7 @@
 {901}{}{Lokace se k tvému překvapení přesunula.}
 {902}{}{Nenalezl jsi vstup do lokace.}
 {903}{}{V lokaci není kde zaparkovat vozidlo.}
-{904}{}{Lokace je plná, zkus to později.} 
+{904}{}{Lokace je plná, zkus to později.}
 {950}{}{Jsi připraven následovat %s do %s?}
 {952}{}{Připrav se následování %s do %s.}
 {970}{}{cizinec}
@@ -398,7 +398,7 @@
 
 ####################################################################################################################################
 #
-#		Maintenance
+#       Maintenance
 #
 ####################################################################################################################################
 
@@ -462,7 +462,7 @@
 
 ####################################################################################################################################
 #
-#		Character
+#       Character
 #
 ####################################################################################################################################
 
@@ -487,7 +487,7 @@
 {2314}{}{Slušné}
 {2315}{}{Průměr}
 {2316}{}{Dobré}
-{2317}{}{Bezva}         
+{2317}{}{Bezva}
 {2318}{}{Super}
 {2319}{}{Skvělé}
 {2320}{}{Úžasné}
@@ -535,7 +535,7 @@
 {3403}{}{Operace není potřeba.}
 {3404}{}{K vyléčení budeš muset použít schopnost Doktor.}
 {3405}{}{K vyléčení použij schopnost První pomoc.}
-{3406}{}{Tvůj schopný zásah pomohl a } 
+{3406}{}{Tvůj schopný zásah pomohl a }
 {3407}{}{Selhal jsi v léčení a stále se cítíš slabý.}
 {3408}{}{ se cítí mnohem lépe.}
 {3409}{}{Selhal jsi v léčení a tvůj pacient se stále cítí dost sláb.}
@@ -574,7 +574,7 @@
 {3496}{}{Robot je mimo možnosti opravy.}
 
 #
-#	 PC STAT NAMES
+#    PC STAT NAMES
 #
 {4000}{}{Charakterové body}
 {4001}{}{Další úroveň}
@@ -590,7 +590,7 @@
 {4011}{}{Charakterové rysy}
 {4012}{}{Dovednosti}
 #
-#	 PC STAT DESCRIPTIONS
+#    PC STAT DESCRIPTIONS
 #
 {4050}{}{Množství bodů, které se dají přidat k některé ze základních vlastností.}
 {4051}{}{Množství zkušenostních bodů, které potřebuješ k postupu na další úroveň.}
@@ -646,7 +646,7 @@
 
 #
 # Mob Wave warnings.
-# 
+#
 {5000}{}{|4291317840 Slyšíš křik.}   # Humans
 {5001}{}{|4291317840 Slyšíš dupot.}   # Super mutants
 {5002}{}{|4291317840 Slyšíš kňučení.}   # Ghouls
@@ -880,7 +880,7 @@
 
 ####################################################################################################################################
 #
-#		Weapon perks 
+#       Weapon perks
 #
 ####################################################################################################################################
 {10851}{}{Dalekonosný}
@@ -895,7 +895,7 @@
 
 ####################################################################################################################################
 #
-#		Calibers (from PROTO.MSG)
+#       Calibers (from PROTO.MSG)
 #
 ####################################################################################################################################
 
@@ -926,12 +926,12 @@
 
 ####################################################################################################################################
 #
-#		Critters game
+#       Critters game
 #
 ####################################################################################################################################
 
 #
-#	Male
+#   Male
 #
 
 ##First words
@@ -1043,7 +1043,7 @@
 {11406}{}{levá noha je pokryta krví}
 
 #
-#	Female
+#   Female
 #
 
 ##First words
@@ -1174,7 +1174,7 @@
 
 ####################################################################################################################################
 #
-#		Plagues
+#       Plagues
 #
 ####################################################################################################################################
 
@@ -1202,7 +1202,7 @@
 
 ####################################################################################################################################
 #
-#		Scores
+#       Scores
 #
 ####################################################################################################################################
 
@@ -1290,7 +1290,7 @@
 
 ####################################################################################################################################
 #
-#		Stats (with STAT.MSG + 2000)
+#       Stats (with STAT.MSG + 2000)
 #
 ####################################################################################################################################
 
@@ -1462,7 +1462,7 @@
 
 ####################################################################################################################################
 #
-#		Skills (with SKILL.MSG + 3000)
+#       Skills (with SKILL.MSG + 3000)
 #
 ####################################################################################################################################
 
@@ -1573,7 +1573,7 @@ SK_MELEE_WEAPONS
 
 ####################################################################################################################################
 #
-#		Kills (from PROTO.MSG)
+#       Kills (from PROTO.MSG)
 #
 ####################################################################################################################################
 
@@ -1637,7 +1637,7 @@ SK_MELEE_WEAPONS
 
 ####################################################################################################################################
 #
-#		Perks (with PERK.MSG)
+#       Perks (with PERK.MSG)
 #
 ####################################################################################################################################
 
@@ -1668,7 +1668,7 @@ SK_MELEE_WEAPONS
 {103072}{}{V boji jsi schopen reagovat rychleji než tvoji nepřátelé, protože tvůj Sekvence je navýšena o 5 bodů.}
 # PE_FASTER_HEALING
 {103081}{}{Rychlejší uzdravování}
-{103082}{}{S touto schopností záskáváš bonus 5 bodů k rychlosi uzdravování. Čili -- uzdravuješ se rychleji.}
+{103082}{}{S touto schopností záskáváš bonus 15 bodů k rychlosi uzdravování. Čili -- uzdravuješ se rychleji.}
 # PE_MORE_CRITICALS
 {103091}{}{Více kritických zásahů}
 {103092}{}{Pokud máš tento perk, máš větší šanci způsobit v boji soupeři kritický zásah. Každý stupeň ti přidá +5% šanci na kritický zásah. To docela ujde, ne?}
@@ -1964,7 +1964,7 @@ SK_MELEE_WEAPONS
 {104311}{}{Očkování z Vault City}
 {104312}{}{Získal jsi +10% bonus k odolnosti proti jedům a radiaci.}
 # PE_DERMAL_IMPACT
-{104321}{}{Implantát: Podkožní nárazová zbroj}				#pokračovat
+{104321}{}{Implantát: Podkožní nárazová zbroj}              #pokračovat
 {104322}{}{Poskytuje zvýšenou ochranu před fyzickými útoky.}
 # PE_DERMAL_IMPACT_ENH
 {104331}{}{Implantán: Podkožní útočné vylepšení}
@@ -2053,31 +2053,31 @@ SK_MELEE_WEAPONS
 # PE_DEAD_MAN_WALKING         (461)
 {104611}{}{Chodící mrtvole}
 {104612}{}{Stejně jako u Rasputina, je horší tě dorazit. Tvé body života mohou dosáhnout dvojité záporné hodnoty než opravdu zemřeš.}
-# PE_NEMEAN_ARMOR			  (462)
+# PE_NEMEAN_ARMOR             (462)
 {104621}{}{Implantát: Zbroj Nemean}
 {104622}{}{Byl navržen tak, aby poskytoval zvýšenou odolnost proti poškození posílením kožních buněk uživatele železem.}
-# PE_IMP_STRENGTH			  (463)
+# PE_IMP_STRENGTH             (463)
 {104631}{}{Implantát: Hypertrofický akcelerátor}
 {104632}{}{Je navržen tak, aby posílil svalovou hmotu osoby, ve které je nainstalován, tím, že funguje jako automatický dávkovač steroidů a nutí tělo, aby vytvořilo velké množství svalové hmoty.}
-# PE_IMP_PERCEPTION			  (464)
+# PE_IMP_PERCEPTION           (464)
 {104641}{}{Implantát: Optický zesilovač}
 {104642}{}{Je navržen tak, aby zlepšoval zrak osoby a dohled uživatele implantátu.}
-# PE_IMP_ENDURANCE			  (465)
+# PE_IMP_ENDURANCE            (465)
 {104651}{}{Implantát: Nociception Regulátor}
 {104652}{}{Je určen ke zlepšení senzorických receptorů v těle, které detekují potenciálně škodlivé podněty (jako je tlak nebo teplo) a posílají nervové signály do mozku a míchy.}
-# PE_IMP_CHARISMA			  (466)
+# PE_IMP_CHARISMA             (466)
 {104661}{}{Implantát: Syntetizátor empatie}
 {104662}{}{Je navržen tak, aby předvídal možné reakce ostatních lidí a navrhoval další postup svému uživateli.}
-# PE_IMP_INTELLIGENCE		  (467)
+# PE_IMP_INTELLIGENCE         (467)
 {104671}{}{Implantát: Logický Co-processor}
 {104672}{}{Je navržen tak, aby zlešil logické myšlení osoby, v níž je nainstalován, a to prostřednictvím propočtu možných důsledků jejího jednání, čímž pomáhá řešit problémy a činit ta správná rozhodnutí.}
-# PE_IMP_AGILITY			  (468)
+# PE_IMP_AGILITY              (468)
 {104681}{}{Implantát: Posilovač reflexů}
 {104682}{}{Je navržen tak, aby posiloval reakční dobu nositel, tím, že vede proud v nervové soustavě a posílá impulsy do oblasti, kde je jich třeba.}
-# PE_IMP_LUCK				  (469)
+# PE_IMP_LUCK                 (469)
 {104691}{}{Implantát: Kalkulátor převděpodobnosti}
 {104692}{}{Byl navržen tak, aby pomohl osobě, v níž je nainstalován, provedením rychlého výpočtu šance na každou pravděpodobnou variantu, která by mohla nastat. To uživateli umožňuje vybrat to nejlepší řešení v každé situaci.}
-# PE_IMP_LUCK				  (470)
+# PE_IMP_LUCK                 (470)
 # 104700
 # ADDICTION_NUKA_COLA, addictions
 {104701}{}{Závislost na Nuka-Cole}
@@ -2194,7 +2194,7 @@ SK_MELEE_WEAPONS
 
 ####################################################################################################################################
 #
-#		Traits (with TRAIT.MSG)
+#       Traits (with TRAIT.MSG)
 #
 ####################################################################################################################################
 
@@ -2493,7 +2493,7 @@ SK_MELEE_WEAPONS
 
 ####################################################################################################################################
 #
-#		Misc2 values names (100000 + pid*10 + number of val)
+#       Misc2 values names (100000 + pid*10 + number of val)
 #
 ####################################################################################################################################
 
@@ -2503,7 +2503,7 @@ SK_MELEE_WEAPONS
 
 ####################################################################################################################################
 #
-#		Intellect words
+#       Intellect words
 #
 ####################################################################################################################################
 
@@ -2517,7 +2517,7 @@ SK_MELEE_WEAPONS
 
 ####################################################################################################################################
 #
-#		Help
+#       Help
 #
 ####################################################################################################################################
 
@@ -2579,7 +2579,7 @@ Vybrané příkazy pro chatové okno:
 
 ####################################################################################################################################
 #
-#		Credits
+#       Credits
 #
 ####################################################################################################################################
 
@@ -2815,7 +2815,7 @@ burzum
 Tails
 SmartCheetah
 Nails/coliphorbs
-BeF1990 
+BeF1990
 
 |0xff706050 Short story "Joyride":
 |0xff907824 Cerebro
@@ -2837,7 +2837,7 @@ For the long hair dude and other new critters!
 
 NA2RAL for the desert combat armor
 WHINE Team for many, many things
- 
+
 and all others we forgot right now...
 
 ... sorry! :(
@@ -2847,85 +2847,85 @@ and all others we forgot right now...
 {2000001020}{}{
 |0xff907824  Everything said in this channel can and will be used
 against you in the future, thanks to logging.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 
 
 |0xff907824 Wait, i try another internet.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 Multipronged research was undertaken in the long-run
 conspiracy of thousand-year plan of autoevolution.
-|0xff706050	-- AHS-9
+|0xff706050 -- AHS-9
 
 
 |0xff907824 German language is funny. Like in porno.
 Oh dast is fantastish, ja ja.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 German pornos are so embarassing.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 Slim got those 50+ year old babes around him, the rest
 of us had one girl for a day on the channel...
 man, that's what i call a good sex!
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Then I'll be able to film my movie called
 Broken Hills Mountains.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 So shorter means better.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Teleporn. Wasn't it supposed to be: 'teleport'?
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Need drink vodka and eat hot food.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 Female are bitches.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 |0xff907824 It was about female mosquitos.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 I have shat my pants while playing MDK...
 well, I was very young back then.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 |0xff907824 20?
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 I am installing the english version of Fallout 2 right now.
 After that, I need one or two people for screenshots.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 Posing gladly, naked for money only.
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Where there's a hole, there's a way.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Did ya fix the HOLE in da wall, bitch?
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Okay, enough radiation for me today,
 going back to slave business.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 Why the fuck are molerats so strong?! I had metal armor
@@ -2933,290 +2933,290 @@ and grease gun, took 3 burst fires to kill one of the
 fucks, they raped the shit out of me as if i wasn't
 wearing anything at all. Fuck. Those rats are bigger
 than fucking bears.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Server crashes more often then shuts normally haha.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Some traders in Hub are missing.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 |0xff907824 Kidnapped, killed and buried god knows where...
 we need the LYNCH MOB!
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Jack is highwayman-spawning machine.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 I don't like using this brain thing. It's annoying.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 I got small penis too... but i'm THE technician.
 Can do things you mortals can only dream of.
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 My team leader is my penis.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 And my GF interested after your second video -
 where from SlimCharles?
-|0xff706050	-- LLITiF
+|0xff706050 -- LLITiF
 
 
 |0xff907824 Every girl in russia is dreaming about Lexx.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 So he won't lose interest, he's strong
 third party asses right now.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 But talking about rape is somewhat boring.
 I am not really interested in that.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Eventually there will be a 6 hour cybersex with Lynette.
-|0xff706050	-- SlimCharles
+|0xff706050 -- SlimCharles
 
 
 |0xff907824 Nevertheless, if you're full of beer you
 don't mind where you piss at all.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Well, but it's simple biology.
 You watch hot female, you get a hard one.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Damn lesbians, didn't shut the fuck up.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 I am the kaizer from shaizer.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Maybe we should try something similar with fonline.
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 Filming nerdy polaks doesn't sound that good.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Atom you are drunked?
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 |0xff907824 Nope, he's retarded.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 They should rather learn from Trotsky and make a good
 deal of revolution, not this kind of pussy cat fight.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 Bleh, that quest idea has become shitty now
 I need something new, that is at least medium-size.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 |0xff907824 My dick.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 |0xff907824 That's not a quest, that's a joke.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 |0xff907824 So I've heard.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 Scyp's designing hairstyles now.
-|0xff706050	-- Solar
+|0xff706050 -- Solar
 
 
 |0xff907824 I can't fucking believe it... The Rotators -
 The most gay group in the whole universe!
-|0xff706050	-- lisac
+|0xff706050 -- lisac
 
 
 |0xff907824 He might have become gay too, while being in here.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
-|0xff907824 Lexx is a sex slave? 
-|0xff706050	-- Solar
+|0xff907824 Lexx is a sex slave?
+|0xff706050 -- Solar
 
 
 |0xff907824 Ass too wiry.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 It was hard for me to remove
 "your eyes were poured by a boiling water".
-|0xff706050	-- SlimCharles
+|0xff706050 -- SlimCharles
 
 
 |0xff907824 I met a russian, he's great. I said 'secret',
 he said 'secret anal'.
-|0xff706050	-- SlimCharles
+|0xff706050 -- SlimCharles
 
 
 |0xff907824 Need big gan. Usa man yel in ncr, his wann
 maney bat me keel him and tack his item.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 |0xff907824 Better teach him something that
 will make him insult Lexx later.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 "Russian powergamers" would be great
 for a special encounter.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Germany's in crysis. Time to start a war.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 Man, I jammed my balls while walking.
 Dunno how, but I can't sit now.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 It's not a true jrpg, if you don't
 have a homo hero to play.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Gay dinosaurs, bad idea.
-|0xff706050	-- Rusty
+|0xff706050 -- Rusty
 
 
 |0xff907824 The kids should play with real guns.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 Fact is that homo can cook, and can cook good. Or its all just a coincidence, or there is a constant that needs deeper research.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 I will sacrifice my body to ZAX.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 No, its cultural program.
-|0xff706050	-- cvet
+|0xff706050 -- cvet
 
 
 |0xff907824 I see lisac is almost working.
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 
 
 |0xff907824 My kitchen looks like ass.
-|0xff706050	-- Mrlexx
+|0xff706050 -- Mrlexx
 
 
 |0xff907824 I'm already crazy... town_h.fos, enough said.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 |0xff907824 Therefore a little bit oil is enough to get the job done.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 Can be solved by timeout.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 
 
 |0xff907824 Why do you complicate my life
-|0xff706050	-- scypior
+|0xff706050 -- scypior
 |0xff907824 I love to complicate your life. When i woke up this morning, i thought
 "Hm. I should complicate scyps life a bit today"
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 I steal from rich devs and give other stuff to poor devs.
 I am Robin Hood of coding.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 What the- I tested it, I swear!
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 Bots!
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 |0xff907824 Perl.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 Evil.
 What these three words have in common?
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 |0xff907824 Where bot is the question, Perl is the answer.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 Evil is the result!
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 I just want red head girl, damn the lack of progress!
-|0xff706050	-- Solar
+|0xff706050 -- Solar
 
 
 |0xff907824 It's incredibly stupid, complicated and it doesn't work.
-|0xff706050	-- Lisac
+|0xff706050 -- Lisac
 
 
 |0xff907824 I make more sense than players even when drunk, so it's ok.
-|0xff706050	-- Solar
+|0xff706050 -- Solar
 
 
 |0xff907824 Ah, Rotators. Music, physics, links to weird porn, bad jokes about jobs
-that we have, or don't have, and occasionally some words about FOnline! 
-|0xff706050	-- Atom
+that we have, or don't have, and occasionally some words about FOnline!
+|0xff706050 -- Atom
 
 
 |0xff907824 My bed needs some rage.
-|0xff706050	-- Ghosthack
+|0xff706050 -- Ghosthack
 |0xff907824 Was it pick-up line?
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 
 
 |0xff907824 I would love to have a black girlfriend. This makes you totally a hipster.
-|0xff706050	-- MrLexx
+|0xff706050 -- MrLexx
 
 
 |0xff907824 When something doesn't make sense in FOnline. Just ask yourself:
 "Is it a bug?" No...
 "Is it a feature?" No...
 Then it's prehistoric stuff.
-|0xff706050	-- Mayck
+|0xff706050 -- Mayck
 
 
 |0xff907824 I should proceed with that, as vals hater.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 Vals, rats, what else?
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 |0xff907824 Beer.
-|0xff706050	-- Wipe
+|0xff706050 -- Wipe
 |0xff907824 There's a lot of hate inside you. To anger this leads, and anger leads
 to the dark side. Can't we just all hate JavaScript? And only that.
 I'm joking of course.
 Why hate something that is unending source of amusement.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 
 
 |0xff907824 Almost any engine problem can be solved by spawning more items.
-|0xff706050	-- JovankaB
+|0xff706050 -- JovankaB
 
 
 |0xff907824 Uncrustify destroyed drugs_data.fos, it looks like space invaders now.
-|0xff706050	-- Atom
+|0xff706050 -- Atom
 }
 
 {3000000001}{}{Události}

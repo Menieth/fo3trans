@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
@@ -103,7 +103,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
@@ -163,7 +163,7 @@ lang=engl czec pols span russ
 {11000}{}{My name is Mike, asshole!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}

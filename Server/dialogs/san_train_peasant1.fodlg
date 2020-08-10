@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running.}
@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running.}
@@ -150,7 +150,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running.}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {11020}{}{Good to know. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Vault City Doctor quest is running. Player asks the NPC about stuff.}
 {1020}{}{caesars legion quest running.}

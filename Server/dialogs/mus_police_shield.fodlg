@@ -19,28 +19,28 @@ lang=engl czec pols span russ
 {2010}{}{[ Exit ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Solid as Law, Unbreakable as Justice. Relic from the peacemakers of the past. Irreplaceable tool for spreading order... or break a face of protestor.}
 {2010}{}{[ Exit ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Solid as Law, Unbreakable as Justice. Relic from the peacemakers of the past. Irreplaceable tool for spreading order... or break a face of protestor.}
 {2010}{}{[ Exit ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Solid as Law, Unbreakable as Justice. Relic from the peacemakers of the past. Irreplaceable tool for spreading order... or break a face of protestor.}
 {2010}{}{[ Exit ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Solid as Law, Unbreakable as Justice. Relic from the peacemakers of the past. Irreplaceable tool for spreading order... or break a face of protestor.}

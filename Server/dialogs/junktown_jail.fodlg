@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {8010}{}{Somewhere...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Reward for idiot}
@@ -84,7 +84,7 @@ lang=engl czec pols span russ
 {8010}{}{Somewhere...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Reward for idiot}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {8010}{}{Somewhere...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Reward for idiot}
@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {8010}{}{Somewhere...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Reward for idiot}

@@ -164,7 +164,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}
@@ -225,7 +225,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}
@@ -286,7 +286,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}
@@ -347,7 +347,7 @@ lang=engl czec pols span russ
 {21000}{}{Bye!@@Leave me alone!@@Piss off!@@Can't you see I'm in trouble!@@Why him?..Why?@@I'm so sad.@@He was an innocent child!@@You can't help me...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Rejected}
 {1020}{}{Not Intelligent}

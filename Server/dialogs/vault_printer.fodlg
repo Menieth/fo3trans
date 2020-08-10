@@ -22,7 +22,7 @@ lang=engl czec pols span russ
 4 4000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading initial functions... ]}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading initial functions... ]}
@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading initial functions... ]}
@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading initial functions... ]}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {4000}{}{[ Printing... ]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ Loading initial functions... ]}

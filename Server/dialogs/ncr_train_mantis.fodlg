@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}
@@ -265,7 +265,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}
@@ -351,7 +351,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}
@@ -437,7 +437,7 @@ lang=engl czec pols span russ
 {25020}{}{Thanks! Goodbye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{player is stupid.}
 {1020}{}{angry}

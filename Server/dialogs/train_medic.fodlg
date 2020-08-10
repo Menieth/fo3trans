@@ -40,7 +40,7 @@ lang=engl czec pols span russ
 {6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {6000}{}{Ja, ja. Schliess die Tur hinter dir, du idiot.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Are you blind, I have infected poeple to heal, please don't waste my time!}

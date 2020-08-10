@@ -45,7 +45,7 @@ lang=engl czec pols span russ
 {6000}{}{Here is a pistol for you. Now do your job.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{..}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {6000}{}{Here is a pistol for you. Now do your job.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{..}
@@ -85,7 +85,7 @@ lang=engl czec pols span russ
 {6000}{}{Here is a pistol for you. Now do your job.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{..}
@@ -105,7 +105,7 @@ lang=engl czec pols span russ
 {6000}{}{Here is a pistol for you. Now do your job.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{..}

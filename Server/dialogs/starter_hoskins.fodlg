@@ -73,7 +73,7 @@ lang=engl czec pols span russ
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -106,7 +106,7 @@ lang=engl czec pols span russ
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}
@@ -172,7 +172,7 @@ lang=engl czec pols span russ
 {11000}{}{You're an ugly little fucker ain't ya?@@Piss off.@@Aw, shit, get out of here.@@I ain't looking for a friend, pal.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Ugly}

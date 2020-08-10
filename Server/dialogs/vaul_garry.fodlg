@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {9010}{}{Oh well... Perhaps I will come back later. Goodbye, Harry!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{rent quest}
 {1020}{}{ugly}
@@ -94,7 +94,7 @@ lang=engl czec pols span russ
 {9010}{}{Oh well... Perhaps I will come back later. Goodbye, Harry!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{rent quest}
 {1020}{}{ugly}
@@ -123,7 +123,7 @@ lang=engl czec pols span russ
 {9010}{}{Oh well... Perhaps I will come back later. Goodbye, Harry!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{rent quest}
 {1020}{}{ugly}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {9010}{}{Oh well... Perhaps I will come back later. Goodbye, Harry!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{rent quest}
 {1020}{}{ugly}

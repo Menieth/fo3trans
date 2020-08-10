@@ -20,25 +20,25 @@ lang=engl czec pols span russ
 {2000}{}{Hmmph, another cheating smoothskin.@@Heya, smoothy.@@Hello there.@@What’s up?@@Be nice while you’re in town.@@Come far to get here?@@You look like you’re from Vault City.@@We’re tolerant here, but not stupid, Smoothy.@@Stay away from Vault City. Those guys are assholes.@@Hello. Weather’s been really dry lately.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer}
 {2000}{}{Hmmph, another cheating smoothskin.@@Heya, smoothy.@@Hello there.@@What’s up?@@Be nice while you’re in town.@@Come far to get here?@@You look like you’re from Vault City.@@We’re tolerant here, but not stupid, Smoothy.@@Stay away from Vault City. Those guys are assholes.@@Hello. Weather’s been really dry lately.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer}
 {2000}{}{Hmmph, another cheating smoothskin.@@Heya, smoothy.@@Hello there.@@What’s up?@@Be nice while you’re in town.@@Come far to get here?@@You look like you’re from Vault City.@@We’re tolerant here, but not stupid, Smoothy.@@Stay away from Vault City. Those guys are assholes.@@Hello. Weather’s been really dry lately.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer}
 {2000}{}{Hmmph, another cheating smoothskin.@@Heya, smoothy.@@Hello there.@@What’s up?@@Be nice while you’re in town.@@Come far to get here?@@You look like you’re from Vault City.@@We’re tolerant here, but not stupid, Smoothy.@@Stay away from Vault City. Those guys are assholes.@@Hello. Weather’s been really dry lately.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer}
 {2000}{}{Hmmph, another cheating smoothskin.@@Heya, smoothy.@@Hello there.@@What’s up?@@Be nice while you’re in town.@@Come far to get here?@@You look like you’re from Vault City.@@We’re tolerant here, but not stupid, Smoothy.@@Stay away from Vault City. Those guys are assholes.@@Hello. Weather’s been really dry lately.}

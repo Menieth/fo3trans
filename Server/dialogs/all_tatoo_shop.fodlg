@@ -91,7 +91,7 @@ lang=engl czec pols span russ
 {16020}{}{[Leave]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has no tattoo}
 {1020}{}{Player already has tattoo}
@@ -132,7 +132,7 @@ lang=engl czec pols span russ
 {16020}{}{[Leave]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has no tattoo}
 {1020}{}{Player already has tattoo}
@@ -173,7 +173,7 @@ lang=engl czec pols span russ
 {16020}{}{[Leave]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has no tattoo}
 {1020}{}{Player already has tattoo}
@@ -214,7 +214,7 @@ lang=engl czec pols span russ
 {16020}{}{[Leave]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has no tattoo}
 {1020}{}{Player already has tattoo}

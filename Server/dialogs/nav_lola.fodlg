@@ -53,7 +53,7 @@ lang=engl czec pols span russ
 {6020}{}{Thanks for the chit-chat. Bye!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{disguised}
@@ -76,7 +76,7 @@ lang=engl czec pols span russ
 {6020}{}{Thanks for the chit-chat. Bye!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{disguised}
@@ -99,7 +99,7 @@ lang=engl czec pols span russ
 {6020}{}{Thanks for the chit-chat. Bye!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{disguised}
@@ -122,7 +122,7 @@ lang=engl czec pols span russ
 {6020}{}{Thanks for the chit-chat. Bye!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{disguised}

@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {9000}{}{You're a poop brain! Poop brain!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Known}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {9000}{}{You're a poop brain! Poop brain!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Known}
@@ -108,7 +108,7 @@ lang=engl czec pols span russ
 {9000}{}{You're a poop brain! Poop brain!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Known}
@@ -133,7 +133,7 @@ lang=engl czec pols span russ
 {9000}{}{You're a poop brain! Poop brain!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Known}

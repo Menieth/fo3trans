@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {11010}{}{Some other question...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -102,7 +102,7 @@ lang=engl czec pols span russ
 {11010}{}{Some other question...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -134,7 +134,7 @@ lang=engl czec pols span russ
 {11010}{}{Some other question...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {11010}{}{Some other question...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{I don't know you.}
 {1020}{}{I know you now.}

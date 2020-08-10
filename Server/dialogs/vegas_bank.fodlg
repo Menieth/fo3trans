@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {10030}{}{That's it. Bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings. May I help you?}
@@ -149,7 +149,7 @@ lang=engl czec pols span russ
 {10030}{}{That's it. Bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings. May I help you?}
@@ -197,7 +197,7 @@ lang=engl czec pols span russ
 {10030}{}{That's it. Bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings. May I help you?}
@@ -245,7 +245,7 @@ lang=engl czec pols span russ
 {10030}{}{That's it. Bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Greetings. May I help you?}

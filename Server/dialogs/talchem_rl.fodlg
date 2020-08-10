@@ -24,7 +24,7 @@ lang=engl czec pols span russ
 9 6000 main@dlg_Caps 0 &
 
 [engl]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -53,7 +53,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -82,7 +82,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -111,7 +111,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }
@@ -140,7 +140,7 @@ status: Rad-labs under local quarantine lockdown.}
 {6000}{}{Unauthorized access.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ }
 {1020}{}{ }

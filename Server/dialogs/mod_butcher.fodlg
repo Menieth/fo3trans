@@ -22,25 +22,25 @@ lang=engl czec pols span russ
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {2000}{}{I'm busy could you come back another time?@@I'm rather busy right now, please go away.}

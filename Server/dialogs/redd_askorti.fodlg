@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {10000}{}{Keep on movin', pal.@@Gecko's a long way away, freak.@@Get the fuck out of my casino.@@You're drooling on the floor.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{-}
@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {10000}{}{Keep on movin', pal.@@Gecko's a long way away, freak.@@Get the fuck out of my casino.@@You're drooling on the floor.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{-}
@@ -150,7 +150,7 @@ lang=engl czec pols span russ
 {10000}{}{Keep on movin', pal.@@Gecko's a long way away, freak.@@Get the fuck out of my casino.@@You're drooling on the floor.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{-}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {10000}{}{Keep on movin', pal.@@Gecko's a long way away, freak.@@Get the fuck out of my casino.@@You're drooling on the floor.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{-}

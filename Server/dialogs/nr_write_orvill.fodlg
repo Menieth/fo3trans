@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {100000004}{}{I have the best Iguana in the WHOOOOOLE Hub! }
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -166,7 +166,7 @@ lang=engl czec pols span russ
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -218,7 +218,7 @@ lang=engl czec pols span russ
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }
@@ -270,7 +270,7 @@ lang=engl czec pols span russ
 {17000}{}{Always willing to do some errand, aren't you? Not this time, shove off.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ugly}
 {1020}{}{Quest assigned }

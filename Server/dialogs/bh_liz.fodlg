@@ -120,7 +120,7 @@ lang=engl czec pols span russ
 {16000}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?@@Got-damn mutants. Get the heck outta my store!@@Get the hell outta here!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ioaao}
@@ -176,7 +176,7 @@ lang=engl czec pols span russ
 {16000}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?@@Got-damn mutants. Get the heck outta my store!@@Get the hell outta here!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ioaao}
@@ -232,7 +232,7 @@ lang=engl czec pols span russ
 {16000}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?@@Got-damn mutants. Get the heck outta my store!@@Get the hell outta here!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ioaao}
@@ -288,7 +288,7 @@ lang=engl czec pols span russ
 {16000}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?@@Got-damn mutants. Get the heck outta my store!@@Get the hell outta here!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{Ioaao}

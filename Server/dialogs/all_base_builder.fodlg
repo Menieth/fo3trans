@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {12010}{}{Nevermind.@@Let me think for a while...}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We're on site, and you are the leader of the faction}
 {1020}{}{I belong to you}
@@ -97,7 +97,7 @@ lang=engl czec pols span russ
 {12010}{}{Nevermind.@@Let me think for a while...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We're on site, and you are the leader of the faction}
 {1020}{}{I belong to you}
@@ -127,7 +127,7 @@ lang=engl czec pols span russ
 {12010}{}{Nevermind.@@Let me think for a while...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We're on site, and you are the leader of the faction}
 {1020}{}{I belong to you}
@@ -157,7 +157,7 @@ lang=engl czec pols span russ
 {12010}{}{Nevermind.@@Let me think for a while...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{We're on site, and you are the leader of the faction}
 {1020}{}{I belong to you}

@@ -30,7 +30,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}
@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}
@@ -52,7 +52,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}
@@ -63,7 +63,7 @@ lang=engl czec pols span russ
 {4000}{}{Thanks!@@Thank you.@@Great!@@About time!@@They should bring us some more water to the fields.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{got water job}
 {1020}{}{-}

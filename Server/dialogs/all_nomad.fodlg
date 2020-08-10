@@ -18,25 +18,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello, you look new around here.::You should talk to the chief.@@I don't think it is as hot today as it was yesterday.@@So what's life like in the city?}

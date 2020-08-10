@@ -21,25 +21,25 @@ lang=engl czec pols span russ
 {2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Hello brother, everything is secure...@@Are you allowed to be in here?@@What? Who are you?@@Talk to Ramirez if you have any questions.@@I wish I was training right now, this guard duty is a waste of time.@@This is the guards room.@@What do you want here?@@Are you on duty?}

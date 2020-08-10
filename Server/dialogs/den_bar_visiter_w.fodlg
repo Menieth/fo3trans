@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{All we need now are some troubadours.@@Hello.@@How's the outside world?@@Drink up! Drinks are cheap!@@There's no way these are watered down.@@Nothing like good drinks and good company.@@This is some good stuff.@@Take a seat. Oh, wait. Maybe not.@@Bottoms up!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{All we need now are some troubadours.@@Hello.@@How's the outside world?@@Drink up! Drinks are cheap!@@There's no way these are watered down.@@Nothing like good drinks and good company.@@This is some good stuff.@@Take a seat. Oh, wait. Maybe not.@@Bottoms up!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{All we need now are some troubadours.@@Hello.@@How's the outside world?@@Drink up! Drinks are cheap!@@There's no way these are watered down.@@Nothing like good drinks and good company.@@This is some good stuff.@@Take a seat. Oh, wait. Maybe not.@@Bottoms up!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{All we need now are some troubadours.@@Hello.@@How's the outside world?@@Drink up! Drinks are cheap!@@There's no way these are watered down.@@Nothing like good drinks and good company.@@This is some good stuff.@@Take a seat. Oh, wait. Maybe not.@@Bottoms up!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{All we need now are some troubadours.@@Hello.@@How's the outside world?@@Drink up! Drinks are cheap!@@There's no way these are watered down.@@Nothing like good drinks and good company.@@This is some good stuff.@@Take a seat. Oh, wait. Maybe not.@@Bottoms up!}

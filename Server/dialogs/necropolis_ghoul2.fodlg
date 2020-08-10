@@ -22,25 +22,25 @@ lang=engl czec pols span russ
 {2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Leave me alone.@@What?@@Don't mess with my stuff.@@Hi. . .@@Arrrr!@@Grrrrr!@@Uungh.@@Uhh?@@Hello mom. . .}

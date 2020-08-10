@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3030}{}{Uh, please tell me that was room service.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {3030}{}{Uh, please tell me that was room service.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -61,7 +61,7 @@ lang=engl czec pols span russ
 {3030}{}{Uh, please tell me that was room service.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}
@@ -74,7 +74,7 @@ lang=engl czec pols span russ
 {3030}{}{Uh, please tell me that was room service.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {1020}{}{Normal}

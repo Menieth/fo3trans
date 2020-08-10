@@ -202,7 +202,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -300,7 +300,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -398,7 +398,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}
@@ -496,7 +496,7 @@ lang=engl czec pols span russ
 {26020}{}{Thanks.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{night floaters}
 {1020}{}{dumb}

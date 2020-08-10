@@ -75,7 +75,7 @@ lang=engl czec pols span russ
 {12000}{}{Why? What is the problem? Can't the man enjoy own little happiness?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -110,7 +110,7 @@ lang=engl czec pols span russ
 {12000}{}{Why? What is the problem? Can't the man enjoy own little happiness?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -145,7 +145,7 @@ lang=engl czec pols span russ
 {12000}{}{Why? What is the problem? Can't the man enjoy own little happiness?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}
@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {12000}{}{Why? What is the problem? Can't the man enjoy own little happiness?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Hello. Can I help you?}

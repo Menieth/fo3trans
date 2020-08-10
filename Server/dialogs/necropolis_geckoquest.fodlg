@@ -57,7 +57,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't even have to ask. You haven't seen Skeeter yet.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile to Necropolis.}
 {1020}{}{Non-hostile, quest started.}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't even have to ask. You haven't seen Skeeter yet.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile to Necropolis.}
 {1020}{}{Non-hostile, quest started.}
@@ -109,7 +109,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't even have to ask. You haven't seen Skeeter yet.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile to Necropolis.}
 {1020}{}{Non-hostile, quest started.}
@@ -135,7 +135,7 @@ lang=engl czec pols span russ
 {10000}{}{I don't even have to ask. You haven't seen Skeeter yet.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Hostile to Necropolis.}
 {1020}{}{Non-hostile, quest started.}

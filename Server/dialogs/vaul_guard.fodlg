@@ -376,7 +376,7 @@ lang=engl czec pols span russ
 {100000011}{}{Yeah, you have a DAY Pass. Does it look like day to you? Get lost.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has collect rent quest.}
 {1020}{}{ugly}
@@ -551,7 +551,7 @@ lang=engl czec pols span russ
 {51010}{}{Pleasure doing business with you.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has collect rent quest.}
 {1020}{}{ugly}
@@ -726,7 +726,7 @@ lang=engl czec pols span russ
 {51010}{}{Pleasure doing business with you.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has collect rent quest.}
 {1020}{}{ugly}
@@ -901,7 +901,7 @@ lang=engl czec pols span russ
 {51010}{}{Pleasure doing business with you.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Player has collect rent quest.}
 {1020}{}{ugly}

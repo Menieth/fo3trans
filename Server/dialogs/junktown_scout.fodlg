@@ -27,7 +27,7 @@ lang=engl czec pols span russ
 {100000003}{}{Guys, get him!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Stupid?}
@@ -35,7 +35,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@We come from Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Stupid?}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@We come from Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Stupid?}
@@ -51,7 +51,7 @@ lang=engl czec pols span russ
 {3000}{}{You'd better watch yourself here.@@This isn't a good town to get in trouble in.@@Behave, and we won't have to get nasty.@@You're OK.@@Nice day, isn't it?@@We come from Junktown. Nice place to live, as long as you stay on our good side.@@Keep out of trouble.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Stupid?}

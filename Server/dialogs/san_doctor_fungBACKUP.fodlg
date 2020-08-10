@@ -244,7 +244,7 @@ lang=engl czec pols span russ
 {29020}{}{Dammit Doc, I feel better than ever! Thank you! [Shake his hand and leave]}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}
@@ -372,7 +372,7 @@ lang=engl czec pols span russ
 {29020}{}{Dammit Doc, I feel better than ever! Thank you! [Shake his hand and leave]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}
@@ -500,7 +500,7 @@ lang=engl czec pols span russ
 {29020}{}{Dammit Doc, I feel better than ever! Thank you! [Shake his hand and leave]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}
@@ -628,7 +628,7 @@ lang=engl czec pols span russ
 {29020}{}{Dammit Doc, I feel better than ever! Thank you! [Shake his hand and leave]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{ugly}
 {1020}{}{default}

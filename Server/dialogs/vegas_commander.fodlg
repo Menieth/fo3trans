@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}
@@ -139,7 +139,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}
@@ -183,7 +183,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}
@@ -227,7 +227,7 @@ lang=engl czec pols span russ
 {14000}{}{Sign up here and... My congratulations, @pname@. You are now a citizen of you Vegas.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{May I help you?}

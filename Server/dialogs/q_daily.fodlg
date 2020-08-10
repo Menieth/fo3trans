@@ -56,7 +56,7 @@ lang=engl czec pols span russ
 {100000042}{}{Choose the action you want to perform:}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {2000}{}{[Weird person in robe sitting near table with many maps on]}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {3010}{}{[move back]}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {2000}{}{[Weird person in robe sitting near table with many maps on]}
@@ -82,7 +82,7 @@ lang=engl czec pols span russ
 {3010}{}{[move back]}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {2000}{}{[Weird person in robe sitting near table with many maps on]}
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {3010}{}{[move back]}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member}
 {2000}{}{[Weird person in robe sitting near table with many maps on]}

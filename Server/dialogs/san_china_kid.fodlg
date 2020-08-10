@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{You look mean.@@Don't hurt me, 'kay?@@What's wrong with your eyes?@@Is that a lao wai?@@What are you?@@Does anyone like you?@@You're not going to hurt my mommy and daddy, are you?@@I'm going to go play now.@@Ha ha! Four eyes!@@Dork alert! Dork alert!@@Do you live on that boat?@@Where are you from?@@You loko funny.@@Go way!@@Meebop meebop.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You look mean.@@Don't hurt me, 'kay?@@What's wrong with your eyes?@@Is that a lao wai?@@What are you?@@Does anyone like you?@@You're not going to hurt my mommy and daddy, are you?@@I'm going to go play now.@@Ha ha! Four eyes!@@Dork alert! Dork alert!@@Do you live on that boat?@@Where are you from?@@You loko funny.@@Go way!@@Meebop meebop.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You look mean.@@Don't hurt me, 'kay?@@What's wrong with your eyes?@@Is that a lao wai?@@What are you?@@Does anyone like you?@@You're not going to hurt my mommy and daddy, are you?@@I'm going to go play now.@@Ha ha! Four eyes!@@Dork alert! Dork alert!@@Do you live on that boat?@@Where are you from?@@You loko funny.@@Go way!@@Meebop meebop.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You look mean.@@Don't hurt me, 'kay?@@What's wrong with your eyes?@@Is that a lao wai?@@What are you?@@Does anyone like you?@@You're not going to hurt my mommy and daddy, are you?@@I'm going to go play now.@@Ha ha! Four eyes!@@Dork alert! Dork alert!@@Do you live on that boat?@@Where are you from?@@You loko funny.@@Go way!@@Meebop meebop.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{2}
 {2000}{}{You look mean.@@Don't hurt me, 'kay?@@What's wrong with your eyes?@@Is that a lao wai?@@What are you?@@Does anyone like you?@@You're not going to hurt my mommy and daddy, are you?@@I'm going to go play now.@@Ha ha! Four eyes!@@Dork alert! Dork alert!@@Do you live on that boat?@@Where are you from?@@You loko funny.@@Go way!@@Meebop meebop.}

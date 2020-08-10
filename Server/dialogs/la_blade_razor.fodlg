@@ -33,7 +33,7 @@ lang=engl czec pols span russ
 {4010}{}{I see.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Razor's the name. What can I do for you?}
@@ -46,7 +46,7 @@ lang=engl czec pols span russ
 {4010}{}{I see.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Razor's the name. What can I do for you?}
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {4010}{}{I see.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Razor's the name. What can I do for you?}
@@ -72,7 +72,7 @@ lang=engl czec pols span russ
 {4010}{}{I see.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{normal}
 {2000}{}{Razor's the name. What can I do for you?}

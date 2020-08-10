@@ -23,7 +23,7 @@ lang=engl czec pols span russ
 {3000}{}{Nothing to report.@@Nothing going on with me, how ‘bout you?@@Shouldn’t you be at your post, soldier? It’s not good to wander about here.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{disguised}
 {1020}{}{member}
@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {3000}{}{Nothing to report.@@Nothing going on with me, how ‘bout you?@@Shouldn’t you be at your post, soldier? It’s not good to wander about here.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{disguised}
 {1020}{}{member}
@@ -39,7 +39,7 @@ lang=engl czec pols span russ
 {3000}{}{Nothing to report.@@Nothing going on with me, how ‘bout you?@@Shouldn’t you be at your post, soldier? It’s not good to wander about here.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{disguised}
 {1020}{}{member}
@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {3000}{}{Nothing to report.@@Nothing going on with me, how ‘bout you?@@Shouldn’t you be at your post, soldier? It’s not good to wander about here.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{disguised}
 {1020}{}{member}

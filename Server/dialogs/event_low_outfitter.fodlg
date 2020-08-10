@@ -41,7 +41,7 @@ lang=engl czec pols span russ
 {4000}{}{You've already received your gear. Next!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Has taken gear}
 {1020}{}{ }
@@ -59,7 +59,7 @@ lang=engl czec pols span russ
 {4000}{}{You've already received your gear. Next!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Has taken gear}
 {1020}{}{ }
@@ -77,7 +77,7 @@ lang=engl czec pols span russ
 {4000}{}{You've already received your gear. Next!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Has taken gear}
 {1020}{}{ }
@@ -95,7 +95,7 @@ lang=engl czec pols span russ
 {4000}{}{You've already received your gear. Next!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Has taken gear}
 {1020}{}{ }

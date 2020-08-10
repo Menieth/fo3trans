@@ -321,7 +321,7 @@ lang=engl czec pols span russ
 {58000}{}{- - - - - - - - - - - - - - - - - - - - QUEST #3 END - - - - - - - - - - - - - - - - - - - -}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Screwed up}
 {1020}{}{acquainted}
@@ -478,7 +478,7 @@ lang=engl czec pols span russ
 {58000}{}{- - - - - - - - - - - - - - - - - - - - QUEST #3 END - - - - - - - - - - - - - - - - - - - -}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Screwed up}
 {1020}{}{acquainted}
@@ -635,7 +635,7 @@ lang=engl czec pols span russ
 {58000}{}{- - - - - - - - - - - - - - - - - - - - QUEST #3 END - - - - - - - - - - - - - - - - - - - -}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Screwed up}
 {1020}{}{acquainted}
@@ -792,7 +792,7 @@ lang=engl czec pols span russ
 {58000}{}{- - - - - - - - - - - - - - - - - - - - QUEST #3 END - - - - - - - - - - - - - - - - - - - -}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Screwed up}
 {1020}{}{acquainted}

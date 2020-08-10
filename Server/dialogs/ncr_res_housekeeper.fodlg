@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {12000}{}{@sex@|Exuse me, sir. But only citizens of NCR can rent houses here. You better head over to the citizenship office.||Exuse me, madam. These houses are for NCR citizens only. You better ask in citizenship office about this.|}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -121,7 +121,7 @@ lang=engl czec pols span russ
 {12000}{}{@sex@|Exuse me, sir. But only citizens of NCR can rent houses here. You better head over to the citizenship office.||Exuse me, madam. These houses are for NCR citizens only. You better ask in citizenship office about this.|}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -159,7 +159,7 @@ lang=engl czec pols span russ
 {12000}{}{@sex@|Exuse me, sir. But only citizens of NCR can rent houses here. You better head over to the citizenship office.||Exuse me, madam. These houses are for NCR citizens only. You better ask in citizenship office about this.|}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}
@@ -197,7 +197,7 @@ lang=engl czec pols span russ
 {12000}{}{@sex@|Exuse me, sir. But only citizens of NCR can rent houses here. You better head over to the citizenship office.||Exuse me, madam. These houses are for NCR citizens only. You better ask in citizenship office about this.|}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Dumb}
 {1020}{}{Unknown}

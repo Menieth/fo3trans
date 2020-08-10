@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {7000}{}{You?! Oh no way, you look so weak! No proper experience! The experiment like this will kill you!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Well, hello... Whoever you are....}
@@ -69,7 +69,7 @@ lang=engl czec pols span russ
 {7000}{}{You?! Oh no way, you look so weak! No proper experience! The experiment like this will kill you!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Well, hello... Whoever you are....}
@@ -90,7 +90,7 @@ lang=engl czec pols span russ
 {7000}{}{You?! Oh no way, you look so weak! No proper experience! The experiment like this will kill you!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Well, hello... Whoever you are....}
@@ -111,7 +111,7 @@ lang=engl czec pols span russ
 {7000}{}{You?! Oh no way, you look so weak! No proper experience! The experiment like this will kill you!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{has no perk}
 {2000}{}{Well, hello... Whoever you are....}

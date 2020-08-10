@@ -19,25 +19,25 @@ lang=engl czec pols span russ
 {2000}{}{Get back to work.@@Whaddya want?@@No loitering.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get back to work.@@Whaddya want?@@No loitering.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get back to work.@@Whaddya want?@@No loitering.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get back to work.@@Whaddya want?@@No loitering.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Get back to work.@@Whaddya want?@@No loitering.}

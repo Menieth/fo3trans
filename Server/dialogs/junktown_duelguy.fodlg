@@ -47,7 +47,7 @@ lang=engl czec pols span russ
 {6000}{}{What do you want?@@Stop bugging me.@@Will you join the fight later?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not available}
 {1020}{}{-}
@@ -65,7 +65,7 @@ lang=engl czec pols span russ
 {6000}{}{What do you want?@@Stop bugging me.@@Will you join the fight later?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not available}
 {1020}{}{-}
@@ -83,7 +83,7 @@ lang=engl czec pols span russ
 {6000}{}{What do you want?@@Stop bugging me.@@Will you join the fight later?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not available}
 {1020}{}{-}
@@ -101,7 +101,7 @@ lang=engl czec pols span russ
 {6000}{}{What do you want?@@Stop bugging me.@@Will you join the fight later?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Not available}
 {1020}{}{-}

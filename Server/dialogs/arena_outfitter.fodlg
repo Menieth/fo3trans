@@ -179,7 +179,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }
@@ -266,7 +266,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }
@@ -353,7 +353,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }
@@ -440,7 +440,7 @@ lang=engl czec pols span russ
 {16030}{}{Firegecko Armor}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Preddialogue settings}
 {1010}{}{Too much stuff}
 {1020}{}{ }

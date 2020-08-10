@@ -155,7 +155,7 @@ lang=engl czec pols span russ
 {100000005}{}{Yes, I am not lying people, the BEST Iguana in the whole Hub!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -220,7 +220,7 @@ lang=engl czec pols span russ
 {21010}{}{Goodbye Pete...}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -285,7 +285,7 @@ lang=engl czec pols span russ
 {21010}{}{Goodbye Pete...}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}
@@ -350,7 +350,7 @@ lang=engl czec pols span russ
 {21010}{}{Goodbye Pete...}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {1020}{}{-}

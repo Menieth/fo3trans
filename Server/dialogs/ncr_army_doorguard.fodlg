@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -54,7 +54,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -70,7 +70,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}
@@ -86,7 +86,7 @@ lang=engl czec pols span russ
 {5000}{}{[ He checks your ID card ] Seems fine. Welcome to Fort Seth, soldier.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{Halt! This is a restricted area, unauthorized person are not allowed. Please leave this place.}

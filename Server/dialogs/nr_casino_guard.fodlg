@@ -22,25 +22,25 @@ lang=engl czec pols span russ
 {2000}{}{Casino's inside. Don't talk to me.@@Casino's INSIDE. IN-SIDE. Fucking moron.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Casino's inside. Don't talk to me.@@Casino's INSIDE. IN-SIDE. Fucking moron.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Casino's inside. Don't talk to me.@@Casino's INSIDE. IN-SIDE. Fucking moron.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Casino's inside. Don't talk to me.@@Casino's INSIDE. IN-SIDE. Fucking moron.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{-}
 {2000}{}{Casino's inside. Don't talk to me.@@Casino's INSIDE. IN-SIDE. Fucking moron.}

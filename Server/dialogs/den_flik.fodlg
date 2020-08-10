@@ -136,7 +136,7 @@ lang=engl czec pols span russ
 {18000}{}{Oh god, your face.@@You're scaring way my customers.@@You're uglier than my ex-wife.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{slaver}
 {1020}{}{ugly}
@@ -200,7 +200,7 @@ lang=engl czec pols span russ
 {18000}{}{Oh god, your face.@@You're scaring way my customers.@@You're uglier than my ex-wife.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{slaver}
 {1020}{}{ugly}
@@ -264,7 +264,7 @@ lang=engl czec pols span russ
 {18000}{}{Oh god, your face.@@You're scaring way my customers.@@You're uglier than my ex-wife.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{slaver}
 {1020}{}{ugly}
@@ -328,7 +328,7 @@ lang=engl czec pols span russ
 {18000}{}{Oh god, your face.@@You're scaring way my customers.@@You're uglier than my ex-wife.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialog settings}
 {1010}{}{slaver}
 {1020}{}{ugly}

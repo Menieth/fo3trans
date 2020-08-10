@@ -31,7 +31,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}
@@ -43,7 +43,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}
@@ -55,7 +55,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}
@@ -67,7 +67,7 @@ lang=engl czec pols span russ
 {5000}{}{That's it! Citizen or not, you're out of here. And I'm revoking your Citizenship. Guards!}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{important citizen night}
 {1020}{}{all others night}

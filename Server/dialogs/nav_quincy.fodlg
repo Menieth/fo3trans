@@ -80,7 +80,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -116,7 +116,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -152,7 +152,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}
@@ -188,7 +188,7 @@ lang=engl czec pols span russ
 {11010}{}{Thanks Quincy, that was really something new for me. I have to go now, bye.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{member unknown}
 {1020}{}{member known}

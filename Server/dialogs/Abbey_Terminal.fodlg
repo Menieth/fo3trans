@@ -78,7 +78,7 @@ lang=engl czec pols span russ
 {12000}{}{God doesn't see this place.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ROBCO Terminal #3476. Welcome. ]}
@@ -114,7 +114,7 @@ lang=engl czec pols span russ
 {12000}{}{God doesn't see this place.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ROBCO Terminal #3476. Welcome. ]}
@@ -150,7 +150,7 @@ lang=engl czec pols span russ
 {12000}{}{God doesn't see this place.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ROBCO Terminal #3476. Welcome. ]}
@@ -186,7 +186,7 @@ lang=engl czec pols span russ
 {12000}{}{God doesn't see this place.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {2000}{}{[ ROBCO Terminal #3476. Welcome. ]}

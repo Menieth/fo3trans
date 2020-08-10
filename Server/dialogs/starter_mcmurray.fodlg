@@ -180,7 +180,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -267,7 +267,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -354,7 +354,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}
@@ -441,7 +441,7 @@ lang=engl czec pols span russ
 {22000}{}{Get away from the gate, damn it!@@Hoo-wee. Someone fell outta the ugly tree.@@Get outta here, you're makin' me nervous.@@Sorry pal, I can't understand a goddamn word you're sayin'.@@Just get lost, alright?}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Answer text}
 {1020}{}{Known}

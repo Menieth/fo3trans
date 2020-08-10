@@ -28,7 +28,7 @@ lang=engl czec pols span russ
 {4000}{}{Get out of here.@@Don't make me get Jacob.@@JACOB! Someone's in here!@@Get out.@@We don't like your kind around here.@@Leave. Now.@@I've got a gun, and I ain't afraid to use it.}
 
 [czec]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Idiot}
@@ -38,7 +38,7 @@ lang=engl czec pols span russ
 {4000}{}{Get out of here.@@Don't make me get Jacob.@@JACOB! Someone's in here!@@Get out.@@We don't like your kind around here.@@Leave. Now.@@I've got a gun, and I ain't afraid to use it.}
 
 [pols]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Idiot}
@@ -48,7 +48,7 @@ lang=engl czec pols span russ
 {4000}{}{Get out of here.@@Don't make me get Jacob.@@JACOB! Someone's in here!@@Get out.@@We don't like your kind around here.@@Leave. Now.@@I've got a gun, and I ain't afraid to use it.}
 
 [span]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Idiot}
@@ -58,7 +58,7 @@ lang=engl czec pols span russ
 {4000}{}{Get out of here.@@Don't make me get Jacob.@@JACOB! Someone's in here!@@Get out.@@We don't like your kind around here.@@Leave. Now.@@I've got a gun, and I ain't afraid to use it.}
 
 [russ]
-{100}{}{main@dlg_Caps}
+{100}{}{none}
 {1000}{}{Predialogue installations}
 {1010}{}{Ioaao}
 {1020}{}{Idiot}
